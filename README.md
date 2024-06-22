@@ -6,8 +6,8 @@ This project, completed as part of CS 7290, involves the analysis of disease dat
 This project was inspired based on a rumor that the World Health Organization (WHO) slightly delays reporting of widespread disease outbreaks when "politically convenient." 
 
 ## Contributors
-- **Nickhil Tekwani**
-- **Kenneth Church**
+- Nickhil Tekwani
+- Kenneth Church
 
 ## Data Sources
 - Promed
@@ -38,9 +38,4 @@ This project was inspired based on a rumor that the World Health Organization (W
 ### West Nile Virus, Salmonella, Rabies
 - Insufficient WHO data for detailed analysis.
 
-## Visualization Examples
-### Avian Flu Monthly Counts
-![Avian Flu Monthly Counts](images/avian_flu_monthly_counts.png)
-
-### Cholera Weekly Counts (2007-2010)
-![Cholera Weekly Counts](images/cholera_weekly_counts.png)
+## Project Proposal Poster
