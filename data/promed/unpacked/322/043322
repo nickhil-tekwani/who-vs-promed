@@ -1,0 +1,344 @@
+<header id=043322>
+Published Date: 2021-01-28 07:11:09 EST
+Subject: PRO/AH/EDR> COVID-19 update (37): neutralizing antibodies, variant updates, WHO, global
+Archive Number: 20210128.8144160
+</header>
+<body id=043322>
+CORONAVIRUS DISEASE 2019 UPDATE (37): NEUTRALIZING ANTIBODIES, VARIANT UPDATES, WHO, GLOBAL
+*******************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] Anti-spike antibody therapy
+[2] Variant updates
+[3] WHO: daily new cases reported (as of 27 Jan 2021)
+[4] Global update: Worldometer accessed 27 Jan 2021 18:27 EST (GMT-5)
+
+******
+[1] Anti-spike antibody therapy
+Date: Thu 21 Jan 2021
+Source: JAMA [edited]
+https://jamanetwork.com/journals/jama/fullarticle/2775647
+
+
+ref: Gottlieb RL, Nirula A, Chen P, et al. Effect of bamlanivimab as monotherapy or in combination with etesevimab on viral load in patients with mild to moderate COVID-19: A Randomized Clinical Trial. JAMA. 2021 Jan 21. doi: 10.1001/jama.2021.0202. Epub ahead of print. PMID: 33475701
+--------------------------------------------------------------------------------
+Abstract
+--------
+Importance
+Coronavirus disease 2019 (COVID-19) continues to spread rapidly worldwide. Neutralizing antibodies are a potential treatment for COVID-19.
+
+Objective
+To determine the effect of bamlanivimab monotherapy and combination therapy with bamlanivimab and etesevimab on severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) viral load in mild to moderate COVID-19.
+
+Design, setting, and participants
+The BLAZE-1 study is a randomized phase 2/3 trial at 49 US centers including ambulatory patients (N = 613) who tested positive for SARS-CoV-2 infection and had 1 or more mild to moderate symptoms. Patients who received bamlanivimab monotherapy or placebo were enrolled first [17 Jun-21 Aug 2020] followed by patients who received bamlanivimab and etesevimab or placebo [22 Aug-3 Sep 2020]. These are the final analyses and represent findings through [6 Oct 2020].
+
+Interventions
+Patients were randomized to receive a single infusion of bamlanivimab (700 mg [n = 101], 2800 mg [n = 107], or 7000 mg [n = 101]), the combination treatment (2800 mg of bamlanivimab and 2800 mg of etesevimab [n = 112]), or placebo (n = 156).
+
+Main outcomes and measures
+The primary end point was change in SARS-CoV-2 log viral load at day 11 (+/- 4 days). 9 prespecified secondary outcome measures were evaluated with comparisons between each treatment group and placebo, and included 3 other measures of viral load, 5 on symptoms, and 1 measure of clinical outcome (the proportion of patients with a COVID-19-related hospitalization, an emergency department [ED] visit, or death at day 29).
+
+Results
+Among the 577 patients who were randomized and received an infusion (mean age, 44.7 [SD, 15.7] years; 315 [54.6%] women), 533 (92.4%) completed the efficacy evaluation period (day 29). The change in log viral load from baseline at day 11 was -3.72 for 700 mg, -4.08 for 2800 mg, -3.49 for 7000 mg, -4.37 for combination treatment, and -3.80 for placebo. Compared with placebo, the differences in the change in log viral load at day 11 were 0.09 (95% CI, -0.35 to 0.52; P = .69) for 700 mg, -0.27 (95% CI, -0.71 to 0.16; P = .21) for 2800 mg, 0.31 (95% CI, -0.13 to 0.76; P = .16) for 7000 mg, and -0.57 (95% CI, -1.00 to -0.14; P = .01) for combination treatment. Among the secondary outcome measures, differences between each treatment group vs the placebo group were statistically significant for 10 of 84 end points. The proportion of patients with COVID-19-related hospitalizations or ED visits was 5.8% (9 events) for placebo, 1.0% (1 event) for 700 mg, 1.9% (2 events) for 2800 mg, 2.0% (2 events) for 7000 mg, and 0.9% (1 event) for combination treatment. Immediate hypersensitivity reactions were reported in 9 patients (6 bamlanivimab, 2 combination treatment, and 1 placebo). No deaths occurred during the study treatment.
+
+Conclusions and relevance
+Among nonhospitalized patients with mild to moderate COVID-19 illness, treatment with bamlanivimab and etesevimab, compared with placebo, was associated with a statistically significant reduction in SARS-CoV-2 viral load at day 11; no significant difference in viral load reduction was observed for bamlanivimab monotherapy. Further ongoing clinical trials will focus on assessing the clinical benefit of antispike neutralizing antibodies in patients with COVID-19 as a primary end point.
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+["Bamlanivimab (also known as LY3819253 or LY-CoV555) and etesevimab (LY3832479 or LY-CoV016) are potent antispike neutralizing monoclonal antibodies that were derived from 2 separate patients who recovered from COVID-19 in North America and China, respectively.
+
+This report presents the final data set for patients randomized to the 4 treatment groups and the placebo group in the initial portion of the trial, including findings for the bamlanivimab and etesevimab combination group, the 3 bamlanivimab monotherapy groups, and the placebo group."
+
+To summarize, combination therapy with monoclonal antibodies had some impact in nonhospitalized patients when compared to monotherapy. Further data would be helpful in understanding whether the greater reduction of viral load shown by combination therapy would eventually translate to clinical benefit compared with monotherapy. - Mod.UBA]
+
+******
+[2] Variant updates
+[A] Emerging SARS-CoV-2 variants
+Date: Tue 26 Jan 2021
+Source: The Scientist [edited]
+https://www.the-scientist.com/news-opinion/a-guide-to-emerging-sars-cov-2-variants-68387
+
+
+SARS-CoV-2 is no Ferrari among viruses when it comes to mutations. Scientists reckon that its 30 000-base RNA genome acquires around 2 single-letter mutations a month, a rate around half as fast as influenza and one-quarter the rate of HIV. But allowed to multiply and jump from body to body for more than a year, SARS-CoV-2 has inevitably flourished into a genetically diverse tree branching into countless different variants.
+
+Many variants -- defined by a specific assortment of mutations -- are relatively unremarkable. But scientists have been keeping a close watch on 3 rapidly spreading variants -- first identified in the UK, South Africa, and Brazil -- which harbor an unusual constellation of mutations. They all share a mutation called N501Y that affects the receptor binding domain (RBD) of the spike protein, which the virus uses to clasp onto human cells' receptors and enter them. That mutation replaces SARS-CoV-2's 501st amino acid, asparagine, with tyrosine, potentially allowing it to bind more tightly to ACE2 receptors, studies in cells and animal models suggest.
+
+By itself, that mutation isn't unusual, but the variants possess an exceptionally large number of other mutations, some also on the spike protein. Substantive changes to a virus' behavior, such as heightened transmissibility, are likely the result of multiple mutations rather than individual ones, molecular epidemiologist Emma Hodcroft of the University of Bern tells The Atlantic.
+
+The observation that similar mutations have appeared in 3 independent variants, and the fact that they are spreading, makes scientists suspect that they may have an evolutionary edge.
+
+"They have multiple, 8 to 10, mutations in the spike protein all stacked up at once -- that suggests that there [is] a lot of evolution and adaption of the protein happening," Daniel Jones, a molecular pathologist at the Ohio State University, tells The Scientist. "The concern being that since that's the target of vaccinations and ... the target for antibody [therapies] like the Regeneron cocktail, for instance, that it might be the beginning of a virus that could evade antibody therapy and/or vaccine coverage."
+
+SARS-CoV-2 mutations' effects on transmissibility
+-------------------------------------------------
+It's often in a virus' interest to become more transmissible so it can spread and replicate more quickly. Earlier in the pandemic, a spike protein mutation known as D614G -- which is widely believed to have made the virus more transmissible -- surged to dominance around the world, notes virologist John Moore of Weill Cornell Medical College.
+
+Epidemiological data suggest that the B.1.1.7 variant, a descendant of the D614G lineage first identified in the UK that has spread to other parts of the world, also has heightened transmissibility. 8 of the 17 mutations it has recently accumulated are in the spike protein, which could feasibly have an effect on ACE2 binding and virus replication. Hypothetically, if a virus can bind more tightly to the body's ACE2 receptors, it could be more capable of establishing an infection once it gets into the body and/or of generating more viral particles in the upper respiratory tract, making it easier to transmit to other people, particularly during the presymptomatic stage, explains Theodora Hatziioannou, a virologist at the Rockefeller University in New York. She adds that in her view, it's hard to definitively ascribe case surges, including the current one in the UK, to single factors such as increased transmissibility, over other driving factors, such as what she sees as ineffective lockdown policies. "I'm not saying that [increased] transmissibility is out of the question. I'm just saying it's extremely hard to prove."
+
+In South Africa, epidemiologists have estimated that the new variant there, B.1.351 (also known as 501Y.V2), is around 50 percent more contagious compared with dominant lineages, based on its rapid spread, according to The Wall Street Journal.
+
+In Brazil, it's too early to conclude whether a variant now circulating there, called P.1, is inherently more transmissible. First reported on [12 Jan 2021] in the state of Amazonas, it's been associated with a devastating surge in cases in Manaus, a city where researchers had previously estimated that 75 percent of residents had already been infected with SARS-CoV-2. But it's still unclear whether properties of the virus itself are contributing to the surge, says virologist Paola Resende of the Oswaldo Cruz Institute in Rio de Janeiro. "In Brazil, we can see a lot of parties, we can see the pubs crowded, and people are on the streets not wearing masks. I think this behavior of the population is the main reason [for] the increase."
+
+Evading the immune system
+-------------------------
+Our immune system -- and, in particular, antibodies -- is a powerful evolutionary force on viruses. Some pathogens such as influenza, and maybe also common cold-causing coronaviruses, mutate their proteins toward new shapes to avoid being targeted by antibodies that would normally prevent them from infecting cells, a process known as antigenic drift. A study recently posted as a preprint to bioRxiv [see ref 1 below] by Hatziioannou and her colleagues suggests that the RBD mutations present in the B.1.351 variant are due to antigenic drift. The team passaged a model virus bearing the dominant SARS-CoV-2 spike protein in the presence of individual neutralizing antibodies extracted from people who had received either the Moderna or Pfizer/BioNTech vaccine. Depending on which antibody they were cultured with, the viruses would gradually adopt a single mutation -- either E484K, K417N, and N501Y -- which are present in B.1.351. That suggests that "the virus is mutating in these positions to avoid antibodies," Hatziioannou says.
+
+Such antibody-escape mutations don't necessarily mean that the virus will cause more severe disease or entirely outwit the immune response, she cautions. There are other parts of the immune system to help clear the virus. There's no evidence so far to suggest that the variants identified in South Africa or Brazil are more lethal. Based on an analysis of several datasets, scientists in the UK suggested last week [week of 18 Jan 2021] there's a "realistic possibility" that B.1.1.7 is deadlier than previous strains, but experts say it's still too early to draw that conclusion. Another concern is about whether people who have overcome mild infections with older variants could become reinfected with a new one.
+
+In a yet-to-be-peer-reviewed study [see ref 2 below] , scientists in South Africa investigated that possibility by testing the potency of antibodies from 44 COVID-19 survivors against the B.1.351 variant. Remarkably, serum samples from 21 patients were not capable of neutralizing the virus in vitro. Antibodies from hospitalized patients with more severe disease were more effective against the virus compared to those who had only mild symptoms. "These data highlight the prospect of reinfection with antigenically distinct variants," the authors reported.
+
+There's less information on the P.1 variant, which health officials in Minnesota reported [25 Jan 2021] has been detected there, marking the 1st observation in the US. Because its mutation pattern is similar to B.1.351 -- namely, it shares the E484K and K417N RBD mutations -- "there would be reasons to believe that what applies for one would likely apply to the other," Moore notes.
+
+Resende and her colleagues have recently documented 2 cases when people became reinfected with a new variant. In one, the reinfection was caused by P.1. The other incident of reinfection was caused by P.2, a closely watched emergent sister variant that carries fewer changes overall but harbors the N501Y and E484K mutations. Given that reinfections are known to occur with SARS-CoV-2, albeit rarely, such anecdotal observations don't tell researchers if it's more likely to happen with the new variants. Nevertheless, "all mutations located in the receptor binding domain, we need to pay attention to," Resende says.
+
+Implications for vaccine efficacy
+---------------------------------
+Such escape mutations in the RBD -- a site most vaccines are targeting -- don't bode well for vaccinated individuals, who could theoretically be vulnerable to infection by a new variant. While mRNA vaccines, such as the ones developed by Pfizer/BioNTech and Moderna, are relatively straightforward to update, the processes of seeking regulatory approvals and producing a new vaccine aren't trivial, Moore notes.
+
+Antigenic escape is not much of a concern with B.1.1.7, "because the location of the mutation suggested that it wouldn't be an escape mutation," Moore says. "Nobody that I know has been losing a moment of sleep over the UK variant from a vaccine-efficacy perspective." Indeed, Pfizer and BioNTech recently reported preliminary data suggesting that their mRNA vaccine is just as effective against B.1.1.7 as it is against the variant that originated in Wuhan.
+
+Researchers are still investigating the effect of the P.1 variant's vulnerability to vaccines in Brazil, Resende says. As for the B.1.351 variant, a 2nd experiment in Hatziioannou's study provides some insights. She and her colleagues examined antibody-containing plasma from 20 people who had either received the Moderna or the Pfizer/BioNTech vaccine. The team tested the plasma against the dominant SARS-CoV-2 spike protein and pseudoviruses engineered to have the variant's RBD mutations, either individually or in combination. The antibodies proved significantly less effective in neutralizing the pseudoviruses compared to pseudoviruses with the original spike protein, with a 1- to 3-fold decrease in antibody potency. "It's a really small difference," she says, adding that it's not entirely clear why the South African team -- testing antibodies from survivors of natural infections against the actual RBD protein -- observed a more dramatic drop in antibody potency.
+
+This week, Moderna reported preliminary results from a separate in vitro examination of sera from 8 people who had received 2 doses of the company's vaccine. According to a press release, company scientists observed a reduction in antibody potency with the B.1.351 variant compared to prior variants, but the level of neutralizing antibodies "remain above levels that are expected to be protective." The B.1.1.7 variant had no impact on antibody potency.
+
+"There are grounds for concern [with vaccines], but the sky isn't falling," Moore says. Some researchers have pointed out that in addition to antibodies, there are other components of immune memory, which could prevent severe reinfections with novel variants. And because the vaccines -- at least the ones examined in the study -- are so effective, "even if antibody effectiveness were reduced tenfold, the vaccines would still be quite effective against the virus," evolutionary biologist Jesse Bloom of the Fred Hutchinson Cancer Research Center in Seattle tells The New York Times.
+
+Hatziioannou anticipates that if variants are left to spread for longer and accumulate many more mutations, vaccine manufacturers may have to update their vaccines at some point, as is done with annual flu shots. For now, "I think the vaccine will still work," she says. "But this is the 1st step: it's a little bit of resistance, and then [with] the next set of mutations a little bit more, and the next set of mutations a little bit more, until eventually we get to something that's significantly more resistant."
+
+Meanwhile, new variants are on the horizon. This month [January 2021], Jones and his colleagues discovered a novel variant in Columbus, Ohio, that lacks the complexity of mutations of the major 3 variants, but possesses the N501Y sequence. "It's really this November, December [2020] timeframe, where we've seen all of these alternate viruses with the N501Y mutation go from low levels in the population to a very significant percentage," he says. The COH.20G/501Y variant from Ohio has since also been found elsewhere in the US, but its rate of spread is hard to determine.
+
+A 2nd mutation that has popped up frequently in Jones's recent samples and in other Midwestern states is located outside the spike (S) RBD. "It's in a conserved area that regulates the cleavage of the S protein, [which] has also raised the possibility that this could be a functional change in the virus."
+
+L452R, a different mutation that appears to be spreading, was recently associated with large outbreaks in California, but experts say it's not clear if it's more infectious.
+
+Variants are a numbers game, Moore says: give a virus more bodies and more time to spread, and novel variants are certain to emerge. The good news, Resende points out, is that all variants -- be they existing or future ones -- can in principle be controlled with the same measures: "washing our hands, wearing masks, avoiding crowded places."
+
+Side-by-side comparisons of important SARS-CoV-2 variants
+---------------------------------------------------------
+A range of SARS-CoV-2 variants has emerged across the world since the COVID-19 pandemic began. Most attention has been on fast-spreading variants recently identified in the UK, South Africa, and Brazil. Scientists suspect that the variants' particular patterns of mutations have the potential to affect their transmissibility, virulence, and/or ability to evade parts of the immune system. The latter could make people with vaccine-induced or natural immunity to SARS-CoV-2 vulnerable to becoming reinfected with novel variants, and these possible effects remain under investigation.
+
+There are a handful of other variants -- typically with fewer eye-catching mutations -- that researchers are also keeping a close watch on, notes molecular epidemiologist Emma Hodcroft of the University of Bern in Switzerland. Making matters confusing, scientists can't agree on a standardized naming system for new variants, causing what one researcher has called a "bloody mess" of nomenclature.
+
+Here [see source URL above] The Scientist compiles a summary of some noteworthy variants recently associated with rapid spread that US researchers are currently monitoring.
+
+[Byline: Katarina Zimmer]
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[References
+----------
+1. Wang Z, Schmidt F, Weisblum Y, et al. mRNA vaccine-elicited antibodies to SARS-CoV-2 and circulating variants. bioRxiv [Preprint]. 2021 Jan 19: 2021.01.15.426911. doi: 10.1101/2021.01.15.426911. PMID: 33501451; PMCID: PMC7836122; https://www.biorxiv.org/content/10.1101/2021.01.15.426911v1.
+2. Wibmer CK, Ayres F, Hermanus T, et al. SARS-CoV-2 501Y.V2 escapes neutralization by South African COVID-19 donor plasma. bioRxiv [Preprint]. 2021 Jan 19: 2021.01.18.427166. doi: 10.1101/2021.01.18.427166. PMID: 33501446; PMCID: PMC7836116; https://www.biorxiv.org/content/10.1101/2021.01.18.427166v1]
+
+----
+[B] PAHO update
+Date: Tue 26 Jan 2021
+Source: Pan American Health Organization (PAHO) [abridged, edited]
+https://www.paho.org/en/documents/epidemiological-update-occurrence-variants-sars-cov-2-americas-26-january-2021
+
+
+Epidemiological update: Variants of SARS-CoV-2 in the Americas -- 26 Jan 2021
+-----------------------------------------------------------------------------
+Highlights
+----------
+- It has recently been documented that people infected with the VOC 202012/01variant have a higher risk of death than people infected with other variants.
+- Preliminary studies suggest that the 501Y.V2variant is associated with a higher viral load, which could suggest a potential for greater transmissibility.
+- An increase in the proportion of cases associated to the P.1 variant lineage B1.1.28 has been documented in Manaus (Amazonas State, Brazil). This proportion represented 52.2% (n = 35/67) of the genotyped samples of SARS-CoV-2 in December 2020, and increased to 85.4% (n = 41/48) in January 2021.
+
+
+Genomic characterization of SARS-CoV-2
+--------------------------------------
+- VOC 202012/01 variant, lineage B.1.1.7
+On [14 Dec 2020], the United Kingdom authorities notified WHO of a variant named by the UK as SARS-CoV-2 VOC 202012/01. This variant contains 23 nucleotide substitutions and is not phylogenetically related to the SARS-CoV-2 virus circulating in the UK at the time it was detected. It is unclear how and where it originated.
+
+Recent findings and preliminary data, published by the UK government indicate:
+- The variant VOC 202012/01, B.1.1.7 appears to have substantially increased transmissibility compared to other variants and has grown quickly to become the dominant variant in much of the UK.
+- According to the initial assessment by Public Health England (PHE) on the severity of the disease through a matched case-control study reported no significant difference in the risk of hospitalization or death in people infected with confirmed B.1.1.7infection versus infection with other variants.
+- Based on different analysis of deaths in persons who were positive for variant B.1.1.7 versus those infected with other variants, there is a real possibility that the 1st group of people (those infected with variant B. 1.1.7), have an increased risk of death compared to infection with non-VOC viruses.
+
+As of [25 Jan 2021], 62countries and territories outside of the UK in all 6 WHO Regions have reported either imported cases or community transmission of VOC 202012/01; this represents 2 additional countries and territories since the publication of the [20 Jan 2021] Epidemiological Update on Occurrence of variants of SARS-CoV-2 in the Americas by PAHO." [https://www.paho.org/en/documents/epidemiological-update-occurrence-variants-sars-cov-2-americas-20-january-2021]
+
+- 501.V2, variant lineage B.1.351
+On [18 Dec 2020], South African national authorities announced the detection of a new variant of SARS-CoV-2 that is spreading rapidly in 3 South African provinces. South Africa has named this variant 501Y.V2, due to a N501Y mutation. While the VOC 202012/01 variant also has the N501Y mutation, phylogenetic analysis has shown that the 501Y.V2 detected in South Africa is a different variant.
+
+Genomic data highlighted that the 501.V2 variant rapidly displaced other lineages circulating in South Africa. Preliminary studies suggest that this variant is associated with a higher viral load, which could suggest a potential for greater transmissibility. However, further investigation of this and other factors that influence transmissibility is necessary.
+
+Also, at this stage of ongoing research, there is no clear evidence that the new variant is associated with more severe disease or worse outcome. More research is needed to understand the impact on transmission, clinical severity of infection, laboratory diagnostics, therapeutics, vaccines, or public health preventive measures. Although this new variant does not appear to cause more serious disease, the rapid increase in the number of cases has put health systems under pressure.
+
+As of [25 Jan 2021], 30 countries outside of South Africa in 5 of the 6 WHO Regions have reported cases of 501Y.V2; this represents 7 additional countries and territories since the publication of the [20 Jan 2021] Epidemiological Update on Occurrence of variants of SARS-CoV-2 in the Americas by PAHO." However, no increase in circulation or sustained increase in the spread of this variant has been reported in these countries or territories.
+
+Further epidemiological and virological research is underway to further assess the transmissibility, severity, risk of reinfection, and antibody response to these new variants, as well as the potential impact on public health measures, including diagnosis, treatment, and vaccines.
+
+- Other variants of potential public health interest
+In addition to the variants already mentioned, Brazil, Japan, and the United States of America, have reported the detection of variants. The extent and public health significance of these new variants require further epidemiological and laboratory investigation.
+
+Lineage B.1.1.28
+The lineage was described for the 1st time in Brazil on [5 Mar 2020] by the Adolfo Lutz Institute in a 22-year-old patient. This lineage has been circulating in the UK (3.0%, in Australia (1.0%), in the United States (1.0%), and in Portugal (1.0%).
+
+Variant P.1, lineage B.1.1.28
+On [9 Jan 2021], Japan notified WHO about a new variant of SARS-CoV-2, B.1.1.28 (initially reported as B.1.1.248), detected in 4 travelers from Brazil. This variant is not closely related to the SARS-CoV-2 VOC 202012/01 variant or to the 501Y.V2 variant, and it was identified in Manaus, Amazonas State, Brazil in December 2020 (Figures 2, 3 -- available at the source URL above)
+
+This variant has 12 mutations to the spike protein, including 3 mutations of concern in common with 501Y.V2, that is, K417N/T, E484K, and N501Y, which may impact transmissibility and host immune response.
+
+According to a group of researchers from Brazil, a recent increase in the proportion of P.1 cases has been observed in Manaus, Amazonas. P.1 was not detected in Manaus between March and November 2020, however, 52.2% (n = 35/67) of the genotyped samples of SARS-CoV-2 from December [2020] were caused by P.1 and in January 2021, the proportion increased to 85.4% (n = 41/48). They also detected an increase in the proportion of cases of the P.2 variant in December 2020 to 25.4% (n = 17/67), but a decrease to 6% in January 2021. The proportion of other lineages decreased from 96.3% between March and November 2020 to 8.3% in January 2021.
+
+The new analysis suggests that the most recent cases in Manaus are being caused by local transmission of P.1, although P.2 and other lineages may still be circulating. These results should be considered preliminary at this stage. Larger representative datasets are required to investigate in more detail changes in the frequency of this lineage in Manaus and elsewhere.
+
+Conclusions and guidance for national authorities
+-------------------------------------------------
+National and local authorities should continue to strengthen existing disease control activities, including monitoring COVID-closely through ongoing epidemiological surveillance and strategic testing; conducting outbreak investigation and contact tracing; and where appropriate, adjusting public health and social measures to reduce transmission of SARS-CoV-2.
+
+The data and information available indicate that both variants of concern (VOC 202012/01 and 501Y.V2) have been identified in the Americas. The frequency of detection of these variants is still very limited to date. Nonetheless, it is expected that the detection of these variants will gradually increase in the coming weeks and months.
+
+In addition to global circulation patterns, detection of SARS-CoV-2 variants in a specific country and location also depends on each country's capacity to conduct genomic surveillance.
+
+PAHO/WHO has supported strengthening the capacity of each country to carry out genomic surveillance since March 2020 within the framework of the Regional Network for Genomic Surveillance of COVID-19 and urges Member States to participate in this Network and carry out sequencing, in accordance with the recommended samples and the technical approaches of this Network.
+
+In addition to recommending the timely publication of the sequences on the GISAID platform, PAHO/WHO requests that the countries immediately notify the 1st detection of the VOC 202012/01 variant, 501Y.V2 variant, P.1 variant and all other variants that may have a public health impact, at the 1st admin-level based on minimum data in accordance with the WHO document, available at: https://www.who.int/publications/i/item/9789240018440.
+
+Further, it is recommended to constantly monitor sudden and significant changes in incidence (for example, 50% in a period of 2-4 weeks) that occur despite implemented public health and social distancing measures with compliance by the population. Use of the date of onset of symptoms for the calculation and monitoring of the incidence (compared to the date of report) should contribute to improving the monitoring timeliness.
+
+PAHO/WHO recommends that in the event of symptoms suggesting acute respiratory illness during or after travel, travelers are advised to seek medical attention and share their travel history with their healthcare provider. Health authorities should work with the transport and tourism sectors to provide travelers with information to reduce the risk of infection.
+
+In line with the advice provided by the Emergency Committee on COVID-19 at its most recent meeting, WHO recommends that States Parties should regularly re-consider measures applied to international travel in compliance with Article 43 of the International Health Regulations (2005) and continue to provide information and rationale to WHO on measures that significantly interfere with international traffic. Countries are encouraged to implement coordinated, time-limited, risk-based, and evidence-based approaches for health measures in relation to international travel.
+
+In all circumstances, essential travel (such as emergency responders; providers of public health technical support; critical personnel in transport and security sector such as seafarers; repatriations; and cargo transport for essential supplies such as food, medicines and fuel) identified by countries should always be prioritized and facilitated.
+
+Additionally, PAHO/WHO reiterates the recommendations published through COVID-19 Epidemiological Alerts and Updates issued to date and available at https://www.paho.org/en/epidemiological-alerts-and-updates.
+
+--
+Communicated by:
+ProMED Rapporteur Kunihiko Iizuka
+
+[The update above highlights the diversity of the evolving variants and their spread further complicated by the different variants spreading simultaneously to multiple other countries and regions. It also indicates the important role of sustained genomic sequencing for tracking viral evolutionary events, geographic spread, relationship to transmissibility, and pathogenic potential as well as the potential impact on diagnostics and vaccine roll outs. - Mod.UBA]
+
+******
+[3] WHO: daily new cases reported (as of 27 Jan 2021)
+Date: Wed 27 Jan 2021
+Source: WHO [abridged, edited]
+https://covid19.who.int/table
+
+
+*Daily case reports as of 27 Jan 2021 19:11 CET
+
+Surveillance
+------------
+WHO region (no. countries/territories):
+Total confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+--------------------------------------------------------------------------------
+Western Pacific Region (19): 1 375 542 (9091) / 23 808 (210)
+European Region (61): 33 472 928 (179 917) / 722 740 (6542)
+South East Asia Region (10): 12 734 811 (28 732) / 195 762 (512)
+Eastern Mediterranean Region (22): 5 576 021 (24 054) / 132 166 (432)
+Region of the Americas (54): 44 197 482 (211 353) / 1 015 534 (4288)
+African Region (49): 2 506 962 (15 661) / 59 677 (872)
+Cases on an international conveyance (Diamond Princess): 745 (0) / 13 (0)
+
+Confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+Grand total: 99 864 391 (468 808) / 2 149 700 (12 856)
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[The number of countries and territories reporting confirmed cases of COVID-19 to WHO remains 219.
+
+Data by country, area, or territory for 26 Jan 2021 can be accessed at https://promedmail.org/wp-content/uploads/world-pdf/2021%20WHO%20Daily%20Tables%20Jan%2027_1611835280.pdf.
+
+- The Americas region reported 45.1% of daily case numbers and 33.3% of the daily deaths reported in the past 24 hours and maintained its position as the most severely affected region, having reported more than 44.19 million cases. The United States remains the most heavily affected country, followed by Brazil, Colombia, Mexico, and Argentina. 7 additional countries reported more than 1000 cases in the past 24 hours (Canada, Peru, Chile, Bolivia, Guatemala, Honduras and Dominican Republic) and an additional 4 countries (Paraguay, Panama, Ecuador, and Cuba) reported more than 500 but fewer than 1000 cases.
+
+- The European region reported 38.4% of daily case numbers and 50.9% of the daily deaths reported in the past 24 hours, and total cumulative cases reported exceed 33.47 million. Countries not reporting cases include Belgium, and Kazakhstan, among others. France surpassed the UK in the cases reported over last 24 hours, followed by Russia, Germany, Spain, and Portugal reporting more than 10 000 cases in the last 24 hours. Another 15 countries reported more than 1000 cases, and an additional 11 countries reported more than 500 but fewer than 1000 cases.
+
+- The Eastern Mediterranean region reported 5.1% of daily case numbers and 3.4% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 5.57 million cases. Iran maintains its dominance, reporting just over 6400 cases, followed by UAE, Lebanon, Tunisia, and Pakistan. Iraq, Morocco, Jordan, Egypt, Kuwait, Occupied Palestinian Territory and Libya reported more than 500 but fewer than 1000 cases.
+
+- The African region reported 3.3% of daily case numbers and 6.8% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 2.50 million cases. South Africa maintains its dominance, with over 6000 cases, followed by Nigeria, Zambia, Mozambique, and Botswana. Malawi and Rwanda reported more than 500 but fewer than 1000 cases.
+
+- The Western Pacific region reported 1.9% of daily case numbers and 1.6% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 1.37 million cases. Malaysia reported the highest number of cases over last 24 hours, followed by Japan, Philippines, South Korea, and China.
+
+- The South East Asia region reported 6.1% of the daily newly reported cases and 4.0% of reported deaths in the past 24 hours, having reported a cumulative total of more than 12.73 million cases. Indonesia reported over 13 000 cases followed by India with over 12 000 cases, Thailand, Sri Lanka, Bangladesh, Myanmar, and Nepal.
+
+On the Overview tab at the WHO source URL, the epidemic curve of confirmed COVID-19 cases by WHO region, 30 Dec 2019 through 27 Jan 2021, is an excellent visual representation of the pandemic. - Mod.UBA]
+
+******
+[4] Global update: Worldometer accessed 27 Jan 2021 18:27 EST (GMT-5)
+Date: Wed 27 Jan 2021
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at https://promedmail.org/wp-content/uploads/world-pdf/2021%20WORLDDATAJAN27_1611835442.pdf
+
+A 7-day series of cumulative data reported by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/2021%20JAN27WORLD7_1611835565.pdf. - Mod.UBA]
+
+Total number of reported deaths: 2 184 120
+Total number of worldwide cases: 101 433 090
+Number of newly confirmed cases in the past 24 hours: 610 689
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[In the past 24 hours, the USA (154 979), Brazil (63 895), Spain (40 285), and Mexico (27 944) have reported the highest numbers of cases. A global total of 17 170 deaths were reported in the past 24 hours (late 26 Jan to late 27 Jan 2021).
+
+Countries reporting more than 10 000 newly confirmed cases in the past 24 hours (15 countries) include the USA, Brazil, Spain, Mexico, France (26 916), UK (25 308), Russia (17 741), Germany (16 566), Italy (15 191), Portugal (15 073), Colombia (13 953), Indonesia (11 948), India (11 752), and Argentina (10 843). A total of 53 countries reported more than 1000 cases in the past 24 hours; 27 of the 53 countries are from the European region, 13 are from the Americas region, 5 are from the Eastern Mediterranean region, 2 are from the South East Asia region, 3 are from the Western Pacific region, and 3 from the African region.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, case counts have decreased by 9.1%, while daily reported deaths have increased by 4.5%.
+
+Impression: The global daily reported cases are over 600 000 newly confirmed infections daily in the past 24 hours - almost 70 000 more than yesterday (26 Jan 2021) -- and over 101.43 million cumulative reported cases with over 2.18 million reported deaths. Countries in the European and the Americas regions are still showing the largest increases in daily new case counts, even in the face of decreasing reports, although there is a definite increase in reporting in some African countries, with 4 countries reporting more than 1000 cases in the past 24 hours. It does appear as though the major lockdowns in Europe and the Americas are impacting transmission. - Mod.UBA]
+See Also
+COVID-19 update (36): surge, Portugal, Indonesia, vaccines, WHO, global 20210127.8140911
+COVID-19 update (35): South Korea (KN) animal, cat 20210126.8138196
+COVID-19 update (34): vaccine, N-terminal domain, USA ex Brazil, WHO, global 20210126.8137077
+COVID-19 update (33): Sweden, zoo, tiger, lion 20210125.8134087
+COVID-19 update (32): vacc. impact, twins, variant, Japan travel, WHO, global 20210125.8133451
+COVID-19 update (31): foodborne transmission, variants, WHO, global 20210124.8131487
+COVID-19 update (30): vaccination impact, immune escape, variant, WHO, global 20210123.8129255
+COVID-19 update (21): health systems, vaccines, variants, skin, WHO, global 20210117.8111215
+COVID-19 update (20): animal, deer, experimental infection 20210116.8108967
+COVID-19 update (10): IgA, IL-6 receptor agonists, China, WHO, global 20210109.8086465
+COVID-19 update (01): variants, vaccine, Thailand, global, WHO 20210101.8062938
+2020
+----
+COVID-19 update (562): viral load, UK vacc dose, ECDC, WHO 20201231.8061525
+COVID-19 update (561): variants, China serosurvey, psychosis, WHO 20201230.8057135
+COVID-19 update (560): variants, Thailand, viral shedding, WHO 20201229.8054081
+COVID-19 update (550): mutation, query, Thailand, Taiwan, WHO, global, RFI 20201223.8040292
+COVID-19 update (500): frequent rapid tests, vaccine, WHO, global 20201122.7962919
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+Undiagnosed pediatric inflammatory syndrome (05): Europe, USA, COVID-19 assoc 20200518.7340554
+Undiagnosed pediatric inflammatory syndrome (04): USA, UK, PMIS, fatal 20200509.7315405
+Undiagnosed pediatric inflammatory syndrome (03): USA, Europe, COVID-19 susp, RFI 20200505.7299876
+COVID-19 update (150): global, USA state prisons, WHO 20200502.7290671
+COVID-19 update (100): China, S. Korea & high local transmission countries 20200413.7217806
+COVID-19 update (50): China (Hong Kong) animal dog, 2nd case PCR positive, OIE 20200323.7129951
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (41): China, global, clinical pics, asymptomatic trans., WHO 20200210.6976117
+Novel coronavirus (40): animal reservoir, pangolin poss intermediate host, RFI 20200210.6972104
+Novel coronavirus (30): updates, China, Viet Nam, research 20200202.6945658
+Novel coronavirus (20): China, wildlife trade ban 20200127.6922060
+Novel coronavirus (10): China (HU, GD, BJ) 20200119.6898567
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia: China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia: China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+----
+Undiagnosed pneumonia: China (HU): RFI 20191230.6864153
+and other items in the archives
+.................................................sb/uba/mj/lxl
+</body>

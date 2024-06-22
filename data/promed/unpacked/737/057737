@@ -1,0 +1,76 @@
+<header id=057737>
+Published Date: 1997-11-26 18:50:00 EST
+Subject: PRO/EDR> Rotavirus vaccine research: current status (02)
+Archive Number: 19971126.2370
+</header>
+<body id=057737>
+ROTAVIRUS VACCINE RESEARCH: CURRENT STATUS (02)
+***********************************************
+A ProMED-mail post
+See Also
+Rotavirus vaccine research: current status 971124210102
+Rotavirus vaccine trial - Venezuela, Finland 971102123048
+Date: Tue, 25 Nov 1997 10:31:48 -0500 (EST)
+From: Jim Koopman <jkoopman@sph.umich.edu>
+
+The post about rotavirus from Robert LaBudde suggests that a decreased
+vaccine effect statistic value in developing countries as compared to
+developed countries could be due to intestinal interference. I think there
+is a much more highly probable explanation. That is that the standard
+vaccine efficacy statistic estimates a parameter in an all or none vaccine
+model while the rotavirus vaccine conforms to a partial effects model. In
+an all or none vaccine model the chance event that may lead to vaccine
+failure occurs at the time of vaccination. One either gets a fully
+protective effect at that time or no effect at all. In a partial effects
+model, which is a far more realistic model for most vaccines, the chance
+event occurs at the time of contact with infectious virus. At that time
+the immune response has a chance of being overwhelmed and allowing
+infection. If it does allow infection, however, it may decrease the
+severity of infection.
+When a partial effects vaccine is evaluated using a statistic that
+estimates a meaningful parameter only for an all or none vaccine, one would
+expect a much higher statistic value in a developed country than in a
+country with high levels of enteric transmission. That is not because the
+biology is different in those two countries. It is because the statistic
+is not estimating the right parameter. That statistic provides a very
+negatively biased estimate of the partial effects parameter for vaccines
+when many contacts are made with infectious virus, which is certainly the
+case for rotaviruses. More detailed explanation of this can be found in
+chapters 7 and 8 of my course on Compartmental models. This can be found
+on the web at
+<http://www.sph.umich.edu/~jkoopman/802Web/Course.htm.>
+--
+Jim Koopman MD MPH
+Dept. of Epidemiology SPH-1
+109 Observatory St.
+Ann Arbor, MI 48109
+Phone (313) 763-5629 office
+Fax (313) 764-3192
+e-mail: jkoopman@sph.umich.edu
+[Thanks to Jim Koopman for this information. As we it appears we are
+getting far away
+from our limited area of expertise and cannot sustain such a discussion
+here, we are cutting this very interesting and critical string. - Mod.CHC.
+......................................chc/es
+--
+*##########################################################*
+ProMED-mail makes every effort to verify the reports that
+are posted, but the accuracy and completeness of the
+information, and of any statements or opinions based
+thereon, are not guaranteed. The reader assumes all risks in
+using information posted or archived by ProMED-mail. ISID
+and its associated service providers shall not be held
+responsible for errors or omissions or held liable for any
+damages incurred as a result of use or reliance upon posted
+or archived material.
+************************************************************
+Visit ProMED-mail's web site at <http://www.promedmail.org>.
+Send all items for posting to: promed@promedmail.org
+(NOT to an individual moderator). If you do not give your
+full name and affiliation, it may not be posted. Send
+commands to subscribe/unsubscribe, get archives, help,
+etc. to: majordomo@promedmail.org. For assistance from a
+human being send mail to: owner-promed@promedmail.org.
+############################################################
+############################################################
+</body>

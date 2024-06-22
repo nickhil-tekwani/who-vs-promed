@@ -1,0 +1,468 @@
+<header id=002448>
+Published Date: 2020-07-22 11:35:46 EDT
+Subject: PRO/AH/EDR> COVID-19 update (327): risk activities, USA prevalence studies, WHO, global
+Archive Number: 20200722.7599780
+</header>
+<body id=002448>
+CORONAVIRUS DISEASE 2019 UPDATE (327): PERSONAL RISK ACTIVITIES ASSESSMENT, USA POPULATION PREVALENCE STUDIES, SELECTED COUNTRIES, WHO, GLOBAL
+**********************************************************************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] Navigating risk in a pandemic
+[2] USA: prevalence studies, MMWR
+[3] Al Jazeera brief country updates
+[4] Selected countries
+[5] WHO situation report 183 (as of 21 Jul 2020)
+[6] Global update: Worldometer accessed 21 Jul 2020 21:45 EDT (GMT-4)
+
+******
+[1] Navigating risk in a pandemic
+Date: Tue 21 Jul 2020
+Source: Wired [abridged, edited]
+https://www.wired.com/story/to-navigate-risk-in-a-pandemic-you-need-a-color-coded-chart/
+
+
+Half a year since the emergence of Covid-19 and months since cities and states went into lockdown - and, to varying degrees, came out again - we're more than familiar with the basics of what we should do to protect ourselves: Stay home if you can, social distance when you can't, and wear a mask when you have to be less than arms-length from people. That guidance is simple - too simple, perhaps. It doesn't account for the complexities of how to live in a pandemic, or answer the questions that come up every day. Is it safe to return to an office? To undergo procedures at the dentist? To sit in a doctor's waiting room? If you want to exercise, is shooting hoops smarter than tennis? If you need solace, is a library safer than church?
+
+There's no federal guidance for such questions, but there are beginning to be guides: color-coded charts that estimate the relative risks of everyday activities.
+
+The 1st to be published, the Covid-19 Risk Index [available at: https://static1.squarespace.com/static/5ed1588a45f60d321b51953b/t/5f076480a3a15f75bc7869d7/1594320002411/COVID-19+risk+infographic_withAuthors.jpg), is the creation of 3 public health experts. Ezekiel J. Emanuel, chair of the department of medical ethics and health policy at the University of Pennsylvania, and formerly an adviser in the Obama White House, launched the guide in a personal blog post on [30 Jun 2020], explaining that the team plotted possible activities on a matrix with 4 axes: whether an activity would occur in an enclosed space; whether it would attract a crowd; whether it would subject someone to "forceful exhalations" (sneezing, yelling, singing or coughing); and how long the activity would last. The other authors are James P. Phillips, a physician and the chief of disaster medicine at George Washington University Hospital, and Saskia Popescu, an infectious disease epidemiologist at the University of Arizona. The goal, she says, is to move communication about Covid-19 risks away from a binary "do this/don't do that" message. "We wanted people to understand, as life opens up, that there is a range of possible risks, and there are things you can do to stay safe, and things you might want to avoid," she says.
+
+Giving people permission to do things that seem likely to be safe was an important part of formulating the next guide to be published [available at: https://www.texmed.org/uploadedFiles/Current/2016_Public_Health/Infectious_Diseases/309193%20Risk%20Assessment%20Chart%20V2_FINAL.pdf], which was drawn up by the Covid-19 Task Force of the Texas Medical Association and released [8 Jul 2020]. Like the Emanuel group's guide, the Texas guidance starts in deep green and cascades to bright red, passing through lighter green, yellow and amber. Unlike its immediate predecessor, it stacks activities vertically instead of horizontally -- and it also subdivides each color group into more and less risky activities. Within the light greens, for instance, it ranks playing golf as less risky than walking through a busy downtown; among the ambers, it judges a hair salon visit as less risky than a plane ride. (Since it originates in Texas, home of some of the country's largest mega-churches, it specifically lists "religious service with 500+ worshippers" as something to avoid.)
+
+The problem is, there still isn't that much. Though possibly tens of thousands of papers on the novel coronavirus have been published or uploaded to preprint servers since January [2020], there hasn't been sufficient time for experiments that definitively prove the risks of different exposures. There are extant papers, though, on exposure risks in the earlier coronavirus epidemics: SARS in 2003 and MERS beginning in 2012. And there's abundant literature on other respiratory and airborne pathogens. The task force borrowed whatever seemed useful, and layered their best clinical judgment on top. "We consider these to be consensus guidelines based on expert opinion," Alozie says.
+
+David McCandless, a journalist and data visualization artist who runs the design consultancy Information is Beautiful, has been thinking about those underlying problems. (His own version of the risks of different activities goes left to right but only from yellow through orange to red; it relies not on blocks or bars, but on bubbles of different sizes. [available at < https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/>, scroll approximately midway down.]) Data visualizations, he points out, are driving the news cycles of the pandemic: the charts of job losses, the fever lines of case counts, the progress bars of trackers monitoring drug discovery and vaccine research. "In a climate of anxiety, which I believe it's fair to say we're in, there is a hunger for guidance," he says...
+
+Yet it's possible they can distort strategic thinking, by conveying more certainty than actually exists. "Risk is a tricky thing to communicate," he says. "You take what is ultimately qualitative--it has to be qualitative, because you are measuring environmental and human pressures, and things you can't control--and you crystallize it into a chart. And suddenly everything is very distinct."....
+
+At Georgia Tech in Atlanta, a team led by Joshua Weitz, who directs the Interdisciplinary Graduate Program in Quantitative Biosciences, is trying to address that certainty problem by building a risk map that is grounded in data that addresses hazard and risk. Their Covid-19 Event Risk Assessment Tool [available at https://covid19risk.biosci.gatech.edu/] uses data on new and recent cases, harvested from state health departments and collated by the volunteer COVID Tracking Project, and subjects it to an algorithm that accounts for a predictable level of under-reporting because of the scarcity of tests. It feeds that result in a mathematical model designed to answer this question: What is the probability that someone capable of spreading Covid-19 is attending any large event? The answers are plotted onto a county-level heat map of the United States using the classic hazard colors, though slightly softened instead of glaring: a pale yellow down to a deep bruised red... One of the site's features is a slider which the user can use to choose the size of the event, from as few as 10 people ("a dinner party," Weitz estimates) to as many as 10 000 for sports events.
+
+It is a daunting view. But Weitz points out that the map doesn't only show us how much we are at risk. It also shows us that lowering risk is possible. "I hope this empowers people to ask political leaders: 'Why are we in this situation when others are not?'" he asks. "I'd like to think that people could use the site as a means to talk to a city council member, a school board, their business, and say, 'We can do better because these other places are doing better.'"
+
+That's a hopeful interpretation. It turns the standard risk chart, the bars and blocks that confine us to where we can exist without danger, into something quite different--into a road map, laid out in the colors of safety, that could lead us to where we want to be instead.
+
+[Byline: Maryn McKenna]
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[Fascinating article with multiple different approaches addressing the problems. Each of these tools has application in the reality side of assessing the risk of an activity and help the individual decide if they are willing to take that level of risk. I highly recommend reading the full article at the source URL above and looking at each of the links provided. While this was aimed at users in the USA, all but the last (USA risk map) are applicable in many countries around the world, especially in urban environments. - Mod.MPP]
+
+******
+[2] USA: prevalence studies, MMWR
+[A] Indiana
+Date: Tue 21 Jul 2020
+Source: CDC. MMWR Morb Mortal Wkly Rep 2020; 69 (early release) [edited]
+https://www.cdc.gov/mmwr/volumes/69/wr/mm6929e1.htm
+
+
+ref: Menachemi N, Yiannoutsos CT, Dixon BE, et al. Population point prevalence of SARS-CoV-2 infection based on a statewide random sample -- Indiana, April 25-29, 2020. MMWR Morb Mortal Wkly Rep. ePub: 21 Jul 2020
+--------------------------------------------------------------------------------
+Summary
+What is already known about this topic?
+No state has conducted a random sample study to determine the population prevalence of SARS-CoV-2 infection at a given point in time.
+
+What is added by this report?
+In a random sample of Indiana residents aged greater than or equal to 12 years, the estimated prevalence of current or previous SARS-CoV-2 infection in late April 2020 was 2.79%. Among persons with active infection, 44% reported no symptoms.
+
+What are the implications for public health practice?
+The number of reported cases represents an estimated one of 10 infections. Given that many persons in Indiana remain susceptible, adherence to evidence-based public health mitigation measures (such as, social distancing, consistent and correct use of face coverings, and hand hygiene) is needed to reduce surge in hospitalizations and prevent morbidity and mortality from COVID-19.
+
+--
+Communicated by:
+ProMED-mail
+<promed@rpomedmail.org>
+
+[Among those individuals with positive PCR tests, 44% denied having any symptoms in the 2 weeks preceding the PCR testing. Among those households with a confirmed case of COVID-19, others in the household were 15 times more likely to be PCR positive. The survey also demonstrated that racial minorities were disproportionately affected with 22.8% having a positive PCR and an additional 5.8% being seropositive, indicative of a prior infection. This study further supports the prior estimates that the true number of infections is at least 10 times the number of reported infections due to mild cases and asymptomatic infections that never come to the attention of the health sector. - Mod.MPP
+
+HealthMap/ProMED map of Indiana, United States: https://promedmail.org/promed-post?place=7599780,217]
+
+----
+[B] Georgia
+Date: Tue 21 Jul 2020
+Source: CDC. MMWR Morb Mortal Wkly Rep 2020; 69 (early release) [edited]
+https://www.cdc.gov/mmwr/volumes/69/wr/mm6929e2.htm
+
+
+ref: Biggs HM, Harris JB, Breakwell L, et al. Estimated Community Seroprevalence of SARS-CoV-2 Antibodies -- Two Georgia Counties, April 28-May 3, 2020. MMWR Morb Mortal Wkly Rep. ePub: 21 Jul 2020.
+--------------------------------------------------------------------------------
+Summary
+What is already known about this topic?
+SARS-CoV-2 infection in persons who are asymptomatic or not tested might not be recognized by case-based and syndromic surveillance; therefore, the population prevalence of past infection might be unknown.
+
+What is added by this report?
+A community seroprevalence survey, conducted in 2 counties in metropolitan Atlanta during [28 Apr 2020-3 May 2020], using a 2-stage cluster sampling design and serologic testing, estimated that 2.5% of the population had antibodies to SARS-CoV-2.
+
+What are the implications for public health practice?
+Serologic surveillance can complement case-based and syndromic surveillance. At the time of this survey, most of the 2-county population had not been previously infected with SARS-CoV-2, highlighting the importance of continued mitigation measures to prevent infection, including social distancing, consistent and correct use of face coverings, and hand hygiene.
+
+--
+Communicated by:
+ProMED-mail
+<promed@rpomedmail.org>
+
+[In this survey, only 1/2 of the seropositive individuals gave a history of a COVID-19 like illness of whom 1/3 sought medical attention and "even fewer" were tested for SARS-CoV-2 infection, thereby highlighting the weakness of a syndromic surveillance system capture and a laboratory confirmed case surveillance strategy to follow the progress of the pandemic. Given the surge of cases in both counties surveyed one strongly suspects that a repeat serosurvey would show a significant increase in the seropositivity prevalence in these counties. - Mod.MPP
+
+HealthMap/ProMED map of Georgia, United States: https://promedmail.org/promed-post?place=7599780,213]
+
+******
+[3] Al Jazeera brief country updates
+Date: Tue 21 Jul 2020
+Source: Al Jazeera [abridged, edited]
+https://www.aljazeera.com/news/2020/07/coronavirus-outbreak-australia-victoria-grows-live-updates-200720235536147.html
+
+
+- 20:40 GMT - Zimbabwe
+Zimbabwe's President Emmerson Mnangagwa said on Tuesday [21 Jul 2020] that security forces would enforce a dusk-to-dawn curfew from Wednesday [22 Jul 2020] to combat the coronavirus outbreak. [As of today, 21 Jul 2020, Zimbabwe has reported a total of 1820 cases of COVID-19 since its 1st report on 20 Mar 2020. Daily reports have fluctuated from less than 100 to as high as 273 on 16 Jul 2020 and staying above 100 since. One suspects there may be an awareness of a higher case load not coming to the attention of the official health sector, leading to the implementation of restrictions. - Mod.MPP
+
+HealthMap/ProMED map of Zimbabwe: https://promedmail.org/promed-post?place=7599780,171]
+
+- 19:15 GMT - USA (California)
+California became the 2nd US state after New York to report more than 400 000 COVID-19 cases, according to a Reuters tally of county data. The most populous US state has tallied a total 400 166 COVID-19 cases, putting it on the verge of surpassing New York -- the original epicentre of the outbreak in the United States -- for the highest number of infections in the country since the novel coronavirus was first detected in California in January [2020]. At that point, if California were a country, it would rank 5th in the world for total COVID-19 cases behind only the US, Brazil, India, and Russia. New York currently has over 412 800 total cases and is adding on average 700 new cases a day in July [2020], while California is rising by an average of 8300 cases a day [see USA section in [3][E] below for more discussion. - Mod.MPP
+
+HealthMap/ProMED map of California, United States: https://promedmail.org/promed-post?place=7599780,204]
+
+- 19:00 GMT - Canada
+An increase in coronavirus cases was expected as the Canadian economy reopens, a senior medical official said, while expressing concern about how many young people were contracting the virus. Deputy Chief Public Health Officer Howard Njoo told a briefing that the success of efforts to combat the outbreak was fragile and could be undermined by people becoming complacent. The daily case count across Canada is now around 460 compared with 300 earlier in the month [July 2020]. Authorities in the 10 provinces are gradually lifting social and economic restrictions imposed in March [2020], when the outbreak started. "Provinces [are] ... trying to reopen at I think a very prudent pace, slowly opening up bars and restaurants. But everyone recognises we would expect to get clusters of cases," Njoo said. [A reasonable concern given the experience of other locations when restrictions are lifted. And a tip off of probable impending problems is an increase in cases among younger individuals who resume partying, feeling invincible. - Mod.MPP
+
+HealthMap/ProMED map of Canada: https://promedmail.org/promed-post?place=7599780,12]
+
+- 18:10 GMT - The Americas region, PAHO
+The novel coronavirus pandemic is showing "no signs of slowing down" in the Americas, the Pan American Health Organization (PAHO) director said, with the virus landing in Guiana Shield countries [Guyana, Suriname, French Guiana, Venezuela, and small parts of Colombia and northern Brazil] on South America's northeastern coast and with surges in Bolivia, Ecuador, Colombia, and Peru. Carissa Etienne told a virtual briefing from PAHO's Washington base that some Central American nations were seeing their highest weekly increase of cases since the virus landed, and that because of the high burden of infectious diseases and chronic conditions in the Americas, 3 out of 10 people -- 325 million -- were at "increased risk" of developing complications from COVID-19. [This has been reflected in the WHO and Worldometer updates on a daily basis. The Americas region is the most severely affected by the COVID-19 pandemic. - Mod.MPP
+
+HealthMap/ProMED map of the region https://promedmail.org/promed-post?place=7599780,27]
+
+- 16:30 GMT - EU, USA - Major airlines and testing programs
+Major United States and European Union airlines asked the EU and White House Tuesday [21 Jul 2020] to consider adopting a joint US-EU COVID-19 testing programme as a way to again allow people to travel between the US and Europe. In a letter to Vice President Mike Pence and Ylva Johansson, the European Commissioner for Home Affairs, the chief executives of American Airlines, United Airlines, Lufthansa, and International Airlines Group requested "the safe and swift restoration of air travel between the United States and Europe." Nearly all Europeans are currently barred from travelling to the US and similar restrictions are in place for Americans seeking to travel to most of the EU. [It will require special testing protocols for both sides of the Atlantic to feel safe in re-opening flights between the 2 areas. - Mod.MPP]
+
+- 13:35 GMT - Netherlands
+The number of coronavirus infections in the Netherlands is increasing, the country's health authorities warned in an update on Tuesday [21 Jul 2020]. The Netherlands Institute for Health said that 987 people had tested positive for the disease in the past week, up from 534 the week before. [Daily case reports over the past week have been at 100 or above, where in all but one day in the preceding week did the daily case report exceed 100. - Mod.MPP
+
+HealthMap/ProMED map of the Netherlands: https://promedmail.org/promed-post?place=7599780,104]
+
+- 10:00 GMT - Oman
+Oman will ban travel between all provinces from [25 Jul 2020] to [8 Aug 2020] to prevent the spread of the new coronavirus, according to state news agency ONA. The Gulf state will also implement a daily 7pm to 6am curfew during that same period, which includes the Muslim holiday of Eid al-Adha [30 Jul-3 Aug 2020]. Shops and public spaces will be closed during the curfew hours. [While Saudi Arabia has markedly curtailed the Hajj this year (2020), Oman is now following suit in the face of increasing new cases in Oman, reporting over 1000 cases per day since 30 Jun 2020. - Mod.MPP
+
+HealthMap/ProMED map of Oman: https://promedmail.org/promed-post?place=7599780,124]
+
+- 09:30 GMT - Philippines
+The Philippines health ministry has reported 2 more novel coronavirus deaths and 1951 additional infections. In a bulletin, the ministry said total deaths had increased to 1837, while confirmed cases had reached 70 764. President Rodrigo Duterte has threatened to arrest anyone not wearing a face mask or breaching social distancing guidelines amid a sharp rise in infections and deaths since a lockdown was eased in June [2020]. [As mentioned yesterday (20 Jul 2020), since 1 Jul 2020, daily newly confirmed case reports have varied from a low of 294 on 2 Jul 2020 to a high of 2486 on 8 Jul 2020, with daily reports of greater than 1000 cases now on 17 out of the 20 days so far this month (July 2020) and daily reports of greater than 2000 cases on 7 days during July 2020.
+
+[HealthMap/ProMED map of the Philippines: https://promedmail.org/promed-post?place=7599780,158]
+
+- 09:00 GMT - Serbia (Vojvodina region)
+Vojvodina region in Serbia is becoming the new hotbed of coronavirus in the country, authorities say. The Serbian government warned of a possible collapse if the situation does not improve over the next few days, saying it will likely face Italy's scenario. Close to 300 patients are currently being treated at the Clinical Center of Vojvodina in Novi Sad, and the city administration is appealing to citizens to adhere to the prescribed measures. [During the month of July 2020, Serbia has been reporting between a low of 266 on 9 Jul 2020 to a high of 396 on 19 Jul 2020, with all daily reports since 14 Jul 2020 above 300 cases. - Mod.MPP
+
+HealthMap/ProMED map of Serbia: https://promedmail.org/promed-post?place=7599780,23434]
+
+- 08:40 GMT - Pakistan reports more than 1000 new cases
+In Pakistan, at least 1013 new cases of the virus were registered on Monday [20 Jul 2020], taking the countrywide tally to 266 096, according to government data. Active cases of the virus, however, continued to fall, with 1128 fewer active cases on Monday [20 Jul 2020] compared to the day before [19 Jul 2020]. At least 52 337 active cases of the virus remain in the country, according to official data. Testing levels have also continued to drop, with Monday [20 Jul 2020] seeing 17 783 tests conducted, the lowest in a single day since [2 Jun 2020]. The positive test rate was 5.7 percent. Pakistani authorities say testing is dropping because fewer patients are seeking treatment or a diagnosis at hospitals. [The presence of a testing positive rate of 5.7% is suggestive of still incompletely controlled transmission of the SARS-CoV-2 in Pakistan.
+
+HealthMap/ProMED map of Pakistan: https://promedmail.org/promed-post?place=7599780,140]
+
+- 07:45 GMT - Russia
+Russia reported 5842 new cases of the novel coronavirus, pushing its total infection tally to 783 328, the 4th largest in the world. The country's coronavirus response centre said 153 people had died in the past 24 hours, bringing Russia's overall death toll from the virus to 12 580. [Since 26 Jun 2020, daily case counts have been above 6000 until today (21 Jul 2020) when the report dropped below 6000. The daily case count peaked at 11 656 on 11 May 2020 and has been gradually declining since. - Mod.MPP
+
+HealthMap/ProMED map of Russia: https://promedmail.org/promed-post?place=7599780,98]
+
+- 06:00 GMT - Ukraine
+The total number of coronavirus cases in Ukraine has reached 60 166 and 1518 people died as of [21 Jul 2020], Ukrainian Health Minister Maksym Stepanov said. President Volodymyr Zelenskyy said last week [week of 13 Jul 2020] Ukrainians were fed up with the coronavirus lockdown and the government should be cautious about extending it. [Daily case reports during the month of July 2020 have varied from a low of 543 on 6 Jul 2020 to a high of 914 on 4 Jul 2020. Most recently reports have varied from 651 on 20 Jul 2020 to 848 on 16 Jul 2020. It's been very hard to follow a consistent trend in case reports. - Mod.MPP
+
+HealthMap/ProMED map of Ukraine: https://promedmail.org/promed-post?place=7599780,123]
+
+- 02:25 GMT - South Korea
+South Korea has reported 45 new cases of coronavirus [on 20 Jul 2020]. The Korea Centers for Disease Control and Prevention says 20 of the cases were locally acquired, and 9 of them came from a nursing home in western Seoul. Imported cases have been growing by the double digits for 26 days, according to Yonhap news agency. The latest were found mostly in workers returning from Iraq as well as among sailors on Russian-flagged ships docked in Busan [see section [3][B] below for more details on South Korea. - Mod.MPP]
+
+[Byline: Kate Mayberry, Umut Uras, Hamza Mohamed]
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[Data mentioned in my brief comments come from our Worldometer data files. - Mod.MPP]
+
+******
+[4] Selected countries
+[A] China: National Health Commission, 83 707 total cases, 4634 deaths
+[B] South Korea: 13 879 confirmed cases, 297 deaths
+[C] Italy: 244 752 total cases, 35 073 deaths
+[D] Iran: 278 827 total cases, 14 634 deaths
+[E] USA: 4 028 569 total cases, 144 953 deaths
+
+[These countries have been selected based on having had significant surges with SARS-CoV-2 infections, but different responses. In some cases, transmission was almost interrupted, but resurgences have occurred, and countries have handled them differently. One observation is that lifting of restrictions has led to major resurgences in some areas; in others, early new threats seem to be importations, but community spread does recur. Good contact tracing has helped to shorten the time with new clusters and temporary new restrictions have impacted. Countries not implementing restrictions have done more poorly with major resurgences. - Mod.MPP]
+
+----
+[A] China: National Health Commission, 83 707 total cases, 4634 deaths
+Date: Tue 21 Jul 2020
+Source: China National Health Commission [abridged, edited]
+http://en.nhc.gov.cn/2020-07/22/c_81141.htm
+
+
+On 21 Jul 2020 (as of midnight 22 Jul 2020):
+- 14 new cases of confirmed infections (5 imported cases -- 2 in Shanghai municipality, 2 in Guangdong province, 1 in Yunnan province; 9 locally transmitted cases in Xinjiang Uygur autonomous region); no new cases of suspected infections and no deaths.
+- A total of 2020 imported cases have been reported.
+- 83 707 confirmed cases and 4634 deaths; 78 840 recovered and discharged from hospital; 772 804 close contacts with infected patients; and 6988 are under medical observation.
+- 22 new asymptomatic cases (including 8 imported); no asymptomatic, imported case confirmed as symptomatic; 164 asymptomatic cases under medical observation (including 84 imported cases).
+- 2018 cases in Hong Kong [an increase of 60 cases since 20 Jul 2020], and 46 in Macau.
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+and
+ProMED-mail Rapporteur Kunihiko Iizuka
+
+[There were 14 new confirmed cases in the past 24 hours; 5 were imported, and 9 were locally acquired -- all in Xinjiang Uygur autonomous region. This brings the tally of this new cluster up to 67 cases -- not counting asymptomatic infections. It is now 16 days with no new cases reported from Beijing [outbreak considered over after 2 incubation periods without a new case - 28 days).
+
+There were 22 newly confirmed infections in asymptomatic individuals (8 imported) and no new conversions from asymptomatic to symptomatic in the past 24 hours. Since 18 May 2020, China has reported 39 cases of conversion from asymptomatic to symptomatic infection.
+
+Hong Kong reported 61 new cases (according to the CHP release). The official government site in Hong Kong mentions a total of 2018 cases (confirmed) and 1 probable. The newly reported cases announced today (21 Jul 2020) involve 27 males and 34 females aged between 4 and 84 years. Among them, 3 had travel history during the incubation period, 7 were asymptomatic. (https://www.info.gov.hk/gia/general/202007/21/P2020072100770.htm). Travel history was the Philippines (1), India (1), and USA (1). (https://gia.info.gov.hk/general/202007/21/P2020072100770_346211_1_1595342020918.pdf)
+
+Takeaway message: China continues to have importations of infected individuals with SARS-CoV-2 and has occasional cluster flare-ups (see comments in the section on South Korea below). Hong Kong is dealing with increased local transmission associated with the lifting of restrictions; new severe restrictions have been announced. Cases are primarily locally transmitted although there are importations.
+
+A map of China showing provinces can be seen at https://sacu.org/wp-content/uploads/2019/01/provmap.png and a HealthMap/ProMED map at https://promedmail.org/promed-post?place=7599780,155. - Mod.MPP]
+
+----
+[B] South Korea: 13 879 confirmed cases, 297 deaths
+Date: Tue 21 Jul 2020
+Source: Ministry of Health and Welfare [in Korean, machine transl., abridged, edited]
+http://ncov.mohw.go.kr/en/bdBoardList.do?brdId=16&brdGubun=161&dataGubun=&ncvContSeq=&contSeq=&board_id=&gubun=
+and
+http://ncov.mohw.go.kr/en/bdBoardList.do?brdId=16&brdGubun=162&dataGubun=&ncvContSeq=&contSeq=&board_id=&gubun=
+
+
+[Please note that while the data go through 00:00 22 Jul 2020, in actuality, they cover all newly reported cases and deaths occurring on 21 Jul 2020.
+
+Also, South Korea has changed its reporting format so that to find the daily case count with cases that involved local transmission and importation, by provinces, required multiple webpages. I have had to use multiple webpages to replicate the data as we have been presenting it. - Mod.MPP]
+
+20 Jul 2020 0:00 AM KT 13 816 confirmed cases, 296 deaths
+21 Jul 2020 0:00 AM KT 13 879 confirmed cases, 297 deaths
+
+Change: 63 newly confirmed infections; 1 new deaths
+
+[The table with distribution by provinces is available at the 2nd source URL above. - Mod.MPP]
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[In the past 24 hours, according to the report at the source URL, the tally of confirmed cases of COVID-19 in South Korea has increased by 63 cases with 0 new deaths, compared with 45 cases and 0 new deaths in the previous day (20 Jul 2020). The daily newly confirmed case count has been at or below 100 for 97 consecutive days. There were 29 locally transmitted cases: Seoul (16), Gyeonggi (8), Incheon (4), and Gwangju (1); and 34 imported cases: airport quarantine (19), Gyeonggi (7), Gwangju (3), Daegu (1), Incheon (1), Chungbuk (1), Chungnam (1), Gyeongnam (1). 9 provinces reported no newly confirmed cases (compared with 12 provinces yesterday, 20 Jul 2020). Information on the locally acquired cases was not available at the time of preparation of this update. Notices 447 and 448 at https://www.cdc.go.kr/board.es?mid=a30402000000&bid=0030 provide details on the cases confirmed yesterday (20 Jul 2020). A media report mentions 9 cases from yesterday (20 Jul 2020) were from a nursing home cluster [see item [2] above].
+
+The overall impression hasn't changed. Lifting of measures was accompanied by increases in locally acquired infections through increasing clusters related to gatherings of people at employment (bringing it outside employment to contacts) and in houses of worship, and bars and clubs. Contact tracing and isolation seem to have had an impact. Now importations are playing a major role in the country as well. Looking at both China and South Korea, I suspect that importations may result in the occasional silent spread from asymptomatic infections which may be missed through the testing (false negatives). A superspreading event may result, leading to a recognized cluster, which can ultimately be interrupted until the next cycle occurs. The increase in cases in the past few days has been paralleled by increases in reported deaths.
+
+A map of South Korea showing provinces can be seen at https://www.nationsonline.org/oneworld/map/korea-south-administrative-map.htm and a HealthMap/ProMED map at https://promedmail.org/promed-post?place=7599780,195. - Mod.MPP]
+
+----
+[C] Italy: 244 752 total cases, 35 073 deaths
+Date: Mon 20 Jul 2020
+Source: Italian Government Health Ministry [edited]
+https://www.albengacorsara.it/doc/dpc-covid19-ita-scheda-regioni-21-7-2020.pdf
+
+
+Health monitoring data on the spread of the new coronavirus released on 21 Jul 2020. [These figures come from the table published for the day, recognizing that there have been adjustments in some of the data from previous tables. - Mod.MPP]:
+
+- 244 752 cumulative cases (+129) [Note says Apulia made a 1 case adjustment]
+- 12 248 people are currently positive for the virus (-156);
+- 197 431 people have recovered (+269);
+- 732 patients are hospitalized with symptoms (-13), 49 in intensive care (+2), and 11 467 (-145) are in home isolation;
+- 35 073 deaths have been reported (+15).
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The tally of confirmed cases of COVID-19 in Italy is up by +129 cases and +15 deaths in the past 24 hours. The previous day's (20 Jul 2020) 24-hour change was +190 cases and +13 deaths. The hospitalized cases and cases in intensive care units are still in a slow decline.
+
+Cases still continue to be concentrated in Lombardy, Veneto and Emilia-Romagna, the main provinces at the original epicenter of the outbreak (see tables at the link on the source URL. The provinces reporting the largest numbers of newly confirmed cases in the 24-hour period are Lombardy (34), Veneto (22), Emilia-Romagna (18), and Liguria (12), are the provinces reporting 10 or more cases. No provinces reported more than 50 cases for the 1st time in months. A total of 17 provinces reported fewer than 10 newly confirmed cases (6 provinces reported no new cases). Italy is now 76 days post phase 2 initial opening up and 60 days post 2nd stage of phase 2 opening up.
+
+Interpretation: It looks like there is now reasonable control, even with lifting of restrictions.
+
+A map of Italy showing regions can be seen at https://www.mapsofworld.com/italy/regions.html and a HealthMap/ProMED map at https://promedmail.org/promed-post?place=7599780,75. - Mod.MPP]
+
+----
+[D] Iran: 278 827 total cases, 14 634 deaths
+Date: Tue 21 Jul 2020 10:45 IRDT
+Source: Asharq Al-Awsat/AFP [edited]
+https://english.aawsat.com/home/article/2402706/iran-hits-record-229-deaths-covid-19-past-24-hours
+
+
+Iran on Tuesday [21 Jul 2020] reported a new single-day record death toll of 229 from the new coronavirus. "Sadly, we lost 229 of our compatriots to the COVID-19 infection in the past 24 hours," Health Ministry Spokeswoman Sima Sadat Lari said. "This raises the overall toll to 14 634," she said in televised remarks. Iran announced its previous record COVID-19 death toll of 221 on [9 Jul 2020]. Lari also raised the country's caseload to 278 827, with 2625 more people testing positive for the disease in the past day, AFP reported.
+
+The rising toll has prompted authorities to make masks mandatory in enclosed public spaces and to allow the hardest-hit provinces to reimpose restrictive measures, with Tehran included. Iran closed schools, cancelled public events and banned movements between its provinces in March [2020], but gradually lifted restrictions from April [2020] to try to reopen its sanctions-hit economy.
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[As of 21 Jul 2020, the total number of cases of COVID-19 confirmed in Iran is 278 827, including 14 634 deaths, an increase of 2625 cases and 229 deaths since 20 Jul 2020. The daily new case count has been in the 2000-2500 range and newly reported deaths hovering around 200 plus. Another media report mentioned there were 3589 people in "critical condition" and the 11 provinces considered as "red zone" were Fars, East Azerbaijan, West Azerbaijan, Razavi Khorasan, Alborz, Khuzestan, Lorestan, Golestan, Kerman, Zanjan, and Ilam (https://menafn.com/1100517899/Iran-reaches-new-COVID-19-anti-record-for-single-day. It appears as although this surge has not slowed down. Hopefully with increased restrictions the curve will flatten out again.
+
+A map of Iran showing provinces can be seen at https://www.mapsofworld.com/iran/iran-political-map.html and a HealthMap/ProMED map at https://promedmail.org/promed-post?place=7599780,128. - Mod.MPP]
+
+----
+[E] USA: 4 028 569 total cases, 144 953 deaths
+Date: Tue 21 Jul 2020
+Source: Worldometer [accessed 22:01 EDT (GMT-4)] [edited]
+https://www.worldometers.info/coronavirus/country/us/
+
+
+[For those who are interested, a pdf snapshot of the full data Worldometer table at the time we accessed it is available at https://promedmail.org/wp-content/uploads/usa-pdf/JULY21USDATASET_1595389966.pdf.
+
+A 7-day series of cumulative reported cases by states, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/usa-pdf/JULY21US7_1595390033.pdf. - Mod.MPP]
+
+All USA total: 4 028 569 / 67 140 newly confirmed cases
+Total deaths: 144 953
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The total number of confirmed cases in the USA and territories is now 4 028 569 including 144 953 deaths, an increase from 3 961 429 cases and 143 834 deaths in the past 24 hours. As predicted yesterday the USA crossed the 4 million case mark today (21 Jul 2020). New York City had a cumulative total of 219 030 cases as of 13:00 EDT (GMT-4) on 20 Jul 2020 (+552 since 20 Jul 2020 compared with +319 in the preceding 24 hours) including 18 800 (+13 since 20 Jul 2020) confirmed deaths and an additional 4624 probable deaths (https://www1.nyc.gov/site/doh/covid/covid-19-data.page). 4 establishments lost their liquor licenses in New York state over the weekend [18-19 Jul 2020] for violations of the social distancing and mask rules among patrons, with large parties gathering. 3 were in New York City -- the increase in confirmed cases in today's (21 Jul 2020) update is concerning.
+
+The top 10 states in terms of daily reported cases in descending order are California, Texas, Florida, Arizona, Georgia, Tennessee, South Carolina, Oklahoma, Louisiana, and Mississippi. Note that 5 of the 10 states are located in the south east region of the country. Newcomers to this list include Oklahoma and Mississippi. This list includes states that are showing major increases in daily cases reported beginning with the lifting of restrictions around the end of May 2020. All of the top 10 states reported more than 1600 newly confirmed cases in the past 24 hours, with the range being 1626 to 10 278. The last time California reported over 10 000 cases a day was 7 Jul 2020. In terms of cumulative case reports, the order is unchanged from previous days with New York as number one, followed by California, Florida, Texas, New Jersey, Illinois, Georgia, Arizona, Massachusetts, and Pennsylvania. A total of 45 states and entities have reported more than 10 000 cumulative cases each. If California keeps reporting at the elevated rate of 10 000 cases per day, within a week's time it will surpass New York in terms of most confirmed cases in the USA.
+
+In the past 24 hours, the proportional increase of newly confirmed cases was 6.8%. The 7-day average of newly confirmed cases for the past 7 days is 7.9% higher than the 7-day average for the preceding 7 days, compared with 12.4% yesterday (20 Jul 2020) consistent with the ongoing pandemic in the country, but gradually slowing down, the major drop in the past 24 hours is hard to reconcile other than a drop of 10 000 cases per day on 18 Jul 2020 that is persisting. Perhaps a change in reporting criteria of several states. Multiple media reports suggest reporting has decreased in the states, but the persistent testing positive rate of 9% does not support a slowing down of the pandemic in the USA.
+
+The Centers for Disease Control and Prevention website (https://www.cdc.gov/coronavirus/2019-ncov/covid-data/covidview/index.html) has data on cases, hospitalization, testing, and epidemiologic variables such as age, race, ILI (influenza-like illness), surveillance, and emergency room visits, which are definitely worth reviewing, as a welcome series of analyses. According to the CDC data, as of 21 Jul 2020, the percentage of laboratory specimens testing positive for SARS-CoV-2 with a molecular assay remained at 9% out of 50 343 272 tests performed as of 21 Jul 2020, consistent with the ongoing, not-yet-under-control pandemic in the country (https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/testing-in-us.html).
+
+A map of the United States can be seen at http://www.mapsofworld.com/usa/ and a HealthMap/ProMED map at https://promedmail.org/promed-post?place=7599780,106. - Mod.MPP]
+
+******
+[5] WHO situation report 183 (as of 21 Jul 2020)
+Date: Tue 21 Jul 2020
+Source: WHO [abridged, edited]
+https://www.who.int/docs/default-source/wha-70-and-phe/20200721-covid-19-sitrep-183.pdf
+
+
+*The situation report includes information provided by national authorities as of 10:00 CEST, 21 Jul 2020.
+
+Highlights
+----------
+- In his regular media briefing, WHO Director-General Dr Tedros reiterated the importance of contact tracing in all communities affected by COVID-19, stating that "No country can get control of its epidemic if it doesn't know where the virus is."
+
+- A South African hospital has developed an innovative solution to boost COVID-19 testing. Staff in the Westfleur Hospital, a public facility in the Western Cape, are refashioning security booths into makeshift COVID-19 testing centers.
+
+- The Istanbul Center, run by the WHO Country Office in Turkey together with the Turkish Ministry of Health, improved access to health services for Syrian refugees using online services to provide psychosocial health support, as part of reinforced preventive measures against COVID-19.
+
+- Countries in the WHO Eastern Mediterranean Region are restarting essential polio immunization campaigns under strict COVID-19 infection prevention and control measures, with Pakistan being the 1st country to resume campaigns. Other countries in the Region are in the early stages of planning to resume vaccination campaigns when the local epidemiological situation permits.
+
+- In the 'Subject in Focus' section, we feature the highlights of the 1st global WHO infodemiology conference.
+
+[Links to all documents mentioned are available at the source URL above. - Mod.MPP]
+
+Surveillance
+------------
+[The following data come from the "Situation in numbers" section. The regional case totals are inclusive of China. - Mod.MPP]
+
+WHO region (no. countries/territories): Total confirmed cases (new) / Total deaths (new)
+Western Pacific Region (19): 266 190 (2625) / 8077 (8)
+European Region (61): 3 103 674 (24 401) / 207 958 (416)
+South East Asia Region (10): 1 478 141 (42 000) / 35 121 (733)
+Eastern Mediterranean Region (22): 1 400 544 (13 249) / 35 145 (459)
+Region of the Americas (54): 7 702 075 (117 400) / 311 569 (2260)
+African Region (49): 611 185 (13 962) / 9898 (207)
+Cases on an international conveyance (Diamond Princess): 712 (0) / 13 (0)
+
+Confirmed cases (new conf cases) / Total deaths (new deaths)
+Grand total: 14 562 550 (213 637) / 607 781 (4083)
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The number of countries and territories reporting confirmed cases of COVID-19 to WHO remains at 215.
+
+In the 24 hours since the last WHO update:
+
+- The Americas region reported 55.0% of the global newly reported cases and 55.4% of newly reported deaths for this 24-hour period, maintaining its dominance as the most severely affected region, having reported more than 7.5 million cases. The USA reported 53.5% (62 788) cases, Brazil 20.0% (23 529), Colombia 5.6% (6528), Mexico 4.5% (5311), Argentina 3.6% (4231), Peru 3.5% (4090), and Chile 1.8% (2099).
+
+- The European region reported 11.4% of the global newly reported cases and 10.2% of the newly confirmed deaths globally. Russia reported 23.9% (5842) of the regional newly confirmed cases, followed by Spain 18.8% (4581), France 7.4% (1810), Kazakhstan 6.7% (1630), Kyrgyzstan 4.5% (1108), Israel 4.1% (1012), Turkey 3.8% (931), Sweden 3.1% (767), Romania 2.8% (681), Ukraine 2.8% (673), Uzbekistan 2.6% (624), the UK 2.4% (580), and Germany 2.1% (522). Spain and France are showing as dominant forces, but lack of reporting over the weekend maybe responsible for increased daily case counts. That being said, both countries are reporting increases in clusters, and Spain's 14 day papulation based incidence rate has gone from a low of 7.74 per 100 000 population on 25 Jun 2020 to 29.42 today (21 Jul 2020) (daily spreadsheet we maintain with data from https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Actualizacion_167_COVID-19.pdf
+
+- The Eastern Mediterranean region reported 6.2% of the global newly reported cases and 11.2% of global newly reported fatalities. Saudi Arabia reported 18.3% (2429) of the regional newly reported cases, followed by Iran 18.2% (2414), Iraq 16.3% (2163), Oman 13.1% (1739), Pakistan 7.6% (1013), Egypt 4.7% (627), Kuwait 4.2% (559), Bahrain 3.9% (514), Palestinian Authority 3.5% (468), and Qatar 2.9% (389). Pakistan is decreasing its daily case count steadily during the month of July 2020, while at the same time, cases are increasing in Iraq and Oman. This region remains highly active, with multiple countries still in a surge mode.
+
+- The African region reported 6.5% of the global newly reported cases and 5.1% of newly reported fatalities. South Africa reported 66.6% (9300) of the newly reported cases in the region in the past 24 hours, followed by Ghana 5.5% (763), Algeria 4.3% (607), Nigeria 4.0% (562), Kenya 3.0% (418), Cameroon 2.6 (365), Zambia 2.5% (346), and Ethiopia 2.2% (304). Since the beginning of July 2020, South Africa has reported daily new case counts of greater than 10 000 13 of the 21 days. It merits watching to see if there is a decreasing trend beginning.
+
+- The Western Pacific region reported 1.2% of the global newly reported cases and 0.20% of global deaths. The Philippines reported 54.9% (1442) of the newly reported cases in the region, followed by Japan 24.3% (640), Australia 10.2% (267), Singapore 4.7% (123), China 3.2% (84), and South Korea 1.7% (45).
+
+- The South East Asia region reported 19.7% of the global newly reported cases and 18.0% of global deaths. India reported 88.4% (37 148) of newly reported cases in the region, followed by Bangladesh 7.0% (2928) and Indonesia 4.0% (1693). India continues to be the driving force of the dominance of this region.
+
+Impression: The overall picture is basically the same. The ordering of the regions has the Americas having the highest disease load and newly confirmed cases on a daily basis followed by the South East Asia region, then Europe followed by the Eastern Mediterranean, followed by the Africa region and the Western Pacific representing the lowest daily caseload of all the regions. The progression has been the initial "surge" in the Western Pacific region, followed by the surge in the European region and its decline; the entry and surging of the Americas region without any decrease, and the gradual and persistent increase in the South East Asia region; the increase then plateauing of the Eastern Mediterranean region, the slow but steady increase in the Africa region, and a slight increase in the Western Pacific region. It appears as though Russia has peaked and is now declining slowly but steadily.
+
+Figure 2. The epidemic curve of confirmed COVID-19 cases by date of report and WHO region, 30 Dec 2019 through 21 Jul 2020, at the source URL above is an excellent visual representation of the epidemic as described in the above text. - Mod.MPP]
+
+******
+[6] Global update: Worldometer accessed 21 Jul 2020 21:45 EDT (GMT-4)
+Date: Tue 21 Jul 2020
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/
+
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at https://promedmail.org/wp-content/uploads/world-pdf/JULY21DATASET_1595389966.pdf.
+
+A 7-day series of cumulative reported cases by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/JULY21WORLD7_1595390033.pdf. - Mod.MPP]
+
+Total number of reported deaths: 619 410
+Total number of worldwide cases: 15 091 880
+Number of newly confirmed cases in the past 24 hours: 239 180
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[According to the data on the Worldometer website, the total number of reported cases of COVID-19 worldwide is now 15 091 880, with reports of cases by 217 countries and territories worldwide. The global case count rose by 1.6% in the past 24 hours. The USA and Brazil are still the most severely affected countries in terms of cumulative case counts, although India has been rapidly increasing, with daily case counts around 40 000.
+
+In the past 24 hours, the USA reported the most newly confirmed cases (67 140) followed by Brazil (44 887) and India (39 168). The total cumulative case counts for the top 5 countries (USA, Brazil, India, Russia, South Africa) represent over half of the total cases reported globally (57.0%). A global total of 619 410 deaths have been reported, an increase of 6197 deaths in the past 24 hours.
+
+In descending rank order, the USA is number one for the number of newly confirmed cases in the past 24 hours, followed by Brazil, India, South Africa, Colombia, Mexico, Russia, Argentina Peru, and Bangladesh. All these countries are currently experiencing major community-based transmission and considered global hot spots. The range in the top 10 daily newly confirmed cases goes from 3057 to 67 140.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, there is an increase of 8.8%.
+
+Impression: The SARS-CoV-2 is still actively being transmitted in all regions of the world, and many countries are showing increases in their daily newly confirmed case counts. That being said, the most severely affected region is the Americas, with cases increasing on a daily basis even though the comparative 7-day average suggests things may be slowing down (or reporting is slowing down). - Mod.MPP]
+See Also
+COVID-19 update (326): mosquito non-transm, selected countries, WHO, global 20200721.7595820
+COVID-19 update (325): reinfection, child transm, selected countries, WHO, global 20200720.7592025
+COVID-19 update (324): Netherlands (NB) animal, farmed mink, spread 20200719.7591013
+COVID-19 update (323): serial infection, Japan, selected countries, WHO, global 20200719.7589922
+COVID-19 update (322): USA (SC) animal, dog 20200719.7588843
+COVID-19 update (321): airborne transmission & air conditioning, WHO, global 20200718.7587301
+COVID-19 update (320): Africa, selected countries, WHO, global 20200717.7583377
+COVID-19 update (310): Kazakhstan pneumonia, selected countries, WHO, global, RFI 20200710.7560034
+COVID-19 update (300): Korea antibodies, China asymptomatic index case, WHO 20200703.7536146
+COVID-19 update (250): selected countries 20200610.7448037
+COVID-19 update (200): global, Yemen, WHO 20200522.7364937
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+Undiagnosed pediatric inflammatory syndrome (05): Europe, USA, COVID-19 assoc 20200518.7340554
+Undiagnosed pediatric inflammatory syndrome (04): USA, UK, PMIS, fatal 20200509.7315405
+Undiagnosed pediatric inflammatory syndrome (03): USA, Europe, COVID-19 susp, RFI 20200505.7299876
+COVID-19 update (150): global, USA state prisons, WHO 20200502.7290671
+COVID-19 update (100): China, S. Korea & high local transmission countries 20200413.7217806
+COVID-19 update (50): China (Hong Kong) animal dog, 2nd case PCR positive, OIE 20200323.7129951
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (41): China, global, clinical pics, asymptomatic trans., WHO 20200210.6976117
+Novel coronavirus (40): animal reservoir, pangolin poss intermediate host, RFI 20200210.6972104
+Novel coronavirus (30): updates, China, Viet Nam, research 20200202.6945658
+Novel coronavirus (20): China, wildlife trade ban 20200127.6922060
+Novel coronavirus (10): China (HU, GD, BJ) 20200119.6898567
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia - China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia - China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+----
+Undiagnosed pneumonia - China (HU): RFI 20191230.6864153
+.................................................sb/mpp/mj/lm
+</body>

@@ -1,0 +1,287 @@
+<header id=010268>
+Published Date: 2020-06-30 07:02:15 EDT
+Subject: PRO/AH/EDR> COVID-19 update (295): institutional serial testing post exposure WHO, global
+Archive Number: 20200630.7524593
+</header>
+<body id=010268>
+CORONAVIRUS DISEASE 2019 UPDATE (295): INSTITUTIONAL SERIAL TESTING POST EXPOSURE, WHO, GLOBAL
+**********************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] USA (Louisiana): asymptomatic and presymptomatic incarcerated individuals
+[3] WHO situation report 161 (as of 29 Jun 2020)
+[3] Global update: Worldometer accessed 29 Jun 2020 22:27 EDT (GMT-4)
+
+******
+[1] USA (Louisiana): asymptomatic and presymptomatic incarcerated individuals
+Date: Mon 29 Jun 2020
+Source: CDC. MMWR Morb Mortal Wkly Rep 2020. 69 [edited]
+https://www.cdc.gov/mmwr/volumes/69/wr/mm6926e2.htm
+
+
+ref: Njuguna H, Wallace M, Simonson S, et al. Serial laboratory testing for SARS-CoV-2 infection among incarcerated and detained persons in a correctional and detention facility -- Louisiana, April-May 2020. MMWR Morb Mortal Wkly Rep. ePub: 29 Jun 2020
+--------------------------------------------------------------------------------
+Summary
+-------
+What is already known about this topic?
+Correctional and detention facilities face unique challenges in detecting and mitigating transmission of SARS-CoV-2 infection.
+
+What is added by this report?
+Testing among quarantined contacts of patients with COVID-19 in a correctional and detention facility identified a high proportion of asymptomatic and presymptomatic cases that were not identified through symptom screening alone. Approximately one fourth of cases were found through serial testing during quarantine.
+
+What are the implications for public health practice?
+Early detection and isolation of persons with COVID-19, along with testing of close contacts, can slow the transmission of SARS-CoV-2 in correctional and detention facilities. Serial testing, particularly for close contacts of patients, is important for complete identification of cases and prompt public health response in congregate settings.
+
+Transmission of SARS-CoV-2, the virus that causes coronavirus disease 2019 (COVID-19), by asymptomatic and presymptomatic persons poses important challenges to controlling spread of the disease, particularly in congregate settings such as correctional and detention facilities (1). On [29 Mar 2020], a staff member in a correctional and detention facility in Louisiana developed symptoms* and later had a positive test result for SARS-CoV-2. During [2 Apr 2020-7 May 2020], 2 additional cases were detected among staff members, and 36 cases were detected among incarcerated and detained persons at the facility; these persons were removed from dormitories and isolated, and the 5 dormitories that they had resided in before diagnosis were quarantined. On [7 May 2020], CDC and the Louisiana Department of Health initiated an investigation to assess the prevalence of SARS-CoV-2 infection among incarcerated and detained persons residing in quarantined dormitories. Goals of this investigation included evaluating COVID-19 symptoms in this setting and assessing the effectiveness of serial testing to identify additional persons with SARS-CoV-2 infection as part of efforts to mitigate transmission. During [7-21 May 2020], testing of 98 incarcerated and detained persons residing in the 5 quarantined dormitories (A-E) identified an additional 71 cases of SARS-CoV-2 infection; 32 (45%) were among persons who reported no symptoms at the time of testing, including 3 who were presymptomatic. 18 cases (25%) were identified in persons who had received negative test results during previous testing rounds. Serial testing of contacts from shared living quarters identified persons with SARS-CoV-2 infection who would not have been detected by symptom screening alone or by testing at a single time point. Prompt identification and isolation of infected persons is important to reduce further transmission in congregate settings such as correctional and detention facilities and the communities to which persons return when released.
+
+On [29 Mar 2020], a staff member working in a correctional and detention facility in Louisiana reported symptoms of COVID-19 and later had a positive test result for SARS-CoV-2. 2 additional cases among staff members were identified on [2 Apr 2020] and [10 Apr 2020]. The facility housed approximately 700 incarcerated and detained persons in 15 dormitories. On [7 Apr 2020], the 1st case of COVID-19 in an incarcerated person was detected after the patient reported symptoms. During [8 Apr-7 May 2020], through daily active monitoring with temperature screening and oxygen saturation measurements, an additional 35 laboratory-confirmed symptomatic cases were identified among incarcerated and detained persons in 5 dormitories, resulting in 3 hospitalizations. Upon identification, all COVID-19 patients were immediately transferred to another facility for medical isolation and care.
+
+During [7-21 May 2020], the Louisiana Department of Health and CDC, as part of a public health outbreak response, conducted an investigation to assess the prevalence of infection with SARS-CoV-2 among incarcerated and detained persons residing in quarantined dormitories, and to evaluate symptoms and assess the feasibility of using serial testing with nasopharyngeal swabs to identify additional persons with SARS-CoV-2 infection. Demographic information, medical history, and symptom data were collected for persons in the 5 affected dormitories using standardized questionnaires. Serial SARS-CoV-2 testing and COVID-19 symptom assessments were conducted on 3 days: [7 May 2020] (day 1), [11 May 2020], (day 4), and [21 May 2020] (day 14). To detect any additional cases before symptom onset, persons who had negative test results on day 1 were retested and completed another symptom assessment on day 4. Those who had negative test results a 2nd time were retested on day 14, the end of the initial quarantine period. On day 14, symptom data were collected again from all persons. The Louisiana Office of Public Health Laboratory tested nasopharyngeal swabs for SARS-CoV-2 using the CDC 2019 reverse transcription-polymerase chain reaction (RT-PCR) panel (2), and results were received within 24 hours of testing. Depending on their test results, persons were cohorted by being moved to medical isolation or remaining in quarantined dormitories. Symptom data from all 3 test days were analyzed to classify cases as asymptomatic, presymptomatic, or symptomatic. To identify potential previous illness, outbreak investigators also recorded symptoms reported greater than 2 weeks before testing. Persons were classified as presymptomatic if they reported onset of symptoms after the date of collection of a specimen that had a positive test result; persons were classified as asymptomatic if they had a positive SARS-CoV-2 test result but did not report any symptoms during the previous 2 months or during the 14-day testing period. Attack rates during [7-21 May 2020] were stratified by participants' dormitory assignments on day 1. Analyses were conducted using R (version 3.6.0; The R Foundation). This investigation was determined by CDC to be public health surveillance.** Persons provided voluntary oral consent for testing and questionnaire administration, consistent with the policies of the facility.
+
+At the time of investigation 98 incarcerated and detained persons were in the 5 quarantined dormitories. All 98 persons were interviewed and tested for SARS-CoV-2 on day 1. The median age was 33 years (interquartile range [IQR] = 29-42 years) (Table 1 -- Characteristics of incarcerated and detained persons tested for SARS-CoV-2 in a correctional and detention facility, by dormitory -- Louisiana, May 7-21, 2020 [available at the source URL above]). The majority of persons tested were male (91, 93%), 65 (66%) were non-Hispanic black, 31 (32%) were non-Hispanic white, one (1%) was non-Hispanic Asian, and one (1%) was Hispanic. Overall, 39 (40%) had an underlying health condition, and 23 (23%) had a body mass index greater than 30 kg/m2.
+
+71 additional cases of SARS-CoV-2 infection were detected in the 5 dormitories. Among 98 persons tested on day 1, 53 (54%) had positive SARS-CoV-2 test results (Table 2 -- Reported symptoms* among incarcerated and detained persons (N = 98) in 5 dormitories in a single correctional and detention facility, by SARS-CoV-2 test results -- Louisiana, [7-21 May 2020] [available at the source URL above]). Among the remaining 45 who had negative test results on day 1, 16 (36%) had positive test results on day 4. 2 (7%) of 29 persons who had negative test results on days 1 and 4 had a positive test result on day 14. Of the 71 cases, 3 (4%) occurred in persons who were presymptomatic at the time of specimen collection, 29 (41%) were in persons who were asymptomatic, and 2 (3%) were in persons who had had unknown symptom histories. Among the 37 patients who reported COVID-19 symptoms before testing, 11 (30%) reported symptom onset less than or equal to 2 weeks before testing, and 19 (51%) experienced symptom onset greater than 2 weeks before testing. Among 27 persons testing negative, 18 (67%) reported COVID-19-compatible symptoms in the previous 2 months, including 8 (30%) reporting loss of smell and 7 (26%) reporting loss of taste. Among the 98 persons who were tested, 55 (56%) reported at least one COVID-19 symptom during the 2 months before testing, including 37 (52%) who had positive test results and 18 (67%) who had negative test results. Headache (27, 38%) and loss of smell (25, 35%) were the most commonly reported symptoms. During the public health outbreak investigation period, none of the COVID-19 patients identified through serial testing developed severe illness requiring hospitalization.
+
+The attack rate by dormitory ranged from 57% in dormitory A to 82% in dormitory C. The number of days between the 1st identified COVID-19 case in each dormitory and day 1 testing ranged from 14-30 days. Dormitory A, which had the lowest attack rate, also had the shortest interval from day of 1st COVID-19 case to day 1 of testing.
+
+Discussion
+High COVID-19 attack rates can occur in correctional and detention facilities (3). During [7-21 May 2020], among 98 incarcerated and detained persons who were quarantined because of exposure to the virus, 71 (72%) had laboratory-confirmed SARS-CoV-2 infection identified through serial testing. Among those with positive test results, approximately one fourth had positive test results after 1 or 2 negative tests at previous time points in quarantine, and 45% did not report any symptoms at the time of testing. These findings suggest ongoing transmission among quarantined persons living in congregate settings; therefore, serial testing of contacts of persons with COVID-19 in correctional and detention facilities can identify asymptomatic and presymptomatic persons who would be missed through symptom screening alone.
+
+Increased detection of SARS-CoV-2 cases by serial testing has been observed in other congregate settings, including homeless shelters and long-term care facilities (1,4). The high attack rate within these 5 dormitories and the large proportion of asymptomatic persons with SARS-CoV-2 infection suggest that serial testing of close contacts, including those in congregate settings, should begin immediately after identification of a case to limit further transmission. Some persons infected with SARS-CoV-2 were likely not detected until weeks after they had been infected, which could have contributed to rapid transmission within the quarantined dormitories. Among 71 persons with SARS-CoV-2 identified through serial testing, 27% reported symptom onset 2-8 weeks before testing. Dormitory A, which had the most recent known SARS-CoV-2 introduction among the dormitories, also had the lowest cumulative attack rate, with no additional persons with SARS-CoV-2 infection identified through testing on day 4 or day 14.
+
+CDC's Interim Guidance on Management of COVID-19 in Correctional and Detention Facilities (5), released on [23 Mar 2020], recommended prompt isolation of COVID-19 patients, quarantine and twice daily symptom-monitoring of exposed persons, and intensified cleaning and disinfection procedures. In these facilities, quarantine is often accomplished by cohorting exposed persons in shared dormitories. It is possible that incarcerated and detained persons experience incentives or disincentives to reporting illness, thereby compromising the effectiveness of symptom screening (6,7). In addition, asymptomatic or presymptomatic persons infected with SARS-CoV-2 can be missed by symptom screening and transmit the infection (1). On [13 Jun 2020], CDC recommended testing for all close contacts (including those without symptoms) and consideration of broader testing strategies, including the option of widespread and weekly testing of asymptomatic persons, to control transmission in special high-risk settings that have potential for rapid and widespread dissemination of SARS-CoV-2 infection (8).
+
+Implementation of symptom screening and serial testing in correctional and detention facilities can be challenging and requires skilled personnel. No single symptom was reported by the majority of persons with COVID-19, and common symptoms such as headache are nonspecific and might not prompt testing. Serial testing is dependent on laboratory capacity and test availability. Delayed receipt of test results inhibits prompt cohorting to reduce transmission from asymptomatic or presymptomatic persons within dormitories. To address these potential challenges, facility staff members should work with their local health department and partners to determine the feasibility of implementing a serial testing strategy. In the future, rapid point of care tests might address some of these challenges.
+
+The findings in this report are subject to at least 4 limitations. 1st, serial testing was initiated 2-4 weeks after identification of the 1st COVID-19 case in an incarcerated person in the dormitories, which likely resulted in substantial transmission before this investigation. Approximately one third of persons with negative test results reported experiencing COVID-19 compatible symptoms greater than 2 weeks before testing and might have already recovered from COVID-19. 2nd, systematic testing was limited to the 5 dormitories with known cases among incarcerated and detained persons; staff members were not systematically tested. Exposure to ill staff members might have contributed to transmission. 3rd, symptom ascertainment might be incomplete, especially for symptoms experienced greater than 2 weeks before testing. Likewise, some persons were unable to provide symptom onset dates. Persons might have underreported symptoms, leading to an overestimate of the prevalence of asymptomatic infection. Finally, this investigation was conducted within 5 dormitories in one facility; therefore, findings are not generalizable to all correctional and detention facilities.
+
+Approximately 10 million persons are admitted to jails each year, and approximately 55% of detainees return to their community each week.*** Likewise, correctional and detention facility staff members reside in local communities. Thus, high rates of COVID-19 transmission in correctional and detention facilities also have the potential to influence broader community transmission. Because SARS-CoV-2 infection might spread rapidly in correctional and detention facilities (3), prevention measures are needed to reduce SARS-CoV-2 introduction and transmission. Mitigation measures should include the quarantine and symptom screening of incarcerated and detained persons upon intake, proper infection prevention and control measures, including the use of appropriate personal protective equipment or cloth face covering**** for both staff members and incarcerated and detained persons, regular monitoring of staff members, and encouraging them not to work if they become symptomatic (5). Early identification of persons with COVID-19 facilitates their transfer to medical isolation where they can receive timely medical care. Prompt detection and isolation of cases through serial testing might reduce further exposure within the congregate living environment and outside community. Cohorting of incarcerated and detained persons by infection status is essential to slow the transmission of the virus in the facility. Serial testing, particularly in congregate settings is important for identification of persons with SARS-CoV-2 infection and prompt public health response. Reducing transmission in correctional and detention facilities potentially also reduces transmission in communities where staff members live and where detained persons return when released.
+
+* COVID-19-related signs and symptoms include subjective fever, cough, shortness of breath, chills, muscle aches, headache, sore throat, loss of taste, or loss of smell. https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html.
+** https://www.ecfr.gov/cgi-bin/retrieveECFR?gp=&SID=83cd09e1c0f5c6937cd9d7513160fc3f&pitd=20180719&n=pt45.1.46&r=PART&ty=HTML.
+*** https://www.bjs.gov/content/pub/pdf/ji16.pdfpdf.
+**** A person who has trouble breathing, is unconscious, incapacitated, or otherwise unable to remove the mask without assistance should not use a cloth face covering.
+
+[References available at the source URL above]
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The impact of asymptomatic and presymptomatic individuals who are infected with the SARS-CoV in an institutional setting is still in the investigative stage and the more one looks, the more one is finding ("seek and ye shall find"). In addition, the need to do serial testing, during the quarantine period, of individuals who may have been exposed, is also highlighted in the study above. - Mod.MPP
+
+HealthMap/ProMED map of Louisiana, United States: https://promedmail.org/promed-post?place=7524593,221]
+
+******
+[2] WHO situation report 161 (as of 29 Jun 2020)
+Date: Mon 29 Jun 2020
+Source: WHO [abridged, edited]
+https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200629-covid-19-sitrep-161.pdf
+
+
+*The situation report includes information provided by national authorities as of 10:00 CEST, 29 Jun 2020.
+
+Highlights
+----------
+- Today [29 Jun 2020] we document a somber landmark: 10 million cases and nearly 500 000 deaths of COVID-19 have now been reported globally. This comes amidst recent record numbers of new cases, with several countries reporting their highest number of new cases in a 24-hour period. As some countries start to reopen their societies and economies, WHO strongly encourages individuals, communities, and nations to take measures to reduce transmission, extend testing and contact tracing, and provide optimal care for every case. WHO has published advice for the public and an extensive range of guidance documents, and is working across the globe to support countries in the response to the pandemic.
+
+- WHO has released a timeline of the response to the COVID-19 pandemic listing some milestones and events since the start of the outbreak 6 months ago.
+
+[Excerpt from the timeline: (https://www.who.int/news-room/detail/29-06-2020-covidtimeline)]:
+
+"31 Dec 2019
+- WHO's Country Office in the People's Republic of China picked up a media statement by the Wuhan Municipal Health Commission from their website on cases of 'viral pneumonia' in Wuhan, People's Republic of China.
+
+- The Country Office notified the International Health Regulations (IHR) focal point in the WHO Western Pacific Regional Office about the Wuhan Municipal Health Commission media statement of the cases and provided a translation of it.
+
+- WHO's Epidemic Intelligence from Open Sources (EIOS) platform also picked up a media report on ProMED (a programme of the International Society for Infectious Diseases) about the same cluster of cases of "pneumonia of unknown cause", in Wuhan.
+
+Several health authorities from around the world contacted WHO seeking additional information."
+
+[Links to all documents mentioned are available at the source URL above. - Mod.MPP]
+
+Surveillance
+------------
+[The following data come from the "Situation in numbers" section. The regional case totals are inclusive of China. - Mod.MPP]
+
+WHO region (no. countries/territories): Total confirmed cases (new) / Total deaths (new)
+Western Pacific Region (19): 214 106 (1074) / 7429 (9)
+European Region (61): 2 673 131 (16 694) / 196 835 (294)
+South East Asia Region (10): 760 816 (24 962) / 21 078 (457)
+Eastern Mediterranean Region (22): 1 041 774 (17 552) / 23 888 (439)
+Region of the Americas (54): 5 042 486 (108 514) / 244 791 (2860)
+African Region (49): 288 347 (9532) / 5879 (94)
+Cases on an international conveyance (Diamond Princess): 712 (0) / 13 (0)
+
+Confirmed cases (new conf cases) / Total deaths (new deaths)
+Grand total:10 021 401 (178 328) / 499 913 (4153)
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The number of countries and territories reporting confirmed cases of COVID-19 to WHO remains at 215.
+
+In the 24 hours since the last WHO update (please note that there has been consistent weekend reporting artifact since the presentation of these data began):
+-----------------------------------------
+The Americas region reported 60.9% of the global newly reported cases and 68.9% of newly reported deaths for this 24-hour period. The USA reported 41.1% of the newly confirmed cases in the region, and Brazil reported 35.7%, Mexico 4.1%, Chile 3.9%, Colombia 3.8%, Peru 3.3%, and Argentina 2.2%. The same 5 countries remained at the top; the USA and Brazil are usually numbers 1 and 2, although they vary for which of the 2 positions they hold, but other countries are continuing to increase their proportional representation within the region.
+
+The European region reported 9.4% of the global newly reported cases and 7.1% of the newly confirmed deaths in the region. Russia reported 40.2% of the regional newly reported cases, followed by Turkey 8.1%, Israel 5.6%, the UK 5.4%, Ukraine 3.9%, Kazakhstan 3.3%, Azerbaijan 3.2%, Kyrgyzstan 3.0% Armenia 2.9%, and Belarus 2.3%. The proportion of cases represented by Russia has fallen. Sweden did not report any newly confirmed cases today. Armenia, Kazakhstan, Azerbaijan, Ukraine, and Belarus are prominent in countries noted to have resurgence in Europe.
+
+The Eastern Mediterranean region reported 9.8% of the global newly reported cases and 10.6% of global newly reported fatalities. Saudi Arabia reported 22.7%, of the regional newly reported cases, followed by Pakistan 20.3%, Iran 14.2%, Iraq 12.2%, Egypt 7.2%, Oman 6.8%, Qatar 4.3%, and Kuwait 3.1%. Multiple countries are very active in the region.
+
+The African region reported 5.3% of the global newly reported cases and 2.3% of newly reported fatalities. South Africa reported 66.4% of the newly reported cases in the region in the past 24 hours, followed by Ghana 9.7%, Nigeria 5.1%, Algeria 3.2%, and Kenya 2.7%. Other countries of prior prominence are less than 2%. While South Africa and Nigeria are usually numbers 1 and 2 (although Ghana surpassed Nigeria in the past 24 hours) in terms of the 24-hour increase in cases, other countries have less consistent reporting patterns and vary considerably from day to day.
+
+The Western Pacific region reported 0.60% of the global newly reported cases and 0.22% of global deaths. The Philippines reported 60.7% of the newly reported cases in the region, followed by Singapore 19.8%, Japan 8.0 %, Australia 4.1%, South Korea 3.9%, and China 1.3%. The outbreak associated with the Beijing Seafood markets continues to bring China to prominence in terms of daily newly confirmed cases. That said, the Philippines and Singapore are consistently numbers 1 and 2, respectively, and the other countries, including Japan, South Korea, Malaysia, and Australia, vary in daily reporting.
+
+The South East Asia region reported 14.0% of the global newly reported cases and 11.0% of global deaths. India reported 78.0% of newly reported cases in the region, followed by Bangladesh 15.3%, Indonesia 4.8%, and Nepal 1.9%. Same countries, same order as in previous days, with India continuing to be the driving force in the regional growth in cases.
+
+Impression: The ordering of the regions has the Americas having the highest disease load and newly confirmed cases on a daily basis, followed by the South East Asia region, then Europe and the Eastern Mediterranean alternating on a daily basis of their order, followed by the Africa region and the Western Pacific representing the lowest daily case load of all of the regions. There is still weekend artifact with prominent countries not reporting any cases.
+
+Figure 2. Epidemic curve of confirmed COVID-19 cases, by date of report and WHO region, 30 Dec 2019 through 29 Jun 2020, at the source URL above, is an excellent visual representation of the epidemic as described in the above text. The Americas region continues to increase, as does South-East Asia, in terms of daily newly confirmed cases; the African region is noticeably increasing as well. The Americas region continues to greatly outnumber all other regions for daily reporting. - Mod.MPP]
+
+******
+[3] Global update: Worldometer accessed 29 Jun 2020 22:27 EDT (GMT-4)
+Date: Mon 29 Jun 2020
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/
+
+
+[This table is included as the numbers are constantly changing at Worldometer, and I want to make sure that the data are "frozen in time" for those who wish to see the global data. - Mod.MPP]
+
+Confirmed cases Start of data recording: 1st data / ... / 1 Mar 2020 / ... / 1 Apr 2020 / ... / 1 May 2020 / ... / 1 Jun 2020 / ... / 28 Jun 2020 / 29 Jun 2020 / Country
+
+Countries with marked decreases in daily newly confirmed cases post major activity
+--------------------------------------------
+2 Feb 2020: 17 187 / ... / 80 024 / ... / 81 589 / ... / 82 875 / ... / 83 022 / ... / 83 512 / 83 531 / Mainland China
+2 Feb 2020: 15 / ... / 3726 / ... / 9976 / ... / 10 780 / ... / 11 541 / ... / 12 757 / 12 800 / South Korea
+
+Countries with major activity (more than 5000 cases with community spread)
+-----------------------------------
+2 Feb 2020: 11 / ... / 76 / ... / 215 081 / ... / 1 131 280 / ... / 1 837 170 / ... / 2 637 077 / 2 681 811 / USA
+26 Feb 2020: 1 / ... / 2 / ... / 6931 / ... / 92 109 / ... / 514 849 / ... / 1 345 254 / 1 370 488 / Brazil
+2 Feb 2020: 2 / ... / 2 / ... / 2777 / ... / 114 431 / ... / 405 843 / ... / 634 437 / 641 156 / Russia
+2 Feb 2020: 2 / ... / 3 / ... / 1998 / ... / 37 257 / ... / 190 609 / ... / 549 197 / 567 536 / India
+2 Feb 2020: 2 / ... / 36 / ... / 29 474 / ... / 177 454 / ... / 274 762 / ... / 311 151 / 311 965 / UK
+2 Feb 2020: 1 / ... / 84 / ... / 104 119 / ... / 242 988 / ... / 286 509 / ... / 295 850 / 296 050 / Spain
+6 Mar 2020: 1 / ... / NA / ... / 1323 / ... / 40 459 / ... / 164 476 / ... / 279 419 / 282 365 / Peru
+3 Mar 2020: 1 / ... / NA / ... / 3031 / ... / 17 008 / ... / 99 688 / ... / 271 982 / 275 999 / Chile
+2 Feb 2020: 2 / ... / 1694 / ... / 110 574 / ... / 207 428 / ... / 232 997 / ... / 240 310 / 240 436 / Italy
+19 Feb 2020: 2 / ... / 978 / ... / 47 593 / ... / 95 646 / ... / 151 466 / ... / 222 669 / 225 205 / Iran
+28 Feb 2020: 1 / ... / 5 / ... / 1215 / ... / 20 739 / ... / 90 664 / ... / 216 852 / 220 657 / Mexico
+26 Feb 2020: 2 / ... / 4 / ... / 2118 / ... / 18 114 / ... / 69 496 / ... / 202 955 / 206 512 / Pakistan
+11 Mar 2020: 1 / ... / NA / ... / 15 679 / ... / 122 392 / ... / 163 942 / ... / 197 230 / 198 613 / Turkey
+2 Feb 2020: 10 / ... / 130 / ... / 77 981 / ... / 164 077 / ... / 183 494 / ... / 194 864 / 195 392 / Germany
+2 Mar 2020: 1 / ... / NA / ... / 1720 / ... / 24 097 / ... / 85 261 / ... / 182 493 / 186 436 / Saudi Arabia
+2 Feb 2020: 6 / ... / 130 / ... / 56 989 / ... / 167 346 / ... / 188 882 / ... / 162 936 / 164 260 / France*
+5 Mar 2020: 1 / ... / NA / ... / 1380 / ... / 5951 / ... / 32 683 / ... / 138 134 / 144 264 / South Africa
+8 Mar 2020: 3 / ... / NA / ... / 54 / ... / 8238 / ... / 47 153 / ... / 137 787 / 141 801 / Bangladesh
+2 Feb 2020: 4 / ... / 24 / ... / 9731 / ... / 55 061 / ... / 90 947 / ... / 103 250 / 103 918 / Canada
+29 Feb 2020: 1 / ... / 3 / ... / 835 / ... / 14 096 / ... / 56 910 / ... / 94 413 / 95 106 / Qatar
+6 Mar 2020: 1 / ... / NA / ... / 1065 / ... / 7006 / ... / 29 383 / ... / 91 769 / 95 043 / Colombia
+2 Feb 2020: 1 / ... / 14 / ... / 4947 / ... / 21 520 / ... / 37 542 / ... / 65 137 / 67 667 / Sweden
+14 Feb 2020: 1 / ... / 2 / ... / 779 / ... / 5895 / ... / 24 985 / ... / 65 188 / 66 754 / Egypt
+28 Feb 2020: 1 / ... / 1 / ... / 163 / ... / 14 917 / ... / 42 556 / ... / 61 475 / 61 790 / Belarus
+4 Feb 2020: 1 / ... / 2 / ... / 13 964 / ... / 49 032 / ... / 58 381 / ... / 61 295 / 61 361 / Belgium
+29 Feb 2020: 1 / ... / 6 / ... / 2758 / ... / 26 336 / ... / 39 098 / ... / 55 255 / 55 665 / Ecuador
+2 Mar 2020: 2 / ... / NA / ... / 1677 / ... / 10 551 / ... / 26 473 / ... / 54 010 / 55 092 / Indonesia
+27 Feb 2020: 1 / ... / 10 / ... / 13 614 / ... / 39 791 / ... / 46 442 / ... / 50 147 / 50 223 / Netherlands
+2 Feb 2020: 5 / ... / 21 / ... / 814 / ... / 13 038 / ... / 34 557 / ... / 47 797 / 48 246 / United Arab Emirates
+24 Feb 2020: 1 / ... / 45 / ... / 317 / ... / 4377 / ... / 27 043 / ... / 44 942 / 45 524 / Kuwait
+2 Feb 2020: 18 / ... / 106 / ... / 1000 / ... / 17 101 / ... / 34 884 / ... / 43 459 / 43 661 / Singapore
+3 Mar 2020: 1 / ... / NA / ... / 794 / ... / 10 861 / ... / 23 672 / ... / 42 982 / 43 628 / Ukraine
+2 Mar 2020: 2 / ... / NA / ... / 8251 / ... / 25 351 / ... / 32 500 / ... / 41 646 / 41 912 / Portugal
+2 Feb 2020: 2 / ... / 3 / ... / 2311 / ... / 8772 / ... / 18 086 / ... / 35 455 / 36 438 / Philippines
+3 Mar 2020: 1 / ... / NA / ... / 2554 / ... / 13 105 / ... / 23 786 / ... / 33 907 / 34 154 / Poland
+10 Mar 2020: 1 / ... / NA / ... / 1317 / ... / 6720 / ... / 13 463 / ... / 31 686 / 32 785 / Panama
+1 Mar 2020: 1 / ... / NA / ... / 1284 / ... / 7288 / ... / 17 285 / ... / 31 373 / 31 816 / Dominican Republic
+25 Feb 2020: 1 / ... / 27 / ... / 17 768 / ... / 29 705 / ... / 30 862 / ... / 31 617 / 31 652 / Switzerland
+26 Feb 2020: 1 / ... / 3 / ... / 2460 / ... / 12 567 / ... / 19 257 / ... / 26 313 / 26 582 / Romania
+29 Feb 2020: 1 / ... / 1 / ... / 3447 / ... / 20 833 / ... / 24 990 / ... / 25 439 / 25 462 / Ireland
+21 Feb 2020: 1 / ... / 10 / ... / 6092 / ... / 16 101 / ... / 17 071 / ... / 23 755 / 24 441 / Israel
+2 Feb 2020: 20 / ... / 256 / ... / 2384 / ... / 14 305 / ... / 16 851 / ... / 18 390 / 18 476 / Japan
+25 Feb 2020: 2 / ... / 14 / ... / 10 711 / ... / 15 531 / ... / 16 731 / ... / 17 654 / 17 723 / Austria
+6 Mar 2020: 1 / ... / NA / ... / 1060 / ... / 9205 / ... / 11 412 / ... / 14 046 / 14 288 / Serbia
+27 Feb 2020: 1 / ... / 4 / ... / 3107 / ... / 9311 / ... / 11 669 / ... / 12 675 / 12 751 / Denmark
+2 Mar 2020: 1 / ... / NA / ... / 654 / ... / 4569 / ... / 7807 / ... / 12 052 / 12 290 / Morocco
+1 Mar 2020: 3 / ... / NA / ... / 3589 / ... / 7737 / ... / 9268 / ... / 11 603 / 11 805 / Czech Republic
+26 Feb 2020: 1 / ... / 19 / ... / 4877 / ... / 7783 / ... / 8440 / ... / 8855 / 8862 / Norway
+2 Feb 2020: 8 / ... / 29 / ... / 2908 / ... / 6071 / ... / 7819 / ... / 8634 / 8637 / Malaysia
+2 Feb 2020: 12 / ... / 27 / ... / 5105 / ... / 6767 / ... / 7195 / ... / 7764 / 7767 / Australia
+2 Feb 2020: 1 / ... / 6 / ... / 1446 / ... / 5051 / ... / 6859 / ... / 7198 / 7209 / Finland
+
+[*On 2 Jun 2020, France completed a review of all positive lab tests reported and removed all duplicate tests on individuals who were counted more than once. This led to a decrease in cumulative case counts.
+In the table above, NA is "not applicable"; those countries whose 1st case was reported after 1 Mar 2020 did not have cases on 1 Mar 2020. - Mod.MPP]
+
+Countries with more than 5000 cases not on the list above (as the list has grown longer, we froze the list and maintain a list of countries passing the 5000-case mark):
+Argentina (62 268), Iraq (47 151), Oman (39 060), Bolivia (32 125), Afghanistan (31 238), Bahrain (26 239), Nigeria (25 133), Armenia (25 127), Kazakhstan (21 327), Honduras (18 082), Guatemala (17 409), Ghana (17 351), Azerbaijan (16 968), Moldova (16 357), Algeria (13 571), Nepal (13 248), Cameroon (12 592), Sudan (9257), Cote d'Ivoire (9214), Uzbekistan (8222), Congo DR (Kinshasa) (6939), Senegal (6698), North Macedonia (6209), Kenya (6190), El Salvador (6173), Tajikistan (5900), Haiti (5920), Ethiopia (5846), Guinea (5351), Venezuela (5530), Gabon (5394), Kyrgyzstan* (5017)
+
+Countries and territories with 1000-5000 cases (in decreasing order of cumulative cases:
+Bulgaria, Djibouti, Bosnia and Herzegovina, Luxembourg, Mauritania, Hungary, French Guiana, Central African Republic, Greece, Costa Rica, Thailand, Somalia, Croatia, Mayotte, Albania, Cuba, Maldives, Paraguay, Palestinian Authority, Mali, Nicaragua, Madagascar, Sri Lanka, Equatorial Guinea, South Sudan, Estonia, Iceland, Lithuania, Lebanon, Slovakia, Guinea-Bissau, Slovenia, Zambia, New Zealand, Sierra Leone, Hong Kong, Benin, Tunisia, Cabo Verde, Malawi, Jordan, Yemen, Latvia, Republic of Congo (Brazzaville), Niger, Rwanda*
+
+Countries with 500-999 cases (in decreasing order of cumulative cases):
+Cyprus, Burkina Faso, Uruguay, Georgia, Mozambique, Uganda, Chad, Andorra, Libya, Eswatini/Swaziland, Liberia, Sao Tome and Principe, San Marino, Jamaica, Malta, Togo, Zimbabwe, Channel Islands, Reunion, Tanzania, Suriname*, Montenegro*
+
+Countries with notable overnight changes or escalating reports to keep an eye on (in alphabetical order):
+Afghanistan, Albania, Algeria, Angola, Armenia, Azerbaijan, Bangladesh, Benin, Botswana*, Cabo Verde, Cameroon, Chile*, Costa Rica, Ecuador, Egypt, Equatorial Guinea, Eritrea, French Guiana, Honduras, Hungary, India, Indonesia, Iran, Iraq, Kenya, Kuwait, Malawi, Mali, Mauritania, Mexico, Moldova, Montenegro, Namibia, Nepal, Oman, Palestinian Authority, Peru*, Philippines, Poland, Qatar, Romania, Rwanda*, Saudi Arabia, Senegal, Seychelles, South Sudan, Sudan, Tajikistan, Turks and Caicos, Uzbekistan, Zambia, Zimbabwe
+
+*Newly added countries to grouping
+
+Total number of reported deaths: 508 020
+Total number of worldwide cases: 10 407 928
+Number of newly confirmed cases in past 24 hours: 164 918
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[According to the data on the Worldometer website, the total number of reported cases of COVID-19 worldwide is now 10 407 928, with reports of cases by 217 countries and territories worldwide. The global case count rose by 1.6% in the past 24 hours. The USA, with more than 2.68 million confirmed cases, now represents 25.8% of the global cases of COVID-19, and Brazil with more than 1.37 million cases represents 13.2% of the global cases of COVID-19. Other countries such as Chile, Peru, Mexico, India, Saudi Arabia, South Africa, and Pakistan are reporting increased numbers of new and cumulative cases as well. If one tallies the total cumulative case counts for the top 5 countries (USA, Brazil, Russia, India, and the UK), they represent over half of the total cases reported globally (53.5%). A global total of 508 020 deaths have been reported, an increase of 3654 deaths in the past 24 hours. A reminder that in the absence of well-developed contact-tracing activities with testing of asymptomatic and mildly ill contacts, numbers of SARS-CoV-2 virus infections are significantly underreported: actual numbers may be 10-20 times larger. There are also individuals who stay at home throughout their illness, sometimes, unfortunately, dying at home, who are never officially confirmed as infected with the SARS-CoV-2 virus. These data are presented to provide relative indicators of the situations in each of the countries and comparisons between countries and regions of the world.
+
+In descending rank order, the USA is number 1 for cumulative confirmed cases of COVID-19, followed by Brazil, Russia, India, the UK, Spain, Peru, Chile, Italy, and Iran at number 10. China is number 22 (unchanged) In descending rank order, the USA is number 1 for the number of newly confirmed cases in the past 24 hours, followed by Brazil, India, Russia, South Africa, Chile, Bangladesh, Saudi Arabia, Mexico, and Pakistan; the same 10 countries as yesterday, some switching in order, all countries that are currently experiencing major community-based transmission and considered global hot spots.
+
+The top 20 countries in terms of cumulative cases include 7 from the European region, 6 from the Americas region, 4 from the Eastern Mediterranean region, 2 from the South-East Asia region, and 1 from the African region, no change in the past 48 hours. There are no countries from the Western Pacific region. The top 20 countries in terms of numbers of newly confirmed cases in the past 24 hours include 8 from the Americas region, 6 from the Eastern Mediterranean region, 4 from the European region, 1 from the South-East Asia region, and 1 from the African region (an increase of 2 in the European region and a decrease in 2 from the South East Asia region). Again, there are no countries from the Western Pacific region. This listing very much reflects the "hot spots" in terms of countries and regions with ongoing high transmission of the SARS-CoV-2 virus. - Mod.MPP]
+See Also
+COVID-19 update (294): selected countries 20200629.7520447
+COVID-19 update (293): meat plants, China (HB) WHO, global 20200629.7520442
+COVID-19 update (292): selected countries 20200628.7518079
+COVID-19 update (291): fast-track tools, multi-organ, WHO, global 20200627.7517057
+COVID-19 update (290): selected countries 20200627.7515667
+COVID-19 update (280): pangolin, research 20200623.7502805
+COVID-19 update (270): India, rapid breath test, WHO, global 20200619.7486560
+COVID-19 update (260): China (Beijing) South Africa, WHO, global 20200615.7469624
+COVID-19 update (250): selected countries 20200610.7448037
+COVID-19 update (240): journal retractions, Yemen, WHO, global 20200606.7433414
+COVID-19 update (230): Netherlands (NB, LI) animal, farmed mink, spread, control 20200602.7420433
+COVID-19 update (220): global, USA, Italy genomic studies, WHO 20200530.7400094
+COVID-19 update (210): global, Rwanda innov., Solidarity hold, Germany church, WHO 20200526.7376354
+COVID-19 update (200): global, Yemen, WHO 20200522.7364937
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+Undiagnosed pediatric inflammatory syndrome (05): Europe, USA, COVID-19 assoc 20200518.7340554
+Undiagnosed pediatric inflammatory syndrome (04): USA, UK, PMIS, fatal 20200509.7315405
+Undiagnosed pediatric inflammatory syndrome (03): USA, Europe, COVID-19 susp, RFI 20200505.7299876
+COVID-19 update (150): global, USA state prisons, WHO 20200502.7290671
+COVID-19 update (100): China, S. Korea & high local transmission countries 20200413.7217806
+COVID-19 update (50): China (Hong Kong) animal dog, 2nd case PCR positive, OIE 20200323.7129951
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (41): China, global, clinical pics, asymptomatic trans., WHO 20200210.6976117
+Novel coronavirus (40): animal reservoir, pangolin poss intermediate host, RFI 20200210.6972104
+Novel coronavirus (30): updates, China, Viet Nam, research 20200202.6945658
+Novel coronavirus (20): China, wildlife trade ban 20200127.6922060
+Novel coronavirus (10): China (HU, GD, BJ) 20200119.6898567
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia - China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia - China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+----
+Undiagnosed pneumonia - China (HU): RFI 20191230.6864153
+.................................................mpp/mj/lxl
+</body>

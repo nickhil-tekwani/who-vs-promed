@@ -1,0 +1,321 @@
+<header id=010956>
+Published Date: 2022-07-03 17:59:44 EDT
+Subject: PRO/AH/EDR> COVID-19 update (149): long COVID, Europe, booster, airborne trans., WHO, global
+Archive Number: 20220703.8704209
+</header>
+<body id=010956>
+CORONAVIRUS DISEASE 2019 UPDATE (149): LONG COVID, EUROPE, BOOSTER, AIRBORNE TRANSMISSION, WHO, GLOBAL
+******************************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] COVID brain fog
+[2] Europe: summer cases
+[3] CIDRAP update
+[A] FDA urges BA.4/5 booster tweak
+[B] Airborne spread of COVID
+[4] WHO: daily new cases reported (as of 1 Jul 2022)
+[5] Global update: Worldometer accessed 1 Jul 2022 20:05 EST (GMT-5)
+
+******
+[1] COVID brain fog
+Date: Fri 1 Jul 2022
+Source: Wired [edited]
+https://apple.news/A4jHd__DWSI-5ekZ6hDfGwg
+
+
+The Secrets of COVID 'Brain Fog' Are Starting to Lift
+-----------------------------------------------------
+... New research in the journal Cell is shedding some light on the biological mechanisms of how COVID-19 affects the brain. Led by researchers Michelle Monje and Akiko Iwasaki, of Stanford and Yale Universities respectively, scientists determined that in mice with mild COVID-19 infections, the virus disrupted the normal activity of several brain cell populations and left behind signs of inflammation. They believe that these findings may help explain some of the cognitive disruption experienced by COVID-19 survivors and provide potential pathways for therapies.
+
+For the past 20 years, Monje, a neuro-oncologist, had been trying to understand the neurobiology behind chemotherapy-induced cognitive symptoms -- similarly known as "chemo fog." When COVID-19 emerged as a major immune-activating virus, she worried about the potential for similar disruption. "Very quickly, as reports of cognitive impairment started to come out, it was clear that it was a very similar syndrome," she says. "The same symptoms of impaired attention, memory, speed of information processing, dis-executive function -- it really clinically looks just like the 'chemo fog' that people experienced and that we'd been studying."
+
+In September 2020, Monje reached out to Iwasaki, an immunologist. Her group had already established a mouse model of COVID-19. ... Using a viral vector, Iwasaki's group introduced the human ACE2 receptor into cells in the trachea and lungs of the mice. This receptor is the point of entry for the COVID-causing virus, allowing it to bind to the cell. Then they shot a bit of virus up the mice's noses to cause infection, controlling the amount and delivery so that the virus was limited to the respiratory system. For the mice, this infection cleared up within one week, and they did not lose weight.
+
+... Once the mice had been infected with the virus, the scientists assessed the levels of cytokines in their blood and cerebrospinal fluid (the liquid surrounding the brain) at 7 days and 7 weeks after infection. Cytokines are markers secreted by the immune system, and they are critical in regulating inflammation. Not only were certain cytokines elevated in the cerebrospinal fluid at both time periods, but the scientists saw an increase of microglia reactivity in the subcortical white matter of the brain -- the squishy white tissue rife with nerve fibers that makes up over half of the brain's volume. That was another sign of potential trouble.
+
+Microglia are sort of like the central nervous system's hungry scavengers. They are immune cells that clean up the brain by chomping on dead and unwanted neural debris, among other important functions. "There's a unique subpopulation of microglia in the white matter called axon tract microglia," Monje says. These have a specific genetic signature, she continues, and "are exquisitely sensitive to a wide range of insults," like inflammatory or toxic stimuli.
+
+In response to these stimuli, microglia can become perpetually reactive. One consequence is that they can begin eating away at needed neurons or other brain cells, which further disrupts the brain's homeostasis. In the case of COVID-19, the scientists found that this reactivity persisted even at 7 weeks after infection. Monje's team had seen similar elevation in this activity following chemotherapy and in brain samples from human patients who were infected with COVID-19. In the hippocampus (the area of the brain closely associated with memory), this overenthusiastic cleanup effort can deter the creation of new neurons, which are linked to maintaining healthy memory.
+
+To figure out what exactly caused the microglia to become reactive, the researchers looked for the cytokines that had reached elevated levels. Specifically, Anthony Fernandez Castaneda, a postdoctoral researcher in Monje's laboratory and a study coauthor, found CCL11 -- a factor that can decrease the generation of new neurons and impair learning or memory. "The elevated CCL11 result was very interesting, because it could potentially explain why some COVID survivors experience cognitive symptoms," he says.
+
+In a 2nd phase of the experiment, the researchers gave shots of CCL11 to a separate group of mice. Then they examined tissue from their brains to discover where the microglia had been reactive, and where fewer new neurons had grown. That turned out to be in the hippocampus -- indicating that CCL11 acted on very specific cell populations in a memory-related area of the brain.
+
+Next, the scientists decided to investigate the effects of mild COVID-19 infection on myelinating oligodendrocytes -- brain cells that generate the myelin "padding" around neurons to provide insulation for better inter-neuron communication. Previously, work done by Anna Geraghty (another postdoctoral fellow in Monje's lab and study coauthor) had focused on how chemotherapy affects this process. Myelin loss in the mice treated with chemo was found to be directly linked with deficits in short-term memory and attention. "Even minor adjustments in those myelin can actually impact neuronal communication in quite diverse ways," she says. "Losing that ability to adaptively respond to neuronal activity led to persistent cognitive impairments in these mice."
+
+... The infected mice had lost approximately 1/3 of their mature oligodendrocytes, and had a statistically significant drop in myelination compared to mice in a control group. The magnitude of myelin loss was almost identical to what the lab had discovered when studying mice and chemo. She excitedly texted the results to Monje. "There was just a big moment in my brain of, 'Oh my gosh, this data is incredibly interesting,'" Geraghty recalls.
+
+Joanna Hellmuth, a cognitive neurologist at UC San Francisco who was unaffiliated with the study, notes that the "mouse data is very compelling," and more studies are needed to see how these results translate into treatments for human patients -- like Guy or others struggling with long COVID and cognitive symptoms. Figuring out which drugs to try first, though, could benefit from understanding the biological cause of brain fog symptoms. "'Brain fog' is a colloquial term," says Hellmuth--and it "kind of delegitimizes peoples' having a neurological disorder."
+
+Wes Ely, a pulmonary and critical care specialist at Vanderbilt University Medical Center who was unaffiliated with the study, believes that such studies can lead to future therapeutic development. "This work paves the path towards both pharmacological, neuropsychological, and cognitive rehabilitative mechanisms to rebuild brain power," he says.
+
+For example, Monje thinks, some drug candidates that already worked in "chemo fog" animal models might be useful for treating COVID-related cognitive symptoms. She hopes to test these candidates on the COVID-19 mouse model to see if they help.
+
+The team would also like to investigate other questions, like whether these neurological effects are different after even longer periods of time, or if they are different following a breakthrough infection after vaccination. They'd also like to compare what they've found in COVID-19 mouse models to neurological reactions to another famous virus -- H1N1, which causes swine flu. The team had found that in a mouse model of H1N1, the drop in oligodendrocytes and increase in microglial reactivity in the subcortical white matter generally normalized by 7 weeks -- unlike for the COVID-infected mice. They also found that, in mice infected with either virus, CCL11 was elevated in the cerebrospinal fluid. Monje hopes to study what she calls this "prominent shared mechanism" in further detail.
+
+While Monje and Iwasaki's work has given researchers a better idea of how COVID might affect the brain, it may take years before there is a working treatment for patients. For Guy, the time cannot come soon enough. In 2022, she got COVID again. "I'm just praying for medicine, praying for treatment," she says.
+
+[Byline: Maggie Chen]
+
+--
+Communicated by:
+Mary Marshall
+<mjm2020@googlemail.com>
+
+[Citation: Anthony Fernández-Castañeda, Peiwen Lu, Anna C. Geraghty, et al. Mild respiratory COVID can cause multi-lineage neural cell and myelin dysregulation. Cell. Published: 12 Jun 2022. DOI: https://doi.org/10.1016/j.cell.2022.06.008
+
+Highlights
+- Respiratory COVID induces CSF cytokine elevation and microglial reactivity
+- CCL11 activates hippocampal microglia and impairs neurogenesis
+- Respiratory COVID causes persistent loss of oligodendrocytes and myelinated axons
+- Respiratory influenza causes similar but less persistent cellular dysregulation
+
+Discussion
+"Taken together, the findings presented here illustrate that even mild respiratory infection with SARS-CoV-2 can result in persistent neuroinflammatory changes and consequent dysregulation of neural cell types important for healthy cognitive function. Such neuroinflammatory changes -- particularly white-matter-selective/enriched microglial reactivity -- are associated with impaired hippocampal neurogenesis, dysregulation of the oligodendroglial lineage, and myelin loss in other disease contexts. ... SARS-CoV-2 infection induces a broad inflammatory response -- well beyond the typical type-1 immune response seen with other respiratory viral infections (Lucas et al., 2020). Concordantly, we find here that even mild respiratory COVID can induce prominent elevation of multiple cytokines and chemokines together with lasting reactivity of white matter microglia in subcortical and hippocampal regions." - Mod.LK]
+
+******
+[2] Europe: summer cases
+Date: Thu 30 Jun 2022
+Source: FRANCE 24 [edited]
+https://apple.news/A_7YbRq9BT5ykTd8dr-_l3w
+
+
+Europe to see 'high levels' of COVID-19 this summer, WHO says
+-------------------------------------------------------------
+The World Health Organization said Thursday [30 Jun 2022] it expected "high levels" of COVID-19 in Europe this summer [2022] and called on countries to monitor the spread as cases tripled in the past month.
+
+"As countries across the European region have lifted the social measures that were previously in place, the virus will transmit at high levels over the summer [2022]", WHO Europe regional director Hans Kluge told AFP.
+
+"This virus won't go away just because countries stop looking for it. It's still spreading, it's still changing, and it's still taking lives."
+
+With the milder but more contagious omicron subvariant BA.5 spreading across the continent, the 53 countries in the WHO European region are currently registering just under 500 000 cases daily, according to the organisation's data.
+
+That is up from around 150 000 cases daily at the end of May [2022].
+
+Austria, Cyprus, France, Germany, Greece, Luxembourg and Portugal were the countries with the highest incidence rates, with almost all countries in the region seeing a rise in cases.
+
+After registering around 4000 to 5000 deaths per day throughout most of the winter [2021/22], Europe is currently seeing around 500 deaths per day, about the same level as during the summer of 2020.
+
+"We hope that the strong vaccine programmes most member states have implemented together with prior infection will mean that we avoid the more severe consequences that we saw earlier in the pandemic", Kluge said.
+
+"However, our recommendations remain," he stressed.
+
+The WHO urged people experiencing respiratory symptoms to isolate, to stay up to date with their vaccinations and wear masks in crowded places. Kluge also urged member states to keep testing for the virus.
+
+"We must keep looking for the virus because not doing so makes us increasingly blind to patterns of transmission and virus evolution," Kluge said. He also called on countries to increase their vaccination rates.
+
+"High population immunity and the choices made to lower risk to older people is key to preventing further mortality this summer [2022]," he said.
+
+--
+Communicated by:
+Mary Marshall
+<mjm2020@googlemail.com>
+
+[COVID cases are again surging in Europe, driven by the BA.4 and BA.5 subvariants of the SARS-CoV-2 virus's omicron variant that are deemed to be 10%-15% more infectious than earlier virus iterations and are spreading fast in Portugal, France, Germany, Italy, Spain, Greece, the Netherlands and Denmark.
+
+In France, cases have climbed to 920 in a week from 224 on 13 Jun 2022, the Guardian reported, citing data from aggregator Our World in Data. Experts are now concerned that with few restrictions left in place and low booster take-up, the continent could be facing a steep increase in cases this summer (2022).
+
+Portugal has seen the biggest wave with infections per million residents at a 7-day average of 2043 on Monday (20 Jun 2022), the 2nd highest new-case rate in the world.
+
+French health expert Dr. Damien Mascret told France 2 television that the BA.4 and BA.5 variants had led to significant excess deaths in Portugal, adding that hospital admissions in France were up 27% and intensive-care admissions 17% in a week's time.
+
+"The holiday season is about to start, almost all restrictions have been relaxed -- things could take off again very fast indeed," he said. "It's concerning that only 29% of over-60s have so far got the 4th dose to which they are all entitled." ... (excerpted from https://www.marketwatch.com/story/covid-cases-surge-again-in-europe-and-moderna-says-booster-candidate-protects-against-ba-4-and-ba-5-omicron-subvariants-11655908498 24 Jun 2022)
+
+On Twitter, Dr Helen Salisbury (https://mobile.twitter.com/HelenRSalisbury) tweeted the latest ONS figures: 1 in 18 people in Scotland, 1 in 30 people in England currently have COVID. The tweet was forwarded by Mary Marshall. - Mod.LK]
+
+******
+[3] CIDRAP update
+[A] FDA urges BA.4/5 booster tweak
+Date: Thu 30 Jun 2022
+Source: CIDRAP (Center for Infectious Disease Research and Policy) [abridged, edited]
+https://www.cidrap.umn.edu/news-perspective/2022/06/news-scan-jun-30-2022
+
+
+FDA recommends booster update to target BA.4 and BA.5
+-----------------------------------------------------
+Following a vaccine advisory group input earlier this week, the Food and Drug Administration (FDA) today [30 Jun 2022] recommended that vaccine companies update their booster shots to target BA.4 and BA.5, 2 omicron subvariants that are driving up cases in a number of countries.
+
+In a statement, Peter Marks, MD, PhD, who directs the FDA's Center for Biologics Evaluation and Research, urged vaccine makers to produce a bivalent booster that adds in an omicron BA.4/5 spike protein component.
+
+Vaccine makers have already been conducting clinical trials on boosters that have an omicron BA.1 component. The FDA urged the companies to submit data on those vaccines and to begin clinical trials on boosters modified with the omicron BA.4/5 component. Marks said the vaccine could potentially be used starting in early to mid-fall of 2022.
+
+In a related development, the US Department of Health and Human Services (HHS) yesterday [29 Jun 2022] announced an agreement to buy 105 million doses of Pfizer vaccine for fall [2022] vaccination campaigns, with an option to acquire up to 300 million doses. The USD 3.2 billion contract includes both pediatric and adult doses and for the 1st time includes single-dose vials for some of the adult vaccine.
+
+--
+Communicated by:
+Mary Marshall
+<mjm2020@googlemail.com>
+
+[FDA statement 30 Jun 2022 is at http://tinyurl.com/4e7setxv while HHS statement 29 Jun 2022 is at http://tinyurl.com/bdh34ds4. - Mod.LK]
+
+---
+[B] Airborne spread of COVID
+Date: Thu 30 Jun 2022
+Source: CIDRAP (Center for Infectious Disease Research and Policy) [abridged, edited]
+https://www.cidrap.umn.edu/news-perspective/2022/06/news-scan-jun-30-2022
+
+
+Study shows long-distance spread of COVID-19 in some indoor settings
+--------------------------------------------------------------------
+A new systematic review of 18 studies finds evidence suggesting that long-distance airborne transmission (more than 2 meters away) of SARS-CoV-2 might occur in indoor settings such as restaurants, workplaces, and venues for choirs. The study was published in The BMJ yesterday [29 Jun 2022].
+
+The study also identifies factors such as insufficient air replacement that likely contributed to transmission. Included in the 18 studies were surveys of spreading events that took place between January 2020 and January 2022 in Europe, Asia, and the United States.
+
+The authors found long-distance airborne transmission was likely in 16 of the 18 studies. In 13 of the 18 studies, the index patient was asymptomatic or pre-symptomatic.
+
+The most convincing evidence of long-distance transmission came from 8 events where singing occurred, the authors said.
+
+"Modifying factors such as insufficient air replacement and singing are likely to result in an increased concentration of infectious respiratory particles within the indoor space, whereas factors such as directional air flow are likely to allow viable virus to travel further in a certain direction, which could potentially infect someone downstream of a primary case," the authors concluded.
+
+In an accompanying editorial, corresponding authors write that the study, "Validates the premise that tiny respiratory particles containing SARS-CoV-2 freely transmit throughout inadequately ventilated environments. Now, indeed, is the time for an indoor air revolution."
+
+--
+Communicated by:
+Mary Marshall
+<mjm2020@googlemai.com>
+
+[Citations:
+1. Daphne Duval, Jennifer C Palmer, Isobel Tudge et al. Long distance airborne transmission of SARS-CoV-2: rapid systematic review. BMJ 2022; 377; e068743. doi: https://doi.org/10.1136/bmj-2021-068743 (Published 29 Jun 2022)
+2. Stephanie J Dancer. Airborne SARS-CoV-2. BMJ 2022; 377:o1408 Editorial. doi: https://doi.org/10.1136/bmj.o1408 (Published 29 Jun 2022)
+
+"...The evidence presented in Duval and colleagues' review, tenuous as it is, validates the premise that tiny respiratory particles containing SARS-CoV-2 freely transmit throughout inadequately ventilated environments. That this small group of scientists have (almost) won their argument is of small consolation to those still experiencing the effects of COVID-19. But through persistence and escalating independent evidence, better indoor air quality can be entertained for everyone in the future.(30) It is hoped that public health leaders will develop practical guidance and "tilt" people and places closer to safety.(31) Now, indeed, is the time for an indoor air revolution.(32,33)"
+
+See Dancer article for full editorial and references. - Mod.LK]
+
+******
+[4] WHO: daily new cases reported (as of 1 Jul 2022)
+Date: Fri 1 Jul 2022
+Source: WHO [abridged, edited]
+https://covid19.who.int/table
+
+
+*Daily case reports as of 1 Jul 2022 16:48 CET
+
+Surveillance
+------------
+WHO region (no. countries/territories):
+Total confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+--------------------------------------------------------------------------------
+Western Pacific Region (19): 64 227 257 (163 573) / 238 564 (249)
+European Region (61): 228 322 452 (391 099) / 2 027 169 (253)
+South East Asia Region (10): 58 582 430 (23 421) / 790 063 (47)
+Eastern Mediterranean Region (22): 22 003 118 (0) / 343 560 (0)
+Region of the Americas (54): 162 968 878 (250 775) / 2 761 824 (951)
+African Region (49): 9 121 651 (755) / 173 535 (0)
+Cases on an international conveyance: 764 (0) / 13 (0)
+
+Confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+Grand total: 545 226 550 (829 623) / 6 334 728 (1500)
+
+--
+Communicated by:
+ProMED
+
+[Data by country, area, or territory for 1 Jul 2022 can be accessed at https://promedmail.org/wp-content/uploads/world-pdf/2022%20WHO%20Data%20Tables%201%20Jul_1656876515.pdf
+
+- The Americas region reported 30.2% of cases and 63.4% of deaths during the past 24 hours. It has reported more than 162.96 million cases, 2nd to the European region as the most severely affected region. The USA reported 142 306 cases followed by Brazil, Chile, Puerto Rico, Guatemala, Peru, Panama, Ecuador, Dominican Republic, and Bolivia, all reporting over 1000 cases over the last 24 hours.
+
+- The European region reported 47.1% of cases and 16.9% of deaths over the last 24 hours. It is the most affected region with cumulative cases exceeding 228.32 million. Many countries did not report cases in the last 24 hours or longer including Turkey, Spain, Ukraine, Belgium (15 cases), Romania, Hungary, Ireland, and Tajikistan. A total of 15 countries reported more than 1000 cases in the past 24 hours; 1 country reported more than 100 000 cases, 8 countries reported more than 10 000, and 6 reported over 1000 cases, while 7 countries reported more than 500 but fewer than 1000 cases.
+
+- The Eastern Mediterranean region reported no cases or deaths during the past 24 hours, having reported a cumulative total of more than 22.00 million cases.
+
+- The African region reported 0.09% of cases and no deaths during the past 24 hours, having reported a cumulative total of more than 9.12 million cases. Kenya (404) reported the highest number of cases over the last 24 hours followed by Cote d'Ivoire. Up to 44 countries did not report any cases over the last 24 hours.
+
+- The Western Pacific region reported 19.7% of daily case numbers and 16.6% of deaths in the past 24 hours, having reported a cumulative total of more than 64.22 million cases. Japan (46 437) reported the highest number of cases over the last 24 hours followed by Australia, China, South Korea, Singapore, New Zealand, Malaysia, Philippines, Viet Nam, and Brunei.
+
+- The South East Asia region reported 2.8% of the daily newly reported cases and 3.1% of reported deaths in the past 24 hours, having reported a cumulative total of more than 58.58 million cases. India (17 070) reported the highest number of cases followed by Thailand (2354), Indonesia (2049), and Bangladesh (1897). Myanmar, Maldives, and Bhutan did not report any cases over the last 24 hours. Maldives, Myanmar, and North Korea, among others, did not report cases over the last many weeks.
+
+On the Overview tab at the WHO source URL, the epidemic curve of confirmed COVID-19 cases by WHO region, 30 Dec 2019 through 1 Jul 2022, is an excellent visual representation of the pandemic. - Mod.UBA]
+
+******
+[5] Global update: Worldometer accessed 1 Jul 2022 20:05 EST (GMT-5)
+Date: Fri 1 Jul 2022
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+Total number of reported cases: 553 566 290
+Total number of reported deaths: 6 359 949
+Number of newly confirmed cases in the past 24 hours: 980 115
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at https://promedmail.org/wp-content/uploads/world-pdf/2022%20WORLDDATA%20JULY1_1656791688.pdf.
+
+A 7-day series of cumulative data reported by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/2022%20JULY1WORLD7_1656791706.pdf. - Mod.UBA]
+
+--
+Communicated by:
+ProMED
+
+[In the past 24 hours, 21 countries: the USA (147 003), Germany (113 099), France (125 066), Italy (86 900), Spain (84 146), Brazil (75 749), Australia (25 136), Taiwan (35 766), Columbia (23 827), Mexico (24 087), Belgium (20 856), the UK (20 720), Japan (23 522), India (17 237), Israel (15 928), Greece (15 869), Ireland (13 229), Austria (12 509), Chile (11 845), South Korea (86 900), and Austria (10 424) reported the highest numbers of cases, all reporting more than 10 000 newly confirmed cases. A global total of 2085 deaths were reported in the preceding 24 hours (30 Jun-01 Jul 2022).
+
+A total of 44 countries reported more than 1000 cases in the past 24 hours; 24 of the 44 countries are from the European region, 6 are from the Americas region, 2 from the Eastern Mediterranean region, 6 are from the Western Pacific region, 4 are from the South East Asia region, and 2 from the African region.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, case counts have increased by 16.7%, while daily reported deaths have increased by 5.1%. Comparative 7-day averages in the USA show a 7.9% increase in daily reported cases and an 11.1% increase in reported deaths.
+
+Impression: The global daily reported over 0.98 million newly confirmed infections in the past 24 hours with over 553.56 million cumulative reported cases and more than 6.35 million reported deaths. - Mod.UBA
+
+ProMED map:
+Worldwide: https://promedmail.org/promed-post?place=8704209,8854]
+See Also
+COVID-19 update (148): cases, maternal deaths, wastewater testing, WHO, global 20220701.8704171
+COVID-19 update (147): neurodegenerative disorders risk, Australia, WHO, global 20220629.8704142
+COVID-19 update (146): access to antivirals, reinfection, corr, WHO 20220626.8704089
+COVID-19 update (145): immune response, Paxlovid, WHO 20220624.8704045
+COVID-19 update (144): CDC child vacc, N Korea, variants, WHO 20220622.8703999
+COVID-19 update (143): long COVID, FDA, South Asia, WHO, global 20220619.8703945
+COVID-19 update (142): immunity boost, WHO, global 20220617.8703919
+COVID-19 update (141): vacc. effectiveness in children, WHO, global 20220615.8703865
+COVID-19 update (139): aerosol spread, in utero exposure, long COVID, WHO, global 20220611.8703811
+COVID-19 update (138): MIS-C, children, Novavax, origin, South Asia, WHO, global 20220611.8703804
+COVID-19 update (137): long COVID, police deaths, vaccines, WHO, global 20220611.8703803
+COVID-19 update (136): deaths, new variants, vaccine, WHO, global 20220609.8703761
+COVID-19 update (135): N.Korea, France, sleep, antibody test, WHO, global 20220608.8703735
+COVID-19 update (134): Paxlovid studies, boosters, N. Korea, WHO, global 20220605.8703674
+COVID-19 update (133): end of COVID, Portugal, India, Pfizer, S Asia, WHO, global 20220603.8703661
+COVID-19 update (132): pandemic end, Shanghai, masks, WHO, global 20220603.8703642
+COVID-19 update (131): long COVID, cardiac care, comment, WHO, global 20220601.8703623
+COVID-19 update (130): surveill., cardiac eff., long COVID subtypes, WHO, global 20220601.8703606
+COVID-19 update (120): N Korea, pandemic exit, youth vaccine, US deaths, WHO 20220518.8703327
+COVID-19 update (110): mutations, mental health, China, S Africa, Paxlovid, WHO 20220505.8703018
+COVID-19 update (100): vacc. intervals, deaths, long COVID, subvariants, global 20220420.8702717
+COVID-19 update (90): strategy, 2nd booster, WHO 20220407.8702454
+COVID-19 update (80): animal, USA, deer, transmission 20220325.8702212
+COVID-19 update (70): case count, UK, BA.2, USA, WHO, global 20220312.8701940
+COVID-19 update (60): animal, China, origin, research 20220227
+COVID-19 update (50): Hong Kong, estrogen risk, maternal vaccine benefits, WHO 20220217.8701501
+COVID-19 update (40): Denmark, rosemary, pregnancy, stroke, WHO 20220205.8701276
+COVID-19 update (30): variants in immuno-comp., stability, endemic, WHO 20220126.8701074
+COVID-19 update (20): Africa vacc., Taiwan, waning immunity, persistence, global 20220117.8700915
+COVID-19 update (10): animal, omicron origin statement, OIE 20220110.8700763
+COVID-19 update (01): omicron severity & changes, Germany, T-cell reactivity 20220101.8700616
+2021
+----
+COVID-19 update (452): rapid test, omicron, Ab neutralization, school, WHO 20211230.8700597
+COVID-19 update (451): animal, USA, wild deer 20211230.8700589
+COVID-19 update (450): maternal Abs, CDC isolation guidance, WHO 20211230.8700575
+COVID-19 update (400): animal, sheep, research, experimental infection 20211121.8699806
+COVID-19 update (350): boosters, deaths, cases, vaccines, WHO 20211014.8699041
+COVID-19 update (300): Norway, myocarditis, schools, new variant C.1.2, WHO 20210901.8638460
+COVID-19 update (200): animal, China, origin 20210608.8433657
+COVID-19 update (100): antibodies, vaccine, Thailand, Cambodia, WHO, global 20210316.8250009
+COVID-19 update (50): UK vaccine study, Brazil reinfection, WHO 20210205.8167161
+COVID-19 update (01): variants, vaccine, Thailand, global, WHO 20210101.80629382020
+2020
+----
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+COVID-19 update (562): viral load, UK vacc dose, ECDC, WHO 20201231.8061525
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia: China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia: China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+----
+Undiagnosed pneumonia: China (HU): RFI 20191230.686415
+.................................................sb/lk/mpp/uba/may/tw/ml
+</body>

@@ -1,0 +1,512 @@
+<header id=064122>
+Published Date: 2020-03-16 13:11:10 EDT
+Subject: PRO/AH/EDR> COVID-19 update (41): global, surge capacity, vaccine development, WHO
+Archive Number: 20200316.7096222
+</header>
+<body id=064122>
+CORONAVIRUS DISEASE 2019 UPDATE (41): GLOBAL, CLINICAL SURGE CAPACITY, VACCINE DEVELOPMENT, WHO
+***********************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] Global update: Worldometer 15 Mar 2020 11:30 PM GMT -4
+[2] China: National Health Commission 15 Mar 2020
+[3] Observation on decreasing numbers of cases in Wuhan
+[4] Countries with notable local transmission (South Korea, Italy, Iran)
+[5] New countries confirming cases (4 countries/territories)
+[6] Vaccine Development
+[7] Italy: ICU surge capacity
+[8] WHO situation report 55 (as of 15 Mar 2020)
+
+[Well, our system finally gave up on maintaining tables with rows for each country's information (at 157 and still growing. And I am sure many of our subscribers will welcome a reduction in table sizes... Please bear with us as we try to find a good solution and presentation platform. - Mod.MPP]
+
+******
+[1] Global update: Worldometer
+Date: Sun 15 Mar 2020 [accessed 11:30 pm GMT-4]
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+Confirmed cases Start of data recording: 1st data / ... / 1 Mar 2020 / ... / 8 Mar 2020 / 9 Mar 2020 / 10 Mar 2020 / 11 Mar 2020 / 12 Mar 2020 / 13 Mar 2020 / 14 Mar 2020 / 15 Mar 2020 / Country
+
+Countries with marked decreases in daily newly confirmed cases post major activity
+--------------------------------------------------------------------------------
+2 Feb 2020: 17 187 / ... / 80 024 / ... / 80 735 / 80 754 / 80 954 / 80 932 / 80 814 / 80 824 / 80 849 / 80 860 / Mainland China
+2 Feb 2020: 15 / ... / 3726 / ... / 7382 / 7478 / 7755 / -- / 7979 / 8086 / 8162 / 8236 / South Korea
+
+Countries with major activity (more than 500 cases with community spread)
+-------------------------------------------------------------------------
+2 Feb 2020: 2 / ... / 1694 / ... / 7375 / 9172 / 10 149 / 12 462 / 15 113 / 17 660 / 21 157 / 24 747 / Italy
+19 Feb 2020: 2 / ... / 978 / ... / 6566 / 7161 / 8042 / 9000 / 10 075 / 11 364 / 12 729 / 13 938 / Iran
+2 Feb 2020: 1 / ... / 84 / ... / 673 / 1073 / 1695 / 2277 / 3146 / 5232 / 6391 / 7845 / Spain
+2 Feb 2020: 10 / ... / 130 / ... / 1040 / 1176 / 1565 / 1966 / 2745 / 3675 / 4599 / 5813 / Germany
+2 Feb 2020: 6 / ... / 130 / ... / 1209 / 1209 / 1784 / 2284 / 2876 / 3661 / 4469 / 5423 / France
+2 Feb 2020: 11 / ... / 76 / ... / 547 / 605 / 972 / 1311 / 1762 / 2294 / 2995 / 3777 / USA
+25 Feb 2020: 1 / ... / 27 / ... / 337 / 374 / 491 / 652 / 868 / 1139 / 1375 / 2217 / Switzerland
+2 Feb 2020: 2 / ... / 36 / ... / 273 / 321 / 382 / 459 / 590 / 798 / 1140 / 1391 / UK
+26 Feb 2020: 1 / ... / 19 / ... / 176 / 205 / 400 / 629 / 800 / 996 / 1111 / 1256 / Norway
+27 Feb 2020: 1 / ... / 10 / ... / 265 / 321 / 382 / 503 / 614 / 804 / 959 / 1135 / Netherlands
+2 Feb 2020: 1 / ... / 14 / ... / 203 / 248 / 355 / 500 / 687 / 814 / 961 / 1040 / Sweden
+4 Feb 2020: 1 / ... / 2 / ... / 200 / 239 / 267 / 314 / 399 / 559 / 689 / 886 / Belgium
+27 Feb 2020: 1 / ... / 4 / ... / 35 / 90 / 262 / 516 / 674 / 804 / 836 / 864 / Denmark
+25 Feb 2020: 2 / ... / 14 / ... / 104 / 131 / 182 / 246 / 361 / 504 / 655 / 860 / Austria
+2 Feb 2020: 20 / ... / 256 / ... / 502 / 511 / 581 / 639 / 691 / 734 / 804 / 839 / Japan
+
+Countries with more than 30 newly confirmed cases in 24 hours
+-------------------------------------------------------------
+2 Feb 2020: 8 / ... / 29 / ... / 99 / 117 / 129 / 149 / 158 / 197 / 238 / 428 / Malaysia
+29 Feb 2020: 1 / 3 / ... / 15 / 18 / 24 / 262 / 262 / 320 / 337 / 400 / Qatar
+2 Feb 2020: 4 / ... / 24 / ... / 64 / 77 / 79 / 117 / 158 / 198 / 252 / 341 / Canada
+26 Feb 2020: 1 / ... / 7 / ... / 73 / 73 / 89 / 99 / 117 / 190 / 228 / 331 / Greece
+2 Feb 2020: 12 / ... / 27 / ... / 76 / 91 / 107 / 128 / 160 / 199 / 249 / 300 / Australia
+1 Mar 2020: 3 / ... / 31 / 31 / 41 / 94 / 116 / 141 / 189 / 293 / Czech Republic
+2 Mar 2020: 2 / ... / 30 / 30 / 41 / 59 / 78 / 112 / 169 / 245 / Portugal
+2 Feb 2020: 1 / ... / 6 / ... / 23 / 30 / 40 / 59 / 109 / 155 / 225 / 244 / Finland
+26 Feb 2020: 1 / ... / 2 / ... / 20 / 25 / 31 / 52 / 77 / 151 / 151 / 220 / Brazil
+5 Mar 2020: 2 / ... / 16 / 16 / 31 / -- / 96 / 141 / 181 / 219 / Slovenia
+27 Feb 2020: 1 / ... / 1 / ... / 10 / 10 / 13 / 16 / 27 / 79 / 115 / 171 / Estonia
+29 Feb 2020: 1 / 1 / ... / 21 / 21 / 34 / 43 / 70 / 90 / 129 / 170 / Ireland
+2 Feb 2020: 19 / ... / 42 / ... / 50 / 50 / 53 / 59 / 70 / 75 / 82 / Thailand
+
+Total number of reported deaths: 6518
+Deaths outside mainland China: 3305 [including 7 from the Diamond Princess cruise ship]
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[According to the data on the Worldometer website, the total number of cases of COVID-19 worldwide is now 156 766, with 80 844 cases reported by China. There are now a total of 88 745 confirmed cases of COVID-19 reported from 157 countries/locations outside mainland China representing an increase of 12 823 cases when compared with the data on 14 Mar 2020 with Italy accounting for 3590 of the newly reported cases, Iran for 1209 of newly reported cases, and South Korea for 74 of the newly reported cases. There were 13 other countries with more than 30 newly confirmed cases in the past 24 hours. A global total of 6518 deaths have been reported, 3305 outside mainland China. This is the 1st time the number of reported deaths outside of Mainland China is greater than the number of deaths reported by Mainland China.
+
+For the 18th consecutive day, more cases have been reported from outside mainland China than within mainland China. And for the 2nd day, the number of newly confirmed cases from South Korea was less than 100. - Mod.MPP]
+
+******
+[2] China: National Health Commission 15 Mar 2020
+Date: Sun 15 Mar 2020
+Source: China National Health Commission [in Chinese, machine trans., edited]
+http://www.nhc.gov.cn/xcs/yqtb/202003/114113d25c1d47aabe68381e836f06a8.shtml
+
+
+At 04:00 on [15 Mar 2020], 31 provinces (autonomous regions, municipalities) and the Xinjiang Production and Construction Corps reported 16 new confirmed cases, 14 new deaths (14 in Hubei), and 41 new suspected cases.
+
+On the same day, 838 new cases were cured and discharged, and 1316 close contacts were lifted from medical observation. The number of severe cases decreased by 194.
+
+As of 24:00 on [15 Mar 2020], according to reports from 31 provinces (autonomous regions, municipalities) and the Xinjiang Production and Construction Corps, there were 9988 confirmed cases (among which, 3032 were severe cases), 67 490 were cured and discharged, and 3213 died. A total of 80 860 confirmed cases have been reported, with 134 suspected cases. A total of 680 462 close contacts were traced, and 9582 were close contacts still in medical observation.
+
+4 newly confirmed cases in Hubei (4 in Wuhan), 816 newly cured cases (752 in Wuhan), 14 new deaths (13 in Wuhan), 9605 confirmed cases (9150 in Wuhan), Of these, 2975 were severe cases (2878 in Wuhan). A total of 55 094 discharged patients (38 384 in Wuhan) were cured, a total of 3099 deaths (2469 in Wuhan), and a total of 67 798 confirmed cases (in Wuhan, 3503). There were 2 new suspected cases (2 in Wuhan) and 18 suspected cases (15 in Wuhan).
+
+At 04:00 on [15 Mar 2020], 12 newly diagnosed imported cases were reported (4 in Beijing, 4 in Guangdong, 2 in Shanghai, 1 in Yunnan, and 1 in Gansu). As of 24:00 on [15 Mar 2020], a total of 123 overseas confirmed cases were reported.
+
+A total of 217 confirmed cases were reported from Hong Kong, Macao, and Taiwan: 148 cases in Hong Kong Special Administrative Region (84 cases discharged, 4 deaths), 10 cases in Macau Special Administrative Region (10 cases discharged), 59 cases in Taiwan (20 cases discharged, 1 case died).
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+and
+ProMED-mail Rapporteur Kunihiko Iizuka
+
+[According to the report above, a total of 80 860 cases of confirmed COVID-19 have now been reported from China, representing an increase of 16 cases in the past 24 hours since yesterday's (14 Mar 2020) report was prepared.
+
+It is now the 7th consecutive day that the number of newly reported cases in a 24 hour period was less than 50. While there are still suspected cases reported that presumably are waiting for laboratory confirmation, fingers are crossed this adequately represents China approaching interruption of the SARS-CoV-2 transmission in the country. In addition, 14 deaths were reported, all of them by Hubei province. Seven new cases were reported from Hong Kong.
+
+There were 12 imported cases into China confirmed, representing 75% of all reported cases in the past 24 hours. Cases were reported by Beijing (4), Guangdong (4) Shanghai (2), Yunnan (1) and Gansu (1), bringing the total number of imported cases to 123. A challenge will be to prevent importations from starting new chains of transmission within China. The remaining 4 cases with local transmission, were all from Wuhan in Hubei province. Interpretation: Wuhan is the location within China where the SARS-CoV-2 is still being transmitted. It would be interesting to know if there are well defined/identified chains of transmission or if there were sporadic, community-acquired cases
+
+A map of China showing provinces can be seen at https://www.chinadiscovery.com/china-maps/china-provincial-map.html and a HealthMap/ProMED-mail map is available at https://promedmail.org/promed-post?place=7096222,155. - Mod.MPP]
+
+******
+[3] Observation on decreasing numbers of cases in Wuhan
+Date: Sun 15 Mar 2020
+From: From T Jacob John <tjacobjohn@yahoo.co.in> [edited]
+
+
+During the past 3-4 days, the number of new infections has come down drastically in Wuhan -- from what used to be in the hundreds down to 4 for 2 consecutive days.
+
+This has been considered success of control measures. There is another epidemiological explanation. Wuhan population has very likely been virtually saturated with SARS-CoV-2 infection, depleting the numbers, and minimising the proportion of non-immune persons among the population. Low numbers of new infections should be expected.
+
+This sequence of events suggests that eventually, SARS-CoV-2 will behave like H1N1 and follow a similar trajectory. We should expect it becoming endemic and probably seasonal. Not a comforting thought.
+
+In Wuhan, the earliest detected infection was in mid-November [2019]. The transition from zoonotic transmission to anthroponotic transmission might have occurred even earlier; probably much earlier.
+
+--
+T Jacob John
+Infectious Disease Epidemiologist
+Retired Professor of Clinical Virology, Christian Medical College, Vellore, India.
+Vellore, Tamil Nadu, India
+<tjacobjohn@yahoo.co.in>
+
+[We would like to thank Dr T Jacob John for his raising a very interesting point/explanation for the observed drop in numbers of confirmed cases in Wuhan, Hubei province, China. Unfortunately, until we have baseline serology permitting an estimate of the true infection rate of this virus in Wuhan, it will remain a viable theory, but persistently calling for confirmatory evidence. It is worth mentioning that while it may explain the reduction in cases in Wuhan, it definitely appears as though transmission of the virus was interrupted outside of Wuhan, including elsewhere in Hubei province where the apparent caseloads were decreased from those seen in Wuhan. But again, speculation on my part in the absence of serologic studies addressing the true infection rate.
+
+Dr T Jacob John mentions the 1st identified infection was in mid-November 2019. This information was published in the South China Morning Post, and will be covered in tomorrow's update. - Mod.MPP]
+
+******
+[4] Countries with notable local transmission (South Korea, Italy, Iran)
+A. South Korea: 8236 total cases, 75 deaths
+Official report from KCDC
+Date: Mon 16 Mar 2020
+Source: Ministry of Health and Welfare, Korean CDC [in Korean, machine trans., edited]
+http://www.mohw.go.kr/react/al/sal0301vw.jsp?PAR_MENU_ID=04&MENU_ID=0403&page=1&CONT_SEQ=353561
+
+
+Data taken from a table on the website of the Korean Ministry of Health and Welfare (MOHW). Data source: Korean CDC [in Korean]
+
+Date and time:
+15 Mar 2020 0:00 AM KT 8162 confirmed cases, 75 deaths
+16 Mar 2020 0:00 AM KT 8236 confirmed cases, 75 deaths
+Change: 74 newly confirmed infections; 0 new deaths.
+
+Distribution of cases by metropolitan city/province: total case / change from 0:00 AM 15 Mar 2020 to 0:00 AM 16 Mar 2020:
+Seoul: 253 / 6
+Busan: 107 / 1
+Daegu: 6066 / 35
+Incheon: 30 / 0
+Gwangju: 16 / 0
+Daejeon: 22 / 0
+Ulsan: 28 / 0
+Sejong: 40 / 1
+Gangwon: 29 / 0
+Gyeonggi: 231 / 20
+Gyeongbuk: 1164 / 7
+Gyeongnam: 85 / 0
+Chungbuk: 31 / 0
+Chungnam: 115 / 0
+Jeonbuk: 7 / 0
+Jeonnam: 4 / 0
+Jeju: 4 / 0
+[In quarantine] 4 / 4
+
+Total: 8236 / 74
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[Note that the reporting interval is now midnight to midnight, presenting the full calendar day. In the past 24 hours, the tally of confirmed cases of COVID-19 in South Korea has increased by 74 cases and 0 deaths as compared with yesterday's 24 hour period (14-15 Mar 2020) when there were 76 newly confirmed cases. The epicenter of this outbreak is still Daegu province with 6066 reported cases and the surrounding province of Gyeongbuk with 1164 reported cases. Daily case counts are slowing down with only 7 newly confirmed cases in Gyeongbuk in the past 24 hours, and only 35 cases reported from Daegu. There were 11 provinces not reporting any new cases. In addition, there are 4 individuals in quarantine, presumably arriving from international travel, who have tested positive.
+
+A map of South Korea showing provinces can be seen at https://www.nationsonline.org/oneworld/map/korea-south-administrative-map.htm and a HealthMap/ProMED-mail map at https://promedmail.org/promed-post?place=7096222,195. - Mod.MPP]
+
+---
+B. Italy: 24 747 cases, 1809 deaths
+Date: Sun 15 Mar 2020
+Source: Italian Government Health Ministry [in Italian, machine trans., edited]
+http://www.salute.gov.it/portale/news/p3_2_1_1_1.jsp?lingua=italiano&menu=notizie&p=dalministero&id=4240
+
+
+Cases in Italy as of 6:00 pm 15 Mar 2020
+----------------------------------------
+Regarding health monitoring related to the spread of the new coronavirus [SARS-CoV-2] on the national territory, there are 24 747 total cases. At the moment 20 603 people are positive for the virus. 2335 people have recovered. There are 9663 patients hospitalized with symptoms, 1672in intensive care, and 9268 are in home isolation.
+
+There have been 1809 reported deaths, however this number can be confirmed only after the Istituto Superiore di Sanita has established the actual cause of the death.
+
+The number of people infected in the individual regions is as follows: (change from previous day in parentheses)
+- Lombardy: 13 272 (1587)
+- Emilia-Romagna: 3093 (449)
+- Veneto: 2172 (235)
+- Marche: 1133 (234)
+- Piedmont: 1111 (238)
+- Tuscany: 781 (151)
+- Lazio: 436 (79)
+- Campania: 333 (61)
+- Liguria: 559 (96)
+- Friuli Venezia Giulia: 347 (46)
+- Sicily: 188 (32)
+- Puglia: 230 (64)
+- Umbria: 143 (36)
+- Molise: 17 (0)
+- Autonomous Province of Trento: 378 (172)
+- Abruzzo: 137 (25)
+- Autonomous Province of Bolzano: 204 (31)
+- Aosta Valley: 57 (15)
+- Sardinia: 77 (30)
+- Calabria: 68 (8)
+- Basilicata: 11 (1)
+
+Total: 24 747 (3590)
+
+--
+Communicated by:
+ProMED-mail
+<promed@rpromedmail.org>
+
+[The tally of confirmed cases of COVID-19 in Italy is now, 24 747 cases, including 1809 deaths, up from 21 157 cases and 1441 deaths reported on 14 Mar 2020. The 24-hour change between 14 and 15 Mar 2020 was 3590 newly confirmed cases, compared with 3497 newly confirmed cases between 13 and 14 Mar 2020. Cases continue to be concentrated in Lombardy (13 272), the epicenter of the outbreak, Emilia-Romagna (3093), and Venice (2172), all in the northern part of the country. These 3 provinces account for 74.9% of newly confirmed cases in the past 24 hours. There is an excellent interactive map at http://opendatadpc.maps.arcgis.com/apps/opsdashboard/index.html#/b0c68bce2cce478eaac82fe38d4138b1 to visualize the caseloads per region in near real time.
+
+On 9 Mar 2020, Italy announced a lockdown for the northern provinces where the outbreak was concentrated. On 10 Mar 2020, this was changed to be countrywide. On 11 Mar 2020, Italy announced the closure of non-essential businesses. As for seeing an impact, one shouldn't expect to see an impact until at least one incubation period has passed, as there are newly infected individuals who are still in their incubation period for up to 14 days. As mentioned before, the Public Health world is looking at Italy to see if this is feasible and if it has an impact in terms of slowing down transmission of the virus.
+
+HealthMap/ProMED-mail map of Italy https://promedmail.org/promed-post?place=7096222,75. - Mod.MPP]
+
+---
+C. Iran: 14 000 cases, 724 deaths
+Date: Sun 15 Mar 2020 11:52 AM EET
+Source: The Hill [abridged, edited]
+https://thehill.com/policy/healthcare/public-global-health/487647-iran-warns-of-overwhelmed-health-facilities
+
+
+Iran warned on Sunday [15 Mar 2020] that its health facilities could be overwhelmed by coronavirus cases. The country, which has the 3rd-most recorded cases and deaths, reported another 113 deaths on Sunday, pushing its death toll to 724, The Associated Press [AP] reported. Iran has confirmed 14 000 cases.
+
+"If the trend continues, there will not be enough capacity," said Ali Reza Zali, who is leading the Iranian campaign against the outbreak, the state-run IRNA news agency reported, according to the AP. The country is believed to have 110 000 hospital beds, with 30 000 in the capital, Tehran, but authorities said they will develop mobile clinics as needed.
+
+Zali also said "many" of the people who have died from the virus were otherwise healthy, which strays from other statements from local officials who say the disease only impacts those who are older and/or sick. About 55 percent of the people who died were in their 60s, while 15 percent were younger than 40. Iranian President Hassan Rouhani said on Sunday [15 Mar 2020] that the country would not be implementing a general quarantine and would continue to work to keep its borders open, according to the AP.
+
+Iran is experiencing the worst outbreak in the Middle East. Several senior officials, including Cabinet ministers, members of Parliament, Revolutionary Guard members and Health Ministry officials have tested positive for the virus.
+
+[Byline: Justine Coleman]
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[In the 24 hours from 14 to 15 Mar 2020, the number of cases of COVID-19 confirmed in Iran grew from 12 729 to 14 000 an increase of 1279 newly confirmed cases. The number of deaths has also increased from 611 to 724, an increase of 113 deaths in the 24 hour period. This seems to be a repetitive story, countries' health sectors being overwhelmed with the pandemic. Wuhan China began, followed by Italy, and now Iran.
+
+HealthMap/ProMED-mail map of Iran https://promedmail.org/promed-post?place=7096222,128. - Mod.MPP]
+
+******
+[5] New countries confirming cases (4 countries/territories)
+Date: Sat 14 Mar 2020
+
+- Republic of Congo (Brazaville) ex France https://www.newsghana.com.gh/congo-confirms-first-case-of-coronavirus/
+- Guam (3 cases) 2 ex Philippines/1 ex Japan https://www.fijitimes.com/three-cases-confirmed-on-guam-emergency-declared/
+- Uzbekistan ex France https://akipress.com/news:637216:Uzbekistan_confirms_first_coronavirus_case/
+- Bahamas -- no history of travel in 20 days http://magneticmediatv.com/2020/03/bahamas-records-first-covid-19-case-but-it-is-unclear-how-woman-contracted-the-contagion/
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[In the past 24 hours 5 countries/territories have confirmed 1st cases of COVID-19 in their countries/territories: 2 are in the African Region (Central African Republic and the Republic of the Congo), 1 in the Caribbean (Bahamas), 1 in Asia (Uzbekistan) and 1 in the Western Pacific (Guam). Importations involve France, Italy, Philippines, Japan, and 1 no history of travel (but the Bahamas is a major tourist location both for cruise ships as well as flying into the country so exposure to travelers is common). - Mod.MPP]
+
+HealthMap/ProMED-mail maps
+- Republic of Congo (Brazaville)
+- Guam
+- Uzbekistan
+- Bahamas
+
+******
+[6] Vaccine development
+Date: Sun 15 Mar 2020
+Source: Independent Online/The Guardian [edited]
+http://www.theindependentbd.com/post/241043
+
+
+[There is currently a spattering of hyped articles that a vaccine trial is about to begin in humans in Seattle Washington, USA, tomorrow (15 Mar 2020]. For those who don't work in vaccine development, this article is an excellent "vaccinology 101" article, explaining the challenges and stages of testing as part of the vaccine development process. It also should help understand why a realistic timetable is 12-18 months at the best. - Mod.MPP]
+
+Even at their most effective -- and draconian -- containment strategies have only slowed the spread of the respiratory disease coronavirus or COVID-19. With the World Health Organization finally declaring a pandemic, all eyes have turned to the prospect of a vaccine, because only a vaccine can prevent people from getting sick.
+
+About 35 companies and academic institutions are racing to create such a vaccine, at least 4 of which already have candidates they have been testing in animals. The 1st of these -- produced by Boston-based biotech firm Moderna -- will enter human trials in April [2020]. This unprecedented speed is thanks in large part to early Chinese efforts to sequence the genetic material of SARS-CoV-2, the virus that causes COVID-19. China shared that sequence in early January [2020], allowing research groups around the world to grow the live virus and study how it invades human cells and makes people sick.
+
+But there is another reason for the head start. Though nobody could have predicted that the next infectious disease to threaten the globe would be caused by a coronavirus -- flu is generally considered to pose the greatest pandemic risk -- vaccinologists had hedged their bets by working on "prototype" pathogens. "The speed with which we have [produced these candidates] builds very much on the investment in understanding how to develop vaccines for other coronaviruses," says Richard Hatchett, CEO of the Oslo-based nonprofit the Coalition for Epidemic Preparedness Innovations (CEPI), which is leading efforts to finance and coordinate COVID-19 vaccine development.
+
+Coronaviruses have caused 2 other recent epidemics -- severe acute respiratory syndrome (SARS) in China in 2002-04, and Middle East respiratory syndrome (MERS), which started in Saudi Arabia in 2012. In both cases, work began on vaccines that were later shelved when the outbreaks were contained. One company, Maryland-based Novavax, has now repurposed those vaccines for SARS-CoV-2, and says it has several candidates ready to enter human trials this spring [2020]. Moderna, meanwhile, built on earlier work on the MERS virus conducted at the US National Institute of Allergy and Infectious Diseases in Bethesda, Maryland.
+
+SARS-CoV-2 shares between 80% and 90% of its genetic material with the virus that caused SARS -- hence its name. Both consist of a strip of ribonucleic acid (RNA) inside a spherical protein capsule that is covered in spikes. The spikes lock on to receptors on the surface of cells lining the human lung -- the same type of receptor in both cases -- allowing the virus to break into the cell. Once inside, it hijacks the cell's reproductive machinery to produce more copies of itself, before breaking out of the cell again and killing it in the process.
+
+All vaccines work according to the same basic principle. They present part or all of the pathogen to the human immune system, usually in the form of an injection and at a low dose, to prompt the system to produce antibodies to the pathogen. Antibodies are a kind of immune memory which, having been elicited once, can be quickly mobilised again if the person is exposed to the virus in its natural form.
+
+Traditionally, immunisation has been achieved using live, weakened forms of the virus, or part or whole of the virus once it has been inactivated by heat or chemicals. These methods have drawbacks. The live form can continue to evolve in the host, for example, potentially recapturing some of its virulence and making the recipient sick, while higher or repeat doses of the inactivated virus are required to achieve the necessary degree of protection. Some of the COVID-19 vaccine projects are using these tried-and-tested approaches, but others are using newer technology. One more recent strategy -- the one that Novavax is using, for example -- constructs a "recombinant" vaccine. This involves extracting the genetic code for the protein spike on the surface of SARS-CoV-2, which is the part of the virus most likely to provoke an immune reaction in humans, and pasting it into the genome of a bacterium or yeast -- forcing these microorganisms to churn out large quantities of the protein. Other approaches, even newer, bypass the protein and build vaccines from the genetic instruction itself. This is the case for Moderna and another Boston company, CureVac, both of which are building COVID-19 vaccines out of messenger RNA.
+
+CEPI's original portfolio of 4 funded COVID-19 vaccine projects was heavily skewed towards these more innovative technologies, and last week it announced USD 4.4m (GBP 3.4m) of partnership funding with Novavax and with a University of Oxford vectored vaccine project. "Our experience with vaccine development is that you can't anticipate where you're going to stumble," says Hatchett, meaning that diversity is key. And the stage where any approach is most likely to stumble is clinical or human trials, which, for some of the candidates, are about to get under way.
+
+Clinical trials, an essential precursor to regulatory approval, usually take place in 3 phases. The 1st, involving a few dozen healthy volunteers, tests the vaccine for safety, monitoring for adverse effects. The 2nd, involving several hundred people, usually in a part of the world affected by the disease, looks at how effective the vaccine is, and the 3rd does the same in several thousand people. But there's a high level of attrition as experimental vaccines pass through these phases. "Not all horses that leave the starting gate will finish the race," says Bruce Gellin, who runs the global immunisation programme for the Washington DC-based nonprofit, the Sabin Vaccine Institute, and is collaborating with CEPI over a COVID-19 vaccine.
+
+There are good reasons for that. Either the candidates are unsafe, or they're ineffective, or both. Screening out duds is essential, which is why clinical trials can't be skipped or hurried. Approval can be accelerated if regulators have approved similar products before. The annual flu vaccine, for example, is the product of a well-honed assembly line in which only one or a few modules have to be updated each year. In contrast, SARS-CoV-2 is a novel pathogen in humans, and many of the technologies being used to build vaccines are relatively untested too. No vaccine made from genetic material -- RNA or DNA -- has been approved to date, for example. So the COVID-19 vaccine candidates have to be treated as brand new vaccines, and as Gellin says: "While there is a push to do things as fast as possible, it's really important not to take shortcuts."
+
+An illustration of that is a vaccine that was produced in the 1960s against respiratory syncytial virus, a common virus that causes cold-like symptoms in children. In clinical trials, this vaccine was found to aggravate those symptoms in infants who went on to catch the virus. A similar effect was observed in animals given an early experimental SARS vaccine. It was later modified to eliminate that problem but, now that it has been repurposed for SARS-CoV-2, it will need to be put through especially stringent safety testing to rule out the risk of enhanced disease.
+
+It's for these reasons that taking a vaccine candidate all the way to regulatory approval typically takes a decade or more, and why President Trump sowed confusion when, at a meeting at the White House on [2 Mar 2020], he pressed for a vaccine to be ready by the US elections in November [2020]- an impossible deadline. "Like most vaccinologists, I don't think this vaccine will be ready before 18 months," says Annelies Wilder-Smith, professor of emerging infectious diseases at the London School of Hygiene and Tropical Medicine. That's already extremely fast, and it assumes there will be no hitches.
+
+In the meantime, there is another potential problem. As soon as a vaccine is approved, it's going to be needed in vast quantities -- and many of the organisations in the COVID-19 vaccine race simply don't have the necessary production capacity. Vaccine development is already a risky affair, in business terms, because so few candidates get anywhere near the clinic. Production facilities tend to be tailored to specific vaccines, and scaling these up when you don't yet know if your product will succeed is not commercially feasible. CEPI and similar organisations exist to shoulder some of the risk, keeping companies incentivised to develop much-needed vaccines. CEPI plans to invest in developing a COVID-19 vaccine and boosting manufacturing capacity in parallel, and earlier this month it put out a call for USD 2bn to allow it to do so.
+
+Once a COVID-19 vaccine has been approved, a further set of challenges will present itself. "Getting a vaccine that's proven to be safe and effective in humans takes one at best about a third of the way to what's needed for a global immunisation programme," says global health expert Jonathan Quick of Duke University in North Carolina, author of The End of Epidemics (2018). "Virus biology and vaccines technology could be the limiting factors, but politics and economics are far more likely to be the barrier to immunisation."
+
+The problem is making sure the vaccine gets to all those who need it. This is a challenge even within countries, and some have worked out guidelines. In the scenario of a flu pandemic, for example, the UK would prioritise vaccinating healthcare and social care workers, along with those considered at highest medical risk -- including children and pregnant women -- with the overall goal of keeping sickness and death rates as low as possible. But in a pandemic, countries also have to compete with each other for medicines.
+
+Because pandemics tend to hit hardest those countries that have the most fragile and underfunded healthcare systems, there is an inherent imbalance between need and purchasing power when it comes to vaccines. During the 2009 H1N1 flu pandemic, for example, vaccine supplies were snapped up by nations that could afford them, leaving poorer ones short. But you could also imagine a scenario where, say, India -- a major supplier of vaccines to the developing world -- not unreasonably decides to use its vaccine production to protect its own 1.3 billion-strong population first, before exporting any.
+
+Outside of pandemics, the WHO brings governments, charitable foundations, and vaccine-makers together to agree an equitable global distribution strategy, and organisations like GAVI, the vaccine alliance, have come up with innovative funding mechanisms to raise money on the markets for ensuring supply to poorer countries. But each pandemic is different, and no country is bound by any arrangement the WHO proposes -- leaving many unknowns. As Seth Berkley, CEO of GAVI, points out: "The question is, what will happen in a situation where you've got national emergencies going on?"
+
+This is being debated, but it will be a while before we see how it plays out. The pandemic, says Wilder-Smith, "will probably have peaked and declined before a vaccine is available."
+
+A vaccine could still save many lives, especially if the virus becomes endemic or perennially circulating -- like flu -- and there are further, possibly seasonal, outbreaks. But until then, our best hope is to contain the disease as far as possible. To repeat the sage advice: wash your hands.
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The scientific community is fairly unanimous in stating the time needed to develop a vaccine for a new agent will be 12-18 months at the earliest. Speeding up the process by cutting out steps in the process could be hazardous. History of problems with vaccines post marketing release (during stage 4 of testing) has reinforced the need for caution and performing studies on safety as the number of recipients increases and less common side effects may show. The more recent of these types of events dealt with the dengue vaccine, where vaccinated naïve children (those with no prior history of dengue infection) had a more severe form of dengue when infected (there are 4 serotypes of the dengue virus).
+
+References
+----------
+1.Wilder-Smith A, Flasche S, Smith PG. Vaccine-attributable severe dengue in the Philippines. Lancet. 2019; 394(10215): 2151-2. doi: 10.1016/S0140-6736(19)32525-5; https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(19)32525-5/fulltext.
+2. Flasche S, Wilder-Smith A, Hombach J, Smith PG. Estimating the proportion of vaccine-induced hospitalized dengue cases among Dengvaxia vaccinees in the Philippines. Wellcome Open Res. 2019; 4: 165. doi: 10.12688/wellcomeopenres.15507.1. eCollection 2019; https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6880258/.
+3. Arkin F. Dengue vaccine fiasco leads to criminal charges for researcher in the Philippines. Science. 2019. doi:10.1126/science.aax8042; https://www.sciencemag.org/news/2019/04/dengue-vaccine-fiasco-leads-criminal-charges-researcher-philippines.
+- Mod.MPP]
+
+******
+[7] Italy: ICU surge capacity
+Date: Fri 13 Mar 2020
+Source: JAMA [abridged, edited]
+https://jamanetwork.com/journals/jama/fullarticle/2763188
+
+
+ref: Grasselli G, Pesenti A, Cecconi M. Critical care utilization for the COVID-19 outbreak in Lombardy, Italy: early experience and forecast during an emergency response [published online ahead of print, 13 Mar 2020]. JAMA. 2020. doi:10.1001/jama.2020.4031
+--------------------------------------------------------------------------------
+On [20 Feb 2020], a patient in his 30s admitted to the intensive care unit (ICU) in Codogno Hospital (Lodi, Lombardy, Italy) tested positive for a new coronavirus, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the virus that causes coronavirus disease 2019 (COVID-19). He had a history of atypical pneumonia that was not responding to treatment, but he was not considered at risk for COVID-19 infection. (1) The positive result was immediately reported to the Lombardy health care system and governmental offices. During the next 24 hours, the number of reported positive cases increased to 36. This situation was considered a serious development for several reasons: The patient ("patient 1") was healthy and young; in less than 24 hours, 36 additional cases were identified, without links to patient 1 or previously identified positive cases already in the country; it was not possible to identify with certainty the source of transmission to patient 1 at the time; and, because patient 1 was in the ICU and there were already 36 cases by day 2, chances were that a cluster of unknown magnitude was present, and additional spread was likely.
+
+On [21 Feb 2020], an emergency task force was formed by the Government of Lombardy and local health authorities to lead the response to the outbreak. This Viewpoint provides a summary of the response of the COVID-19 Lombardy ICU network and a forecast of estimated ICU demand over the coming weeks (projected to [20 Mar 2020]).
+
+Setting the priorities and the initial response
+-----------------------------------------------
+In Lombardy, the pre-crisis total ICU capacity was approximately 720 beds (2.9% of total hospital beds at a total of 74 hospitals); these ICUs usually have 85% to 90% occupancy during the winter months.
+
+The mission of the COVID-19 Lombardy ICU Network was to coordinate the critical care response to the outbreak. 2 top priorities were identified: increasing surge ICU capacity and implementing measures for containment.
+
+Increasing ICU surge capacity
+-----------------------------
+The recognition that this outbreak likely occurred via community spread suggested that a large number of COVID-19-positive patients were already present in the region. This prediction proved correct in the following days. Based on the assumption that secondary transmission was already occurring, and even with containment measures that health authorities were establishing, it was assumed that many new cases of COVID-19 would occur, possibly in the hundreds or thousands of individuals. Thus, assuming a 5% ICU admission rate, (2) it would not have been feasible to allocate all critically ill patients to a single COVID-19 ICU. The decision was to cohort patients in 15 1st-responder hub hospitals, chosen because they either had expertise in infectious disease or were part of the Venous-Venous ECMO Respiratory Failure Network (RESPIRA). (3)
+
+The identified hospitals were requested to do the following.
+- Create cohort ICUs for COVID-19 patients (areas separated from the rest of the ICU beds to minimize risk of in-hospital transmission).
+- Organize a triage area where patients could receive mechanical ventilation if necessary in every hospital to support critically ill patients with suspected COVID-19 infection, pending the final result of diagnostic tests.
+- Establish local protocols for triage of patients with respiratory symptoms, to test them rapidly, and, depending on the diagnosis, to allocate them to the appropriate cohort.
+- Ensure that adequate personal protective equipment (PPE) for health personnel is available, with the organization of adequate supply and distribution along with adequate training of all personnel at risk of contagion.
+- Report every positive or suspected critically ill COVID-19 patient to the regional coordinating center.
+
+In addition, to quickly make available ICU beds and available personnel, nonurgent procedures were canceled and another 200 ICU beds were made available and staffed in the following 10 days. In total, over the 1st 18 days, the network created 482 ICU beds ready for patients.
+
+Containment measures
+--------------------
+Local health authorities established strong containment measures in the initial cluster by quarantine of several towns in an attempt to slow virus transmission. In the 2nd week, other clusters emerged. During this time, the ICU network advised the government to put in place every measure, such as reinforcing public health measures of quarantine and self-isolation, to contain the virus.
+
+ICU admissions over the 1st 2 weeks
+-----------------------------------
+There was an immediate sharp increase in ICU admissions from day 1 to day 14. The increase was steady and consistent. Publicly available data indicate that ICU admissions (n = 556) represented 16% of all patients (n = 3420) who tested positive for COVID-19. As of [7 Mar 2020], the current total number of patients with COVID-19 occupying an ICU bed (n = 359) represents 16% of currently hospitalized patients with COVID-19 (n = 2217). All patients who appeared to have severe illness were admitted for hypoxic respiratory failure to the COVID-19 dedicated ICUs.
+
+Surge ICU capacity
+------------------
+Within 48 hours, ICU cohorts were formed in 15 hub hospitals totaling 130 COVID-19 ICU beds. By [7 Mar 2020], the total number of dedicated cohorted COVID-19 ICU beds was 482 (about 60% of the total preoutbreak ICU bed capacity), distributed among 55 hospitals. As of [8 Mar 2020], critically ill patients (initially COVID-19-negative patients) have been transferred to receptive ICUs outside the region via a national coordinating emergency office.
+
+Forecasting ICU demand over the next 2 weeks
+--------------------------------------------
+During the 1st 3 days of the outbreak, starting from [22 Feb 2020], the ICU admissions were 11, 15, and 20 in the COVID-19 Lombardy ICU Network. ICU admissions have increased continuously and exponentially over the 1st 2 weeks. Based on data to [7 Mar 2020], when 556 COVID-19-positive ICU patients had been admitted to hospitals over the previous 15 days, linear and exponential models were created to estimate further ICU demand (eFigure in the Supplement) [available at the source URL above].
+
+The linear model forecasts that approximately 869 ICU admissions could occur by [20 Mar 2020], whereas the exponential model growth projects that approximately 14 542 ICU admissions could occur by then. Even though these projections are hypothetical and involve various assumptions, any substantial increase in the number of critically ill patients would rapidly exceed total ICU capacity, without even considering other critical admissions, such as for trauma, stroke, and other emergencies.
+
+In practice, the health care system cannot sustain an uncontrolled outbreak, and stronger containment measures are now the only realistic option to avoid the total collapse of the ICU system. For this reason, over the last 2 weeks, clinicians have continuously advised authorities to augment the containment measures.
+
+To our knowledge, this is the 1st report of the consequences of the COVID-19 outbreak on critical care capacity outside China. Despite prompt response of the local and regional ICU network, health authorities, and the government to try to contain the initial cluster, the surge in patients requiring ICU admission has been overwhelming. The proportion of ICU admissions represents 12% of the total positive cases, and 16% of all hospitalized patients. This rate is higher than what was reported from China, where only 5% of patients who tested positive for COVID-19 required ICU admission. (2,4) There could be different explanations. It is possible that criteria for ICU admission were different between the countries, but this seems unlikely. Another explanation is that the Italian population is different from the Chinese population, with predisposing factors such as race, age, and comorbidities. (5)
+
+On [8 and 9 Mar 2020], planning for the next response -- which includes defining a new hub and spoke system for time-dependent pathology, increasing ICU capacity further, and reinforcing stronger containment measurement in the community -- has begun, as well as discussions of what could have been done differently.
+
+First, laboratory capacity to test for SARS-CoV-2 should have been increased immediately. Laboratory capacity reached saturation very early. This can add extra stress to a system and affect the ability to make accurate diagnoses and allocate patients appropriately.
+
+Second, in parallel to the surge ICU capacity response, a large, dedicated COVID-19 facility could have been converted more quickly. On day 1 of the crisis, it was not possible to predict the speed and extent of the contagion. Importantly, the forecasts show that increasing ICU capacity is simply not enough. More resources should be invested to contain the epidemic.
+
+As of [8 Mar 2020], Lombardy was quarantined, and strict self-isolation measures were instituted. This may be the only possible way to contain the spread of infection and allow resources to be developed for the time-dependent disease.
+
+As of [10 Mar 2020], Italy has been quarantined, and the government has instituted stronger containment measures, including strict self-isolation measures. These containment measures and individual citizen responsibility could slow down virus transmission.
+
+While regional resources are currently at capacity, the central Italian government is providing additional resources, such as transfers of critically ill patients to other regions, emergency funding, personnel, and ICU equipment. The goal is to ensure that an ICU bed is available for every patient who requires one. Other health care systems should prepare for a massive increase in ICU demand during an uncontained outbreak of COVID-19. This experience would suggest that only an ICU network can provide the initial immediate surge response to allow every patient in need for an ICU bed to receive one. Health care systems not organized in collaborative emergency networks should work toward one now.
+
+[References and supplements are available at the source URL above.]
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[A well thought out surge capacity assessment and plan is underway in Lombardy, Italy. A valuable lesson learned was the need for enhanced laboratory capacity to test for the SARS-CoV-2. This seems to be a recurring theme in multiple countries (my own -- the USA -- included); the absence of adequate laboratory testing led to a false sense of security and missing the onset of community transmission until it had significantly penetrated into many communities underneath the radarscope, the corollary of "don't look and it ain't there."
+
+The other important lesson learned was the urgent need to expand the capacity for active, clinically ill infected patients not necessarily in need of ICU management.
+
+These are key lessons learned that warrant heeding by all localities in preparation for what may happen almost overnight in their community. - Mod.MPP]
+
+******
+[8] WHO situation report 55 (as of 15 Mar 2020)
+Date: Sun 15 Mar 2020
+Source: WHO [edited]
+https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200315-sitrep-55-covid-19.pdf
+
+
+*The situation report includes information provided by national authorities as of 10 am CET.
+
+Highlights
+----------
+- Nine new countries/territories/areas (African Region [7], European Region [1] and Region of Americas [1]) in have reported cases of COVID-19 in the past 24 hours.
+
+- A WHO high-level technical mission concluded a visit to Iraq to support the Iraqi Ministry of Health in their COVID-19 prevention and containment measures. WHO is working around the clock to establish 3 negative-pressure [contagious respiratory disease isolation] rooms in Baghdad, Erbil and Basra to accommodate patients who might require more sophisticated medical treatment. For detailed information, please see http://www.emro.who.int/irq/iraq-news/who-technical-mission-visits-iraq-for-covid-19-response.html
+
+[The figures summarized the report below are the figures from the National Health Commission of China from 14 Mar 2020. The 15 Mar 2020 figures are included in sections [1] and [2] above. They are usually posted between 7 and 9 pm (GMT-5), which is 3 am (GMT+1) in Geneva. All figures from all countries are data reported to WHO. - Mod.MPP]
+
+These data come from Table 2: Countries, territories or areas outside China with reported laboratory-confirmed COVID-19 cases and deaths. Data as of [15 Mar 2020], available at the source URL above. - Mod.MPP]
+
+Countries, territories, or areas outside China with reported laboratory-confirmed COVID-19 cases and deaths. Data as of [12 Mar 2020]; [numbers include both domestic and repatriated cases]
+
+WHO region (no. countries/territories): Total confirmed cases (new)** / Total deaths (new) / Transmission classification [no. countries local / no. countries imported / no. countries under investigation
+
+Western Pacific Region (12): 9862 (314) / 106 (8) / Local (10) / Imported (2)
+European Region (54): 45 077 (8803) / 1739 (229) / Local (36) / Imported (15) / Under Investigation (3)
+Southeast Asia Region (8): 325 (79) / 7 (1) / Local (6) / Imported (2) / Under investigation (0)
+Eastern Mediterranean Region (17): 13 988 (1535) / 623 (94) / Local (12) / Imported (5) / Under investigation (0)
+Region of the Americas (30): 2393 (168 / 46 (0) / Local (12) / Imported (16) / Under investigation (2)
+Africa (22): 130 (57) / 3 (0) / Local (4) / Imported (18) Under investigation (0)
+
+Other:
+Cases on an international conveyance (Diamond Princess): 697 (0) / 7 (0) / Local / 0
+
+Grand total: 72 469 (10 955) / 2531 (333)
+
+**Case classifications are based on WHO case definitions for COVID-19.
+
+Terms:
+- Community transmission is evidenced by chains of transmission for a large number of cases, or by increasing positive tests through routine screening of samples.
+- Local transmission indicates locations where the source of infection is within the reporting location.
+- Imported cases only indicates locations where all cases have been acquired outside the location of reporting.
+- Under investigation indicates locations where type of transmission has not been determined for any cases.
+- Interrupted transmission indicates locations where interruption of transmission has been demonstrated (details to be determined).
+
+[There are excellent graphs and a map available at the source URL, as well as strategic objectives and preparedness and response information
+- Figure 1: Countries, territories, or areas with reported confirmed cases of COVID-19, 15 Mar 2020.
+- Figure 2: Epidemic curve of confirmed COVID-19 cases reported outside of China (n=72 469), by date of report and WHO region with complete days of reporting through 15 Mar 2020. - Mod.MPP]
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The number of countries and territories reporting confirmed cases of COVID-19 outside China continues to grow and now totals 143. This includes 12 countries (including 1 territory) from the Western Pacific region, 54 countries (including 4 territories) from the European region, 8 from the Southeast Asia region, 17 countries (including 1 territory) from the Eastern Mediterranean region, 30 countries (including 7 territories) from the Americas region, and 22 countries (including 2 territories) from the African region.
+
+The total number of cases reported from outside of China is now 72 469, including 2531 deaths. The countries of the WHO/EURO region have reported a total of 45 077 cases (62.2% of total cases reported outside of China) and in the past 24 hours have reported 8803 newly confirmed cases representing 80.4% of the newly reported cases outside of China. As for within mainland China, in the past 24 hours, cases 20 cases were reported: Hubei (4), Guangdong (1) Zhejiang (4), Beijing (5), Shanghai (3), Gansu (3). Remembering the Chinese report from 14 Mar 2020, there were 16 newly confirmed imported cases: Beijing (5), Zhejiang (4), Shanghai (3), Gansu (3), and Guangdong (1), leaving the only locally acquired cases reported from mainland China being the 4 cases reported from Hubei.
+
+A somewhat repetitive but necessary reminder: it is clear that the number of reported confirmed cases differs from different reporting websites and is somewhat a function of time of day the website is updated. For example, I note the time I've accessed the Johns Hopkins website, but by the time the post is actually finished with the editing process, those numbers have at times significantly changed. Case counting is clearly a moving target, and, depending upon when the website updates, the numbers may be different. I try to start each post with the latest figures for the calendar day (the Hopkins table) and close with the figures from the start of the calendar day (the WHO tables), defining the calendar day as DST (now GMT-4). - Mod.MPP]
+See Also
+COVID-19 update (40): global, Europe epicenter, lockdown, phone tracking, WHO 20200315.7092618
+COVID-19 update (39): global, more countries, stability, mitigation impact, WHO 20200314.7088746
+COVID-19 update (38): global, more countries, WHO 20200313.7084577
+COVID-19 update (37): China (Hong Kong) animals, dog, prelim. serology negative 20200312.7081842
+COVID-19 update (36): global, pandemic declared, Denmark, more countries, WHO 20200312.7079850
+COVID-19 update (35): global, USA (NY) actions, hypertension, more countries, WHO 20200311.7075036
+COVID-19 update (30): China (Hong Kong) dog, susp, serology pending 20200306.7057595
+COVID-19 update (20): China, global, Italy, Iran, Nigeria, imported cases, WHO 20200228.7032761
+COVID-19 update (10): China, global, Iran, WHO 20200219.7005749
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (41): China, global, clinical pics, asymptomatic trans., WHO 20200210.6976117
+Novel coronavirus (40): animal reservoir, pangolin poss intermediate host, RFI 20200210.6972104
+Novel coronavirus (30): updates, China, Viet Nam, research 20200202.6945658
+Novel coronavirus (20): China, wildlife trade ban 20200127.6922060
+Novel coronavirus (10): China (HU, GD, BJ) 20200119.6898567
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia - China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia - China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+----
+Undiagnosed pneumonia - China (HU): RFI 20191230.6864153
+.................................................sb/ep/mpp/mj/ml
+</body>

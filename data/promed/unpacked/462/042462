@@ -1,0 +1,90 @@
+<header id=042462>
+Published Date: 1999-03-29 18:50:00 EST
+Subject: PRO/ALL> Computer Virus Alert
+Archive Number: 19990329.0492
+</header>
+<body id=042462>
+COMPUTER VIRUS ALERT
+******************************
+A ProMED-mail post
+<http://www.healthnet.org/programs/promed.html>
+
+Computer Virus Alert!
+---------------------
+A new virus, dubbed "Melissa", can affect people who use Microsoft Word 97
+(or Word 2000 with Outlook 97, 98 or 2000).
+How to Identify Melissa:
+-----------------------
+Melissa is a Word 97/2000 macro virus delivered VIA EMAIL in an attached
+Word document.
+The email contains the subject line:
+"Important Message From "UserName"
+and/or contains in the message body:
+"Here is that document you asked for ... don't show anyone else ;-)".
+If the attached Word document is opened and the macro virus is allowed to
+run, it can propagate itself by sending email with the infected document to
+a number of recipients.
+Simply reading the e-mail message WILL NOT activate the virus.
+Opening the attached Word document WILL activate the virus.
+The virus does not appear to cause any damage to a PCs memory or programs.
+The danger is it's self-propagation property which has the potential to
+overload email
+systems.
+How to Protect your PC:
+----------------------
+Verify that the macro virus protection feature in Word is turned on. (The
+default is on.) To do this, in Word 97:
+1. On the Tools menu, click Options.
+2. On the General tab, check Macro Virus Protection.
+With the macro virus protection turned on, every time you receive a Word
+document that contains macros, a dialog box opens and allows you to choose
+whether to enable the macros. Always choose "disable macros" when you are
+not certain of a macro´s purpose or functionality. By choosing to disable
+the macros, you will prevent this and any macro virus from running,
+rendering it harmless.
+The virus is only activated if you open the attached
+Word document and choose to enable the macros, or if your macro virus
+protection settings have been turned off. (Most Word documents do not
+contain macros.)
+If You Receive Melissa:
+----------------------
+Please contact your Computer Systems Support group immediately.
+Do not delete the email message. They will assist you with
+removing the virus from your PC.
+Other Virus Protection Measures:
+-------------------------------
+The Computer Systems Support group recommends the use of virus protection
+software on your PC. Please contact if if you would like it installed on
+your PC.
+Additional information on Melissa is available on the Web at
+www.cert.org/advisories/CA-99-04-Melissa-Macro-Virus.html
+--
+ProMED-mail
+promed@usa.healthnet.org
+[Adapted from a message from Chris Knight, Computer Systems Support,
+Wadsworth Center, New York State Dept. of Health, Albany, NY, USA. This is
+NOT a hoax
+- Mod.JW]
+................................jw
+--
+*##########################################################*
+ProMED-mail makes every effort to verify the reports that
+are posted, but the accuracy and completeness of the
+information, and of any statements or opinions based
+thereon, are not guaranteed. The reader assumes all risks in
+using information posted or archived by ProMED-mail. ISID
+and its associated service providers shall not be held
+responsible for errors or omissions or held liable for any
+damages incurred as a result of use or reliance upon posted
+or archived material.
+************************************************************
+Visit ProMED-mail's web site at <http://www.promedmail.org>.
+Send all items for posting to: promed@promedmail.org
+(NOT to an individual moderator). If you do not give your
+full name and affiliation, it may not be posted. Send
+commands to subscribe/unsubscribe, get archives, help,
+etc. to: majordomo@promedmail.org. For assistance from a
+human being send mail to: owner-promed@promedmail.org.
+############################################################
+############################################################
+</body>

@@ -1,0 +1,50 @@
+<header id=059319>
+Published Date: 2014-09-05 14:14:40 EDT
+Subject: PRO> EVD - Central Africa (02): absence from CAR, comment
+Archive Number: 20140905.2751594
+</header>
+<body id=059319>
+EBOLA VIRUS DISEASE - CENTRAL AFRICA (02): ABSENCE FROM CENTRAL AFRICAN REPUBLIC, COMMENT
+*****************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+[1]
+Date: Thu 4 Sep 2014
+From: Gregory Kelly <gka25@sfu.ca> [edited]
+
+
+re: EVD - Central Africa: absence from CAR 20140904.2748411
+-----------------------------------------------------------
+They (Central African Republic [CAR]) need to be talking to mathematical epidemiologists. From what I have read, this strain of Ebola has an R0 slightly over 1 (a little more than one person gets infected from each infection, assuming an entirely susceptible population). The basic reproduction number (R0) is only part of the equation, and in the case of CAR, they are working with a population that is not entirely susceptible. This means they need to be evaluating their effective reproductive number (R).
+
+Typically it is calculated by R0*S, where S is the susceptible population. If R0 is only slightly more than 1, a susceptible population of 90 percent or less may be sufficient to reduce the effective reproductive number to less than 1 -- the infection dies out.
+
+Moreover, the medical community needs to be looking at whether or not the virulence of this strain of Ebola is _less_ than previous strains, not greater. There is a perverse evolutionary side effect to directly transmitted strains evolving to become less virulent -- they become more easily transmissible because the host is ambulatory longer. Therefore R0 increases and the virus can be harder to contain.
+
+--
+Gregory Kelly
+<gka25@sfu.ca>
+
+******
+[2]
+Date: Thu 4 Sep 2014
+From: Hugh Baker <drhugh@sympatico.ca> [edited]
+
+
+Is it likely that there are low-pathogenicity strains of Ebola virus in circulation among "bush meat" species? A sort of edible vaccine?
+
+--
+Hugh J Baker, DVM
+<drhugh@sympatico.ca>
+
+[Thanks for the comments. Both raise interesting questions that will be worth exploring if appropriate data can be gathered. - Mod.PMB
+
+A HealthMap/ProMED-mail map can be accessed at: https://promedmail.org/promed-post?place=2751594,66.]
+See Also
+EVD - Central Africa: absence from CAR 20140904.2748411
+.................................................pmb/je/sh
+</body>

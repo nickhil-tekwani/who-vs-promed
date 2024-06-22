@@ -1,0 +1,576 @@
+<header id=045276>
+Published Date: 2020-12-23 07:28:23 EST
+Subject: PRO/AH/EDR> COVID-19 update (550): mutation, query, Thailand, Taiwan, WHO, global, RFI
+Archive Number: 20201223.8040292
+</header>
+<body id=045276>
+CORONAVIRUS DISEASE 2019 UPDATE (550): MUTATION, QUERY, THAILAND, TAIWAN, WHO, GLOBAL, REQUEST FOR INFORMATION
+**************************************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] New variants: CDC
+[2] Query re mutation - RFI
+[3] From our regional networks: Thailand update
+[4] Taiwan
+[5] WHO updates (as of 22 Dec 2020)
+[6] Global update: Worldometer accessed 22 Dec 2020 22:06 EST (GMT-5)
+
+******
+[1] New variants: CDC
+Date: Tue 22 Dec 2020
+Source: CDC [edited]
+https://www.cdc.gov/coronavirus/2019-ncov/more/scientific-brief-emerging-variant.html
+
+
+Implications of the emerging SARS-CoV-2 Variant VOC 202012/01
+-------------------------------------------------------------
+Executive summary
+-----------------
+A new variant strain of SARS-CoV-2 that contains a series of mutations has been described in the United Kingdom (UK) and become highly prevalent in London and southeast England. Based on these mutations, this variant strain has been predicted to potentially be more rapidly transmissible than other circulating strains of SARS-CoV-2. Although a variant may predominate in a geographic area, that fact alone does not mean that the variant is more infectious. Scientists are working to learn more about this variant to better understand how easily it might be transmitted and whether currently authorized vaccines will protect people against it. At this time, there is no evidence that this variant causes more severe illness or increased risk of death. Information regarding the virologic, epidemiologic, and clinical characteristics of the variant are rapidly emerging. CDC, in collaboration with other public health agencies, is monitoring the situation closely. CDC will communicate new information as it becomes available.
+
+Does this variant have a name?
+------------------------------
+At present, the variant is referred to as "SARS-CoV-2 VOC 202012/01" (that is, the 1st variant of concern from 2020, December), or "B.1.1.7." The press often uses the terms "variant," "strain," "lineage," and "mutant" interchangeably. For the time being in the context of this variant, the 1st 3 of these terms are generally being used interchangeably by the scientific community as well.
+
+Why has this variant been in the news recently?
+-----------------------------------------------
+Since November 2020, a variant strain of SARS-CoV-2 has become prevalent in the southeast of England, reportedly accounting for 60% of recent infections in London. This variant has a mutation in the receptor binding domain (RBD) of the spike protein at position 501, where amino acid asparagine (N) has been replaced with tyrosine (Y). The shorthand for this mutation is N501Y, sometimes noted as S:N501Y to specify that it is in the spike protein. This variant carries many other mutations, including a double deletion (positions 69 and 70).
+
+Why has this variant emerged in the UK?
+---------------------------------------
+We do not know. By chance alone, viral variants often emerge or disappear, and that may be the case here. Alternatively, it may be emerging because it is better fit to spread in humans. This rapid change from being a rare strain to becoming a common strain has concerned scientists in the UK, who are urgently evaluating the characteristics of the variant strain and of the illness that it causes.
+
+Have we seen this variant in the United States?
+-----------------------------------------------
+The VOC 202012/01 variant has not been identified through sequencing efforts in the United States, although viruses have only been sequenced from about 51 000 of the 17 million US cases. Ongoing travel between the United Kingdom and the United States, as well as the high prevalence of this variant among current UK infections, increase the likelihood of importation. Given the small fraction of US infections that have been sequenced, the variant could already be in the United States without having been detected.
+
+What do we know already about variants containing N501Y?
+--------------------------------------------------------
+Prior work on variants with N501Y suggests they may bind more tightly to the human angiotensin-converting enzyme 2 (ACE2) receptor. It is unknown whether that tighter binding, if true, translates into any significant epidemiological or clinical differences. In one laboratory study of transmission of the virus between ferrets, this mutation (and one other) spontaneously arose in the ferrets during the experiment. The significance of this observation remains to be elucidated. VOC 202012/01 so far has no known association with animals or animal contact [see query in section [2] below].
+
+What about the other mutations in this variant of SARS-CoV-2?
+-------------------------------------------------------------
+SARS-CoV-2 mutates regularly, acquiring about one new mutation in its genome every 2 weeks. Many mutations are silent (that is, cause no change in the structure of the proteins they encode) because they produce a 3-letter codon that translates to the same amino acid (that is, they are "synonymous"). Other mutations may change the codon in a way that leads to an amino acid change (that is, they are "non-synonymous"), but this amino acid substitution does not impact the protein's function.
+
+VOC 202012/01 has 14 non-synonymous (amino acid [AA] altering) mutations, 6 synonymous (non-AA altering), and 3 deletions, notably including
+- 69/70 deletion: this double deletion has occurred spontaneously many times, and likely leads to a change in the shape of (that is, a conformational change in) the spike protein.
+- P681H: near the S1/S2 furin cleavage site, a site with high variability in coronaviruses. This mutation has also emerged spontaneously multiple times.
+- ORF8 stop codon (Q27stop): This mutation is not in the spike protein but in a different gene (in open reading frame 8), the function of which is unknown. Similar mutations have occurred in the past. In Singapore, one strain with this type of mutation emerged and disappeared.
+
+What implications could the emergence of new variants have?
+-----------------------------------------------------------
+Among the potential consequences of these mutations are the following:
+- Ability to spread more quickly in humans. There is already evidence that one mutation, D614G, has this property to spread more quickly. In the lab, G614 variants propagate more quickly in human respiratory epithelial cells, out-competing D614 viruses. There also is evidence that the G614 variant spreads more quickly than viruses without the mutation.
+- Ability to cause either milder or more severe disease in humans. There is no evidence that VOC 202012/01 produces more severe illness than other SARS-CoV-2 variants.
+- Ability to evade detection by specific diagnostic tests. Most commercial polymerase chain reaction (PCR) tests have multiple targets to detect the virus, such that even if a mutation impacts one of the targets, the other PCR targets will still work.
+- Decreased susceptibility to therapeutic agents such as monoclonal antibodies.
+- Ability to evade vaccine-induced immunity. FDA-authorized vaccines are "polyclonal," producing antibodies that target several parts of the spike protein. The virus would likely need to accumulate multiple mutations in the spike protein to evade immunity induced by vaccines or by natural infection.
+Among these possibilities, the last--the ability to evade vaccine-induced immunity--would likely be the most concerning because once a large proportion of the population is vaccinated, there will be immune pressure that could favor and accelerate emergence of such variants by selecting for "escape mutants." There is no evidence that this is occurring, and most experts believe escape mutants are unlikely to emerge because of the nature of the virus.
+
+Is this new variant related to the newly emergent variant in South Africa?
+--------------------------------------------------------------------------
+On [18 Dec 2020], the South African government announced that it had also seen the emergence of a new strain in a scenario similar to that in the UK. The South African variant also has the N501Y mutation and several other mutations but emerged completely independently of the UK strain and is not related to it [see COVID-19 update (545): mutations, UK, South Africa, South Asia, WHO, global 20201220.8032607 for a detailed background on the mutation identified in South Africa. - Mod.MPP]
+
+What is CDC doing to track emerging variants of SARS-CoV-2?
+------------------------------------------------------------
+In November 2020, CDC officially launched the National SARS-CoV-2 Strain Surveillance (NS3) program to increase the number and representativeness of viruses undergoing characterization. When fully implemented in January 2021, each state will send CDC at least 10 samples biweekly for sequencing and further characterization. In addition, CDC's COVID-19 response is actively seeking samples of interest, such as samples associated with animal infection and, in the future, samples from vaccine-breakthrough infections. Data from these efforts are continuously analyzed at CDC, and genomic data are rapidly uploaded to public databases for use by researchers, public health agencies, and industry. To coordinate US sequencing efforts outside of CDC, since early in the pandemic, CDC has led a national coalition of laboratories sequencing SARS-CoV-2 (SPHERES). The SPHERES coalition consists of more than 160 institutions, including academic centers, industry, non-governmental organizations, and public health agencies. Of the approximately 275 000 full-genome sequences currently in public databases, 51 000 are from the United States. (The UK currently has the most sequences, with 125 000).
+
+--
+Communicated by:
+Mary Marshall
+<mjm2020@googlemail.com>
+
+[As stated previously we are in a fact finding stage of identifying the significance of this variant's mutations in terms of implications re transmissibility, clinical expression, and impact on vaccine induced immunity. - Mod.MPP]
+
+******
+[2] Query re mutation - RFI
+Date: Tue 22 Dec 2020
+From: RAL Brown <rexrocco@aol.com> [edited]
+
+
+Re the appearance of VU 202012/01 in September [2020], have any epidemiological investigations taken place to check whether that 1st case of the variant was a keeper of mustelids or in contact with a keeper of mustelids, both directly or indirectly? Ferret keeping is quite common in the UK. Given the large changes in viral genome, the accepted animal sourcing of the originator of the pandemic, it would be reasonable even at this stage to check out this possibility as thoroughly as Denmark has followed up the mink farming issues.
+
+--
+RAL Brown MA MSc MRCVS
+The Neuk
+Aberdeenshire, Scotland
+<rexrocco@aol.com>
+
+[Thank you to Dr Brown for raising a valid line of inquiry. Hopefully this information is being investigated and will be shared with ProMED. - Mod.MPP]
+
+******
+[3] From our regional networks: Mekong Basin (ProMED-MBDS) - Thailand update
+ProMED-MBDS: COVID-19 update (152): Thailand, local 20201222.8038299
+In this update:
+[A] Samut Sakhon province: 242 new cases, total 1063 cases
+[B] Bangkok Metropolitan Area: 10 cases
+[C] Samut Songkram province: 8 cases
+[D] Nonthaburi province: one case
+[E] Chachoengsao province: one case
+[F] High risk areas in 10 provinces
+
+
+[A] Samut Sakhon province: 242 new cases, total 1063 cases
+Date: Tue 22 Dec 2020
+Source: The Nation [edited]
+https://www.nationthailand.com/news/30400008
+
+
+Another 242 people tested positive in Samut Sakhon province by 1 am on Tuesday [22 Dec 2020], taking total cases there in the latest outbreak above 1000.
+
+Samut Sakhon Governor Veerasak Vichitsangsri said the number of infected people had risen to 1063.
+
+The total number of cases rose by 27.91 per cent, while 6156 samples were tested for COVID-19, with 3808 cases revealed while results were awaited for 2348.
+
+Nearly 90 per cent of the positive cases were migrant workers. The positive rate detection has improved from the 1st day with more than 40 per cent, but now the positive detections rate has dropped to 27.91 per cent.
+
+Two biosafety mobile units were set up at Tha Chin government complex resident to detect infections among workers and their families, targeting 2500 samples, while also checking people who requested a test.
+
+There are many migrant workers waiting to be tested with the queue stretching for more than 2 kilometres because large numbers of foreign workers stay here, he said.
+
+--
+Communicated by:
+ProMED-MBDS
+<promed-mbds@promedmail.org>
+
+----
+[B] Bangkok Metropolitan Area: 10 cases
+Date: Tue 22 Dec 2020 12:27 ICT
+Source: Coconuts Bangkok [edited]
+https://coconuts.co/bangkok/news/siam-square-shops-shut-down-as-outbreak-spreads-with-427-new-cases/
+
+
+Ten people infected with COVID-19 have been found in metropolitan Bangkok in the past 24 hours among 427 new cases announced by health officials this morning [22 Dec 2020].
+
+At least 3 Siam Square venues have been shut after one ill woman was traced to them, while the vast majority of today's [22 Dec 2020] new cases were migrant workers at ground zero of the outbreak in Samut Sakhon province, southwest of Bangkok. Tests found 397 more workers infected with the virus, making for a total of 1248 found so far.
+
+This morning [22 Dec 2020], the Siam Square One shopping mall announced that 3 businesses -- dessert shop Cheevit Cheeva, cosmetics retailer Eve and boy, and restaurant Krua Dok Mai Khao (White Flower) -- were shut down after health officials traced an infected woman to the area. The woman's seafood restaurant, Somsak Pu-Ob 2 by BTS Krung Thon Buri, was also closed for 2 weeks.
+
+Among today's new cases, 16 related to the Samut Sakhon seafood market outbreak were found in 7 provinces plus the capital including Wat Chaichana Songkram in Chinatown.
+
+Ten were found in the metropolitan area: 5 in Bangkok, 2 in Pathum Thani, 2 in Samut Prakan, and one in Nakhon Pathom provinces. Outside the metro region, 3 cases were found in Saraburi, one in Chachoengsao, one in Phetchaburi, and one in Uttaradit.
+
+In Bangkok, 2 vegetable sellers from Samut Prakan were found to be ill. They had frequented areas throughout the capital.
+
+The 14 other new cases were detected among travelers confined to state quarantine upon arrival. Today [22 Dec 2020] brings Thailand to 5716 COVID-19 infections and 69 fatalities since January [2020]. A total of 4078 have been discharged from hospitals.
+
+The surge of cases has brought a newfound anxiety to the public and raft of preemptive measures.
+
+Following Prime Minister Prayuth Chan-o-cha's statement that another lockdown may be coming, Deputy Prime Minister Prawit Wongsuwan today [22 Dec 2020] said it was possible if the outbreak wasn't contained within 7 days.
+
+Given that the lockdown appears to be spillover from that raging in Myanmar, he added more soldiers are patrolling the borders.
+
+After being ground zero for a significant outbreak earlier this year [2020], a Bangkok boxing stadium owned by the army, Lumpinee Boxing Stadium, learned its lesson and announced it was closing indefinitely as a precaution, according to stadium chief Lt Gen Suchart Dangprafai. Matches set for today [22 Dec 2020] and next week were canceled.
+
+The stadium earlier this year [2020] was blamed for hundreds of COVID-19 cases and at least 3 deaths. It came to public attention when actor Matthew Deane Chanthavanij outed himself in March [2020] as a patient, a disclosure which helped pressure health officials to be more forthcoming with public health information. The venue's entire board was fired in response.
+
+The Rajadamnern Boxing Stadium announced early Tuesday [22 Dec 2020] afternoon that it will also close tomorrow [23 Dec 2020] onward. The Channel 7 Boxing Stadium however does not plan to close as its telecast matches do not have spectators.
+
+In Samut Sakhon, where migrant workers, mostly from Myanmar, have been hit hard by an explosive outbreak, all stadiums, schools and entertainment venues have been ordered shut until further notice. Bangkok schools near the province have also closed.
+
+With some domestic transmissions detected in Bangkok, the capital's large-scale New Year's Eve events have been canceled, and governor Aswin Kwanmuang has asked for both private and public party organizers to consider doing so as well, along with temples hosting customary gatherings to pray in the new year.
+
+Despite Thailand racking up more than 1000 cases in a matter of days, the public face of the response, task force spokesman Taweesilp Wissanuyothin, insists it should not be called a "2nd wave" of infections but rather a "newly emerged outbreak."
+
+That's sure to help.
+
+--
+Communicated by:
+ProMED-MBDS
+<promed-mbds@promedmail.org>
+
+----
+[C] Samut Songkram province: 8 cases
+Date: Tue 22 Dec 2020
+Source: The Nation [edited]
+https://www.nationthailand.com/news/30400030
+
+
+As of 11 am on Tuesday [22 Dec 2020], Samut Songkram's public health officer Dr Santhit Booyasong said 8 people had tested positive for COVID-19 in the province.
+
+He made this announcement at a provincial outbreak prevention meeting chaired by governor Charas Boonnasa. "The 8 are among 91 high-risk persons tested after visiting Samut Sakhon, where an outbreak has erupted," he said.
+
+"Of the 8 confirmed cases, 6 had visited Talay Thai market, while one visited Big C and Lotus in Mahachai, and one went to Central in Mahachai. They are all Thai nationals.
+
+"Another 9 persons are being tested for a 2nd time to confirm the result at Somdet Phraphutthalertla Hospital," added Santhit. "Public health officers will continue to trace and test persons who are at high risk and have prepared a temporary quarantine facility at Amphawa Hospital in case more infections are found."
+
+Samut Sakhon governor Veerasak Vichitsangsri said on Tuesday [22 Dec 2020] that the number of infected people in the province had risen to 1063.
+
+--
+Communicated by:
+ProMED-MBDS
+<promed-mbds@promedmail.org>
+
+----
+[D] Nonthaburi province: one case
+Date: Tue 22 Dec 2020
+Source: The Nation [edited]
+https://www.nationthailand.com/news/30400031
+
+
+The Public Health Ministry on Tuesday [22 Dec 2020] released a timeline detailing the movements of a 63-year-old man in Nonthaburi province who tested positive for COVID-19 on Monday [21 Dec 2020].
+
+The man, who lives with his wife in Nonthaburi's Muang district, has come in close contact with 15 people, who are being tracked by officials.
+
+According to the official timeline, the man had come in contact with Myanmar migrant workers, who worked on a refurbishment job on [3 and 11 Dec 2020]. Some workers had a cough and did not wear face masks at all times.
+
+On the evening of [11 Dec 2020], the patient attended a party held by Saksiam International.
+
+On [12 Dec 2020], he attended a meeting at a private company in Rangsit area at 10am, and then dined with his wife at a restaurant in Muang Thong Thani at 7 pm. By then he had developed symptoms of fatigue and was suffering from diarrhoea.
+
+On [13 Dec 2020], he visited his son's home in the Venue Flow housing estate in Muang province where he reportedly touched 4 members of the son's family. His son later took him for a massage to help with his fatigue.
+
+In the evening, the patient attended a party at Arnoma Grand Hotel in Bangkok and came in contact with 22 people. During that time, the man had run to the toilet around 6 times from diarrhoea.
+
+On [14 Dec 2020], the patient stayed at home. He was unable to eat and passed blood in his stool twice.
+
+On [15 Dec 2020], he stayed in again but held online meetings with his colleagues.
+
+On [16 Dec 2020], he spent most of the day at home, but dined at a restaurant in Nonthaburi's Prachachuen area at 7 pm and at 8 pm, he went to The Mall Ngamwongwan complex and entered a Nike shop.
+
+On [17 Dec 2020], he travelled to his other house in Bang Yai district and returned at 4 pm.
+
+On [18 and 19 Dec 2020], he stayed at home.
+
+On [20 Dec 2020], he took his wife to Thansamritwittaya School in the province, where she cast her vote for the provincial administration organisation (PAO) chief. After that, he went to another election station in Bang Yai district to exercise his own ballot.
+
+At 3 pm that day, he drove to Bang Bua Thong Hospital to undergo a COVID-19 check. The following day, test results showed he had coronavirus.
+
+--
+Communicated by:
+ProMED-MBDS
+<promed-mbds@promedmail.org>
+
+----
+[E] Chachoengsao province: one case
+Date: Tue 22 Dec 2020
+Source: The Nation [edited]
+https://www.nationthailand.com/news/30400035
+
+
+The authorities have released an official timeline of a 24-year-old Chachoengsao resident's movements after she tested positive for COVID-19 on Tuesday [22 Dec 2020].
+
+The woman lives and works in Chachoengsao's Bang Pakong district and went to work every day between [7 and 11 Dec 2020].
+
+On [12 Dec 2020], the woman, her boyfriend and friends had a meal at a buffet restaurant in Bang Pakong's Bang Wua area.
+
+On [13 Dec 2020], she travelled to her 2nd house in Samut Prakan district and visited the Mega Bangna complex. She also ate at a restaurant near Assumption University's Suvarnabhumi Campus before returning to Chachoengsao.
+
+On [14 and 15 Dec 2020], the patient went to work at her office and dined at a restaurant in Bang Wua sub-district.
+
+On [16 Dec 2020], she only went to work.
+
+On [17 Dec 2020], the woman ate at an eatery in Bang Wua area and later visited a pharmacy and local market near the Bang Wua branch of Tesco Lotus.
+
+On [18 Dec 2020], she went to office.
+
+On [19 Dec 2020], she visited a Toyota service centre in Samut Prakan's Bang Bo district, before visiting her boyfriend's home in the same province. The patient then dined at a buffet restaurant called "Nari" in Chonburi before returning to her home in Chachoengsao.
+
+On [20 Dec 2020], the patient returned to Samut Prakan to cast her vote for the provincial administration organisation's chief at the election station in Bang Phli Noi market. She also visited Chularat 11 Hospital, her boyfriend's home and a 7-Eleven outlet in a PTT petrol station.
+
+--
+Communicated by:
+ProMED-MBDS
+<promed-mbds@promedmail.org>
+
+----
+[F] High risk areas in 10 provinces
+Date: Tue 22 Dec 2020
+Source: The Nation [edited]
+https://www.nationthailand.com/news/30400015
+
+
+A list of 28 locations are at risk for COVID-19 infection and people who have visited these places have been urged to screen for fever.
+
+Dr Nattapol Pruatphongphan from Bangkok Hospital Phitsanulok has collected information about the ongoing outbreak in various areas.
+
+He warned medical personnel who might have made contact with people from the high-risk areas or people from those locations to be screened for high body temperature.
+
+The high-risk places are:
+- Samut Sakhon: The Central Shrimp Market, Ton Son Mahachai Night Market, Mae Puang Market, Talay Thai Market, Mahachai Villa Flea Market, Krok Krak Market, Kheha Nadi Market, Mahachai Niwet, and Baan Ua-athon Tha Chin.
+- Samut Prakan: Pak Nam Seafood Market and a seafood shop in, Pak Nam sub-district, Muang district.
+- Nakhon Pathom: Tha Sao Flea Market and Nakhon Chai Si district.
+- Bangkok: Nuanchan Market in Bueng Kum district and the residential area near Prachachuen Road in Bang Sue district.
+- Pathum Thani: Wat Sa Bua Flea Market in Thanyaburi district and a flea market in Nong Sua district.
+- Ayutthaya: Bang Si Thong Village market and a motorcycle taxi stop near Chiang Rak Noi Bridge in Bang Pa-in district.
+- Saraburi: Jaew Hon Ta pa hot pot restaurant in Nong Khae district and Muang district market.
+- Suphanburi: Seafood markets in Song Phi Nong and Bang Pla Ma district.
+- Uttaradit: 3 markets (Pa Khanun market, main municipal market, and Tha Sao market in municipal area) in Muang district.
+- Chiang Mai: A salon in Mae Ai district and a bus Bangkok-Ban Tha Ton.
+
+--
+Communicated by:
+ProMED-MBDS
+<promed-mbds@promedmail.org>
+
+[Despite the fact that the source of the infection for the cluster in Samut Sakhon province, with detection of COVID-19 since 17 Dec 2020 remains unknown, the assumption in public and local media is that migrant workers constitute the general risk factor for spread of infection.
+
+Though COVID-19 has been widely spread in Myanmar and Myanmar migrant workers could be the source of infection through illegal entry to Thailand, it is also undeniable that due to their crowded living conditions, limited access to health services, and low socio-economic status, introduction of any infectious disease can easily burst out in migrant communities. Hence, detailed epidemiological investigation of index cases in each cluster will be of merit to identify the possible source which could aid in early detection and better containment.
+
+According to a social media post, referring to Thai Rath News on the number of COVID-19 infection from 1-22 Dec 2020 as of 18:00 on 22 Dec 2020 (https://www.facebook.com/100044288176713/posts/240920900727514/ in Thai for Thai Rath news infographic), 1089 cases were confirmed in Samut Sakhon province, including 84 cases out of 1099 people tested in Thai Union, 914 cases out of 2051 people tested in the central shrimp Talad Kung market, and 91 cases out of 653 people tested in Thai Talay market.
+
+Other provinces with COVID-19 confirmed cases were Samut Prakan (7 cases), Saraburi (5 cases), Bangkok (9 cases), Pathum Thani (3 cases), Nakhon Pathom (8 cases), Uttaradit (one case), Suphan Buri (2 cases), Chachoengsao (one case), Phetchaburi (one case), Nonthaburi (2 cases), Phetchabun (2 cases), Khamphengphet (2 cases), and Phuket (one case). - Mod.YMA
+
+Maps of Thailand: https://legacy.lib.utexas.edu/maps/middle_east_and_asia/thailand_admin-2013.jpg and https://promedmail.org/promed-post?place=8040292,151.
+
+We look forward to information on genomic studies of the virus(es) involved in this widespread superspreading event(s). Genomic studies may help in tracing the "origin" of the virus. - Mod.MPP]
+
+******
+[4] Taiwan
+Date: Tue 22 Dec 2020 6:00 PM GMT+1
+Source: The Washington Post [edited]
+https://www.washingtonpost.com/world/asia_pacific/taiwan-coronavirus-break-longest-streak/2020/12/22/8ed13cac-441c-11eb-ac2a-3ac0f2b8ceeb_story.html
+
+
+Authorities in Taiwan, which has led the world in COVID-19 containment, said Tuesday [22 Dec 2020] they would roll back foreign flights and tighten quarantine requirements for crew members after identifying the 1st locally transmitted coronavirus case since April [2020], stemming from a cargo pilot who flew routes abroad, including to the United States.
+
+The reports of a single new case and its particulars -- the pilot, a New Zealander, was said to have been coughing during his last flight but did not wear a mask at all times -- immediately sparked public consternation as they snapped the island's record without a domestic transmission. The 253-day streak had been a point of pride for Taiwan's 23 million people and its leaders.
+
+Taiwanese officials said Tuesday [22 Dec 2020] they would cut passenger flights from London by half beginning Wednesday [23 Dec 2020] because they feared the possibility of importing the new viral variant that has recently spread in Britain. Taiwanese citizens, meanwhile, fumed about the lax controls surrounding pilots from abroad and whether a new cluster of cases could derail public New Year's celebrations.
+
+The Taiwanese government also fined the pilot the maximum under the law, about USD 10 000 for failing to report his symptoms and contacts as it issued stern warnings about personal accountability.
+
+"Wear your masks well and let's not fumble this now, especially when we're in a period with a mutation that's transmitting fast," Taiwanese Health Minister Chen Shih-chung said Tuesday [22 Dec 2020], showing a flash of frustration. "We need to have stricter controls for pilots. Our measures weren't actually being implemented."
+
+Recent cases in Taiwan, China, Australia, and elsewhere have underscored how easy it is for the coronavirus to regain a foothold even in places where public health authorities had contained it through careful quarantine, isolation and contact-tracing policies. Authorities have turned their attention recently to flight crew members, who are sometimes afforded more relaxed quarantine requirements compared to passengers because they need to fly so frequently.
+
+In Taiwan, for instance, arriving pilots are quarantined for 3 days and cabin crew members for 5. New regulations -- potentially upping the quarantine period to the usual 14 days for most travelers -- would be announced later this week, Chen pledged. "We're definitely going in the direction of stricter," he said.
+
+At the urging of public health experts, Australian agencies this month [December 2020] imposed strict quarantines in hotels monitored by police after a dozen Chilean crew members were caught partying during a layover in Sydney -- and made headlines.
+
+In the most recent case of domestic transmission in Taiwan, authorities believe the New Zealander pilot, who is normally based in Taiwan, returned from a trip to the United States on [4 Dec 2020], and then met a friend, a woman who worked at the Quanta Computer hardware maker, several days later, between [8-12 Dec 2020]. The pilot did not report his meeting the woman when asked, and it was discovered only when contact tracers "investigated his movements," Taiwan's epidemic control center said without giving details about its tracking methodology.
+
+The pilot was fined about USD 10 000 for "covering up symptoms, contacts, and places visited while sick," the spokeswoman for President Tsai Ing-wen said on Twitter late Tuesday [22 Dec 2020]. "The mood is alert, serious. Personal accountability is key."
+
+Taiwanese officials, including Premier Su Tseng-chang, urged citizens on Tuesday [22 Dec 2020] to consider staying home during New Year's celebrations but stopped short of canceling any public events. "You can get better angles from television," Su said, referring to annual fireworks show at the Taipei 101 skyscraper.
+
+Officials earlier this month [December 2020] called on the country to not forget to wear masks or grow complacent heading into the holiday period. Masks are almost never worn in Taiwan's packed restaurants, bars and nightclubs, and rules are unevenly enforced in busy shopping centers.
+
+Since the start of the pandemic, Taiwan has reported 771 cases and 7 deaths.
+
+[Byline: Gerry Shih, Lily Kuo in Taipei and Lyric Li in Beijing contributed to this report.]
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[Unfortunately complacency is setting in, especially in locations that have been spared major surges in cases previously, but in those areas (Europe, USA, Canada, and Brazil to name a few) restriction fatigue has set in. A challenge for risk communicators to reach. - Mod.MPP]
+
+******
+[5] WHO updates (as of 22 Dec 2020)
+[A] Weekly epidemiological update
+Date: Tue 22 Dec 2020
+Source: WHO, Emergency Situational Updates [edited, abridged]
+https://www.who.int/publications/m/item/weekly-epidemiological-update---22-december-2020
+
+
+Data as received by WHO from national authorities, as of [20 Dec 2020], 10 am CET. Other information collected by epidemic intelligence activities and verified by WHO.
+
+[Tables and Figures available at the source URL above]
+
+Global epidemiological situation
+--------------------------------
+New COVID-19 cases and deaths continued to increase during the past week, by 6% and 4% respectively (Figure 1, Table 1). The Region of the Americas again accounted for the greatest proportion, reporting over 2.3 million new cases (half of the global cumulative), while the European Region reported the highest number of new deaths (36 286; 46%) in the past week. The African Region accounted for the greatest relative increase in new cases (27%) and deaths (34%) compared to the previous week. Increasing trends were also observed in the Western Pacific Region, while the South-East Asia and Eastern Mediterranean Regions were the only 2 that reported a decrease in both cases and deaths.
+
+On [14 Dec 2020], authorities from the United Kingdom of Great Britain and Northern Ireland (United Kingdom) reported a new variant of SARS-CoV-2 to WHO. It was identified by viral genomic sequencing, and is referred to as SARS-CoV-2 variant under investigation, year 2020, month 12, variant 01 (SARS-CoV-2 VUI 202012/01). Initial analysis indicates that the variant may spread more readily between people. Investigations are ongoing to determine if it is associated with any change in the severity of infection, antibody response or vaccine efficacy.
+
+As of [20 Dec 2020] there have been over 75 million cases and over 1.6 million deaths since the start of the pandemic.
+
+In the past week, the 5 countries reporting the highest number of cases globally were the United States of America with over 1.6 million cases, a 14% increase from the previous week, Brazil (326 751 new cases, an 8% increase from the previous week), Turkey (194 476 new cases, an 11% decrease from the previous week), the Russian Federation (194 449 new cases; less than a 1% increase from the previous week) and India (174 194 new cases; an 18% decrease from the previous week).
+
+Figure 1: COVID-19 cases reported weekly by WHO Region, and global deaths, as of [20 Dec 2020]
+Figure 2: COVID-19 cases per 1 million population reported in the last 7 days by countries, territories and areas, [14 Dec 2020] through [20 Dec 2020]
+Table 1: Newly reported and cumulative COVID-19 confirmed cases and deaths, by WHO Region, as of [20 Dec 2020]
+Table 2: COVID-19 confirmed cases and deaths reported in the last 7 days by countries, territories and areas, and WHO Region, as of [20 Dec 2020]
+
+Situation by WHO region
+-----------------------
+- African Region
+The African Region has continued to report a steady increase in new reported cases and deaths, with 27% and 34% increases respectively week on week. (Figure 3). The Region reported 94 653 new cases, constituting the highest overall change in case counts (Table 1). The number of new cases per 1 million population was 84 during the last week and a case fatality rate of 2.2%, since the start of the pandemic. The highest number of cases were reported from South Africa (59 512, 1003 new cases per 1 million population), Nigeria (5176, 25 new cases per 1 million population), Ethiopia (4134, 36 cases per 1 million population), Kenya (3846, 72 cases per 1 million population), Uganda (3631, 79 cases per 1 million population), and Algeria (3143, 72 cases per 1 million population).
+
+South Africa continues to report high numbers of new cases and deaths, and has the highest case incidence (1003 new cases per 1 million population) within the region. As of [20 Dec 2020], the cases were mainly distributed in Gauteng (28%), Western Cape (19%), Eastern Cape (17%) and KwaZulu Natal (17%) provinces. New stay-at-home orders were implemented, as well as closures of some public beaches and parks, limiting alcohol selling hours and a curfew from 11pm to 4am. A new variant of SARS-CoV-2 was detected in South Africa and the changes observed may translate to higher transmissibility.
+
+New cases reported in Eswatini [Swaziland] have increased by 170%, bringing the cumulative to 7305 cases. The country reported an increased incidence of 509 new cases per million population compared to 189 cases per million population reported in the previous week. As of [14 Dec 2020], cases were mainly distributed in regions of Manzini (46%) and Hhohho (38%), according to the Ministry of Health. Reported deaths increased, though cumulative deaths remain low (137 deaths) compared to neighbouring countries, South Africa and Mozambique.
+
+Table 1: Newly reported and cumulative COVID-19 confirmed cases and deaths, by WHO Region, as of [20 Dec 2020]
+Figure 3: Number of COVID-19 cases and deaths reported weekly by the WHO African Region, as of [20 Dec 2020]
+
+- Region of the Americas
+The Region of the Americas reported over 2.3 million new cases this week, a 13% increase from the previous week (Figure 4). The Region also reported over 32 000 deaths, a 9% increase from the previous week and a continuation in the rapid rise in deaths since November [2020]. The United States of America continues to report an increasing number of new cases (over 1.65 million new cases; over 5000 new cases per 1 million population) -- the highest incidence in the Region. The United States of America is followed by Brazil, Colombia, Mexico, and Canada in cases reported last week. The 5 countries with the highest number of deaths per 1 million population were Belize (75 deaths per 1 million), the United States of America (54 deaths per 1 million), Panama (45 deaths per million), Mexico (33 deaths per 1 million), and Colombia (27 deaths per 1 million).
+
+The number of new cases reported last week in Argentina (over 42 000, 930 per 1 million population) represents a 21% increase from last week and pushes the cumulative number of cases above 1.5 million. This is the 1st increase in the number of new cases since a continuous downward trend from the week of [19 Oct 2020], when new weekly cases peaked at 103 000. Despite this increase in new cases, the number of new deaths continued to decline, to just over 1000 new deaths reported last week, a 3% decline compared to the previous week. Buenos Aires province has reported the highest number of cumulative cases and accounts for 43% of cases, followed by the province of Santa Fé, the city of Buenos Aires, and Córdoba province. Since the beginning of the pandemic, 4.3 million cumulative people have been tested, with a current test positivity rate of 30%. The occupancy rate of intensive care beds stands at 54%.
+
+The number of new cases reported by Panama has risen rapidly since the week of [9 Nov 2020]. Last week, a 31% rise was seen compared to the previous week, with 18 500 new cases reported (4300 new cases per 1 million population -- the 2nd highest in the Region after the United States of America). The number of new deaths has also risen by 26% in comparison to the previous week, with 195 new deaths reported (45 new deaths per 1 million population). Public health and social measures including curfews are being implemented over the end-of-year holiday period. The government has approved the use of the Pfizer vaccine against COVID-19 and expects to start receiving the 1st batch in the 1st quarter of 2021.
+
+In the Dominican Republic, new cases reported stabilized during the last week, to just under 5500 new cases (500 new cases per 1 million), an 8% decline from last week. As of [13 Dec 2020], 790 000 polymerase chain reaction (PCR) tests had been conducted, with a current test positivity rate around 15%. Around 30% of COVID-19 intensive care unit beds are currently occupied. Of those who have died, one 3rd were reported to have hypertension, while 21% were diabetic, according to authorities. As with Panama, curfews will be implemented over the end-of-year holiday period.
+
+Figure 4: Number of COVID-19 cases and deaths reported weekly by the WHO Region of the Americas, as of [20 Dec 2020]
+
+- Eastern Mediterranean Region
+The number of new cases and deaths in the Eastern Mediterranean Region has decreased, for the 4th consecutive week (Figure 5). A cumulative 174 325 new cases (a 14% decrease compared to the previous week) and 3852 new deaths (a 12% decrease compared to the previous week) was reported in the past week. The countries reporting the highest number of new cases in the past week were the Islamic Republic of Iran (51 254 new cases; 610 new cases per 1 million population), Pakistan (19 617 new cases; 89 new cases per 1 million population) and Morocco (17 629 new cases; 478 per 1 million population). These 3 countries also accounted for the most deaths reported in the past week (Table 2).
+
+There has been a 40% increase in new cases in the Syrian Arab Republic in the past week, with over 1000 cases reported, while the number of new deaths increased by nearly 50%. Increases in new cases have been reported for the past 8 weeks, and the case fatality rate is high, at just under 6%.
+
+In Lebanon the number of new cases has increased by 20%, after 5 weeks of reporting decreases. The number of new deaths decreased by 21%. Most cases were male (54%) compared to female (46%), and the highest incidence per 100 000 population was reported in those aged 50-59 years since the start of the pandemic. Nationally, the cumulative incidence has been reported to be highest in the district of Aleyh (5121 per 100 000 population), while the incidence in the past 14 days has been highest in the district of Zahleh (655 per 100 000 population). A new COVID-19 department was opened in the Othman Hospital in Kutermaya -- Al-Kharroub region of Lebanon -- along with an increase in the number of beds and intensive care units in 2 other hospitals: Al-Koura Hospital and Shaheen Hospital.
+
+Both cases and deaths continued to increase in Egypt during the last week. The number of cases increased by 24%, representing the largest relative increase reported in the past 2 months. The number of new deaths increased by 16%. There was a cluster of cases reported among the youth national football team. The Minister of Health stated early in December that 56% of intensive care unit beds and 30% of ventilators are currently occupied, while the occupancy of beds for isolation is 24%. In an effort to address the rising number of cases and deaths, a grant will be used to scale up medical supplies.
+
+Figure 5: Number of COVID-19 cases and deaths reported weekly by the WHO Eastern Mediterranean Region, as of [20 Dec 2020]
+
+- European Region
+The increase in the number of new cases (2%) and deaths (3%) reported last week in the European Region remained very similar to the previous week (Figure 6). The highest number accounting for 33% of all cases reported in the Region, were in Turkey (194 476 new cases; 2306 new cases per 1 million population), the Russian Federation (194 449 new cases; 1332 new cases per 1 million population) and Germany (173 293 new cases; 2068 new cases per 1 million population). The highest number of new deaths were reported in Italy (4411 new deaths; 73 new deaths per 1 million population), Germany (4262 new deaths; 51 new deaths per 1 million population), and the Russian Federation (3917 new deaths; 27 new deaths per 1 million population).
+
+For the 9th consecutive week, the number of cases and deaths increased in Estonia. Last week, while the number of new cases reported in Estonia increased by 27%, the number of new deaths increased by 18%. The country has reported peaks in new cases and deaths, with the most affected counties being Harju, Ida-Viru, and Tartu. The average age of hospitalized cases was 67 years; 69 years among females and 65 years among males. In response to these increases, public health and social measures were tightened on [14 Dec 2020]. Estonia has conducted over 565 000 PCR tests. The case fatality rate (0.8%) remains low, the test positivity rate is relatively high at 11%
+
+In Portugal, following 3 weeks of a decline in the incidence of cases and deaths, both remained relatively stable in the past week. The number of new cases in the country was highest in Mandim de Basto, Marvao, and Chaves counties. As of [20 Dec 2020], there were 3158 hospitalized cases, of which 502 (16%) are in intensive care unit. The number of new reported deaths in the country was the highest reported since the start of the pandemic.
+
+The number of cases in Spain have decreased for the 7th consecutive week, dropping slightly (2%), with a much larger decrease in the number of new deaths (a 44% decrease). The regions with the highest incidence per 100 000 population were Palencia (172) and Girona (159), while Palencia also had the highest incidence per 100 000 in those aged over 65 years (247). Approximately 20% of intensive care unit beds in the country are occupied by COVID-19 patients.
+
+Figure 6: Number of COVID-19 cases and deaths reported weekly by the WHO European Region, as of [20 Dec 2020]
+
+- South East Asia Region
+The Region reported just over 249 000 new cases and under 4000 new deaths, 14% and 10% decreases respectively (Figure 7). This continues the declines observed since the middle of September [2020]. Only 2 countries out of 10 in the Region reported an increase in new cases (Thailand and Indonesia). India has now reported over 10 million cases, and despite the number of new cases falling by 18% this week, the country reported the 5th highest number of new cases globally (174 000 new cases, 126 new cases per 1 million population). In the Region, India was followed by Indonesia, Bangladesh, Myanmar, and Nepal in the number of new cases and new deaths reported last week.
+
+Myanmar reported 8300 new cases (150 new cases per 1 million population) last week, an 11% decline from the previous week. Although cases were 1st reported in Myanmar in March, fewer than 1000 cases were reported by mid-August [2020]. The number of weekly new cases started to rise at the end of August [2020] and has remained between 6000 and 11 000 since the end of September [2020]. The townships of Mingaladon, North Okkalapa, Hlaingtharya, and Insein, which are close to the capital, Yangon, have reported the highest numbers of cumulative cases. As of [20 Dec 2020], 1.6 million PCR tests had been conducted, with a current test positivity rate of 4%.
+
+Sri Lanka reported 3900 new cases (180 new cases per 1 million), a 20% decline from last week. Weekly new cases rose considerably in the beginning of October [2020], and new weekly cases have remained between 2500 and 5000 since the end of October [2020]. The number of deaths due to COVID-19 has remained low, with a current case fatality rate of 0.5%. As of [13 Dec 2020], 1 million PCR tests have been conducted, with a current positivity rate of 4%.
+
+Thailand reported 139 new cases last week (2 new cases per 1 million population), a 16% increase from the previous reporting period. Thailand has been successful at keeping the number of new cases below 100 per week from the end of April [2020] to early November [2020]. However, since the week of [9 Nov 2020], the number of new weekly cases has risen steadily. A new outbreak in Samut Sakhon province was reported on [21 Dec 2020], and accounts for a considerable proportion of the number of new cases. There have been no new deaths reported since [2 Nov 2020]. As of [6 Dec 2020], 1.3 million PCR tests have been conducted, with a test positivity rate of 0.3%.
+
+Figure 7: Number of COVID-19 cases and deaths reported weekly by the WHO South East Asia Region, as of [20 Dec 2020]
+
+- Western Pacific Region
+The numbers of new cases and deaths reported in the Western Pacific Region have been increasing consistently but gradually over the past 7 weeks. New weekly cases increased by 3% in the past week (Figure 8). The Region continues to report the lowest number of new cases compared to other regions, with 46 662 new cases and 636 deaths reported. Japan continued to report the highest number of new cases and deaths (18 593 and 311 respectively), followed by Malaysia (9723 new cases, 22 new deaths), Philippines (9713 new cases, 181 new deaths), and the Republic of Korea (6899 new cases, 94 new deaths).
+
+The Republic of Korea reported 94 deaths, a 169% increase in new weekly deaths compared to the previous week with 35 deaths. Due to the increasing number of new cases since November 2020, the Seoul metropolitan area is facing challenges in the availability of critical care beds, with 580 patients waiting for beds in Seoul as of [18 Dec 2020], of which nearly half have been waiting for at least 2 days. In response to the continued rise in number of new cases, the government toughened preventive measures in Seoul to Level 2.5, the 2nd highest level under the 5-tier system.
+
+In the past week, Singapore reported the highest increase (55%) in new weekly cases in the region. While the country reported 90 new cases last week, all were imported and had been issued stay-at-home notices or were isolated on arrival, preventing further transmission in the community. The country will be moving from phase 2 to phase 3 of its reopening starting [28 Dec 2020], allowing gatherings of 8 people ahead of the new year. Singapore approved the Pfizer-BioNTech vaccine and announced that they expect to have enough for the whole country by the 3rd quarter of 2021.
+
+Figure 8: Number of COVID-19 cases and deaths reported weekly by the WHO Western Pacific Region, data as of [20 Dec 2020]
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+----
+[B] Daily new cases reported [as of 22 Dec 2020]
+Date: Tue 22 Dec 2020
+Source: WHO [abridged, edited]
+https://covid19.who.int/table
+
+
+*Daily case reports as of 22 Dec 2020 16:13 CET
+
+Surveillance
+------------
+WHO region (no. countries/territories):
+Total confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+------------------------------------
+Western Pacific Region (1 020 596 (7078) / 19 072 (85)
+European Region (61): 24 099 615 (192 637) / 530 752 (4460)
+South East Asia Region (10): 11 676 286 (29 965) / 178 030 (564)
+Eastern Mediterranean Region (22): 4 708 243 (19 892) / 116 538 (518)
+Region of the Americas (54): 33 002 132 (261 419) / 816 611 (2873)
+African Region (49): 1 742 815 (13 074) / 38 214 (275)
+Cases on an international conveyance (Diamond Princess): 744 (0) / 13 (0)
+
+Confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+Grand total: 76 250 431 (524 065) / 1 699 230 (8775)
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The number of countries and territories reporting confirmed cases of COVID-19 to WHO remains at 218].
+
+Data by country, area, or territory for 22 Dec 2020 can be accessed at https://promedmail.org/wp-content/uploads/world-pdf/WHO%20daily%20tablesDEC22_1608679172.pdf.
+
+Key countries not reporting cases today include Switzerland, Sweden, Kazakhstan, Uzbekistan, in the European Region, Sri Lanka in the South East Asian region, Costa Rica in the Americas Region, and Cameroon and Madagascar in the African Region.
+
+- The Americas region reported 49.9% of daily case numbers and 32.7% of the daily deaths reported in the past 24 hours, but maintained its position as the most severely affected region, having reported more than 33.0 million cases. The USA continues to dominate, followed by Brazil, Colombia, Mexico, Canada, and Argentina. Other countries reporting more than 1000 cases include Panama, Chile, and Peru. And countries/territories reporting more than 500 cases but fewer than 1000 in the past 24 hours include, Dominican Republic and Paraguay.
+
+- The European region reported 36.8% of daily case numbers and 51.0% of the daily deaths reported in the past 24 hours, and total cumulative cases reported exceed 24.0 million. Countries reporting more than 10 000 cases in the past 24 hours include UK, Russia, Germany, Turkey, Netherlands, and Italy. There are 20 additional countries reporting more than 1000 cases in the past 24 hours and 6 countries reporting more than 500 but fewer than 1000 cases in the past 24 hours.
+
+- The Eastern Mediterranean region reported 3.8% of daily case numbers and 5.9% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 4.70 million cases. Iran is dominant with decreasing daily case counts now around 6100, followed by Jordan, Pakistan, Palestinian Authority, Iraq, Lebanon, UAE, and Tunisia. Morocco, Egypt, and Libya reported more than 500 cases but fewer than 1000, while Sudan, Somalia, and Yemen have not reported any cases in the past 24 hours.
+
+- The African region reported 2.5% of daily case numbers and 3.1% of the deaths reported in the past 24 hours and has reported more than 1.74 million cases. South Africa maintains its dominance, reporting almost 8800 new cases, followed by Namibia, Botswana, Algeria, Ethiopia, Nigeria, Ghana, DR Congo, Uganda, Burkina Faso, Eswatini/Swaziland, Mozambique, Senegal, and Kenya.
+
+- The Western Pacific region reported 1.4% of daily case numbers and 0.97% of the deaths reported in the past 24 hours, having reported a cumulative total of 1.02 million cases. Japan is dominant, followed by Malaysia, Philippines, South Korea, French Polynesia, and China.
+
+- The South East Asia region reported 5.7% of the daily newly reported cases and 6.4% of reported deaths in the past 24 hours, having reported a cumulative total of more than 11.6 million cases. As previously, India remains dominant although decreasing numbers of cases just less than 20 000 today (22 Dec 2020), followed by Indonesia (at above 6800), Bangladesh, Myanmar, and Nepal.
+
+Impression: Basically unchanged on the regional levels with the continued dominance of Europe and the Americas region representing over 83% of both newly confirmed cases and newly reported deaths in the past 24 hours. The USA maintains its position as the country reporting the most cases and deaths on a daily basis.
+
+On the Overview tab at the WHO source URL, the epidemic curve of confirmed COVID-19 cases by WHO region, 30 Dec 2019 through 22 Dec 2020, is an excellent visual representation of the pandemic. - Mod.MPP]
+
+******
+[6] Global update: Worldometer accessed 22 Dec 2020 22:06 EST (GMT-5)
+Date: Tue 22 Dec 2020
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at https://promedmail.org/wp-content/uploads/world-pdf/DEC22DATASET_1608699431.pdf.
+
+A 7-day series of cumulative data reported by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/DEC22WORLD7_1608699518.pdf. - Mod.MPP]
+
+Total number of reported deaths: 1 723 771
+Total number of worldwide cases: 78 360 768
+Number of newly confirmed cases in the past 24 hours: 645 699
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[In the past 24 hours, the USA (210 912), Brazil (55 799), and UK (36 803), have reported the highest numbers of cases. A global total of 14 852 deaths were reported in the past 24 hours (21-22 Dec 2020). Noteworthy is Peru has now reported more than 1 million cumulative cases, making it the 16th country to have crossed that number of cases.
+
+Countries reporting more than 10 000 newly confirmed cases in the past 24 hours (12 countries) include the USA, Brazil, UK, Russia (28 776), India (23 886), Germany (22 495), Sweden (22 319), Turkey (19 256), Italy (13 316), Colombia (12 526), Mexico (12 511), and France (11 795). A total of 55 countries reported more than 1000 cases in the past 24 hours (down from 60 countries on Fri 18 Dec 2020); 30 of the 55 countries reporting more than 1000 newly confirmed cases are from the European region, 9 are from the Americas region, 8 are from the Eastern Mediterranean region, 4 are from the South East Asia region, 3 are from the Western Pacific region, and one from the African region.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, case counts have decreased by 13.1%, while daily reported deaths have increased by 4.8%. (influenced by Turkey's high backlog reporting 13 days ago) - figures appear to be stabilized. The USA is showing reduced reporting with virtually no increase or decrease in the comparative analyses. Similar comparative averages for the USA show a decrease of 0.79% in reported cases and an increase of 11.8% in reported deaths. - Mod.MPP]
+See Also
+COVID-19 update (549): animal, mink, Denmark, erad. Russia, vaccine, China, RFI 20201222.8039549
+COVID-19 update (548): mutations, PEGs,Thailand, WHO, global 20201222.8037438
+COVID-19 update (547): mutations, travel restrictions, Thailand, WHO, global 20201221.8034356
+COVID-19 update (546): animal, Sweden, mink, surveillance, spread, control, RFI 20201220.8033896
+COVID-19 update (545): mutations, UK, South Africa, South Asia, WHO, global 20201220.8032607
+COVID-19 update (544): mAb cocktail, mortality, Thailand, WHO, global 20201219.8030355
+COVID-19 update (543): vaccine, excess mortality, Nigeria, India, WHO, global 20201218.8027697
+COVID-19 update (542): animal, Greece (EM) mink mutation, human, OIE 20201218.8027113
+COVID-19 update (541): COVI-VAC, prevalence, fungal infections, WHO, global 20201217.8025562
+COVID-19 update (540): S Africa MIS-C, USA risk factors, Iran serosurvey, WHO global 20201216.8021945
+COVID-19 update (530): animal, mink, research, experimental infection, vaccine 20201210.8009205
+COVID-19 update (520): Denmark, Netherlands, mink, human-animal interface, WHO 20201204.7994061
+COVID-19 update (510): animal, mink, Lithuania, Poland, 1st reports, France, OIE 20201127.7976927
+COVID-19 update (500): frequent rapid tests, vaccine, WHO, global 20201122.7962919
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+Undiagnosed pediatric inflammatory syndrome (05): Europe, USA, COVID-19 assoc 20200518.7340554
+Undiagnosed pediatric inflammatory syndrome (04): USA, UK, PMIS, fatal 20200509.7315405
+Undiagnosed pediatric inflammatory syndrome (03): USA, Europe, COVID-19 susp, RFI 20200505.7299876
+COVID-19 update (150): global, USA state prisons, WHO 20200502.7290671
+COVID-19 update (100): China, S. Korea & high local transmission countries 20200413.7217806
+COVID-19 update (50): China (Hong Kong) animal dog, 2nd case PCR positive, OIE 20200323.7129951
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (41): China, global, clinical pics, asymptomatic trans., WHO 20200210.6976117
+Novel coronavirus (40): animal reservoir, pangolin poss intermediate host, RFI 20200210.6972104
+Novel coronavirus (30): updates, China, Viet Nam, research 20200202.6945658
+Novel coronavirus (20): China, wildlife trade ban 20200127.6922060
+Novel coronavirus (10): China (HU, GD, BJ) 20200119.6898567
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia: China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia: China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+----
+Undiagnosed pneumonia: China (HU): RFI 20191230.6864153
+and other items in the archives
+.................................................sb/yma/mpp/mj/jh
+</body>

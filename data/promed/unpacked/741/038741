@@ -1,0 +1,82 @@
+<header id=038741>
+Published Date: 2019-01-11 13:12:03 EST
+Subject: PRO/EDR> Diphtheria - Germany: toxigenic, cutaneous, siblings, suspected ex Somalia
+Archive Number: 20190111.6254250
+</header>
+<body id=038741>
+DIPHTHERIA - GERMANY: TOXIGENIC, CUTANEOUS, SIBLINGS, SUSPECTED ex SOMALIA
+**************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+Date: Thu 10 Jan 2019
+Source: Eurosurveillance 2019; 24(2) [edited]
+https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2019.24.2.1800683?emailalert=true
+
+
+Berger A, Dangel A, Schober T, et al. Whole genome sequencing suggests transmission of Corynebacterium diphtheriae-caused cutaneous diphtheria in two siblings, Germany, 2018. Euro Surveill 2019;24(2):pii=1800683. https://doi.org/10.2807/1560-7917.ES.2019.24.2.1800683
+
+Abstract
+----------
+In September 2018, a child who had returned from Somalia to Germany presented with cutaneous diphtheria [caused] by toxigenic _Corynebacterium diphtheriae_ biovar mitis. The child's sibling had superinfected insect bites harbouring also toxigenic _C. diphtheriae_. Next-generation sequencing (NGS) revealed the same strain in both patients, suggesting very recent human-to-human transmission. Epidemiological and NGS data suggest that the 2 cutaneous diphtheria cases constitute the 1st outbreak by toxigenic _C. diphtheriae_ in Germany since the 1980s.
+
+Case reports
+---------------
+In early September 2018, a previously healthy school-aged child under 10 years of age from a German family of Somalian origin presented in our hospital in Germany with an initially non-healing burn wound. The wound had occurred 6 days earlier when spilling hot tea on the right thigh during a flight back from Somalia to Germany. The child and close family members had spent the prior 3 weeks in Somalia. Wound swabs initially only led to growth of _Streptococcus pyogenes_, but subsequent wound swabs starting 10 days later led to growth of a toxigenic, toxin-producing _Corynebacterium diphtheriae_ biovar mitis strain (isolate: KL1235). Since the patient fulfilled both the German [1] and European Union [2] case definition for diphtheria, this prompted immediate hospitalisation and isolation according to the German national guidelines [1]. The strain was identified by biochemical differentiation (API Coryne code 1010324) and matrix-assisted laser desorption/ionisation time-of-flight mass spectrometry (MALDI-TOF MS; MALDI Biotyper; Bruker Daltonics, Bremen, Germany) [3]. Antimicrobial drug susceptibility testing of the isolate was performed on Mueller-Hinton blood agar (supplemented with 5% sheep blood) by Etest after overnight incubation at 37  deg C and in 5% CO2. Minimum inhibitory concentrations were determined according to Clinical and Laboratory Standards Institute (CLSI) [4] and European Committee on Antimicrobial Susceptibility Testing (EUCAST) guidelines [5]. The isolate was resistant against both penicillin G and erythromycin but sensitive toward clindamycin and amoxicillin/clavulanic acid. Toxigenicity was verified in the German Consiliary Laboratory on Diphtheria, Oberschleissheim, by real-time PCR and a modified Elek test [6].
+
+Public health measures including source tracing among household and other close contacts were taken according to German national guidelines [1]. This revealed that the case had a one-year-older sibling who concurrently had a skin infection. This child was affected by multiple superinfected insect bites on the leg, which were already present during the stay in Somalia. A swab taken from a leg wound also led to growth of a toxigenic, toxin-producing _C. diphtheriae_ biovar mitis strain (isolate: KL1242). The strain had the same API Coryne code and antimicrobial resistance profile as the one in the younger sibling's isolate, prompting the child's immediate hospitalisation and isolation. In addition, _S. pyogenes_ could be isolated from the patient's wounds in high concentrations, and _Pseudomonas stutzeri_, _Pantoea_ species and _Arcanobacterium haemolyticum_ were present in low concentrations.
+
+To compare both _C. diphtheriae_ strains, next-generation sequencing (NGS) was carried out with both isolates as described previously, using Illumina Nextera XT libraries and an Illumina MiSeq [7]. Sequences were uploaded to the National Center for Biotechnology Information (NCBI) sequence read archive (SRA) [8], under BioProject PRJNA513482. Multilocus sequence typing (MLST) based on 7 housekeeping loci [9] and extracted from the NGS data yielded sequence type (ST) 586 not previously found in the respective database [10]. NGS-derived core genome (cg)MLST comprising 2154 target loci (1553 core genome loci and 601 accessory genome loci) revealed no differences between the 2 isolates, confirming strain identity. The NGS-based allelic profiles of the 2 isolates were compared with 3 Somalian and 8 additional East African _C. diphtheriae_ isolates from an outbreak among African refugees in 2015 with potential transmission before arrival in Europe [11], as well as with 3 German and 7 isolates from patients with travel or migration history to or from different other countries. The comparison showed no significant connections to any of the other isolates (Figure).
+
+Both cases recovered quickly after antibiotic therapy with amoxicillin/clavulanic acid and wound cleansing. They were discharged home after they repeatedly tested negative for nasopharyngeal and wound _C. diphtheriae_ carriage according to German infection management recommendations [1]. Both cases were fully immunised according to the German childhood vaccination recommendations including a booster vaccination at 4-6 years of age [12], as were all their close family members with the exception of one parent whose vaccinations were completed thereafter. All close household contacts, i.e., the family, tested negative for _C. diphtheriae_ carriage, were offered antibiotic prophylaxis and were advised to self-monitor for development of diphtheria-like symptoms according to German recommendations. Since the older sibling reported to have demonstrated his superinfected insect bites to a large group of classmates, the local health department distributed leaflets on diphtheria among the school classes of both children. To date no secondary case has been detected.
+
+Discussion
+-------------
+Classical respiratory and cutaneous diphtheria are caused by diphtheria toxin (DT)-producing _C. diphtheriae_, _C. ulcerans_, and _C. pseudotuberculosis_ that are spread by droplets or -- especially in the case of cutaneous diphtheria -- by direct contact. Because of the potential local or systemic spread of DT, classical diphtheria may give rise to severe respiratory symptoms as well as myocarditis and polyneuritis with a fatality rate between 5% and 30% [13]. In contrast, cutaneous diphtheria symptoms may be mild, unspecific and masked by co-infections but may be a source of secondary transmission and respiratory disease [13,14].
+
+Neither the human source nor the geographical origin of the isolated _C. diphtheriae_ strain reported here is known. Both siblings had returned from a 3-week stay in Somalia where diphtheria might be endemic according to the last available diphtheria incidence data reported to the World Health Organization [15]: In 2012 Somalia ranked 7th of all countries worldwide with respect to the number of notified cases. Moreover, cutaneous diphtheria was identified among Somalian refugees to Europe in 2015 [11,16]. Cutaneous diphtheria cases have also been detected in Germany in recent years, albeit most, but not all of them, after travelling to endemic countries [11,16-18]. In the current report, the index case had received a burn wound on a flight from Somalia to Germany and presented at our hospital 6 days later, while back in Germany. Importantly, the swab [that] led to growth of _C. diphtheriae_ was taken 16 days after the flight. There are several possible explanations for that: The child might have contracted the _C. diphtheriae_ from the sibling who had reportedly acquired subsequently superinfected insect bites when visiting Somalia. Supporting this hypothesis is the initial swab from the burn wound, which was negative for C. diphtheriae, in contrast to follow-up cultures during repeat visits in the surgical department, in which _C. diphtheriae_ was identified. The other hypothesis would be that the index case might have been already colonised with _C. diphtheriae_ in Somalia on either his skin or nasopharyngeal region from where the burn wound might have become superinfected. However, epidemiologically it cannot be determined exactly when and where either of the 2 boys contracted the _C. diphtheriae_ outbreak strain or who infected whom. The MLST-derived ST 586 has previously not been described; therefore, a geographical allocation of the source is not possible. Comparing NGS data from German and 3 Somalian _C. diphtheriae_ with isolates from other countries gives no indication for a larger outbreak or a potential infection source in Germany, or connection to a previously identified outbreak among Somalian and other East African refugees [11].
+
+While the source of the _C. diphtheriae_ strain remains elusive, we were able to prove the identity of both isolates by NGS, suggesting human-to-human transmission between the 2 siblings and defining an outbreak according to the German Infection Protection Act [19]. Since the index case's symptoms of cutaneous diphtheria developed considerable time after his initial burn wound, the diphtheria outbreak [was] obviously initiated within Germany. To our knowledge, this is the 1st diphtheria outbreak in Germany since the early 1980s when the last outbreak was described in Wuppertal using phage typing as molecular typing tool [20]. Interestingly, an NGS-based proof of strain identity between patients as in our outbreak has so far only been documented for 2 couples of respiratory diphtheria patients and 2 asymptomatic carriers during a diphtheria outbreak in South Africa [21]. After the 1980s, to our knowledge no secondary cases or carriers within Germany have been identified following either a respiratory or cutaneous diphtheria index case. In contrast, a cutaneous diphtheria patient from the United Kingdom with a travel history to Ghana was recently reported to have transmitted toxigenic _C. diphtheriae_ to a close contact presenting with nasal diphtheria [22]. [See ProMED-mail post C. diphtheriae - UK: toxigenic, cutaneous, ex Ghana, resp. diphtheria in contact 20180928.6058766.] In conclusion, cutaneous diphtheria should not be forgotten and can present a possible source for secondary diphtheria cases, therefore prompting adequate hygienic precautions.
+
+[The figure and references are available at the source URL. - Mod.ML]
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The following has been extracted from my moderator comments in a prior ProMED-mail post Diphtheria - Norway ex Mozambique: cutaneous, traveler; archive number: 20140621.2556752.
+
+"Either toxigenic or nontoxigenic strains of _C. diphtheriae_ can cause cutaneous diphtheria. Cutaneous diphtheria due to toxigenic strains is endemic in tropical countries and has been responsible for infections in travelers to these countries, even in those who are vaccinated. In the United States, cutaneous diphtheria has been most often associated with homeless persons [poor sanitation, poverty, and crowded living conditions] and the organisms isolated from recent cases were nontoxigenic (http://www.cdc.gov/vaccines/pubs/pinkbook/downloads/dip.pdf). Cutaneous diphtheria is characterized by skin ulcers, which are usually chronic and may become coinfected with other pathogens such as _Staphylococcus aureus_ and _Streptococcus pyogenes_. Cutaneous diphtheria is uncommonly complicated by toxic cardiac or neurologic manifestations.
+
+"Humans are the only reservoir of _C. diphtheriae_. Transmission of _C. diphtheriae_ can occur through respiratory droplets, direct contact with cutaneous infections, and articles soiled with discharges from the respiratory tract or skin lesions. Organisms can be shed for up to 4 weeks without antibiotics, but chronic carriers may shed organisms for 6 months or more. Effective antibiotic therapy promptly terminates shedding. The organisms can survive in dust and clothing for up to 6 months (http://www.cdc.gov/vaccines/pubs/pinkbook/downloads/dip.pdf). Shedding from cutaneous lesions can cause respiratory and cutaneous infections in contacts.
+
+"Cutaneous diphtheria is treated with erythromycin or penicillin for 14 days. The disease is usually not contagious 48 hours after starting antibiotics. Elimination of the organism should be documented by 2 consecutive negative cultures after therapy is completed. Management of contacts of cutaneous diphtheria should include screening for possible respiratory or cutaneous diphtheria and obtaining nasopharyngeal cultures for _C. diphtheriae_. For close contacts, especially household contacts, a diphtheria booster, appropriate for age, is given. Contacts should also receive antibiotics -- benzathine penicillin G or a 7- to 10-day course of oral erythromycin. Identified carriers in the community should also receive antibiotics. However, if the strain is shown to be nontoxigenic, the CDC recommends that investigation of contacts can be discontinued (http://www.cdc.gov/vaccines/pubs/pinkbook/downloads/dip.pdf). Since 1980, cutaneous diphtheria is not a nationally reportable disease in the U.S. (http://www.cdc.gov/vaccines/pubs/surv-manual/chpt01-dip.html)." - Mod.ML
+
+HealthMap/ProMED-mail maps:
+Germany: https://promedmail.org/promed-post?place=6254250,101
+Somalia: https://promedmail.org/promed-post?place=6254250,125]
+See Also
+2018
+----
+C. diphtheriae - UK: toxigenic, cutaneous, ex Ghana, resp. diphtheria in contact 20180928.6058766
+Diphtheria - Canada: (AB) 20180624.5873185
+Corynebacterium ulcerans - Japan: (FO) fatal, disseminated, susp. zoonotic, 2016, RFI 20180117.5565583
+2017
+----
+Diphtheria - Austria (02): cutaneous, tourist, comment 20170104.4740536
+Diphtheria - Austria: cutaneous, ex Sri Lanka, tourist 20170101.4736133
+2015
+----
+Diphtheria - Europe: cutaneous, refugees 20150815.3579462
+2014
+----
+Diphtheria - Norway ex Mozambique: cutaneous, traveler 20140621.2556752
+2010
+----
+Diphtheria, C. ulcerans - UK: (England) 20100806.2656
+.................................................mpp/ml/rd/mpp
+</body>

@@ -1,0 +1,366 @@
+<header id=015571>
+Published Date: 2021-03-22 10:40:09 EDT
+Subject: PRO/AH/EDR> COVID-19 update (108): vaccines, nanopart., Europe, S Africa, AstraZeneca, WHO
+Archive Number: 20210322.8262023
+</header>
+<body id=015571>
+COVID-19-UPDATE (108): VACCINES, NANOPARTICLES, EUROPE, SOUTH AFRICA, ASTRA ZENECA, WHO, GLOBAL
+***********************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] Vaccines
+[2] WHO: daily new cases reported (as of 21 Mar 2021)
+[3] Global update: Worldometer accessed 21 Mar 2021 21:10 EST (GMT-5)
+
+******
+[1] Vaccines
+[A] New vaccine approach: nanoparticles
+Date: Fri 19 Mar 2021
+Source: Physics World [edited]
+https://physicsworld.com/a/nanoparticle-based-vaccine-offers-new-approach-to-covid-19-immunity/
+
+
+Nanoparticle-based vaccine offers new approach to COVID-19 immunity
+-------------------------------------------------------------------
+As the international effort to vaccinate the population against COVID-19 gathers pace, the demand for vaccine doses that can be used in all countries and climates is enormous. Researchers from Cleveland Clinic [Ohio, USA] and Chungbuk National University [Cheongju, South Korea] have described a new vaccine candidate that triggers an immune response using antigens attached to nanoparticles, potentially bypassing the need for cold storage during delivery. They report their findings in mBio [see reference below].
+
+All vaccines approved to date cause an immune response against the same part of the SARS-CoV-2 virus: the receptor binding domain (RBD) of the spike protein. However, they employ different mechanisms to bring this about -- from using inactivated viruses to cause RBD production to delivering genetic instructions directly into cells. This new candidate provides an alternative approach -- using inert nanoparticles to carry the RBD and display it to the immune system.
+
+Direct delivery
+---------------
+Delivering the RBD protein directly, rather than causing the cell to produce it, seems an appealing option for vaccination. However, the body's immune defences won't respond to such a small molecule. Attaching multiple RBD units to a larger nanoparticle overcomes this challenge and makes them visible to the immune system. The nanoparticles used in this study are built from ferritin -- a naturally produced protein existing in most organisms that can self-assemble into a useful nanoparticle structure.
+
+The researchers tested the vaccine candidate in ferrets -- which are susceptible to the same respiratory infections as humans. They saw that after 3 injections with this vaccine, the vaccinated ferrets had high levels of antibodies against SARS-CoV-2 in their bloodstreams. Ferrets treated with the vaccine and then exposed to the virus did not experience symptoms and cleared the virus from their system far quicker than unvaccinated ferrets.
+
+The researchers were even able to show how vaccinated ferrets avoided lung damage caused by the infection. They note that combining intramuscular injection with introducing the vaccine through the nose -- where SARS-CoV-2 commonly enters the body -- produced an even stronger protective effect.
+
+A hot topic
+-----------
+One of the biggest challenges in vaccinating the world's population is getting the vaccine efficiently to every place it is needed. The vaccines in current use all need consistent cold storage, and in some cases, ultracold storage, to remain effective. By being built from a nanoparticle structure that is naturally very thermostable, this new candidate may not need such conditions.
+
+"This protein is an attractive biomaterial for vaccine and drug delivery for many reasons, including that it does not require strict temperature control," says study author Jae Jung.
+
+"This would dramatically ease shipping and storage constraints, which are challenges we're currently experiencing in national distribution efforts. It would also be beneficial for distribution to developing countries," adds co-first author Dokyun Kim. The authors note that this stability needs to be more rigorously verified, but were it to remain true, this could be one tool to help reduce global inequities in vaccine availability.
+
+Any vaccine candidate still has many stages to progress through before it is approved for widespread use in humans, but the data so far for this approach are promising. If the vaccine comes to fruition, it will add a different type of weapon to the already diverse arsenal available to combat the continuing COVID-19 pandemic.
+
+[Byline: Ben Lewis]
+
+--
+Communicated by:
+Mary Marshall
+<mjm2020@googlemail.com>
+
+[Reference
+----------
+Kim YI, Kim D, Yu KM, et al. Development of spike receptor-binding domain nanoparticles as a vaccine candidate against SARS-CoV-2 infection in ferrets. mBio. 2021 Mar 2; 2(2): e00230-21. doi: 10.1128/mBio.00230-21. PMID: 33653891; https://mbio.asm.org/content/12/2/e00230-21.long [abridged, edited]
+--------------------------------------------------------------------------------
+"Recent studies have shed light on the immunological advantages of nanoparticle-based vaccines in nearly every step of humoral and cellular immunity: efficient antigen transport to draining lymph nodes and antigen presentation by follicular dendritic and helper T cells, as well as high levels of activation of the germinal centers. Among the genetically engineered nanoparticles, ferritin is the most well characterized in the bionanotechnology field. Ferritin, ubiquitous through kingdoms of life, has a conserved role in minimizing damage to cells from reactive oxygen species formed from the Fenton reaction upon exposure to excess iron(II). Due to its natural tendency to self-assemble into 24-meric homopolymer and amenability via fusion peptides, ferritin is an ideal candidate for drug delivery and vaccine development. Most importantly, its exceptional chemical and thermal stability does not require stringent temperature control, enabling a streamlined distribution process, especially in areas with limited resources for cold-chain supplies. One of the recently engineered ferritins for vaccine development is the self-assembling _Helicobacter pylori_-bullfrog (_Rana catesbeiana_) hybrid ferritin which carries NH2-terminal residues from the lower subunit of bullfrog ferritin on the core of _H. pylori_ ferritin to form radially projecting tails. The _H. pylori_ ferritin-based nanoparticle has been reported to be an effective platform for vaccines to carry trimeric glycoproteins for presenting viral immunogens on its 3-fold axis points. Most importantly, it provides stronger protective immunity at a lower dose than soluble immunogens against influenza and Epstein-Barr viruses, while minimizing the risk of autoimmunity through its genetic diversity from the heavy and light chains of human ferritin.
+
+"Despite recent efforts to develop mouse models that fully recapitulate human SARS-CoV-2 infection, the current human ACE2 (hACE2)-transgenic mouse model fails to mimic pathogenic progress and symptoms of COVID-19 in humans. Ferrets (_Mustelaputorius furo_), on the other hand, are naturally susceptible to human respiratory viruses, such as respiratory syncytial virus, influenza virus, and SARS-CoV, making ferret models ideal to study respiratory virus infections in humans. In addition, ferrets share with humans the anatomy of upper and lower respiratory tracts, the architecture of terminal bronchioles, and the density of submucosal glands. Recently, we and others have shown that SARS-CoV-2-infected ferrets develop immune responses and pathogenic progress similar to humans' and shed virus through nasal wash, saliva, urine, and fecal samples, which highly recapitulates human SARS-CoV-2infection (53-56). Furthermore, we have also demonstrated the efficacy of the ferret model in drug discovery for SARS-CoV-2 (57). Thus, ferrets represent an infection and transmission animal model of SARS-CoV-2 that should facilitate the development of SARS-CoV-2 therapeutics and vaccines.
+
+Here, we demonstrate the immunogenic efficacy of the self-assembling spike RBD-ferritin nanoparticle (RBD-nanoparticle) as an efficient SARS-CoV-2 vaccine antigen. We purified the RBD-nanoparticle from transfected HEK293T cells and immunized ferrets via the intramuscular (i.m.) and intranasal (i.n.) routes to monitor the induction of neutralizing antibodies. Furthermore, we challenged the vaccinated ferrets with SARS-CoV-2 and observed protective immunity against SARS-CoV-2. We propose the self-assembling RBD-nanoparticles as a potential vaccine candidate that effectively protects against SARS-CoV-2 infection."
+
+The full article and references are available at the source URL above.
+
+If this state-of-the-art approach is effective at protecting humans, it will be a big advance in the COVID-19 vaccine field. - Mod.LK]
+
+----
+[B] Adverse side effects
+Date: Mon 18 Jan 2021 [updated on Thu 18 Mar 2021 6:52 PM GMT+1]
+Source: Bloomberg [edited]
+https://www.bloomberg.com/news/articles/2021-01-18/what-to-know-about-vaccine-related-deaths-allergies-quicktake
+
+
+A vaccine is intended to prevent a specific disease, but many people who receive a COVID-19 inoculation are either elderly or suffer from other severe, chronic conditions such as diabetes, heart disease, and cancer. Still, others may harbor unknown health risks. As almost 10 million COVID-19 shots are administered each day, it's inevitable that some of these people will experience serious symptoms or even die soon after they receive immunizations; the question is, what caused it? This is one of the difficulties in untangling the relationship between shots -- deemed safe in trials of tens of thousands of people -- and conditions that have arisen in people after getting vaccinated, including blood clots; a serious, but treatable allergic reaction called anaphylaxis; a temporary facial paralysis or weakness known as Bell's palsy; and death.
+
+1. What happened with the blood clots?
+Reports that a small number of vaccine recipients developed blood clots prompted several countries, mainly in Europe, to suspend use of either all AstraZeneca Plc's COVID-19 vaccine or doses from a particular batch. After an investigation, the European Medicines Agency concluded [18 Mar 2021] that the vaccine is not associated with an overall increased risk of blood clots. However, pending further study, it was unable to rule out completely a link to rare cases of clots associated with low levels of blood platelets, including clots in the vessels draining blood from the brain. Agency officials said healthcare workers and the public should be aware of the possibility of such clots and called for a warning on the product's label. But they emphasized that the vaccine's benefits outweigh the risks.
+
+2. What about the serious allergic reactions? What accounts for them?
+The body fights foreign invaders through a variety of mechanisms that include making protective proteins called antibodies, releasing toxins that kill microbes, and marshaling guardian cells to battle the infection. As in any conflict, sometimes the effort to repel an infection can itself be damaging. In rare cases, it can produce runaway inflammation and swelling of tissues in a serious allergic reaction called anaphylaxis. As much as 5% of the US population has had such a reaction to various substances. It can be fatal if, for example, the person's airway swells shut, though deaths are rare. Allergies to insect stings and foods can provoke it, though drug reactions are the most common cause of anaphylaxis fatalities in the U.S. and UK. As of January [2021], no anaphylaxis-related deaths had been reported in the US from either the Moderna or the Pfizer-BioNTech vaccines in use there, according to the CDC.
+
+3. How often have COVID-19 vaccines triggered cases?
+In the US, according to the CDC, it occurs in just 2-5 people for every million receiving a COVID-19 vaccine. The risk of contracting COVID-19 outweighs that posed by the vaccines, officials and clinicians say. Anaphylaxis is a known risk of vaccination. Such reactions occur about 1.3 times per million doses of flu vaccine administered. With other vaccines, they have been seen at rates of 12-25 per million doses, though the studies were small.
+
+4. How long does the risk of allergic reaction last?
+Usually not long. When anaphylaxis occurs, it is almost always within half an hour of administering the vaccine, according to the CDC.
+
+5. What's being done to manage the risk?
+The UK and US have advised people who have allergies to any component of a COVID-19 vaccine not to receive it. Anaphylaxis can be quickly countered with antihistamines in tandem with adrenaline injectors like Mylan NV's Epi-Pen that slow or halt immune reactions, and health workers giving the vaccine are keeping such items at the ready. These treatments don't cancel out the beneficial effects of vaccines. In the US, health workers are observing everyone who receives the vaccine for at least 15 minutes post-injection to watch for signs of a reaction; those with a worrying history of allergic reaction are monitored for twice as long. People who have had reactions to a 1st dose of vaccine shouldn't receive a 2nd, according to the CDC.
+
+6. Do we know what in the shots is causing the reactions?
+That isn't clear. 2 leading candidates are polyethylene glycol -- a chemical found in many foods, cosmetics, and medications -- and lipid nanoparticles that encapsulate the messenger RNA, a genetic component in the Moderna and Pfizer-BioNTech vaccines, according to Eric Topol, a clinical trials expert and director of the Scripps Research Translational Institute. Polyethylene glycol has been previously linked to a handful of anaphylaxis cases. Once a cause has been narrowed down, it may be possible to make COVID-19 vaccines even safer than they are now, Topol said.
+
+7. What about the cases of Bell's palsy?
+In studies testing the Moderna and Pfizer-BioNTech inoculations, more people developed Bell's palsy, which typically affects just one side of the face, after receiving vaccine doses than placebo shots. The imbalance turned out not to be substantiated, however, based on the massive safety database the CDC has collected on millions of people vaccinated since the drugs were authorized for the general public. Also, the drugs regulator in the UK, where the Pfizer-BioNTech formulation is one of 2 in use, noted that as of 28 Feb, the number of reports of Bell's palsy among those vaccinated does not suggest an increased risk.
+
+8. What's known about deaths after vaccinations?
+- Norwegian officials were the first to report people dying after being inoculated, saying in mid-January [2021] that 33 people age 75 and older had died a short time after receiving the COVID-19 vaccine developed by Pfizer Inc. and BioNTech SE. After a review, a committee of the World Health Organization said that the fatalities were "in line with the expected, all-cause mortality rates and causes of death in the sub-population of frail, elderly individuals." The committee concluded that the risk-benefit balance of the vaccine "remains favorable in the elderly."
+
+-The UK's Medicines and Healthcare Products Regulatory Agency reported that, through [28 Feb 2021], there were 227 deaths shortly after injections with the Pfizer-BioNTech vaccine, 275 after the AstraZeneca shot, and 4 where the brand was unspecified. The deaths were mainly in elderly people or those with underlying illness, and there's no suggestion the vaccines played a role, it said.
+
+- In Germany, the Paul Ehrlich Institute said after an investigation that the deaths of 7 elderly people shortly after receiving the Pfizer-BioNTech vaccine were probably due to the patients' underlying diseases.
+
+- In the US, which is using vaccines from Pfizer-BioNTech, Moderna Inc., and Johnson & Johnson, the Centers for Disease Control and Prevention said that as of [15 Mar 2021], there were 1913 reported deaths among inoculated people, a rate of 0.002%, and no evidence suggests a link.
+
+- Authorities in Hong Kong, which has mostly deployed a vaccine from China's Sinovac Biotech Ltd., have reported 6 deaths among more than 150 000 people inoculated. None have been connected to vaccines.
+
+The reference shelf
+- Related QuickTakes on vaccines and transmission of the coronavirus, post-vaccine malaise, virus mutations, why it's difficult to compare COVID-19 vaccines, origins of the coronavirus, and the future of SARS-CoV-2.
+- A radio discussion with Sam Fazeli of Bloomberg Intelligence on vaccines (https://www.bloomberg.com/news/audio/2021-02-24/covid-vaccines-are-all-highly-effective-bi-s-fazeli-radio)
+- The CDC's Morbidity and mortality weekly reports (https://www.cdc.gov/mmwr/volumes/70/wr/mm7002e1.htm)
+- An article in Stat puts the allergic reactions in context (https://www.statnews.com/2020/12/28/chance-illnesses-after-covid-19-vaccinations-could-test-public-confidence-even-if-the-problems-are-unrelated/)
+- Researchers take a deep dive into safety issues in the journal Vaccines. (doi: 10.1016/B978-1-4160-3611-1.50078-7)
+- Follow the inoculation rollout using Bloomberg's Vaccine Tracker (https://www.bloomberg.com/graphics/covid-vaccine-tracker-global-distribution/)
+
+[Byline: John Lauerman, Jason Gale]
+
+--
+Communicated by:
+Mary Marshall
+
+----
+[C] South Africa: AstraZeneca
+Date: Mon 22 Mar 2021 00:23 GMT
+Source: Daily Mail, Agence France-Presse (AFP) report [edited]
+https://www.dailymail.co.uk/wires/afp/article-9386379/S-Africa-sells-AstraZeneca-vaccine-doses-AU.html
+
+
+South Africa has sold a million doses of the AstraZeneca coronavirus vaccine for distribution in 14 fellow African nations, the health minister announced Sunday [21 Mar 2021].
+
+South Africa last month [February 2021] suspended its vaccination programme, which had started with AstraZeneca jabs, after doubts were raised over that vaccine's efficacy against a local variant of COVID-19.
+
+Pretoria instead announced its intention to sell its AstraZeneca doses to the African Union (AU).
+
+Health Minister Zweli Mkhize said in a statement that "the 1st batch of vaccines that is being delivered will benefit 9 (AU) member states. The balance will be collected this week to be delivered to 5 other countries."
+
+South Africa began immunising its 59 million people in early February [2021] with doses of the AstraZeneca vaccine produced in India.
+
+President Cyril Ramaphosa was on the airport tarmac to receive the 1st shipment.
+
+However, a study by the Witwatersrand University in Johannesburg pointed to "limited" efficacy of the AstraZeneca jab against the South African variant of COVID-19. The government then suspended its vaccine rollout programme.
+
+World Health Organization experts have since given the AstraZeneca jab the all-clear, saying it can be used in all countries and against all variants.
+
+The African Union has acquired 270 million vaccine doses and has declared that it is quite happy to distribute the AstraZeneca version.
+
+South Africa has registered 1.5 million coronavirus cases including 52 000 fatalities.
+
+However, recently the number of new cases has dropped significantly and last month [February 2021] Ramaphosa announced that the 2nd wave of the virus had passed.
+
+The country has ordered vaccine doses from Johnson & Johnson and Pfizer and now hopes to immunise 2/3 of the population, though so far only 183 000 doses have been administered.
+
+--
+Communicated by:
+Mary Marshall
+with thanks to Roland Hubner (Superior Health Council, Belgium
+<roland.hubner@sante.belgique.be>) for this link.
+
+----
+[D] Europe: vaccine ethics
+Date: Fri 19 Mar 2021
+Source: The New York Times [edited]
+https://www.nytimes.com/2021/03/19/world/europe/europe-vaccine-astrazeneca-interpreter.html#click=https://t.co/TyiKFmFJ2q
+
+
+European health agencies this week faced, with millions of lives in the balance, a staggeringly high-stakes incarnation of what ethicists call the trolley problem.
+
+Imagine standing at a railway switch. If you do nothing, a trolley barreling down the track will hit 3 people in its path. If you pull the lever, the trolley will divert to an alternate track with 1 person. Which option is morally preferable: deliberately killing one person or passively allowing 3 to die?
+
+In Europe's version, German regulators identified 7 cases of a rare cerebral blood clot, 3 of them fatal, out of 1.6 million who had received the AstraZeneca vaccine. Regulators had no proof they were linked, only a statistical anomaly. Still, continuing vaccinations might make them responsible for putting a handful of people in harm's way -- like pulling the lever on the trolley tracks.
+
+Instead, the German authorities withdrew approval for the vaccine starting Monday [15 Mar2021]. Neighboring countries followed, waiting for the European Union drug regulator to deem the vaccine safe, which it did on Thursday [18 Mar 2021].
+
+It might seem like a strange choice. With a 3rd viral wave claiming thousands of lives per day in Europe, even a brief pause seemed all but certain to imperil many more lives than the unproven, very rare side effect.
+
+Still, medical ethics can be tricky. Experts tend to view Europe's decision as either an understandable, if risky, cost-benefit calculation or, as the Oxford University ethicist Jeff McMahan put it, "a disastrous mistake."
+
+Dr McMahan, who studies life-or-death dilemmas, said that the extra COVID-19 deaths likely to occur would "be by omission, or by not doing anything, rather than by causing. But you have to ask, does that make any difference in this context?"
+
+But Ruth Faden, a Johns Hopkins University bioethicist and vaccine policy expert, called the pause "an extremely tough call."
+
+"If the only thing that mattered was deploying the vaccine in such a way as to reduce severe disease and death as quickly as possible, then you just go ahead," Dr Faden said. But it isn't. While countries that continued vaccinations "probably made the right call," she said, Germany and others faced real considerations around public trust and ethical duty.
+
+And this will not be the last time in the pandemic, the experts said, that leaders will be forced to weigh a possibly flawed treatment against the heavy costs of caution.
+
+Germany's health ministry said in a statement, "The state provides the vaccine and therefore has special duties of care," such as monitoring for risks and responding if certain conditions are tripped. Even, the statement acknowledged, if the decision cost more lives than it saved.
+
+"This idea of the precautionary principle plays a big role in EU policy," said Govind Persad, a University of Denver bioethicist. That principle calls for pausing any policy that might bring unforeseen harms in order to study those harms before proceeding. Imposing blind risk, however small, on unknowing citizens would be wrong.
+
+But Dr Persad said that he had "never really been able to make sense of how you would apply that principle in a pandemic." For one, even if vaccinations did carry some risk or uncertainty, the risk and uncertainty introduced by withholding them, therefore allowing cases to spread, was surely higher. It was not as if infections paused for bureaucratic process.
+
+For another, vaccinations are voluntary. "This is not a case where you're imposing risk on unconsenting people," Dr Persad said, and therefore violating the precautionary principle. "You're allowing people to consensually protect themselves from a big risk by taking a very small one."
+
+Imagine, he said, "You have somebody who's stuck on a subway track, and there's a service ladder that they want to use to climb out."
+
+Europe's approach, he said, was akin to pulling up the ladder, telling the stuck person that they couldn't use it until it had been safety-tested for the general public.
+
+"It's true that a ton of British people use ladders like this and they're fine," he said, referencing the widespread use of the AstraZeneca vaccine in Britain. "But we can't let you hurt yourself."
+
+In those situations, he said, it is usually considered more ethical to give people all the information so that they can make an informed choice on how best to protect themselves.
+
+Such concessions are already common in medicine, many with exponentially greater risks and lower chances of success than the vaccine: elective surgeries, vaccine trials, experimental cancer treatments. There are exceptions, like when companies recall a hazardous product rather than simply slap on a warning label. But limiting peoples' access to cabbage during an E. coli outbreak doesn't harm them; withholding a lifesaving vaccine does.
+
+"In Germany, there's a very great reluctance to countenance imposing affirmative harm on people in trade-off situations," Dr Persad said. "It's a very strong emphasis on not causing harm, even if you allow much more harm through inaction."
+
+This unusually high aversion to anything that might be seen as the government violating individual autonomy or dignity is, like so much in Germany, a reaction against the country's Nazi past.
+
+With Germany's position as first among equals in the European Union and a broader wariness against appearing permissive on vaccine safety, others quickly followed, including France, Italy, and Spain.
+
+Still, the thinking behind Europe's decision also reflects something universal: the Hippocratic oath, "First, do no harm."
+
+Even so much as administering doses with an unproven potential to harm patients at about the same odds as being struck by lightning could be considered impermissible under that oath.
+
+"But when the alternative to doing a small amount of harm is allowing a vast amount of harm, then the 'do no harm' slogan is a poor guide to policy," said Dr McMahan, the Oxford ethicist.
+
+And while "first, do no harm" can feel like an iron law of medical ethics, it is in fact primarily a professional code of conduct. For centuries, it has reflected an inborn human bias that sees affirmatively causing harm as categorically different than passively allowing it.
+
+"That doing/allowing asymmetry is of course not just in the medical codes but in the law," Dr McMahan said. Especially liability law.
+
+The statement from Germany's health ministry acknowledged as much, writing that, if it allowed vaccinations "to continue without properly informing the population and those receiving the vaccine, there could also be legal consequences."
+
+But in a country with 74 000 deaths and counting, Dr McMahan said, for a public health agency to weigh its own liability against the survival of hundreds or thousands more "would be truly terrible."
+
+Much as policymakers might like to make a purely medical decision, Dr Faden said, the vaccine bioethicist, they also have to think about guarding public confidence.
+
+Vaccine skepticism was already high in Europe, especially toward the AstraZeneca shot, on which Europe has built its plans. The proportion of people willing to get the shot has, in some polls, dropped significantly below the 70 percent needed to achieve herd immunity.
+
+"High-profile, vivid events that are really scary have a way of controlling the public imagination," Dr Faden said. Pausing, she added, can be a way of "reassuring the public that you as a public health authority, or as a government, take super seriously any signal that comes up like this."
+
+The hope is that this builds trust in the health authorities, demonstrating that they put caution and safety ahead of rushing shots into arms. Even if people remain unsure about the vaccines themselves, perhaps high trust in the vaccinators could overcome this.
+
+But on ethical grounds, Dr Persad said, "It seems like a troubling line, to say that one person's access to treatment should be dependent on how that might affect the comfort or psychology of a 3rd party."
+
+It is also a gamble. The delay imposed by European governments risks a deepening of public doubts about the vaccine. And now officials must demonstrate they take these 3 fatal clots seriously, which means calling more attention to them.
+
+"This is a safe and effective vaccine," Emer Cooke, executive director of the European Union's drug regulator, said on Thursday [18 Mar 2021], urging countries to reinstate its use. Still, she urged that governments "raise awareness of these possible risks."
+
+"Drawing attention to these possible rare conditions," she said, "will help to spot and mitigate any possible side effects."
+
+Asked whether Americans might ever face such a dilemma, Dr Persad countered that they already did. Though trials may show the 1-shot Johnson & Johnson with a lower efficacy rate than 2-shot variants, health officials hailed its simpler distribution as a breakthrough in the push for herd immunity. Americans have largely gone along.
+
+"We don't always see it," Dr Persad said of these ethical trade-offs, "but it actually comes up all the time."
+
+[Byline: Max Fisher]
+
+--
+Communicated by:
+Mary Marshall
+
+[It seems that if the public were informed with scientific data defining the risk of vaccination with AstraZeneca or any other vaccine, they can make an informed choice whether or not to be vaccinated. Individuals have different risk tolerance and different health and living situations and need to be responsible for the decisions they make, having this information. - Mod.LK]
+
+******
+[2] WHO: daily new cases reported (as of 21 Mar 2021)
+Date: Sun 21 Mar 2021
+Source: WHO [abridged, edited]
+https://covid19.who.int/table
+
+*Daily case reports as of 21 Mar 2021 16:18 CET
+
+Surveillance
+------------
+WHO region (no. countries/territories):
+Total confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+--------------------------------------------------------------------------------
+Western Pacific Region (19): 1 775 575 (12 148) / 30 843 (61)
+European Region (61): 42 504 449 (206 504) / 929 199 (2469)
+South East Asia Region (10): 14 182 826 (51 988) / 214 790 (331)
+Eastern Mediterranean Region (22): 7 123 963 (32 406) / 153 419 (431)
+Region of the Americas (54): 53 937 714 (202 660) / 1 299 243 (5665)
+African Region (49): 2 999 152 (8091) / 76 113 (127)
+Cases on an international conveyance (Diamond Princess): 745 (0) / 13 (0)
+
+Confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+Grand total: 122 524 424 (513 797) / 2 703 620 (9084)
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[Data by country, area, or territory for 21 Mar 2021 can be accessed at https://promedmail.org/wp-content/uploads/world-pdf/2021%20WHO%20Daily%20Tables%20Mar21_1616424302.pdf
+
+- The Americas region reported 39.4% of daily case numbers and 62.4% of the daily deaths reported in the past 24 hours and maintained its position as the most severely affected region, having reported more than 53.93 million cases. Brazil reported over 90 000 cases over the last 24 hours followed by the US with 61 382 cases. 9 additional countries reported more than 1000 cases in the past 24 hours (Colombia, Argentina, Mexico, Peru, Chile, Paraguay, Uruguay, Guatemala, and Canada), and an additional 7 countries (Cuba, Bolivia, Honduras, Dominican Republic, Panama, Jamaica, and Venezuela) reported more than 500 but fewer than 1000 cases.
+
+- The European region reported 40.2% of daily case numbers and 27.2% of the daily deaths reported in the past 24 hours, and total cumulative cases reported exceed 42.50 million. Countries not reporting cases include Spain, Israel, Belgium, Switzerland, Sweden, and Kazakhstan, among others. France reported the highest number of cases over the last 24 hours, followed by Italy, Turkey, Germany, Poland, Ukraine, and Hungary, reporting more than 10 000 new cases in the past 24 hours. Another 15 countries reported more than 1000 cases, and an additional 7 countries reported more than 500 but fewer than 1000 cases.
+
+- The Eastern Mediterranean region reported 6.3% of daily case numbers and 4.7% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 7.12 million cases. Iran reported the highest number of cases (7540) over the last 24 hours, followed by Jordan, Iraq, Pakistan, Lebanon, UAE, Palestinian Authority, and Kuwait, reporting more than 1000 cases. Bahrain, Tunisia, and Egypt, reported more than 500 but fewer than 1000 cases.
+
+- The African region reported 1.6% of daily case numbers and 1.4% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 2.99 million cases. Ethiopia reported 1778 cases followed by South Africa (1378 cases), and Kenya (1274). Namibia reported more than 500 but fewer than 1000 cases in last 24 hours. Many countries including Cameroon, Madagascar, Guinea, and Gabon among others, did not report any new cases in the past 24 hours.
+
+- The Western Pacific region reported 2.4% of daily case numbers and 0.67% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 1.77 million cases. Philippines reported the highest number of cases over the last 24 hours (almost 8000 cases), followed by Malaysia, Japan, South Korea, and Mongolia.
+
+- The South East Asia region reported 10.1% of the daily newly reported cases and 3.6% of reported deaths in the past 24 hours, having reported a cumulative total of more than 14.18 million cases. India is dominant reporting over 43 800 cases, followed by Indonesia (5656) cases), Bangladesh, Sri Lanka, and Maldives.
+
+On the Overview tab at the WHO source URL, the epidemic curve of confirmed COVID-19 cases by WHO region, 30 Dec 2019 through 21 Mar 2021, is an excellent visual representation of the pandemic. - Mod.UBA]
+
+******
+[3] Global update: Worldometer accessed 21 Mar 2021 21:10 EST (GMT-5)
+Date: Sun 21 Mar 2021
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at
+https://promedmail.org/wp-content/uploads/world-pdf/2021%20WORLDDATA%20MAR21_1616424413.pdf.
+
+A 7-day series of cumulative data reported by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/2021%20MAR21WORLD7_1616424495.pdf. - Mod.UBA]
+
+Total number of reported deaths: 2 727 428
+Total number of worldwide cases: 123 850 904
+Number of newly confirmed cases in the past 24 hours: 426 183
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[In the past 24 hours, Brazil (47 774), India (47 009), the USA (39 638), and France (30 581), have reported the highest numbers of cases. A global total of 6004 deaths were reported in the past 24 hours (late 20 Mar 2021 to late 21 Mar 2021). Countries reporting more than 10 000 newly confirmed cases in the past 24 hours (11 countries) include Brazil, India, the USA, France, Poland (21 850), Turkey (20 428), Italy (20 045), Germany (11 149), Ukraine (11 145), and Hungary (10 625), and Czech Republic (10 141). A total of 47 countries reported more than 1000 cases in the past 24 hours; 18 of the 47 countries are from the European region, 11 are from the Americas region, 10 are from the Eastern Mediterranean region, 3 are from the South East Asia region, 3 are from the Western Pacific region, and 2 from the African region.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, case counts have increased by 12.6%, while daily reported deaths have increased by 2.9%. Similar comparative 7-day averages in the USA show a 12.9% increase in daily reported cases and a 10.2% decrease in reported deaths.
+
+Impression: The global daily reported over 426 000 newly confirmed infections in the past 24 hours with over 123.85 million cumulative reported cases and over 2.72 million reported deaths. - Mod.UBA]
+See Also
+COVID-19 update (107): variants, Olympics, India, WHO, global 20210321.8260135
+COVID-19 update (106): 3rd wave, variants, AstraZeneca, WHO, global 20210320.8258994
+COVID-19 update (105): long COVID, variants, T Cell resp, S Asia, WHO, global 20210319.8256709
+COVID-19 update (104): surge, Europe, variants, vaccines, WHO, global 20210318.8254505
+COVID-19 update (103): variants, Papua New Guinea, WHO, global 20210317.8252208
+COVID-19 update (102): China, origin, farmed wild animals susp. 20210316.8251684
+COVID-19 update (101): animal, USA, UK variant 20210316.8251626
+COVID-19 update (100): antibodies, vaccine, Thailand, Cambodia, WHO, global 20210316.8250009
+COVID-19 update (99): China, animal reservoir, wildlife sale, pork supply impact 20210315.8249619
+COVID-19 update (98): transmission, long COVID, vaccine reactions, WHO, global 20210315.8247668
+COVID-19 update (97): testing, contact tracing, variants, immunity, WHO 20210314.8246696
+COVID-19 update (96): HCWs, child mental health, Africa vaccines, WHO 20210313.8245159
+COVID-19 update (95): vacc reactions, vacc approval, Americas, WHO 20210312.8242839
+COVID-19 update (94): blood donor Abs, self-check, pollen, variant, WHO 20210311.8241172
+COVID-19 update (93): animal, Estonia (HA) cat, OIE 20210310.8239589
+COVID-19 update (92): allergy mRNA vacc, sex-specific risk, WHO 20210310.8238271
+COVID-19 update (91): USA post vacc, vacc passport, WHO 20210309.8236250
+COVID-19 update (90): UK sewage, Viet Nam, Cambodia, WHO 20210308.8233859
+COVID-19 update (80): vaccine, USA variants, comments, WHO, global 20210226.8214650
+COVID-19 update (70): gangrene, challenge trials, immunity, cancer, WHO, global 20210218.8198620
+COVID-19 update (60): animal, SARS-CoV-2-related viruses, pangolin, bat 20210211.8184900
+COVID-19 update (50): UK vaccine study, Brazil reinfection, WHO 20210205.8167161
+COVID-19 update (01): variants, vaccine, Thailand, global, WHO 20210101.8062938
+2020
+----
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+COVID-19 update (562): viral load, UK vacc dose, ECDC, WHO 20201231.8061525
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia: China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia: China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+----
+Undiagnosed pneumonia: China (HU): RFI 20191230.6864153
+and other items in the archives
+.................................................sb/lk/uba/mj/jh
+</body>

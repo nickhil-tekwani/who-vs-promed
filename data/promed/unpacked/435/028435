@@ -1,0 +1,329 @@
+<header id=028435>
+Published Date: 2021-02-23 08:18:21 EST
+Subject: PRO/AH/EDR> COVID-19 update (76): mutation & recomb, transmission, school, Tanzania, WHO
+Archive Number: 20210223.8207677
+</header>
+<body id=028435>
+CORONAVIRUS DISEASE 2019 UPDATE (76): MUTATION AND RECOMBINATION, VACCINES AND TRANSMISSION, SCHOOL, TANZANIA, WHO, GLOBAL
+**************************************************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] Mutation and recombination
+[2] Vaccines: can they prevent transmission?
+[3] USA (Georgia): school clusters
+[4] Tanzania
+[5] WHO: daily new cases reported (as of 22 Feb 2021)
+[6] Global update: Worldometer accessed 22 Feb 2021 21:33 EST (GMT-5)
+
+******
+[1] Mutation and recombination
+Date: Tue 16 Feb 2021
+Source: New Scientist [edited]
+https://www.newscientist.com/article/2268014-exclusive-two-variants-have-merged-into-heavily-mutated-coronavirus/#ixzz6nFflUH3m
+
+
+Two variants of the SARS-CoV-2 coronavirus that causes COVID-19 have combined their genomes to form a heavily mutated hybrid version of the virus. The "recombination" event was discovered in a virus sample in California, provoking warnings that we may be poised to enter a new phase of the pandemic.
+
+The hybrid virus is the result of recombination of the highly transmissible B.1.1.7 variant discovered in the UK and the B.1.429 variant that originated in California and which may be responsible for a recent wave of cases in Los Angeles because it carries a mutation making it resistant to some antibodies.
+
+The recombinant was discovered by Bette Korber at the Los Alamos National Laboratory in New Mexico, who told a meeting organised by the New York Academy of Sciences on [2 Feb 2021] that she had seen "pretty clear" evidence of it in her database of US viral genomes. If confirmed, the recombinant would be the first to be detected in this pandemic. In December [2020] and January [2021], 2 research groups independently reported that they hadn't seen any evidence of recombination, even though it has long been expected as it is common in coronaviruses.
+
+Unlike regular mutation, where changes accumulate one at a time, which is how variants such as B.1.1.7 arose, recombination can bring together multiple mutations in one go. Most of the time, these don't confer any advantage to the virus, but occasionally they do. Recombination can be of major evolutionary importance, according to Francois Balloux at University College London. It is considered by many to be how SARS-CoV-2 originated. Recombination could lead to the emergence of new and even more dangerous variants, although it isn't yet clear how much of a threat this 1st recombination event might pose.
+
+Korber has only seen a single recombinant genome among thousands of sequences and it isn't clear whether the virus is being transmitted from person to person or is just a one-off.
+
+Recombination commonly occurs in coronaviruses because the enzyme that replicates their genome is prone to slipping off the RNA strand it is copying and then rejoining where it left off. If a host cell contains 2 different coronavirus genomes, the enzyme can repeatedly jump from one to the other, combining different elements of each genome to create a hybrid virus. The recent emergence of multiple variants of the new coronavirus may have created the raw material for recombination because people can be infected with 2 different variants at once.
+
+"We may be getting to the point when this is happening at appreciable rates," says Sergei Pond at Temple University in Pennsylvania, who keeps an eye out for recombinants by comparing thousands of genome sequences uploaded to databases. He says there is still no evidence of widespread recombination, but that "coronaviruses all recombine, so it's a question of when not if." The implications of the finding aren't yet clear because very little is known about the recombinant's biology. However, it does carry a mutation from B.1.1.7, called delta69/70, which makes the UK virus more transmissible, and another from B.1.429, called L452R, which can confer resistance to antibodies.
+
+"This kind of event could allow the virus to have coupled a more infectious virus with a more resistant virus," Korber said at the New York meeting.
+
+Lucy van Dorp at University College London says that she hadn't yet heard about the recombinant, but "would not be overly surprised if some cases start to be detected."
+
+[Byline: Graham Lawton]
+
+--
+Submitted by:
+ProMED
+<promed@promedmail.org>
+
+[Until the recombinant is studied in the laboratory to determine the biologic significance of the mutations captured in the recombination event, it is not clear whether this particular recombinant poses a greater public health risk. But it is concerning that recombination happens with some frequency with coronaviruses as it may allow adaptation to new hosts.
+
+See
+Zhu Z, Meng K, Meng G. Genomic recombination events may reveal the evolution of coronavirus and the origin of SARS-CoV-2. Sci Rep. 2020 Dec 10; 10(1): 21617. doi: 10.1038/s41598-020-78703-6. PMID: 33303849; PMCID: PMC7728743; https://www.nature.com/articles/s41598-020-78703-6
+--------------------------------------------------------------------------------
+"Abstract
+---------
+To trace the evolution of coronaviruses and reveal the possible origin of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), which causes the coronavirus disease 2019 (COVID-19), we collected and thoroughly analyzed 29 452 publicly available coronavirus genomes, including 26 312 genomes of SARS-CoV-2 strains. We observed coronavirus recombination events among different hosts including 3 independent recombination events with statistical significance between some isolates from humans, bats, and pangolins. Consistent with previous records, we also detected putative recombination between strains similar or related to Bat-CoV-RaTG13 and Pangolin-CoV-2019. The putative recombination region is located inside the receptor-binding domain (RBD) of the spike glycoprotein (S protein), which may represent the origin of SARS-CoV-2. Population genetic analyses provide estimates suggesting that the putative introduced DNA within the RBD is undergoing directional evolution. This may result in the adaptation of the virus to hosts. Unsurprisingly, we found that the putative recombination region in S protein was highly diverse among strains from bats. Bats harbor numerous coronavirus subclades that frequently participate in recombination events with human coronavirus. Therefore, bats may provide a pool of genetic diversity for the origin of SARS-CoV-2."
+- Mod.LK]
+
+******
+[2] Vaccines: can they prevent transmission?
+Date: Fri 19 Feb 2021
+Source: Nature [edited]
+https://www.nature.com/articles/d41586-021-00450-z
+
+
+Can COVID vaccines stop transmission? Scientists race to find answers
+---------------------------------------------------------------------
+Controlling the pandemic will require shots that prevent viral spread, but that feature is difficult to measure.
+
+As countries roll out vaccines that prevent COVID-19, studies are underway to determine whether shots can also stop people from getting infected and passing on the SARS-CoV-2 virus. Vaccines that prevent transmission could help to bring the pandemic under control if they are given to enough people. Preliminary analyses suggest that at least some vaccines are likely to have a transmission-blocking effect. But confirming that effect -- and how strong it will be -- is tricky because a drop in infections in a given region might be explained by other factors, such as lockdowns and behaviour changes. Not only that, but the virus can also spread from asymptomatic carriers, which makes it hard to detect those infections.
+
+"These are among the hardest types of studies to do," says Marc Lipsitch, an infectious-disease epidemiologist at the Harvard TH Chan School of Public Health in Boston, Massachusetts. "All of us are out there, hungrily trying to see what we can get out of little bits of data that do come out," he says. Results from some studies are expected in the next few weeks.
+
+Stop infections?
+----------------
+Although most clinical trials of COVID-19 vaccines showed that vaccines prevented the disease, some trial results also offered clues that shots might prevent infection. A vaccine that is highly effective at preventing people from acquiring the infection in the 1st place would help to reduce transmission, says Larry Corey, a vaccinologist at the Fred Hutchinson Cancer Research Center in Seattle, Washington.
+
+During the trial of Moderna's vaccine, produced in Boston, researchers swabbed all participants to see if they had any viral RNA. They saw a 2/3 drop in the number of asymptomatic infections among people who received the 1st shot of the 2-dose vaccine, compared with those who received a placebo. But they tested people only twice, about a month apart, so might have missed infections.
+
+The UK trial of the vaccine produced by the University of Oxford and AstraZeneca swabbed participants every week and estimated a 49.3% reduction in asymptomatic infections among a subset of vaccinated participants compared with the unvaccinated group.
+
+Pfizer, based in New York City and maker of another leading COVID-19 vaccine, says that it will start swabbing participants every 2 weeks in vaccine trials taking place in the United States and Argentina, to see whether the shot can prevent infection.
+
+Less infectious?
+----------------
+It's possible that vaccines won't stop or significantly lessen the chances of infection. But jabs might make infected people less able to pass the virus on, or make them less infectious, and so reduce transmission. Several research groups in Israel are measuring 'viral load' -- the concentration of viral particles in vaccinated people who later test positive for SARS-CoV-2. Researchers have found that viral load is a good proxy for infectiousness /1.
+
+In preliminary work, one team observed a significant drop in viral load in a small number of people infected with SARS-CoV-2 in the 2-4 weeks after receiving their 1st dose of the Pfizer vaccine, compared with those who caught the virus in the 1st 2 weeks after the injection /2. "The data is certainly intriguing and suggestive that vaccination may reduce the infectiousness of COVID-19 cases, even if it does not prevent infection altogether," says Virginia Pitzer, an infectious-diseases modeller at Yale School of Public Health in New Haven, Connecticut. The Oxford-AstraZeneca trial also observed a larger reduction in viral load in a small group of vaccinated participants than in the unvaccinated group. But whether these observed reductions in viral load are sufficient to make someone less infectious in real life is not yet clear, say researchers.
+
+Gold standard
+-------------
+To really nail down whether vaccines prevent transmission, researchers are tracking the close contacts of vaccinated people to see whether they are being indirectly protected from infection.
+
+As part of an ongoing study of hundreds of healthcare workers in England, known as PANTHER, researchers at the University of Nottingham tested healthcare workers and the people they lived with for SARS-CoV-2 antibodies and viral RNA between April and August last year [2020], around the time of the 1st pandemic wave. They will now retest some of those workers after they receive the Pfizer vaccine, as well as their close contacts who won't have been vaccinated, to see whether the risk of infection has decreased for the close contacts, says Ana Valdes, a genetic epidemiologist at the University of Nottingham. If the risk decreases, that would mean the vaccines are probably preventing transmission, says Valdes.
+
+Other groups, in Israel, are also planning to study households in which one member has been vaccinated. If these people become infected, researchers can see whether they pass on the virus to other household members.
+
+In Brazil, a trial will randomly distribute doses of the COVID-19 vaccine produced by the Beijing-based drug company Sinovac to the town of Serrana in stages over several months. This approach could show whether drops in COVID-19 in vaccinated regions also contribute to reduced transmission in unvaccinated areas. This would demonstrate the indirect effects of vaccines, says Nicole Basta, an infectious-disease epidemiologist at McGill University in Montreal, Canada.
+
+Studies of individuals and larger populations are needed to see how well vaccines protect against transmission, says Basta. "We really do need evidence that spans the whole spectrum."
+
+References
+----------
+1. Marks M, Millat-Martinez P, Ouchi D, et al. Transmission of COVID-19 in 282 clusters in Catalonia, Spain: a cohort study. Lancet Infect Dis. 2021 Feb 2: S1473-3099(20)30985-3. doi: 10.1016/S1473-3099(20)30985-3. Epub ahead of print. PMID: 33545090; https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30985-3/fulltext
+2. Levine-Tiefenbrun M, Yelin I, Katz R, et al. Decreased SARS-CoV-2 viral load following vaccination. medRxiv [preprint] 2021.02.06.21251283; https://www.medrxiv.org/content/10.1101/2021.02.06.21251283v1
+
+[Byline: Smriti Mallapaty]
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[It is important to know the ID50 (infectious dose that infects 50% of the individuals exposed) of SARS-CoV-2 virus as well as the concentration of virus transmitted 50% of the time under particular circumstances, by different routes, to judge whether vaccination is controlling transmission. Epidemiologic studies can be conducted which will get at the same question. Taken together, the 2 approaches will provide the most accurate assessment of transmissibility. Such studies all have limitations, thus a broad approach needs to be taken to get closest to the best estimate. - Mod.LK]
+
+******
+[3] USA (Georgia): school clusters
+Date: Mon 22 Feb 2021 [abridged, edited]
+Source: CDC. MMWR Morb Mortal Wkly Rep 2021; 70 (early release) [abridged, edited]
+https://www.cdc.gov/mmwr/volumes/70/wr/mm7008e4.htm
+
+
+Ref: Gold JA, Gettings JR, Kimball A, et al. Clusters of SARS-CoV-2 infection among elementary school educators and students in one school district -- Georgia, December 2020-January 2021. MMWR Morb Mortal Wkly Rep. ePub: 22 Feb 2021. doi: 10.15585/mmwr.mm7008e4
+--------------------------------------------------------------------------------
+Summary
+-------
+What is already known about this topic?
+In-person learning provides important benefits to children and communities. Understanding SARS-CoV-2 transmission in schools is critical to improving the safety of in-person learning.
+
+What is added by this report?
+An investigation of SARS-CoV-2 transmission in a Georgia school district during [1 Dec 2020-22 Jan 2021], identified 9 clusters of COVID-19 cases involving 13 educators and 32 students at 6 elementary schools. 2 clusters involved probable educator-to-educator transmission that was followed by educator-to-student transmission in classrooms and resulted in approximately one half (15 of 31) of school-associated cases.
+
+What are the implications for public health practice?
+Educators might play a central role in in-school transmission networks. Preventing SARS-CoV-2 infections through multifaceted school mitigation measures and COVID-19 vaccination of educators is a critical component of preventing in-school transmission.
+
+---
+In-person learning benefits children and communities (1). Understanding the context in which transmission of SARS-CoV-2, the virus that causes coronavirus disease 2019 (COVID-19), occurs in schools is critical to improving the safety of in-person learning. During [1 Dec 2020-22 Jan 2021], Cobb and Douglas Public Health (CDPH), the Georgia Department of Public Health (GDPH), and CDC investigated SARS-CoV-2 transmission in 8 public elementary schools in a single school district. COVID-19 cases among educators and students were either self-reported or identified by local public health officials. Close contacts (contacts) of persons with a COVID-19 case received testing. Among contacts who received positive test results, public health investigators assessed epidemiologic links, probable transmission directionality, and the likelihood of in-school transmission. 9 clusters of 3 or more epidemiologically linked COVID-19 cases were identified involving 13 educators and 32 students at 6 of the 8 elementary schools. 2 clusters involved probable educator-to-educator transmission that was followed by educator-to-student transmission and resulted in approximately one half (15 of 31) of school-associated cases. 69 household members of persons with school-associated cases were tested, and 18 (26%) received positive results. All 9 transmission clusters involved less than ideal physical distancing, and 5 involved inadequate mask use by students. Educators were central to in-school transmission networks. Multifaceted mitigation measures in schools, including promotion of COVID-19 precautions outside of school, minimizing in-person adult interactions at school, and ensuring universal and correct mask use and physical distancing among educators and students when in-person interaction is unavoidable, are important in preventing in-school transmission of SARS-CoV-2. Although not required for reopening schools, COVID-19 vaccination should be considered as an additional mitigation measure to be added when available.
+
+During the investigation period, which included 24 in-person school days during [1 Dec 2020-22 Jan 2021], approximately 2600 students (approximately 80% of the district's elementary school students) and 700 staff members attended elementary school in person. During this period, COVID-19 incidence (7-day moving average number of cases per 100 000 persons) in Cobb County, Georgia, increased almost 300%, from 152 to 577 cases. COVID-19 cases among educators and students attending in-person school were either self-reported to the school district or identified by local public health officials through laboratory results. Contacts who were exposed to persons with COVID-19 in school were identified by school officials, advised to quarantine based on local health department guidelines, and referred to the investigation team.
+
+Public health investigators visited 4 of 6 schools where SARS-CoV-2 transmission had been identified to observe adherence to recommended mitigation strategies and provide technical assistance. For contacts who received positive test results, epidemiologic links, probable transmission directionality, and the likelihood of in-school transmission were assessed by using interview data, testing dates, and symptom onset dates. Clusters were defined as epidemiologic links between an index patient and 2 or more persons who likely acquired SARS-CoV-2 infection in school (that is, school-associated cases).
+
+During the investigation period, 9 clusters of COVID-19 cases were identified, involving 13 educators and 32 students at 6 of the 8 investigated elementary schools (Figure: 9 SARS-CoV-2 transmission clusters (A-I) at 6 elementary schools in one school district -- Georgia, December 2020-January 2021 [available at the source URL above]). The median cluster size, including household members, was six persons (range = 3-16). An educator was the index patient in 4 clusters (B, E, F, and I), a student was the index patient in one cluster (H), and in 4 clusters (A, C, D, and G), whether the index patient was the student, the educator, or both (that is, 2 index cases occurred) could not be determined. 8 clusters (all except H) involved at least one educator and probable educator-to-student transmission. 4 clusters (A, D, G, and H) involved probable student-to-student transmission, and 3 (A, C, and D) involved probable student-to-educator transmission. 2 clusters (F and I) involved probable educator-to-educator transmission during in-person meetings or lunches, which was followed by educator-to-student transmission in the classroom and resulted in 15 of 31 (48%) school-associated cases. 69 household members of persons with school-associated cases were tested, and 18 (26%) received positive results.
+
+Public health investigators identified several COVID-19 mitigation challenges. Although plastic dividers were placed on desks between students, students sat less than 3 ft [1 m] apart. Physical distancing of more than 6 ft [2 m] was not possible because of the high number of in-person students and classroom layouts. In 7 clusters (A, B, C, D, E, F, and I), transmission among educators and students might have occurred during small group instruction sessions in which educators worked in close proximity to students. The school district mandated in-classroom mask use except while eating, and both reported and observed compliance during site visits was high. However, information obtained during interviews indicated that specific instances involving lack of or inadequate mask use by students likely contributed to spread in 5 clusters (A, C, E, G, and I). Students ate lunch in their classrooms, which might have facilitated spread. Opportunities to decrease nonessential in-person interactions among staff members during lesson planning and lunches were noted.
+
+Discussion
+----------
+These findings suggest that educators can play an important role in in-school transmission and that in-school transmission can occur when physical distancing and mask compliance are not optimal. Previous investigations in other US school districts found that low transmission rates in schools can be maintained in the setting of high community incidence. To ensure safer in-person learning during the COVID-19 pandemic, schools should implement multicomponent mitigation strategies, including efforts to prevent infection among educators, and promoting consistent, correct mask use and physical distancing wherever possible, especially during mealtime when masks are not being worn.
+
+The finding that educators play an important role in in-school transmission is consistent with findings from other investigations. A large prospective study of SARS-CoV-2 transmission in schools in the United Kingdom found that the most common type of transmission event was from educator to educator; in another large prospective study of transmission in German schools, in-school transmission rates were 3 times higher when the index case occurred in an educator than when the index case occurred in a student. Measures to prevent SARS-CoV-2 infection among educators, including promotion of COVID-19 precautions outside of school, minimizing in-person adult interactions at school, ensuring mask compliance and physical distancing among educators when in-person interaction is unavoidable, and COVID-19 vaccination, when available, will likely reduce in-school transmission, particularly if implemented in a multifaceted approach. Messaging to improve awareness among educators about the risk for acquiring SARS-CoV-2 infections from colleagues in addition to students is needed. The school district has already implemented many of these measures, including administrative changes to prevent nonessential in-person interactions among educators.
+
+The findings in this report are subject to at least 3 limitations. First, distinguishing in-school transmission from community transmission was challenging, particularly when the 7-day community incidence exceeded 150 cases per 100 000 persons and was increasing. Second, certain clusters and cases within clusters might not have been detected because not all contacts received testing. Finally, because adults with SARS-CoV-2 infection are more likely to have symptoms and be tested, index cases might have been more frequently identified in educators than in students, possibly resulting in missed instances of student-to-student and student-to-educator transmission.
+
+Consistent with findings from international studies, this report found that initial infections among educators played a substantial role in in-school SARS-CoV-2 transmission and subsequent chains of infection to other educators, students, and households, highlighting the importance of preventing infections among educators in particular. Preventing SARS-CoV-2 infections in educators and students through multifaceted school mitigation measures is a critical component of preventing in-school transmission. Although not a requirement for reopening schools, adding COVID-19 vaccination for educators as an additional mitigation measure, when available, might serve several important functions, including protecting educators at risk for severe COVID-19-associated illness, potentially reducing in-school SARS-CoV-2 transmission, and minimizing interruptions to in-person learning, all of which have important implications for educational equity and community health. Because most children are not yet eligible for vaccination, continued implementation of multifaceted COVID-19 mitigation strategies in schools, including universal and correct mask use and physical distancing, even after educators are vaccinated, will be critical given the limited available evidence on reduction of transmission postvaccination and vaccine-related long-term protection.
+
+[References available at the source URL above]
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[NPIs (non-pharmaceutical interventions -- social distancing, mask wearing) clearly work based on study after study. It is not surprising that non-adherence to NPIs impacted and facilitated transmission of the SARS-CoV-2 in this school district. - Mod.MPP]
+
+******
+[4] Tanzania
+[A]
+Date: Mon 22 Feb 2021
+Source: The Mainichi Japan, Associated Press (AP) report [edited]
+https://mainichi.jp/english/articles/20210222/p2g/00m/0in/002000c
+
+
+Tanzania's president is finally acknowledging that his country has a coronavirus problem after claiming for months that the disease had been defeated by prayer. Populist President John Magufuli on Sunday [21 Feb 2021] urged citizens of the East African country to take precautions and even wear face masks -- but only locally made ones. Over the course of the pandemic he has expressed wariness about foreign-made goods, including COVID-19 vaccines.
+
+The president's comments came days after the country of some 60 million people mourned the death of one of its highest-profile politicians, the vice president of the semi-autonomous island region of Zanzibar, whose political party had earlier said he had COVID-19. The president's chief secretary also died in recent days, though the cause was not revealed. Magufuli, speaking at the chief secretary's funeral in a nationally televised broadcast on Friday [19 Feb 2021], urged the nation to participate in 3 days of prayer for unspecified "respiratory" illnesses that had become a challenge in the country.
+
+Tanzania has not updated its number of coronavirus infections since April [2020] as the president has insisted COVID-19 had been defeated. Tanzania's official number of coronavirus infections remains at just 509, but residents report that many people have become ill with breathing difficulties and hospitals have seen a rise in patients for "pneumonia."
+
+The director-general of the World Health Organization, Tedros Adhanom Ghebreyesus, has added his voice to growing calls for Tanzania to acknowledge COVID-19 for the good of its citizens, neighboring countries, and the world, especially after a number of countries reported that visitors arriving from Tanzania tested positive for the virus.
+
+Tedros in a statement on Saturday [20 Feb 2021] called Tanzania's situation "very concerning" and urged Magufuli's government to take "robust action." Others recently expressing concern include the United States and the local Catholic church.
+
+--
+Communicated by:
+ProMED Rapporteur Kunihiko Iizuka
+
+----
+[B]
+Date: Sat 20 Feb 2021
+Source: WHO [edited]
+https://www.who.int/news/item/20-02-2021-who-director-general-s-statement-on-tanzania-and-covid-19
+
+
+WHO Director-General's statement on Tanzania and COVID-19
+---------------------------------------------------------
+We extend our condolences to our Tanzanian sisters and brothers on the recent passing of a senior Tanzanian leader as well as the government's Chief Secretary.
+
+In late January [2021], I joined Dr Matshidiso Moeti, the WHO Director for the African Region, in urging Tanzania to scale public health measures against COVID-19 and to prepare for vaccination. I also encouraged the sharing of data in light of reports of COVID-19 cases among travellers. Since then I have spoken with several authorities in Tanzania but WHO is yet to receive any information regarding what measures Tanzania is taking to respond to the pandemic.
+
+This situation remains very concerning. I renew my call for Tanzania to start reporting COVID-19 cases and share data. I also call on Tanzania to implement the public health measures that we know work in breaking the chains of transmission and to prepare for vaccination.
+
+A number of Tanzanians travelling to neighbouring countries and beyond have tested positive for COVID-19. This underscores the need for Tanzania to take robust action both to safeguard their own people and protect populations in these countries and beyond.
+
+COVID-19 is a serious disease that can cause severe illness and even death. National authorities everywhere must do all they can to protect people and save lives and WHO stands ready to support them in the response against this deadly virus.
+
+--
+Communicated by:
+ProMED Rapporteur Kunihiko Iizuka
+
+[This is so reminiscent of the initial years of the AIDS pandemic when countries were denying there were cases until prominent individuals died of AIDS and families announced it was due to AIDS. Unfortunately, history repeats itself. - Mod.MPP]
+
+******
+[5] WHO: daily new cases reported (as of 22 Feb 2021)
+Date: Sun 22 Feb 2021
+Source: WHO [abridged, edited]
+https://covid19.who.int/table
+
+
+*Daily case reports as of 22 Feb 2021 14:15 CET
+
+Surveillance
+------------
+WHO region (no. countries/territories):
+Total confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+--------------------------------------------------------------------------------
+Western Pacific Region (19): 1 583 091 (6761) / 28 307 (87)
+European Region (61): 37 679 536 (105 325) / 840 485 (1724)
+South East Asia Region (10): 13 368 276 (22 686) / 205 069 (273)
+Eastern Mediterranean Region (22): 6 208 063 (27 040) / 142 285 (370)
+Region of the Americas (54): 49 465 467 (169 352) / 1 176 225 (4931)
+African Region (49): 2 796 838 (6954) / 70 527 (195)
+Cases on an international conveyance (Diamond Princess): 745 (0) / 13 (0)
+
+Confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+Grand total: 111 102 016 (338 118) / 2 462 911 (7580)
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[Data by country, area, or territory for 22 Feb 2021 can be accessed at https://promedmail.org/wp-content/uploads/world-pdf/2021%20WHO%20Daily%20Tables%20Feb22_1614018289.pdf.
+
+- The Americas region reported 50.1% of daily case numbers and 65.1% of the daily deaths reported in the past 24 hours and maintained its position as the most severely affected region, having reported more than 49.46 million cases. The USA is dominant reporting almost 71 000 cases, followed by Brazil with over 57 000 cases; 10 additional countries reported more than 1000 cases in the past 24 hours (Mexico, Peru, Argentina, Colombia, Chile, Canada, Ecuador, Bolivia, Paraguay, and Cuba), and an additional 3 countries (Dominican Republic, Uruguay, and Panama) reported more than 500 but fewer than 1000 cases.
+
+- The European region reported 31.2% of daily case numbers and 22.7% of the daily deaths reported in the past 24 hours, and total cumulative cases reported exceed 37.67 million. Countries not reporting cases include Spain, Belgium, Israel, Sweden, Switzerland, and Kazakhstan, among others. France is the most heavily affected, reporting just over 22 000 cases in the last 24 hours, followed by Italy, and Russia, all reporting more than 10 000 new cases in the past 24 hours. Another 14 countries reported more than 1000 cases, and an additional 5 countries reported more than 500 but fewer than 1000 cases.
+
+- The Eastern Mediterranean region reported 8.0% of daily case numbers and 4.9% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 6.20 million cases. Iran maintains its dominance, reporting over 7900 cases, followed by Jordan, Iraq, UAE, Lebanon, Palestinian Authority, and Pakistan. Oman, Kuwait, Tunisia, Egypt, and Bahrain reported more than 500 but fewer than 1000 cases.
+
+- The African region reported 2.1% of daily case numbers and 2.6% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 2.79 million cases. South Africa is dominant with over 1400 cases. Ethiopia, Mozambique, Zambia, Ghana, and Nigeria reported more than 500 but fewer than 1000 cases. Botswana, Madagascar, and Cameroon, among others, did not report any new cases in the past 24 hours.
+
+- The Western Pacific region reported 2.0% of daily case numbers and 1.1% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 1.58 million cases. Malaysia reported the highest number of cases over the last 24 hours (almost 3300 cases), followed by Philippines, Japan, South Korea, and Mongolia.
+
+- The South East Asia region reported 6.7% of the daily newly reported cases and 3.6% of reported deaths in the past 24 hours, having reported a cumulative total of more than 13.36 million cases. India is dominant reporting over 14 000 cases, followed by Indonesia (7300 cases), Sri Lanka, and Bangladesh.
+
+On the Overview tab at the WHO source URL, the epidemic curve of confirmed COVID-19 cases by WHO region, 30 Dec 2019 through 22 Feb 2021, is an excellent visual representation of the pandemic. - Mod.MPP]
+
+******
+[6] Global update: Worldometer accessed 22 Feb 2021 21:33 EST (GMT-5)
+Date: Mon 22 Feb 2021
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at https://promedmail.org/wp-content/uploads/world-pdf/2021%20WORLDDATA%20FEB22_1614051108.pdf.
+
+A 7-day series of cumulative data reported by countries, territories, and reporting entities can be found at < https://promedmail.org/wp-content/uploads/world-pdf/2021%20FEB22WORLD7_1614051348.pdf>. - Mod.MPP]
+
+Total number of reported deaths: 2 484 862
+Total number of worldwide cases: 112 256 188
+Number of newly confirmed cases in the past 24 hours: 302 452
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[In the past 24 hours, the USA (60 884), Brazil (29 357), and Spain (20 849) have reported the highest numbers of cases. A global total of 7047 deaths were reported in the past 24 hours (late 21 Feb 2021 to late 22 Feb 2021). Countries reporting more than 10 000 newly confirmed cases in the past 24 hours (7 countries) include the USA, Brazil, Spain, Russia (12 604), India (10 792), UK (10 641), and Indonesia (10 180). Some countries are showing marked reductions in reporting from prior days consistent with previously noted weekend artifact. A total of 43 countries reported more than 1000 cases in the past 24 hours; 22 of the 43 countries are from the European region, 8 are from the Americas region, 7 are from the Eastern Mediterranean region, 2 are from the South East Asia region, 3 are from the Western Pacific region, and one is from the African region.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, case counts have decreased by 3.3%%, while daily reported deaths have decreased by 19.4%. Similar comparative 7-day averages in the USA show a 17.6% decrease in daily reported cases and 34.0% decrease in reported deaths.
+
+Impression: Similar to previous assessments, the global daily reported cases totaled over 300 000 newly confirmed infections in the past 24 hours with over 112.25 million cumulative reported cases and over 2.48 million reported deaths. Countries in the European and the Americas regions are still showing the largest increases in daily new case counts, even in the face of overall decreasing reports. - Mod.MPP]
+See Also
+COVID-19 update (75): rapid testing, Israel vaccine results, WHO, global 20210222.8205363
+COVID-19 update (74): vaccines, variants, genomic surveillance WHO, global 20210221.8204585
+COVID-19 update (73): post COVID, encephalopathy, USA safety monitoring, WHO 20210220.8202495
+COVID-19 update (72): Africa reporting, UK lockdown impact, Israel vaccine, WHO 20210219.8200334
+COVID-19 update (71): world, animal, mink, WHO/FAO/OIE risk assessment 20210218.8200008
+COVID-19 update (70): gangrene, challenge trials, immunity, cancer, WHO, global 20210218.8198620
+COVID-19 update (60): animal, SARS-CoV-2-related viruses, pangolin, bat 20210211.8184900
+COVID-19 update (50): UK vaccine study, Brazil reinfection, WHO 20210205.8167161
+COVID-19 update (40): vaccines, Thailand, Viet Nam, WHO, global 20210130.8149707
+COVID-19 update (30): vaccination impact, immune escape, variant, WHO, global 20210123.8129255
+COVID-19 update (20): animal, deer, experimental infection 20210116.8108967
+COVID-19 update (10): IgA, IL-6 receptor agonists, China, WHO, global 20210109.8086465
+COVID-19 update (01): variants, vaccine, Thailand, global, WHO 20210101.8062938
+2020
+----
+COVID-19 update (562): viral load, UK vacc dose, ECDC, WHO 20201231.8061525
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+Undiagnosed pediatric inflammatory syndrome (05): Europe, USA, COVID-19 assoc 20200518.7340554
+Undiagnosed pediatric inflammatory syndrome (04): USA, UK, PMIS, fatal 20200509.7315405
+Undiagnosed pediatric inflammatory syndrome (03): USA, Europe, COVID-19 susp, RFI 20200505.7299876
+COVID-19 update (150): global, USA state prisons, WHO 20200502.7290671
+COVID-19 update (100): China, S. Korea & high local transmission countries 20200413.7217806
+COVID-19 update (50): China (Hong Kong) animal dog, 2nd case PCR positive, OIE 20200323.7129951
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (41): China, global, clinical pics, asymptomatic trans., WHO 20200210.6976117
+Novel coronavirus (40): animal reservoir, pangolin poss intermediate host, RFI 20200210.6972104
+Novel coronavirus (30): updates, China, Viet Nam, research 20200202.6945658
+Novel coronavirus (20): China, wildlife trade ban 20200127.6922060
+Novel coronavirus (10): China (HU, GD, BJ) 20200119.6898567
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia: China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia: China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+----
+Undiagnosed pneumonia: China (HU): RFI 20191230.6864153
+and other items in the archives
+.................................................sb/mpp/lk/mpp/mj/mpp
+</body>

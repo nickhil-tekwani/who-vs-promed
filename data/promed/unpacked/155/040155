@@ -1,0 +1,366 @@
+<header id=040155>
+Published Date: 2020-05-08 01:57:59 EDT
+Subject: PRO/AH/EDR> COVID-19 update (164): global, contact tracing, Amazon (Peru,Brazil), WHO
+Archive Number: 20200508.7312574
+</header>
+<body id=040155>
+CORONAVIRUS DISEASE 2019 UPDATE (164): GLOBAL, CONTACT TRACING (ECDC), AMAZON (PERU,BRAZIL), WHO
+************************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] Global update: Worldometer accessed 7 May 2020 22:00 EDT
+[2] New countries/territories confirming cases (none)
+[3] Contact tracing for COVID-19: ECDC
+[4] Amazon outbreaks (Peru, Brazil)
+[5] WHO situation report 108 (as of 7 May 2020)
+
+******
+[1] Global update: Worldometer
+Date: Thu 7 May 2020 accessed 22:00 EDT
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/
+
+
+Confirmed cases Start of data recording: 1st data / ... / 1 Mar 2020 / ... / 1 Apr 2020 / ... / 1 May 2020 / ... / 3 May 2020 / 4 May 2020 / 5 May 2020 / 6 May 2020 [updated for access time consistency] / 7 May 2020 / Country
+
+Countries with marked decreases in daily newly confirmed cases post major activity
+-------------------------------------------------------------------
+2 Feb 2020: 17 187 / ... / 80 024 / ... / 81 589 / ... / 82 875 / ... / 82 880 / 82 881 / 82 883 / 82 885 / 82 886 / Mainland China
+2 Feb 2020: 15 / ... / 3726 / ... / 9976 / ... / 10 780 / ... / 10 801 / 10 804 / 10 806 / 10 810 / 10 822 / South Korea
+
+Countries with major activity (more than 5000 cases with community spread)
+------------------------------------------------------------------
+2 Feb 2020: 11 / ... / 76 / ... / 215 081 / ... / 1 131 280 / ... / 1 188 122 / 1 212 835 / 1 237 633 / 1 263 092 / 1 292 623 / USA
+2 Feb 2020: 1 / ... / 84 / ... / 104 119 / ... / 242 988 / ... / 247 122 / 248 301 / 250 561 / 253 682 / 256 855 / Spain
+2 Feb 2020: 2 / ... / 1694 / ... / 110 574 / ... / 207 428 / ... / 210 717 / 211 938 / 213 013 / 214 457 / 215 858 / Italy
+2 Feb 2020: 2 / ... / 36 / ... / 29 474 / ... / 177 454 / ... / 186 599 / 190 584 / 194 990 / 201 101 / 206 715 / UK
+2 Feb 2020: 2 / ... / 2 / ... / 2777 / ... / 114 431 / ... / 134 687 / 145 268 / 155 370 / 165 929 / 177 160 / Russia
+2 Feb 2020: 6 / ... / 130 / ... / 56 989 / ... / 167 346 / ... / 168 693 / 169 462 / 170 551 / 174 191 / 174 791 / France
+2 Feb 2020: 10 / ... / 130 / ... / 77 981 / ... / 164 077 / ... / 165 664 / 166 152 / 167 007 / 168 162 / 169 430 / Germany
+26 Feb 2020: 1 / ... / 2 / ... / 6931 / ... / 92 109 / ... / 101 147 / 108 620 / 115 455 / 126 611 / 135 693 / Brazil
+11 Mar 2020: 1 / ... / NA /... / 15 679 / ... / 122 392 /... / 126 045 / 127 659 / 129 491 / 131 744 / 133 721 / Turkey
+19 Feb 2020: 2 / ... / 978 / ... / 47 593 / ... / 95 646 / ... / 97 424 / 98 647 / 99 970 / 101 650 / 103 135 / Iran
+2 Feb 2020: 4 / ... / 24 / ... / 9731 / ... / 55 061 / ... / 59 474 / 60 772 / 62 046 / 63 496 / 64 922 / Canada
+6 Mar 2020: 1 / ... / NA / ... / 1323 /... / 40 459 / ... / 45 928 / 47 372 / 51 189 / 54 817 / 58 526 / Peru
+2 Feb 2020: 2 / ... / 3 / ... / 1998 / ... / 37 257 / ... / 42 505 / 46 437 / 49 400 / 52 987 / 56 351 / India
+4 Feb 2020: 1 / ... / 2 / ... / 13 964 / ... / 49 032 / ... / 49 906 / 50 267 / 50 509 / 50 781 / 51 420 / Belgium
+27 Feb 2020: 1 / ... / 10 / ... / 13 614 / ... / 39 791 / ... / 40 571 / 40 770 / 41 087 / 41 319 / 41 774 / Netherlands
+2 Mar 2020: 1 / ... / NA / ... / 1720 / ... / 24 097 / ... / 27 011 / 28 656 / 30 251 / 31 938 / 33 731 / Saudi Arabia
+29 Feb 2020: 1 / .../ 6 / ... / 2758 / ... / 26 336 / ... / 29 538 / 31 881 / 31 881 / 31 881 / 30 298 / Ecuador
+25 Feb 2020: 1 / ... / 27 / ... / 17 768 / ... / 29 705 / ... / 29 905 / 29 981 / 30 009 / 30 060 / 30 126 / Switzerland
+28 Feb 2020: 1 / ... / 5 / ... / 1215 /... / 20 739 / ... / 23 471 / 24 905 / 26 025 / 27 634 / 29 616 / Mexico
+2 Mar 2020: 2 / ... / NA / ... / 8251 / ... / 25 351 / ... / 25 282 / 25 524 / 25 702 / 26 182 / 26 715 / Portugal
+26 Feb 2020: 2 / ... / 4 / ... / 2118 / ... / 18 114 / ... / 20 084 / 20 941 / 22 049 / 23 214 / 24 644 / Pakistan
+2 Feb 2020: 1 / ... / 14 / ... / 4947 / ... / 21 520 / ... / 22 317 / 22 721 / 23 216 / 23 918 / 24 623 / Sweden
+3 Mar 2020: 1 / ... / NA / ... / 3031 / ... / 17 008 / ... / 19 663 / 20 643 / 22 016 / 23 048 / 24 581 / Chile
+29 Feb 2020: 1 / ... / 1 / ... / 3447 / ... / 20 833 / ... / 21 506 / 21 772 / 21 983 / 22 248 / 22 385 / Ireland
+2 Feb 2020: 18 / ... / 106 / ... / 1000 / ... / 17 101 / ... / 18 205 / 18 778 / 19 410 / 20 198 / 20 939 / Singapore
+28 Feb 2020: 1 / ... / 1 / ... / 163 / ... / 14 917 / ... / 16 705 / 17 489 / 18 350 / 19 255 / 20 168 / Belarus
+29 Feb 2020: 1 / ... / 3 / ... / 835 / ... / 14 096 / ... / 15 551 / 16 191 / 17 142 / 17 972 / 18 890 / Qatar
+21 Feb 2020: 1 / ... / 10 / ... / 6092 / ... / 16 101 / ... / 16 208 / 16 246 / 16 289 / 16 310 / 16 381 / Israel
+2 Feb 2020: 5 / ... / 21 / ... / 814 / ... / 13 038 / ... / 14 163 / 14 730 / 15 192 / 15 738 / 16 240 / United Arab Emirates
+25 Feb 2020: 2 / ... / 14 / ... / 10 711 / ... / 15 531 / ... / 15 597 / 15 621 / 15 650 / 15 684 / 15 752 / Austria
+2 Feb 2020: 20 / ... / 256 / ... / 2384 / ... / 14 305 / ... / 14 877 / 15 078 / 15 253 / 15 253 / 15 477 / Japan
+3 Mar 2020: 1 / ... / NA / ... / 2554 / ... / 13 105 / ... / 13 693 / 14 006 / 14 431 / 14 740 / 15 047 / Poland
+26 Feb 2020: 1 / ... / 3 / ... / 2460 / ... / 12 567 / ... / 13 163 / 13 512 / 13 837 / 14 107 / 14 449 / Romania
+3 Mar 2020: 1 / ... / NA / ... / 794 / ... / 10 861 / ... / 11 913 / 12 331 / 12 697 / 13 184 / 13 691 / Ukraine
+2 Mar 2020: 2 / ... / NA / ... / 1677 / ... / 10 551 / ... / 11 192 / 11 587 / 12 071 / 12 438 / 12 776 / Indonesia
+8 Mar 2020: 3 / ... / NA / ... / 54 / ... / 8238 / ... / 9455 / 10 143 / 10 929 / 11 719 / 12 475 / Bangladesh
+2 Feb 2020: 2 / ... / 3 / ... / 2311 / ... / 8772 / ... / 9223 / 9485 / 9684 / 10 004 / 10 343 / Philippines
+27 Feb 2020: 1 / ... / 4 / ... / 3107 / ... / 9311 / ... / 9523 / 9670 / 9821 / 9938 / 10 083 / Denmark
+6 Mar 2020: 1 / ... / NA / ... / 1060 / ... / 9205 / ... / 9464 / 9557 / 9677 / 9791 / 9848 / Serbia
+6 Mar 2020: 1 / ... / NA / ... /1065 /... / 7006 / ... / 7668 / 7973 / 8613 / 8959 / 9456 / Colombia
+1 Mar 2020: 1 / ... / NA / ... / 1284 / ... / 7288 / ... / 7954 / 8235 / 8480 / 8807 / 9095 / Dominican Republic
+5 Mar 2020: 1 / ... / NA / ... / 1380 / ... / 5951 / ... / 6783 / 7220 / 7572 / 7808 / 8232 / South Africa
+26 Feb 2020: 1 / ... / 19 / ... / 4877 / ... / 7783 / ... / 7847 / 7904 / 7955 / 7996 / 8034 / Norway
+1 Mar 2020: 3 / ... / NA / ... / 3589 / .../ 7737 / ... / 7781 / 7819 / 7896 / 7974 / 8031 / Czech Republic
+14 Feb 2020: 1 / ... / 2 / ... / 779 / ... / 5895 / ... / 6465 / 6813 / 7201 / 7588 / 7981 / Egypt
+10 Mar 2020: 1 / ... / NA / ... / 1317 / ... / 6720 / ... / 7090 / 7197 / 7523 / 7731 / 7868 / Panama
+2 Feb 2020: 12 / ... / 27 / ... / 5105 / ... / 6767 / ... / 6822 / 6825 / 6875 / 6894 / 6913 / Australia
+24 Feb 2020: 1 / ... / 45 / ... / 317 /... / 4377 / ... / 4983 / 5278 / 5804 / 6289 / 6567 / Kuwait
+2 Feb 2020: 8 / ... / 29 / ... / 2908 / ... / 6071 / ... / 6298 / 6353 / 6383 / 6428 / 6467 / Malaysia
+2 Feb 2020: 1 / ... / 6 / ... / 1446 / ... / 5051 / ... / 5254 / 5327 / 5412 / 5573 / 5673 / Finland
+2 Mar 2020: 1 / ... / NA / ... / 654 /... / 4569 / ... / 4903 / 5053 / 5219 / 5408 / 5548 / Morocco
+
+[In the table above, NA is not applicable; those countries whose 1st case was reported after 1 Mar 2020 did not have cases on 1 Mar 2020. - Mod.MPP]
+
+Countries with more than 5000 cases not on the list above (as the list is growing longer, we will freeze it here and maintain a list of countries passing the 5000 case mark):
+Argentina, Algeria
+
+Countries and territories with more than 1000 cases:
+Moldova, Kazakhstan, Luxembourg, Bahrain, Afghanistan, Hungary, Thailand, Nigeria, Oman, Ghana, Greece, Armenia, Iraq, Uzbekistan, Croatia, Cameroon, Azerbaijan, Bosnia and Herzegovina, Guinea, Bolivia, Iceland, Bulgaria, Estonia, Cuba, North Macedonia, New Zealand, Cote d'Ivoire, Slovenia, Lithuania, Slovakia, Senegal, Honduras, Djibouti, Hong Kong, Tunisia
+
+Countries with more than 500 cases (and less than 1000):
+Latvia, Cyprus, Kyrgyzstan, Somalia, Albania, Sudan, Sri Lanka, Niger, Guatemala, Costa Rica, Andorra, Lebanon, Mayotte, Congo DR, Burkina Faso, Uruguay, Mali, Georgia, San Marino, El Salvador, Maldives, Channel Islands, Kenya, Gabon, Guinea-Bissau
+
+Countries with notable overnight changes or escalating reports to keep an eye on:
+Uzbekistan, Bahrain, Cabo Verde, Kazakhstan, Iraq, Ghana, El Salvador, Paraguay, Bolivia, Jamaica, Croatia, Oman, Somalia, Cameroon, Tanzania, Sudan, Cuba, Azerbaijan, Bulgaria, Bosnia and Herzegovina, Mayotte, Tajikistan, Chad, Sao Tome and Principe, Yemen, Gabon, Guinea-Bissau, Chad, Eswatini, Benin
+
+Total number of reported deaths: 270 709
+Total number of worldwide cases: 3 916 257
+Number of newly confirmed cases in past 24 hours: 94 339
+
+--
+communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[According to the data on the Worldometer website, the total number of cases of COVID-19 worldwide is 3 916 257, with reports of cases by 216 countries and territories worldwide. Given the rate of increase, it is highly likely the global cumulative case count will pass 4 million in the next 24 hours. The total number of confirmed cases reported from outside China now represents 97.9% of the total number of reported cases. The epicenter has shifted outside of China to Western Europe and the USA. The USA, with more than 1.29 million confirmed cases, now represents 33.0% of the global cases of COVID-19. A global total of 270 709 deaths have been reported, with 266 076 (98.3%) outside mainland China.
+
+In descending rank order, the USA is number 1 for numbers of confirmed cases of COVID-19, Spain is number 2, and Italy is number 3, followed by the UK, Russia, France, Germany, Turkey, Brazil, and Iran as number 10. China is now number 11. Russia has moved up from 7th to 5th place in terms of cumulative case numbers and having the 2nd highest number of newly confirmed cases in the past 24 hours (11 231) following the USA (29 531), with Brazil, the 3rd highest 24-hour newly confirmed cases (9082). - Mod.MPP]
+
+******
+[2] New countries/territories confirming cases (none)
+Date: Thu 7 May 2020
+
+
+No newly identified countries with 1st cases of COVID-19 confirmed.
+
+--
+communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[As of 7 May 2020, 216 countries and territories have reported COVID-19 cases; 22 countries have not reported any cases. - Mod.MPP]
+
+******
+[3] Contact tracing for COVID-19: ECDC
+Date: Tue 5 May 2020
+Source: European Centre for Disease Prevention and Control (ECDC) [edited]
+https://www.ecdc.europa.eu/en/publications-data/contact-tracing-covid-19-evidence-scale-up-assessment-resources
+
+
+Executive summary
+-----------------
+Contact tracing is an effective public health measure for the control of COVID-19. The prompt identification and management of the contacts of COVID-19 cases makes it possible to rapidly identify secondary cases that may arise after transmission from the primary cases. This will enable the interruption of further onward transmission. Contact tracing, in conjunction with robust testing and surveillance systems, is central to control strategies during de-escalation. Contact tracing has been a key part of the response in several Asian countries that have successfully reduced case numbers.
+
+It is possible to scale up contact tracing by adapting traditional contact tracing approaches to available local resources and by using a number of resource-saving measures. This document outlines a number of resource measures including the use of well-trained non-public-health staff and volunteers; repurposing existing resources such as call centres; reducing the intensity of contact follow-up and using new technologies such as contact management software and mobile apps.
+
+[The full document including references and tables is available at https://www.ecdc.europa.eu/sites/default/files/documents/COVID-19-Contract-tracing-scale-up.pdf:]
+
+Contact tracing for COVID-19: current evidence, options for scale-up and an assessment of resources needed April 2020 [abridged, edited]
+--------------------------------------------------------------------
+Evidence base for contact tracing
+---------------------------------
+Existing evidence related to the current COVID-19 outbreak shows the importance of contact tracing, both as a method for containing the virus where there are a limited number of cases and as an effective tool in the context of widespread transmission. Contact tracing will be very important during the de-escalation of current public health measures in order to avoid an increase in transmission.
+
+Singapore and several provinces in China were able to limit the size of their initial outbreaks through widespread testing, contact tracing, and quarantine, and these efforts remain key to their ongoing containment of the virus [3,4,5]. Contact tracing resulted in the identification of many new cases, often before symptom-onset, and reduced the time from symptom-onset to isolation substantially, thus decreasing the likelihood of sustained transmission [6,7]. Contact tracing was also effective at helping to reduce the spread of the disease during the period of ongoing widespread transmission in China and South Korea [3,8,9]. Although the evidence suggests that contact tracing in several Asian countries was effective in containing the virus, the actual effect of the contact tracing is difficult to quantify as it was accompanied by other control measures taken at the community and individual levels, such as the banning of gatherings and stay-at-home orders.
+
+In terms of the effectiveness of methods, evidence from China suggests that the earlier cases can be identified and contacts traced the more likely the epidemic is to be controlled [10]. Evidence from Singapore has also highlighted the role of pre-symptomatic transmission in the overall outbreak dynamics, suggesting that control of the pandemic requires prompt quarantining of close contacts to prevent onward transmission [11]. A combination of approaches, such as the use of mobile data and network searches, was used in China to track and trace contacts. These methods were considered effective for promptly identifying individuals at risk of infection [12]. In Vietnam, where extensive efforts are being made to isolate cases and trace and quarantine their contacts, the use of artificial intelligence is now being considered in order to further improve contact tracing and the management of potentially infected patients [13]. New Zealand has also managed to control the outbreak using aggressive traditional contact tracing supplemented by other measures [14,15]. From the healthcare perspective, the experience in China also indicates that contact tracing in the hospital setting, when accompanied by testing and quarantining, can provide effective nosocomial control [16].
+
+Data from contact tracing can contribute to a better understanding of the epidemiology of COVID-19, providing valuable information on transmission and attack rates, supporting the identification of key settings where transmission is occurring and facilitating a greater understanding of the effectiveness of different mitigation measures, such as physical distancing.
+
+Countries should adapt their public health response according to the local epidemiological situation and available resources. Even if not all contacts of a case can be identified and traced, contact tracing can still help reduce transmission when implemented in combination with other measures, such as physical distancing [17,18,19].
+
+For countries that have enforced strict physical distancing measures to interrupt the chains of transmission, case finding measures, including contact tracing, are a priority once the physical distancing measures are lifted, in order to reduce the risk of further disease escalation. During lockdown periods, before physical distancing measures are lifted, it is suggested that countries could review existing public health systems to determine the optimal implementation of reinforced contact tracing measures. It should also be ensured that sufficient testing capacity and robust surveillance systems are in place [2].
+
+--
+communicated by:
+Mary Marshall
+<mjm2020@googlemail.com>
+
+[The document continues on with a discussion of how to scale up contact tracing by 1) using non-public health staff and volunteers; 2) repurposing existing resources; 3) reducing the intensity of follow up of contacts; 4) using technology (contact tracing management software; Web-based applications; mobile contact tracing applications ('apps').
+
+The document is a well thought out guide for how to implement contact tracing, assess resource necessities, and adapt to local circumstances. - Mod.MPP]
+
+******
+[4] Amazon city outbreaks (Peru, Brazil)
+A. Peru (Iquitos)
+Date: Thu 7 May 2020 11:45 BST
+Source: The Guardian [abridged, edited]
+https://www.theguardian.com/global-development/2020/may/07/peru-jungle-iquitos-coronavirus-covid-19
+
+
+Hospitals across Peru's largest Amazon city [Iquitos] ran out of oxygen, and the shortage pushed the black market price of a cylinder well above USD 1000. Hemmed in by a sea of jungle, plagued by dire poverty and already reeling from a dengue fever outbreak, Iquitos is now the 2nd major Amazon city -- after Manaus in Brazil -- to take a brutal hit from the coronavirus pandemic.
+
+"We are living in a catastrophe," said Graciela Meza, executive director of the regional health office in Loreto, the vast Amazon region which surrounds the city of half a million inhabitants. The city's main public hospital was overflowing with nearly 5 times the number of patients its 180 beds could hold, said Meza, who herself was recovering from the virus. "I've never seen anything like this in my life, or even in my dreams," said Meza, a lifelong Iquitos resident, who compared the situation to living in a disaster film. "Most victims have died from a lack of oxygen; 90% have died because of lack of medical supplies," Meza added. She had counted dozens of dead every day over the last 3 weeks, including 2 nurses, and 3 doctors -- the latest a junior doctor in his 20s.
+
+Just how bad Loreto's COVID-19 outbreak is, remains unclear but few in Iquitos doubt it exceeds the official count of 62 dead and 1595 confirmed cases as of Wednesday [6 May 2020]. After more than 50 days under lockdown, Peru's overall official count of more than 51 000 confirmed coronavirus cases and 1444 dead places it 2nd only to Brazil in Latin America. Brazil, which has reported nearly 8000 deaths and has a population nearly 7 times that of Peru.
+
+Hundreds of critically-ill patients were seated outside in rocking chairs around the hospital grounds or, in the last few days, in 3 field hospitals erected in football pitches and stadiums in the city. "There's no oxygen in the lungs of the world," Meza remarked bitterly, referring to the city's Amazon location. "That should be the headline for your story," she added. Her tone switched to anger as she said: "We only have ...decades of chronic under-investment in healthcare." Growing anger over chronic shortages coincided with a visit by Peru's health minister, Victor Zamora, on Monday [4 May 2020]. The minister pledged to establish daily flights to take medical supplies and oxygen from Lima to Iquitos and replenish the numbers of medical professionals, as more than a dozen doctors infected with COVID-19 were evacuated.
+
+Zamora also promised to build 2 new oxygen plants in Iquitos, which needs 800 cylinders a day, but warned the construction would take several weeks. The existing plant can produce a maximum of 250 cylinders a day, according to local reports. Agustina Huilca, president of the local doctor's federation said it was too little, too late. "We asked for the medicine more than a month ago," she said. They desperately need strong antibiotics, anti-coagulants, and anti-inflammatory drugs to treat COVID-19, she said. "There's no medicine, there's no oxygen and I've got 40 doctors in hospital [with COVID-19], am I supposed to wait for them to die one by one?" she exclaimed on Monday. A total of 128 medics had been infected with the virus in the city, a number second only to that of the capital Lima, a city with a population 20 times the size. "[As doctors] we feel impotent, frustrated, and isolated. We feel abandoned by the government," Huilca added.
+
+The pandemic could not have arrived at a worse time, said Valerie Paz-Soldan, a Peruvian-American social scientist and director of Tulane Health Offices for Latin America. Iquitos was already struggling with the tail end of a dengue fever outbreak coupled with a bout of leptospirosis. Asia and the Americas had multiple outbreaks of dengue in 2019 which was the worst year on record for the disease. Both dengue and COVID-19 cause fevers which have complicated diagnoses, said Paz-Soldan, while Iquitos' hot climate, crowded living conditions, poverty, and geographic isolation were "a perfect storm of deadly factors." "I suspect that in Iquitos the situation is already out of control," she said.
+
+[byline: Dan Collyns]
+
+--
+communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[According to Worldometer accessed on 7 May 2020, 22:00 EDT, Peru having reported 58 526 cases including 1627 deaths, is number 13 globally for cumulative numbers of cases of COVID-19. The 1st imported case into Peru was reported on 6 Mar 2020. Iquitos is the capital of the Loreto region; it is located at the confluence of the Amazon, Nanay, and Itaya Rivers, and is a port city in the Amazon region. It has an estimated population of less than half a million inhabitants. It is accessible only by air or boat. This creates the challenges of supplying the city's health sector with needed supplies and makes a surge capacity even more difficult to implement. - Mod.MPP
+
+HealthMap/ProMED-mail map of Peru: https://promedmail.org/promed-post?place=7312574,2553]
+
+----
+B. Brazil (Manaus)
+Date: Fri 8 May 2020 01:37 GMT
+Source: CNN World [abridged, edited]
+https://www.cnn.com/2020/05/07/americas/amazon-manaus-coronavirus-intl/index.html
+
+
+[A death] highlights the massive healthcare crisis facing [Manaus], the capital of the north western state of Amazonas, and the strain on local institutions' ability to contain the coronavirus. Officials have attributed just 532 deaths to COVID-19 in Manaus, but the actual total is likely much higher. City data show that 2435 people were buried in April [2020] alone, compared with 871 burials during the same month a year ago.
+
+Manaus mayor Arthur Virgilio Neto told CNN Brasil he feels the city has been "abandoned" during the health crisis. "I would like to create awareness around the world because I can't seem to get Brazil to wake up to the strategic importance of my state and my region," Neto said.
+
+Overcrowded hospitals
+---------------------
+The pandemic has left many of the city's public hospitals overcrowded with nowhere to treat patients, doctors in Manaus told CNN Brasil. They also said overcrowding made it challenging to isolate those who may be presenting COVID-19 symptoms.
+
+'No rules or norms'
+-------------------
+Dr Mario Vianna, the president of the Amazonas Doctors' Union, said hospital maternity wards have become high-risk areas for the spread of coronavirus infections. "The maternity wards became one of the main areas for infections because there isn't an isolation plan," Vianna told CNN Brasil. "There are no rules or norms for isolation."
+
+Vianna also said doctors are being exposed to the coronavirus, due to low staffing levels and lack of personal protection equipment (PPE), and that many go to work in fear of dying or of losing colleagues.
+
+'Stay home'
+-----------
+Mayor Neto said that he thinks the worst is still ahead, predicting that infections could peak in Manaus in May [2020]. Manaus is globally known as the gateway to the Amazon rainforest region, and Neto has called on world leaders and climate activists, including Greta Thunberg, for help. In a video posted to his personal Twitter account, Neto asked Thunberg to help bring awareness to the situation in Manaus. Thunberg retweeted a photo on [5 May 2020] showing mass graves in Manaus to her 4.1 million followers with the hashtag #SOSAMAZONIA.
+
+Health minister Nelson Teich traveled to Manaus on Monday [4 May 2020], where he visited several hospitals and met with local authorities, including Neto. The Health Ministry on Monday [4 May 2020] said it hired and brought in 267 medical professionals to support the city's health teams. The ministry also provided additional PPE, including N95 masks, goggles, and hand sanitizers.
+
+To date, Brazil has confirmed more than 125 000 coronavirus cases and at least 8536 deaths. At least 9243 of these cases have been registered in the state of Amazonas, with more than half of those cases in Manaus, according to the latest data released by the state's health secretary.
+
+[byline: Flora Charner, Isa Soares]
+
+--
+communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[According to Worldometer, Brazil is number 8 globally having reported a cumulative total of 135 773 cases including 9190 deaths. The 1st imported case into Brazil was reported on 26 Feb 2020. Manaus is located in the North of Brazil in the Amazonas State. To the east of the city is the confluence of the Negro River where it converges with the Solimoes River -- tributaries of the Amazonas River. There is an estimated population of over 2 million inhabitants. It is in the middle of the large tropical rainforest and is a takeoff point for many Amazon region explorations and tourism. Noting the differences in the 2 cities (Iquitos in Peru and Manaus in Brazil, the outcomes of the COVID-19 pandemic have many similarities, with an overload of the health infrastructure, shortages of needed supplies, and high mortality as an outcome. - Mod.MPP
+
+HealthMap/ProMED-mail map of Brazil: https://promedmail.org/promed-post?place=7312574,10254]
+
+******
+[5] WHO situation report 108 (as of 7 May 2020)
+Date: Thu 7 May 2020
+Source: WHO [abridged, edited]
+https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200507covid-19-sitrep-108.pdf
+
+
+*The situation report includes information provided by national authorities as of 10:00 CEST, 7 May 2020.
+
+Highlights
+----------
+- More than 3.5 million cases of COVID-19 and 250,000 deaths have now been reported to WHO.
+
+- At yesterday's [6 May 2020] media briefing, WHO director-general Dr Tedros Adhanom Ghebreyesus, referring to the fact that crises can exacerbate existing inequalities, reiterated that 'We cannot end the pandemic until we address the inequalities that are fueling it.' He also highlighted 6 criteria that WHO recommends countries should take into account when considering the easing of lockdown restrictions (https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---6-may-2020)
+
+- WHO, UNICEF, and the International Federation of the Red Cross have published guidance for countries on how to maintain community-based healthcare in the context of COVID-19 (https://www.who.int/publications-detail/community-based-health-care-including-outreach-and-campaigns-in-the-context-of-the-covid-19-pandemic). it complements the United Nations framework for the socio-economic response to COVID-19 (https://www.un.org/sites/un2.un.org/files/un_framework_report_on_covid-19.pdf).
+
+- WHO and the Delegation of the European Union (EU) have announced a new collaboration in Somalia to strengthen operational response activities for COVID-19 (http://www.emro.who.int/somalia/news/who-and-european-union-unite-to-fight-a-common-enemy-to-humanity.html).
+
+- COVID-19 messages are reaching new audiences in Turkey as Goodwill Ambassadors from United Nations agencies in the country share information from WHO with their followers (http://www.euro.who.int/en/countries/turkey/news/news/2020/5/turkish-celebrities-join-un-and-who-to-help-convey-key-covid-19-messages).
+
+- In the 'subject in focus' below, WHO lists 8 key criteria for the ethical acceptability of COVID-19 human challenge studies.
+
+Subject in focus: COVID-19 -- Key criteria for the ethical acceptability of COVID-19 human challenge studies
+----------------------------------------------------------
+The widespread use of safe and efficacious vaccines for COVID-19 could save many lives, prevent disease, and permit the safe relaxation of other public health measures. There is thus an urgent ethical imperative for well-designed and carefully conducted research aimed at developing such vaccines and increasing relevant scientific knowledge regarding SARS-CoV-2. Controlled human infection studies, also known as human challenge studies, have been proposed as one means of testing the many vaccine candidates for SARS-CoV-2. In response to the need for ethical guidance to inform policy and decisions regarding the potential development of such research programmes, WHO has developed key criteria that COVID-19 challenge study programmes would need to meet to ensure that such research is conducted to the highest ethical standards.
+
+The full report can be found at https://www.who.int/ethics/publications/key-criteria-ethical-acceptability-of-covid-19-human-challenge/en/.
+
+Table 1. 8 criteria for SARS-CoV-2 challenge studies
+Scientific and ethical assessments:
+- Criterion 1: Scientific justification -- SARS-CoV-2 challenge studies must have strong scientific justification
+- Criterion 2: Assessment of risks and potential benefits -- It must be reasonable to expect that the potential benefits of SARS-CoV-2 challenge studies outweigh risks
+
+Consultation and coordination:
+- Criterion 3: Consultation and engagement -- SARS-CoV-2 challenge research programmes should be informed by consultation and engagement with the public as well as relevant experts and policy-makers
+- Criterion 4: Coordination -- SARS-CoV-2 challenge study research programmes should involve close coordination between researchers, funders, policy-makers and regulators
+
+Selection criteria:
+- Criterion 5: Site selection -- SARS-CoV-2 challenge studies should be situated where the research can be conducted according to the highest scientific, clinical and ethical standards
+- Criterion 6: Participant selection -- SARS-CoV-2 challenge study researchers should ensure that participant selection criteria limit and minimize risk
+
+Review and consent:
+- Criterion 7: Expert review -- SARS-CoV-2 challenge studies should be reviewed by a specialized independent committee
+- Criterion 8: Informed consent -- SARS-CoV-2 challenge studies must involve rigorous informed consent
+
+Surveillance
+------------
+[The following data come from "Situation in numbers". The regional case totals are inclusive of China. - Mod.MPP]
+
+WHO region (no. countries/territories): Total confirmed cases (new) / Total deaths (new)
+Western Pacific Region (19): 156 184 (1300) / 6361 (34)
+European Region (61): 1 626 037 (32 209) / 150 238 (2458)
+South East Asia Region (10): 81 808 (4810) / 2936 (115)
+Eastern Mediterranean Region (22): 229 198 (7968) / 8465 (175)
+Region of the Americas (54): 1 542 829 (35 681) / 84 804 (3734)
+African Region (48): 35 470 (1497) / 1228 (23)
+Other:
+Cases on an international conveyance (Diamond Princess): 712 (0) / 13 (0)
+
+Confirmed cases (new conf cases) / Total deaths (new deaths)
+Grand total: 3 672 238 (83 465) / 254 045 (6539)
+
+--
+communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The number of countries and territories reporting confirmed cases of COVID-19 to WHO remains at 214. This includes 19 countries (including 4 territories) from the Western Pacific region, 61 countries (including 7 territories) from the European region, 10 countries from the South East Asia region, 22 countries (including 1 territory) from the Eastern Mediterranean region, 54 countries (including 19 territories) from the Americas region, and 48 countries (including 2 territories) from the African region.
+
+In the 24 hours since the last WHO update:
+------------------------------------------
+The Americas region reported 35 681 new cases (42.8% of the global newly reported cases), and 3734 deaths (57.1%) were recorded for this 24-hour period. Of the newly confirmed cases in the region, 62.4% were reported by the USA, followed by Brazil at 19.4%, and Peru at 10.7%. Recognizing the USA data are overshadowing the regional proportions, without including the reported newly confirmed cases from the USA, Brazil reported 51.7% of the newly reported cases in the region, followed by Peru at 28.5%, Mexico at 8.4%, and Chile at 7.7%. Ecuador did not report any new cases.
+
+The European region reported 32 209 new cases (38.6% of the global newly reported cases) and 2458 deaths (37.6%). Russia reported 34.9% of the newly confirmed cases in the region, the UK 19.3%, France 13.0%, Turkey 7.0%, Italy 4.5%, and Spain 3.1%.
+
+The Eastern Mediterranean region reported 7968 new cases (9.6% of the global newly reported cases) and 175 deaths (2.7%). Saudi Arabia reported 21.2% of the regional newly reported cases, followed by Iran at 21.1%, Pakistan at 19.3%, Qatar 10.4%, and the United Arab Emirates at 6.9%.
+
+The African region reported 1497 new cases (1.8% of the global newly reported cases) and 23 deaths (0.4%). South Africa reported 24.7% of the newly reported cases in the region in the past 24 hours, followed by Guinea-Bissau at 14.4%, Nigeria at 13.0%, Algeria at 10.6%, Senegal at 7.0%, and the DR Congo at 6.2%.
+
+The Western Pacific region reported 1300 new cases (1.6% of the global newly reported cases) and 34 deaths (0.5%). Singapore reported 60.6% of the newly reported cases, followed by the Philippines at 24.6%, and Japan at 8.4%. Removing Singapore from the denominator has the Philippines at 62.5%, Japan at 21.3%, Malaysia at 8.8%, and Australia at 5.1%.
+
+The South East Asia region reported 4810 new cases (5.8% of the global newly reported cases) and 115 deaths (1.8%). India reported 74.0% of newly reported cases, followed by Bangladesh at 16.4% and Indonesia at 7.6%. Removing India from the denominator, Bangladesh represents 63.3% of the newly reported cases, Indonesia represents 29.4%, the Maldives at 3.6%, and Sri Lanka at 2.1%.
+
+Figure 2. Epidemic curve of confirmed COVID-19 cases, by date of report and WHO region, 30 Dec 2019 through 7 May 2020, at the source URL above, is an excellent representation of the epidemic starting in the Western Pacific, transitioning to multiregional activity as the virus travelled. One sees the contribution of the ongoing epidemics in Europe and the increasing cases in the Americas region, fueled by the USA, but other countries are following suit. The curve tends to drop over the weekends and rebounds following the weekend. Europe has not been rebounding as high at the end of the weekend, demonstrating decreasing newly confirmed cases. South East Asia has been gradually increasing as the cases continue increasing in India.
+
+A somewhat repetitive but necessary reminder: It is clear that the number of reported confirmed cases differs from different reporting websites and is somewhat a function of time of day the website is updated. For example, I note the time we've accessed the Johns Hopkin's CSSE or Worldometer website, but by the time the post is actually finished with the editing process, those numbers have, at times, significantly changed. Case counting is clearly a moving target, and depending upon when the website updates, the numbers may be different. I try to start each post with the latest figures for the calendar day (the John Hopkins CSSE or Worldometer table) and close with the figures from the start of the calendar day (the WHO tables), defining the calendar day as DST (now GMT-4). - Mod.MPP]
+See Also
+COVID-19-update (163): China, S Korea, countries w/ high local transm, Pakistan 20200507.7309725
+COVID-19 update (162): global, WHO 20200506.7306556
+COVID-19-update (161): China, S Korea, countries w/ high local transm, Iran 20200506.7304317
+COVID-19 update (160): global, France Dec 2019 case, tocilizumab, WHO, RFI 20200506.7304287
+Undiagnosed pediatric inflammatory syndrome (03): USA, Europe, COVID-19 susp, RFI 20200505.7299876
+COVID-19 update (150): global, USA state prisons, WHO 20200502.7290671
+Undiagnosed pediatric inflammatory syndrome (02): France, UK, COVID-19 susp, RFI 20200430.7286479
+Undiagnosed pediatric inflammatory syndrome: UK, COVID-19 suspected, alert, RFI 20200427.7273105
+COVID-19 update (140): China, South Korea, countries w/ high local transmission 20200429.7278751
+COVID-19 update (130): USA (NY) animal, zoo, tiger, lion, new cases 20200425.7266556
+COVID-19 update (120): China, S. Korea & high local transmission countries 20200422.7253115
+COVID-19 update (110): global, asymptomatic infections ship and shelter, WHO 20200418.7238904
+COVID-19 update (100): China, S. Korea & high local transmission countries 20200413.7217806
+COVID-19 update (90): countries with high local transmission 20200408.7198238
+COVID-19 update (80): global, countries with high transmission, vaccine 20200405.7184331
+COVID-19 update (70): China (Hong Kong) animal, cat, pets & stock 20200402.7173286
+COVID-19 update (60): global, cruise ships, lessons learned, WHO 20200329.7156949
+COVID-19 update (50): China (Hong Kong) animal dog, 2nd case PCR positive, OIE 20200323.7129951
+COVID-19 update (40): global, Europe epicenter, lockdown, phone tracking, WHO 20200315.7092618
+COVID-19 update (30): China (Hong Kong) animal, dog, susp, serology pending 20200306.7057595
+COVID-19 update (20): China, global, Italy, Iran, Nigeria, imported cases, WHO 20200228.7032761
+COVID-19 update (10): China, global, Iran, WHO 20200219.7005749
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (41): China, global, clinical pics, asymptomatic trans., WHO 20200210.6976117
+Novel coronavirus (40): animal reservoir, pangolin poss intermediate host, RFI 20200210.6972104
+Novel coronavirus (30): updates, China, Viet Nam, research 20200202.6945658
+Novel coronavirus (20): China, wildlife trade ban 20200127.6922060
+Novel coronavirus (10): China (HU, GD, BJ) 20200119.6898567
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia - China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia - China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+---
+Undiagnosed pneumonia - China (HU): RFI 20191230.6864153
+.................................................sb/sh/mhj/mpp/mj/sh
+</body>

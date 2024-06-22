@@ -1,0 +1,283 @@
+<header id=028189>
+Published Date: 2022-02-16 10:44:33 EST
+Subject: PRO/AH/EDR> COVID-19 update (49): Eurosurv., transm.&screen., long COVID, mRNA omicron, WHO
+Archive Number: 20220216.8701479
+</header>
+<body id=028189>
+CORONAVIRUS DISEASE 2019 UPDATE (49): EUROSURVEILLANCE, TRANSMISSION, SCREENING, LONG COVID, MRNA OMICRON VACCINE, WHO
+**********************************************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] Eurosurveillance
+[A] SARS-CoV2 transmission
+A1. France
+A2. Denmark
+[B] Screening tests and epidemiologic prediction
+[C] France (Normandy)
+[D] Netherlands
+[2] Long COVID
+[3] m-RNA omicron
+[4] WHO: Daily new cases reported (as of 14 Feb 2022)
+[5] Global update: Worldometer accessed 14 Feb 2022 20:12 EST (GMT-5)
+
+******
+[1] Selections from Eurosurveillance
+Date: Sat 12 Feb 2022
+Source: Source: Eurosurveillance 2022, 27(6) [edited]
+https://www.eurosurveillance.org/content/eurosurveillance/27/6
+
+----
+[A] SARS-CoV2 transmission
+A1. France
+Citation: Paireau J, Mailles A, Eisenhauer C, et al. Early chains of transmission of COVID-1 in France, January to March 2020. Euro Surveill. 2022; 27(6): pii=2001953; https://doi.org/10.2807/1560-7917.ES.2022.27.6.2001953
+
+Introduction: SARS-CoV-2, the virus that causes COVID-19, has spread rapidly worldwide. In January 2020, a surveillance system was implemented in France for early detection of cases and their contacts to help limit secondary transmissions.
+
+Aim: To use contact-tracing data collected during the initial phase of the COVID-19 pandemic to better characterise SARS-CoV-2 transmission.
+
+Methods: We analysed data collected during contact tracing and retrospective epidemiological investigations in France from [24 Jan -- 30 Mar 2020]. We assessed the 2ary clinical attack rate and characterised the risk of a contact becoming a case. We described chains of transmission and estimated key parameters of spread.
+
+Results: During the study period, 6082 contacts of 735 confirmed cases were traced. The overall 2ary clinical attack rate was 4.1% (95% confidence interval (CI :3.6 to 4.6), increasing with age of index case and contact. Compared with co-workers/friends, family contacts were at higher risk of becoming cases (adjusted odds ratio (AOR): 2.1, 95% CI: 1.4 to 3.0) and nosocomial contacts were at lower risk (AOR: 0.3, 95% CI: 0.1 to 0.7). Of 328 infector/infectee pairs, 49% were family members. The distribution of 2ary cases was highly over-dispersed: 80% of 2ary cases were caused by 10% of cases. The mean serial interval was 5.1 days (interquartile range (IQR): 2 8 days) in contact tracing pairs, where late transmission events may be censored, and 6.8 (3 8) days in pairs investigated retrospectively.
+
+Conclusion. This study increases knowledge of SARS-CoV-2 transmission, including the importance of superspreading events during the onset of the pandemic.
+
+A2. Denmark
+Citation: Plesner LF, Carsten K, Tariq H, et al. Nationwide study on SARS-CoV-2 transmission within households from lockdown to reopening, Denmark, 27 Feb 2020 to 1 Aug 2020. Euro Surveill. 2022; 27(6): pii =2001800; https://doi.org/10.2807/1560-7917.ES.2022.27.6.2001800
+
+Background: The COVID-19 pandemic is one of the most serious global public health threats of recent times. Understanding SARS-CoV-2 transmission is key for outbreak response and to take action against the spread of disease. Transmission within the household is a concern, especially because infection control is difficult to apply within this setting.
+
+Aim: The objective of this observational study was to investigate SARS-CoV-2 transmission in Danish households during the early stages of the COVID-19 pandemic.
+
+Methods: We used comprehensive administrative register data from Denmark, comprising the full population and all COVID-19 tests from [27 Feb 2020 -- 1 Aug 2020], to estimate household transmission risk and attack rate.
+
+Results: We found that the day after receiving a positive test result within the household, 35% (788/2226) of potential 2ary cases were tested and 13% (98/779) of these were positive. In 6782 households, we found that 82% (1827/2226) of potential 2ary cases were tested within 14 days and 17% (371/2226) tested positive as 2ary cases, implying an attack rate of 17%. We found an approximate linear increasing relationship between age and attack rate. We investigated the transmission risk from 1ary cases by age, and found an increasing risk with age of 1ary cases for adults (aged 15 years), while the risk seems to decrease with age for children (aged 15 years).
+
+Conclusions: Although there is an increasing attack rate and transmission risk of SARS-CoV-2 with age, children are also able to transmit SARS-CoV-2 within the household.
+
+----
+[B] Screening tests and epidemiologic prediction
+Citation: Alizon S, Selinger C, Sofonea Mircea T, et al. Epidemiological and clinical insights from SARS-CoV-2 RT-PCR crossing threshold values, France, January to November 2020. Euro Surveill. 2022; 27(6): pii=2100406; https://doi.org/10.2807/1560-7917.ES.2022.27.6.2100406
+
+Background: The COVID-19 pandemic has led to an unprecedented daily use of RT-PCR tests. These tests are interpreted qualitatively for diagnosis, and the relevance of the test result intensity, i.e. the number of quantification cycles (Cq), is debated because of strong potential biases.
+
+Aim: We explored the possibility to use Cq values from SARS-CoV-2 screening tests to better understand the spread of an epidemic and to better understand the biology of the infection.
+
+Methods: We used linear regression models to analyse a large database of 793 479 Cq values from tests performed on more than 2 million samples between [21 Jan and 30 Nov 2020], i.e. the first 2 pandemic waves. We performed time series analysis using autoregressive integrated moving average (ARIMA) models to estimate whether Cq data information improves short-term predictions of epidemiological dynamics.
+
+Results: Although we found that the Cq values varied depending on the testing laboratory or the assay used, we detected strong significant trends associated with patient age, number of days after symptoms onset or the state of the epidemic (the temporal reproduction number) at the time of the test. Furthermore, knowing the quartiles of the Cq distribution greatly reduced the error in predicting the temporal reproduction number of the COVID-19 epidemic.
+
+Conclusion: Our results suggest that Cq values of screening tests performed in the general population generate testable hypotheses and help improve short-term predictions for epidemic surveillance.
+
+----
+[C] France: Normandy
+Citation: Mastrovito B, Naimi C, Kouam L, et al. Investigation of outbreak cases infected with the SARS-CoV-2 B.1.640 variant in a fully vaccinated elderly population, Normandy, France, November to December 2021. Euro Surveill. 2022; 27(6): pii=2200078; https://doi.org/10.2807/1560-7917.ES.2022.27.6.2200078
+
+Three confirmed infections with the SARS-CoV-2 B.1.640 variant under monitoring were reported in Normandy, north-western France in late November 2021. Investigations led to the identification of 2 events linked to the same cluster. A total of 75 confirmed and probable B.1.640 cases were reported. All had completed the primary vaccination series. As many as 62 cases were older than 65 years. A total of 56 cases had symptoms and 4 were hospitalised. This investigation provides preliminary results concerning a variant with limited information currently available.
+
+----
+[D] Netherlands
+Citation: Backer Jantien A, Eggink Dirk, Andeweg Stijn P, et al. Shorter serial intervals in SARS-CoV-2 cases with omicron BA.1 variant compared with delta variant, the Netherlands, 13 to 26 December 2021. Euro Surveill. 2022; 27(6): pii=2200042; https://doi.org/10.2807/1560-7917.ES.2022.27.6.2200042
+
+The SARS-CoV-2 omicron variant has a growth advantage over the delta variant because of higher transmissibility, immune evasion or shorter serial interval. Using S gene target failure (SGTF) as indication for omicron BA.1, we identified 908 SGTF and 1,621 non-SGTF serial intervals in the same period. Within households, the mean serial interval for SGTF cases was 0.2 0.6 days shorter than for non-SGTF cases. This suggests that the growth advantage of omicron is partly due to a shorter serial interval.
+
+--
+Communicated by:
+ProMED from HealthMap Alerts
+
+******
+[2] Long COVID
+Date: Mon 14 Feb 2022
+Source: CIDRAP (Center for Infectious Disease Research and Policy) [abridged, edited]
+https://www.cidrap.umn.edu/news-perspective/2022/02/scientists-propose-cause-symptoms-treatment-long-covid-19
+
+
+Two studies to be presented at upcoming professional society meetings suggest that some long COVID-19 symptoms may be related to the effect of SARS-CoV-2 on the vagus nerve and that the use of enhanced external counterpulsation (EECP) --which increases blood flow-- can improve some of those symptoms, respectively.
+
+Long COVID may affect up to 15% of those who survive their infections, causing symptoms such as fatigue, muscle pain, and cognitive problems that linger for months. Neither study has been peer-reviewed, and the second one comes with the added caveat that it was conducted by an EECP provider.
+
+Long COVID, vagus nerve symptoms may overlap
+--------------------------------------------
+At the European Congress of Clinical Microbiology and Infectious Diseases (ECCMID), slated for 23 -26 Apr in Lisbon, Portugal, a team led by researchers in Spain will discuss the role of the vagus nerve in long COVID, according to an ECCMID news release. [https://www.eurekalert.org/news-releases/943102]
+
+The vagus nerve runs from the brain into the torso, heart, lungs, intestines, and several muscles, including those involved in swallowing. It has a role in heart rate, speech, the gag reflex, the transfer of food from the mouth to stomach, transporting food through the intestines, perspiration, and other bodily functions.
+
+The study authors said that SARS-CoV-2 infection may lead to long COVID symptoms such as dysphonia (voice problems), dysphagia (difficulty swallowing), dizziness, tachycardia (rapid heart rate), orthostatic hypotension (low blood pressure), and diarrhea. Long COVID has been reported to last for months to more than a year.
+
+In the observational study, the researchers evaluated the morphologic and functional aspects of the vagus nerve in 348 patients diagnosed as having long COVID at a Spanish hospital from March -- June 2021. Of the 348, 228 (66%) had at least one symptom that could be attributed to vagus nerve dysfunction (VND).
+
+The ongoing study involved the first 22 participants identified as having at least one VND symptom; 91% of them were women, and the median age was 44 years. The most common VND symptoms were diarrhea (73%), tachycardia (59%), dizziness, dysphagia and dysphonia (45% each), and orthostatic hypotension (14%).
+
+"Our findings so far thus point at vagus nerve dysfunction as a central pathophysiological feature of long COVID," the researchers said in the release.
+
+Improvement in functional scores, fatigue after EECP
+----------------------------------------------------
+In a retrospective study to be presented this week at the American College of Cardiology's (ACC's) virtual Cardiovascular Summit, scientists from EECP provider Flow Therapy evaluated the effect of the therapy in 50 COVID-19 survivors, according to an ACC news release. Twenty patients had coronary artery disease (CAD), while 30 did not; average age was 54 years. [https://www.eurekalert.org/news-releases/943061]
+
+EECP uses contracting and relaxing pneumatic cuffs on the calves, thighs, and lower hip area to provide oxygen-rich blood to the heart muscle, brain, and the rest of the body. Each session takes 1 hour, and patients may undergo as many as 35 sessions over 7 weeks.
+
+All patients completed the Seattle Angina Questionnaire-7 (SAQ7), Duke Activity Status Index (DASI), PROMIS Fatigue Instrument, Rose Dyspnea Scale (RDS), and the 6-minute walk test (6MWT) before and after they completed 15 -- 35 hours of EECP therapy.
+
+The analysis showed statistically significant improvements in all areas assessed, including 25 more points for health status on the SAQ7 (range, 0 -- 100), 20 more points for functional capacity on DASI (range, 0 -- 58.2), 6 fewer points for fatigue on PROMIS (range, 4 -- 20), 50% lower shortness of breath score on the RDS, and 178 more feet on the 6MWT.
+
+The change from baseline among participants who had long COVID but not CAD was significant for all end points, but there was no difference between long COVID patients with or without CAD.
+
+"Emerging data shows that long COVID is a disease that impacts the health of vessels, also known as endothelial function," senior author Sachin Shah, PhD, said in the release. "EECP is a disease-modifying, non-invasive therapy that has previously shown to improve endothelial function in controlled clinical trials."
+
+--
+Communicated by:
+Mary Marshall
+<mjm2020@googlemail.com>
+
+******
+[3] Vaccine: m-RNA omicron
+Date: Fri 4 Feb 2022
+Source: Nature [abridged, edited]
+https://doi.org/10.1101/2022.02.03.479037
+
+
+Citation: Gagne M, Moliva JI, Foulds KE, et al. mRNA-1273 or mRNA-omicron boost in vaccinated macaques elicits comparable B cell expansion, neutralizing antibodies and protection against omicron. bioRxiv 2022.02.03.479037 [preprint]
+--------------------------------------------------------------------------------
+Summary
+SARS-CoV-2 omicron is highly transmissible and has substantial resistance to antibody neutralization following immunization with ancestral spike-matched vaccines. it is unclear whether boosting with omicron-specific vaccines would enhance immunity and protection. Here, nonhuman primates that received mRNA-1273 [a novel lipid nanoparticle (LNP)-encapsulated mRNA-based vaccine that encodes for a full-length, prefusion stabilized spike (S) protein of SARS-CoV-2. - Mod.LK] at weeks 0 and 4 were boosted at week 41 with mRNA-1273 or mRNA-omicron. Neutralizing antibody titers against D614G were 4760 and 270 reciprocal ID50 at week 6 (peak) and week 41 (pre-boost), respectively, and 320 and 110 for omicron. Two weeks after boost, titers against D614G and omicron increased to 5360 and 2980, respectively, for mrna-1273 and 2670 and 1930 for mrna-omicron. Following either boost, 70-80% of spike-specific B cells were cross-reactive against both WA1 and omicron. Significant and equivalent control of virus replication in lower airways was observed following either boost. Therefore, an omicron boost may not provide greater immunity or protection compared to a boost with the current mRNA-1273 vaccine.
+
+Discussion
+Variant-matched vaccines may be preferable in the future if new variants were to emerge that were even further antigenically distant such that cross-reactive epitopes are rendered ineffective or if there were differences in the durability of neutralizing antibody titers elicited by different boosts. Second, as neutralizing antibody titers wane with time after vaccination, their ability to serve as a surrogate for vaccine efficacy or to predict clinical outcomes against severe disease after infection with VOC may become diminished. Thus the determination of when to administer a boost may depend on the recall capacity of the underlying memory B cell population. These considerations will become clear as human clinical data are made available.
+
+--
+Communicated by:
+Mary Marshall
+<mjm2020@googlemail.com>
+
+********
+[4] WHO: Daily new cases reported (as of 14 Feb 2022)
+Date: Mon 14 Feb 2022
+Source: WHO [abridged, edited]
+https://covid19.who.int/table
+
+
+*Daily case reports as of 14 Feb 2022 16:48 CET
+
+Surveillance
+------------
+WHO region (no. countries/territories):
+Total confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+--------------------------------------------------------------------------------
+Western Pacific Region (19): 19 089 274 (230 025) / 173 201 (337)
+European Region (61): 165 259 813 (828 463) / 1 818 245 (2411)
+South East Asia Region (10): 54 369 299 (91 042) / 753 068 (544)
+Eastern Mediterranean Region (22): 20 426 713 (77 624) / 327 243 (448)
+Region of the Americas (54): 143 190 545 (424 674) / 2 572 063 (4870)
+African Region (49): 8 229 460 (3288) / 167 047 (44)
+Cases on an international conveyance: 764 (0) / 13 (0)
+
+Confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+Grand total: 410 565 868(1 655 116) / 5 810 880 (8654)
+
+--
+Communicated by:
+ProMED
+
+[Data by country, area, or territory for 14 Feb 2022 can be accessed at https://promedmail.org/wp-content/uploads/world-pdf/2022%20WHO%20Data%20Tables%20FEB14_1644945566.pdf.
+
+- The Americas region reported 25.6% of cases and 56.2% of deaths in the past 24 hours having reported more than 143.19 million cases, second to the European region, as the most severely affected region. The USA reported 169 757 cases followed by, Brazil, Chile, Mexico, Argentina, and Peru. An additional 8 countries reported more than 1000 cases (Colombia, Bolivia, Paraguay, Ecuador, Uruguay, Panama, Venezuela, Guatemala), in the past 24 hours. Additionally, Trinidad & Tobago and Cuba reported more than 500 but fewer than 1000 cases.
+
+- The European region reported 50% of daily case numbers and 27.8% of the daily deaths reported in the past 24 hours, as the most effected region, with cumulative cases exceeding 165.25 million. Some countries reporting few or no cases in the last 24 hours or longer include Spain, Belgium, Sweden and Switzerland, among others. A total of 34 countries reported more than 1000 cases in the past 24 hours, 1 reporting more than 100,000 cases, 14 reporting more than 10 000, 16 reporting over 1000 cases, and an additional 3 countries reported more than 500 but fewer than 1000 cases.
+
+- The Eastern Mediterranean region reported 4.6% of daily case numbers and 5.1% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 20.42 million cases. Iran (25 812) reported the highest number over the last 24 hours followed by, Jordan, Bahrain, Lebanon, Iraq, Pakistan, Kuwait, Libya, Occupied Palestinian Territory, Saudi Arabia, UAE, and Oman. Qatar and Morocco reported more than 500 but less than 1000 cases over the last 24 hours.
+
+- The African region reported 0.19% of daily case numbers and 0.5% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 8.22 million cases. South Africa (1649) reported the highest number of cases followed by Algeria (526). Most countries reported less than 100 or 50 cases over the last 24 hours. A total of 20 countries/territories did not report cases over the last 24 hours.
+
+- The Western Pacific region reported 13.8 % of daily case numbers and 3.8% deaths in the past 24 hours, having reported a cumulative total of more than 19.08 million cases. Japan (80 234), reported the highest number of cases over the last 24 hours followed by South Korea, Vietnam, Australia, Malaysia, Singapore, Philippines, Mongolia China and New Zealand.
+
+- The South East Asia region reported 5.5% of the daily newly reported cases and 6.2% of reported deaths in the past 24 hours, having reported a cumulative total of more than 54.36 million cases. Indonesia is dominant, reporting 36 501 cases during the last 24 hours, followed by India (34 113), Thailand (14 900), Bangladesh (4692) and Nepal (482). Sri Lanka, Myanmar, and Maldives, among others did not report cases over the last 48 hours.
+
+On the Overview tab at the WHO source URL, the epidemic curve of confirmed COVID-19 cases by WHO region, 30 Dec 2019 through 14 Feb 2022, is an excellent visual representation of the pandemic. - Mod.UBA]
+
+******
+[5] Global update: Worldometer accessed 14 Feb 2022 20:12 EST (GMT-5)
+Date: Mon 14 Feb Jan 2022
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+Total number of reported deaths: 5 844 728
+Total number of worldwide cases: 413 977 604
+Number of newly confirmed cases in the past 24 hours: 1 719 205
+
+--
+Communicated by:
+ProMED
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at https://promedmail.org/wp-content/uploads/world-pdf/2022%20WORLDDATA%20FEB14_1644945588.pdf.
+
+A 7-day series of cumulative data reported by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/2022%20FEB14WORLD7_1644945615.pdf. - Mod.UBA]
+
+[In the past 24 hours, 42 countries including the USA (189 821), Russia (180 456), Germany (127 449), Brazil (58 100), France (26 475), Japan (63 581), Turkey (76 632), UK (41 170), The Netherlands (55 011), Italy (28 776), South Korea (57 175), India (27 409), Spain (68 706), Denmark (28 013), Ukraine (16 993), Indonesia (36 501), Chile (31 286), Poland (13 473), Austria (24 565), Iran (28 956), Australia (28 645), Israel (25 430), Vietnam (29 413), Norway (14 058), Romania (12 069), Switzerland (48 796), Malaysia (21 315), Georgia (19 968), Jordan (22 113), Ecuador(17 670), Greece (20 360), Argentina (13 050), Thailand (14 373), Belgium (15 242), Ireland (12 765), El Salvador (12 677), Finland (12 410), Hungary (21 081), and Canada (12 663), reported the highest numbers of cases, all reporting more than 10 000 newly confirmed cases. A global total of 10 431 deaths were reported in the preceding 24 hours (late 12 Feb 2022 to late 13 Feb 2022). The exponential rise in cases over the last few weeks can be attributed to the rapid spread of the omicron variant globally. The 7-day averages indicate a decreasing global trend for cases and deaths.
+
+A total of 78 countries reported more than 1000 cases in the past 24 hours; 40 of the 78 countries are from the European region, 12 are from the Americas region, 14 are from the Eastern Mediterranean region, 6 are from the Western Pacific region, 4 from the South East Asia region, and 2 are from the African region.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, case counts have decreased by 21.7%, while daily reported deaths have decreased by 1.7%. Similar comparative 7-day averages in the USA show a 46.7% decrease in daily reported cases and an 8.1% decrease in reported deaths.
+
+Impression: The global daily reported over 1.71 million newly confirmed infections in the past 24 hours with over 413.97 million cumulative reported cases and over 5.84 million reported deaths. Despite some decrease in the number of cases, transmission continues at a very high level. - Mod.UBA]
+See Also
+COVID-19 update (47): Russia, antivirals, genomic surv, child vacc, WHO 20220213.8701430
+COVID-19 update (46): J&J vacc, cardiovascular, South Asia, WHO 0220212.8701412
+COVID-19 update (45): Indonesia vaccine, numbers, EU, CDC, WHO 20220211.8701390
+COVID-19 update (44): pregnancy, maternal Ab, booster, WHO 20220209.8701365
+COVID-19 update (43): animal, USA, wild deer, omicron 20220209.8701357
+COVID-19 update (42): Paxlovid, children, mAb, omicron, WHO 20220208.8701334
+COVID-19 update (41): vaccine, nasal, Spikevax, long COVID, mRNA Africa, WHO 20220206.8701297
+COVID-19 update (40): Denmark, rosemary, pregnancy, stroke, WHO 20220205.8701276
+COVID-19 update (39): prisons, imaging, BMI & mortality, variants, WHO 20220204.8701247
+COVID-19 update (38): virus shedding, Argentina, deaths, tests, WHO, global 20220203.8701225
+COVID-19 update (37): omicron subvariant BA.2, disabilities, long COVID, WHO 20220202.8701201
+COVID-19 update (36): animal, human, China (Hong Kong) hamster, foreign origin 20220130.8701158
+COVID-19 update (35): omicron origin, antibody response, updates, HiP-CT, WHO 20220130.8701157
+COVID-19 update (34): booster dose, mix & match vaccines, pulse oximeters, WHO 20220128.8701138
+COVID-19 update (33): Moderna boosters, deaths, long COVID, WHO 20220128.8701120
+COVID-19 update (32): omicron, Europe, Asia, psychological toll, myocarditis, WHO 20220127.8701099
+COVID-19 update (31): animal, human, China (Hong Kong) hamster, origin discussed 20220126.8701086
+COVID-19 update (30): variants in immuno-comp., stability, endemic, WHO 20220126.8701074
+COVID-19 update (29): risk assessment, cognitive impairment, global 20220124.8701055
+COVID-19 update (28): rapid tests, fertility, future, WHO 20220123.8701039
+COVID-19 update (27): wastewater, neurology, WHO 20220123.8701029
+COVID-19 update (26): animal, China (Hong Kong) hamster, OIE 20220122.8701017
+COVID-19 update (25): USA masks, nocebo effect, universal vacc, WHO 20220121.8700995
+COVID-19 update (24): USA home tests, Europe & Asia action, omicron, WHO 20220119.8700977
+COVID-19 update (23): animal, China (Hong Kong) hamster, public health hazard 20220119.8700956
+COVID-19 update (22): mobility, breath test, co-infection, Israel 4th dose, WHO 20220119.8700955
+COVID-19 update (21): neurology, isolation period cut 20220117.8700934
+COVID-19 update (20): Africa vacc., Taiwan, waning immunity, persistence, global 20220117.8700915
+COVID-19 update (10): animal, omicron origin statement, OIE 20220110.8700763
+COVID-19 update (01): omicron severity & changes, Germany, T-cell reactivity 20220101.8700616
+2021
+---
+COVID-19 update (452): rapid test, omicron, Ab neutralization, school, WHO 20211230.8700597
+COVID-19 update (451): animal, USA, wild deer 20211230.8700589
+COVID-19 update (450): maternal Abs, CDC isolation guidance, WHO 20211230.8700575
+COVID-19 update (400): animal, sheep, research, experimental infection 20211121.8699806
+COVID-19 update (350): boosters, deaths, cases, vaccines, WHO 20211014.8699041
+COVID-19 update (300): Norway, myocarditis, schools, new variant C.1.2, WHO 20210901.8638460
+COVID-19 update (200): animal, China, origin 20210608.8433657
+COVID-19 update (100): antibodies, vaccine, Thailand, Cambodia, WHO, global 20210316.8250009
+COVID-19 update (50): UK vaccine study, Brazil reinfection, WHO 20210205.8167161
+COVID-19 update (01): variants, vaccine, Thailand, global, WHO 20210101.80629382020
+2020
+---
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+COVID-19 update (562): viral load, UK vacc dose, ECDC, WHO 20201231.8061525
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia: China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia: China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+---
+Undiagnosed pneumonia: China (HU): RFI 20191230.6864153
+and other items in the archives
+.................................................sb/lk/uba/ao/jh
+</body>

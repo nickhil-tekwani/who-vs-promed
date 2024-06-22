@@ -1,0 +1,206 @@
+<header id=052601>
+Published Date: 2002-07-08 19:50:00 EDT
+Subject: PRO> Disease surveillance: enhancement (02)
+Archive Number: 20020708.4696
+</header>
+<body id=052601>
+DISEASE SURVEILLANCE: ENHANCEMENT (02)
+***************************************
+A ProMED-mail post
+<http://www.promedmail.org>
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+<http://www.isid.org>
+
+Date: Fri, 5 Jul 2002 08:23:19 +0100
+From: Pablo Nart <p.nart@virgin.net>
+Source: New York Times 4 Jul 2002 [edited]
+<http://www.nytimes.com/2002/07/04/technology/circuits/04SICK.html?ex=1026532>
+
+
+Computer networks have been used for years by public health officials to
+monitor outbreaks of disease. Typically, the networks compile a database of
+reports about sick patients from doctors or other health care workers and
+look for patterns of illness or symptoms. But the reporting and compiling
+can take a day or more, delaying detection of an outbreak.
+
+Even before the anthrax attacks in the United States last fall, public
+health experts had recognized a need for more rapid surveillance and
+detection, given that an outbreak may involve deliberate and widespread
+attempts to infect rather than the natural spread of contagion. Several
+universities and hospitals are developing systems to collect and analyze
+disease data immediately as soon as a patient is admitted to a hospital
+emergency room, for example.
+
+One such program, called Real-Time Outbreak and Disease Surveillance, or
+RODS, is being developed at the Center for Biomedical Informatics at the
+University of Pittsburgh. Since October, the program, financed primarily by
+the National Library of Medicine, has been receiving data about patients
+through a private computer network from 15 hospital emergency departments
+in Western Pennsylvania as soon as the patients are admitted.
+
+The information includes the chief complaint a patient gives to emergency
+room administrators, like respiratory problems, rashes or diarrhea. The
+system also notes the patient's age, time and date of visit, gender, and
+ZIP code. This information is kept separate from the patient's name,
+address and Social Security number to protect privacy.
+
+The system compares new reports with those in its database, looking for
+similarities. In addition, the RODS project uses geographic information
+systems software that maps the data to reveal any geographical patterns
+behind the surveillance information.
+
+"Our goal is to be able to analyze patterns and ask whether there is
+something unusual compared to the usual," said Dr. Michael Wagner,
+assistant professor of medicine at the University of Pittsburgh and
+director of the RODS Laboratory and the Biomedical Security Institute in
+Pittsburgh. Because it focuses on symptoms of patients seeking emergency
+care, delays in the detection of outbreaks could be cut significantly.
+
+"A lot of places receive data in batch mode at midnight," Dr. Wagner said.
+"This can mean delays in detection of up to 24 hours." The idea, he said,
+is that "if 10 people show up with diarrhea in the middle of the night,
+it's going to be detected at 3 a.m. rather than at midnight the next
+night." If those people are the first of many victims of a bioterrorism
+incident, one that will require large amounts of resources like medicine to
+fight, "those hours are going to make a difference," Dr. Wagner said.
+
+During the Winter Olympics in Salt Lake City in February, RODS linked to
+about 30 area hospitals and walk-in clinics. Although there were no
+incidents of bioterrorism during the games, the system did detect an
+influenza outbreak based on the number of patients who showed up with
+respiratory complaints.
+
+Ideally, as the RODS system evolves, it would find ways to link to other
+sources of data.
+
+"There's a torrent of information being collected routinely in real time,"
+Dr. Wagner said. "Over-the-counter sales of pharmaceuticals contain
+information that's very relevant to outbreaks of disease. Our goals include
+building a thin layer of data collection infrastructure on top of the
+existing data collection systems of health care and other
+industries." Another real-time disease surveillance program, the
+Children's Hospital Project in Boston, monitors its own complaint data and
+data from another Boston hospital, Beth Israel Deaconess Medical Center.
+Several other area hospitals have agreed to collaborate over the next year.
+Doctors involved in the project are particularly interested in exploring
+whether changes in patient behavior can be interpreted as early indicators
+of disease outbreaks.
+
+"When people get sick, their behavior changes, and some of these changes
+will influence their use of the health care system," said Dr. Kenneth
+Mandl, attending physician in pediatric emergency medicine at Children's
+Hospital in Boston. He is also a principal investigator of the Children's
+Hospital Project, which is financed by the federal Department of Health
+and Human Services.
+
+He said that the group was looking for "signature patterns" in sets of data
+from emergency departments to detect small and large surges in certain
+kinds of visits.
+
+If anthrax was released into a ventilation system in a school, for example,
+Dr. Mandl and his staff would look for increases in numbers of children
+showing up at hospitals with flulike symptoms over the course of each day,
+in addition to clusters of children coming in who lived near one
+another. The trick is having a foundation of data about normal behavior
+patterns for comparison, Dr. Mandl said. The Boston project is using a
+database with information on hundreds of thousands of patients who have
+been seen in the emergency department at Children's Hospital over the last
+8 years. Whether the goal is to get immediate access to information or not,
+disease surveillance systems face many hurdles, most notably the
+cooperation of doctors and hospitals in making patient information
+available in standardized form. Virtually everyone in the field agrees on
+the importance of developing systems that do not require any extra work
+from hospital personnel.
+
+"Doctors aren't very compliant about reporting, so the surveillance systems
+that rely on that kind of effort tend not to work very well," Dr. Mandl said.
+
+Others question whether patients' complaints are the most accurate way of
+gauging potential threats, or whether a doctors' diagnoses or requests for
+laboratory tests are a better indicator.
+
+"We think the clinician is going to give us a better picture of a potential
+syndrome rather than a patient's self-report," said Dr. Jeffrey Duchin, who
+oversees a system in the Seattle area that monitors patient discharge
+diagnoses in 12 emergency rooms.
+
+--
+ProMED-mail
+<promed@promedmail.org>
+
+[At present there is recognition that no one disease surveillance system is
+sufficient to capture all disease occurrence around the world, or even
+within a country or a region of a country. In many areas there are
+political constraints that create barriers to reporting. In addition, we
+still have not mastered how to overcome the barriers of reporting on the
+part of a very busy private sector.
+
+Another recognized limitation of disease surveillance is how to correct
+laboratory and clinical skill weaknesses that place constraints potentially
+leading to errors in diagnoses. To address this last issue, there has been
+an emphasis on the development of syndromic surveillance, which relies on
+the reporting of clinical syndromes rather than of diagnoses. This means
+that the presenting clinical symptoms of cases are reported (e.g. fever and
+respiratory illness, fever and hemorrhages, fever and neurologic
+symptoms). The Real-Time Outbreak and Disease Surveillance (RODS) system
+described in this article is such a system that is based on syndromic
+surveillance.
+
+At the International Conference on Emerging Infectious Diseases 2002, there
+were several presentations related to enhanced surveillance systems and
+real-time reporting. Readers are encouraged to view the webcasts of these
+presentations:
+<http://www.cdc.gov/iceid/webcast/a-z_topics.htm#surveillance_systems>
+
+In one of these presentations, Dr. Ray Arthur of WHO presented data on the
+information sources used by the Outbreak Response Team at WHO
+Geneva. Their data show that 45 percent of outbreak notifications come
+from unofficial sources such as the Canadian Global Public Health
+Information Network (GPHIN) and ProMED-mail.
+
+In a prior ProMED-mail posting (Bioterrorism: WHO guidance 20020126.3401),
+Mod. JW commented "One highly cost-effective way of improving national
+surveillance and alert mechanisms is to implement a national internet-based
+outbreak early warning network on the principles of ProMED-mail". At that
+time ProMED-mail requested information on alternative surveillance systems
+in development, and Dr. Zelicoff of Sandia Laboratories provided
+information on the Rapid Syndrome Validation Project (RSVP) being tested in
+New Mexico (Disease surveillance: enhancement 20020128.3424). The RSVP
+and RODS systems are both internet-based systems addressing real-time
+illness presenting to Emergency Rooms and in the case of RSVP, primary care
+providers. These systems appear to be very promising for providing
+complementary information. We look forward to hearing more results from
+the implementation of these and other complementary surveillance systems. -
+Mod.MPP]
+See Also
+Disease surveillance: enhancement 20020128.3424
+Bioterrorism: WHO guidance 20020126.3401
+1998
+----
+International health regulations, revisions 19980124.0177
+.............................sh/mpp/pg/mpp
+
+*##########################################################*
+ProMED-mail makes every effort to verify the reports that
+are posted, but the accuracy and completeness of the
+information, and of any statements or opinions based
+thereon, are not guaranteed. The reader assumes all risks in
+using information posted or archived by ProMED-mail. ISID
+and its associated service providers shall not be held
+responsible for errors or omissions or held liable for any
+damages incurred as a result of use or reliance upon posted
+or archived material.
+************************************************************
+Visit ProMED-mail's web site at <http://www.promedmail.org>.
+Send all items for posting to: promed@promedmail.org
+
+(NOT to an individual moderator). If you do not give your
+full name and affiliation, it may not be posted. Send
+commands to subscribe/unsubscribe, get archives, help,
+etc. to: majordomo@promedmail.org. For assistance from a
+human being send mail to: owner-majordomo@promedmail.org.
+
+############################################################
+############################################################
+</body>

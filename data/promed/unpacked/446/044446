@@ -1,0 +1,263 @@
+<header id=044446>
+Published Date: 2003-11-13 18:50:00 EST
+Subject: PRO/AH> SARS - worldwide (182): medical ecology
+Archive Number: 20031113.2815
+</header>
+<body id=044446>
+SARS - WORLDWIDE (182): MEDICAL ECOLOGY
+***************************************
+A ProMED-mail post
+<http://www.promedmail.org>
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+<http://www.isid.org>
+
+Date: Thu 6 Nov 2003
+From: Luis A Ruedas <ruedas@pdx.edu>
+
+Epidemiological Models: Comments on the Nature of a Viral Host
+--------------------------------------------------
+[Different interpretations have been placed on the demonstration by Martina
+et al. of experimental SARS virus infection of cats and ferrets (see: SARS
+- worldwide (181): host range 20031030.2701). My presumption has been that
+Martina et al. did not suggest that either ferrets or domestic cats are
+alternate reservoirs of the SARS coronavirus. Rather, their intention was
+to demonstrate experimentally that many animal species (not just captive
+raccoon dogs and civet cats) might transmit SARS coronavirus and that it is
+premature to jump to conclusions about the source of SARS coronavirus
+infection on the basis of rather arbitrary studies of captive animals in
+Chinese markets.
+My assumption has been that ferrets and cats were used in these experiments
+because these animals were available and convenient laboratory subjects.
+Dr. Ruedas presents a critique of these experiments from the standpoint of
+the discipline of Medical Ecology, which although mathematical in content,
+deserves consideration. - Mod.CP]
+In their brief communication on SARS virus infection in wild animals (ref.
+1) indicated that -- based on their findings -- distantly related
+carnivores (in their instance, ferrets and cats) could act as reservoirs
+for the SARS coronavirus (SCV). There are some potential pitfalls in their
+reasoning. Susceptibility is defined in medical terms as diminished
+immunity to a disease, especially an infection, or not having immunity to
+an infectious disease and thus [being] at risk of infection (ref 2). Can a
+reservoir, or host species, be susceptible to the virus it hosts? In
+certain instances of host-parasite co-evolutionary frameworks, the answer
+is yes: a malarial protozoan, _Plasmodium_, is conferred evolutionary
+advantage if its human host is incapacitated, because a healthy human
+easily could evade a mosquito, the flight speed of which is estimated at 5
+to 7 Km/h. Incapacitation of the host therefore increases the feeding
+opportunities for the mosquitoes and perpetuates the epidemic and enzootic
+cycles of malaria. In such a system, the vectorial capacity equation of
+Macdonald (ref. 3) may be arranged (ref. 4) to, VC = ma (P/F)(e^(-n/E))E
+where: ma = number of bites per human per day (estimated from human bait
+catches); P = proportion of blood meals taken on human hosts; F = days
+between blood meals (from lab studies); n = extrinsic incubation period
+(lab studies); and E = vector's life expectancy.
+It may be readily appreciated that incapacitation will significantly
+increase ma and P, hence the vectorial capacity will be significantly
+enhanced, to the benefit of _Plasmodium_. Anderson and May (ref. 5) listed
+a number of complicating factors in this system including the effects of
+longevity (on both human host and vector): decreased life-span in the human
+significantly impacts the dynamics of the disease (e.g., their mu [defined
+in next paragraph] less than 1 percent in equation 14.7 et seq.).
+A directly transmitted zoonosis such as SARS is at once a simpler and more
+complicated framework to model. A basic SIR
+(susceptible-infected-recovered) model of disease dynamics (ref. 6)
+consists of the 3 host cell categories (complicating for age, a, at time,
+t), thus: N(a, t) = X(a, t) + Y(a, t) + Z(a, t), where X, Y, and Z
+correspond to populations of each of the modeled categories (SIR); an
+additional category for a latent category (infected but not infectious), H,
+may be added. A basic set of differential equations describing this
+framework (ref. 5) is beyond the scope of this correspondence, but includes
+age-specific host death rate mu, recovery rate upsilon, disease induced
+mortality rate alpha, and a "force of infection" component, lambda. An
+ideal host species for a directly transmitted viral disease would have a
+negligible age-specific or otherwise alpha(a), hence upsilon(a) would be an
+irrelevant component of the epidemiological dynamics.
+In such a situation, the total number of hosts, N, is not equivalent to the
+traditional equation shown above, rather Z ~= 0, and Y would be a
+proportion of X, but because alpha(a) ~= 0, (i.e., mu + alpha ~= mu) the
+entire host population N can be uniformly modeled.
+An additional biological factor critical to adequate representation of the
+system is the basic reproductive rate, Rsub0, of the virus. Although
+technically this should represent the intrinsic reproductive rate of an
+organism, in terms of its representation in disease dynamics, Rsub0
+generally is symbolic of infections produced by an infected, infectious
+host or victim -- given that evolutionarily a virus is dead if it does not
+colonize a new host. In order to establish itself in a host (or victim)
+population -- or establish an equilibrium -- a virus would within this
+framework have Rsub0 > 1. Departures from equilibrium lead to R,
+the effective reproductive rate, discounted by the fraction of the host
+population being susceptible, x*, where R = Rsub0x* =1. Anderson and May
+(ref. 5) lucidly pointed out that Rsub0 must be proportional to the number
+(or density) of hosts candidate for infection such that Rsub0 = N/NsubT,
+where N is the population size and NsubT the threshold magnitude. For
+condition Rsub0 > 1, the corollary condition N > NsubT must hold.
+Synthesizing, it can readily be appreciated that a certain minimal number
+of intrinsic biological factors determine the suitability of an organism to
+be a potential host for a given virus. In the situation described by
+Martina et al. (ref. 1) it is clear that the ferret cannot in any way be
+considered a host. This is because the disease-induced mortality rate
+alpha, as Martina et al (ref. 1) suggest, would be so high that the total
+population mortality rate alpha+mu would not support the disease dynamics
+in a sustainable manner. Furthermore, ferrets exist in the wild in
+extremely low numbers (ref. 7). Hence the directly transmitted SCV would
+have an even lesser probability of transmission given the density-dependent
+dynamics of the epidemiological framework.
+There is, of course, a more essential flaw: the name _Mustela furo_ applies
+to domestic ferrets only. These animals are reproductively -- hence
+genetically -- identical to _M. putorius_, the polecat. That is to say, _M.
+furo_ as a species does not really exist, being no more than a series of
+individuals drawn from _M. putorius_. The natural range of _M. putorius_ is
+most of Europe east to the Ural Mountains. (ref. 8). Therefore, even were
+it not for the epidemiological dynamic considerations alluded to above, _M.
+"furo"_ perforce cannot be considered a potential host for SCV. If _M.
+"furo"_ are available in markets in Guangdong these are, by definition,
+imported, and beg the question: why is there no SARS in Europe? An allied
+species occupying a range including the epicenter of the SARS epidemic
+(ref. 8, 9), _M. sibirica_, could be considered as a potential host.
+However, the low densities prevalent in _M. putorius_ likewise exist in _M.
+sibirica_ and indeed in all species of the genus _Mustela_. As a
+consequence of the foregoing, mustelids it would seem should be discounted
+as hosts of SCV.
+In contrast, the situation reported by Martina et al. (ref. 1) regarding
+cats is far more worthy of note. The correct name (by first designation)
+applicable to these organisms is _Felis catus_ (ref. 8) (by Linnaeus in
+1758), rather than _F. silvestris_ (by Schreber in 1775) or _F. domesticus_
+(by Erxleben in 1777), all of which, despite their distinct names, cona = 0
+makes for highly effective transmission dynamics, as has been shown in
+hantaviruses and their rodent hosts (ref. 10).
+The typically exponential rise in proportion of infected hosts P(t), has
+been shown (ref. 5) to depend on the rate at which new infectives are being
+produced, lambda, such that P(t) = P(0)exp(lambda t). Furthermore, the
+biological quality lambda, depends on Rsub0 and on the parasite lifespan,
+D, such that lambda = (Rsub0 - 1)/D. Finally, in a host-virus framework
+such as SARS, D represents the duration of infectiousness; however, for
+chronically infected hosts (e.g., rodent hosts of Hantaviruses) D is
+effectively equivalent to the life-span of the host since the host is
+infected for life and sheds virus for life. Recall that in ferrets, D is
+severely curtailed by SCV infection due to the high mortality rate, alpha.
+In contrast, if cats are asymptomatically infected, alpha = 0, and if they
+are shown to be capable of chronic infection with a magnitude of D
+equivalent to their life-span (2-5 years in the wild and 12-14 years as
+pets), then the epidemiological potential of cats-SCV vis-a-vis humans-SARS
+would be of enormous extent. For these reasons, _Felis catus_ also must be
+discounted from consideration as the natural host of SCV. If it were the
+natural host, SCV and the consequent SARS infection of humans would be a
+quotidian affair on a global scale. Instead, it is arguably the first
+emergent infection of the 21st century with a focus in Guangzhou, Guangdong
+province, China. The fact that _F. catus_ is capable of asymptomatic
+transmission is, however, highly suggestive that perhaps another felid
+could be the host. In the focal area, the wild species _Prionailurus
+bengalensis_ (leopard cat) and _Catopuma temmincki_ (Golden cat) both
+occur, although the range of the former, including most of India,
+Indochina, and the Greater Sunda islands, makes it an unlikely candidate
+species for the natural host of SARS.
+Mathematical models representing epidemiological frameworks are of
+tremendous heuristic utility, as was recently shown in the pages of the
+journal Nature with respect to smallpox (ref. 6). These frameworks can and
+should also be used to determine probabilities of particular species being
+hosts, given certain minimal biological properties inherent to the species
+(e.g., geographic range). Medical ecology, integrating as it does disparate
+fields from mathematics, across epidemiology and medicine, to basic and
+applied ecology, has much to offer in the search for viral hosts: because
+of the medical impact of SARS on humans, discounting from consideration
+species that cannot be potential hosts is of particular importance in
+elucidating the epidemiology of this fascinating disease. Furthermore,
+given that cats are able to be infected but -- unlike humans -- do not
+manifest any clinical sign of disease, they are not an adequate animal
+model for testing therapies against the human virus.
+References:
+1. Martina, B. E. E. et al. Nature 425, 915 (2003).
+2. Dorland, W. A. N. Dorland's illustrated medical dictionary, 29th ed. (W.
+B. Saunders, London, 2000).
+3. MacDonald, G. Trop. Dis. Bull. 49, 813-828 (1952).
+4. Molineaux, L. et al. Bull. WHO 56, 565-571 (1978).
+5. Anderson, R. M., May, R. M. Infectious diseases of humans: dynamics and
+control. (Oxford Univ. Press, Oxford, 1991).
+6. Ferguson, N. M. et al. Nature 425, 681-685 (2003).
+7. Baghli, A., Verhagen, R. Mammal Rev. 33, 57-68 (2003).
+8. Wozencraft, W. C. Pp. 279-348 in: Wilson D. E., Reeder, D. M. (eds.)
+Mammal species of the world: a taxonomic and geographic reference, 2nd. Ed.
+(Smithsonian Institution Press, Washington D.C., 1992).
+9. Corbet, G. B., Hill, J. E. The mammals of the Indomalayan region: a
+systematic review. (Oxford Univ. Press, Oxford, 1992).
+10. Mills, J. N. et al. Emerg. Infect. Dis. 5, 135-142 (1999).
+--
+Luis A. Ruedas
+Department of Biology,
+Portland State University,
+Portland, Oregon 97207-0751
+<ruedas@pdx.edu>
+[While on the whole, Martina et al. concentrated on the potential use of
+cats and ferrets as animal models to test antiviral drugs or vaccines
+against the SARS coronavirus (SCV), they made certain bold comments that
+deserved questioning. In their first paragraph, they indicated that --
+based on the data they presented -- the reservoir for SCV could potentially
+involve a large number of animal species.
+Secondly -- and most importantly -- they indicated that their data
+supported the use of cats and ferrets as model animals. Dr. Ruedas seized
+on these items and argued from the perspective of mathematical epidemiology
+that neither species should be considered either as the natural host or as
+an animal model. Ruedas argued that the data provided by Martina et al.
+strongly argue in favor of considering a wild felid as a potential natural
+host, but the domestic cat would have caused human cases of SARS over a
+broad geographic area long before had it been the host.
+Ferrets, Ruedas argues, also are unlikely hosts due to their population
+biology: their densities are likely too low to support an enzootic cycle of
+SCV transmission. In addition, the ferret species examined in the Martina
+et al. paper does not naturally occur in China. The jury is still out on
+whether ferrets should be considered animal models. By Martina et al.'s
+own admission, although a large number of their 6 experimental ferrets died
+post-inoculation, none died of SARS or SARS-associated symptoms. Since
+none of the animals displayed chronic infection, the dynamics of the
+disease to some extent mirror those of humans. As such, ferrets should
+remain under consideration. However, the small sample size and high
+mortality from other causes (hepatic lipidosis and emaciation) for now
+preclude definitive conclusions. - Mod.CP]
+See Also
+SARS - worldwide (42): WHO historical overview 20030411.0878
+SARS - worldwide (48): etiology 20030414.0909
+SARS - worldwide (51): etiology 20030416.0925
+SARS - worldwide (53): etiology 20030417.0935
+SARS - worldwide (63): etiology 20030423.0994
+SARS - worldwide (64): etiology 20030423.0996
+SARS - worldwide (68): etiology 20030427.1039
+SARS - worldwide (82): etiology 20030501.1086
+SARS - worldwide (90): background 20030503.1112
+SARS - worldwide (91): etiology 20030504.1114
+SARS - worldwide (93): etiology 20030505.1122
+SARS - worldwide (98): etiology 20030509.1151
+SARS worldwide (163): etiology 20030722.1790
+SARS worldwide (164): etiology 20030723.1800
+SARS worldwide (167): etiology 20030821.2104
+SARS worldwide (179): WHO SRAC 1st report 20031024.2666
+SARS - worldwide (180): epidemiology, Guangdong 20031027.2681
+SARS - worldwide (181): host range 20031030.2701
+.....................cp/pg/cp/pg/mpp
+
+*##########################################################*
+ProMED-mail makes every effort to verify the reports that
+are posted, but the accuracy and completeness of the
+information, and of any statements or opinions based
+thereon, are not guaranteed. The reader assumes all risks in
+using information posted or archived by ProMED-mail. ISID
+and its associated service providers shall not be held
+responsible for errors or omissions or held liable for any
+damages incurred as a result of use or reliance upon posted
+or archived material.
+************************************************************
+* *
+* Please support the 2003 ProMED-mail Internet-a-thon! *
+* http://www.isid.org/netathon2003.shtml *
+* *
+************************************************************
+Visit ProMED-mail's web site at <http://www.promedmail.org>.
+Send all items for posting to: promed@promedmail.org
+(NOT to an individual moderator). If you do not give your
+full name and affiliation, it may not be posted. Send
+commands to subscribe/unsubscribe, get archives, help,
+etc. to: majordomo@promedmail.org. For assistance from a
+human being send mail to: owner-promed@promedmail.org.
+############################################################
+############################################################
+</body>

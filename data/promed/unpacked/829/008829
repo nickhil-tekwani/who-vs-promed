@@ -1,0 +1,183 @@
+<header id=008829>
+Published Date: 2021-12-13 16:27:18 EST
+Subject: PRO/AH/EDR> COVID-19 update (429): immune escape, travel bans, global
+Archive Number: 20211213.8700256
+</header>
+<body id=008829>
+CORONAVIRUS DISEASE 2019 UPDATE (429): IMMUNE ESCAPE, TRAVEL BANS, GLOBAL
+*************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] Immune escape
+[2] Travel ban
+[3] WHO: Daily new cases reported (as of 12 Dec 2021)
+[4] Global update: Worldometer accessed 12 Dec 2021 19:14 EST (GMT-5)
+
+******
+[1] Immune escape
+Date: Fri 10 Dec 2021
+Source: Emerging Microbes & Infections [abridged, edited]
+https://www.tandfonline.com/doi/full/10.1080/22221751.2021.2017757
+
+Citation.
+Li Zhang, Qianqian Li, Ziteng Liang, et al. The significant immune escape of pseudotyped SARS-CoV-2 Variant Omicron. Emerging Microbes & Infections, DOI: 10.1080/22221751.2021.2017757
+
+Summary
+The emergence of omicron has brought new challenges to fight against SARS-CoV-2. A large number of mutations in the spike protein suggest that its susceptibility to immune protection elicited by the existing COVID-19 infection and vaccines may be altered. In this study, we constructed the pseudotyped SARS-CoV-2 variant omicron. The sensitivity of 28 serum samples from COVID-19 convalescent patients infected with SARS-CoV-2 original strain was tested against pseudotyped omicron as well as the other viruses of concern (VOCs, alpha, beta, gamma, delta) and viruses of interest (VOIs, lambda, mu). Our results indicated that the mean neutralization ED50 of these sera against omicron decreased to 66, which is about 8.4 folds compared to the D614G reference strain (ED50 = 556), whereas the neutralization activity of other VOC and VOI pseudotyped viruses decreased only about 1.2-4.5 folds. The finding from our in vitro assay suggest that omicron variant may lead to more significant escape from immune protection elicited by previous SARS-CoV-2 infection and perhaps even by existing COVID-19 vaccines.
+
+--
+Communicated by:
+Mary Marshall
+<mjm2020@googlemail.com>
+
+[In this experimental neutralization study, "the pseudotyped SARS-CoV-2 omicron variant (PV-omicron) was constructed by using VSV vector and omicron spike protein containing all of the 32 mutations". This is an excellent approach since it is known that in vitro neutralization assays using pseudotyped viruses correlate well with actual virus. However, as the authors bring up in the Discusson, "...it needs to be re-evaluated whether the therapeutic monoclonal antibodies can still be effective against the omicron variant. More laboratory and the real-world studies are needed to understand whether omicron can escape from the vaccine elicited immunity to cause more severe disease and death.
+
+"The exact impact to human protection may be influenced by more factors such as the infectivity of omicron variant relative to other variants to human populations and the viral fitness of omicron once the humans are infected. More population studies including the level of immune protection and symptoms among people infected with omicron are needed to fully establish the global impact of omicron to the control of COVID-19 pandemic."
+
+Also see EurekAlert https://www.eurekalert.org/news-releases/937577. - Mod.LK]
+
+******
+[2] Travel ban
+Date: Sat 11 Dec 2021
+Source: New York times [edited]
+https://www.nytimes.com/2021/12/11/opinion/omicron-travel-ban-covid-africa.html
+
+
+Not long after scientists in South Africa discovered the omicron variant of the coronavirus that causes COVID-19, a number of Western countries -- including the United States -- imposed travel bans on people traveling from southern African countries. The U.S. ban exempts American citizens and permanent residents.
+
+Notably, omicron has been identified in many other countries around the world, including the United States. Some data even suggests that it may have been circulating in Europe even before it was identified in southern Africa. Yet the bans remain.
+
+President Biden acknowledged that the American travel ban was unlikely to stop the virus. But he justified it as a way of delaying the arrival of the new variant into the country. Others have justified the ban as a way to act "proactively" -- as if there are no undesirable consequences of this policy.
+
+Did the ban delay the arrival and spread of the new variant in the United States? How does it impact the efforts to control COVID-19 in the United States?
+
+The science is nuanced. Even before the pandemic, scientists had studied the utility of travel bans after the emergence of a new respiratory virus. Most of the pre-COVID-19 pandemic research was conducted on potential influenza pandemics. Seasonal and pandemic influenza virus can be devastating, but it is less infectious than SARS-CoV-2, the virus that causes COVID-19.
+
+To assess the infectiousness of a virus, epidemiologists use a unit of measure they call the basic reproduction number, or R0. It is derived from the average number of individuals a single infected person is statistically likely to infect in an otherwise uninfected and unimmunized population. The virus that caused the 1918 influenza pandemic had an R0 of 1.8, and the R0 for seasonal influenza ranges from 0.9 -- 2.1, whereas the original strain of SARS-CoV-2 had an R0 of 2 -- 3; the Delta variant has an estimated R0 of 6. While we don't yet know the R0 for Omicron, it is likely to be substantially higher than influenza's.
+
+A 2014 review of scientific evidence conducted by a group of British researchers from Public Health England and the University of Nottingham concluded that travel bans can work but only for stalling the arrival of a pandemic influenza virus into a country. To effectively delay virus importation, a ban must shut down almost all travel into a country, the study found. But according to the researchers, even these drastic restrictions may have limited utility if the virus involved is moderately to highly infectious -- which is the case with SARS-CoV-2 and its variants.
+
+During the current pandemic, it is true that countries such as New Zealand and Australia have used travel bans to reduce importation of SARS-CoV-2. But their bans have been near-total, early, and paired with effective contact tracing and quarantine systems. Similarly, many small island nations such as the Polynesian country of Tuvalu -- population approximately 12 000 -- have kept the coronavirus out after severely restricting travel.
+
+So, yes: Travel bans can work under limited conditions. But the omicron-related southern Africa travel ban imposed by the United States is too selective, focuses on many countries where the variant hasn't been documented and excludes many more where the variant has been detected.
+
+If there were any doubts about the futility of this ban, reports of the omicron cases outside southern Africa should put them to rest. In fact, there are substantially more countries with reported cases of omicron outside southern Africa than in that region.
+
+The travel ban is also not without cost. It could discourage countries from reporting new variants and emerging viruses. Suppose you are a health minister somewhere in Africa and see some initial data indicating that a new variant is circulating in your country. Announcing the discovery would risk the imposition of capricious travel restrictions on your people. Do you tell the world?
+
+The success of domestic efforts in the United States depends on what happens globally. A new variant or incomplete information about existing ones can undermine efforts to control the virus. It is in America's interest that scientists, doctors and health officials everywhere do not feel conflicted in reporting relevant information rapidly and completely.
+
+Rather than imposing arbitrary travel restrictions, countries can adopt less intrusive policies to slow the spread of the virus through international travel, including testing passengers before their departure or after arrival. Making proof of vaccination mandatory for international travel also helps limit importation of the virus.
+
+The United States has, of course, already imposed new rules for all inbound travelers -- citizens and permanent residents as well as foreign visitors -- requiring a negative result of a test taken within a day of departure and proof of immunization. These rules further diminish the need for a blanket travel ban for a few countries.
+
+The long-term solution, however, is to ensure that a high number of people around the world are vaccinated.
+
+During the 2020 presidential campaign, Mr. Biden promised to have a science-based pandemic response. But his travel ban on southern African countries is not justifiable by science. Moreover, it makes Americans and others less safe by disincentivizing rapid reporting of new variants. It is time, then, for the United States to revoke the ban.
+
+[Byline: Saad B. Omer]
+
+--
+Communicated by:
+Mary Marshall
+<mjm2020@googlemail.com>
+
+[Listen to this highly informative interview of Shabir Madhi on south Africa:
+https://globalhealthc3.org/podcast/episode-12-omicron-first-view-from-south-africa/
+Shabir A. Madhi, M.B.B.C.H. (Wits), FCPaeds(SA), Ph.D. is the Dean of the Faculty of Health Sciences and Professor of Vaccinology at the University of the Witwatersrand, Johannesburg, South Africa. - Mod.LK]
+
+******
+[3] WHO: daily new cases reported (as of 12 Dec 2021)
+
+[On the WHO COVID-19 Dashboard, there is a notice that the data updates for Saturday and Sunday each week will be updated on the subsequent Monday, with effect from 18 Jun 2021.
+
+For graphic representation, use the following link to access comparative country graphs on the EIOS system (Epidemic Intelligence from Open Sources): https://bit.ly/3hxFSDk. - Mod.UBA]
+
+******
+[4] Global update: Worldometer accessed 12 Dec 2021 19:14 EST (GMT-5)
+Date: Sun 12 Dec 2021
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at https://promedmail.org/wp-content/uploads/world-pdf/2021%20WORLDDATA%20DEC12_1639417638.pdf.
+
+A 7-day series of cumulative data reported by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/2021%20DEC12WORLD7_1639417663.pdf. - Mod.UBA]
+
+Total number of reported deaths: 5 321 871
+Total number of worldwide cases: 270 426 619
+Number of newly confirmed cases in the past 24 hours: 432 923
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[In the past 24 hours, 11 countries including the USA (38 784), UK (48 618), France (43, 848), South Africa (37 875), Russia (29 929), Germany (29 633), Poland (19 450), Italy (19 207), Turkey (17 956), the Netherlands (16 588), and Vietnam (14 638), reported the highest numbers of cases, all reporting more than 10 000 newly confirmed cases. A global total of 3929 deaths were reported in the preceding 24 hours (late 10 Dec 2021 to late 11 Dec 2021). A total of 50 countries reported more than 1000 cases in the past 24 hours; 29 of the 50 countries are from the European region, 7 are from the Americas region, 6 are from the Western Pacific region, 3 are from the Eastern Mediterranean region, 2 are from the South East Asia region, and 3 is from the African region.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, case counts have decreased by 13.2%, while daily reported deaths have decreased by 4%. Similar comparative 7-day averages in the USA show a 4.4% decrease in daily reported cases and 1.6% decrease in reported deaths.
+
+Impression: The global daily reported over 400 000 newly confirmed infections in the past 24 hours with over 270.42 million cumulative reported cases and over 5.32 million reported deaths. - Mod.UBA]
+See Also
+COVID-19 update (428): infec in vaccinated, nasal vacc, 3 doses, booster, global 20211212.8700233
+COVID-19 update (427): animal, Poland (ZP) mink, OIE 20211212.8700213
+COVID-19 update (426): USA, Denmark, rapid saliva test, vaccines, WHO, global 20211212.8700212
+COVID-19 update (425): Pfizer booster, AstraZeneca, omicron, Zimbabwe, mortality 20211211.8700188
+COVID-19 update (424): cross protec., omicron Kuwait ex Africa, South Korea, WHO 20211209.8700165
+COVID-19 update (423): animal, Denmark (SL) zoo, tiger, OIE 20211209.8700158
+COVID-19 update (422): omicron, neglected tropical diseases, Uganda, WHO, global 20211208.8700145
+COVID-19 update (421): omicron US, PPE issues, South Africa, WHO 20211207.8700131
+COVID-19 update (420): animal, Poland (KP) mink, OIE 20211207.8700127
+COVID-19 update (419): omicron patient profile, acquired RNA, Cook Islands, global 20211206.8700110
+COVID-19 update (418): animal, Belgium, zoo, hippopotamus, 1st rep 20211206.8700102
+COVID-19 update (417): quarantine hotel, border control, travel bans, global 20211206.8700087
+COVID-19 update (416): South Africa, omicron spread, immunity, boosters, WHO 20211205.8700073
+COVID-19 update (415): USA, mortality risk, AstraZeneca, Argentina, WHO, global 20211204.8700049
+COVID-19 update (414): US first omicron case, boosters, Israel, origin, WHO 20211202.8700031
+COVID-19 update (413): animal, Canada, wild deer 20211202.8700020
+COVID-19 update (412): international travel, long COVID, WHO, global 20211201.8700001
+COVID-19 update (411): UK boosters & surge, Israel, testing, WHO 20211130.8699977
+COVID-19 update (410): omicron, WHO update, impact, patience, global 20211130.8699966
+COVID-19 update (409): animal, Croatia, zoo, lion, OIE 20211129.8699951
+COVID-19 update (408): omicron, India, symptoms, molnupiravir 20211128.8699934
+COVID-19 update (407): omicron VOC, omicron cases in Europe, South Asia, WHO 20211127.8699923
+COVID-19 update (406): new variant B.1.1.529, travel ban, South Africa, WHO 20211126.8699898
+COVID-19 update (405): Israel, WHO on child/adolescent vacc 20211125.8699875
+COVID-19 update (404): rapid tests, high-risk genes, Paxlovid, vacc mandates 20211124.8699862
+COVID-19 update (403): gyms, masks, ICUs, WHO 20211123.8699843
+COVID-19 update (402): sub-Saharan Africa, cross-reactive Abs 20211122.8699824
+COVID-19 update (401): Germany, plant-based antiviral, breakthrough infections 20211121.8699813
+COVID-19 update (400): animal, sheep, research, experimental infection 20211121.8699806
+COVID-19 update (390): surge in cases, China, Europe, WHO 20211113.8699651
+COVID-19 update (380): Netherlands, Russia, brain effects 20211107.8699512
+COVID-19 update (370): repurposing antidepressants, South Asia, WHO, global 20211030.8699357
+COVID-19 update (360): new delta subvariant, China, UK, South Asia, WHO, global 20211023.8699224
+COVID-19 update (350): boosters, deaths, cases, vaccines, WHO 20211014.8699041
+COVID-19 update (340): long COVID, Israel, WHO 20211007.8698909
+COVID-19 update (330): variants, Novavax, Monoclonal antib, Uruguay, Spain, WHO 20210927.8698746
+COVID-19 update (320): spillover events, long COVID, mandatory vaccines, WHO 20210917.8679439
+COVID-19 update (310): impact on women & children, Africa, mRNA vaccines, Israel 20210910.8660335
+COVID-19 update (300): Norway, myocarditis, schools, new variant C.1.2, WHO 20210901.8638460
+COVID-19 update (200): animal, China, origin 20210608.8433657
+COVID-19 update (100): antibodies, vaccine, Thailand, Cambodia, WHO, global 20210316.8250009
+COVID-19 update (50): UK vaccine study, Brazil reinfection, WHO 20210205.8167161
+COVID-19 update (01): variants, vaccine, Thailand, global, WHO 20210101.80629382020
+2020
+----
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+COVID-19 update (562): viral load, UK vacc dose, ECDC, WHO 20201231.8061525
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia: China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia: China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+----
+Undiagnosed pneumonia: China (HU): RFI 20191230.6864153
+.................................................sb/lk/uba/ao/mpp
+</body>

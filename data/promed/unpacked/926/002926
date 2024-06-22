@@ -1,0 +1,208 @@
+<header id=002926>
+Published Date: 2020-10-05 02:59:44 EDT
+Subject: PRO/AH/EDR> COVID-19 update (426): rapid POC tests, older adult vaccine, WHO, global
+Archive Number: 20201005.7836586
+</header>
+<body id=002926>
+CORONAVIRUS DISEASE 2019 UPDATE (426): RAPID POINT OF CARE ANTIGEN TESTS, VACCINE IN OLDER ADULTS, WHO, GLOBAL
+**************************************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] Rapid antigen POC tests
+[2] Safety and immunogenicity of SARS-CoV-2 mRNA1273 in older adults
+[3] WHO: daily new cases reported (as of 4 Oct 2020)
+[4] Global update: Worldometer accessed 4 Oct 2020 22:02 EDT (GMT-4)
+
+******
+[1] Rapid antigen POC tests
+Date: Thu 1 Oct 2020
+Source: medRxiv [abridged, edited]
+https://www.medrxiv.org/content/10.1101/2020.10.01.20203836v1.full.pdf
+
+
+ref: Krueger LJ, Gaeddert M, Koeppel L, et al. Evaluation of the accuracy, ease of use and limit of detection of novel, rapid, antigen-detecting point-of-care diagnostics for SARS-CoV-2. MedRxiv 2020.10.01.20203836; doi: 10.1101/2020.10.01.20203836
+-------------------------------------------------------------------
+Abstract
+--------
+Background
+Reliable point-of-care (POC) diagnostics not requiring laboratory infrastructure could be a game changer in the COVID-19 pandemic, particularly in the Global South. We assessed performance, limit of detection (LOD), and ease-of-use of 3 antigen-detecting, rapid POC diagnostics (Ag-RDT) for SARS-CoV-2.
+
+Methods
+This prospective, multi-centre diagnostic accuracy study, recruited participants suspected to have SARS-CoV2 in Germany and UK. Paired nasopharyngeal swabs (NP) or NP and/or oropharyngeal swabs (OP) were collected from participants (one for clinical real-time reverse transcription polymerase chain reaction (RT-PCR) and one for Ag-RDT testing). Performance of each of 3 Ag-RDTs was compared to RT-PCR overall, and according to predefined subcategories such as cycle threshold (CT)-value, days from symptom onset, etc. In addition, limited verification of analytical limit-of-detection (LOD) was determined. To understand the usability of each Ag-RDT a System Usability Scale (SUS) questionnaire and ease-of-use assessment were performed.
+
+Results
+Between [17 Apr and 25 Aug 2020], 2417 participants were enrolled, with 70 (3.0%) testing positive by RT-PCR. The best-performing test (SD Biosensor, Inc. STANDARD Q) was 76.6% [95% confidence interval (CI) 62.8-86.4] sensitive and 99.3% [CI 98.6-99.6] specific. A sub-analysis showed all samples with RT-PCR CT-values less than 25 were detectable by STANDARD Q. The test was considered easy-to-use (SUS 86/100) and suitable for POC. Bioeasy and Coris showed a specificity of 93.1% [CI 91.0-94.8] and 95.8% [CI 93.4-97.4], respectively, not meeting the predefined target of 98% or higher.
+
+Conclusion
+There is large variability in performance of Ag-RDT tests with one test showing promise. Given the usability at POC, these tests are likely to have impact despite imperfect sensitivity; however further research and modelling are needed.
+
+[In this pre-print, we see] a manufacturer-independent validation of 3 novel, antigen-detecting, rapid POC diagnostics for SARS-CoV-2. Specifically, we performed a verification of analytical sensitivity, a large multi-centre clinical accuracy study, and an ease-of-use (EoU) assessment.
+
+Three novel rapid antigen-based diagnostics were assessed: (a) Bioeasy 2019-nCoV Ag Fluorescence Rapid Test Kit (Time-Resolved Fluorescence). (Shenzhen Bioeasy Biotechnology Co. Ltd., Guangdong Province, China; henceforth called Bioeasy), (b) COVID-19 Ag Respi-Strip 18 (Coris Bioconcept, Gembloux, Belgium; henceforth called Coris) and (c) STANDARD Q COVID-19 Ag Test (SD Biosensor, Inc. Gyeonggi-do, Korea; henceforth called SD Biosensor).
+
+All assays utilize the lateral flow assay principle for the detection of viral antigens.
+
+Discussion
+Results of our multi-centre diagnostic accuracy study and analytical assessment show that the SD Biosensor, Inc. STANDARD Q Ag-RDT COVID-19 Ag test can reach excellent sensitivity in high-viral load infections, and good performance in the cohort overall 76∙6% (CI 62∙8-86∙4) with near-perfect specificity (99∙3%; CI 98∙6-99∙6). These results hold promise for the performance of antigen-based diagnosis and the control of the pandemic, particularly in low-resource settings.
+
+--
+communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[This comparison of 3 point of care (POC) antigen rapid detection test (Ag-RDT) lateral flow assays found substantial variability between tests. The specimens tested varied among the groups, either nasopharyngeal (NP) swab or oropharyngeal (OP) swab or both. At least one assay met WHO targets and is now recommended by the WHO. The WHO interim guidance is that the use of Ag-RDTs that meet at least 80% sensitivity and 97% specificity may be considered to diagnose active SARS-CoV-2 infection "where nucleic acid amplification technology (NAAT) is unavailable or where prolonged turnaround times preclude clinical testing." As Michael Mina (epidemiologist at Harvard University's School of Public Health) and others who have been regularly encouraging adoption of rapid POC testing have said, these tests have the ability to contribute significantly to controlling the pandemic. The advantages of these assays even with lower sensitivity except in cases with significant viral load are fast turnaround-time and ease-of-use at POC. The authors of this study concluded that further implementation research, economic evaluation, and modelling are needed.
+
+"Abbott's ID Now test (which was not part of this evaluation), was granted emergency use authorization by the Food and Drug Administration only for use "within the 1st 7 days of symptoms." When it is used in people who don't have symptoms, it can give a false negative in as many as 1 in 3 cases, notes the New York Times. "It's helpful to keep in mind that tests discover the presence of coronavirus once there's enough viral material in a person to be able to detect it," John Koval, spokesman for Abbott Labs, said in an email to the Washington Post.
+
+Beyond the specificity of any test, in particular, experts say that testing can be part of a broader strategy to ward off the coronavirus but isn't protection by itself. "I don't think any experts recommend that you use medical screening tests as a replacement for social distancing, or masks, or other kinds of mitigation efforts," Dr Ben Mazer, an anatomic and clinical pathologist at Johns Hopkins Hospital, told CNBC. "They all think this should be done in combination with masks, social distancing, and all the other recommended measures."
+
+(Excerpted from https://slate.com/news-and-politics/2020/10/white-house-misused-rapid-covid-19-tests-face-masks.html communicated by Mary Marshall <mjm2020@googlemail.com>). - Mod.LK]
+
+******
+[2] Safety and immunogenicity of SARS-CoV-2 mRNA1273 in older adults
+Date: Tue 29 Sep 2020
+Source: New England Journal of Medicine (NEJM) [edited]
+https://www.nejm.org/doi/10.1056/NEJMoa2028436
+
+
+ref: Anderson EJ, Rouphael NG, Widge AT, et al. Safety and immunogenicity of SARS-CoV-2 mRNA-1273 vaccine in older adults. N Engl J Med. 2020. doi: 10.1056/NEJMoa2028436. Epub ahead of print. PMID: 32991794.
+----------------------------------------------------------------------
+Abstract
+--------
+Background
+Testing of vaccine candidates to prevent infection with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in an older population is important since increased incidences of illness and death from coronavirus disease 2019 (Covid-19) have been associated with an older age.
+
+Methods
+We conducted a phase 1, dose-escalation, open-label trial of a messenger RNA vaccine, mRNA-1273, which encodes the stabilized prefusion SARS-CoV-2 spike protein (S-2P) in healthy adults. The trial was expanded to include 40 older adults, who were stratified according to age (56 to 70 years or 71 years and older). All the participants were assigned sequentially to receive 2 doses of either 25 microg or 100 microg of vaccine administered 28 days apart.
+
+Results
+Solicited adverse events were predominantly mild or moderate in severity and most frequently included fatigue, chills, headache, myalgia, and pain at the injection site. Such adverse events were dose-dependent and were more common after the second immunization. Binding-antibody responses increased rapidly after the 1st immunization. By day 57, among the participants who received the 25-microgram dose, the anti-S-2P geometric mean titer (GMT) was 323 945 among those between the ages of 56 and 70 years and 1 128 391 among those who were 71 years of age or older; among the participants who received the 100-microgram dose, the GMT in the 2 age subgroups was 1 183 066 and 3 638 522, respectively. After the 2nd immunization, serum neutralizing activity was detected in all the participants by multiple methods. Binding- and neutralizing-antibody responses appeared to be similar to those previously reported among vaccine recipients between the ages of 18 and 55 years and were above the median of a panel of controls who had donated convalescent serum. The vaccine elicited a strong CD4 cytokine response involving type 1 helper T cells.
+
+Conclusions
+In this small study involving older adults, adverse events associated with the mRNA-1273 vaccine were mainly mild or moderate. The 100-microgram dose induced higher binding- and neutralizing-antibody titers than the 25-microgram dose, which supports the use of the 100-microgram dose in a phase 3 vaccine trial.
+
+--
+communicated by:
+ProMED-mail
+<promed@rpomedmail.org>
+
+[This is a phase I study, and many vaccine studies perform well in phase I but may not maintain their excellent performance in further evaluation, but phase III studies for the use of this vaccine in reduced doses are reportedly showing promise. The need for a higher dose preparation for the senior population is in keeping with known decreased immune responses in this age group (usually defined as 65 years or older). The influenza vaccine has a higher antigen dose for the senior population to overcome this physiologic difference. While this is a small study, it is promising. - Mod.MPP]
+
+******
+[3] WHO: daily new cases reported (as of 4 Oct 2020)
+Date: Sun 4 Oct 2020
+Source: WHO [abridged, edited]
+https://covid19.who.int/table
+
+
+*Daily case reports as of 4 Oct 2020 15:38 CEST
+
+Surveillance
+------------
+WHO region (no. countries/territories):
+Total confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+------------------------
+Western Pacific Region (19): 625 642 (3727) / 13 632 (75)
+European Region (61): 6 187 384 (71 929) / 240 148 (529)
+South East Asia Region (10): 7 335 273 (84 192) / 119 167 (1069)
+Eastern Mediterranean Region (22): 2 466 722 (17 966) / 63 156 (388)
+Region of the Americas (54): 16 990 036 (123 724) / 568 358 (2921)
+African Region (49): 1 198 550 (2905) / 26 264 (40)
+Cases on an international conveyance (Diamond Princess): 741 (0) / 13 (0)
+
+Confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+Grand total: 34 804 348 (304 443) / 1 030 738 (5000)
+
+--
+communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The number of countries and territories reporting confirmed cases of COVID-19 to WHO remains at 215.
+
+Data by country, area, or territory for 4 Oct 2020 can be accessed at https://promedmail.org/wp-content/uploads/world-pdf/WHO%20daily%20tablesOct4_1601843622.pdf.
+
+- The Americas region reported 40.6% of daily case numbers and 58.4% of the daily deaths reported in the past 24 hours, maintaining its position as the most severely affected region, having reported more than 16.9 million cases. The USA and Brazil remain dominant, followed by Argentina, Colombia, Mexico, and Peru. Other countries reporting more than 1000 new cases in the past 24 hours include Canada, Chile, and Costa Rica.
+
+- The European region reported 23.6% of daily case numbers and 10.6% of the daily deaths reported in the past 24 hours, and total cumulative cases reported exceed 6.1 million. Countries not reporting cases today (4 Oct 2020) include Spain, Israel, Sweden, Switzerland, Kazakhstan, and Belgium. The dominant country is France, followed by the UK, Russia, Ukraine, Netherlands, Italy, Czech Republic, Germany, Romania, and Turkey.
+
+- The Eastern Mediterranean region reported 5.9% of daily case numbers and 7.3% of the deaths reported in the past 24 hours, having reported a cumulative total of greater than 2.4 million cases. Iraq is the dominant country, followed by Iran, Morocco, Lebanon, the UAE, Tunisia, and Jordan. Other countries reporting more than 500 new cases but fewer than 1000 include Pakistan and Bahrain.
+
+- The African region reported 0.95% of daily case numbers and 0.80% of the deaths reported in the past 24 hours and has reported more than 1.1 million cases. Countries not reporting cases in the past 24 hours include Ethiopia, Kenya, Cameroon, Cote d'Ivoire, Uganda, Botswana, and Reunion. South Africa is again the dominant country, followed by Nigeria, Angola, Algeria, and Ghana. However, all reporting countries outside of South Africa reported fewer than 200 cases.
+
+- The Western Pacific region reported 1.2% of daily case numbers and 1.5% of the deaths reported in the past 24 hours, having reported a cumulative total of 0.62 million cases. The Philippines continues to dominate, followed by Japan, Malaysia, Guam, and South Korea.
+
+- The South East Asia region reported 27.7% of the daily newly reported cases and 21.4% of reported deaths in the past 24 hours, having reported a cumulative total of more than 7.3 million cases. India continues to dominate followed by Indonesia, Nepal, Bangladesh, and Myanmar.
+
+On the Overview tab at the WHO source URL, the epidemic curve of confirmed COVID-19 cases by WHO region, 30 Dec 2019 through 4 Oct 2020 is an excellent visual representation of the pandemic. - Mod.MPP]
+
+******
+[4] Global update: Worldometer accessed 4 Oct 2020 22:02 EDT (GMT-4)
+Date: Sun 4 Oct 2020
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at https://promedmail.org/wp-content/uploads/world-pdf/OCT4DATASET_1601866146.pdf.
+
+A 7-day series of cumulative data reported by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/OCT4WORLD7_1601866209.pdf. - Mod.MPP]
+
+Total number of reported deaths: 1 041 780
+Total number of worldwide cases: 35 393 778
+Number of newly confirmed cases in the past 24 hours: 266 182
+
+--
+communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[I'll preface these comments with a caution about the weekend reporting artifacts. Reported numbers are significantly down, with no cases reported by Spain, Sweden, Belarus, Costa Rica, and Switzerland among others. Marked reductions (by order of magnitude of close to 1/2 or less reported by Brazil, Argentina, Kazakhstan, Ecuador, among others.
+
+The USA and India are still the most severely affected countries in terms of cumulative case counts and daily new case confirmations, with India in the 2nd position in terms of cumulative case counts and dominating in terms of newly reported cases. In the past 24 hours, these 2 countries (including Brazil) -- India (74 767), followed by the USA (36 066) maintained their dominance. A global total of 3839 deaths were reported in the past 24 hours (3-4 Oct 2020), down from 4795 in the previous 24 hours.
+
+Countries reporting more than 5000 newly confirmed cases in the past 24 hours (8 countries) include India, USA, UK (22 961), France (12 565), Russia (10 499), Brazil (8456), Argentina (7668), and Colombia (6905). A total of 35 countries have reported more than 1000 cases in the past 24 hours; 13 of the 37 countries reporting more than 1000 newly confirmed cases are from the European region, and 9 were from the Americas region.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, there is an increase in case counts by 0.76%, while daily reported deaths have increased by 5.5%.
+
+Impression: While the global 7-day averages appear to have plateaued, with the weekend decline in reporting it is challenging to interpret subtle nuances. - Mod.MPP]
+See Also
+COVID-19 update (425): animal, Denmark (ND) farmed mink, spread, control 20201004.7835635
+COVID-19 update (424): air travel, India, CSF leakage, WHO, global 20201004.7835129
+COVID-19 update (423): Parkinson's disease, MIS-A, WHO, global 20201003.7832664
+COVID-19 update (422): obesity & severity, cluster busting, WHO, global 20201002.7830244
+COVID-19 update (421): safer indoors, Spain WHO, global 20201001.7828012
+COVID-19 update (420): ECMO, USA serosurvey, WHO, global 20200930.7824510
+COVID-19 update (410): ACE inhibitors and ARBs, WHO COVAX plan, WHO, global 20200922.7801717
+COVID-19 update (400): lockdowns, influenza co-infections WHO, global 20200914.7776512
+COVID-19 update (350): USA (TX) animal, cat 20200808.7658191
+COVID-19 update (300): Korea antibodies, China asymptomatic index case, WHO 20200703.7536146
+COVID-19 update (250): selected countries 20200610.7448037
+COVID-19 update (200): global, Yemen, WHO 20200522.7364937
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+Undiagnosed pediatric inflammatory syndrome (05): Europe, USA, COVID-19 assoc 20200518.7340554
+Undiagnosed pediatric inflammatory syndrome (04): USA, UK, PMIS, fatal 20200509.7315405
+Undiagnosed pediatric inflammatory syndrome (03): USA, Europe, COVID-19 susp, RFI 20200505.7299876
+COVID-19 update (150): global, USA state prisons, WHO 20200502.7290671
+COVID-19 update (100): China, S. Korea & high local transmission countries 20200413.7217806
+COVID-19 update (50): China (Hong Kong) animal dog, 2nd case PCR positive, OIE 20200323.7129951
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (41): China, global, clinical pics, asymptomatic trans., WHO 20200210.6976117
+Novel coronavirus (40): animal reservoir, pangolin poss intermediate host, RFI 20200210.6972104
+Novel coronavirus (30): updates, China, Viet Nam, research 20200202.6945658
+Novel coronavirus (20): China, wildlife trade ban 20200127.6922060
+Novel coronavirus (10): China (HU, GD, BJ) 20200119.6898567
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia: China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia: China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+---
+Undiagnosed pneumonia: China (HU): RFI 20191230.6864153
+and other items in the archives
+.................................................sb/lk/mpp/mj/sh
+</body>

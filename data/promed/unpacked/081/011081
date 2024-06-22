@@ -1,0 +1,376 @@
+<header id=011081>
+Published Date: 2021-01-15 06:04:02 EST
+Subject: PRO/AH/EDR> COVID-19 update (18): vaccine, SIREN study, snippets, China, WHO, global
+Archive Number: 20210115.8104986
+</header>
+<body id=011081>
+CORONAVIRUS DISEASE 2019 UPDATE (18): VACCINE, SIREN (SARS-COV-2 IMMUNITY AND REINFECTION EVALUATION), SNIPPETS, CHINA, WHO, GLOBAL
+***********************************************************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] Adenovirus-vectored vaccine trial
+[2] PHE: SIREN study preliminary results
+[3] Media snippets
+[4] China outbreak updates
+[5] WHO: daily new cases reported (as of 14 Jan 2021)
+[6] Global update: Worldometer accessed 14 Jan 2021 21:38 EST (GMT-5)
+
+******
+[1] Adenovirus-vectored vaccine trial
+Date: Wed 13 Jan 2021
+Source: New England Journal of Medicine [abridged, edited]
+https://www.nejm.org/doi/full/10.1056/NEJMoa2034201
+
+
+ref: Sadoff J, Le Gars M, Shukarev G, et al. Interim results of a phase 1-2a trial of Ad26.COV2.S COVID-19 vaccine. N Engl J Med. 2021 Jan 13. doi: 10.1056/NEJMoa2034201. Epub ahead of print. PMID: 33440088
+--------------------------------------------------------------------------------
+Abstract
+--------
+Background
+Efficacious vaccines are urgently needed to contain the ongoing coronavirus disease 2019 (COVID-19) pandemic of infection with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). A candidate vaccine, Ad26.COV2.S, is a recombinant, replication-incompetent adenovirus serotype 26 (Ad26) vector encoding a full-length and stabilized SARS-CoV-2 spike protein.
+
+Methods
+In this multicenter, placebo-controlled, phase 1-2a trial, we randomly assigned healthy adults between the ages of 18 and 55 years (cohort 1) and those 65 years of age or older (cohort 3) to receive the Ad26.COV2.S vaccine at a dose of 5x10^10 viral particles (low dose) or 1x10^11 viral particles (high dose) per milliliter or placebo in a single-dose or 2-dose schedule. Longer-term data comparing a single-dose regimen with a 2-dose regimen are being collected in cohort 2; those results are not reported here. The primary end points were the safety and reactogenicity of each dose schedule.
+
+Results
+After the administration of the 1st vaccine dose in 805 participants in cohorts 1 and 3 and after the 2nd dose in cohort 1, the most frequent solicited adverse events were fatigue, headache, myalgia, and injection-site pain. The most frequent systemic adverse event was fever. Systemic adverse events were less common in cohort 3 than in cohort 1 and in those who received the low vaccine dose than in those who received the high dose. Reactogenicity was lower after the 2nd dose. Neutralizing-antibody titers against wild-type virus were detected in 90% or more of all participants on day 29 after the 1st vaccine dose (geometric mean titer [GMT], 224 to 354) and reached 100% by day 57 with a further increase in titers (GMT, 288 to 488), regardless of vaccine dose or age group. Titers remained stable until at least day 71. A 2nd dose provided an increase in the titer by a factor of 2.6 to 2.9 (GMT, 827 to 1266). Spike-binding antibody responses were similar to neutralizing-antibody responses. On day 14, CD4+ T-cell responses were detected in 76 to 83% of the participants in cohort 1 and in 60 to 67% of those in cohort 3, with a clear skewing toward type 1 helper T cells. CD8+ T-cell responses were robust overall but lower in cohort 3.
+
+Conclusions
+The safety and immunogenicity profiles of Ad26.COV2.S support further development of this vaccine candidate.
+(Funded by Johnson & Johnson and the Biomedical Advanced Research and Development Authority of the Department of Health and Human Services; COV1001 ClinicalTrials.gov number)
+
+Discussion
+----------
+The interim analysis of our phase 1-2a trial showed that the Ad26.COV2.S vaccine had an acceptable safety and reactogenicity profile and was immunogenic after a single vaccination with either the low or high dose. After the administration of the 1st dose, a trend toward a higher incidence of solicited systemic adverse events was noted with the higher vaccine dose, and a clear trend for decreasing grade 3 adverse events with increasing age was observed. The local and systemic reactions occurred on the day of immunization or the next day and generally resolved within 24 hours. The systemic reactions were very responsive to antipyretic drugs, and no need for the prophylactic use of such drugs was identified. After the 2nd dose among participants between the ages of 18 and 55 years, the incidence of grade 3 solicited systemic adverse events was much lower than that after the 1st immunization in both the low-dose and high-dose groups, a finding that contrasts with observations with respect to messenger RNA-based vaccines, for which the 2nd dose has been associated with increased reactogenicity.(4,6)
+
+Although all ongoing phase 3 studies of other Covid-19 vaccines have assessed 2-dose schedules, a single dose of Ad26.COV2.S elicited a strong humoral response in a majority of vaccine recipients, with the presence of S-binding and neutralizing antibodies in more than 90% of the participants, regardless of either age group or vaccine dose. In addition, during 71 days of follow-up after the first dose, antibody titers further increased and stabilized, which suggests durability of the Ad26.COV2.S-elicited immune response.
+
+The potency of Ad26.COV2.S is supported by the results of our study involving nonhuman primates, in which a single dose provided complete protection against SARS-CoV-2 replication in the lung and near complete protection in the nose.(12) An efficacious single-dose COVID-19 vaccine has obvious logistic advantages over a 2-dose vaccine, especially during a pandemic. We observed that among participants between the ages of 18 and 55 years, a 2nd vaccine dose at day 57 further increased the antibody titer, a finding that was also in line with our recent observations in nonhuman primates.(14) Neutralizing-antibody titers against the Ad26 vector that were elicited by the 1st vaccination did not correlate with the magnitude of response after the 2nd dose. Whether a 2nd dose will provide additional benefit for either improved efficacy or durability in humans, especially in elderly persons in whom the immune response after the 1st dose tended to be modestly lower than that in younger participants, is currently being studied in a phase 3 clinical trial.
+
+The lack of standards and use of different assays complicate the comparison of performance of the various COVID-19 vaccines that are currently in development.(3-6) In addition, comparisons of convalescent serum panels are rather arbitrary, since the reported GMTs [mean geometric titers] have varied according to the composition of the panels (that is, COVID-19 severity of the donors, time of sampling since disease onset, and other factors).
+
+A theoretical risk of vaccine-associated enhanced respiratory disease (VAERD)(15-17) has been associated with poorly neutralizing humoral immunity and Th2-skewed cellular immune responses. In this trial, all elicited CD4+ T-cell responses to Ad26.COV2.S were Th1-skewed, in line with previous experience with the Ad26-based vaccine platform.9-11 Data that further minimize the theoretical risk of VAERD are the accompanying consistent CD8+ T-cell responses (albeit occurring at lower levels in older adults than in younger adults) and strong humoral responses.
+
+The demographic characteristics of the participants in our trial confirm the lack of representation of minority groups. This finding is a point of focus in our clinical-development program to ensure the availability of data with respect to groups that seem to be affected most by the COVID-19 pandemic.
+
+Our interim analysis indicates that vaccine candidate Ad26.COV2.S is safe and immunogenic in both younger and older adults. This finding, in combination with the results in preclinical challenge studies,(12,13) has supported our decision to proceed with two phase 3 trials (NCT04505722 and NCT04614948) to evaluate the efficacy of either a single-dose or 2-dose regimen of the lower dose (5x10^10 viral particles) of Ad26.COV2.S.
+
+--
+Communicated by:
+Claudinne Miller
+Tulane Outbreak Daily
+<cmiller15@tulane.edu>
+
+[The full article, including tables, figures, and references, is available at the source URL above.
+
+The results from the clinical trials with the candidate vaccine Ad26.COV2.S look very good with neutralization titers stable until at least day 71 following a single dose and by day 57, 100% of recipients demonstrating immunity.
+
+However further studies that include minority groups, who were not included in this study, need to be conducted, especially since this demographic is affected most severely by infection with SARS-CoV-2 virus.
+
+One question is why the Astra Zeneca vaccine apparently had lower efficacy than that reported for the Johnson & Johnson vector vaccine. Different adenovirus species were used by the 2 companies, a chimpanzee adenovirus by Astra Zeneca and a human adenovirus by J&J; and both use the adenovirus technology which differs from Pfizer and Moderna technology, which use mRNA.
+
+One problem with adenovirus vaccines is that adenoviruses are so common that many people have pre-existing antibody, making the vaccine less effective in inducing immunity to the target, in this case, SARS-CoV-2. Similarly, once a booster dose is administered, antibody may interfere. To address this problem, a chimpanzee adenovirus was used by Astra Zeneca, to which humans should not have any immunological memory. And the human adenovirus J&J used appears to have a very low prevalence at least in African populations. However, this population was not included in the J&J study. So why the Astra Zeneca vaccine stimulated a lower antibody response than J&J is not clear.
+
+Also see Serwanga J, Auma B, Kaleebu P, et al. Adenovirus-based vaccines: comparison of vectors from three species of Adenoviridae. J Virol. 2010 Oct; 84(20): 10522-32. doi: 10.1128/JVI.00450-10; https://jvi.asm.org/content/84/20/10522.long
+And an editorial including a brief history of adenovirus vectors: Kremer EJ. Pros and cons of adenovirus-based SARS-CoV-2 vaccines. Mol Ther. 2020 Nov 4; 28(11): 2303-2304. doi: 10.1016/j.ymthe.2020.10.002.
+- Mod.LK]
+
+******
+[2] UK: SIREN Study
+[A] Public Health England
+Date: Thu 14 Jan 2021
+Source: Public Health England (PHE) PHE press office [edited]
+https://www.gov.uk/government/news/past-covid-19-infection-provides-some-immunity-but-people-may-still-carry-and-transmit-virus
+
+
+People infected with COVID-19 in the past are likely to be protected against reinfection for several months, a Public Health England (PHE) study has found, although experts cautioned those with immunity may still be able carry the virus in their nose and throat and therefore have a risk of transmitting to others.
+
+PHE has been regularly testing tens of thousands of health care workers across the UK since June [2020] for new COVID-19 infections as well as the presence of antibodies, which suggest people have been infected before.
+
+SIREN study leaders are clear this 1st report provides no evidence towards the antibody or other immune responses from COVID-19 vaccines, nor should any conclusions to be drawn on their effectiveness. The SIREN study will consider vaccine responses later this year [2021].
+
+PHE scientists working on the study have concluded naturally acquired immunity as a result of past infections provides 83% protection against reinfection, compared to people who have not had the disease before. This appears to last at least 5 months from first becoming sick.
+
+While the SIREN study will continue to assess whether protection may last for longer, this means people who contracted the disease in the 1st wave may now be vulnerable to catching it again.
+
+Between [18 Jun 2020] and [24 Nov 2020], scientists detected 44 potential reinfections (2 'probable' and 42 'possible' reinfections) out of 6614 participants who had tested positive for antibodies. This represents an 83% rate of protection from reinfection.
+
+PHE also warned that although those with antibodies have some protection from becoming ill with COVID-19 themselves, early evidence from the next stage of the study suggests that some of these individuals carry high levels of virus and could continue to transmit the virus to others. It is therefore crucial that everyone continues to follow the rules and stays at home, even if they have previously had COVID-19, to prevent spreading the virus to others. Remember to wash hands regularly, wear face coverings, and make space from others to help reduce the likelihood of passing on the virus.
+
+It is vital that, with cases at their highest level to date and the R number above 1 across the country, people do everything that they can to avoid the risk of transmitting the virus to other people.
+
+Professor Susan Hopkins, Senior Medical Advisor at Public Health England and the SIREN study lead said: "This study has given us the clearest picture to date of the nature of antibody protection against COVID-19 but it is critical people do not misunderstand these early findings.
+
+"We now know that most of those who have had the virus, and developed antibodies, are protected from reinfection, but this is not total and we do not yet know how long protection lasts. Crucially, we believe people may still be able to pass the virus on.
+
+"This means even if you believe you already had the disease and are protected, you can be reassured it is highly unlikely you will develop severe infections but there is still a risk that you could acquire an infection and transmit to others. Now more than ever it is vital we all stay at home to protect our health service and save lives.
+
+"We are immensely grateful to our colleagues in the NHS for giving up their time to volunteer, and whose continued participation at a time of great stress is making this research possible"
+
+Background information
+----------------------
+PHE's SIREN (SARS-CoV-2 Immunity and Reinfection EvaluatioN) study has performed regular antibody and PCR testing on 20 787 healthcare workers, including frontline clinical staff and those in non-clinical roles, from 102 NHS trusts since the study commenced in June [2020]. 6614 of these participants tested positive for COVID-19 antibodies upon recruitment.
+
+Of the 44 potential reinfections identified by the study, 2 were designated 'probable' and 42 'possible', based on the amount of confirmatory evidence available. If all 44 cases were confirmed, it would represent an 83% rate of protection from reinfection, while if only the 2 'probable' reinfections were confirmed, the rate would be 99%. Further research is ongoing to clarify this range.
+
+The study found that antibody protection after infection lasts for at least 5 months, on average, and scientists are currently studying whether protection may last for longer. This means that many people who contracted the disease in the 1st wave may now be vulnerable to catching it again.
+
+Both of the 2 'probable' reinfections reported having experienced COVID-19 symptoms during the 1st wave of the pandemic, but were not tested at the time. Both patients reported that their symptoms were less severe the 2nd time. None of the 44 potential reinfection cases were PCR tested during the 1st wave, but all tested positive for COVID-19 antibodies at the point of recruitment to the study.
+
+This analysis occurred prior to the widespread dissemination of the new variant VOC202012/01, further work is underway in the laboratory to understand whether and to what extent antibodies also provide protection from this variant and future analysis will assess the impact of VOC202012/01 on symptomatic and asymptomatic infections in healthcare workers.
+
+The study will continue to follow participants for 12 months to explore how long any immunity may last, the effectiveness of vaccines and to what extent people with immunity are able to carry and transmit the virus.
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+----
+[B] Nature
+Date: Thu 14 Jan 2021
+Source: Nature [edited]
+https://www.nature.com/articles/d41586-021-00071-6
+
+
+Most people who catch and recover from COVID-19 are likely to be immune for several months afterwards, a study of more than 20 000 health-care workers in the United Kingdom has found. The study -- called SARS-CoV-2 Immunity and Reinfection Evaluation (SIREN) -- concluded that immune responses from past infection reduce the risk of catching the virus again by 83% for at least 5 months.
+
+Over the course of the past year [2020], reports of repeat infections with SARS-CoV-2 have shaken confidence in the immune system's ability to sustain its defences against the virus. The interim results from the study assuage some of those fears, said SIREN lead investigator Susan Hopkins, a senior medical adviser at Public Health England in London, at a press briefing. The data suggest that natural immunity might be as effective as vaccination, she added, at least over the 5-month period the study has covered so far.
+
+The data suggest that repeat infections are rare -- they occurred in fewer than 1% of about 6600 participants who had already been ill with COVID-19. But the researchers also found that people who become reinfected can carry high levels of the virus in their nose and throat, even when they do not show symptoms. Such viral loads have been associated with a high risk of transmitting the virus to others, said Hopkins. "Reinfection is pretty unusual, so that's good news," says immunologist John Wherry at the University of Pennsylvania in Philadelphia. "But you're not free to run around without a mask."
+
+Regular screening
+-----------------
+SIREN is the largest study of coronavirus reinfection that systematically screens for asymptomatic infections, said Hopkins. Every 2 to 4 weeks, participants undergo blood tests for SARS-CoV-2 antibodies as well as PCR tests to detect the virus itself.
+
+Over the 5 months, the team found 44 possible reinfections. In the group of 14 000 participants who had not been previously infected, 318 people tested positive for the virus. Some of the reinfections are still being evaluated, Hopkins said. All 44 are considered 'possible' reinfections, and were classified on the basis of PCR tests combined with screening measures to reduce the risk of re-detecting virus from the initial infection. So far, only 2 of these 44 cases have passed more stringent tests to be classified as 'probable'. The study did not assess whether symptoms were better or worse during the 2nd infection than during the 1st, but Hopkins notes that only about 30% of the people with possible reinfections reported any symptoms, compared with 78% of participants with 1st-time infections.
+
+At the moment, the team does not have enough data to tease out who might be most at risk of reinfection. And immunologist George Kassiotis at the Francis Crick Institute in London notes that participants in the study were mainly women, and mostly under the age of 60. "This group is unlikely to experience the most severe form of COVID-19," he says, "and may not be representative of the population as a whole."
+
+Investigators are still collecting data; they hope to get a sense of how long immunity lasts and to investigate the effects of a SARS-CoV-2 variant called B.1.1.7 that emerged in 2020 and has rapidly spread across the country. Although there are many reasons to suspect that existing protection should cover new variants, it is possible that immune responses raised against one variant will be less effective against another, says Kassiotis. "It is still an open question."
+
+[Byline: Heidi Ledford]
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[The preprint is available at
+Hall V, Foulkes S, Charlett A, et al. Do antibody positive healthcare workers have lower SARS-CoV-2 infection rates than antibody negative healthcare workers? Large multi-centre prospective cohort study (the SIREN study), England: June to November 2020. 14 Jan 2021; available for download at https://phe-newsroom.prgloo.com/resources/bx1f8-t9rue-d3pj3-0uv7s-q2f8k
+--------------------------------------------------------------------------------
+"Abstract
+---------
+"Background
+"There is an urgent need to better understand whether individuals who have recovered from COVID-19 are protected from future SARS-CoV-2 infection.
+
+"Methods
+"A large multi-centre prospective cohort was recruited from publicly funded hospital staff in the UK. Participants attended regular SARS-CoV-2 PCR and antibody testing (every 2-4 weeks) and completed fortnightly [14 days] questionnaires on symptoms and exposures. At enrolment, participants were assigned to either the positive cohort (antibody positive or prior PCR/antibody test positive) or negative cohort (antibody negative, not previously known to be PCR/antibody positive). Potential reinfections were clinically reviewed and classified according to case definitions (confirmed, probable, possible (subdivided by symptom-status)) depending on hierarchy of evidence. Individuals in the primary infection were excluded from this analysis if infection was confirmed by antibody only. Reinfection rates in the positive cohort were compared against new PCR positives in the negative cohort using a mixed effective multivariable logistic regression analysis
+
+"Findings
+"Between [18 Jun 2020] and [9 Nov 2020], 44 reinfections (2 probable, 42 possible) were detected in the baseline positive cohort of 6614 participants, collectively contributing 1 339 078 days of follow-up. This compares with 318 new PCR positive infections and 94 antibody seroconversions in the negative cohort of 14 173 participants, contributing 1 868 646 days of follow-up. The incidence density per 100 000 person days between June and November 2020 was 3.3 reinfections in the positive cohort, compared with 22.4 new PCR confirmed infections in the negative cohort. The adjusted odds ratio was 0.17 for all reinfections (95% CI 0.13-0.24) compared to PCR confirmed primary infections. The median interval between primary infection and reinfection was over 160 days.
+
+"Interpretation
+"A prior history of SARS-CoV-2 infection was associated with an 83% lower risk of infection, with median protective effect observed 5 months following primary infection. This is the minimum likely effect as seroconversions were not included."
+
+Interesting results 5 months into the study. The 12-month results and duration of immunity following vaccination will be critical for a better understanding of the virus and immunity (both natural and vaccine induced). - Mod.MPP]
+
+******
+[3] Media snippets
+Date: Thu/Fri 14/15 Jan 2021
+Source: Al Jazeera [abridged, edited]
+https://www.aljazeera.com/tag/coronavirus-pandemic/
+
+
+- Brazil: Amazonas state running out of oxygen supplies https://www.aljazeera.com/news/2021/1/15/brazils-amazonas-state-running-out-of-oxygen-as-covid-19-surges
+The Brazilian state of Amazonas is running out of oxygen during a renewed surge in COVID-19 deaths, its government said on Thursday [14 Jan 2021], with media reporting that people on respirators were dying of suffocation in hospitals... Brazilian Health Minister Eduardo Pazuello said the hospital system in the city is collapsing from a 2nd wave of COVID-19 and it is running out of oxygen. He said the city's hospitals were short of medical staff as deaths surge again.
+
+[Other areas of limited resources are confronted with a similar crisis, running out of oxygen supplies. There has been media coverage of a possible similar shortage in Egypt (https://www.zawya.com/mena/en/story/No_medical_oxygen_shortages_reported_for_3_days_Egyptian_Health_Minister-SNG_197402913/) , Nigeria (https://www.journalducameroun.com/en/nigeria-press-highlights-shortage-of-oxygen-in-public-hospitals-others/), and Syria (https://reliefweb.int/report/syrian-arab-republic/north-west-syria-shortages-oxygen-water-coronavirus-cases-quadruple-two). - Mod.MPP]
+
+- Turkey launches vaccine drive despite efficacy concerns https://www.aljazeera.com/news/2021/1/14/vaccination-drive-kicks-off-in-turkey-despite-efficacy-concerns
+Turkish doctors and nurses rolled up their sleeves on Thursday [14 Jan 2021] as the nation of 83 million people launched a mass coronavirus vaccination drive with China's Sinovac jab. Health Minister Fahrettin Koca received the 1st shot of CoronaVac live on television after formally approving the vaccine on Wednesday [13 Jan 2021] despite contradictory data about its efficacy rate. Preliminary studies involving more than 7000 volunteers in Turkey showed CoronaVac to be 91.25% effective. The shot, however, came under scrutiny from regulators after the latest data from Brazil showed it to be just more than 50 percent effective -- slightly above the benchmark that the World Health Organization fixed for a vaccine to be effective for general use.
+
+[In a media report on 13 Jan 2021, there are results from a Brazilian vaccine trial showing an efficacy of 50.4% (https://www.aljazeera.com/news/2021/1/13/brazil-trial-finds-efficacy-of-sinovac-vaccine-at-50-4-percent). - Mod.MPP]
+
+- India: Kumbh Mela festival held in Haridwar https://www.aljazeera.com/news/2021/1/14/india-holds-massive-kumbh-mela-pilgrimage-amid-covid-worries
+Hindu pilgrims have descended on the banks of the Ganges river in northern India, shrugging off COVID-19 risks for the start of the Kumbh Mela (Pitcher Fair), a religious festival that regularly attracts millions. India's severe outbreak -- the 2nd-most coronavirus infections in the world and more than 150 000 deaths -- has not stopped devout Hindus from making the pilgrimage to Haridwar in Uttarakhand state. "The pandemic is a bit of a worry, but we are taking all precautions," said organiser Siddharth Chakrapani, who expected between 800 000 and a million people to attend on Thursday [14 Jan 2021] alone. "I am sure Maa Ganga [Mother Ganges] will take care of their safety," he added, referring to the river considered holy by the faithful. According to Hindu mythology, gods and demons fought a war over a sacred pitcher containing the nectar of immortality. Drops fell at 4 different locations, which now play host alternately for the immense gatherings.
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[Western countries had the great migration/homeward pilgrimages for the Chanukkah/Christmas/New Year's period. The Hajj was limited in Saudi Arabia this past year (2020), but Islamic pilgrimages still occurred. These are the hardest to ask people to forgo... - Mod.MPP]
+
+******
+[4] China: outbreak update
+Date: Thu 14 Jan 2021
+Source: New York Times [abridged, edited]
+https://www.nytimes.com/2021/01/13/world/asia/china-covid-lockdown.html
+
+
+When a handful of new coronavirus cases materialized this month [January 2021] in a province surrounding Beijing [Hebei] -- apparently spread at a village wedding party -- the Chinese authorities bolted into action. They locked down 2 cities with more than 17 million people, Shijiazhuang and Xingtai. They ordered a crash testing regime of nearly every resident there, which was completed in a matter of days. They shut down transportation and canceled weddings, funerals and, most significantly, a provincial Communist Party conference.
+
+By this week [week beginning 11 Jan 2021] the lockdowns expanded to include another city on the edge of Beijing, Langfang, as well as a county in Heilongjiang, a northeastern province. Districts in Beijing itself, the Chinese capital, also shut down. More than 22 million people in all have been ordered to remain inside their homes -- double the number affected last January [2020] when China's central government locked down Wuhan, the central city where the virus was 1st reported, in a move that was then seen as extraordinary.
+
+The flare-ups remain small compared with the devastation facing other countries, but they threaten to undercut the success the country's Communist Party has had in subduing the virus, allowing its economy to surge back after last year's [2020] slump and its people to return to something close to normal lives.
+
+The urgency of the government's current response stands in contrast to that of officials in Wuhan last year [2020] who feared a backlash if they disclosed the mysterious new illnesses then emerging. Local officials there had gone ahead with a Communist Party conference like the one now canceled in Hebei, despite knowing the risk of the disease spreading among people.
+
+Since Wuhan, the authorities have created a playbook that mobilizes party cadres to quickly respond to new outbreaks by sealing off neighborhoods, conducting widespread testing and quarantining large groups when needed. "In the process of infectious disease prevention and control, one of the key points is to seek truth from facts, to openly and transparently release epidemic information and never to allow covering up or underreporting," the Chinese premier, Li Keqiang, said at a meeting on Friday of the State Council, China's cabinet.
+
+China, a country of 1.4 billion people, has reported an average of 109 new cases a day over the past week, according to a New York Times database. Those would be welcome numbers in countries experiencing far worse -- including the United States, which is averaging more than 250 000 new cases a day -- but they are the worst in China since last summer [2020].
+
+On Thursday [14 Jan 2021], China's National Health Commission reported a coronavirus death in the mainland for the 1st time since May [2020].
+
+In Hebei, the province where the new outbreak has been concentrated, officials last week declared a "wartime state" that shows no sign of lifting soon.
+
+The outbreaks, coming after so long with minimal cases, have increased anxiety across China, where residents in most places felt like the pandemic was a thing of the past. New cases have also been reported in the northern province of Shanxi and the northeastern provinces of Heilongjiang and Jilin. Shanghai on Wednesday urged residents not to leave the city and announced that people who had traveled to risky areas should quarantine themselves at home for 2 weeks and leave only after passing two tests, while those who had traveled to the highest-risk areas faced quarantine in government facilities.
+
+In Wuhan, rumors swirled that the city could face a new lockdown; while those appeared unfounded, officials noticeably stepped up temperature checks on some streets. In Shunyi, a district in Beijing's northeast that includes Beijing Capital International Airport as well as rural villages, residents have been ordered to remain inside since a surge of cases just before the new year. At Beijing's main railroad stations, workers sprayed down public spaces with disinfectant.
+
+After a taxi driver tested positive over the weekend [9-10 Jan 2021] in Beijing, the authorities tracked down 144 passengers for additional tests, according to The Global Times, a state tabloid. Now anyone getting in a taxi or car service in Beijing has to scan a QR code from their phone, allowing the government to quickly trace them.
+
+The government has moved ahead on plans to vaccinate 50 million people ahead of the Lunar New Year next month [12 Feb 2021], a holiday when hundreds of millions of people traditionally crisscross the country to visit their families. By Wednesday [13 Jan 2021], more than 10 million doses had been distributed. Even with the vaccinations, officials have already warned people not to travel ahead of the holiday. "These measures, if well implemented, can ensure that no large-scale epidemic rebound occurs," Feng Zijian, the deputy director of China's Center for Disease Control, said at a briefing in Beijing on Wednesday [13 Jan 2021].
+
+While the new restrictions have inconvenienced millions, there appears to be no significant public resistance to them.
+
+The response underscored how quickly the government mobilizes its resources to contain outbreaks.
+
+After the lockdown was announced in Shijiazhuang on [6 Jan 2021], the authorities collected more than 10 million coronavirus test samples over the next 3 days -- nearly one for every resident, officials said at a news conference in the city. Those tests turned up 354 positive results, though some of the cases were asymptomatic. A 2nd round of mass nucleic acid testing began on Tuesday [12 Jan 2021].
+
+"Chinese cities enforce a residential system -- smaller ones have several hundred residents, big ones have tens of thousands -- and by shutting the gates you can lock in tens of thousands of people," Mr. Chen said in a telephone interview. "Now whenever they run into this kind of problem, they're sure to apply this method. That would be impossible in Western countries."
+
+[Byline: Steven Lee Myers; Chris Buckley and Keith Bradsher contributed reporting. Claire Fu contributed research.]
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[According to the daily updates issued by the National Health Commission (http://www.nhc.gov.cn/xcs/yqfkdt/gzbd_index.shtml; in Chinese), as of 14 Jan 2021 there have been a total of 570 symptomatic infections reported in Hebei since the outbreak began on 2 Jan 2021, and 110 cases reported in Heilongjiang since 10 Dec 2020 -- with a major increase in reported cases over the past 3 days (16, 43, and 43 on 12, 13, and 14 Jan 2021 respectively) in Heilongjiang.
+
+Genomic sequencing of the viruses circulating in the current hotspots in Hebei and Heilongjiang would be of interest to see if these hotspots might be related to new variants of the SARS-CoV-2.
+
+A map of China showing cities and provinces see https://www.chinadiscovery.com/assets/images/travel-guide/maps/Province-and-city-map.jpg. - Mod.MPP]
+
+******
+[5] WHO: daily new cases reported (as of 14 Jan 2021)
+Date: Thu 14 Jan 2021
+Source: WHO [abridged, edited]
+https://covid19.who.int/table
+
+
+*Daily case reports as of 14 Jan 2021 21:45 CET
+
+Surveillance
+------------
+WHO region (no. countries/territories):
+Total confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+--------------------------------------------------------------------------------
+Western Pacific Region (19): 1 227 622 (10 625) / 21 756 (249)
+European Region (61): 29 784 909 (248 308) / 649 106 (6201)
+South East Asia Region (10): 12 370 101 (31 106) / 189 716 (552)
+Eastern Mediterranean Region (22): 5 252 810 (27 930) / 126 581 (431)
+Region of the Americas (54): 40 187 505 (352 273) / 932 782 (7456)
+African Region (49): 2 237 380 (27 243) / 50 787 (946)
+Cases on an international conveyance (Diamond Princess): 745 (0) / 13 (0)
+
+Confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+Grand total: 91 061 072 (697 485) / 1 970 741 (15 835)
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[The number of countries and territories reporting confirmed cases of COVID-19 to WHO is now 219 with the reports of a case in Micronesia (see COVID-19 update (14): immune response, serology, dengue coinfection, WHO, global 20210112.8094266, section [5] for details.)
+
+Data by country, area, or territory for 13 Jan 2021 can be accessed at https://promedmail.org/wp-content/uploads/world-pdf/2021%20WHO%20Daily%20Tables%20Jan%2014_1610667637.pdf.
+
+- The Americas region reported 50.5% of daily case numbers and 47.1% of the daily deaths reported in the past 24 hours and maintained its position as the most severely affected region, having reported more than 40.18 million cases. The USA maintains its dominance followed by Brazil, Mexico, Colombia, and Argentina. 10 additional countries reported more than 1000 cases in the past 24 hours (Canada, Panama, Chile, Peru, Ecuador, Dominican Republic, Bolivia, Honduras, Paraguay, and Costa Rica) and an additional 4 countries (Guatemala, Uruguay, El Salvador, and Cuba) reported more than 500 but fewer than 1000 cases.
+
+- The European region reported 35.6% of daily case numbers and 39.2% of the daily deaths reported in the past 24 hours, and total cumulative cases reported exceed 29.78 million. Countries not reporting cases include Belgium, Israel, and Switzerland, among others. The UK maintains its dominance, followed by Germany, Russia, France, Spain, Italy, Czech Republic, and Portugal (reporting more than 10 000 cases). Another 5 countries reported more than 5000 but less than 10 000 cases (Turkey, Poland, Ukraine, Netherlands and Sweden) and 12 countries reported more than 1000 cases. An additional 7 countries reported more than 500 but fewer than 1000 cases.
+
+- The Eastern Mediterranean region reported 4.0% of daily case numbers and 2.7% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 5.25 million cases. Iran maintains its dominance, with over 6300 cases, followed by Lebanon, Tunisia, UAE, Pakistan, Morocco, and Jordan. Egypt, Palestinian Authority, Iraq, Libya, and Kuwait reported more than 500 but fewer than 1000 cases.
+
+- The African region reported 3.9% of daily case numbers and 6.0% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 2.23 million cases. South Africa maintains its dominance, with over 18 500 cases, followed by Nigeria, Zambia, and Zimbabwe. Mozambique, Malawi, and Ghana reported more than 500 but fewer than 1000 cases.
+
+- The Western Pacific region reported 1.5% of daily case numbers and 1.6% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 1.22 million cases. Japan maintains its dominance, reporting over 5300 cases, followed by Malaysia, Philippines, South Korea, and China.
+
+- The South East Asia region reported 4.5% of the daily newly reported cases and 3.5% of reported deaths in the past 24 hours, having reported a cumulative total of more than 12.37 million cases. India reported almost 17 000 cases, Indonesia almost 11 300 cases, followed by Bangladesh, Myanmar, Sri Lanka, and Nepal.
+
+On the Overview tab at the WHO source URL, the epidemic curve of confirmed COVID-19 cases by WHO region, 30 Dec 2019 through 14 Jan 2021, is an excellent visual representation of the pandemic. - Mod.MPP]
+
+******
+[6] Global update: Worldometer accessed 14 Jan 2021 21:38 EST (GMT-5)
+Date: Thu 14 Jan 2021
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at https://promedmail.org/wp-content/uploads/world-pdf/2021%20WORLDDATAJAN14_1610685408.pdf.
+
+A 7-day series of cumulative data reported by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/2021%20JAN14WORLD7_1610685509.pdf. - Mod.MPP]
+
+Total number of reported deaths: 2 002 310
+Total number of worldwide cases: 93 527 040
+Number of newly confirmed cases in the past 24 hours: 760 029
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[In the past 24 hours, the USA (232 065), Brazil (68 656), UK (48 682), and Spain (35 878) have reported the highest numbers of cases. A global total of 15 614 deaths were reported in the past 24 hours (13-14 Jan 2021).
+
+Countries reporting more than 10 000 newly confirmed cases in the past 24 hours (16 countries) include the USA, Brazil, UK, Spain, Russia (24 763), Germany (23 124), France (21 228), South Africa (18 503), Italy (17 243), Colombia (17 121), Mexico (16 468), India (15 677), Argentina (13 286), Indonesia (11 557), Czech Republic (10 922), and Portugal (10 698). A total of 58 countries reported more than 1000 cases in the past 24 hours; 26 of the 58 countries that reported more than 1000 newly confirmed cases are from the European region, 15 are from the Americas region, 8 are from the Eastern Mediterranean region, 2 are from the South East Asia region, 3 are from the Western Pacific region, and 4 from the African region.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, case counts have increased by 7.0%, while daily reported deaths have increased by 16.9%. Similar comparative 7-day averages in the United States show a 1.8% increase in daily reported cases and a 19.9% increase in reported deaths.
+
+Impression: The global daily reported cases are around 750 000 newly confirmed infections daily in the past 24-48 hours and over 93.52 million cumulative reported cases with over 2 million reported deaths. Countries in the European and the Americas regions are still showing the largest increases in daily new case counts. Africa has been showing increases over the last few weeks with now 4 countries reporting over 1000 cases per day. China has been reporting over 100 new cases per day for 4 out of the last 5 days, and it appears as though daily case counts are decreasing in South Korea. - Mod.MPP]
+See Also
+COVID-19 update (17): animal, China, origin, WHO experts mission 20210114.8103327
+COVID-19 update (16): vaccines, tracking variants, USA, travel, WHO, global 20210114.8102385
+COVID-19 update (15): variants wastewater, Canada, decr. infective time, WHO, global 20210113.8097998
+COVID-19 update (14): immune response, serology, dengue coinfection, WHO, global 20210112.8094266
+COVID-19 update (13): animal, USA, zoo, gorilla 20210112.8095510
+COVID-19 update (12): viral load, variants, Thailand, China, WHO, global 20210111.8091330
+COVID-19 update (11): variants, China, neutralizing ab. regional, WHO, global 20210110.8088708
+COVID-19 update (10): IgA, IL-6 receptor agonists, China, WHO, global 20210109.8086465
+COVID-19 update (01): variants, vaccine, Thailand, global, WHO 20210101.8062938
+2020
+----
+COVID-19 update (562): viral load, UK vacc dose, ECDC, WHO 20201231.8061525
+COVID-19 update (561): variants, China serosurvey, psychosis, WHO 20201230.8057135
+COVID-19 update (560): variants, Thailand, viral shedding, WHO 20201229.8054081
+COVID-19 update (550): mutation, query, Thailand, Taiwan, WHO, global, RFI 20201223.8040292
+COVID-19 update (500): frequent rapid tests, vaccine, WHO, global 20201122.7962919
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+Undiagnosed pediatric inflammatory syndrome (05): Europe, USA, COVID-19 assoc 20200518.7340554
+Undiagnosed pediatric inflammatory syndrome (04): USA, UK, PMIS, fatal 20200509.7315405
+Undiagnosed pediatric inflammatory syndrome (03): USA, Europe, COVID-19 susp, RFI 20200505.7299876
+COVID-19 update (150): global, USA state prisons, WHO 20200502.7290671
+COVID-19 update (100): China, S. Korea & high local transmission countries 20200413.7217806
+COVID-19 update (50): China (Hong Kong) animal dog, 2nd case PCR positive, OIE 20200323.7129951
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (41): China, global, clinical pics, asymptomatic trans., WHO 20200210.6976117
+Novel coronavirus (40): animal reservoir, pangolin poss intermediate host, RFI 20200210.6972104
+Novel coronavirus (30): updates, China, Viet Nam, research 20200202.6945658
+Novel coronavirus (20): China, wildlife trade ban 20200127.6922060
+Novel coronavirus (10): China (HU, GD, BJ) 20200119.6898567
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia: China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia: China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+----
+Undiagnosed pneumonia: China (HU): RFI 20191230.6864153
+and other items in the archives
+.................................................sb/mpp/lk/mpp/mj/ml
+</body>

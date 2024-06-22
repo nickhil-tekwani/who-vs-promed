@@ -1,0 +1,270 @@
+<header id=026763>
+Published Date: 2022-03-25 18:32:47 EDT
+Subject: PRO/AH/EDR> COVID-19 update (81): omicron, Ab response, infectivity, aspirin, WHO
+Archive Number: 20220325.8702228
+</header>
+<body id=026763>
+CORONAVIRUS DISEASE 2019 UPDATE (81): OMICRON NEUTRALIZATION, ANTIBODY RESPONSE, INFECTIVITY, ASPIRIN, WHO
+**********************************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] Omicron: neutralization profile
+[2] Antibody response
+[3] Rising R0 (reproduction rate)
+[4] Aspirin and COVID
+[5] WHO: daily new cases reported (as of 24 Mar 2022)
+[6] Global update: Worldometer accessed 24 Mar 2022 21:52 EST (GMT-5)
+
+******
+[1] Omicron: neutralization profile
+Date: Wed 23 Mar 2022
+Source: The New England Journal of Medicine (NEJM) [abridged, edited]
+https://www.nejm.org/doi/full/10.1056/NEJMc2201607
+
+
+ref: Rössler A, Knabl L, von Laer D, Kimpel J. Neutralization profile after recovery from SARS-CoV-2 omicron infection. N Engl J Med. 2022; https://www.nejm.org/doi/full/10.1056/NEJMc2201607
+--------------------------------------------------------------
+
+To the editor:
+
+Serum samples obtained from unvaccinated persons after infection with the B.1.1.7 (alpha), B.1.351 (beta), or B.1.617.2 (delta) variant of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) have been shown to neutralize the B.1.1.529 (omicron) variant only occasionally (1 [see source URL for complete references, tables, and figures]). Similarly, levels of neutralizing antibodies against the omicron variant are low and only short-lived after one or 2 doses of a coronavirus disease 2019 (COVID-19) vaccine but are enhanced in persons who have been vaccinated and have also been infected (that is, those with hybrid immunity) or in vaccinated persons who have received a booster dose (2,3).
+
+Little is known about neutralization profiles in persons who have recovered from infection with the omicron variant (4,5). Studies have focused primarily on either vaccinated persons who have had breakthrough infections with the omicron variant or unvaccinated persons whose history of previous infection is unknown. Here, we report the results of an analysis of neutralization profiles against 6 SARS-CoV-2 variants in serum samples obtained from persons who had recovered from infection with the omicron BA.1 variant, with or without preexisting SARS-CoV-2 immunity.
+
+In this retrospective study, we obtained serum samples 5-42 days after each person's 1st positive polymerase-chain-reaction (PCR) assay during infection with the omicron BA.1 variant. We included persons who had one of 4 constellations of SARS-CoV-2 immunity before infection with the omicron BA.1 variant: vaccinated without previous SARS-CoV-2 infection (15 persons); unvaccinated without previous SARS-CoV-2 infection (18 persons); vaccinated, with previous infection with the D614G (wild-type), alpha, or delta variant (11 persons); or unvaccinated, with previous infection with the wild-type, alpha, or delta variant (15 persons). Details regarding demographic and clinical characteristics of the study population are provided in Tables S1 through S5 in the Supplementary Appendix, available with the full text of this letter at NEJM.org. We analyzed neutralizing antibodies against the following replication-competent SARS-CoV-2 variants: wild-type, alpha, beta, P.1 (gamma), delta, and omicron BA.1. We included the time point with the highest titers against BA.1 in the main analysis (Fig. S1).
+
+We found that neutralizing antibody titers against all the variants were high among vaccinated persons after omicron BA.1 breakthrough infection and among vaccinated or unvaccinated persons who had had previous infection with the wild-type, alpha, or delta variant before infection with the omicron BA.1 variant (Figure 1, Fig. S2, and Table S6). Mean neutralizing antibody titers against the omicron BA.1 variant were lower than those against the other variants among previously vaccinated persons but were similar to those against the other variants among unvaccinated persons who had had infection with the wild-type, alpha, or delta variant before infection with the omicron BA.1 variant. In contrast, samples obtained from unvaccinated persons who had not had previous SARS-CoV-2 infection before infection with the omicron BA.1 variant contained mainly neutralizing antibodies against omicron BA.1 but only occasionally contained neutralizing antibodies against the other variants. It is surprising that 2 unvaccinated persons who were thought to have been reinfected had neutralizing antibodies against only the omicron BA.1 variant and one unvaccinated person had no neutralizing antibodies against any variant, despite the fact that each of the 3 persons had a reported single previous positive PCR assay for the delta variant 2 months before reinfection (Figure 1D). Because serum samples obtained from these persons did not neutralize the delta variant or any of the other variants except for omicron BA.1, it is possible that the previous PCR assay had yielded a false-positive result.
+
+Despite certain limitations of this study, including the small sample size and retrospective study design (Table S7), our data support the hypothesis that the omicron BA.1 variant is an extremely potent immune-escape variant that shows little cross-reactivity with the earlier variants. Therefore, unvaccinated persons who are infected with the omicron BA.1 variant only (without previous SARS-CoV-2 infection) might not be sufficiently protected against infection with a SARS-CoV-2 variant other than omicron BA.1; for full protection, vaccination is warranted.
+
+--
+communicated by:
+ProMED
+
+******
+[2] Antibody response
+Date: Wed 23 Mar 2022
+Source: Lancet Microbe [abridged, edited]
+https://bit.ly/3Nkn3m7
+
+
+ref: Guo L, Wang G, Wang Y, et al. SARS-CoV-2-specific antibody and T-cell responses 1 year after infection in people recovered from COVID-19: a longitudinal cohort study. Lancet Microbe. 2022; https://doi.org/10.1016/S2666-5247(22)00036-2
+--------------------------------------------------------
+
+Summary
+------
+Background: The memory immune response is crucial for preventing reinfection or reducing disease severity. However, the robustness and functionality of the humoral and T-cell response to SARS-CoV-2 remains unknown 12 months after initial infection. The aim of this study is to investigate the durability and functionality of the humoral and T-cell response to the original SARS-CoV-2 strain and variants in recovered patients 12 months after infection.
+
+Methods: In this longitudinal cohort study, we recruited participants who had recovered from COVID-19 and who were discharged from the Wuhan Research Center for Communicable Disease Diagnosis and Treatment at the Chinese Academy of Medical Sciences, Wuhan, China, between 7 Jan and 29 May 2020. Patients received a follow-up visit between 16 Dec 2020 and 27 Jan 2021. We evaluated the presence of IgM, IgA, and IgG antibodies against the SARS-CoV-2 nucleoprotein, Spike protein, and the receptor-binding domain 12 months after initial infection, using ELISA. Neutralising antibodies against the original SARS-CoV-2 strain, and the D614G, beta (B.1.351), and delta (B.1.617.2) variants were analysed using a microneutralisation assay in a subset of plasma samples. We analysed the magnitude and breadth of the SARS-CoV-2-specific memory T-cell responses using the interferon γ (IFNγ) enzyme-linked immune absorbent spot (ELISpot) assay and intracellular cytokine staining (ICS) assay. The antibody response and T-cell response (i.e., IFN-γ, interleukin-2 [IL-2], and tumour necrosis factor α [TNFα]) were analysed by age and disease severity. Antibody titres were also analysed according to sequelae symptoms.
+
+Findings: We enrolled 1096 patients, including 289 (26.4%) patients with moderate initial disease, 734 (67.0%) with severe initial disease, and 73 (6.7%) with critical initial disease. Paired plasma samples were collected from 141 patients during the follow-up visits for the microneutralisation assay. PBMCs were collected from 92 of 141 individuals at the 12-month follow-up visit, of which 80 were analysed by ELISpot and 92 by ICS assay to detect the SARS-CoV-2-specific memory T-cell responses. N-IgG (899 [82.0%]), S-IgG (1043 [95.2%]), RBD-IgG (1032 [94.2%]), and neutralising (115 [81.6%] of 141) antibodies were detectable 12 months after initial infection in most individuals. Neutralising antibodies remained stable 6 and 12 months after initial infection in most individuals younger than 60 years. Multifunctional T-cell responses were detected for all SARS-CoV-2 viral proteins tested. There was no difference in the magnitude of T-cell responses or cytokine profiles in individuals with different symptom severity. Moreover, we evaluated both antibody and T-cell responses to the D614G, beta, and delta viral strains. The degree of reduced in-vitro neutralising antibody responses to the D614G and delta variants, but not to the beta variant, was associated with the neutralising antibody titres after SARS-CoV-2 infection. We also found poor neutralising antibody responses to the beta variant; 83 (72.2%) of 115 patients showed no response at all. Moreover, the neutralising antibody titre reduction of the recovered patient plasma against the delta variant was similar to that of the D614G variant and lower than that of the beta variant. By contrast, T-cell responses were cross-reactive to the beta variant in most individuals. Importantly, T-cell responses could be detected in all individuals who had lost the neutralising antibody response to SARS-CoV-2 12 months after the initial infection.
+
+Interpretation: SARS-CoV-2-specific neutralising antibody and T-cell responses were retained 12 months after initial infection. Neutralising antibodies to the D614G, beta, and delta viral strains were reduced compared with those for the original strain, and were diminished in general. Memory T-cell responses to the original strain were not disrupted by new variants. This study suggests that cross-reactive SARS-CoV-2-specific T-cell responses could be particularly important in the protection against severe disease caused by variants of concern whereas neutralising antibody responses seem to reduce over time.
+
+--
+communicated by:
+ProMED
+
+******
+[3] Rising R0 (reproduction rate)
+Date: Wed 23 Mar 2022 12:06 IDT
+Source: Times of Israel [edited]
+https://www.timesofisrael.com/covid-reproduction-rate-continues-to-rise-fueling-fear-of-renewed-outbreak/
+
+
+The reproduction rate (R) of COVID-19 continued to rise [in Israel] on Tuesday [22 Mar 2022] and hit 1.39, according to Health Ministry statistics released Wednesday [23 Mar 2022] morning, up from 0.9 a week earlier and the highest figure since January [2022].
+
+Any R statistic above 1 means that each coronavirus carrier is infecting on average more than one person. The rising figure indicates that the virus is once again spreading in Israel. Some 13 384 new cases were diagnosed throughout the country on Tuesday [22 Mar 2022], bringing the total number of active cases to 64 271, of whom 849 are hospitalized.
+
+The number of patients in a serious condition dropped to 300 from 320 the previous day -- rises in serious cases generally lag behind trends in case numbers by at least a week -- and the number of patients on ventilators dropped from 138 to 119. Thirty COVID patients died in Israel in the past week, bringing the total number to 10 449 since the pandemic started.
+
+While Tuesday's figures mark a slight drop in the number of daily new cases confirmed compared to Monday [21 Mar 2022], the numbers have steadily been rising since January, when Israel was coming out of the omicron wave that started in December [2021].
+
+Professor Gili Rahav, the director of infectious diseases at Sheba Medical Center, said she believes the rise in new cases is driven in part by the BA.2 variant, a subvariant of omicron. "There are enough people who still haven't been sick and therefore could still be infected" by the variant, Rahav told Kan public radio on Tuesday [22 Mar 2022].
+
+The rising figures have raised fears among health experts who have warned that Israel could be moving in the same direction as the United Kingdom, where cases are rocketing. The UK -- England, Scotland, Wales and Northern Ireland -- saw some 3.3 million people infected, out of a population of 67 million, in the week ending 12 Mar 2022. There, the omicron wave had started to ebb at the beginning of January [2022], and cases continued to fall throughout February, before starting to increase again at the end of the month.
+
+But recent events like Purim, which saw many gatherings, and the funeral of the Haredi leader Rabbi Chaim Kanievsky, could have also contributed to the rise in new cases, noted Hebrew University epidemiologist Professor Ora Paltiel. Most of Israel's remaining coronavirus restrictions were scrapped in late February [2022] and as cases have dropped, the population has become less cautious.
+
+BA.2 is thought to be more infectious than the original omicron, but not necessarily more serious.
+
+Since the outbreak of the pandemic in March 2020, close to 3.8 million Israelis, about 40% of the population, have tested positive for COVID. Rahav said she believes the figure is closer to 50%, but noted that while those who have had omicron are likely to be protected from the current variants, "we know that those who had delta or alpha are certainly not protected."
+
+--
+communicated by:
+Mary Marshall
+<mjm2020@googlemail.com>
+
+******
+[4] Aspirin and COVID
+Date: Thu 24 Mar 2022
+Source: CIDRAP (Center for Infectious Disease Research and Policy) [abridged, edited]
+https://www.cidrap.umn.edu/news-perspective/2022/03/aspirin-may-cut-hospital-covid-death-not-need-organ-support
+
+
+A pair of new studies detail the role of aspirin in the treatment of COVID-19, one estimating lower rates of in-hospital death and pulmonary embolism in moderately ill patients, and the other showing that blood thinners didn't decrease the need for organ support in critically ill patients.
+
+Today [24 Mar 2022] in JAMA Network Open, a team led by George Washington University researchers published the results of an observational study on the outcomes of 112 269 COVID-19 patients hospitalized with moderate COVID-19 at 64 US health systems participating in the National Institute of Health's National COVID Cohort Collaborative (https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2790439).
+
+Patients were enrolled from 1 Jan 2020 to 10 Sep 2021. Death by 28 days occurred in 10.9% of all patients. The death rate was significantly lower in the 15 272 patients who received aspirin on their 1st day of hospitalization than in the 96 997 not given aspirin (10.2% vs 11.8%; odds ratio [OR], 0.85).
+
+"The relative mortality reduction of 13.6% and the absolute mortality reduction of 1.6% suggested that 63 patients would need to be treated with early aspirin to prevent one in-hospital death," the researchers wrote.
+
+The researchers said the findings are particularly important to countries in which effective COVID-19 vaccines are not widely available. "COVID-19 continues to cause more than 65 000 deaths per week worldwide, highlighting the need for accessible, inexpensive therapies in those who are not vaccinated."
+
+In a George Washington University press release, first author Jonathan Chow said, "This is our third study and the culmination of 15 months of work looking at aspirin use in hospitalized COVID-19 patients. We continue to find that aspirin use is associated with improved outcomes and lower rates of death in hospitalized patients. What's more, it's low cost and readily available" (https://www.eurekalert.org/news-releases/947456).
+
+Earlier this week, JAMA published the results of an RCT on the effect of antiplatelet (blood-thinning) medications such as aspirin on survival and organ support-free days in critically ill adult COVID-19 patients (https://jamanetwork.com/journals/jama/fullarticle/2790488).
+
+The ongoing adaptive platform trial testing multiple therapeutic interventions involved 1557 COVID patients randomly assigned to a blood-thinning therapy (either aspirin [565 patients] or a P2Y12 inhibitor [455]) or no antiplatelet therapy (529) for up to 14 days.
+
+Patients, all of whom were also given preventive anticoagulants, were enrolled from 105 sites in 8 countries from 30 Oct 2020 to 23 Jun 2021, and followed for up to 90 days. "Among critically ill patients with COVID-19, treatment with an antiplatelet agent, compared with no antiplatelet agent, had a low likelihood of providing improvement in the number of organ support-free days within 21 days," the researchers concluded.
+
+In a related editorial, Jean Connors and Paul Ridker, both of Brigham and Women's Hospital, said that all hospitalized COVID-19 patients at low risk for bleeding should receive, at minimum, preventive-dose heparin to prevent thromboinflammation (inflammation combined with blood clots) (https://jamanetwork.com/journals/jama/fullarticle/2790489). And while therapeutic-dose heparin can be considered in some cases, they said, "There is no proven efficacy supporting the addition of traditional antiplatelet therapies to prevent progressive thromboinflammatory complications of COVID-19." The clinical goal, Connors and Ridker wrote, "should be to avoid thromboinflammation and hospitalization in the first place, an objective largely achievable through aggressive vaccination."
+
+[byline: Mary Van Beusekom]
+
+--
+communicated by:
+Mary Marshall
+
+******
+[5] WHO: daily new cases reported (as of 24 Mar 2022)
+Date: Thu Mar 2022
+Source: WHO [abridged, edited]
+https://covid19.who.int/table
+
+
+*Daily case reports as of 24 Mar 2022 16:48 CET
+
+Surveillance
+------------
+WHO region (no. countries/territories):
+Total confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+-------------------------------------------------------------
+Western Pacific Region (19): 41 214 258 (696 859) / 204 667 (1236)
+European Region (61): 196 493 754 (856 461) / 1 926 119 (1639)
+South-East Asia Region (10): 56 873 726 (36 062) / 772 977 (276)
+Eastern Mediterranean Region (22): 21 528 136 (4716) / 339 813 (94)
+Region of the Americas (54): 150 000 891 (93 878) / 2 688 860 (1463)
+African Region (49): 8 548 145 (2040) / 170 906 (10)
+Cases on an international conveyance: 764 (0) / 13 (0)
+
+Confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+Grand total: 474 659 674 (1 690 016) / 6 103 355 (4718)
+
+--
+communicated by:
+ProMED
+
+[Data by country, area, or territory for 24 Mar 2022 can be accessed at https://promedmail.org/wp-content/uploads/world-pdf/2022%20WHO%20Data%20Tables%20MAR24_1648240345.pdf.
+
+- The European region -- currently the most affected region -- reported 50.6% of cases and 34.7% of deaths over the last 24 hours, with cumulative cases exceeding 196.49 million. Some countries reporting few or no cases in the last 24 hours or longer include Spain, Belgium (13 cases), Portugal, Sweden, and Tajikistan, among others. A total of 31 countries reported more than 1000 cases in the past 24 hours -- 2 countries reporting more than 100 000 cases, 8 reporting more than 10 000, and 21 reporting over 1000 cases, and one country reported more than 500 but fewer than 1000 cases.
+
+- The Americas region -- currently the 2nd most severely affected region -- reported 5.5% of cases and 31.0% deaths during the past 24 hours, having reported more than 150.0 million cases. Brazil reported 41 021 cases in the last 24 hours, followed by the USA. An additional 4 countries reported more than 1000 cases (Chile, Uruguay, Guatemala, and Canada) in the past 24 hours. Additionally, Costa Rica, Peru, Mexico, and Cuba reported more than 500 but fewer than 1000 cases.
+
+- The Eastern Mediterranean region reported 0.27% of daily case numbers and 1.9% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 21.52 million cases. Iran (1123) reported the highest number of cases over the last 24 hours, followed by Bahrain, Pakistan, and Lebanon.
+
+- The African region reported 0.12% of daily cases and 10 deaths during the past 24 hours, having reported a cumulative total of more than 8.54 million cases. South Africa (1393) reported the highest number of cases over the last 24 hours, followed by Zimbabwe and Cameroon. Most of the remaining countries reported fewer than 100 or 50 cases. A total of 28 countries did not report any cases over the last 24 hours.
+
+- The Western Pacific region reported 41.2% of daily case numbers and 26.1% deaths in the past 24 hours, having reported a cumulative total of more than 41.21 million cases. South Korea (395 598) reported the highest number of cases over the last 24 hours, followed by Viet Nam, Australia, Japan, Malaysia, New Zealand, Singapore, China, Laos, and Brunei.
+
+- The South East Asia region reported 2.1% of the daily newly reported cases and 5.8% of reported deaths in the past 24 hours, having reported a cumulative total of more than 56.87 million cases. Thailand (27 024) reported the highest number of cases, followed by Indonesia (5808), India (1938), Bhutan (659), Myanmar (261), and Sri Lanka (248).
+
+On the Overview tab at the WHO source URL, the epidemic curve of confirmed COVID-19 cases by WHO region, 30 Dec 2019 through 24 Mar 2022, is an excellent visual representation of the pandemic. - Mod.UBA]
+
+******
+[6] Global update: Worldometer accessed 24 Mar 2022 21:52 EST (GMT-5)
+Date: Thu 24 Mar 2022
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at https://promedmail.org/wp-content/uploads/world-pdf/2022%20WORLDDATA%20MAR24_1648240363.pdf.
+
+A 7-day series of cumulative totals reported by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/2022%20MAR24WORLD7_1648240379.pdf. The following commentary is derived from these data. - Mod.UBA]
+
+Total number of reported deaths: 6 133 843
+Total number of worldwide cases: 478 234 338
+Number of newly confirmed cases in the past 24 hours: 1 752 404
+
+--
+communicated by:
+ProMED
+
+[In the past 24 hours, 25 countries -- South Korea (339 396), Germany (305 592), France (148 635), Viet Nam (120 000), UK (97 819), Japan (85 668), Italy (82 648), Australia (59 053), Spain (54 147), Austria (41 607), Netherlands (39 086), USA (38 628), Brazil (37 690), Thailand (26 050), Russia (25 387), Malaysia (24 316), Switzerland (22 321), Greece (22 107), Turkey (16 894), Belgium (16 162), New Zealand (15 914), Hong Kong (13 074), Israel (13 001), Finland (12 502), and Chile (10 158) -- all reported over 10 000 newly confirmed cases. A global total of 5573 deaths were reported in the preceding 24 hours (late 22 Mar 2022 to late 23 Mar 2022).
+
+A total of 57 countries reported more than 1000 cases in the past 24 hours; 34 of the 57 countries are from the European region, 8 are from the Americas region, 3 are from the Eastern Mediterranean region, 9 are from the Western Pacific region, 3 from the South East Asia region, and none from the African region.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, case counts have decreased by 8.3%, while daily reported deaths have increased by 24.3%. Similar comparative 7-day averages in the USA show an 11.1% decrease in daily reported cases and a 28.5% increase in reported deaths. An overall global trend is noted of decreasing cases with an increase in reported deaths.
+
+Impression: The global daily report registered over 1.75 million newly confirmed infections in the past 24 hours with over 478.23 million cumulative reported cases and over 6.13 million reported deaths. - Mod.UBA]
+See Also
+COVID-19 update (80): animal, USA, deer, transmission 20220325.8702212
+COVID-19 update (79): vacc post-infection, child Ab, WHO 20220325.8702199
+COVID-19 update (78): pregnancy outcome, Asia, USA, partner violence, WHO 20220323.8702182
+COVID-19 update (77): preparedness, cancer survival, alcohol, repeat RAT, WHO 20220323.8702160
+COVID-19 update (76): South Korea, vaccines, Asia, boosters, WHO, global 20220320.8702091
+COVID-19 update (75): cognitive seq., USA, Israel, matern. transm., long COVID 20220320.8702083
+COVID-19 update (74): postpartum and long-term depression, China, tinnitus, WHO 20220318.8702053
+COVID-19 update (73): China, global, Pfizer, WHO 20220317.8702037
+COVID-19 update (72): France mask restrictions, deltacron, US prisons, WHO 20220316.8702014
+COVID-19 update (71): mortality, China, Pfizer, WHO 20220313.8701952
+COVID-19 update (70): case count, UK, BA.2, USA, WHO, global 20220312.8701940
+COVID-19 update (69): blood grp., host genetic var., mental decline, dexam., WHO 20220311.8701920
+COVID-19 update (68): brain changes, boosters, hotspots, USA, WHO, global 20220309.8701903
+COVID-19 update (67): Hong Kong, China, new normal, social determ. health, WHO 20220309.8701882
+COVID-19 update (66): post-COVID cardiovascular risks, N. Zealand, variants, WHO 20220306.8701826
+COVID-19 update (65): Ukraine, Eurosurveillance, blood types, WHO, global 20220304.8701798
+COVID-19 update (64): long COVID, IHCA, Ivermectin, India, WHO 20220303.8701774
+COVID-19 update (63): animal, Canada, wild deer 20220303.8701773
+COVID-19 update (62): Pfizer, children, CDC, vulnerable populations, WHO, global 20220303.8701755
+COVID-19 update (61): masks, bact. meta-transcriptomics, variants, ECMO, WHO 20220301.8701730
+COVID-19 update (60): animal, China, origin, research 20220227
+COVID-19 update (59): orphans, workforce, masks, AMA, Hong Kong, WHO, global 20220226.8701667
+COVID-19 update (58): heart, Canada vacc, mortality, masks, S Asia, WHO, global 20220226.8701656
+COVID-19 update (57): omicron BA.2, S Korea, MIS-C, vacc & blood clots, global 20220226.8701651
+COVID-19 update (56): animal, SARS-CoV-2 delta variant, cat 20220224.8701639
+COVID-19 update (55): masks, ivermectin, omicron re-infection, WHO 20220224.8701627
+COVID-19 update (54): long COVID, antiviral combo, S. Africa, Russian flu, WHO 20220223.8701598
+COVID-19 update (53): masks, Africa, nasal vaccine, WHO, global 20220219.8701554
+COVID-19 update (52): 4th dose, long COVID, Eurosurveillance, South Asia, WHO 20220218.8701538
+COVID-19 update (51): life-years lost, vacc & myocarditis, mask relaxation, WHO 20220217.8701520
+COVID-19 update (50): Hong Kong, estrogen risk, maternal vaccine benefits, WHO 20220217.8701501
+COVID-19 update (40): Denmark, rosemary, pregnancy, stroke, WHO 20220205.8701276
+COVID-19 update (30): variants in immuno-comp., stability, endemic, WHO 20220126.8701074
+COVID-19 update (20): Africa vacc., Taiwan, waning immunity, persistence, global 20220117.8700915
+COVID-19 update (10): animal, omicron origin statement, OIE 20220110.8700763
+COVID-19 update (01): omicron severity & changes, Germany, T-cell reactivity 20220101.8700616
+2021
+---
+COVID-19 update (452): rapid test, omicron, Ab neutralization, school, WHO 20211230.8700597
+COVID-19 update (451): animal, USA, wild deer 20211230.8700589
+COVID-19 update (450): maternal Abs, CDC isolation guidance, WHO 20211230.8700575
+COVID-19 update (400): animal, sheep, research, experimental infection 20211121.8699806
+COVID-19 update (350): boosters, deaths, cases, vaccines, WHO 20211014.8699041
+COVID-19 update (300): Norway, myocarditis, schools, new variant C.1.2, WHO 20210901.8638460
+COVID-19 update (200): animal, China, origin 20210608.8433657
+COVID-19 update (100): antibodies, vaccine, Thailand, Cambodia, WHO, global 20210316.8250009
+COVID-19 update (50): UK vaccine study, Brazil reinfection, WHO 20210205.8167161
+COVID-19 update (01): variants, vaccine, Thailand, global, WHO 20210101.80629382020
+2020
+---
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+COVID-19 update (562): viral load, UK vacc dose, ECDC, WHO 20201231.8061525
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia: China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia: China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+---
+Undiagnosed pneumonia: China (HU): RFI 20191230.6864153
+and other items in the archives
+.................................................sb/lk/mpp/uba/rd/sh
+</body>

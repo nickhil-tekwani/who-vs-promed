@@ -1,0 +1,228 @@
+<header id=045787>
+Published Date: 2022-01-01 12:58:56 EST
+Subject: PRO/AH/EDR> COVID-19 update (01): omicron severity & changes, Germany, T-cell reactivity
+Archive Number: 20220101.8700616
+</header>
+<body id=045787>
+CORONAVIRUS DISEASE 2019 UPDATE (01): OMICRON SEVERITY AND CHANGES, GERMANY, T-CELL REACTIVITY
+**********************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] Omicron
+[A] Severity
+[B] Variant changes
+[2] Germany: case count
+[3] T-cell reactivity
+[4] WHO: daily new cases reported (as of 30 Dec 2021)
+[5] Global update: Worldometer accessed 30 Dec 2021 21:15 EST (GMT-5)
+
+******
+[1] Omicron
+[A] Severity
+Date: Wed 28 Dec 2021
+Source: Research Square [abridged, edited]
+https://assets.researchsquare.com/files/rs-1203019/v1_covered.pdf
+
+
+ref: Ahmad S, Brown B, Charlett A, et al. Early signals of omicron severity in sentinel UK hospitals [preprint]. Research Square. 2021; https://doi.org/10.21203/rs.3.rs-1203019/v1
+-----------------------------------------------------------
+
+Abstract
+--------
+On 26 Nov 2021, a novel SARS-CoV-2 variant B.1.1.529 (omicron variant) was designated as a variant of concern by the World Health Organisation. Using data from the virology laboratory at the Manchester Medical Microbiology Partnership (MMMP, a partnership between UKHSA and the Manchester Foundation Trust), we have extracted a real-time feed of omicron samples from hospitals across Greater Manchester, an area of the United Kingdom with a population size of approximately 3 million individuals. Omicron hospital samples are growing exponentially across Greater Manchester (doubling time 2.7 days [95% confidence interval: 2.1, 3.7]). The proportion of omicron in hospital samples follows a similar trajectory to the SGTF proportion in cases, but with a 2-day offset. This is consistent with the delay from testing positive to hospital admission, implying a similar proportion of omicron cases are converting to hospital admissions as for delta cases. Comparing the Greater Manchester data to national hospitalisation data, similar tends are observed. Therefore, there is no signal of a substantial reduction in hospital admission risk with omicron, and omicron epidemics are likely to place a substantial burden on public health infrastructure.
+
+Introduction
+------------
+In this paper, we use data provided by the virology laboratory at the Manchester Medical Microbiology Partnership to extract real-time data on the genotype of hospital specimens with COVID-19 taken from across Greater Manchester. This laboratory performs genotyping on all PCR-positive tests taken in hospitals in Greater Manchester. Based on the genotyping assay results, tests are assigned to be delta or omicron (or unknown). These Pillar 1 tests correspond to infections detected by hospital labs in the region, so this information provides a sentinel data stream to assess the severity of the novel omicron variant. This cannot be obtained from the routinely collected Secondary User System (SUS) hospital admissions data because these are only updated after patient spells are complete, and therefore too lagged to provide insights at this early stage. Moreover, testing performed in hospitals in England does not use the TaqPath technology that provides information on gene targets. Using genotyping assay results, we estimate the real-time exponential growth rate for both the omicron admissions in Greater Manchester and the proportion of admissions with COVID-19 in Greater Manchester that are infected with the omicron variant. Time varying instantaneous growth rates are estimated using a generalised additive model (GAM). This analysis is further conducted on national Pillar 1 data.
+
+Discussion
+----------
+Omicron is rapidly replacing delta as the main variant associated with community cases and Pillar 1 tests across Greater Manchester. However, with the proportion of omicron below 50% in the Pillar 1 data, total admissions trends are subsuming any clear signal of omicron growth. Therefore, there is potentially substantial growth about to enter the healthcare system that cannot be identified without stratifying hospitalisation data by variant. Applying the methods to national Pillar 1 data, we observe similar trends to those identified in Greater Manchester. This demonstrates that the impact of omicron on hospital admissions is widespread throughout the country and is likely to place substantial burden on the National Health Service as a whole. When linking Pillar 1 to hospital records, omicron is taking over from delta slightly slower than in the Pillar 1 data, but is still growing exponentially, suggesting hospital admission rates of a similar magnitude across omicron and delta.
+
+The high rate at which omicron is spreading in the hospital testing data, and the rate at which it is taking over from delta, show that if there is a reduction in severity in relation to delta (Wolter et al, 2021; Imperial College, 2021 [see source URL for references]), it is unlikely to be sufficient to prevent substantial hospital burden.
+
+In the UK, the rollout of the booster vaccination programme has rapidly escalated over the last few weeks. Coupled with the rollout of mild non-pharmaceutical interventions, this may act to slow the spread of omicron, and ease some of the upcoming hospital burden. However, with such short doubling times and the long lag between infection and detection, there are potentially multiple doublings left in both case and admissions data before the influence of these interventions are observed in the data (Pellis et al, 2021). In this time, substantial pressure could be applied to the healthcare system.
+
+--
+communicated by:
+Mary Marshall
+<mjm2020@googlemail.com>
+
+[Thanks to Roland Hübner for this weblink.]
+
+---
+[B] Variant changes
+Date: Tue 28 Dec 2021
+Source: MRC-University of Glasgow Centre for Viral Research [edited]
+https://www.gla.ac.uk/researchinstitutes/iii/cvr/engage/news/headline_829358_en.html
+
+
+The omicron variant of SARS-CoV-2 represents a step-change in the COVID-19 pandemic with record numbers of new daily infections being reported across the globe. However, quite why omicron is spreading so rapidly remains unknown.
+
+Researchers at the MRC-University of Glasgow Centre for Virus Research have used laboratory experiments and real-world infection data to investigate omicron. Their work has revealed fundamental changes that are likely to be important for omicron spread and disease.
+
+- In laboratory tests, omicron is largely unaffected by the antibodies provided by 2 doses of COVID-19 vaccine, but responses are improved by a 3rd dose booster.
+- Importantly, this is confirmed by analysis of real-world infection data; omicron escapes immunity from 2 vaccine doses, but 3 doses restores good levels of protection.
+- The work also provides evidence that omicron has switched its route of entry in to human cells. This is likely to influence omicron spread and the types of cells it can hijack.
+
+--
+communicated by:
+Mary Marshall
+
+[Thanks to Sabine Zentis for this weblink. The citation and abstract and an excerpt of the above preprint follow:
+Willett BJ, Grove J, MacLean OA, et al. The hyper-transmissible SARS-CoV-2 omicron variant exhibits significant antigenic change, vaccine escape and a switch in cell entry mechanism. 2021; https://www.gla.ac.uk/media/Media_829360_smxx.pdf
+---------------------------------------------------------------
+
+Abstract
+--------
+"Vaccination-based exposure to spike protein derived from early SARS-CoV-2 sequences is the key public health strategy against COVID-19. Successive waves of SARS-CoV-2 infections have been characterised by the evolution of highly mutated variants that are more transmissible and that partially evade the adaptive immune response. Omicron is the 5th of these "variants of concern" (VOC) and is characterised by a step change in transmission capability, suggesting significant antigenic and biological change. It is characterised by 45 amino acid substitutions, including 30 changes in the spike protein relative to one of the earliest sequences, Wuhan-Hu-1, of which 15 occur in the receptor binding domain, an area strongly associated with humoral immune evasion. In this study, we demonstrate both markedly decreased neutralisation in serology assays and real-world vaccine effectiveness in recipients of 2 doses of vaccine, with efficacy partially recovered by a 3rd mRNA booster dose. We also show that immunity from natural infection (without vaccination) is more protective than 2 doses of vaccine but inferior to 3 doses. Finally, we demonstrate fundamental changes in the omicron entry process in vitro, towards TMPRSS2-independent fusion, representing a major shift in the replication properties of SARS-CoV-2. Overall, these findings underlie rapid global transmission and may alter the clinical severity of disease associated with the omicron variant."
+
+This paper describes "an altered entry pathway that favours endosomal fusion over the TMPRSS2-dependent, cell surface fusion utilised by all previous variants of SARS-CoV-2.... This switching in the mechanism of fusion activation also manifests in reduced syncytia formation in infected cells, likely to reduce the cell-to-cell transmission characteristic of other variants. These properties have the potential to substantially change cellular tropism and pathogenesis of disease. Nonetheless, even a variant that is less virulent with a very high transmission rate may still present a substantial risk to older people and those with co-morbidities, especially those with immunosuppression. Moreover, our work demonstrates that SARS-CoV-2 exhibits high antigenic and functional plasticity; further fundamental shifts in transmission and disease should be anticipated." - Mod.LK]
+
+******
+[2] Germany: case count
+Date: Wed 29 Dec 2021 11:20 EST
+Source: Reuters [edited]
+https://www.reuters.com/world/europe/german-health-minister-says-covid-incidence-rate-2-3-times-higher-than-official-2021-12-29/
+
+
+German health minister Karl Lauterbach said on Wednesday [29 Dec 2021] that the number of new coronavirus cases has been underreported and the actual incidence rate of infections is about 2 or 3 times higher than the officially reported figure. Lauterbach said the underreporting was due to fewer tests being performed at workplaces and at doctors' practices during the holiday season, as well as only a few of those test results being submitted to authorities. Lauterbach also expressed concern about a clear rise in cases of the omicron variant and appealed to people to celebrate the New Year only in small groups.
+
+Der Spiegel magazine reported on Wednesday [29 Dec 2021] that Lauterbach is in favour of shortening quarantine periods over fears the country will soon grind to a halt given how many people are having to self-isolate protectively. Germany's Robert Koch Institute (RKI) for infectious diseases currently recommends that infected people go into quarantine for 14 days, even if they are vaccinated or recovered.
+
+Hajo Zeeb of the Leibniz Institute for Prevention Research and Epidemiology also doubted the accuracy of Germany's reported figures for the coronavirus and the omicron variant. "The figures now are certainly underreported," he told the media group RedaktionsNetzwerk Deutschland.
+
+The RKI on Wednesday [29 Dec 2021] reported 2686 new cases of the variant, bringing the total number to 13 129. Four people have died with the variant. The 7-day incidence rate, which has been a key metric for determining coronavirus policy, was reported as 205.5 cases per 100 000 residents, the lowest figure since early November [2021]. This translated into 40 043 new cases over the past 24 hours. In neighbouring France, by comparison, authorities on Wednesday [29 Dec 2021] reported 208 000 new cases.
+
+A spokesperson for the German Health Ministry said earlier Wednesday [29 Dec 2021] that the government expects a clearer picture of the infection situation early next year [2022]. "The number of infections is an important indicator, but of course it's not the only one," the spokesperson said.
+
+The sinking incidence rate comes despite repeated warnings by health officials of an impending 5th wave of infections. The Health Ministry confirmed Tuesday [28 Dec 2021] that Germany is buying one million packs of Paxlovid from Pfizer, which has said that the pill cuts by 89% the chance of hospitalization or death for adults at risk of severe disease.
+
+[byline: Miranda Murray and Michael Nienaber]
+
+--
+communicated by:
+Mary Marshall
+
+[Germany is apparently having the same debate the USA is currently over whether to shorten the quarantine period and try to help the economy vs maintaining the 14-day period because of the transmissibility of the virus. - Mod.LK]
+
+******
+[3] T-cell reactivity
+Date: Thu 30 Dec 2021
+Source: bioRxiv [abridged, edited]
+https://www.biorxiv.org/content/10.1101/2021.12.30.474453v1.full.pdf
+
+
+ref: De Marco L, D'Orso S, Pirronello M, et al. Preserved T cell reactivity to the SARS-CoV-2 omicron variant indicates continued protection in vaccinated individuals [preprint]. bioRxiv. 2021; https://doi.org/10.1101/2021.12.30.474453
+-------------------------------------------------------------
+
+Abstract
+--------
+Importance: The emergence of the highly contagious omicron variant of SARS-CoV-2 and the findings of a significantly reduced neutralizing potency of sera from convalescent or vaccinated individuals imposes the study of cellular immunity to predict the degree of immune protection to the yet again new coronavirus.
+Design: Prospective monocentric observational study.
+Setting: Conducted between 20-21 Dec 2021 at the Santa Lucia Foundation IRCCS.
+Participants: 61 volunteers (mean age 41.62, range 21-62; 38 female/23 male) with different vaccination and SARS-CoV-2 infection backgrounds donated 15 mL of blood. Of these donors, one had recently completed chemotherapy, and one was undergoing treatment with monoclonal antibodies; the others reported no known health issue.
+Main outcome(s) and measure(s): The outcomes were the measurement of T-cell reactivity to the mutated regions of the spike protein of the omicron SARS-CoV-2 variant and the assessment of remaining T-cell immunity to the spike protein by stimulation with peptide libraries.
+Results: Lymphocytes from freshly drawn blood samples were isolated and immediately tested for reactivity to the spike protein of SARS-CoV-2. T-cell responses to peptides covering the mutated regions in the omicron variant were decreased by over 47% compared to the same regions of the ancestral vaccine strain. However, overall reactivity to the peptide library of the full-length protein was largely maintained (estimated 83%). No significant differences in loss of immune recognition were identified between groups of donors with different vaccination and/or infection histories.
+Conclusions and relevance: We conclude that despite the mutations in the spike protein, the SARS-CoV-2 omicron variant is nonetheless recognized by the cellular component of the immune system. It is reasonable to assume that protection from hospitalization and severe disease is maintained.
+
+Discussion
+----------
+Compared to the Wuhan strain, the omicron variant carries over 35 mutations in the spike protein. The impact of these mutations on antibody recognition has been shown to be substantial, with a significant loss of neutralizing activity in serum from both convalescent and vaccinated individuals (2,11 [see source URL for complete references]). In previous variants, although antibody neutralizing potency was decreased, T-cell responses were maintained (4,12), although some mutations have been shown to affect CD8 T-cell recognition (13). Here, we find that T-cell responses against the mutated regions in omicron are strongly affected. However, as these regions cover only a small fraction of the whole protein, the overall response against omicron spike appears to be largely preserved. Reactivity to the variant was similar regardless of vaccination and/or infection history. The finding of persisting and robust T-cell responses despite the mutations in omicron thus provide confidence that the cellular immunity against this variant will not be compromised.
+
+--
+communicated by:
+Mary Marshall
+
+[Thanks to Roland Hübner for this link.]
+
+******
+[4] WHO: daily new cases reported (as of 30 Dec 2021)
+
+[On the WHO COVID-19 Dashboard, the last data updates are as of 4 pm CET 29 Dec 2021. There is a notice: "Kindly note that the case and death data for the Region of the Eastern Mediterranean are incomplete and next dashboard update will be on Tue 4 Jan 2022 due to the holiday schedule.
+
+"Please note that we are currently experiencing technical difficulties with the Public Health and Social Measures (PHSM) data from the WHO European Region. Please refer directly to the WHO European Region COVID-19 PHSM Dashboard (PHSM tab below the map) for up-to-date information."
+
+For graphic representation, use the following link to access comparative country graphs on the EIOS system (Epidemic Intelligence from Open Sources): https://bit.ly/3hxFSDk. - Mod.UBA]
+
+******
+[5] Global update: Worldometer accessed 30 Dec 2021 21:15 EST (GMT-5)
+Date: Thu 30 Dec 2021
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at https://promedmail.org/wp-content/uploads/world-pdf/2021%20WORLDDATA%20DEC30_1641007068.pdf.
+
+A 7-day series of cumulative totals reported by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/2021%20DEC30WORLD7_1641007110.pdf. The figures in the commentary that follows are derived from this table. Mod.UBA]
+
+Total number of reported deaths: 5 446 315
+Total number of worldwide cases: 286 891 918
+Number of newly confirmed cases in the past 24 hours: 1 982 780
+
+--
+communicated by:
+ProMED
+
+[In the past 24 hours, 24 countries -- the USA (595 957), France (206 243), the UK (188 124), Spain (161 688), Italy (127 000), Argentina (50 506), Germany (41 820), Turkey (39 681), Canada (39 836), Greece (35 580), Australia (34 502), Portugal (28 659), Belgium (26 821), India (24 533), Russia (21 073), Ireland (20 554), Denmark (20 280), Viet Nam (19 868), Switzerland (18 976), Netherlands (14 778), Poland (14 326), Brazil (13 405), South Africa (12 978), and Sweden (11 121) -- all reported more than 10 000 newly confirmed cases. A global total of 7688 deaths were reported in the preceding 24 hours (late 28 Dec 2021 to late 29 Dec 2021).
+
+The exponential rise in cases over the last couple of weeks can be attributed to the rapid increase in the omicron variant cases in over 90 countries. Studies suggest that omicron variant is milder than the previously dominant delta variant, but the large number of cases caused by this highly infectious variant threatens to overwhelm hospitals and health systems. However, the major differences seen on account of testing delays over the holiday period will likely continue over the coming weekend; the rolling 7-day average is a more precise indicator to follow the trends of the pandemic, which indicate an increasing global trend on cases with some reduction in deaths.
+
+A total of 69 countries reported more than 1000 cases in the past 24 hours; 40 of the 69 countries are from the European region, 9 are from the Americas region, 5 are from the Western Pacific region, 2 are from the Eastern Mediterranean region, 3 from the South East Asia region, and 10 are from the African region.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, case counts have increased by 58.4%, while daily reported deaths have decreased by 9.6%. Similar comparative 7-day averages in the USA show an 85.4% increase in daily reported cases and a 21.2% increase in reported deaths.
+
+Impression: The global daily report counted over 1.98 million newly confirmed infections in the past 24 hours with over 286.89 million cumulative reported cases and over 5.44 million reported deaths. - Mod.UBA]
+See Also
+2021
+---
+COVID-19 update (452): rapid test, omicron, Ab neutralization, school, WHO 20211230.8700597
+COVID-19 update (451): animal, USA, wild deer 20211230.8700589
+COVID-19 update (450): maternal Abs, CDC isolation guidance, WHO 20211230.8700575
+COVID-19 update (449): global, Israel vacc, pregnancy, future, WHO 20211229.8700554
+COVID-19 update (448): France, persistent viral RNA 20211228.8700520
+COVID-19 update (447): animal, USA (PA) zoo, lynx 20211227.8700517
+COVID-19 update (446): masks, boosters, dysphonia, global 20211226.8700504
+COVID-19 update (444): omicron symptoms, mistakes, genetic selection, global 20211225.8700488
+COVID-19 update (443): China, masks, quarantine, South Asia, WHO, global 20211224.8700466
+COVID-19 update (442): omicron, wastewater, severity, met synd, Paxlovid, WHO 20211224.8700457
+COVID-19 update (441): omicron, Germany wastewater detection, rapid tests, WHO 20211222.8700438
+COVID-19 update (440): omicron sever., post vacc. graft rejec., Europe, US, WHO 20211222.8700421
+COVID-19 update (439): animal, UK (England) zoo, tiger, OIE 20211221.8700411
+COVID-19 update (438): UK, Ireland, vaccine certificates, updates global 20211221.8700399
+COVID-19 update (437): omicron spread, UK, France, sports teams, global 20211220.8700382
+COVID-19 update (436): USA schools, UK hospitals, South Africa, immunity, WHO 20211219.8700372
+COVID-19 update (435): PAHO, UK, Europe, omicron impact, South Asia, WHO, global 20211217.8700352
+COVID-19 update (434): ECDC risk assessment, Australia, China, boosters, WHO 20211217.8700320
+COVID-19 update (433): animal, Colombia (AT) zoo, lion, OIE 20211216.8700315
+COVID-19 update (432): omicron spread, modeling, cardiac effects, China, WHO 20211215.8700298
+COVID-19 update (431): breakthrough infections, China, Trinidad Tobago, DRC, WHO 20211215.8700273
+COVID-19 update (430): animal, USA, Russia, Finland, vaccines 20211214.8700260
+COVID-19 update (420): animal, Poland (KP) mink, OIE 20211207.8700127
+COVID-19 update (410): omicron, WHO update, impact, patience, global 20211130.8699966
+COVID-19 update (400): animal, sheep, research, experimental infection 20211121.8699806
+COVID-19 update (350): boosters, deaths, cases, vaccines, WHO 20211014.8699041
+COVID-19 update (300): Norway, myocarditis, schools, new variant C.1.2, WHO 20210901.8638460
+COVID-19 update (200): animal, China, origin 20210608.8433657
+COVID-19 update (100): antibodies, vaccine, Thailand, Cambodia, WHO, global 20210316.8250009
+COVID-19 update (50): UK vaccine study, Brazil reinfection, WHO 20210205.8167161
+COVID-19 update (01): variants, vaccine, Thailand, global, WHO 20210101.80629382020
+2020
+---
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+COVID-19 update (562): viral load, UK vacc dose, ECDC, WHO 20201231.8061525
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia: China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia: China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+---
+Undiagnosed pneumonia: China (HU): RFI 20191230.6864153
+.................................................sb/lk/uba/rd/sh
+</body>

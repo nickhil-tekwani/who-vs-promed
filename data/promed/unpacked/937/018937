@@ -1,0 +1,50 @@
+<header id=018937>
+Published Date: 2015-12-15 15:12:53 EST
+Subject: PRO/EDR> Human pegivirus 2: description
+Archive Number: 20151215.3864342
+</header>
+<body id=018937>
+HUMAN PEGIVIRUS 2: DESCRIPTION
+******************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+Date: Mon 14 Dec 2015
+Source: Genome Web [edited]
+https://goo.gl/3kCttN
+
+
+A team led by investigators at the University of California, San Francisco-Abbott Viral Diagnostics and Discovery Center has identified a new humans pegivirus in a subset of individuals infected with hepatitis C virus (HCV). As they reported in PLOS Pathogens, the researchers did metagenomic sequencing on blood samples from more than 150 individuals with chronic liver disease, identifying a handful of reads corresponding to human pegivirus 2, or HPgV-2, in an individual who had been infected with HCV and died from sepsis.
+
+Using new diagnostic assays aimed at the virus, the team screened thousands more blood samples, turning up 11 more HPgV-2-postive samples, all from individuals with HCV. Along with an analysis of complete or partial genome sequences for the viruses, the group characterized the patients' antibody responses to the HPgV-2 to start unraveling its transmission patterns and potential consequences for infected individuals. "Our next step is to explore whether this new virus can cause disease, and if so, work with blood banks to continue to help safeguard the world's blood supply against these types of new viruses," co-author John Hackett, Jr., vice president of applied research and technology at Abbott Laboratories, said in a statement. The HPgV-2 that Hackett and his colleagues identified in the 1st of the HCV patients was roughly 96 percent identical to a human pegivirus described in mBio by researchers from Columbia University and elsewhere. That virus, dubbed human hepegivirus 1 (HHPgV-1), was identified in blood transfusion recipients in the US or Europe. Meanwhile, studies going back a decade hinted at the presence of an apparently non-pathogenic human pegivirus -- known as HPgV-1 or GBV-C -- in blood samples from some hepatitis patients.
+
+With that in mind, Chiu and colleagues did metagenomic sequencing on blood samples from 169 individuals who had been treated for chronic liver disease at the University of Chicago Medical Center. With the help of a bioinformatics pipeline focused on pathogen detection, they narrowed in on HPgV-2 reads in the index patient, a deceased 70-year-old woman with a history of sickle cell disease, HCV infection, and kidney problems. Through deeper Illumina sequencing coupled with Sanger sequencing, the team put together an almost 9900 base draft genome assembly for HPgV-2, which appeared to be distantly related to pegiviruses found in bat and rodent hosts. Additional metagenomic sequencing on another blood sample from the same individual confirmed the HPgV-2 infection and produced reads that the researchers used to assemble an independent HPgV-2 genome assembly that was nearly identical to the original draft sequence. To get a sense of how widespread HPgV-2 infection might be, they used a combination of multiplex RT-PCR and serological assays to screen thousands more blood samples from individuals with or without HCV, HIV, and/or hepatitis B virus infection. In the process, the team narrowed in on 11 samples with HPgV-2 RNA. All of the infected individuals also had HCV. On the other hand, the new pegivirus did not turn up in almost 1500 screened samples from virus-free individuals nor in almost 500 individuals infected with HIV alone.
+
+Based on complete genomes for 8 of the HPgV-2 isolates and partial genome sequences for 4 more, the researchers saw some 93 to 94 percent identity between the HPgV-2 strains identified in the study. Finally, although HPgV-2 infection was only identified in those with HCV, the study's authors did see some HCV-free individuals with apparent antibodies to the virus, hinting that they may have successfully cleared the virus. Such findings suggest HCV co-infection contributes to HPgV-2 persistence, they speculated, though further research is needed to explore the prevalence and pathogenic potential of HPgV-2.
+
+--
+Communicated by:
+ProMED-mail from HealthMap Alerts
+<promed@promedmail.org>
+
+[The manuscript citation and abstract is:
+Berg MG, Lee D, Coller K, et al: Discovery of a novel human pegivirus in blood associated with hepatitis C virus co-infection. PLOS Pathogens 2015; 10.1371/journal.ppat.1005325
+
+Abstract:
+"Hepatitis C virus (HCV) and human pegivirus (HPgV), formerly GBV-C, are the only known human viruses in the Hepacivirus and Pegivirus genera, respectively, of the family Flaviviridae. We present the discovery of a 2nd pegivirus, provisionally designated human pegivirus 2 (HPgV-2), by next-generation sequencing of plasma from an HCV-infected patient with multiple bloodborne exposures who died from sepsis of unknown etiology. HPgV-2 is highly divergent, situated on a deep phylogenetic branch in a clade that includes rodent and bat pegiviruses, with which it shares less than 32 percent amino acid identity. Molecular and serological tools were developed and validated for high-throughput screening of plasma samples, and a panel of 3 independent serological markers strongly correlated antibody responses with viral RNA positivity (99.9 percent negative predictive value). Discovery of 11 additional RNA-positive samples from a total of 2440 screened (0.45 percent) revealed 93-94 percent nucleotide identity between HPgV-2 strains. All 12 HPgV-2 RNA-positive cases were identified in individuals also testing positive for HCV RNA (12 of 983; 1.22 percent), including 2 samples co-infected with HIV, but HPgV-2 RNA was not detected in non-HCV-infected individuals (p less than 0.0001), including those singly infected by HIV (p = 0.0075) or HBV (p = 0.0077), nor in volunteer blood donors (p = 0.0082). 9 of the 12 (75 percent) HPgV-2 RNA positive samples were reactive for antibodies to viral serologic markers, whereas only 28 of 2429 (1.15 percent) HPgV-2 RNA negative samples were seropositive. Longitudinal sampling in 2 individuals revealed that active HPgV-2 infection can persist in blood for at least 7 weeks, despite the presence of virus-specific antibodies. One individual harboring both HPgV-2 and HCV RNA was found to be seronegative for both viruses, suggesting a high likelihood of simultaneous acquisition of HCV and HPgV-2 infection from an acute co-transmission event. Taken together, our results indicate that HPgV-2 is a novel bloodborne infectious virus of humans and likely transmitted via the parenteral route."
+
+This virus is a newly described member of the human pegiviruses. These viruses were 1st described in 1967 when the experimental inoculation of the serum of a surgeon (initials GB) caused acute hepatitis in tamarin monkeys. Eventually, 2 viruses (GBV-A and GBV-B) were characterized. Subsequently, another related human virus named GBV-C was described and has been referred to as hepatitis G virus although this is a misnomer as it does not replicate in the liver or cause liver disease per se although GBV-B does. These 3 viruses were classified into a new genus called Pegivirus within the family Flaviviridae (which contains the hepatitis C virus). A distantly related bat virus has also been classified in the pegivirus genus.
+
+HPgV (formerly GB-C or hepatitis G virus), or HPgV 1, is estimated to actively be infecting about 750 million individuals worldwide with at least that many showing evidence of previous infection. It appears to replicate in lymphocytes (both T and B), monocytes and natural killer (NK) cells and, mostly based on extensive work by my friend and colleague Jack Stapleton at the University of Iowa, appears to modulate host immune activation with a positive effect on HIV infection (1) and Ebola virus infection (2) and perhaps other human virus infections. An excellent review of the host immunomodulation has recently been published (3).
+
+References:
+1. Stapleton JT, Chaloner K, Martenson JA, et al: GB virus C is associated with altered lymphocyte subset distribution and reduced T cell activation and proliferation in HIV-infected individuals. PloS One 7, e50563.
+2. Lauck M, Bailey KG, Andersen KG, et al: GB virus C. Co-infections in west Africa Ebola patients. J Virol 2015; 89:2425-2429
+3. Chivero ET, Stapleton JT: Troposm of human pegivirus (formerly known as GB virus C/hepatitis G virus) and host immunomodulation: insights into a highly successful viral infection. J Gen Virol. 2015;96:1521-1532 - Mod.LL]
+See Also
+Human pegivirus type 1: detection by sequence analysis 20150924.3667822
+.................................................sb/ll/msp/dk
+</body>

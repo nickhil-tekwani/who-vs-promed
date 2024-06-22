@@ -1,0 +1,491 @@
+<header id=014404>
+Published Date: 2021-04-10 14:53:33 EDT
+Subject: PRO/AH/EDR> COVID-19 update (130): antibody evasion, variants, South Asia, WHO, global
+Archive Number: 20210410.8300187
+</header>
+<body id=014404>
+CORONAVIRUS DISEASE 2019 UPDATE (130): ANTIBODY EVASION, B117 IN USA, EUROPEAN LINEAGES IN SOUTH AFRICA, SOUTH ASIA, WHO, GLOBAL
+********************************************************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] Antibody evasion
+[2] USA: early introduction of B.1.1.7
+[3] South Africa: introduction of European lineages
+[4] Regional update: South Asia
+[5] WHO: daily new cases reported (as of 9 Apr 2021)
+[6] Global update: Worldometer accessed 9 Apr 2021 21:55 EST (GMT-5)
+
+******
+[1] Antibody evasion
+Date: Thu 25 Mar 2021
+Source: Cell [abridged, edited]
+https://www.cell.com/cell/fulltext/S0092-8674(21)00428-1
+
+
+Citation: Dejnirattisai W, Zhou D, Supasa P, et al. Antibody evasion by the P.1 strain of SARS-CoV-2. Cell. Epub 31 Mar 2021; https://doi.org/10.1016/j.cell.2021.03.055.
+
+Highlights
+- Despite similar RBD mutations, P.1 is easier to neutralize than B.1.351.
+- P.1, B.1.351, and B.1.1.7 partially or fully escape most VH3-53 antibodies.
+- mAb 222 (VH3-53) retains neutralisation against all 3 variants.
+- Neutralisation is restored in VH3-53 chimeric antibodies with mAb 222 LC.
+
+Summary
+Terminating the SARS-CoV-2 pandemic relies upon pan-global vaccination. Current vaccines elicit neutralizing antibody responses to the virus spike derived from early isolates. However, new strains have emerged with multiple mutations: P.1 from Brazil, B.1.351 from South Africa and B.1.1.7 from the UK (12, 10, and 9 changes in the spike, respectively). All have mutations in the ACE2 binding site with P.1 and B.1.351 having a virtually identical triplet, E484K, K417N/T, and N501Y, which we show confer similar increased affinity for ACE2. We show that, surprisingly, P.1 is significantly less resistant to naturally acquired or vaccine-induced antibody responses than B.1.351, suggesting that changes outside the RBD impact neutralisation. Monoclonal antibody 222 neutralises all 3 variants despite interacting with 2 of the ACE2 binding site mutations; we explain this through structural analysis and use the 222 light chain to largely restore neutralization potency to a major class of public antibodies.
+
+Discussion
+. . . In summary, we demonstrate that P.1 can escape neutralization by a number of monoclonal antibodies including some being developed for prophylactic or therapeutic use, while other antibodies with epitopes away from the mutated RBD residues retain broad neutralization. Thus, S309/AZD1061/REGN10987/ADG10/ADG20/ADG30 showed little to no reduction (less than 4-fold) in neutralization activity across the 3 variants, consistent with their previously described broadly neutralizing activities across clade I sarbecoviruses.
+
+In contrast to B.1.351, neutralization of P.1 does not show such a substantial reduction by polyclonal serum induced by natural infection or vaccination, and there is no evidence of widespread escape. Despite the reduction in neutralization titres, it is hoped that immunization with vaccines designed against parent/ancestral strains will provide protection from P.1.
+
+--
+Communicated by:
+Mary Marshall
+<mjm2020@googlemail.com>
+
+******
+[2] USA: early introduction of B.1.1.7
+Date: Sat 3 Apr 2021
+Source: Cell [edited]
+https://www.sciencedirect.com/science/article/pii/S0092867421004347
+
+
+Citation: Alpert T, Brito AF, Lasek-Nesselquist E, et al. Early introductions and transmission of SARS-CoV-2 variant B.1.1.7 in the United States. Cell. Epub 3 Apr 2021; https://doi.org/10.1016/j.cell.2021.03.061.
+
+Highlights
+- Flight data identifies NY, CA, and FL were high risk for importing B.1.1.7.
+- B.1.1.7 was introduced separately to multiple US states starting in December 2020.
+- Phylogenetic analysis shows evidence for domestic spread between regions in the USA.
+- Exponential growth of B.1.1.7 projects that it will be the dominant lineage.
+
+Summary
+The emergence and spread of SARS-CoV-2 lineage B.1.1.7, first detected in the United Kingdom, has become a global public health concern because of its increased transmissibility. Over 2500 COVID-19 cases associated with this variant have been detected in the USA since December 2020, but the extent of establishment is relatively unknown. Using travel, genomic, and diagnostic data, we highlight that the primary ports of entry for B.1.1.7 in the USA were in New York, California, and Florida. Furthermore, we found evidence for many independent B.1.1.7 establishments starting in early December 2020, followed by interstate spread by the end of the month. Finally, we project that B.1.1.7 will be the dominant lineage in many states by mid to late March [2021]. Thus, genomic surveillance for B.1.1.7 and other variants urgently needs to be enhanced to better inform the public health response.
+
+Discussion
+. . . SARS-CoV-2 B.1.1.7 variant of concern has become established in many states within the USA. Our data and those of our colleagues (Washington, et al., 2021 [see source URL for complete references]) indicate that B.1.1.7 is expanding at an exponential rate, and that it will be the dominant SARS-CoV-2 lineage in many places across the USA by March or April 2021. While surveillance gaps across the USA mean that some communities do not have direct evidence for local B.1.1.7 emergence, it should be assumed that community B.1.1.7 transmission is widespread. With several US states announcing loosening restrictions on gatherings (including restaurants), restrictions on travel, and/or mask requirements, and with sufficient COVID-19 vaccine coverage to reach population immunity still many months away (summer/fall 2021), the near-term impact of B.1.1.7 may be significant. We must use this opportunity to reinforce communications and messaging surrounding the importance of mitigation measures to prevent this variant from exacerbating an already crippling pandemic (Grubaugh, et al., 2021). In reality, it is difficult to implement new measures without supporting data, especially if they impact schools or businesses. Thus, increasing surveillance for B.1.1.7 and other variants through sequencing and more conventional methods should be made a high priority (CDC, 2021b).
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+******
+[3] South Africa: introduction of European lineages
+Date: Mon 22 Mar 2021
+Source: Viruses [abridged, edited]
+https://www.mdpi.com/1999-4915/13/3/526/htm
+
+
+Citation: Engelbrecht S, Delaney K, Kleinhans B, et al. Multiple early introductions of SARS-CoV-2 to Cape Town, South Africa. Viruses. 2021; 13: 526; https://doi.org/10.3390/v13030526.
+
+Abstract
+Cape Town was the 1st city in South Africa to experience the full impact of the coronavirus disease 2019 (COVID-19) pandemic. We acquired samples from all suspected cases and their contacts during the 1st month of the pandemic from Tygerberg Hospital. Nanopore sequencing generated SARS-CoV-2 whole genomes. Phylogenetic inference with maximum likelihood and Bayesian methods were used to determine lineages that seeded the local epidemic. Three patients were known to have travelled internationally, and an outbreak was detected in a nearby supermarket. Sequencing of 50 samples produced 46 high-quality genomes. The sequences were classified as lineages B, B.1, B.1.1.1, B.1.1.161, B.1.1.29, B.1.8, B.39, and B.40. All the sequences from persons under investigation (PUIs) in the supermarket outbreak (lineage B.1.8) fall within a clade from the Netherlands with good support (P greater than 0.9). In addition, a new mutation, 5209A>G, emerged within the Cape Town cluster. The molecular clock analysis suggests that this occurred around 13 Mar 2020 (95% confidence interval: 9-17 Mar 2020). The phylogenetic reconstruction suggests at least 9 early introductions of SARS-CoV-2 into Cape Town and an early localized transmission in a shopping environment. Genomic surveillance was successfully used to investigate and track the spread of early introductions of SARS-CoV-2 in Cape Town.
+
+Discussion
+. . . Our phylogenetic reconstruction contains 46 near-complete genomes sampled during the 1st month of the epidemic in Cape Town, South Africa. This correlates to 59.7% of the cases diagnosed during this time period in Tygerberg Health District, 9.1% in Cape Town, and 7.5% in the Western Cape Province. The phylogenetic reconstruction suggests at least 9 early introductions of SARS-CoV-2 into Cape Town and an early localized transmission in a working environment.
+
+Conclusions
+. . . In conclusion, South Africa was one of the 1st countries in Africa to set up genomics surveillance of SARS-CoV-2. Based on the clade and lineage data, we confirmed that SARS-CoV-2 was introduced into Cape Town by multiple introductory events. Molecular clock analyses showed that all the introductions occurred during the last week of February [2020] and the 1st 2 weeks of March 2020. Subsequent local transmission in a supermarket cluster showed that a new lineage with a specific mutation 5209A>G was first identified in Cape Town.
+
+--
+Communicated by:
+Mary Marshall
+<mjm2020@googlemail.com>
+
+[Thanks to Tulio de Oliveira's tweet "Shedding light on the start of the COVID-19 pandemic in Cape Town & SA! European lineages introduced and supermarket outbreaks fuelled the 1st cluster of infections. Great collaboration" (https://mobile.twitter.com/Tuliodna).
+
+This is a very nice study elucidating the introduction of virus into South Africa, which started the outbreak. It is interesting that a large outbreak occurred in a supermarket, as demonstrated by those strains making up a large monophyletic cluster. Supermarkets were "among the few essential services allowed to continue operating during lockdown level 5 in South Africa." The extent of transmission could have been much worse had most institutions, commercial and other, not locked down. - Mod.LK]
+
+******
+[4] Regional update: South Asia
+[A] Bangladesh
+Date: Fri 9 Apr 2021 02:58 BST
+Source: The Daily Star [edited]
+https://www.thedailystar.net/frontpage/news/record-74-deaths-mark-2nd-dose-vaccine-roll-out-2074421
+
+
+The government yesterday [8 Apr 2021] started administering the 2nd dose of AstraZeneca's COVID-19 vaccine amid a steep rise in deaths and infections.
+
+A total of 81 323 people received their 2nd shot of the 2-dose vaccine, according to the directorate general of Health Services (DGHS).
+
+Besides, another 14 804 people got the 1st jab, taking the total number of 1st-dose recipients to 5 583 507.
+
+Experts say the health emergency can turn from bad to worse anytime due to the continued relaxation of the restrictions imposed from [5-11 Apr 2021].
+
+In the 24 hours preceding 8:00 a.m. yesterday [8 Apr 2021], the DGHS reported 74 deaths, the highest daily casualty since the 1st cases were detected on [8 Mar 2020]. It took the total confirmed death toll to 9521.
+
+The DGHS also reported 6854 new cases yesterday [8 Apr 2021], raising the number of active cases to 91 581. The positivity rate in that period was 20.65%, slightly lower than the previous day's positivity rate of 22.02%.
+
+Prof Ridwanur Rahman, an infectious disease specialist, however said the daily death count hardly reflected the real picture.
+
+"Around 60% of the patients dying in the hospitals dedicated for COVID-19 treatment were not tested. The deaths are not counted. The real picture might be more alarming," Prof Ridwanur Rahman told the Daily Star yesterday [8 Apr 2021]. "We are now testing roughly 35 000 people every day. If the number of tests doubled, we would have gotten about twice as many new cases and deaths."
+
+According to the DGHS data, 451 patients were being treated in intensive care units and 4968 in general beds at the COVID-19-dedicated hospitals across the country.
+
+Since the 2nd week of March [2021], the daily numbers have frequently been breaking records. On [Tue 6 Apr 2021], 66 deaths were recorded, the highest until it was surpassed by yesterday's [8 Apr 2021] count.
+
+Meanwhile, British-Swedish multinational pharmaceutical company AstraZeneca has served a legal notice to Serum Institute of India over delays in shipment of the vaccine.
+
+"AstraZeneca has sent us a legal notice, and the Indian government is also aware of that. I cannot comment on the legal notice as it is confidential, but we are examining all avenues to amicably manage and resolve legal disputes over contractual obligations that Serum Institute is not able to fulfil due to its prioritisation of Indian supplies. Everyone has been very understanding so far. The government is evaluating what it can do to resolve the issue," NDTV yesterday [8 Apr 2021] quoted Serum CEO Adar Poonawalla as saying.
+
+The CEO earlier said Serum's production capacity to manufacture Covishield -- one of the 2 vaccines being administered in India -- was "very stressed" amid pressures from soaring cases in the country.
+
+"The globe needs this vaccine, and we are prioritising the needs of India at the moment, and we are still short of being able to supply . . . to every Indian that needs it," Poonawalla had said.
+
+However, the Indian government yesterday [8 Apr 2021] said there was no ban on export of COVID-19 vaccines made in the country but that the supply of the doses would continue taking into account India's domestic requirement, reports our New Delhi correspondent.
+
+"We have already said that the supply of vaccines will continue taking into account our domestic requirement," Arindam Bagchi, spokesman of India's external affairs ministry, told the weekly media briefing in reply to a series of questions on the issue of India's Vaccine Maitri policy.
+
+"Let me reiterate that there is no ban on the export of vaccine, and a visit to the MEA's [Ministry of External Affairs] website [https://www.mea.gov.in/vaccine-supply.htm] on the supply of made-in-India vaccine abroad would give you a clear idea of that. The supply position is updated from time to time," he said.
+
+To a question about AstraZeneca sending a legal notice to Serum, the MEA spokesman said, "this is a question that should be directed at the company itself."
+
+[Byline: Moudud Ahmmed Sujan]
+
+--
+Communicated by:
+ProMED
+promed@promedmail.org
+via ProMED-SoAs
+<promed-SoAs@promedmail.org>
+
+[Maps of Bangladesh: http://tinyurl.com/bw2fuve and https://promedmail.org/promed-post?place=8300187,153]
+
+----
+[B] India
+Date: Fri 9 Apr 2021 03:50 IST
+Source: The Times of India (TOI), Times News Network (TNN) [edited]
+https://timesofindia.indiatimes.com/india/total-caseload-tops-13-million-last-1-million-in-record-11-days/articleshow/81978216.cms
+
+
+Even as fresh COVID-19 infections hit another single-day peak of over 1.3 lakh [130 000] on [Thu 8 Apr 2021], the country's total caseload crossed 13 million (1.3 crore), with the last 1 million cases coming in just 11 days.
+
+The time taken for the count to rise from 12 million to 13 million equaled the record for the fastest 1 million increase in cases, when the count rose from 4 million to 5 million in 11 days during the peak of the 1st wave in September [2020].
+
+India has so far reported 13 057 812 cases of the coronavirus, the 3rd highest total in the world after the US (31.6 million) and Brazil (13.2 million).
+
+India has been logging the highest daily cases of the virus over the past few days.
+
+On [Thu 8 Apr 2021], the country reported 131 918 new cases, beating the previous highest of 1.26 lakh [126 000] recorded the previous day [Wed 7 Apr 2021]. This was the 4th fresh peak in daily cases since the count topped the 1 lakh [100 000] mark on [Sun 4 Apr 2021] amid a surge in the pandemic numbers across the country.
+
+Thursday's [8 Apr 2021] COVID death toll rose to 802, which was the 1st time in 173 days since [17 Oct] last year [2020] that the daily casualty count had exceeded 800.
+
+Maharashtra alone recorded 376 deaths in the last 24 hours, followed by Chhattisgarh, where as many as 94 fatalities were reported. Punjab recorded 56 deaths, Uttar Pradesh, 39; Karnataka, 36; Gujarat, 35; Madhya Pradesh, 27; and Delhi, 24.
+
+As many as 5 states logged their biggest ever single-day surge in COVID cases, evidence that the pandemic's 2nd wave was now raging across most of the country.
+
+The 5 states were Chhattisgarh, where 10 652 fresh cases were detected, marginally higher than Wednesday's [7 Apr 2021] all-time high of 10 310.
+
+Fresh cases in Uttar Pradesh touched a new peak of 8490 for the 1st time since the 1st wave. Similarly, Rajasthan reported a new high of 3526, while Gujarat cases topped 4000 for the 1st time at 4021. Madhya Pradesh's tally climbed yet again to 4324.
+
+Another 12 states reported their daily surge of cases in 2021, including Delhi (7437 cases, highest since [19 Nov 2020]), Tamil Nadu (4276, the highest since [17 Oct 2020] ), Haryana (2872, [20 Nov 2020]), Bengal (2783, [10 Dec 2020]), Andhra Pradesh (2558, [5 Nov 2020]), Telangana (2055, [7 Oct 2020]), Bihar (1911, [4 Sep 2020]), and Jharkhand (1882, the highest since [9 Sep 2020]).
+
+Infections have been rising in Kerala as well. The state logged 4353 new cases on [Thu 8 Apr 2021], the most since [20 Feb 2021].
+
+[Byline: Amit Bhattacharya]
+
+--
+Communicated by:
+ProMED
+promed@promedmail.org
+via ProMED-SoAs
+<promed-SoAs@promedmail.org>
+
+[The updated information on the distribution of active cases, cured/discharged/migrated cases, deaths, and total confirmed cases attributed to COVID-19 in India by states and union territories can be seen at https://www.mohfw.gov.in/, by clicking COVID-19 Statewise Status. - Mod.PKB
+
+Maps of India: https://www.mapsofindia.com/maps/india/india-political-map.htm and https://promedmail.org/promed-post?place=8300187,142]
+
+----
+[C] Nepal
+Date: Wed 7 Apr 2021 03:57 p.m. NPT
+Source: The Himalayan Times [abridged, edited]
+https://thehimalayantimes.com/nepal/nepal-records-298-new-cases-of-covid-19-in-24-hours-nationwide-tally-hits-278768
+
+
+Nepal on [Wed 7 Apr 2021] reported 298 new cases of coronavirus infection from across the country. With this, the nationwide infection count has advanced to 278 768.
+
+Of the total cases recorded today [7 Apr 2021], Kathmandu district observed 132 new infections. Kathmandu holds the highest number of new cases recorded today [7 Apr 2021].
+
+Likewise, 74 people who were earlier infected with the virus are reported to have recovered in the past 24 hours as per the latest data provided by health ministry. As of today [7 Apr 2021], 273 529 individuals have recovered from the novel coronavirus infection. The recovery rate, as such, is 98.1%.
+
+Nepal's active COVID-19 case count currently stands at 2201.
+
+The nationwide death toll currently stands at 3038 with 2 COVID-related fatalities reported today [7 Apr 2021].
+
+According to the health ministry, 4100 PCR tests were conducted in the last 24 hours. With this, a total of 2 298 167 PCR tests have been carried out in Nepal to date [7 Apr 2021].
+
+Similarly, of the total 1040 antigen tests carried out at various entry points into the country, 41 antigen positive cases were detected.
+
+Currently, there are 65 individuals in various quarantine facilities across Nepal.
+
+On [Tue 6 Apr 2021], Nepal's coronavirus case count reached 278 470 with 260 newly confirmed cases.
+
+--
+Communicated by:
+ProMED
+promed@promedmail.org
+via ProMED-SoAs
+<promed-SoAs@promedmail.org>
+
+[Maps of Nepal: https://en.wikipedia.org/wiki/Nepal#Subdivisions and https://promedmail.org/promed-post?place=8300187,139]
+
+----
+[D] Pakistan
+Date: Thu 8 Apr 2021
+Source: Dawn [abridged, edited]
+https://www.dawn.com/news/1617035/covid-19-death-toll-crosses-15000-mark
+
+
+While around 20% decline was observed in the number of COVID-19 cases, over 100 deaths were reported for the 2nd consecutive day on [Wed 7 Apr 2021], taking the overall tally to 15 000 mortalities.
+
+[B B-Z], daughter of former prime minister Benazir Bhutto and ex-president Asif Ali Zardari, has been infected with coronavirus.
+
+According to data released by the National Command and Operation Centre (NCOC), 4004 cases and 102 deaths were reported in a single day. Out of the 102 deaths, 95 passed away in hospitals. As many as 4529 patients were admitted to hospitals across the country, of which 443 were on ventilators.
+
+According to the data, 70% ventilators were occupied in Multan, 69% in Lahore, 60% in Gujranwala, and 58% in Islamabad. Moreover, 85% oxygenated beds were in use in Gujranwala, 82% in Peshawar, 75% in Gujrat, and 59% in Swat.
+
+The number of active cases continued to increase, and the tally reached 64 373 on [Wed 7 Apr 2021]. So far 700 188 people have contracted the deadly virus, and 15 026 lost their lives.
+
+"I tested positive for COVID-19 on [2 Apr 2021], isolating and recovering. Just a reminder to keep being cautious, call people out if their masks don't cover their nose, get vaccinated, and help those less fortunate to get vaccinated too. May Allah keep us all safe. Aameen," [B B-Z] tweeted.
+
+Meanwhile, National Assembly [NA] Speaker Asad Qaiser stressed the need for vaccinating senior citizens in accordance with the NCOC guidelines. He said friendly ambience and supportive role of doctors and paramedical staff played a vital role in fast recovery of the coronavirus-affected patients.
+
+The NA speaker expressed these views while chairing a meeting on streamlining the vaccination process for COVID-19 patients in Islamabad on [Wed 7 Apr 2021]. "There is a need to upgrade facilities in government hospitals, and guiding mechanism for patients is imperative to guide the patients, especially in government hospitals," he said.
+
+Expressing displeasure over the Pakistan Institute of Medical Science (PIMS) management's unprofessional response to tackling COVID-19 patients, he said the management level needed to be more responsive.
+
+The NA Speaker also briefed the meeting on his visit to Polyclinic Hospital Islamabad and stressed the need for making government hospitals a model for the whole country.
+
+MNAs [Members of National Assembly] Ali Nawaz Awan and Raja Khurram Shahzad also expressed reservations over the mechanism of handling COVID-19 patients, especially by the PIMS management. They said there was a need to have mobile teams, especially in rural areas of Islamabad, for vaccination of senior citizens.
+
+Mr Awan invited Speaker Qaiser to visit the Chak Shahzad vaccination centre, a state-of-the-art facility managed by National Institute of Health.
+
+It is worth mentioning here that President Dr Arif Alvi had in November last year [2020] promulgated the Medical Teaching Institution (MTI) Ordinance according to which PIMS will be run through a board of governors who will look after the affairs of the hospital. The board members were appointed and notified by the Ministry of National Health Services on the recommendations of a search and nomination council. The BoG [Board of Governors] has overall control over the functions of the hospital.
+
+[Byline: Ikram Junaidi]
+
+--
+Communicated by:
+ProMED
+promed@promedmail.org
+via ProMED-SoAs
+<promed-SoAs@promedmail.org>
+
+[The trends of daily confirmed COVID-19 cases and deaths attributed to the disease in Pakistan can be seen at https://covid19.who.int/region/emro/country/pk. - Mod.PKB
+
+Maps of Pakistan: http://www.mapsofworld.com/pakistan/pakistan-political-map.html and https://promedmail.org/promed-post?place=8300187,140]
+
+----
+[E] Sri Lanka
+Date: Thu 8 Apr 2021 8:11 p.m. IST
+Source: The Daily Mirror [edited]
+http://www.dailymirror.lk/breaking_news/COVID-19-Situation-remains-steady-though-cases-rise-Epidemiology-Chief/108-209654
+
+
+The COVID-19 situation in the country remains positive and normal although the number of COVID cases spike due to the cluster formed in Jaffna area, Chief Epidemiologist Dr Sudath Samaraweera said.
+
+Addressing a media briefing, he said the surge in COVID-19 cases was reported during the past 2 days following PCR tests carried out on the 1st contacts of patients picked from the cluster in the Jaffna area.
+
+"The individuals, who were found to have contracted the virus in the Jaffna area, were from quarantine centres, and therefore there is no risk that the virus could spread in the society. However, there could be more cases emerge from the cluster," Dr Samaraweera stressed.
+
+Meanwhile, he said they had directed all the state hospitals to inform the Epidemiology Unit about any admission of patients after 2 weeks of vaccination.
+
+"Accordingly, we have received 6 cases of blood clots. However, it is yet to be ascertained whether they had links to the direct effect of the vaccine," he added.
+
+[Byline: Sheain Fernandopulle]
+
+--
+Communicated by:
+ProMED
+promed@promedmail.org
+via ProMED-SoAs
+promed-SoAs@promedmail.org
+
+[Maps of Sri Lanka: http://www.mapsopensource.com/images/sri-lanka-districts-map.gif and https://promedmail.org/promed-post?place=8300187,144
+
+The South Asian COVID-19 situation, according to data from Worldometer (https://www.worldometers.info/coronavirus/) as of 9 Apr 2021 at 04:41 GMT:
+
+Country: Total cases / Total deaths / Deaths per million population
+India: 13 060 542 / 167 694 / 121
+Pakistan: 710 829 / 15 229 / 68
+Bangladesh: 666 132 / 9521 / 57
+Nepal: 279 100 / 3038 / 103
+Sri Lanka: 94 253 / 591 / 28
+Afghanistan: 57 019 / 2521 / 64
+Maldives: 25 304 / 67 / 122
+Bhutan: 900 / 1 / 1
+
+Over the last 7 days, 757 411, 48 368, and 32 664 COVID-19 cases were detected in India, Bangladesh, and Pakistan, respectively, compared with 456 479, 33 369, and 32 809 cases in the preceding 7 days, revealing further escalation of the disease in India and Bangladesh but a stability trend in Pakistan. The number of total deaths attributed to COVID-19 in Pakistan has now crossed the mark of 15 000.
+
+A total of 74 people died yesterday (8 Apr 2021) in Bangladesh due to COVID-19, the highest ever single-day count in the country since the 1st case detected on 8 Mar 2020. As many as 5 583 507 people have been vaccinated so far in the country with single dose of "Covishield" vaccine produced from the Serum Institute of India, which is the Oxford-AstraZeneca's COVID-19 vaccine. Administration of the 2nd dose of the same vaccine among the recipients of the 1st dose also started from yesterday (8 Apr 2021). A mass media report published recently referring to research findings has disclosed the circulation of B.1.1.7 (first detected in UK) and B.1.351 (first detected in South Africa) mutant variants in the country with the predominance (81%) of B.1.351 variant since the 4th week of March (2021) (see archive no. 20210408.8294842). The circulation of this more transmissible variant and the people's improper or noncompliance of personal and social safety guidelines could be the main reasons of the beginning of a new wave of the disease in the country after decreasing the daily case positivity of less than 3%.
+
+The peak of COVID-19 in India in this new wave has already overtaken the highest peak observed in the 1st wave of the disease, and the new cases are still increasing alarmingly every day. The country reported a total of 131 918 new cases yesterday (8 Apr 2021) alone, the highest single-day record ever. India has also reported the introduction of the mutant variant B.1.1.7, and the circulation of a new "double mutant" variant whose progenitors seem to be the L452R strain, first detected in California, the United States, and the E484Q strain, which is reportedly circulating in India (see archive no. 20210325.8269014). There is seemingly no information from India on the introduction and circulation of the mutant B.1.351 in the country, unlike Bangladesh.
+
+B.1.351 variant has multiple mutations in the spike protein, including K417N, E484K, N501Y. Currently there is no evidence to suggest that this variant has any impact on disease severity. There is some evidence to indicate that one of the spike protein mutations, E484K, may affect neutralization by some polyclonal and monoclonal antibodies (https://www.cdc.gov/coronavirus/2019-ncov/science/science-briefs/scientific-brief-emerging-variants.html).
+
+Over the last 7 days, 1639 and 591 cases were reported from Nepal and Sri Lanka, respectively, indicating an increase trend of the disease in Nepal but a trend of stability in Sri Lanka, compared with the data from the previous week.
+
+To compare the situation in South Asian countries above with previous disease data, ProMED-SoAs readers are referred to the archives below:
+- 2 Apr 2021 at 08:13 GMT: 20210402.8284625
+- 26 Mar 2021 at 06:34 GMT: 20210326.8270375
+- 19 Mar 2021 at 06:26 GMT: 20210319.8256581
+- 12 Mar 2021 at 07:00 GMT: 20210312.8243219
+- 5 Mar 2021 at 05:58 GMT: 20210305.8229395
+- 26 Feb 2021 at 06:04 GMT: 20210227.8214865
+- 19 Feb 2021 at 06:13 GMT: 20210219.8200552
+- 12 Feb 2021 at 05:22 GMT: 20210212.8186695
+- 5 Feb 2021 at 07:26 GMT: 20210205.8167512
+- 29 Jan 2021 at 05:59 GMT: 20210129.8146910
+- 22 Jan 2021 at 06:45 GMT: 20210122.8126152
+- 15 Jan 2021 at 06:39 GMT: 20210115.8105278
+- 8 Jan 2021 at 05:52 GMT: 20210108.8083556
+- 1 Jan 2021 at 06:23 GMT: 20210101.8062937
+- 25 Dec 2020 at 06:24 GMT: 20201226.8045837
+- 18 Dec 2020 at 05:52 GMT: 20201220.8027646
+- 11 Dec 2020 at 06:47 GMT: 20201213.8010169
+- 4 Dec 2020 at 06:44 GMT: 20201205.7992003
+- 27 Nov 2020 at 07:04 GMT: 20201127.7975379
+- 20 Nov 2020 at 05:55 GMT: 20201120.7958257
+- 6 Nov 2020 at 06:28 GMT: 20201106.7920767
+- 30 Oct 2020 at 02:48 GMT: 20201101.7902222
+- 23 Oct 2020 at 05:55 GMT: 20201025.7884337
+- 16 Oct 2020 at 06:23 GMT: 20201017.7866149
+- 9 Oct 2020 at 05:30 GMT: 20201011.7847842
+- 2 Oct 2020 at 06:09 GMT: 20201002.7830222
+- 25 Sep 2020 at 06:03 GMT: 20200925.7811558
+- 18 Sep 2020 at 04:55 GMT: 20200918.7791805
+- 11 Sep 2020 at 06:28 GMT: 20200911.7768020
+- 4 Sep 2020 at 05:46 GMT: 20200904.7745644
+- 28 Aug 2020 at 06:25 GMT: 20200830.7724555
+- 21 Aug 2020 at 06:33 GMT: 20200822.7701213
+- 14 Aug 2020 at 02:38 GMT: 20200815.7676465
+- 7 Aug 2020 at 03:02 GMT: 20200809.7653320
+- 31 Jul 2020 at 12:08 GMT: 20200731.7630191
+- 24 Jul 2020 at 05:14 GMT: 20200724.7606708
+- 17 Jul 2020 at 05:16 GMT: 20200717.7583563
+- 10 Jul 2020 at 08:35 GMT: 20200710.7559716
+- 3 Jul 2020 at 05:42 GMT: 20200703.7535367
+- 26 Jun 2020 at 06:11 GMT: 20200627.7511829
+- 19 Jun 2020 at 06:47 GMT: 20200620.7486580
+- 12 Jun 2020 at 06:49 GMT: 20200613.7460702
+- 5 Jun 2020 at 07:04 GMT: 20200606.7429525
+- 29 May 2020 at 07:07 GMT: 20200529.7392910
+- 22 May 2020 at 06:18 GMT: 20200522.7364852
+- 15 May 2020 at 06:24 GMT: 20200515.7338409
+- 8 May 2020 at 06:20 GMT: 20200508.7312471
+- 1 May 2020 at 8:36 GMT: 20200501.7287142
+- 24 Apr 2020 at 14:53 GMT: 20200426.7262474
+- 17 Apr 2020 at 12:13 GMT: 20200418.7234555
+- 10 Apr 2020 at 8:06 GMT: 20200410.7207231
+
+The lowest number of confirmed cases recorded so far is from Bhutan (900), with one death. - Mod.PKB]
+
+******
+[5] WHO: daily new cases reported (as of 9 Apr 2021)
+Date: Fri 9 Apr 2021
+Source: WHO [abridged, edited]
+https://covid19.who.int/table
+
+
+*Daily case reports as of 9 Apr 2021 16:18 CET
+
+Surveillance
+------------
+WHO region (no. countries/territories):
+Total confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+--------------------------------------------------------------------------------
+Western Pacific Region (19): 2 037 619 (15 306) / 32 775 (105)
+European Region (61): 47 041 257 (257 789) / 1 000 678 (4432)
+South East Asia Region (10): 15 853 498 (145 724) / 226 392 (1021)
+Eastern Mediterranean Region (22): 7 953 565 (59 582) /163 791 (688)
+Region of the Americas (54): 57 510 180 (247 444) / 1 391 380 (6542)
+African Region (49): 3 155 910 (7552) / 79 266 (136)
+Cases on an international conveyance (Diamond Princess): 745 (0) / 13 (0)
+
+Confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+Grand total: 133 552 774 (733 397) / 2 894 295 (12 924)
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[Data by country, area, or territory for 9 Apr 2021 can be accessed at https://promedmail.org/wp-content/uploads/world-pdf/2021%20WHO%20Daily%20Tables%20Apr9_1618077900.pdf.
+
+- The Americas region reported 33.7% of daily case numbers and 50.6% of the daily deaths reported in the past 24 hours and maintained its position as the most severely affected region, having reported more than 57.51 million cases. Brazil reported over 92 000 cases over the last 24 hours followed by the USA with 74 849 cases and Argentina with 22 039 cases; 12 additional countries reported more than 1000 cases in the past 24 hours (Colombia, Peru, Chile, Canada, Mexico, Uruguay, Paraguay, Ecuador, Guatemala, Venezuela, Dominican Republic, and Bolivia). Cuba and Honduras reported more than 500 but fewer than 1000 cases.
+
+- The European region reported 35.1% of daily case numbers and 34.3% of the daily deaths reported in the past 24 hours; total cumulative cases reported exceed 47.04 million and cumulative deaths crossed the 1 million mark in last 24 hours. Many countries not reporting cases in the last 24 hours or longer include Belgium (2 cases), Switzerland (7 cases), and Kazakhstan, among others. Turkey reported the highest number of cases over the last 24 hours, followed by Poland, Germany, France, Ukraine, and Italy, reporting more than 10 000 new cases in the past 24 hours. Another 21 countries reported more than 1000 cases, and an additional 9 countries reported more than 500 but fewer than 1000 cases.
+
+- The Eastern Mediterranean region reported 8.1% of daily case numbers and 5.3% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 7.95 million cases. Iran reported the highest number of cases (22 586) over the last 24 hours, followed by Iraq, Pakistan, Jordan, Lebanon, Palestinian Authority, UAE, Tunisia, Kuwait, Oman, and Bahrain. Qatar, Saudi Arabia, Libya, Egypt, and Moroocco reported more than 500 but fewer than 1000 cases.
+
+- The African region reported 1.0% of daily case numbers and 1.1 % of the deaths reported in the past 24 hours, having reported a cumulative total of more than 3.15 million cases. Ethiopia (2121) reported the highest number of cases over last 24 hours followed by Kenya (1698) and South Africa (1366). Cameroon, Botswana, and Guinea, among others, did not report any new cases in the past 24 hours.
+
+- The Western Pacific region reported 2.1% of daily case numbers and 0.8% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 2.03 million cases. Philippines reported the highest number of cases over the last 24 hours (over 9000 cases), followed by Japan, Malaysia, South Korea, and Mongolia.
+
+- The South East Asia region reported 19.9% of the daily newly reported cases and 7.9% of reported deaths in the past 24 hours, having reported a cumulative total of more than 15.85 million cases. India is dominant, reporting over 131 000 cases, followed by Bangladesh (6854), Indonesia (5504), Thailand, Sri Lanka, and Nepal.
+
+On the Overview tab at the WHO source URL, the epidemic curve of confirmed COVID-19 cases by WHO region, 30 Dec 2019 through 9 Apr 2021, is an excellent visual representation of the pandemic. - Mod.UBA]
+
+******
+[6] Global update: Worldometer accessed 9 Apr 2021 21:55 EST (GMT-5)
+Date: Fri 9 Apr 2021
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at https://promedmail.org/wp-content/uploads/world-pdf/2021%20WORLDDATA%20APR9_1618078151.pdf.
+
+A 7-day series of cumulative data reported by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/2021%20APR9WORLD7_1618078256.pdf. - Mod.UBA]
+
+Total number of reported deaths: 2 928 540
+Total number of worldwide cases: 135 294 534
+Number of newly confirmed cases in the past 24 hours: 784 007
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[In the past 24 hours, India (144 829), Brazil (89 090), the USA (85 368), and Turkey (55 791) have reported the highest numbers of cases. A global total of 13 727 deaths were reported in the past 24 hours (late 8 Apr 2021 to late 9 Apr 2021). Countries reporting more than 10 000 newly confirmed cases in the past 24 hours (15 countries) include India, Brazil, the USA, Turkey, France (41 243), Poland (28 499), Argentina (24 130), Iran (22 478), Germany (22 296), Ukraine (19 676), Italy (18 924), Philippines (12 188), Columbia (12 125), Spain (10 875), and Peru (10 655). A total of 63 countries reported more than 1000 cases in the past 24 hours; 35 of the 63 countries are from the European region, 10 are from the Americas region, 9 are from the Eastern Mediterranean region, 3 are from the South East Asia region, 3 are from the Western Pacific region, and 3 from the African region.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, case counts have increased by 9.8%, while daily reported deaths have increased by 1.5%. Similar comparative 7-day averages in the USA show a 2.6% increase in daily reported cases and a 5.3% increase in reported deaths.
+
+Impression: The global daily reported over 750 000 newly confirmed infections in the past 24 hours with over 135.29 million cumulative reported cases and over 2.92 million reported deaths. - Mod.UBA]
+See Also
+COVID-19 update (129): Turkey, B1 variant USA, Chile, China, WHO, global 20210409.8298671
+COVID-19 update (128): aerosols, protein targets, persistent antibodies, WHO 20210408.8296277
+COVID-19 update (127): variants, new vaccine 2P spike, WHO, global 20210407.8294615
+COVID-19 update (126): India, vaccines in pregnancy, P.1 variants USA, Canada, WHO, global 20210406.8292111
+COVID-19 update (125): variant analysis, maternal antibodies, WHO, global 20210405.8289796
+COVID-19 update (124): surge, variants, bacterial superinfections, WHO, global 20210404.8288263
+COVID-19 update (123): postvaccination transmission, CIDRAP, South Asia, WHO 20210403.8287093
+COVID-19 update (122): vaccines, prior HCoV infection, CIDRAP, Brazil, WHO 20210402.8285587
+COVID-19 update (121): Pfizer clinical trial for children, Brazil, WHO, global 20210401.8283365
+COVID-19 update (120): animal, Russia, vaccine 20210331.8281241
+COVID-19 update (100): antibodies, vaccine, Thailand, Cambodia, WHO, global 20210316.8250009
+COVID-19 update (90): UK sewage, Viet Nam, Cambodia, WHO 20210308.8233859
+COVID-19 update (80): vaccine, USA variants, comments, WHO, global 20210226.8214650
+COVID-19 update (70): gangrene, challenge trials, immunity, cancer, WHO, global 20210218.8198620
+COVID-19 update (60): animal, SARS-CoV-2-related viruses, pangolin, bat 20210211.8184900
+COVID-19 update (50): UK vaccine study, Brazil reinfection, WHO 20210205.8167161
+COVID-19 update (01): variants, vaccine, Thailand, global, WHO 20210101.8062938
+2020
+----
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+COVID-19 update (562): viral load, UK vacc dose, ECDC, WHO 20201231.8061525
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia: China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia: China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+----
+Undiagnosed pneumonia: China (HU): RFI 20191230.6864153
+and other items in the archives
+.................................................sb/lk/lm/lxl/uba/rd/tw/lxl
+</body>

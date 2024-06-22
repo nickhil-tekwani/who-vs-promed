@@ -1,0 +1,206 @@
+<header id=049017>
+Published Date: 2020-09-24 07:47:20 EDT
+Subject: PRO/AH/EDR> COVID-19 update (412): surfaces, pregnancy, WHO, global
+Archive Number: 20200924.7808613
+</header>
+<body id=049017>
+CORONAVIRUS DISEASE 2019 UPDATE (412): SURFACES, PREGNANCY, WHO, GLOBAL
+***********************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] Air and environmental contamination by COVID-19 patients
+[2] SARS-CoV-2 test status and pregnancy outcomes
+[3] WHO: daily new cases reported (as of 23 Sep 2020)
+[4] Global update: Worldometer accessed 23 Sep 2020 22:05 EDT (GMT-4)
+
+******
+[1] Air and environmental contamination by COVID-19 patients
+Date: Tue 22 Sep 2020
+Source: Journal of Korean Medical Science [edited]
+https://jkms.org/DOIx.php?id=10.3346/jkms.2020.35.e332
+
+
+ref: Kim UJ, Lee SY, Lee JY, et al. Air and environmental contamination caused by COVID-19 patients: a multi-center study. J Korean Med Sci. 2020; 35(37): e332. doi: 10.3346/jkms.2020.35.e332. PMID: 32959546.
+--------------------------------------------------------------------------------
+Background
+The purpose of this study was to determine the extent of air and surface contamination of severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) in 4 health care facilities with hospitalized coronavirus disease 2019 (COVID-19) patients.
+
+Methods
+We investigated air and environmental contamination in the rooms of 8 COVID-19 patients in 4 hospitals. Some patients were in negative-pressure rooms, and others were not. None had undergone aerosol-generating procedures. On days 0, 3, 5, and 7 of hospitalization, the surfaces in the rooms and anterooms were swabbed, and air samples were collected 2 m from the patient and from the anterooms.
+
+Results
+All 52 air samples were negative for SARS-CoV-2 RNA. Widespread surface contamination of SARS-CoV-2 RNA was observed. In total, 89 of 320 (27%) environmental surface samples were positive for SARS-CoV-2 RNA. Surface contamination of SARS-CoV-2 RNA was common in rooms without surface disinfection and in rooms sprayed with disinfectant twice a day. However, SARS-CoV-2 RNA was not detected in a room cleaned with disinfectant wipes on a regular basis.
+
+Conclusion
+Our data suggest that remote (more than 2 m) airborne transmission of SARS-CoV-2 from hospitalized COVID-19 patients is uncommon when aerosol-generating procedures have not been performed. Surface contamination was widespread, except in a room routinely cleaned with disinfectant wipes.
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The full article including figures, tables, and references is available at the source URL above.
+
+This report reinforces earlier studies that have reported high levels of surface contamination in the vicinity of COVID-19 positive patients. This highlights the need for strict implementation of infection prevention and control practices in healthcare facilities to reduce healthcare-associated infection during the COVID-19 pandemic.- Mod.UBA]
+
+******
+[2] SARS-CoV-2 test status and pregnancy outcomes
+Date: 23 Sep 2020
+Source: JAMA [edited]
+https://jamanetwork.com/journals/jama/fullarticle/2771110?guestAccessKey=a0c6fc98-25bb-44bd-853f-ef3b7f62786c
+
+
+ref: Ahlberg M, Neovius M, Saltvedt S, et al. Association of SARS-CoV-2 Test Status and Pregnancy Outcomes. JAMA. 2020. doi: 10.1001/jama.2020.19124. Epub ahead of print. PMID: 32965467
+--------------------------------------------------------------------------------
+Associations of coronavirus disease 2019 (COVID-19) and pregnancy outcomes remain unclear because most studies are case reports or case series without contemporary comparators.
+
+We compared pregnant persons in labor who were infected with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) compared with those uninfected.
+
+Methods
+We identified all persons presenting in labor at Karolinska University Hospital, Stockholm, Sweden, from [25 Mar to 24 Jul 2020]. From [25 Mar 2020], reverse transcriptase-polymerase chain reaction (RT-PCR) testing of nasopharyngeal swabs was performed on all persons in labor regardless of symptoms. If test results were positive, patients were asked to describe any symptoms, which were documented in the medical record. If a patient tested positive during pregnancy (inpatient visit) but negative when presenting in labor, she was considered exposed (n = 11). During the study period, 3 patients tested positive for antibodies against SARS-CoV-2 during pregnancy and were not tested with RT-PCR; they were considered exposed. Maternal and neonatal data were collected from the Swedish Pregnancy Register and medical records.
+
+Patients testing positive were matched to those testing negative on multiple pregnancies and a propensity score (estimated with logistic regression) including age, parity, early-pregnancy body mass index, educational level, birth country, smoking, living with a partner, and prepregnancy comorbidity.
+
+Using generalized estimating equation models with robust sandwich estimators clustered on the matching set in SAS version 9.4, we estimated prevalence ratios assuming a Poisson distribution to test associations between SARS-CoV-2 infection and adverse pregnancy, delivery, and neonatal outcomes. A sensitivity analysis excluding those testing positive in pregnancy was conducted. 2-sided P less than .05 indicated statistical significance.
+
+Results
+Among 2682 patients presenting in labor, 156 (5.8%) were SARS-CoV-2 positive (142 [91%] at admission and 14 [9%] during pregnancy). Gradients were observed across educational level (less than 10 years, 14.2%; 10-12 years, 6.6%; and more than 12 years, 4.0%) and birth country (Nordic, 3.9%; rest of Europe, 5.7%; and Africa/Middle East, 10.0%). 65% testing positive were asymptomatic. We matched 155 patients testing positive to 604 testing negative.
+
+After matching, the groups were well balanced on all covariates (Table). Patients testing positive were more likely to have preeclampsia (7.7% vs 4.3%; prevalence ratio, 1.84; 95% CI, 1.004-3.36) and less likely to undergo induction of labor (18.7% vs 29.6%; prevalence ratio, 0.64; 95% CI, 0.45-0.90) (Figure). Other maternal outcomes, including mode of delivery, postpartum hemorrhage, and preterm birth, did not significantly differ between groups. Infants did not differ regarding 5-minute Apgar score and birth weight for gestational age (Figure). All results were similar in the sensitivity analysis, although the association with preeclampsia was nonsignificant (prevalence ratio, 1.70; 95% CI, 0.89-3.25).
+
+Discussion
+SARS-CoV-2 test positivity in individuals in labor was associated with a higher prevalence of preeclampsia and lower prevalence of induction of labor. COVID-19 is primarily a respiratory infection but also has systemic effects that may resemble preeclampsia. The absence of an increased prevalence of preterm birth is concordant with results of 2 previous studies using comparators. The lack of difference in Apgar scores and birth weight for gestational age between groups is similar to that in a US study.
+
+In light of other accumulating data, it is already clear that COVID-19 is less severe in pregnancy than the 2 previous coronavirus infections: severe acute respiratory syndrome-related coronavirus (SARS) and Middle East respiratory syndrome-related coronavirus (MERS). Nevertheless, there are reports of pregnant persons requiring critical care, and there have been other reports of both mother and infant deaths in association with COVID-19.
+
+Strengths of this study include the universal testing, providing pregnancy comparators with negative test results. Limitations include uncertainty regarding generalizability to other countries with different obstetric care, timing of the RT-PCR test, and limited statistical power for rare outcomes and for a stratified analysis by symptoms.
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The full article including the table, figure, and references is available at the source URL above.
+
+Based on what is known at present, pregnant women might be at an increased risk for severe illness from COVID-19 compared to non-pregnant women. Additionally, pregnant women with COVID-19 might have an increased risk of adverse pregnancy outcomes, such as preterm birth (not reported in the study above). In an earlier study from India, Nayak et al have reported no significant effect of COVID-19 infection on maternal and foetal outcome in pregnancy and that there is no evidence of vertical transmission of the COVID-19 infection (Nayak AH, Kapote DS, Fonseca M, et al. Impact of the coronavirus infection in pregnancy: a preliminary study of 141 patients. J Obstet Gynaecol India. 2020; 70(4): 256-261. doi: 10.1007/s13224-020-01335-3; https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7340730/). - Mod.UBA]
+
+******
+[3] WHO: daily new cases reported (as of 23 Sep 2020)
+Date: Wed 23 Sep 2020
+Source: WHO [abridged, edited]
+https://covid19.who.int/table
+
+
+*Daily case reports as of 23 Sep 2020 16:47 CEST
+
+Surveillance
+------------
+WHO region (no. countries/territories):
+Total confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+---------------------------
+Western Pacific Region (19): 588 138 (2239) / 12 820 (62)
+European Region (61): 5 320 422 (42 602) / 231 283 (578)
+South East Asia Region (10): 6 341 635 (90 884) / 105 515 (1291)
+Eastern Mediterranean Region (22): 2 266 031 (22 117) / 58 794 (440)
+Region of the Americas (54): 15 751 167 (84 250) / 533 680 (1972)
+African Region (49): 1 156 895 (4073) / 25 059 (177)
+Cases on an international conveyance (Diamond Princess): 712 (0) / 13 (0)
+
+Confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+Grand total: 31 425 029 (246 165) / 967 164 (4520)
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The number of countries and territories reporting confirmed cases of COVID-19 to WHO remains at 215.
+
+Data by country, area, or territory for 23 Sep 2020 can be accessed at https://promedmail.org/wp-content/uploads/world-pdf/WHO%20daily%20tablesSept23_1600932177.pdf.
+
+- The Americas region reported 34.2% of daily case numbers and 43.6% of the daily deaths reported in the past 24 hours, maintaining its position as the most severely affected region, having reported more than 15.7 million cases. The USA and Brazil dominate, followed by Argentina, Colombia, Peru, Mexico, and Canada.
+
+- The European region reported 17.3% of daily case numbers and 12.8% of the daily deaths reported in the past 24 hours, and total cumulative cases reported exceed 5.3 million. Countries not reporting cases today (23 Sep 2020) include Spain, Israel, Kazakhstan, and Sweden. In the absence of Spain, France dominates, followed by Russia, the UK, Ukraine, and the Czech Republic. Other countries reporting more than 1000 cases in the past 24 hours include the Netherlands, Germany, Turkey, Italy, and Romania.
+
+- The Eastern Mediterranean region reported 8.9% of daily case numbers and 9.7% of the deaths reported in the past 24 hours, having reported a cumulative total of greater than 2.2 million cases. Iraq remains the dominant country, followed by Iran, Morocco, Lebanon, Bahrain, Pakistan, Jordan, and UAE. Other countries reporting more than 500 cases include Kuwait, Oman, Libya, Tunisia, and Palestinian Authority. Somalia did not report cases in the past 24 hours.
+
+- The African region reported 1.6% of daily case numbers and 3.9% of the deaths reported in the past 24 hours and has reported more than 1.1 million cases. South Africa dominates, followed by Ethiopia, Angola, Uganda, Zambia, and Mozambique
+
+- The Western Pacific region reported 0.9% of daily case numbers and 1.3% of the deaths reported in the past 24 hours, having reported a cumulative total of 0.58 million cases. The Philippines continues to dominate followed by Japan, South Korea, and Malaysia.
+
+- The South East Asia region reported 36.9% of the daily newly reported cases and 28.5% of reported deaths in the past 24 hours, having reported a cumulative total of more than 6.3 million cases. India continues to dominate, followed by Indonesia, Bangladesh, and Nepal.
+
+On the Overview tab at the WHO source URL, the epidemic curve of confirmed COVID-19 cases by WHO region, 30 Dec 2019 through 23 Sep 2020 is an excellent visual representation of the epidemic. - Mod.UBA]
+
+******
+[4] Global update: Worldometer accessed 23 Sep 2020 22:05 EDT (GMT-4)
+Date: Wed 23 Sep 2020
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at https://promedmail.org/wp-content/uploads/world-pdf/SEPT23DATASET_1600932361.pdf.
+
+A 7-day series of cumulative data reported by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/SEPT23WORLD7_1600932462.pdf. - Mod.UBA]
+
+Total number of reported deaths: 981 937
+Total number of worldwide cases: 32 091 784
+Number of newly confirmed cases in the past 24 hours: 320 343
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The USA, India, and Brazil are still the most severely affected countries in terms of cumulative case counts and daily new case confirmations, with India now in the 2nd position followed by Brazil. In the past 24 hours, these 3 countries -- India (89 688), followed by the USA (41 616) and Brazil (32 445) -- account for over half of all confirmed cases globally (54.5%) and 51.1% of all newly confirmed cases in the past 24 hours. A global total of 6622 deaths were reported in the past 24 hours (22-23 Sep 2020). Reporting numbers have risen, consistent with resuming fuller reporting following a weekend reduction in reports.
+
+Countries reporting more than 5000 newly confirmed cases in the past 24 hours include India, USA, Brazil, France (13 072), Argentina (12 625), Israel (11 316), Spain (11 289), Colombia (6731), Russia (6431), UK (6178), Peru (6149), and Iraq (5055); 33 countries have reported more than 1000 cases in the past 24 hours. 10 of the top 20 countries reporting the highest daily newly confirmed cases are from the European region and 5 were from the Americas region.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, there is an increase in case counts by 1.0%, while daily reported deaths have decreased by 0.83%.
+
+Impression: Cases are increasing globally, with Europe and the Americas showing major increasing transmission in many countries. - Mod.UBA]
+See Also
+COVID-19 update (411): monoclonal Ab, conval. plasma, pooled saliva, WHO, global 20200923.7805033
+COVID-19 update (410): ACE inhibitors and ARBs, WHO COVAX plan, WHO, global 20200922.7801717
+COVID-19 update (409): masks, scientist gender, USA airline travel, WHO, global 20200921.7798527
+COVID-19 update (408): children, Al Jazeera, WHO, global 20200920.7797002
+COVID-19 update (407): in-flight transmission, wildlife research, WHO, global 20200919.7795084
+COVID-19 update (406): animal, Netherlands (LI), Denmark (ND), farm mink, spread 20200918.7794239
+COVID-19 update (405): rapid tests, European surge, eyeglasses, WHO, global 20200918.7792005
+COVID-19 update (404): US FDA, genome analysis, WHO, global 20200917.7789628
+COVID-19 update (403): vaccine trial, transmission data needs, WHO, global 20200916.7783581
+COVID-19 update (402): countries, nose, WHO, global 20200915.7779377
+COVID-19 update (401): animal, Netherlands (NB), Denmark, farmed mink, spread 2 02009114.7777661
+COVID-19 update (400): lockdowns, influenza co-infections WHO, global 20200914.7776512
+COVID-19 update (350): USA (TX) animal, cat 20200808.7658191
+COVID-19 update (300): Korea antibodies, China asymptomatic index case, WHO 20200703.7536146
+COVID-19 update (250): selected countries 20200610.7448037
+COVID-19 update (200): global, Yemen, WHO 20200522.7364937
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+Undiagnosed pediatric inflammatory syndrome (05): Europe, USA, COVID-19 assoc 20200518.7340554
+Undiagnosed pediatric inflammatory syndrome (04): USA, UK, PMIS, fatal 20200509.7315405
+Undiagnosed pediatric inflammatory syndrome (03): USA, Europe, COVID-19 susp, RFI 20200505.7299876
+COVID-19 update (150): global, USA state prisons, WHO 20200502.7290671
+COVID-19 update (100): China, S. Korea & high local transmission countries 20200413.7217806
+COVID-19 update (50): China (Hong Kong) animal dog, 2nd case PCR positive, OIE 20200323.7129951
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (41): China, global, clinical pics, asymptomatic trans., WHO 20200210.6976117
+Novel coronavirus (40): animal reservoir, pangolin poss intermediate host, RFI 20200210.6972104
+Novel coronavirus (30): updates, China, Viet Nam, research 20200202.6945658
+Novel coronavirus (20): China, wildlife trade ban 20200127.6922060
+Novel coronavirus (10): China (HU, GD, BJ) 20200119.6898567
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia: China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia: China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+----
+Undiagnosed pneumonia: China (HU): RFI 20191230.6864153
+and other items in the archives
+.................................................sb/uba/mj/lm
+</body>

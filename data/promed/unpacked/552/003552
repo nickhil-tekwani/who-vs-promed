@@ -1,0 +1,294 @@
+<header id=003552>
+Published Date: 2022-08-23 19:45:16 EDT
+Subject: PRO/EDR> COVID-19 update (169): treatments, incubation times, vaccine, WHO, global
+Archive Number: 20220823.8705195
+</header>
+<body id=003552>
+CORONAVIRUS DISEASE 2019 UPDATE (169):TREATMENTS, INCUBATION TIMES, VACCINE, WHO, GLOBAL
+*****************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] Treatments
+[A] Paxlovid and COVID-19 outcomes
+[B] Antibiotic use
+[2] Incubation times
+[3] Vaccine
+[4] WHO: Daily new cases reported (as of 22 Aug 2022)
+[5] Global update: Worldometer accessed 22 Aug 2022 19:24 EST (GMT-5)
+
+******
+[1] Treatments
+Date: Mon 22 Aug 2022
+Source: CIDRAP [Center for Infectious Disease Research and Policy (edited)]
+https://www.cidrap.umn.edu/news-perspective/2022/08/news-scan-aug-22-2022
+
+----
+[A] Paxlovid and COVID-19 outcomes
+
+Nonhospitalized, high-risk, vaccinated COVID-19 patients who received nirmatrelvir-ritonavir (NMV-r, or Paxlovid) saw a 45% drop in their relative risk of emergency department (ED) visits, hospitalization, and death by 30 days, suggests a study published late last week in Clinical Infectious Diseases.
+
+A team led by Beth Israel Lahey Health researchers in Massachusetts retrospectively analyzed the outcomes of 2260 nonhospitalized, high-risk adults who had been vaccinated against COVID-19 but had breakthrough infections at least 1 month later from [1 Dec 2021], to [18 Apr 2022]. Half the patients had received Paxlovid within 5 days of diagnosis, and half received standard care.
+
+A total of 89 patients (7.9%) who received Paxlovid had an all-cause ED visit, were hospitalized, or died within 30 days, compared with 163 controls (14.4%; odds ratio [OR], 0.5), translating to a 45% relative risk reduction. No deaths were reported among Paxlovid recipients, compared with 10 in controls.
+
+The Paxlovid group also experienced fewer multisystem symptoms and complications such as lower respiratory tract infection, abnormal heart rhythms, and the need for radiologic testing.
+
+"Our data strongly support the clinical effectiveness of NMV-r in vaccinated patients and the current NIH [National Institutes of Health] guidelines, listing this as the preferred therapy for mild-moderate COVID-19 in those at high risk of severe disease," the researchers wrote.
+
+The authors noted that when rebound infections, which have been reported after 5 days of Paxlovid treatment, did occur, they still didn't negate its benefits. "Indeed, we found no late increase in complications among those with treatment compared to no treatment, although our study likely would have missed cases of transient or mild rebound occurring between 10 and 30 days after diagnosis," they wrote.
+
+[Citation. Ganatra S, Dani SS, Ahmad J, et al. Oral Nirmatrelvir and Ritonavir in non-hospitalized vaccinated patients with COVID-19, Clinical Infectious Diseases, 2022;, ciac673, https://doi.org/10.1093/cid/ciac673
+
+"In summary, this evaluation of NMV-r in vaccinated patients at high risk for COVID-19, 10 complications shows a strong association between treatment and a reduced risk of emergency 11 room visits, hospitalizations, and death. With cases of COVID-19 continuing to occur despite 12 widespread vaccination, these data support administering antiviral therapy to this vulnerable 13 group, vaccination status notwithstanding. Ongoing prospective clinical trials of NMV-r in a 14 variety of patient populations will more precisely define the benefits and risks of treatment." - Mod.LK]
+
+----
+[B] Antibiotic stewardship during COVID
+
+A study conducted at 2 hospitals in Thailand found that implementing a procalcitonin (PCT) and Clinical Pulmonary Infection Score (CPIS) was associated with reduced inappropriate antibiotic use, multidrug-resistant organisms (MDROs), and invasive fungal infections (IFIs) in severely-to-critically ill COVID-19 patients, researchers reported today in Infection Control & Hospital Epidemiology.
+
+In the quasi-experimental study, conducted from March 2020 through February 2022, Thai and US researchers evaluated the role of PCT-CPIS in 2 hospitals in which severely-to-critically ill COVID-19 patients were treated in intensive care units. They compared inappropriate antibiotic use during the 1-year pre-implementation period [period 1: March 2020 through February 2021], when no antibiotic protocols were available for COVID-19 patients at either hospital, and the 1-year post-implementation period [period 2: March 2021 through February 2022].
+
+During period 2, antibiotics were not initiated, or were discontinued on day 3, for patients with a CPIS score of less than 6 and PCT of less than 0.5 micrograms per liter (μg/L).
+
+In total, 192 patients were included in period 1 and 214 in period 2. Their median age was 62 years, 52% were severely ill, and 23.6% were critically ill. Compared with period 1, overall inappropriate antibiotic use in period 2 fell significantly, from 63.5% to 31.3%, driven mainly by reduced inappropriate antibiotic use in severely-to-critically ill COVID-19 patients (80.8% in period 1 vs 39.1% in period 2). But it was not reduced among mildly-to-moderately ill COVID-19 patients (8.7% vs 7.5%).
+
+In period 2, researchers also observed a significantly lower incidence of MDRO-IFIs (25% vs 16.8%) and MDR _Acinetobacter baumannii_ (16.1% vs 9.3%), as well as significantly shorter antibiotic duration (7 days vs 0 days) and shorter hospitalizations (13 days vs 10 days). There was no difference in 30-day mortality between the 2 periods.
+
+"Our findings suggest that the PCT-CPIS strategy could be beneficial to severely-to-critically ill COVID-19 patients," the authors concluded.
+
+[Citation.Sathitakorn, O., Chansirikarnjana, S., Jantarathaneewat, K., et al. (2022). The role of procalcitonin and Clinical Pulmonary for Infection Score (CPIS) score to reduce inappropriate antibiotics use among moderate to severe coronavirus disease 2019 (COVID-19) pneumonia: A quasi-experimental multicenter study. Infection Control & Hospital Epidemiology, 1-5. doi:10.1017/ice.2022.201. Not open access ]
+
+--
+Communicated by:
+Mary Marshall
+
+******
+[2] Incubation times
+Date: Mon 22 Aug 2022
+Source: CIDRAP (Center for Infectious Disease Research and Policy) [edited]
+https://www.cidrap.umn.edu/news-perspective/2022/08/study-incubation-times-sars-cov-2-variants-fell-over-time
+
+
+Study: Incubation times of SARS-CoV-2 variants fell over time
+-------------------------------------------------------------
+As the dominant circulating strain of SARS-CoV-2 evolved from Alpha to Omicron, the incubation period from infection to symptoms or first positive COVID-19 test result gradually decreased, from 5 to 3.4 days, according to a systematic review and meta-analysis published today in JAMA Network Open.
+
+The incubation period is the time from exposure to a pathogen like a virus to the time of first symptoms of the disease that the pathogen causes.
+
+Peking University researchers led the analysis of 142 studies of 8112 COVID-19 patients published from [1 Dec 2019 - 10 Feb 2022]. Of the studies, 45 were considered to present strong evidence, 82 were deemed moderate, and 15 were considered weak.
+
+Most studies (65.5%) were conducted from [January -- March 2020], and 76.1% were conducted in China. The remaining studies came from multiple countries (1 study) or from South Korea (6), France (4), Japan (3), Singapore (2), India (2), Vietnam (2), and Australia (2). A total of 83.8% of the studies included patients infected with the wild-type SARS-CoV-2 strain, while 3.5% included patients infected with multiple strains, and 7.7% involved unknown strains.
+
+The average pooled incubation of all variants was 6.57 days (range, 1.80 - 18.87). Among patients 60 years or older, the average incubation was 7.43 days (8 studies), while it was 8.82 among children (8), 6.99 days among those with mild or moderate illness (5), and 6.69 days among the severely ill (5). The last finding was not significant.
+
+Average incubation times for each variant were 5 days (Alpha; 1 study), 4.50 (Beta; 1), 5.1 days (Beta/Gamma; 1), 4.41 (Delta; 6), and 3.42 (Omicron; 5). "With the evolution of the mutant strains, the incubation period of COVID-19 appeared to decrease gradually from the Alpha variant to Omicron variant, but there was no significant difference between the groups," the researchers wrote.
+
+The authors noted that COVID-19 appears to have a longer incubation time than that of any other acute viral respiratory infection, including human coronavirus (eg, upper respiratory tract infection; 3.2 days), influenza A (1.43 to 1.64 days), parainfluenza (eg, cold, bronchitis; 2.6), respiratory syncytial virus (RSV; 4.4), rhinovirus (eg, cold, sore throat; 1.4), and severe acute respiratory syndrome (SARS; 4).
+
+"Knowledge of the disease's incubation period is of great significance for case definition, management of emerging threats, estimation of the duration of follow-up for contact tracing and 2ary case detection, and the establishment of public health programs aimed at reducing local transmission," the researchers wrote.
+
+In a policy update released on [11 Aug 2022], the US Centers for Disease Control and Prevention advised close contacts of COVID-19 patients that they no longer had to quarantine; instead, it recommended wearing a high-quality mask for 10 days and getting tested 5 days after exposure. Infected people, it said, should still isolate for at least 5 days after a positive test.
+
+The authors said that some countries, however, still require close contacts to isolate for 14 days. "With the shortening of the incubation period of new variants, the isolation period can be adjusted appropriately to reduce the pressure on the health system," they wrote.
+
+[Byline: Mary Van Beusekom]
+
+--
+Communicated by:
+Mary Marshall
+
+[Citation. Wu Y, Kang L, Guo Z, Liu J, Liu M and Liang W. Incubation period of COVID-19 caused by unique SARS-CoV-2 strains: a systematic review and meta-analysis. JAMA Netw Open. 2022;5(8):e2228008. doi:10.1001/jamanetworkopen.2022.28008
+
+Conclusions and Relevance: The findings of this study suggest that SARS-CoV-2 has evolved and mutated continuously throughout the COVID-19 pandemic, producing variants with different enhanced transmission and virulence. Identifying the incubation period of different variants is a key factor in determining the isolation period. - Mod.LK]
+
+******
+[3] Vaccine
+Date: Mon 22 Aug 2022
+Source: CIDRAP (Center for Infectious Disease research and Policy) [edited]
+https://www.cidrap.umn.edu/news-perspective/2022/08/pfizer-files-emergency-use-its-ba4ba5-omicron-booster
+
+
+As the nation braces for another possible spike in COVID-19 activity, Pfizer and BioNTech today announced that they have submitted an application to the US Food and Drug Administration (FDA) for emergency use of its bivalent (2-strain) booster that targets the BA.4 and BA.5 Omicron variants.
+
+mRNA vaccine makers have been working on bivalent booster shots targeting the original Omicron variant, but in late June [2022] FDA vaccine advisers recommended that the boosters include the more recent BA.4 and BA.5 subvariants. The more transmissible viruses, also known to evade earlier immunity from vaccines and previous infection, have fueled outbreaks in several countries and led to persistently high levels in many US communities over the summer.
+
+The nation's COVID-19 activity has been at a stubbornly elevated level this summer, and officials worry about more surges as schools resume and people gather indoors as the weather cools.
+
+In a statement, Pfizer said its EUA would clear the booster for use in people ages 12 and older. [https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-biontech-submit-application-us-fda-emergency-use]
+
+The company said the clinical trial is expected to begin later this month [August 2022], but it has already scaled up production and will be ready to ship the vaccine in September [2022], as soon as the FDA approves the emergency use authorization (EUA) application.
+
+To speed the consideration of the EUA, the FDA told Pfizer it could submit clinical data for its bivalent BA.1 vaccine alongside preclinical and manufacturing data on its BA.4/BA.5 vaccine. Preclinical data in animals suggest that the BA.4/BA.5 bivalent booster prompts a strong neutralization antibody response against Omicron BA.1, BA.2, and BA.4/BA.5 variants, as well as to the original SARS-CoV-2 virus.
+
+Pfizer also said it will complete a rolling submission to the European Medicines Agency in the coming days.
+
+On Twitter today, Ashish Jha, MD, MPH, coordinator of the White House COVID-19 committee, said vaccines are one of the first-line defenses against COVID-19 heading into the fall. However, he said too many kids and adults don't have adequate protection against BA.5. "Being up to date will help a lot." He added that school vaccine clinics will help kids and teachers get vaccinated and boosted.
+
+New CDC data on COVID-19 cases and deaths show that people ages 50 and up who have had one booster dose have an 83% reduction in deaths, and those with both recommended booster shots have a 94% reduction in death. Only 11% of those ages 50 -- 65, however, have 2 booster doses, with the level a little higher, at 26%, in seniors. [https://covid.cdc.gov/covid-data-tracker/#rates-by-vaccine-status]
+
+FDA OKs Novavax for teens, asks for more Paxlovid research
+----------------------------------------------------------
+In other US developments with COVID-19 countermeasures, the FDA on [19 Aug 2022] authorized emergency use of the Novavax primary vaccine series for children ages 12 -- 17.
+
+In July [2022], the FDA approved an EUA for the vaccine for adults, the 4th for the US market. The vaccine is made on a more traditional production platform, which officials hope will sway more people to get vaccinated.
+
+The vaccine contains the SARS-CoV-2 spike protein produced in insect cells. It contains the Matrix-M adjuvant to boost immune response.
+
+Meanwhile, the FDA has asked Pfizer to do research on a 2nd course of the antiviral drug Paxlovid in people who experience rebound infection after the 1st course, according to Bloomberg News [https://www.bloomberg.com/news/articles/2022-08-19/pfizer-pfe-told-by-fda-to-test-repeat-paxlovid-course-for-rebound-patients?utm_source=google&utm_medium=bd&cmpId=google]. It asked the company to report initial findings on the 2nd course by the end of September [2022]. A Pfizer official told Bloomberg that the company is working with the FDA on a research protocol.
+
+[Byline: Lisa Schnirring]
+
+--
+Communicated by:
+Mary Marshall
+<mjm2020@googlemail.com>
+
+[It will be difficult to have results on a 2nd course of Paxlovid by the end of September 2022 if the protocol is still being planned. - Mod.LK]
+
+******
+[4] WHO: Daily new cases reported (as of 22 Aug 2022)
+Date: Mon 22 Aug 2022
+Source: WHO [abridged, edited]
+https://covid19.who.int/table
+
+
+*Daily case reports as of 22 Aug 2022 16:48 CET
+
+Surveillance
+------------
+WHO region (no. countries/territories):
+Total confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+--------------------------------------------------------------------------------
+Western Pacific Region (19): 80 959 738 (314 762) / 254 979 (342)
+European Region (61): 246 251 732 (85 029) / 2 069 339 (173)
+South East Asia Region (10): 59 861 679 (14 813) / 794 681 (84)
+Eastern Mediterranean Region (22): 22 924 525 (11 394) / 346 976 (82)
+Region of the Americas (54): 174 001 373 (0) / 2 806 324 (0)
+African Region (49): 9 269 451 (179) / 174 235 (0)
+Cases on an international conveyance: 764 (0) / 13 (0)
+
+Confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+Grand total: 593 269 262 (426 177) / 6 446 547 (681)
+
+--
+Communicated by:
+ProMED
+
+[Data by country, area, or territory for 22 Aug 2022 can be accessed at:
+https://promedmail.org/wp-content/uploads/world-pdf/2022%20WHO%20Data%20Tables%2022%20Aug%20_1661278423.pdf.
+
+- The Americas region reported no cases or deaths during the past 24 hours, having reported more than 174.00 million cases, 2nd to the European region, the most severely affected region.
+
+- The European region reported 19.9% of cases and 25.4% of deaths over the last 24 hours, as the most effected region, with cumulative cases exceeding 246.25 million. Many countries did not report cases in the last 24 hours or longer including Germany, the UK, Turkey, Spain, Ukraine, Portugal, Belgium, Switzerland, and Greece, among others. A total of 8 countries reported more than 1000 cases in the past 24 hours; 3 countries reporting more than 10 000, 5 reporting over 1000 cases, while 3 countries reported more than 500 but fewer than 1000 cases.
+
+- The Eastern Mediterranean region reported 2.6% cases and 12% deaths over the last 24 hours, having reported a cumulative total of more than 22.92 million cases. Jordan (4832) reported the highest number of cases, followed by Iran. Lebanon, UAE, and Qatar reported more than 500 but less than 1000 cases over the last 24 hours.
+
+- The African region reported 0.042% cases and no deaths during the past 24 hours, having reported a cumulative total of more than 9.26 million cases. Algeria (74) reported the highest number of cases over the last 24 hours followed with all other reporting countries (7 countries) all reporting less than 100 cases over the last 24 hours.
+
+- The Western Pacific region reported 73.8% of daily case numbers and 50.2% deaths in the past 24 hours, having reported a cumulative total of more than 80.95 million cases. Japan (217 875) reported the highest number of cases over the last 24 hours followed by South Korea, China, Australia, Singapore, New Zealand, Malaysia, and Philippines.
+
+- The South East Asia region reported 3.4% cases and 12.3% deaths in the past 24 hours, having reported a cumulative total of more than 59.86 million cases. India (9531) reported the highest number of cases over the last 24 hours followed by Indonesia (3300), Thailand (1531) and Nepal (405). Bangladesh, Sri Lanka, Bhutan, and Maldives, among others, have not reported cases over the last few days.
+
+On the Overview tab at the WHO source URL, the epidemic curve of confirmed COVID-19 cases by WHO region, 30 Dec 2019 through 22 Aug 2022, is an excellent visual representation of the pandemic. - Mod.UBA]
+
+******
+[5] Global update: Worldometer accessed 22 Aug 2022 19:24 EST (GMT-5)
+Date: Mon 22 Aug 2022
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+Total number of reported cases: 601 561 186
+Total number of reported deaths: 6 473 780
+Number of newly confirmed cases in the past 24 hours: 684 176
+
+--
+Communicated by:
+ProMED
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available https://promedmail.org/wp-content/uploads/world-pdf/2022%20WORLDDATA%20AUG22_1661278438.pdf.
+
+A 7-day series of cumulative data reported by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/2022%20AUG22WORLD7_1661278451.pdf. - Mod.UBA]
+
+[In the past 24 hours, 8 countries; Japan (217 875), South Korea (150 098), the USA (103 748), Russia (33 061), Argentina (24 659), Taiwan (16 903), Australia (16 294), and Italy (10 417), reported the highest numbers of cases, all reporting more than 10 000 newly confirmed cases. A global total of 1929 deaths were reported in the preceding 24 hours (21-22 Aug 2022).
+
+A total of 38 countries reported more than 1000 cases in the past 24 hours; 22 of the 38 countries are from the European region, 6 are from the Americas region, 2 from the Eastern Mediterranean region, 5 are from the Western Pacific region, 3 are from the South East Asia region, and none from the African region.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, case counts have increased by 4.2%, while daily reported deaths have decreased by 0.12%. Comparative 7-day averages in the USA show 13.3% decrease in daily reported cases and 6.9% decrease in reported deaths.
+
+Impression: The global daily reported over 0.68 million newly confirmed infections in the past 24 hours with over 601.56 million cumulative reported cases and over 6.47 million reported deaths. - Mod.UBA]
+See Also
+COVID-19 update (168): infectiousness, children, exhaled virus, WHO, global 20220821.8705151
+COVID-19 update (167): pregnancy, Novavax, S. Korea, BCG, WHO, global 20220819.8705096
+COVID-19 update (166): long COVID, omicron, regional, WHO, global 20220815.8705029
+COVID-19 update (165): cases & deaths, boosters, omicron sub-variants, WHO, global 20220811.8704992
+COVID-19 update (164): at-home test, neutralization, BA 2.75, WHO, global 20220809.8704958
+COVID-19 update (163): long COVID, aerosol transmission, WHO 20220807.8704910
+COVID-19 update (162): trends, rebound, WHO 20220805.8704877
+COVID-19 update (161): rebound, long COVID 20220802.8704823
+COVID-19 update (160): vaccine rollout disparities, smell & taste, WHO, global 20220731.8704776
+COVID-19 update (159): Novavax, long COVID, infectious virus, WHO, global 20220728.8704732
+COVID-19 update (158): next generation vaccines, antivirals, WHO, global 20220727.8704690
+COVID-19 update (157): monoclonal Ab & antivirals, WHO 20220723.8704612
+COVID-19 update (156): oxygen for long COVID, updates, WHO 20220721.8704584
+COVID-19 update (155): BA.2.75, childhood vacc., WHO, global 20220717.8704474
+COVID-19 update (154): omicron sub-variants, booster recommendations, WHO, global 20220715.8704422
+COVID-19 update (153): omicron subvariant BA.2.75, WHO, global 20220712.8704386
+COVID-19 update (152): life expectancy, US deaths, WHO, global 20220710.8704330
+COVID-19 update (151): omicron subvariants BA.4/5, croup, plasma, WHO, global 20220708.8704303
+COVID-19 update (150): France, omicron 2nd gen variant, paxlovid, WHO, global 20220705.8704255
+COVID-19 update (149): long COVID, Europe, booster, airborne trans., WHO, global 20220703.8704209
+COVID-19 update (148): cases, maternal deaths, wastewater testing, WHO, global 20220701.8704171
+COVID-19 update (147): neurodegenerative disorders risk, Australia, WHO, global 20220629.8704142
+COVID-19 update (146): access to antivirals, reinfection, corr, WHO 20220626.8704089
+COVID-19 update (145): immune response, Paxlovid, WHO 20220624.8704045
+COVID-19 update (144): CDC child vacc, N Korea, variants, WHO 20220622.8703999
+COVID-19 update (143): long COVID, FDA, South Asia, WHO, global 20220619.8703945
+COVID-19 update (142): immunity boost, WHO, global 20220617.8703919
+COVID-19 update (141): vacc. effectiveness in children, WHO, global 20220615.8703865
+COVID-19 update (130): surveill., cardiac eff., long COVID subtypes, WHO, global 20220601.8703606
+COVID-19 update (120): N Korea, pandemic exit, youth vaccine, US deaths, WHO 20220518.8703327
+COVID-19 update (110): mutations, mental health, China, S Africa, Paxlovid, WHO 20220505.8703018
+COVID-19 update (100): vacc. intervals, deaths, long COVID, subvariants, global 20220420.8702717
+COVID-19 update (90): strategy, 2nd booster, WHO 20220407.8702454
+COVID-19 update (80): animal, USA, deer, transmission 20220325.8702212
+COVID-19 update (70): case count, UK, BA.2, USA, WHO, global 20220312.8701940
+COVID-19 update (60): animal, China, origin, research 20220227
+COVID-19 update (50): Hong Kong, estrogen risk, maternal vaccine benefits, WHO 20220217.8701501
+COVID-19 update (40): Denmark, rosemary, pregnancy, stroke, WHO 20220205.8701276
+COVID-19 update (30): variants in immuno-comp., stability, endemic, WHO 20220126.8701074
+COVID-19 update (20): Africa vacc., Taiwan, waning immunity, persistence, global 20220117.8700915
+COVID-19 update (10): animal, omicron origin statement, OIE 20220110.8700763
+COVID-19 update (01): omicron severity & changes, Germany, T-cell reactivity 20220101.8700616
+2021
+----
+COVID-19 update (452): rapid test, omicron, Ab neutralization, school, WHO 20211230.8700597
+COVID-19 update (451): animal, USA, wild deer 20211230.8700589
+COVID-19 update (450): maternal Abs, CDC isolation guidance, WHO 20211230.8700575
+COVID-19 update (400): animal, sheep, research, experimental infection 20211121.8699806
+COVID-19 update (350): boosters, deaths, cases, vaccines, WHO 20211014.8699041
+COVID-19 update (300): Norway, myocarditis, schools, new variant C.1.2, WHO 20210901.8638460
+COVID-19 update (200): animal, China, origin 20210608.8433657
+COVID-19 update (100): antibodies, vaccine, Thailand, Cambodia, WHO, global 20210316.8250009
+COVID-19 update (50): UK vaccine study, Brazil reinfection, WHO 20210205.8167161
+COVID-19 update (01): variants, vaccine, Thailand, global, WHO 20210101.80629382020
+2020
+----
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+COVID-19 update (562): viral load, UK vacc dose, ECDC, WHO 20201231.8061525
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia: China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia: China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+----
+Undiagnosed pneumonia: China (HU): RFI 20191230.686415
+and other items in the archives
+.................................................sb/lk/mpp/uba/ao/lxl
+</body>

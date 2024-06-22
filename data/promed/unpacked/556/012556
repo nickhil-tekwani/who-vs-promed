@@ -1,0 +1,216 @@
+<header id=012556>
+Published Date: 2020-11-22 06:58:42 EST
+Subject: PRO/AH/EDR> COVID-19 update (500): frequent rapid tests, vaccine, WHO, global
+Archive Number: 20201122.7962919
+</header>
+<body id=012556>
+CORONAVIRUS DISEASE 2019 UPDATE (500): FREQUENT RAPID TESTS, VACCINE, WHO, GLOBAL
+*********************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] Potential Impact of Rapid and Frequent Testing
+[2] IDSA response to Pfizer request for COVID-19 vaccine emergency use authorization (EUA)
+[3] WHO: daily new cases reported (as of 21 Nov 2020)
+[4] Global update: Worldometer accessed 21 Nov 2020 21:57 EST (GMT-5)
+
+******
+[1] Potential Impact of Rapid and Frequent Testing
+Date: 20 Nov 2020
+Source: Harvard T H Chan School of Public Health [edited]
+https://www.hsph.harvard.edu/news/press-releases/frequent-rapid-testing-could-turn-national-covid-19-tide-within-weeks/?utm_campaign=General&utm_content= 1605 915822&utm_medium=social&utm_source=twitter
+
+
+Testing half the population weekly with inexpensive, rapid-turnaround COVID-19 tests would drive the virus toward elimination within weeks, even if those tests are significantly less sensitive than gold-standard clinical tests, according to a new study published today [20 Nov 2020] by Harvard T H Chan School of Public Health and University of Colorado [CU] Boulder researchers. Such a strategy could lead to "personalized stay-at-home orders" without shutting down restaurants, bars, retail stores, and schools, the authors said.
+
+"Our big picture finding is that, when it comes to public health, it's better to have a less sensitive test with results today than a more sensitive one with results tomorrow," said lead author Daniel Larremore, an assistant professor of computer science at CU Boulder. "Rather than telling everyone to stay home so you can be sure that one person who is sick doesn't spread it, we could give only the contagious people stay-at-home orders so everyone else can go about their lives."
+
+For the study, which was published online on 20 Nov 2020 in Science Advances, Larremore teamed up with collaborators at CU's BioFrontiers Institute and Harvard Chan School to explore whether test sensitivity, frequency, or turnaround time is most important to curb the spread of COVID-19. The researchers scoured available literature on how viral load climbs and falls inside the body during an infection, when people tend to experience symptoms, and when they become contagious. They then used mathematical modeling to forecast the impact of screening with different kinds of tests on 3 hypothetical scenarios: in 10 000 individuals; in a university-type setting of 20 000 people; and in a city of 8.4 million.
+
+When it came to curbing spread, they found that frequency and turnaround time are much more important than test sensitivity. For instance, in one scenario in a large city, widespread twice-weekly testing with a rapid but less sensitive test reduced the degree of infectiousness, or R0 ("R nought"), of the virus by 80%. But twice-weekly testing with a more sensitive PCR (polymerase chain reaction) test, which takes up to 48 hours to return results, reduced infectiousness by only 58%. In other scenarios, when the amount of testing was the same, the rapid test always reduced infectiousness better than the slower, more sensitive PCR test. That's because about 2/3rds of infected people have no symptoms, and as they await their results, they continue to spread the virus.
+
+"This paper is one of the 1st to show we should worry less about test sensitivity and, when it comes to public health, prioritize frequency and turnaround," said senior co-author Roy Parker, director of the BioFrontiers Institute and a Howard Hughes Medical Institute investigator. The study also demonstrates the power of frequent testing in shortening the pandemic and saving lives. In one scenario, in which 4% of individuals in a city were already infected, rapid testing 3 out of 4 people every 2 days reduced the number ultimately infected by 88% and was "sufficient to drive the epidemic toward extinction within 6 weeks".
+
+The study comes as companies and academic research centers are developing low-cost, rapid turnaround tests that could be deployed in large public settings or commercialized for do-it-yourself use. Sensitivity levels vary widely. Antigen tests require a relatively high viral load, about 1000 times as much virus as the PCR test, to detect an infection. Another test, known as RT-lamp (reverse transcription loop-mediated isothermal amplification), can detect the virus at around 100 times as much virus as the PCR. [Actually, detection by PCR requires 100 times more virus than the LAMP test (see https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7182526/). - Mod.SH]. The benchmark PCR test typically provided by medical professionals requires as little as 5000 to 10 000 viral RNA copies per milliliter of sample, meaning it can catch the virus very early or very late.
+
+In the past, federal regulators and the public have been reluctant to embrace rapid tests out of concern that they may miss cases early in infection. But, in reality, an infected person can go from 5000 particles to one million viral RNA copies in 18 to 24 hours, said Parker. "There is a very short window, early in infection, in which the PCR will detect the virus but something like an antigen or LAMP test won't," Parker said. And during that time, the person often isn't contagious, he said. The authors recently used these findings to call for a shift in the way we think about test sensitivity in the New England Journal of Medicine.
+
+"These rapid tests are contagiousness tests," said senior co-author Michael Mina, an assistant professor of epidemiology and a faculty member in the Center for Communicable Disease Dynamics at Harvard Chan School. "They are extremely effective in detecting COVID-19 when people are contagious." They are also affordable, he added. The rapid tests can cost as little as USD 1.00 each and return results in 15 minutes. Some PCR tests can take several days.
+
+Mina envisages a day when the government sends simple, cheap DIY tests to every home in the United States. Even if half of Americans tested themselves weekly and self-isolated if positive, the result would be profound, he said. "Within a few weeks, we could see this outbreak going from huge numbers of cases to very manageable levels," Mina said.
+
+Rapid testing could also be the key to breathing life back into former superspreader threats like football stadiums, concert venues, and airports, with patrons testing themselves on the way in and still wearing masks as a precautionary measure, Larremore said. "Less than 0.1% of the current cost of this virus would enable frequent testing for the whole of the US population for a year," said Mina, referencing a recent economic analysis published by the National Bureau of Economic Research.
+
+The authors say they are heartened to see that several countries have already begun testing all of their citizens and are hopeful that the new US administration has named rapid testing as a priority. On Tuesday [17 Nov 2020], the Food and Drug Administration approved the 1st at-home rapid test. "It's time to shift the mentality around testing from thinking of a COVID test as something you get when you think you are sick to thinking of it as a vital tool to break transmission chains and keep the economy open," Larremore said.
+
+--
+communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[reference: Daniel B Larremore, Bryan Wilder, Evan Lester, Soraya Shehata, James M Burke, James A Hay, et al. Test sensitivity is secondary to frequency and turnaround time for COVID-19 screening.". Science Advances, online 20 Nov 2020, doi: https://doi.org/10.1126/sciadv.abd5393.
+
+In this study, the researchers have used mathematical modelling to evaluate the impact of repeated population screening at the individual level as well as in populations. An important variable incorporated in the models was the effect of delayed test results. The time between a test's sample collection and the reporting of a diagnosis is the testing time, and the research team evaluated how time to reporting affected epidemic control through reanalysis of both the reduction in individuals' infectiousness as well as in epidemiological simulations, comparing the results of instantaneous reporting (reflecting a rapid point-of-care assay), a one-day delay, and a 2-day delay.
+
+The study results highlighted that: "...Delays in reporting lead to dramatically less effective control of viral spread and emphasize that fast reporting of results is critical in any screening regimen. These results also reinforce the relatively smaller benefits of improved limits of detection."
+
+Based on the modelling results, the authors have strongly advocated for using mass screening using rapid diagnostics on asymptomatic individuals so they can be isolated early from the population, thereby limiting transmission.
+
+An important distinction that the authors refer to here is the value of testing for symptomatic vs. asymptomatic persons:
+
+"...A critical point is that the requirements for screening tests are distinct from clinical tests. Clinical diagnoses target symptomatic individuals, need high accuracy and sensitivity, and are not limited by cost. Because they focus on symptomatic individuals, those individuals can isolate such that a diagnosis delay does not lead to additional infections. In contrast, results from the screening of asymptomatic individuals need to be returned quickly, since even a single day diagnosis delay compromises the screening program's effectiveness. Indeed, at least for viruses with infection kinetics similar to SARS-CoV-2, we find that speed of reporting is much more important than sensitivity, although more sensitive tests are nevertheless somewhat more effective.
+
+"The difference between clinical and screening tests highlights the need for additional tests to be approved and utilized for screening. Such tests should not be held to the same degree of sensitivity as clinical tests, in particular if doing so encumbers rapid deployment of faster cheaper SARS-CoV-2 assays. We suggest that the FDA, other agencies, or state governments encourage the development and use of alternative faster and lower cost tests for public health and repeated population screening purposes, even if they have poorer limits of detection. If the availability of point-of-care or self-administered screening tests leads to faster turnaround times or more frequent testing, our results suggest that they would have high epidemiological value."
+
+The study has certain limitations, but going forward and living with the pandemic, more and more novel approaches with active participation of the community towards its control will have to be instituted for the foreseeable future. - Mod.UBA]
+
+******
+[2] IDSA response to Pfizer request for COVID-19 vaccine emergency use authorization (EUA)
+Date: 20 Nov 2020
+Source: Infectious Diseases Society of America website [edited]
+https://www.idsociety.org/news--publications-new/articles/2020/idsa-response-to-pfizer-eua-app/
+
+
+While encouraging data from the Pfizer/BioNTech COVID-19 vaccine trial indicate the welcome possibility of a critical new tool against the pandemic, a comprehensive, transparent review of data, including evidence that the vaccine has been studied in diverse populations, remains essential to ensure its safety, effectiveness and acceptance.
+
+A positive recommendation from the independent scientific experts on the Food and Drug Administration's Vaccines and Related Biological Products Advisory Committee should be required before granting an authorization. Any vaccine's distribution should be informed by priorities and practices recommended by the Advisory Committee on Immunization Practices [of the Centers for Disease Control and Prevention].
+
+If emergency use authorization is granted, clinical trials and data collection must continue. Measures that include wearing masks, frequent handwashing, maintaining physical distance, and restricting the size of gatherings will remain crucial. Finally, new federal funding must be provided for widespread, fair and equitable vaccine distribution in addition to campaigns to build vaccine confidence.
+
+[Barbara D Alexander, MD, MHS, FIDSA - president, Infectious Diseases Society of America]
+
+--
+communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[A grounded and sensible response from IDSA highlights the need for vigilance when rolling out vaccines and/or therapeutics under emergency conditions and the need for involvement of the scientific community as independent assessors, in line with the recommendations of international and national advisory committees. Furthermore, continued evaluation of the vaccine's effectiveness across age groups, ethnically diverse populations, and its efficacy must be ensured when providing an EUA. - Mod.UBA]
+
+******
+[3] WHO: daily new cases reported (as of 21 Nov 2020)
+Date: Sat 21 Nov 2020
+Source: WHO [abridged, edited]
+https://covid19.who.int/table
+
+
+*Daily case reports as of 21 Nov 2020 15:59 CET
+
+Surveillance
+------------
+WHO region (no. countries/territories):
+Total confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+-----------------------
+Western Pacific Region (19): 828 402 (5679) / 16 744 (55)
+European Region (61): 16 637 264 (276 712) / 371 474 (5782)
+South East Asia Region (10): 10 311 856 (57 319) / 157 898 (701)
+Eastern Mediterranean Region (22): 3 763 231 (36 681) / 95 558 (1153)
+Region of the Americas (54): 24 293 310 (257 859) / 693 922 (3902)
+African Region (49): 1 439 214 (7419) / 32 391(159)
+Cases on an international conveyance (Diamond Princess): 741 (0) / 13 (0)
+
+Confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+Grand total: 57 274 018 (641 669) / 1 368 000 (11 752)
+
+--
+communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The number of countries and territories reporting confirmed cases of COVID-19 to WHO remains at 218 (Samoa has not been added as yet).
+
+Data by country, area, or territory for 21 Nov 2020 can be accessed at https://promedmail.org/wp-content/uploads/world-pdf/WHO%20daily%20tablesNov21_1606045488.pdf.
+
+- The Americas region reported 40.2% of daily case numbers and 33.2% of the daily deaths reported in the past 24 hours but maintained its position as the most severely affected region, having reported more than 24.2 million cases. The USA continues to dominate, followed by Brazil, Argentina, Colombia, Canada, Mexico, and Peru. Other countries reporting more than 1000 cases include Chile, Costa Rica and Panama. And countries/territories reporting more than 500 cases but fewer than 1000 in the past 24 hours include Ecuador, Paraguay, Guatemala, Puerto Rico, and the Dominican Republic.
+
+- The European region reported 43.1% of daily case numbers and 49.2% of the daily deaths reported in the past 24 hours, and total cumulative cases reported exceed 16.6 million. Countries not reporting cases today (21 Nov 2020) include Israel and Kazakhstan, among others. Countries reporting more than 10 000 cases in the past 24 hours include Italy, Russia, Poland, Germany, UK, France, and Ukraine. There are 20 additional countries reporting more than 1000 cases in the past 24 hours.
+
+- The Eastern Mediterranean region reported 5.7% of daily case numbers and 9.8% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 3.76 million cases. Iran is dominant, with continuing record-breaking highs, followed by Jordan, Morocco, Pakistan, Iraq, Lebanon, Palestinian Authority, and the UAE. Libya reported more than 500 cases but fewer than 1000, while Oman, and Somalia have not reported any cases in the past 24 hours.
+
+- The African region reported 1.2% of daily case numbers and 1.3% of the deaths reported in the past 24 hours and has reported more than 1.43 million cases. South Africa maintains its dominance, followed by Kenya, Algeria, Ethiopia, Cameroon, Botswana, Uganda, Angola, Ghana, Nigeria, and Mali.
+
+- The Western Pacific region reported 0.88% of daily case numbers and 0.46% of the deaths reported in the past 24 hours, having reported a cumulative total of 0.82 million cases. Japan is dominant, followed by Philippines, Malaysia, South Korea, Northern Mariana Islands, Guam, Mongolia, and China.
+
+- The South East Asia region reported 8.9% of the daily newly reported cases and 5.9% of reported deaths in the past 24 hours, having reported a cumulative total of more than 10.3 million cases. As previously, India remains dominant, followed by Indonesia, Bangladesh, Nepal, Myanmar, Sri Lanka, and the Maldives.
+
+Impression: Basically unchanged on the regional levels with the continued dominance of Europe and the Americas region representing over 80% of both newly confirmed cases and newly reported deaths in the past 24 hours. At the country level, the Philippines has been overtaken by Japan as the dominant country in the Western Pacific region; Italy maintains dominance in the European region, although France has the highest cumulative case count. The USA maintains its position as the country reporting the most cases on a daily basis.
+
+On the Overview tab at the WHO source URL, the epidemic curve of confirmed COVID-19 cases by WHO region, 30 Dec 2019 through 21 Nov 2020, is an excellent visual representation of the pandemic. - Mod.UBA]
+
+******
+[4] Global update: Worldometer accessed 21 Nov 2020 21:57 EST (GMT-5)
+Date: Sat 21 Nov 2020
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at https://promedmail.org/wp-content/uploads/world-pdf/NOV21DATASET_1606045706.pdf.
+
+A 7-day series of cumulative data reported by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/NOV21WORLD7_1606045902.pdf. - Mod.UBA]
+
+Total number of reported deaths: 1 386 334
+Total number of worldwide cases: 58 488 517
+Number of newly confirmed cases in the past 24 hours: 586 028
+
+--
+communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[In the past 24 hours, the USA (172 839), India (45 295), Italy (34 767), and Brazil (32 622) have reported the highest numbers of cases. A global total of 8795 deaths were reported in the past 24 hours (21-22 Nov 2020).
+
+Countries reporting more than 10 000 newly confirmed cases in the past 24 hours (11 countries) include the USA, India, Italy, Brazil, Russia (24 822), Poland (23 602), UK (19 875), France (17 881), Germany (16 612), Spain (0), Ukraine (14 580), and Iran (12 931). A total of 60 countries reported more than 1000 cases in the past 24 hours; 31 of the 60 countries reporting more than 1000 newly confirmed cases are from the European region, 10 are from the Americas region, 10 are from the Eastern Mediterranean region, 5 are from the South East Asia region, 2 are from the Western Pacific region, and 2 are from the African region.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, case counts have increased by 4.9%, while daily reported deaths have increased by 10.3%.
+
+Impression: The global daily reported cases continue to increase with almost 600 000 newly confirmed infections in the past 24 hours. Countries in the European and the Americas regions are still showing the largest increases in daily new case counts, followed by the Eastern Mediterranean and the South East Asia regions. The USA continues to show uncontrolled transmission. - Mod.UBA]
+See Also
+COVID-19 update (499): obesity, remdesivir, Eastern Mediterranean, WHO, global 20201121.7960723
+COVID-19 update (498): Denmark, animal, mink, zoonotic 20201120.7959431
+COVID-19 update (497): baricitinib, viral load dynamics, Samoa, WHO, global 20201120.7958200
+COVID-19 update (496): NPI, vaccine, antigen test, WHO, global 20201119.7956001
+COVID-19 update (495): animal, cat, transmission model 20201119.7954363
+COVID-19 update (494): forged results, eradication, immunity, WHO, global 20201118.7951890
+COVID-19 update (493): vaccine efficacy, CoV-OC43, WHO, global 20201117.7948812
+COVID-19 update (492): nosocomial transmission, HCW infections, WHO, global 20201116.7946129
+COVID-19 update (491): super spread, immunization, mutations, WHO, global 20201115.7944801
+COVID-19 update (490): animal, Greece (EM) mink, 1st report, OIE, assessment 20201115.7944705
+COVID-19 update (480): animal, USA (WI) mink 20201108.7923387
+COVID-19 update (470): USA contact tracing, sewage, WHO, global 20201104.7915703
+COVID-19 update (460): variant 20A.EU1, Thailand, Sri Lanka, Yemen WHO, global 20201030.7902223
+COVID-19 update (450): animal, cattle, research, experimental infection 20201022.7883213
+COVID-19 update (440): children, RNA vaccines, WHO, global 20201015.7863738
+COVID-19 update (430): animal, USA (UT) mink 20201009.7847704
+COVID-19 update (420): ECMO, USA serosurvey, WHO, global 20200930.7824510
+COVID-19 update (410): ACE inhibitors and ARBs, WHO COVAX plan, WHO, global 20200922.7801717
+COVID-19 update (400): lockdowns, influenza co-infections WHO, global 20200914.7776512
+COVID-19 update (350): USA (TX) animal, cat 20200808.7658191
+COVID-19 update (300): Korea antibodies, China asymptomatic index case, WHO 20200703.7536146
+COVID-19 update (250): selected countries 20200610.7448037
+COVID-19 update (200): global, Yemen, WHO 20200522.7364937
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+Undiagnosed pediatric inflammatory syndrome (05): Europe, USA, COVID-19 assoc 20200518.7340554
+Undiagnosed pediatric inflammatory syndrome (04): USA, UK, PMIS, fatal 20200509.7315405
+Undiagnosed pediatric inflammatory syndrome (03): USA, Europe, COVID-19 susp, RFI 20200505.7299876
+COVID-19 update (150): global, USA state prisons, WHO 20200502.7290671
+COVID-19 update (100): China, S. Korea & high local transmission countries 20200413.7217806
+COVID-19 update (50): China (Hong Kong) animal dog, 2nd case PCR positive, OIE 20200323.7129951
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (41): China, global, clinical pics, asymptomatic trans., WHO 20200210.6976117
+Novel coronavirus (40): animal reservoir, pangolin poss intermediate host, RFI 20200210.6972104
+Novel coronavirus (30): updates, China, Viet Nam, research 20200202.6945658
+Novel coronavirus (20): China, wildlife trade ban 20200127.6922060
+Novel coronavirus (10): China (HU, GD, BJ) 20200119.6898567
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia: China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia: China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+---
+Undiagnosed pneumonia: China (HU): RFI 20191230.6864153
+and other items in the archives
+.................................................sb/uba/msp/sh
+</body>

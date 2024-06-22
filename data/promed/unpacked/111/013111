@@ -1,0 +1,389 @@
+<header id=013111>
+Published Date: 2020-05-25 09:56:45 EDT
+Subject: PRO/AH/EDR> COVID-19 update (208): research, immunity, vaccine, diagnostics, drugs
+Archive Number: 20200525.7373806
+</header>
+<body id=013111>
+COVID-19-UPDATE (208): RESEARCH, IMMUNITY, VACCINE, DIAGNOSTICS, DRUGS
+**********************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] COVID-19 and postinfection immunity
+[2] UK (London): COVID-19 screening of healthcare workers
+[3] Assessment of deaths from COVID-19 and seasonal influenza
+[4] Safety, tolerability, and immunogenicity of a recombinant adenovirus type-5 vectored COVID-19 vaccine
+[5] China: COVID-19 vaccine candidate
+[6] Point-of-care testing for COVID-19 using SHERLOCK diagnostics
+[7] Clinical performance of SARS-CoV-2 molecular testing
+[8] Lopinavir-ritonavir trial in adults hospitalized with severe COVID-19
+[9] Quantifying SARS-CoV-2 transmission suggests epidemic control with digital contact tracing
+[10] Interleukin-1 blockade with high-dose anakinra in patients with COVID-19: retrospective cohort study
+
+******
+[1] COVID-19 and postinfection immunity
+Date: Mon 11 May 2020
+Source: JAMA [abridged, edited]
+https://jamanetwork.com/journals/jama/fullarticle/2766097
+
+
+ref: Kirkcaldy RD, King BA, Brooks JT. COVID-19 and postinfection immunity: limited evidence, many remaining questions [published online ahead of print]. JAMA. 2020; doi:10.1001/jama.2020.7869
+--------------------------------------------------------------------------------
+In the absence of effective treatment or biomedical prevention, efforts to control the coronavirus disease 2019 (COVID-19) pandemic have relied on nonpharmaceutical interventions such as personal preventive actions (such as handwashing, face covers), environmental cleaning, physical distancing, stay-at-home orders, school and venue closures, and workplace restrictions adopted at the national, state, and local levels. In addition to these public health interventions, development of herd immunity could also provide a defense against COVID-19. However, whether immunity occurs among individuals after they have recovered from COVID-19 is uncertain. Many human infections with other viral pathogens, such as influenza virus, do not produce a durable immune response.
+
+Understanding whether and how recovery from COVID-19 confers immunity to, or decreased severity of, reinfection is needed to inform current efforts to safely scale back population-based interventions, such as physical distancing. Understanding potential postinfection immunity also has important implications for epidemiologic assessments (such as population susceptibility, transmission modeling), serologic therapies (such as convalescent plasma), and vaccines. In this Viewpoint, we describe what is currently known about the immune response to COVID-19, highlight key gaps in knowledge, and identify opportunities for future research.
+
+COVID-19 is caused by infection with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). Following infection, detectable IgM and IgG antibodies develop within days to weeks of symptom onset in most infected individuals. Why some patients seem not to develop a humoral immune response, as reflected by detectable antibodies, is uncertain. Adding to this uncertainty is the unclear relationship between antibody response and clinical improvement. The findings from a small study of 9 patients with COVID-19 found that greater clinical severity produced higher antibody titers. However, antibody detection and higher titers have not always been found to correlate with clinical improvement in COVID-19. Moreover, mild COVID-19 symptoms can resolve prior to seroconversion (as reflected by detectable IgM and IgG), although detectable IgM and IgG antibodies have preceded declines in SARS-CoV-2 viral loads.
+
+What appears more certain is that viral burden typically peaks early in illness, and then declines as antibodies develop and antibody titers rise over the subsequent 2 to 3 weeks. Success in culturing virus from nasopharyngeal specimens declines quickly during the 1st week of mild illness, but the absolute duration that a patient might shed infectious virus is unknown. Persistent detection of viral RNA many days to weeks after recovery from COVID-19 at concentrations near the detection limit of available assays likely does not represent a meaningful clinical or public health risk, especially in the absence of symptoms; however, definitive evidence does not yet exist.
+
+The durability of neutralizing antibodies (NAbs, primarily IgG) against SARS-CoV-2 has yet to be defined; persistence up to 40 days from symptom onset has been described. Duration of antibody responses against other human coronaviruses may be relevant in this context. For example, following infection with SARS-CoV-1 (the virus that caused SARS), concentrations of IgG remained high for approximately 4 to 5 months before subsequently declining slowly during the next 2 to 3 years. Similarly, NAbs following infection with MERS-CoV (the virus that caused Middle East respiratory syndrome) have persisted up to 34 months in recovered patients.
+
+Detection of IgG and NAbs is not synonymous with durable immunity. With regard to COVID-19, a small, nonpeer-reviewed, preprint report provides the only data thus far on possible postinfection immunity in primates. In this study, 4 rhesus macaques were infected with SARS-CoV-2, and following recovery did not become reinfected when rechallenged with the same virus 28 days after the 1st inoculation. Whether persons can be reinfected with SARS-CoV-1 and MERS-CoV is unknown; SARS has not reemerged since 2004 and MERS cases remain sporadic. Reinfections can occur with at least 3 of the other 4 common human coronaviruses -- specifically, 229E, NL63, and OC43 -- all of which generally cause milder respiratory illnesses. The reasons for this reinfection are not fully known, but evidence suggests that possibilities include both short-lived protective immunity and reexposure to genetically distinct forms of the same viral strain.
+
+To date, no human reinfections with SARS-CoV-2 have been confirmed. Evidence of reinfection typically requires culture-based documentation of a new infection following clearance of the preceding infection or evidence of reinfection with a molecularly distinct form of the same virus.
+
+It is also possible these cases represent persistent or recrudescent COVID-19 illness or even true reinfection. On the other hand, these cases may also represent prolonged sporadic viral RNA shedding at or near the limit of assay detection or variation in collection technique, specimen handling, or storage conditions affecting test performance. Data to effectively differentiate these possibilities are lacking, highlighting an area of substantial uncertainty. Routine collection of such data, specifically viral burden (as measured by PCR assay cycle threshold) and viral culture, and from a larger sample of patients under standard protocols, is needed.
+
+Serological assays to detect SARS-CoV-2 antibodies are rapidly becoming available and will be critical to estimate the prevalence of infections, including those that are asymptomatic. However, it is presently premature to use such assays to determine whether individuals are immune to reinfection. Performance standards, including sensitivity and specificity, for the burgeoning number of serologic assays and the potential for cross-reactivity with other coronaviruses (yielding false-positives) have yet to be determined. Widespread testing of persons who have not had COVID-19, a population with low SARS-CoV-2 prevalence, can generate more false-positives than true-positives. This phenomenon may complicate clinical and epidemiologic interpretation of results, especially if the serologic tests do not have high specificity or some form of confirmatory testing is not used. More fundamentally, it remains to be determined whether a robust IgG response corresponds with immunity. Well-designed longitudinal cohort studies of persons who recovered from COVID-19 are needed to monitor for signs and symptoms of recurrent illness. Such longitudinal studies could also document possible re-exposure events, all linked with clinical and laboratory investigations of other alternate etiologies, serologic testing, attempts to isolate virus by culture, and viral genomic comparisons of isolated viral specimens. However, in the short-term, possible recurrences of infection can be identified by monitoring surveillance data and by requesting clinicians and public health authorities to report and investigate cases of possible recurrence to determine whether recurrence can be confirmed.
+
+In summary, existing limited data on antibody responses to SARS-CoV-2 and related coronaviruses, as well as one small animal model study, suggest that recovery from COVID-19 might confer immunity against reinfection, at least temporarily. However, the immune response to COVID-19 is not yet fully understood and definitive data on postinfection immunity are lacking. Amidst the uncertainty of this public health crisis, thoughtful and rigorous science will be essential to inform public health policy, planning, and practice.
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[Full article and references available at the source URL above]
+
+******
+[2] UK (London): COVID-19 screening of healthcare workers
+Date: Mon 18 May 2020
+Source: Lancet [edited]
+https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30403-5/fulltext
+
+
+ref: Khalil A, Hill R, Ladhani S, et al. COVID-19 screening of health-care workers in a London maternity hospital [published online ahead of print]. Lancet Infect Dis. 2020; S1473-3099(20)30403-5
+--------------------------------------------------------------------------------
+There have been increasing calls for universal screening of health-care workers for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). We have been screening health-care workers at The Portland Hospital for Women and Children (London, UK) since [17 Mar 2020]. By [16 Apr 2020], we had tested nasopharyngeal swabs taken from 266 staff members (more than 50% of the workforce) using SARS-CoV-2 RT-PCR, and 47 (18%) were found to be positive. Of these positive cases, 31 (66%) were symptomatic and 16 (34%) were asymptomatic (figure). Overall, 28 (48%) staff members remained positive at 7 days after the initial test was taken, 16 (34%) at 10 days, and 4 (9%) at 14 days, with one health-care worker remaining positive until 26 days. Of 25 symptomatic staff members who initially tested negative and were retested, only one (4%) became positive after 7 days. Potential factors associated with SARS-CoV-2 positivity are summarised in the figure.
+
+There are several potential benefits of universal staff testing. Importantly, it would ameliorate current workforce depletion due to symptomatic staff self-isolating, because a substantial proportion do not have COVID-19. For example, of 76 symptomatic health-care workers in our analysis, 45 (59%) tested negative for SARS-CoV-2. These health-care workers could, therefore, have returned to work (assuming they were not unwell) as soon as they received their result. Had these health-care workers not been tested, they would have been obliged to self-isolate for 7 days or more, and their household members for 14 days.
+
+Regular testing also allows asymptomatic SARS-CoV-2-positive health-care workers to be identified and isolated early, thus reducing nosocomial transmission to potentially susceptible patients and other staff, and from the hospital to the community. Reducing transmission is particularly relevant when personal protective equipment might be scarce. Health-care workers at our hospital are regularly reminded to self-isolate when symptomatic, and their body temperature is checked daily and they are assessed with structured questionnaires when swabbed. Our finding, however, that 16 (34%) of 47 health-care workers who tested positive for SARS-CoV-2 were asymptomatic, and that 45 (59%) of 76 symptomatic health-care workers tested negative for SARS-CoV-2, highlights a crucial need for the routine testing of all health-care workers, including those who do not have direct contact with patients.
+
+During this pandemic, shortages of health-care staff have been a major challenge. Redeployment of health-care workers has depleted some specialties and has led to staff working in unfamiliar environments. Training and research have been suspended, and annual leave has been postponed. The UK Health Secretary's promise to reach a target of 100 000 tests per day by the end of April 2020, was achieved. Therefore, universal testing of health-care workers is feasible, potentially ameliorating the current workforce depletion and reducing the risk of asymptomatic spread of SARS-CoV-2.
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[Full article, figure, and references available at the source URL above]
+
+******
+[3] Assessment of deaths from COVID-19 and seasonal influenza
+retrospective cohort study
+Date: Thu 14 May 2020
+Source: JAMA [abridged, edited]
+https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2766121
+
+
+ref: Faust JS, Del Rio C. Assessment of deaths from COVID-19 and from seasonal influenza [published online ahead of print]. JAMA Intern Med. 2020; doi:10.1001/jamainternmed.2020.2306
+--------------------------------------------------------------------------------
+As of early May 2020, approximately 65 000 people in the US had died of coronavirus disease 2019 (COVID-19), the disease caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). This number appears to be similar to the estimated number of seasonal influenza deaths reported annually by the Centers for Disease Control and Prevention (CDC) (https://www.cdc.gov/flu/about/burden/preliminary-in-season-estimates.htm).
+
+This apparent equivalence of deaths from COVID-19 and seasonal influenza does not match frontline clinical conditions, especially in some hot zones of the pandemic where ventilators have been in short supply and many hospitals have been stretched beyond their limits. The demand on hospital resources during the COVID-19 crisis has not occurred before in the US, even during the worst of influenza seasons. Yet public officials continue to draw comparisons between seasonal influenza and SARS-CoV-2 mortality, often in an attempt to minimize the effects of the unfolding pandemic.
+
+The root of such incorrect comparisons may be a knowledge gap regarding how seasonal influenza and COVID-19 data are publicly reported. The CDC, like many similar disease control agencies around the world, presents seasonal influenza morbidity and mortality not as raw counts but as calculated estimates based on submitted International Classification of Diseases codes. Between 2013-2014 and 2018-2019, the reported yearly estimated influenza deaths ranged from 23 000 to 61 000. Over that same time period, however, the number of counted influenza deaths was between 3448 and 15 620 yearly. On average, the CDC estimates of deaths attributed to influenza were nearly 6 times greater than its reported counted numbers. Conversely, COVID-19 fatalities are at present being counted and reported directly, not estimated. As a result, the more valid comparison would be to compare weekly counts of COVID-19 deaths to weekly counts of seasonal influenza deaths.
+
+During the week ending 21 Apr 2020, 15 455 COVID-19 counted deaths were reported in the US. The reported number of counted deaths from the previous week, ending [14 Apr 2020], was 14 478. By contrast, according to the CDC, counted deaths during the peak week of the influenza seasons from 2013-2014 to 2019-2020 ranged from 351 (2015-2016, week 11 of 2016) to 1626 (2017-2018, week 3 of 2018). The mean number of counted deaths during the peak week of influenza seasons from 2013-2020 was 752.4 (95% CI, 558.8-946.1). These statistics on counted deaths suggest that the number of COVID-19 deaths for the week ending [21 Apr 2020] was 9.5-fold to 44.1-fold greater than the peak week of counted influenza deaths during the past 7 influenza seasons in the US, with a 20.5-fold mean increase (95% CI, 16.3-27.7).
+
+The CDC also publishes provisional counts of COVID-19 deaths but acknowledges that its reporting lags behind other public data sources. For the week ending [11 Apr 2020], data indicate that the number of provisionally reported COVID-19 deaths was 14.4-fold greater than influenza deaths during the apparent peak week of the current season (week ending [29 Feb 2020]), consistent with the ranges based on CDC statistics. As the CDC continues to revise its COVID-19 counts to account for delays in reporting, the ratio of counted COVID-19 deaths to influenza deaths is likely to increase.
+
+The ratios we present are more clinically consistent with frontline conditions than ratios that compare COVID-19 fatality counts and estimated seasonal influenza deaths. Based on the figure of approximately 60 000 COVID-19 deaths in the US as of the end of April 2020, this ratio suggests only a 1.0-fold to 2.6-fold change from the CDC-estimated seasonal influenza deaths calculated during the previous 7 full seasons. From our analysis, we infer that either the CDC's annual estimates substantially overstate the actual number of deaths caused by influenza or that the current number of COVID-19 counted deaths substantially understates the actual number of deaths caused by SARS-CoV-2, or both.
+
+There are a number of considerations. Deaths from COVID-19 may be undercounted owing to ongoing limitations of test capacity or false-negative test results. When patients present late in the course of illness, upper respiratory tract samples are less likely to yield positive test results. Conversely, influenza counts may be less reliable because adult influenza deaths are not reportable to public health authorities, as is the case for COVID-19 deaths. Moreover, because adult influenza deaths are not reportable, epidemiologists must rely on surveillance mechanisms that attempt to account for potential underreporting. Similarly, some cities, such as New York City, are beginning to report cases of both probable and confirmed COVID-19 deaths. The inclusion of both probable and confirmed deaths has led to revised mortality figures that, in effect, straddle the line between counting and estimating the number of COVID-19 deaths. It is also possible that some deaths that have been labeled as having been caused by COVID-19 are not due to COVID-19. For example, in areas where there is high-level community spread, such as New York City, if a patient is brought to an emergency department in cardiac arrest and has a known positive real-time reverse transcriptase polymerase chain reaction test result for SARS-CoV-2, and dies, that would be considered a COVID-19 death in local death counts. Whether that death may have occurred anyway is impossible to say. Eventually, a fuller reckoning of the burden of disease that focuses on excess mortality, including both direct and indirect COVID-19-related deaths, will be helpful. That analysis will be most complete if it also considers the possibility of excess deaths owing to deferred care during the peak of the epidemic and the lack of capacity for care of patients without COVID-19 at overwhelmed hospitals.
+
+Case fatality rates are another topic of confusion. Comparisons of the case fatality rates of SARS-CoV-2 and influenza are premature. Estimates of case fatality rates for COVID-19 range from less than 1% in some nations to approximately 15% in others. This wide range reflects limitations in calculating case fatality rates. These include failure to account for scarcity in testing (thereby falsely decreasing the denominator) and incomplete follow-up information for people who were critically ill but still alive when last assessed (thereby decreasing the numerator). Eventually, results from serologic studies will help to determine a more accurate denominator for the case fatality rate of SARS-CoV-2.
+
+At present, the Diamond Princess cruise ship outbreak is one of the few situations for which complete data are available. For this outbreak, the case fatality rate as of late April 2020 was 1.8% (13 deaths out of 712 cases); age adjusted to reflect the general population, the figure would have been closer to 0.5%. A case fatality rate of 0.5% would still be 5 times the commonly cited case fatality rate of adult seasonal influenza.
+
+In summary, our analysis suggests that comparisons between SARS-CoV-2 mortality and seasonal influenza mortality must be made using an apples-to-apples comparison, not an apples-to-oranges comparison. Doing so better demonstrates the true threat to public health from COVID-19.
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[Full article and references available at the source URL above]
+
+******
+[4] Safety, tolerability, and immunogenicity of a recombinant adenovirus type-5 vectored COVID-19 vaccine
+Date: Sat 2 May 2020
+Source: Lancet [edited]
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31208-3/fulltext
+
+
+ref: Zhu FC, Li YH, Guan XH, et al. Safety, tolerability, and immunogenicity of a recombinant adenovirus type-5 vectored COVID-19 vaccine: a dose-escalation, open-label, non-randomised, first-in-human trial. Lancet 2020 [published online]; doi: 10.1016/S0140-6736(20)31208-3
+--------------------------------------------------------------------------------
+Summary
+-------
+Background
+A vaccine to protect against COVID-19 is urgently needed. We aimed to assess the safety, tolerability, and immunogenicity of a recombinant adenovirus type-5 (Ad5) vectored COVID-19 vaccine expressing the spike glycoprotein of a severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) strain.
+
+Methods
+We did a dose-escalation, single-centre, open-label, non-randomised, phase 1 trial of an Ad5 vectored COVID-19 vaccine in Wuhan, China. Healthy adults aged between 18 and 60 years were sequentially enrolled and allocated to one of 3 dose groups (5 x 1010, 1 x 1011, and 1.5 x 1011 viral particles) to receive an intramuscular injection of vaccine. The primary outcome was adverse events in the 7 days post-vaccination. Safety was assessed over 28 days post-vaccination. Specific antibodies were measured with ELISA, and the neutralising antibody responses induced by vaccination were detected with SARS-CoV-2 virus neutralisation and pseudovirus neutralisation tests. T-cell responses were assessed by enzyme-linked immunospot and flow-cytometry assays. This study is registered with ClinicalTrials.gov, NCT04313127.
+
+Findings
+Between [16 and 27 Mar 2020], we screened 195 individuals for eligibility. Of them, 108 participants (51% male, 49% female; mean age 36.3 years) were recruited and received the low dose (n=36), middle dose (n=36), or high dose (n=36) of the vaccine. All enrolled participants were included in the analysis. At least one adverse reaction within the 1st 7 days after the vaccination was reported in 30 (83%) participants in the low dose group, 30 (83%) participants in the middle dose group, and 27 (75%) participants in the high dose group. The most common injection site adverse reaction was pain, which was reported in 58 (54%) vaccine recipients, and the most commonly reported systematic adverse reactions were fever (50 [46%]), fatigue (47 [44%]), headache (42 [39%]), and muscle pain (18 [17%]. Most adverse reactions that were reported in all dose groups were mild or moderate in severity. No serious adverse event was noted within 28 days post-vaccination. ELISA antibodies and neutralising antibodies increased significantly at day 14, and peaked 28 days post-vaccination. Specific T-cell response peaked at day 14 post-vaccination.
+
+Interpretation
+The Ad5 vectored COVID-19 vaccine is tolerable and immunogenic at 28 days post-vaccination. Humoral responses against SARS-CoV-2 peaked at day 28 post-vaccination in healthy adults, and rapid specific T-cell responses were noted from day 14 post-vaccination. Our findings suggest that the Ad5 vectored COVID-19 vaccine warrants further investigation.
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[Full article and references available at the source URL above]
+
+******
+[5] China: COVID-19 vaccine candidate
+Date: Fri 22 May 2020
+Source: Center for Infectious Disease Research and Policy (CIDRAP) [edited]
+https://www.cidrap.umn.edu/news-perspective/2020/05/chinas-covid-19-vaccine-shows-promise-groups-warn-about-childhood-vaccine
+
+
+In international COVID-19 developments, China today [22 May 2020] published promising findings for the 1st phase 1 trials results for a COVID-19 vaccine, and the World Health Organization (WHO) released guidance on implementing mass vaccination campaigns in COVID-19 settings.
+
+Chinese researchers today published the world's 1st phase 1 trial findings for a COVID-19 vaccine today [22 May 2020] in The Lancet. Made by CanSino Biologics, the adenovirus type-5 vectored vaccine was tested in 108 healthy adults ages 18 to 60 in Wuhan starting on [16 Mar 2020].
+
+The trial excluded people who had been exposed to SARS-CoV-2, the virus that causes COVID-19, and patients stayed in a hotel for 2 weeks after vaccination to avoid exposure to the virus. The participants, split into groups of 36, got one of 3 dosages intramuscularly and were monitored for 28 days for antibody and T-cell responses, as well as adverse reactions.
+
+The team found that the vaccine was tolerable and immunogenic 28 days after vaccination. Humoral response against SARS-CoV-2 peaked at 28 days, and T-cells were seen starting at 14 days. At least one adverse reaction was seen in the 1st 7 days for 83% of the low-dose group, 83% of the medium-dose group, and 75% of the high-dose group. Most were mild to moderate, such as injection-site pain, and no serious events were seen 28 days after vaccination.
+
+Though the high-dose vaccine was more immunogenic, participants who received it had more reactions, with severe fever, fatigue, dyspnea, muscle pain, and joint pain reported in some of them, which researchers said might be due to the Ad5 vector, a pattern they saw with an Ebola vaccine using the same vector. Researchers noted that preexisting Ad5 immunity could slow down the rapid immune response to SARS-CoV-2 and lower response peaks, especially for humoral immunity.
+
+They concluded that the vaccine warrants further study. A phase 2 study, with 508 enrolled, is already underway. Researchers said the phase 2 trial is enrolling people older than 60, given that the older age-group is a target for the vaccine.
+
+Meanwhile, childhood vaccines and the disruptions that the COVID-19 pandemic is having on immunization activities took center stage at today's WHO telebriefing, where it, UNICEF, and GAVI, the Vaccine Alliance, called for joint efforts to safely deliver routine immunizations and proceed with vaccination campaigns against sometimes-deadly preventable diseases.
+
+The COVID-19 pandemic has disrupted routine vaccine services in at least 68 countries and could affect about 80 million children under age 1, the groups warned.
+
+Tedros Adhanom Ghebreyesus, PhD, the WHO's director-general, said since the turn of the century, childhood mortality has been halved, mainly due to safe and effective vaccines. "However, we're here today to collectively reinforce the warning that COVID-19 threatens to undermine life-saving immunization services around the world," he said. "This risks putting tens of millions of children -- in rich and poor countries -- at risk of killer diseases like diphtheria, measles and pneumonia."
+
+He noted that part of the resolution passed at the World Health Assembly this week was to ensure that countries maintain essential health services. "When health systems are overwhelmed, deaths from outbreaks and from preventable and treatable conditions increase dramatically," he said, adding that Novo Nordisk has donated insulin and glucagon for people with diabetes in low- and middle-income countries, marking the first donation to the WHO of a medicine for a noncommunicable disease.
+
+Early on in the pandemic, the WHO recommended temporarily suspending mass vaccine campaigns, given the risk of virus transmission during the activities, to allow the WHO to find measures to minimize the COVID-19 risk. Today it published new guidance on implementing mass vaccine campaigns during the pandemic.
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+******
+[6] Point-of-care testing for COVID-19 using SHERLOCK diagnostics
+Date: Mon 4 May 2020
+Source: MedRxiv [edited]
+https://www.medrxiv.org/content/10.1101/2020.05.04.20091231v1
+
+
+ref: Joung J, Ladha A, Saito M, et al. Point-of-care testing for COVID-19 using SHERLOCK diagnostics. medRxiv 2020. doi: 05.04.20091231
+--------------------------------------------------------------------------------
+Abstract
+--------
+The recent outbreak of the novel coronavirus SARS-CoV-2, which causes COVID-19, can be diagnosed using RT-qPCR, but inadequate access to reagents and equipment has slowed disease detection and impeded efforts to mitigate viral spread. Alternative approaches based on combinations of isothermal amplification and CRISPR-mediated detection, such as the SHERLOCK (Specific High Sensitivity Enzymatic Reporter Unlocking) technique, offer reduced dependence on RT-qPCR equipment, but previously reported methods required multiple fluid handling steps, complicating their deployment outside clinical labs. Here we developed a simple test chemistry called STOP (SHERLOCK Testing in One Pot) for detecting SARS-CoV-2 in one hour that is suitable for point-of-care use. This simplified test, STOPCovid, provides sensitivity comparable to RT-qPCR-based SARS-CoV-2 tests and has a limit of detection of 100 copies of viral genome input in saliva or nasopharyngeal swabs per reaction. Using lateral flow readout, the test returns result in 70 minutes, and using fluorescence readout, the test returns result in 40 minutes. Moreover, we validated STOPCovid using nasopharyngeal swabs from COVID-19 patients and were able to correctly diagnose 12 positive and 5 negative patients out of 3 replicates. We envision that implementation of STOPCovid will significantly aid "test-trace-isolate" efforts, especially in low-resource settings, which will be critical for long-term public health safety and effective reopening of the society.
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[Full article and references available at the source URL above]
+
+******
+[7] Clinical performance of SARS-CoV-2 molecular testing
+Date: Wed 6 May 2020
+Source: MedRxiv [edited]
+https://www.medrxiv.org/content/10.1101/2020.05.06.20093575v1
+
+
+ref: Green DA, Zucker JE, Westblade LF, et al. Clinical performance of SARS-CoV-2 molecular testing. MedRxiv 2020. doi: 10.1101/2020.05.06.20093575
+--------------------------------------------------------------------------------
+Abstract
+--------
+Molecular testing for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is the gold standard for diagnosis of coronavirus disease 2019 (COVID-19), but the test clinical performance is poorly understood. From [10 Mar to 1 May 2020] New York-Presbyterian laboratories performed 27 377 SARS-CoV-2 molecular assays from 22 338 patients. Repeat testing was performed in 3,432 patients, of which 2,413 had negative and 1,019 had positive 1st day results. Repeat-tested patients were more likely to be older, male, African-American or Hispanic, and to have severe disease. Among the patients with initially negative results, 18.6% became positive upon repeat-testing. Only 58.1% of any-time positive patients had a result of "detected" on the 1st test. The clinical sensitivity of COVID-19 molecular assays is estimated between 66.2% and 95.6%, depending on the unknown number of false negative results in single-tested patients. Conversion to a negative result is unlikely to occur before 15 to 20 days after initial testing or 20-30 days after the onset of symptoms, with 50% conversion occurring at 28 days after initial testing. 49 initially-positive patients converted to negative and then back to positive in subsequent days. Conversion from 1st day negative to positive results increased linearly with each day of testing, reaching 25% probability in 20 days. In summary, our study provides estimates of the clinical performance of SARS-CoV-2 molecular assays and suggests time frames for appropriate repeat testing, namely 15 to 20 days after a positive test and the same or next 2 days after a negative test in a patient with high suspicion for COVID-19.
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[Full article and references available at the source URL above]
+
+******
+[8] Lopinavir-ritonavir trial in adults hospitalized with severe COVID-19
+Date: Thu 7 May 2020
+Source: New England Journal of Medicine (NEJM) [edited]
+https://www.nejm.org/doi/full/10.1056/NEJMoa2001282
+
+
+ref: Cao B, Wang Y, Wen D, et al. A trial of lopinavir-ritonavir in adults hospitalized with severe COVID-19. N Engl J Med. 2020; 382(19): 1787‐1799. doi:10.1056/NEJMoa2001282
+--------------------------------------------------------------------------------
+Abstract
+--------
+Background
+No therapeutics have yet been proven effective for the treatment of severe illness caused by SARS-CoV-2.
+
+Methods
+We conducted a randomized, controlled, open-label trial involving hospitalized adult patients with confirmed SARS-CoV-2 infection, which causes the respiratory illness COVID-19, and an oxygen saturation (Sao2) of 94% or less while they were breathing ambient air or a ratio of the partial pressure of oxygen (Pao2) to the fraction of inspired oxygen (Fio2) of less than 300 mm Hg. Patients were randomly assigned in a 1:1 ratio to receive either lopinavir-ritonavir (400 mg and 100 mg, respectively) twice a day for 14 days, in addition to standard care, or standard care alone. The primary end point was the time to clinical improvement, defined as the time from randomization to either an improvement of 2 points on a 7-category ordinal scale or discharge from the hospital, whichever came first.
+
+Results
+A total of 199 patients with laboratory-confirmed SARS-CoV-2 infection underwent randomization; 99 were assigned to the lopinavir-ritonavir group, and 100 to the standard-care group. Treatment with lopinavir-ritonavir was not associated with a difference from standard care in the time to clinical improvement (hazard ratio for clinical improvement, 1.31; 95% confidence interval [CI], 0.95 to 1.80). Mortality at 28 days was similar in the lopinavir-ritonavir group and the standard-care group (19.2% vs. 25.0%; difference, -5.8 percentage points; 95% CI, -17.3 to 5.7). The percentages of patients with detectable viral RNA at various time points were similar. In a modified intention-to-treat analysis, lopinavir-ritonavir led to a median time to clinical improvement that was shorter by 1 day than that observed with standard care (hazard ratio, 1.39; 95% CI, 1.00 to 1.91). Gastrointestinal adverse events were more common in the lopinavir-ritonavir group, but serious adverse events were more common in the standard-care group. Lopinavir-ritonavir treatment was stopped early in 13 patients (13.8%) because of adverse events.
+
+Conclusions
+In hospitalized adult patients with severe COVID-19, no benefit was observed with lopinavir-ritonavir treatment beyond standard care. Future trials in patients with severe illness may help to confirm or exclude the possibility of a treatment benefit. (Funded by Major Projects of National Science and Technology on New Drug Creation and Development and others; Chinese Clinical Trial Register number, ChiCTR2000029308. opens in new tab.)
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[Full article and references available at the source URL above]
+
+******
+[9] Quantifying SARS-CoV-2 transmission suggests epidemic control with digital contact tracing
+Date: Fri 8 May 2020
+Source: Science [edited]
+https://science.sciencemag.org/content/368/6491/eabb6936.full
+
+
+ref: Ferretti L, Wymant C, Kendall M, et al. Quantifying SARS-CoV-2 transmission suggests epidemic control with digital contact tracing. Science. 2020; 368(6491): eabb6936. doi:10.1126/science.abb6936
+--------------------------------------------------------------------------------
+Abstract
+--------
+The newly emergent human virus SARS-CoV-2 (severe acute respiratory syndrome-coronavirus 2) is resulting in high fatality rates and incapacitated health systems. Preventing further transmission is a priority. We analyzed key parameters of epidemic spread to estimate the contribution of different transmission routes and determine requirements for case isolation and contact tracing needed to stop the epidemic. Although SARS-CoV-2 is spreading too fast to be contained by manual contact tracing, it could be controlled if this process were faster, more efficient, and happened at scale. A contact-tracing app that builds a memory of proximity contacts and immediately notifies contacts of positive cases can achieve epidemic control if used by enough people. By targeting recommendations to only those at risk, epidemics could be contained without resorting to mass quarantines ("lockdowns") that are harmful to society. We discuss the ethical requirements for an intervention of this kind.
+
+Conclusion
+Given the infectiousness of SARS-CoV-2 and the high proportion of transmissions from presymptomatic individuals, controlling the epidemic by manual contact tracing is infeasible. The use of a contact-tracing app that builds a memory of proximity contacts and immediately notifies contacts of positive cases would be sufficient to stop the epidemic if used by enough people, in particular when combined with other measures such as physical distancing. An intervention of this kind raises ethical questions regarding access, transparency, the protection and use of personal data, and the sharing of knowledge with other countries. Careful oversight by an inclusive advisory body is required.
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[Full article and references available at the source URL above]
+
+******
+[10] Interleukin-1 blockade with high-dose anakinra in patients with COVID-19
+Date: Thu 7 May 2020
+Source: Lancet [edited]
+https://doi.org/10.1016/S2665-9913(20)30127-2
+
+
+ref: Cavalli G, De Luca G, Campochiaro C, et al. Interleukin-1 blockade with high-dose anakinra in patients with COVID-19, acute respiratory distress syndrome, and hyperinflammation: a retrospective cohort study. Lancet Rheumatol. 2020. doi.org/10.1016/S2665-9913(20)30127-2
+--------------------------------------------------------------------------------
+Summary
+-------
+Background
+Mortality of patients with coronavirus disease 2019 (COVID-19), acute respiratory distress syndrome (ARDS), and systemic inflammation is high. In areas of pandemic outbreak, the number of patients can exceed maximum capacity of intensive care units (ICUs), and, thus, these individuals often receive non-invasive ventilation outside of the ICU. Effective treatments for this population are needed urgently. Anakinra is a recombinant interleukin-1 receptor antagonist that might be beneficial in this patient population.
+
+Methods
+We conducted a retrospective cohort study at the San Raffaele Hospital in Milan, Italy. We included consecutive patients (aged 18 years or older) with COVID-19, moderate-to-severe ARDS, and hyperinflammation (defined as serum C-reactive protein 100 mg/L or higher, ferritin 900 ng/mL or higher, or both) who were managed with non-invasive ventilation outside of the ICU and who received standard treatment of 200 mg hydroxychloroquine twice a day orally and 400 mg lopinavir with 100 mg ritonavir twice a day orally. We compared survival, mechanical ventilation-free survival, changes in C-reactive protein, respiratory function, and clinical status in a cohort of patients who received additional treatment with anakinra (either 5 mg/kg twice a day intravenously [high dose] or 100 mg twice a day subcutaneously [low dose]) with a retrospective cohort of patients who did not receive anakinra (referred to as the standard treatment group). All outcomes were assessed at 21 days. This study is part of the COVID-19 Biobank study, which is registered with ClinicalTrials.gov, NCT04318366.
+
+Findings
+Between [17 and 27 Mar 2020], 29 patients received high-dose intravenous anakinra, non-invasive ventilation, and standard treatment. Between [10 and 17 Mar 2020], 16 patients received non-invasive ventilation and standard treatment only and comprised the comparison group for this study. A further 7 patients received low-dose subcutaneous anakinra in addition to non-invasive ventilation and standard treatment; however, anakinra treatment was interrupted after 7 days because of a paucity of effects on serum C-reactive protein and clinical status. At 21 days, treatment with high-dose anakinra was associated with reductions in serum C-reactive protein and progressive improvements in respiratory function in 21 (72%) of 29 patients; 5 (17%) patients were on mechanical ventilation and 3 (10%) died. In the standard treatment group, 8 (50%) of 16 patients showed respiratory improvement at 21 days; one (6%) patient was on mechanical ventilation and 7 (44%) died. At 21 days, survival was 90% in the high-dose anakinra group and 56% in the standard treatment group (p=0.009). Mechanical ventilation-free survival was 72% in the anakinra group versus 50% in the standard treatment group (p=0.15). Bacteraemia occurred in 4 (14%) of 29 patients receiving high-dose anakinra and 2 (13%) of 16 patients receiving standard treatment. Discontinuation of anakinra was not followed by inflammatory relapses.
+
+Interpretation
+In this retrospective cohort study of patients with COVID-19 and ARDS managed with non-invasive ventilation outside of the ICU, treatment with high-dose anakinra was safe and associated with clinical improvement in 72% of patients. Confirmation of efficacy will require controlled trials.
+
+Discussion
+Administration of high-dose intravenous anakinra dampened systemic inflammation and was associated with progressive improvement in respiratory function in patients with COVID-19, moderate-to-severe ARDS, and hyperinflammation, who were managed outside of the ICU in a setting overwhelmed by the COVID-19 pandemic and with a shortage of ICU resources. This effect allowed us to postpone or avoid intubation in most patients. Treatment was well tolerated, and discontinuation was not followed by relapses in systemic inflammation or respiratory dysfunction. High-dose intravenous anakinra showed incremental effects over subcutaneous administration on concentrations of C-reactive protein.
+
+A subgroup of patients with COVID-19 develops ARDS after a maladaptive, detrimental host inflammatory response to severe acute respiratory syndrome coronavirus 2, which is mirrored systemically by pronounced increases in serum C-reactive protein and ferritin.
+
+The network of mediators orchestrating inflammatory responses to tissue damage includes IL-1alpha and IL-1beta: specifically, IL-1alpha is released by dying epithelial and endothelial cells, whereas IL-1beta is produced by infiltrating monocytes, macrophages, and neutrophils.
+
+The main endogenous regulatory mechanism preventing excessive IL-1-mediated inflammation is the IL-1 receptor antagonist.
+
+Indeed, in a study of ARDS assessing serial bronchoalveolar lavage fluids for cytokine content, IL-1beta concentrations were shown to reach peak levels at the time of disease onset; however, a slower increase in IL-1 receptor antagonist eventually follows, which provides a physiological mechanism for dampening the excessive inflammatory response in the lung.
+
+Anakinra is a recombinant IL-1 receptor antagonist, used to treat autoinflammatory disorders. In adult patients, this drug is usually administered subcutaneously at a standard dose of 100 mg/day; however, high-dose intravenous anakinra is used off-label for the treatment of hyperinflammatory conditions, such as macrophage activation syndrome. In view of the short half-life of anakinra (3 h), intravenous drug is typically administered every 6 h. In this study, high-dose anakinra was administered at a dose of 5 mg/kg twice a day in slow intravenous infusions, a choice aimed at maximising use in a high-intensity situation.
+
+Targetable cytokines that play a part in the pathogenesis of lung inflammation in COVID-19 also include IL-6, tumour necrosis factor, and interferon gamma. Hence, different cytokine-blocking monoclonal antibodies, or inhibitors of the JAK-STAT signalling pathway (such as, baricitinib or ruxolitinib) also represent attractive therapeutic options. However, a remarkable safety profile makes anakinra especially suitable for use in critically ill patients. First, the short half-life of anakinra allows prompt discontinuation and clearance from the circulation. Moreover, opportunistic infections in patients treated with anakinra are rare, and it is routine practice when caring for children with autoinflammatory diseases to not discontinue anakinra during infections. We postulate that severe and difficult-to-treat infections will be a concern for patients with COVID-19 receiving other cytokine-blocking agents, such as anti-IL-6 monoclonal antibodies, which have a half-life of 2-3 weeks.
+
+In this study, comparable rates of bacteraemia and increases in liver enzymes were recorded in patients receiving anakinra or standard treatment only. In patients receiving anakinra, these side-effects occurred after protracted treatment and after improvements in clinical status. Since our study population was especially frail and had multiple risk factors (that is, prolonged hospitalisation with non-invasive ventilation and central intravenous catheters), we deemed it prudent to discontinue anakinra in patients with infection. Discontinuation of anakinra was not associated with relapses in inflammation or worsening of clinical status.
+
+In view of the urgent need for an effective treatment for COVID-19, patients worldwide have received several off-label or compassionate-use treatments, including remdesivir, immune-modulating compounds, and convalescent plasma, all in uncontrolled settings. Our study arose from a specific need: medical management of patients with COVID-19, hyperinflammation, and ARDS outside of the ICU, to prevent death or escalation of intensity of care. The severity of our patient population was indeed notable: besides substantial increases in serum concentrations of C-reactive protein and ferritin (eligibility criteria for this study), poor prognostic factors included raised serum concentrations of lactate dehydrogenase, respiratory failure, older age, and comorbid conditions. Anakinra is already approved by the US Food and Drug Administration and the European Medicines Agency, is accessible and available, and could represent a safe and controllable off-label treatment to dampen detrimental inflammation in patients with COVID-19. Of note, previous studies indicated that IL-1 inhibition might also limit endothelial dysfunction, which has a role in the development of coagulopathy in COVID-19.
+
+Our study has clear limitations. The retrospective nature and the relatively small size of the cohorts (particularly the historical comparator group) limit interpretation of results and preclude definitive conclusions. A more extended follow-up is also needed to assess long-term outcomes of treated patients. Nevertheless, a sound rationale for use, objective improvements in respiratory and inflammatory variables, and comparisons with published studies assessing different treatments suggest that high-dose intravenous anakinra could have clinical benefit in COVID-19.
+
+The uncontrolled nature of our study mandates caution in interpretation of findings, and validation is absolutely required in a controlled setting. A randomised phase 2 clinical trial of intravenous anakinra in COVID-19 is ongoing (NCT04324021). Compared with our study, that trial is assessing lower doses (400 mg/day, approximately half the dose of 10 mg/kg per day in our study) and is not enrolling patients with ARDS. Controlled evidence is awaited, as IL-1 blockade with high-dose intravenous anakinra deserves consideration among anti-inflammatory treatments for COVID-19.
+
+--
+Communicated by:
+ProMED-mail Rapporteur Kunihiko Iizuka
+
+[Full article and references available at the source URL above]
+See Also
+COVID-19 update (207): China, S. Korea, countries w/ high local transmission 20200525.7373478
+COVID-19 update (206): global, Singapore, China coinfect influenza, WHO 20200525.7373472
+COVID-19 update (205): China, S. Korea, countries with high local transmission 20200524.7371825
+COVID-19 update (204): global, meat plant outbreaks, WHO 20200523.7370321
+COVID-19 update (203): China, S Korea, countries w/ high local transmission 20200523.7368791
+COVID-19 update (202): global, Europe nursing home deaths, WHO 20200523.7368784
+COVID-19 update (201): China, S Korea, countries w/ high local transmission 20200522.7364938
+COVID-19 update (200): global, Yemen, WHO 20200522.7364937
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+COVID-19 update (199): China, South Korea, countries w/ high local transmission 20200521.7363098
+COVID-19 update (198): Netherlands (NB) farmed mink, animal-to-human infect susp 20200520.7359976
+COVID-19 update (197): global, food plant outbreak, WHO 20200520.7359641
+COVID-19 update (196): China, S Korea, countries w/ high local transmission 20200520.7357017
+COVID-19 update (195): global, Iran GI pres, USA(CA) nursing home, Venezuela, WHO 20200520.7356886
+COVID-19 update (194): China, S Korea, countries w/ high local trans, Italy phase 2 20200519.7352327
+COVID-19 update (193): global, China, CFRs, Amazon Indigenous pop, WHO 20200519.7352326
+COVID-19 update (192): China, S. Korea, countries w/ high local transmission 20200518.7348339
+COVID-19 update (191): global, China, USA (TX), Germany, WHO 20200518.7348338
+Undiagnosed pediatric inflammatory syndrome (05): Europe, USA, COVID-19 assoc 20200518.7340554
+COVID-19 update (190): China, S. Korea, countries w/ high local transmission 20200517.7345881
+COVID-19 update (180): global, prison, WHO 20200513.7332532
+COVID-19 update (170): global, Russia, WHO 20200510.7317853
+Undiagnosed pediatric inflammatory syndrome (04): USA, UK, PMIS, fatal 20200509.7315405
+COVID-19 update (160): global, France Dec 2019 case, tocilizumab, WHO, RFI 20200506.7304287
+Undiagnosed pediatric inflammatory syndrome (03): USA, Europe, COVID-19 susp, RFI 20200505.7299876
+COVID-19 update (150): global, USA state prisons, WHO 20200502.7290671
+Undiagnosed pediatric inflammatory syndrome (02): France, UK, COVID-19 susp, RFI 20200430.7286479
+Undiagnosed pediatric inflammatory syndrome: UK, COVID-19 suspected, alert, RFI 20200427.7273105
+COVID-19 update (140): China, South Korea, countries w/ high local transmission 20200429.7278751
+COVID-19 update (130): USA (NY) animal, zoo, tiger, lion, new cases 20200425.7266556
+COVID-19 update (120): China, S. Korea & high local transmission countries 20200422.7253115
+COVID-19 update (110): global, asymptomatic infections ship and shelter, WHO 20200418.7238904
+COVID-19 update (100): China, S. Korea & high local transmission countries 20200413.7217806
+COVID-19 update (90): countries with high local transmission 20200408.7198238
+COVID-19 update (80): global, countries with high transmission, vaccine 20200405.7184331
+COVID-19 update (70): China (Hong Kong) animal, cat, pets & stock 20200402.7173286
+COVID-19 update (60): global, cruise ships, lessons learned, WHO 20200329.7156949
+COVID-19 update (50): China (Hong Kong) animal dog, 2nd case PCR positive, OIE 20200323.7129951
+COVID-19 update (40): global, Europe epicenter, lockdown, phone tracking, WHO 20200315.7092618
+COVID-19 update (30): China (Hong Kong) animal, dog, susp, serology pending 20200306.7057595
+COVID-19 update (20): China, global, Italy, Iran, Nigeria, imported cases, WHO 20200228.7032761
+COVID-19 update (10): China, global, Iran, WHO 20200219.7005749
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (41): China, global, clinical pics, asymptomatic trans., WHO 20200210.6976117
+Novel coronavirus (40): animal reservoir, pangolin poss intermediate host, RFI 20200210.6972104
+Novel coronavirus (30): updates, China, Viet Nam, research 20200202.6945658
+Novel coronavirus (20): China, wildlife trade ban 20200127.6922060
+Novel coronavirus (10): China (HU, GD, BJ) 20200119.6898567
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia - China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia - China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+----
+Undiagnosed pneumonia - China (HU): RFI 20191230.6864153
+.................................................sb/uba/mj/ml
+</body>

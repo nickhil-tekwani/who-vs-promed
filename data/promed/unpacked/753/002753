@@ -1,0 +1,445 @@
+<header id=002753>
+Published Date: 2020-07-03 11:07:27 EDT
+Subject: PRO/AH/EDR> COVID-19 Update (300): Korea antibodies, China asymptomatic index case, WHO
+Archive Number: 20200703.7536146
+</header>
+<body id=002753>
+CORONAVIRUS DISEASE 2019 UPDATE (300): SOUTH KOREA ANTIBODIES BY CLINICAL EXPRESSION, CHINA (HEILONGJIANG) ASYMPTOMATIC INDEX CASE, SELECTED COUNTRIES, WHO, GLOBAL
+*******************************************************************************************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] South Korea: SARS-CoV-2 antibodies at 8 weeks postinfection in asymptomatic patients - EID
+[2] China: outbreak initiated by asymptomatic imported case - EID
+[3] Selected countries
+[4] WHO situation report 164 (as of 2 Jul 2020)
+[5] Global update: Worldometer accessed 2 Jul 2020 22:22 EDT (GMT-4)
+
+******
+[1] South Korea: SARS-CoV-2 antibodies at 8 weeks postinfection in asymptomatic patients - EID
+Date: Tue 24 Jun 2020 [publication date]
+Source: Emerging Infectious Diseases [abridged, edited]
+https://wwwnc.cdc.gov/eid/article/26/10/20-2211_article
+
+
+ref: Choe PG, Kang CK, Suh HJ, et al. Antibody responses to SARS-CoV-2 at 8 weeks postinfection in asymptomatic patients. Emerg Infect Dis. 2020 Sep [accessed 2 Jul 2020]. 10.3201/eid2610.202211
+-------------------------------------------------------------------------------
+Research letter:
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), a new strain of betacoronavirus that causes coronavirus disease (COVID-19), quickly spread worldwide; the World Health Organization declared COVID-19 a pandemic on [11 Mar 2020] (1). Recent studies showed that a substantial number of asymptomatic COVID-19 patients contributed to the rapid dissemination of SARS-CoV-2 (2). In hospitalized COVID-19 patients, neutralizing antibody production was shown to increase after the 1st week of symptom onset, which correlated with disease severity (3,4). However, the neutralizing antibody response in asymptomatic patients is unclear.
+
+In this study, we analyzed the completely asymptomatic COVID-19 patients who were isolated in a community treatment center (CTC) operated by Seoul National University (SNU) Hospital in response to a huge COVID-19 outbreak in Daegu, South Korea. During the CTC stay, physicians and nurses comprehensively evaluated the patients using a video consultation system twice daily (5-7). The completely asymptomatic patients were defined as those with body temperature less than 37.5 C and no symptoms (e.g., subjective fever, myalgia, rhinorrhea, sore throat, cough, sputum, chest discomfort) during the entire CTC stay. A total of 15 completely asymptomatic patients were confirmed among 113 patients with SARS-CoV-2 infection in the CTC (8). We also evaluated COVID-19 patients with pneumonia who were admitted to the Biocontainment Unit in SNU Hospital and SNU Bundang Hospital (Seongnam, South Korea). We classified pneumonia cases as subtle pneumonia (infiltrations were observed only in the computed tomography images) or apparent pneumonia (infiltrations were observed in chest radiograph) with mild or severe manifestation; case-patients with severe pneumonia required oxygen therapy.
+
+We semiquantitatively measured SARS-CoV-2 IgG using a commercial ELISA kit (Euroimmun, https://www.euroimmun.com) according to the manufacturer's instructions. We performed neutralization assays as previously described (9), using the BetaCoV/Korea/SNU01/2020 virus (10) and 2-fold serially diluted plasma samples (2-fold to 4096-fold). Figure. Antibody response against severe acute respiratory syndrome coronavirus 2 at 8 weeks postinfection among patients and controls in South Korea. A) Serologic diagnostic test (ELISA) results. OD ratio indicates the ratio [available at source URL above.]
+
+Seven completely asymptomatic COVID-19 patients from the CTC and 17 patients with COVID-19 pneumonia from SNU-affiliated hospitals participated in this study (Appendix Table). Of the completely asymptomatic patients, ELISA showed positive results in 5 (71%) patients, borderline result in 1 (14%) patient, and negative result in 1 (14%) patient. ELISA showed higher optical density value in patients with pneumonia; titers correlated with disease severity (Figure). All patients showed neutralizing antibody response. We calculated the geometric mean titer of neutralizing antibody in all asymptomatic patients and in 4 of each type of pneumonia patient (subtle, mild, or severe); geometric mean titer was 78 in asymptomatic patients (n = 7), 256 in patients with subtle pneumonia (n = 4), and 3158 in patients with apparent pneumonia (n = 8; 4 mild and 4 severe cases).
+
+Neutralizing antibodies play an essential role in virus clearance and have been considered a critical immune player for protection against viral diseases. Production of neutralizing antibodies in asymptomatic COVID-19 patients was reported recently. Wu et al. reported that approximately 30% of recovered mild COVID-19 patients generated a deficient level of neutralizing antibody titers; in 10 of the 175 patients, the level was below the limit of detection (F Wu et al., unpub. data, https://doi.org/10.1101/2020.03.30.20047365).
+
+In our study, the neutralizing antibody titer correlated with the severity of the disease. This result suggests that patients with more severe disease might be more protected against reinfection and those with asymptomatic or mild disease could be more vulnerable to waning immunity over time because the initial immune response was not as strong as in patients with more severe disease.
+
+Despite the limitation of our small sample size, our findings suggest that seroepidemiologic studies may detect mild COVID-19 infection in completely asymptomatic patients by the presence of neutralizing antibodies at 8 weeks postinfection.
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The same group from the Seoul National University Hospital demonstrated a waning immunity associated with milder clinical cases of MERS-CoV following the 2015 outbreak of MERS-CoV in South Korea. (Choe PG, Perera RAPM, Park WB, et al. MERS-CoV antibody responses 1 year after symptom onset, South Korea, 2015. Emerg Infect Dis. 2017; 23(7): 1079-1084. doi:10.3201/eid2307.17031; https://wwwnc.cdc.gov/eid/article/23/7/17-0310_article). More studies on larger sample sizes extending out further than 8 weeks following diagnosis are indicated to draw conclusions on protective antibodies following infection. But it is intriguing to see the variance in mean neutralizing antibodies disaggregated by severity of infection/clinical expression. - Mod.MPP
+
+******
+[2] China: outbreak initiated by asymptomatic imported case - EID
+Date: Tue 30 Jun 2020
+Source: Emerging Infectious Diseases [abridged, edited]
+https://wwwnc.cdc.gov/eid/article/26/9/20-1798_article#suggestedcitation
+
+
+ref: Liu J, Huang J, Xiang D. Large SARS-CoV-2 outbreak caused by asymptomatic traveler, China. Emerg Infect Dis. 2020 Sep [accessed 2 Jul 2020]. doi: 10.3201/eid2609.201798
+--------------------------------------------------------------------------------
+Coronavirus disease (COVID-19), caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), has spread rapidly around the world since the 1st cases were reported in late 2019 (1,2). Prior to [9 Apr 2020], Heilongjiang Province, China, had not reported a new COVID-19 diagnosis since [11 Mar 2020]. On [9 Apr 2020] SARS-CoV-2 was diagnosed in 4 patients. By [22 Apr 2020], greater than or equal to 71 persons had been infected. The likely origin of this cluster is an imported case from an asymptomatic traveler.
+
+We collected and analyzed epidemiologic data published on the website of the Health Commission of Heilongjiang Province for [9-23 Apr 2020] (3). We defined confirmed COVID-19 cases as persons who tested positive for SARS-CoV-2 and had clinical symptoms. We defined asymptomatic carriers as persons without clinical symptoms who tested positive for SARS-CoV-2. We refer to case-patients by a letter for each family (A-Z, AA-ZZ), then by the assumed transmission generation (1-2), and finally in sequential order of exposure to SARS-CoV-2-positive persons in generations 1-3 (Figure) (4). Figure. Timeline of exposure and connections between cases of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) among persons in Heilongjiang Province, China. A0 returned from the United States on 19 Mar 2020, tested... [available at the source URL above.]
+
+On [19 Mar 2020], case-patient A0 returned to Heilongjiang Province from the United States; she was asked to quarantine at home. She lived alone during her stay in Heilongjiang Province. She had negative SARS-CoV-2 nucleic acid and serum antibody tests on [31 Mar 2020] and [3 Apr 2020]. Patient B1.1 was the downstairs neighbor of case-patient A0. They used the same elevator in the building but not at the same time and did not have close contact otherwise. On [26 Mar 2020], B1.1's mother, B2.2, and her mother's boyfriend, B2.3, visited and stayed in B1.1's home all night. On [29 Mar 2020], B2.2 and B2.3 attended a party with patient C1.1 and his sons, C1.2 and C1.3. On [2 Apr 2020] C1.1 suffered a stroke and was admitted to hospital 1. His sons, C1.2 and C1.3, cared for him in ward area 1 of the hospital. Patient C1.1 shared the same clinical team and items, such as a microwave, with other patients in the ward. On [6 Apr 2020], patient C1.1 was transferred to hospital 2 because of fever; C1.2 and C1.3 accompanied him.
+
+On [7 Apr 2020], patient B2.3 1st noted symptoms of COVID-19. He tested positive for SARS-CoV-2 on [9 Apr 2020], the 1st confirmed case in this cluster. His close contacts, B1.1, B2.1, B2.2, and C1.1, subsequently tested positive for SARS-CoV-2 on [9 or 10 Apr 2020]. Patient C1.1 was quarantined in hospital 2 when he tested positive on [9 Apr 2020]. The epidemiologic investigation showed that none of these 5 persons had a history of travel or residence in affected areas with sustained transmission of SARS-CoV-2 during the 14 days before diagnosis, suggesting that SARS-CoV-2 came from contact with other persons.
+
+During C1.1's admission at hospital 1, a total of 28 other persons, D1.1-BB1.1, were infected with SARS-CoV-2 in ward area 1. Because all patients in the ward could ambulate, 4 persons, CC1.1, DD1.1, EE1.1, and FF1.1, were infected in other wards and in the computed tomography room of hospital 1. Among hospital 1 staff, 5 nurses, and 1 doctor were infected. In hospital 2, another 20 persons, GG1.1-VV1.1, were infected in the ward where C1.1 stayed (Figure). On [9 Apr 2020], investigators also learned that A0, B1.1's neighbor, had returned on [19 Mar 2020] from the United States, where COVID-19 cases had been detected. Investigators performed SARS-CoV-2 serum antibody tests on A0 on [10 and 11 Apr 2020]. SARS-CoV-2 serum IgM was negative but IgG was positive, indicating that A0 was previously infected with SARS-CoV-2 (5,6). Therefore, we believe A0 was an asymptomatic carrier (7,8) and that B1.1 was infected by contact with surfaces in the elevator in the building where they both lived (9). Other residents in A0's building tested negative for SARS-CoV-2 nucleic acids and serum antibodies.
+
+On [15 Apr 2020], the Chinese Center for Disease Control and Prevention sequenced the entire genomes of 21 samples from the cluster. Viral genomes were identical in 18 cases and 3 other cases had a difference of 1-2 nucleotides, indicating that SARS-CoV-2 came from the same point of origin. The viral genome sequences from the cluster were distinct from the viral genomes previously circulating in China, indicating the virus originated abroad (10) and suggesting case A0 was the origin of infection for this cluster. As of [22 Apr 2020], A0 remained asymptomatic, and a total of 71 SARS-CoV-2-positive cases had been identified in the cluster.
+
+Our results illustrate how a single asymptomatic SARS-CoV-2 infection could result in widespread community transmission. This report also highlights the resources required for case investigation and challenges associated with containment of SARS-CoV-2. Continued measures to protect, screen, and isolate infected persons are essential to mitigating and containing the COVID-19 pandemic.
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[A fascinating investigation and certainly highly suspect that the index case in this outbreak was in fact an asymptomatic infected individual. The genomic sequencing of the SARS-CoV-2 associated with these cases is supportive in drawing this conclusion. The mechanism of transmission for the 1st cases may have been associated with using the elevator shortly after the index case had used the elevator... but somewhat reminiscent of the outbreak of SARS-CoV (1) associated with the elevator banks of the Metropole hotel in 2003. (Centers for Disease Control and Prevention (CDC). Update: Outbreak of severe acute respiratory syndrome -- worldwide, 2003; MMWR Morb Mortal Wkly Rep. 2003; 52(12): 241-6, 248; https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5212a1.htm (published correction appears in MMWR Morb Mortal Wkly Rep. 2003; 52(13): 284; https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5213a7.htm)
+
+There was another outbreak of COVID-19 associated with a potentially pre-symptomatic case in Bavaria Germany (Boehmer MM, Buchholz U, Corman VM, et al. Investigation of a COVID-19 outbreak in Germany resulting from a single travel-associated primary case: a case series [published online ahead of print, 2020 May 15]. Lancet Infect Dis. 2020; S1473-3099(20)30314-5; https://www.thelancet.com/pdfs/journals/laninf/PIIS1473-3099(20)30314-5.pdf).
+
+As these outbreak reports are being published, the evidence of the role of asymptomatic and pre-symptomatic infected individuals in the "stealth" transmission of the SARS-CoV-2 is mounting, highlighting the importance of testing asymptomatic contacts of known cases, and of travellers to an area coming from areas with known ongoing circulation of the SARS-CoV-2. - Mod.MPP]
+
+******
+[3] Selected countries
+[A] China: National Health Commission, 83 542 total cases, 4634 deaths
+[B] South Korea: 12 967 confirmed cases, 282 deaths
+[C] Italy: 240 961 total cases, 34 818 deaths
+[D] Iran: 232 863 total cases, 11 106 deaths
+[E] USA: 2 779 953 total cases, 130 798 deaths
+
+----
+[A] China: National Health Commission, 83 542 total cases, 4634 deaths
+Date: Thu 2 Jul 2020
+Source: China National Health Commission [abridged, edited]
+http://en.nhc.gov.cn/2020-07/03/c_80982.htm
+
+
+On 2 Jul 2020 (as of midnight 3 Jul 2020):
+- 5 new cases of confirmed infections (2 locally acquired cases, both in Beijing municipality; 3 imported cases, 1 in Liaoning province, 1 in Shanghai municipality, and 1 in Yunnan province), 1 new case of suspected infection in Beijing and no deaths.
+- A total of 1923 imported cases have been reported.
+- 83 542 confirmed cases and 4634 deaths; 78 499 recovered and discharged from hospital; 763 077 close contacts with infected patients, and 5589 are under medical observation.
+- 4 new asymptomatic cases (3 imported cases); no asymptomatic cases confirmed as symptomatic; 97 asymptomatic cases under medical observation (including 59 imported cases).
+- 1242 cases in Hong Kong [an increase of 9 cases since 1 Jul 2020], 46 in Macau.
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+and
+ProMED-mail Rapporteur Kunihiko Iizuka
+
+[The outbreak in Beijing continues with 3 newly confirmed cases attributed to the outbreak. The 1st case in Beijing was reported on 11 Jun 2020; as of 2 Jul 2020, there have been 332 cases reported from Beijing, 21 in Hebei, and 3 in Liaoning, most likely associated with this outbreak.
+
+There were 4 newly confirmed infections in asymptomatic individuals and no new conversion from asymptomatic to symptomatic in the past 24 hours. Since 18 May 2020, there have been 33 cases of conversion from asymptomatic to symptomatic infections reported by China.
+
+Hong Kong reported 9 new cases. According to a press release, 3 are male and 6 are female between 2 and 40 years of age. All had travel history during the incubation period. (https://www.info.gov.hk/gia/general/202007/02/P2020070200596.htm). 5 of the cases were asymptomatic, 1 had a history of travel from Pakistan and the remaining 8 had a history of travel from India. (https://gia.info.gov.hk/general/202007/02/P2020070200596_344713_1_1593683453254.pdf)
+
+Takeaway message: China continues to have importations of infected individuals with the SARS-CoV-2; many of whom are detected as asymptomatic at the time of positive PCR testing. Cases are still being confirmed in Beijing.
+
+A map of China showing provinces can be seen at https://sacu.org/wp-content/uploads/2019/01/provmap.png, and a HealthMap/ProMED map is available at https://promedmail.org/promed-post?place=7536146,155. - Mod.MPP]
+
+----
+[B] South Korea: 12 967 confirmed cases, 282 deaths
+Date: Fri 3 Jul 2020
+Source: Ministry of Health and Welfare, [in Korean, machine transl., abridged, edited]
+http://www.mohw.go.kr/react/al/sal0301vw.jsp?PAR_MENU_ID=04&MENU_ID=0403&page=1&CONT_SEQ=355269
+
+
+[Please note that while the data go through 00:00 2 Jul 2020, in actuality, they cover all newly reported cases and deaths occurring on 2 Jul 2020. - Mod.MPP]
+
+2 Jul 2020 0:00 AM KT 12 904 confirmed cases, 282 deaths
+3 Jul 2020 0:00 AM KT 12 967 confirmed cases, 282 deaths
+
+Change: 63 newly confirmed infections; 0 new deaths
+
+[The table with distribution by provinces is available at the source URL above. - Mod.MPP]
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[In the past 24 hours, according to the report at the source URL, the tally of confirmed cases of COVID-19 in South Korea has increased by 63 cases with no new deaths, compared with 54 cases and no new deaths in the previous day (30 Jun 2020). The daily newly confirmed case count has been at or below 100 for 81 consecutive days. There were 52 locally transmitted cases: Gyeonggi (16), Seoul (12), Daegu (10), Gwangju (6), Daejeon (4), Incheon (1), Chungnam (1), Jeonbuk (1), and Gyeongbuk (1); and 11 imported cases -- airport quarantine (4), Daegu (3), Gyeonggi (2), and Gyeongnam (2). There were 7 provinces reporting no newly confirmed cases.
+
+According to data from the "ncov" website of the Ministry of Health and Welfare, the cumulative confirmation rate has been steady at 1.0% (http://ncov.mohw.go.kr/).
+
+The overall impression hasn't changed: Lifting of measures has been accompanied by increases in locally acquired infections through increasing clusters related to gatherings of people at employment (bringing it outside employment to contacts) and in houses of worship, and bars and clubs. But, that being said, importations are also playing a major role in the country. It would be nice to know the asymptomatic rate being detected, and the proportion of asymptomatic infections detected that go on to clinical disease.
+
+Tabular and graphic analyses of the situation in South Korea with the addition of the 54 newly confirmed cases from 1 Ju1 2020 are available at the English language page (https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030), notices 409 and 410. There are analyses of the country-wide situation including the newly confirmed cases including listings of current ongoing clusters. 2 of the clusters mentioned are related to religious gatherings, 1 related to an elementary school and 1 related to an apartment complex.
+
+Importations (10) came from Americas (2) and Asia excluding China (8) (Kazakhstan 2, Pakistan 2, Uzbekistan 1, Iraq 1, Kuwait 1, and Bangladesh 1).
+
+Takeaway message: Importations continue to be a challenge, and gatherings whether social or religious are key foci for enlarging clusters (unchanged from previous 3 day's message).
+
+A map of South Korea showing provinces can be seen at https://www.nationsonline.org/oneworld/map/korea-south-administrative-map.htm and a HealthMap/ProMED map at https://promedmail.org/promed-post?place=7536146,195. - Mod.MPP]
+
+----
+[C] Italy: 240 961 total cases, 34 818 deaths
+Date: Thu 2 Jul 2020
+Source: Italian Government Health Ministry [in Italian, machine trans., edited]
+http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&id=5351&area=nuovoCoronavirus&menu=vuoto
+
+
+Health monitoring data on the spread of the new coronavirus released on 2 Jul 2020.
+[These figures come from the table published for the day, recognizing there have been adjustments in some of the data from previous tables - Mod.MPP]:
+
+- 240 961 cumulative cases, (+201);
+- 15 060 people are currently positive for the virus (-503);
+- 191 083 people have recovered (+366);
+- 963 patients are hospitalized with symptoms (-62), 82 in intensive care (-5), and 14 015 (-128) are in home isolation;
+- 34 818 deaths have been reported (+21);
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The tally of confirmed cases of COVID-19 in Italy is up by +201 cases and +30 deaths in the past 24 hours. The previous day's (1 Jul 2020) 24-hour change was +182 cases and +21 deaths. The numbers of hospitalized cases and cases in the ICU are still in a slow decline. Cases still continue to be concentrated in Lombardy, the original epicenter of the outbreak (see tables at the link on the source URL to "download the latest data"). Lombardy again reported the largest number of newly confirmed cases in the 24-hour period (98). Emilia-Romagna (27), Piedmont (13), and Lazio (11) are the 5 provinces reporting 10 or more cases. A total of 16 provinces reported fewer than 10 newly confirmed cases (6 provinces reported no new cases). Italy is now 58 days post phase 2 initial opening up and 42 days post 2nd stage of phase 2 opening up. There are subtle signs that cases are starting to increase but time will tell. For more detailed information on the outbreak, I suggest going to the source URL above.
+
+A map of Italy showing regions can be seen at https://www.mapsofworld.com/italy/regions.html and a HealthMap/ProMED map at https://promedmail.org/promed-post?place=7536146,75. - Mod.MPP]
+
+----
+[D] Iran: 232 863 total cases, 11 106 deaths
+Date: Thu 2 Jul 2020
+Source: Mehr News Agency [edited]
+https://en.mehrnews.com/news/160459/Iran-COVID-19-death-toll-hits-11-106
+
+Iranian Ministry of Health Spokesperson put the total number of coronavirus, COVID-19, death toll in the country at 11 106. Up to the present time, 232 863 people in the country have been infected by the novel coronavirus, also known as COVID-19. The novel coronavirus disease has infected 2652 people across Iran in the past 24 hours, according to the Iranian Health Ministry. Speaking in her daily briefing, Health Ministry's spokesperson Sima Lari said with the cases, the total number of infections in the country is now standing at 232 863. She also added that 148 people died of the disease in the past 24 hours, putting the total number of deaths in the country at 11 106. Moreover, she noted, 3097 patients are in critical condition.
+
+Lari said the number of patients beating the disease has now reached 194 098. Over 1 719 451 COVID-19 tests have so far been taken across the country, she added.
+
+Lari went on to say that provinces of Khuzestan, Kordestan, West Azerbaijan, Kermanshah, and Hormozgan have red status while the condition in provinces of Bushehr, Ilam, East Azerbaijan, and Khorasan Razavi is becoming alarming.
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[As of 2 Jul 2020, the total number of cases of COVID-19 confirmed in Iran is 232 863, including 11 106 deaths, an increase of 2652 cases and 148 deaths since 1 Jul 2020. The numbers of daily reported cases and deaths are slowing increasing. Today's national report mentions 9 provinces as heavily involved, 5 are considered "red zones", and an additional 4 are "becoming alarming."
+
+Another media report mentioned that 235 nurses had developed COVID-19 in Fars province and 100 nurses in Zanjan province thereby complicating the pre-existent nursing shortages to deal with the epidemic (https://irannewsupdate.com/news/socially/7203-335-nurses-have-contracted-coronavirus-in-iran-s-fars-and-zanjan-provinces.html).
+
+Takeaway message: Premature lifting of restrictions is taking its toll in Iran as is elsewhere in the world. Unfortunately, many people think that lifting of restrictions means the virus has gone away and measures like mask wearing and social distancing are no longer necessary leading to resurgences of increased transmission and the resultant increase in severe cases and deaths. And the need to re-implement some forms of lockdown to flatten the curves again so the health systems aren't overwhelmed.
+
+A map of Iran showing provinces can be seen at https://www.mapsofworld.com/iran/iran-political-map.html and a HealthMap/ProMED map at https://promedmail.org/promed-post?place=7536146,128. - Mod.MPP]
+
+----
+[E] USA: 2 837 189 total cases, 131 485 deaths
+Date: Thu 2 Jul 2020
+Source: Worldometer [accessed 22:36 EDT (GMT-4)] [edited]
+https://www.worldometers.info/coronavirus/country/us/
+
+
+[For those who are interested, a pdf snapshot of the full data Worldometer table at the time we accessed it is available at https://promedmail.org/wp-content/uploads/usa-pdf/JULY2USDATASET_1593752207.pdf.
+
+A 7-day series of cumulative reported cases by states, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/usa-pdf/JULY2US7_1593752145.pdf. - Mod.MPP]
+
+USA cases by state - top 20 states
+State: Total cases / New cases
+------------------------------
+New York: 419 640 / 1035
+California: 247 743 / 9352
+Texas: 183 044 / 7535
+New Jersey: 177 654 / 416
+Florida: 169 106 / 10 109
+Illinois: 145 935 / 869
+Massachusetts: 109 338 / 195
+Pennsylvania: 92 703 / 839
+Georgia: 87 709 / 3472
+Arizona: 87 425 / 3333
+Michigan: 71 678 / 589
+North Carolina: 68 508 / 1855
+Maryland: 68 423 / 505
+Virginia: 63 735 / 532
+Louisiana: 61 561 / 1383
+Ohio: 54 166 / 831
+Tennessee: 46 890 / 1575
+Connecticut: 46 646 / 74
+Indiana: 46 387 / 435
+Alabama: 40 111 / 1149
+
+All USA total: 2 837 189 / 57 236
+Total deaths: 131 485
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The above are the latest breakdowns of confirmed cases of SARS-CoV-2 infection in the USA as per Worldometer data for the top 20 reporting entities. The total number of confirmed cases in the USA and territories is now 2 837 189, including 131 485 deaths, an increase from 2 779 953 cases and 130 798 deaths in the past 24 hours. New York City had a cumulative total of 212 774 cases as of 13:30 EDT (GMT-4) on 2 Jul 2020 (+362 from 1 Jul 2020), including 18 519 confirmed deaths (+22 since 1 Jul 2020) and an additional 4604 probable deaths (https://www1.nyc.gov/site/doh/covid/covid-19-data.page).
+
+The top 10 states in terms of daily reported cases in descending order are Florida, California, Texas, Georgia, Arizona, North Carolina, South Carolina, Tennessee, Louisiana, and Alabama (Alabama replaced Ohio in the past 24 hours). This list includes states that are showing major increases in daily cases reported beginning with the lifting of restrictions around the end of May 2020. All states reported more than 1000 newly confirmed cases in the past 24 hours, with the range being 1149 to 10 109 -- a record high for Florida. California reported over 9000 cases and Texas over 7500 cases.
+
+In terms of cumulative case reports, New York is number one, followed by California, Texas (Texas surpassed New Jersey in the past 24 hours), New Jersey, Florida, Illinois, Massachusetts, Pennsylvania, Georgia, and Arizona. A total of 41 states and entities have reported more than 10 000 cumulative cases each.
+
+In the past 24 hours, the proportion of newly confirmed cases was 2.0%. The 7-day average of newly confirmed cases for the past 7 days is 38.0% higher than the 7-day average for the preceding 7 days, consistent with the ongoing pandemic in the country picking up momentum.
+
+The Centers for Disease Control and Prevention website (https://www.cdc.gov/coronavirus/2019-ncov/covid-data/covidview/index.html has data on cases, hospitalization, testing, and epidemiologic variables such as age, race, ILI (influenza-like illness), surveillance, and emergency room visits, which are definitely worth reviewing, as a welcome series of analyses. According to the CDC data, the percentages of laboratory specimens testing positive for SARS-CoV-2 with a molecular assay is 9% positive tests out of 35 542 936 tests performed, consistent with the ongoing, as yet not under control pandemic in the country (https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/testing-in-us.html).
+
+A map of the United States can be seen at http://www.mapsofworld.com/usa/ and a HealthMap/ProMED map at https://promedmail.org/promed-post?place=7536146,106. - Mod.MPP]
+
+******
+[4] WHO situation report 164 (as of 2 Jul 2020)
+Date: Thu 2 Jul 2020
+Source: WHO [abridged, edited]
+https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200702-covid-19-sitrep-164.pdf
+
+
+*The situation report includes information provided by national authorities as of 10:00 CEST, 2 Jul 2020.
+
+Highlights
+----------
+- WHO Director-General Dr Tedros has emphasized the importance of taking a comprehensive approach to responding to the pandemic -- "Not testing alone. Not physical distancing alone. Not contact tracing alone. Not masks alone. Do it all", he said during yesterday's [1 Jul 2020] regular media briefing.
+
+- In Turkey, a WHO-backed helpline has been created to provide psychosocial health support to persons affected by mental health issues in the wake of COVID-19. The helpline reaches all of Turkey's 81 provinces and has provided over 80 000 consultations since March 2020.
+
+- While countries have had to de-prioritise non-urgent care to make way for COVID-19 patients, maternal and child health is one area that cannot be put on hold. In the WHO European region, examples from Italy, Germany, and Israel show that swift recalibration of healthcare has helped maintain essential services, thereby protecting the well-being of pregnant women and their babies.
+
+- The WHO Regional Director for the Americas, Dr Carissa F Etienne, said countries planning to relax public health measures must take a phased approach based on local conditions and be prepared to impose preventive measures again if the epidemiological situation changes.
+
+- The WHO representative, Dr Akjemal Magtymova, shared her professional and personal experience of taking up her new duty station in Syria amid the restrictions brought about by COVID-19, as well as challenges in responding to the pandemic in a conflict area.
+
+- WHO has published new guidance on infection prevention and control during healthcare when COOVID-19 is suspected or confirmed. Details are explored further in today's Subject in Focus, below.
+
+[Links to all documents mentioned are available at the source URL above. - Mod.MPP]
+
+Surveillance
+------------
+[The following data come from the "Situation in numbers" section. The regional case totals are inclusive of China. - Mod.MPP]
+
+WHO region (no. countries/territories): Total confirmed cases (new) / Total deaths (new)
+Western Pacific Region (19): 218 704 (1558) / 7458 (5)
+European Region (61): 2 747 810 (19 736) / 198 405 (531)
+South East Asia Region (10): 833 735 (24 829) / 22 769 (534)
+Eastern Mediterranean Region (22): 1 096 565 (19 139) / 25 517 (547)
+Region of the Americas (54): 5 317 792 (99 202) / 252 340 (3022)
+African Region (49): 318 432 (11 638) / 6340 (148)
+Cases on an international conveyance (Diamond Princess): 712 (0) / 13 (0)
+
+Confirmed cases (new conf cases) / Total deaths (new deaths)
+Grand total: 10 533 779 (176 102) / 512 842 (4787)
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The number of countries and territories reporting confirmed cases of COVID-19 to WHO remains at 215.
+
+In the 24 hours since the last WHO update (please note that there has been consistent weekend reporting artifact since the presentation of these data began):
+-----------------------------------------
+The Americas region reported 56.3% of the global newly reported cases and 63.1% of newly reported deaths for this 24-hour period. The USA reported 43.9% of the newly confirmed cases in the region, and Brazil reported 34.1%, Mexico 5.5%, Peru 2.9%, Colombia 2.8%, Chile 2.7%, and Argentina 2.3%. The same 5 countries remained at the top; the USA and Brazil are usually numbers 1 and 2; while they vary for which of the 2 positions they hold, this week the USA has dominated with the proportion represented by Brazil decreasing. Other countries are continuing to increase their proportional representation within the region such as Mexico, Colombia, and periodically Peru and Chile.
+
+The European region reported 11.2% of the global newly reported cases and 11.1% of the newly confirmed deaths in the region. Russia reported 34.3% of the regional newly confirmed cases, followed by Kazakhstan 7.6%, Turkey 6.0%, Sweden 6.3%, Israel 4.1%, the UK 4.2%, Ukraine 4.5%, France 3.1%, Azerbaijan and Armenia 3.0% each, and Kyrgyzstan 2.7%. The proportion of cases represented by Russia continues to decrease. Armenia, Azerbaijan, Israel, Kazakhstan, Kyrgyzstan, and Ukraine are prominent in countries noted to have resurgence in Europe.
+
+The Eastern Mediterranean region reported 10.9% of the global newly reported cases and 11.4% of global newly reported fatalities. Pakistan reported 22.7% of the regional newly reported cases followed by Saudi Arabia 17.8%, Iran 13.3%, Iraq 12.6%, Egypt 7.9%, Oman 5.9%, Qatar 4.8%, and Kuwait 3.9%. Multiple countries are very active in the region -- same countries in the same order as yesterday (1 Jul 2020).
+
+The African region reported 6.6% of the global newly reported cases and 3.1% of newly reported fatalities. South Africa reported 69.8% of the newly reported cases in the region in the past 24 hours, followed by Nigeria 7.0%, Ghana 3.4%, Algeria 3.1%, Kenya 2.6%, Cote d'Ivoire 2.4%, and Mauritania 2.0%. South Africa and Nigeria are usually numbers 1 and 2, and Ghana tends to follow Nigeria in terms of the 24-hour increase in cases, other countries have less consistent reporting patterns and vary considerably from day to day. Of note is that South Africa is now reporting over 8000 cases in a day.
+
+The Western Pacific region reported 0.88% of the global newly reported cases and 0.10% of global deaths. The Philippines reported 64.0% of the newly reported cases in the region, followed by Singapore 13.8%, Japan 9.7%, Australia 5.5%, South Korea 3.5%, and China 2.0%. The outbreak associated with the Beijing seafood markets continues to bring China to prominence in terms of daily newly confirmed cases. That said, the Philippines and Singapore are consistently numbers 1 and 2, respectively, and the other countries, including Japan, South Korea, Malaysia, and Australia, vary in daily reporting, although today's ordering is identical to the past 2 days. Of note is that it appears as though the number of cases reported by Japan is increasing and warrants keeping an eye on.
+
+The South East Asia region reported 14.1% of the global newly reported cases and 11.2% of global deaths. India reported 77.1% of newly reported cases in the region, followed by Bangladesh 15.2%, Indonesia 5.6%, and Nepal 1.9%. Same countries, same order as in previous days, with India continuing to be the driving force in the regional growth in cases.
+
+Impression: The ordering of the regions has the Americas having the highest disease load and newly confirmed cases on a daily basis, followed by the South East Asia region, then Europe and the Eastern Mediterranean alternating on a daily basis of their order, followed by the Africa region and the Western Pacific representing the lowest daily case load of all of the regions. The Africa region is slowing increasing their representation in terms of increased case reporting.
+
+Figure 2. Epidemic curve of confirmed COVID-19 cases, by date of report and WHO region, 30 Dec 2019 through 2 Jul 2020, at the source URL above, is an excellent visual representation of the epidemic as described in the above text. The Americas region continues to increase, as does South-East Asia, in terms of daily newly confirmed cases; the African region is noticeably increasing as well. The Americas region continues to greatly outnumber all other regions for daily reporting. - Mod.MPP]
+
+******
+[5] Global update: Worldometer accessed 2 Jul 2020 22:10 EDT (GMT-4)
+Date: Thu 2 Jul 2020
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/
+
+
+[This data presentation has been shortened and includes only the top 25 countries. For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at https://promedmail.org/wp-content/uploads/world-pdf/JULY2DATASET%20(1)_1593752207.pdf]
+
+A 7-day series of cumulative reported cases by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/JULY2WORLD7_1593752145.pdf - Mod.MPP]
+
+Confirmed cases Start of data recording: 1st data / ... / 1 Mar 2020 / ... / 1 Apr 2020 / ... / 1 May 2020 / ... / 1 Jun 2020 / ... / 28 Jun 2020 / 29 Jun 2020 / 30 Jun 2020 / 1 Jul 2020 / 2 Jul 2020 / Country
+
+Countries with marked decreases in daily newly confirmed cases post major activity
+--------------------------------------------
+2 Feb 2020: 17 187 / ... / 80 024 / ... / 81 589 / ... / 82 875 / ... / 83 022 / ... / 83 512 / 83 531 / 83 534 / 83 537 / 83 542 / Mainland China
+2 Feb 2020: 15 / ... / 3726 / ... / 9976 / ... / 10 780 / ... / 11 541 / ... / 12 757 / 12 800 / 12 850 / 12 904 / 12 967 / South Korea
+
+Top 25 countries with major activity by cumulative case counts [note that China is number 22]
+-----------------------------------
+2 Feb 2020: 11 / ... / 76 / ... / 215 081 / ... / 1 131 280 / ... / 1 837 170 / ... / 2 637 077 / 2 681 811 / 2 727 853 / 2 779 953 / 2 837 189 / USA
+26 Feb 2020: 1 / ... / 2 / ... / 6931 / ... / 92 109 / ... / 514 849 / ... / 1 345 254 / 1 370 488 / 1 408 485 / 1 453 369 / 1 501 353 / Brazil
+2 Feb 2020: 2 / ... / 2 / ... / 2777 / ... / 114 431 / ... / 405 843 / ... / 634 437 / 641 156 / 647 849 / 654 405 / 661 165 / Russia
+2 Feb 2020: 2 / ... / 3 / ... / 1998 / ... / 37 257 / ... / 190 609 / ... / 549 197 / 567 536 / 585 792 / 605 220 / 623 168 / India
+2 Feb 2020: 1 / ... / 84 / ... / 104 119 / ... / 242 988 / ... / 286 509 / ... / 295 850 / 296 050 / 296 351 / 296 739 / 297 183 / Spain
+6 Mar 2020: 1 / ... / NA / ... / 1323 / ... / 40 459 / ... / 164 476 / ... / 279 419 / 282 365 / 285 213 / 288 477 / 292 004 / Peru
+2 Feb 2020: 2 / ... / 36 / ... / 29 474 / ... / 177 454 / ... / 274 762 / ... / 311 151 / 311 965 / 312 654 / 313 483 / 283 757 / UK*
+3 Mar 2020: 1 / ... / NA / ... / 3031 / ... / 17 008 / ... / 99 688 / ... / 271 982 / 275 999 / 279 393 / 282 043 / 284 541 / Chile
+2 Feb 2020: 2 / ... / 1694 / ... / 110 574 / ... / 207 428 / ... / 232 997 / ... / 240 310 / 240 436 / 240 578 / 240 760 / 240 961 / Italy
+28 Feb 2020: 1 / ... / 5 / ... / 1215 / ... / 20 739 / ... / 90 664 / ... / 216 852 / 220 657 / 226 089 / 231 770 / 238 511 / Mexico
+19 Feb 2020: 2 / ... / 978 / ... / 47 593 / ... / 95 646 / ... / 151 466 / ... / 222 669 / 225 205 / 227 662 / 230 211 / 232 863 / Iran
+26 Feb 2020: 2 / ... / 4 / ... / 2118 / ... / 18 114 / ... / 69 496 / ... / 202 955 / 206 512 / 209 337 / 213 470 / 217 809 / Pakistan
+11 Mar 2020: 1 / ... / NA / ... / 15 679 / ... / 122 392 / ... / 163 942 / ... / 197 230 / 198 613 / 199 906 / 201 098 / 202 284 / Turkey
+2 Mar 2020: 1 / ... / NA / ... / 1720 / ... / 24 097 / ... / 85 261 / ... / 182 493 / 186 436 / 190 823 / 194 225 / 197 608 / Saudi Arabia
+2 Feb 2020: 10 / ... / 130 / ... / 77 981 / ... / 164 077 / ... / 183 494 / ... / 194 864 / 195 392 / 195 832 / 196 324 / 196 717 / Germany
+5 Mar 2020: 1 / ... / NA / ... / 1380 / ... / 5951 / ... / 32 683 / ... / 138 134 / 144 264 / 151 209 / 159 333 / 168 061 / South Africa
+2 Feb 2020: 6 / ... / 130 / ... / 56 989 / ... / 167 346 / ... / 188 882 / ... / 162 936 / 164 260 / 164 801 /165 719 / 166 378 / France**
+8 Mar 2020: 3 / ... / NA / ... / 54 / ... / 8238 / ... / 47 153 / ... / 137 787 / 141 801 / 145 483 / 149 258 / 153 277 / Bangladesh
+6 Mar 2020: 1 / ... / NA / ... / 1065 / ... / 7006 / ... / 29 383 / ... / 91 769 / 95 043 / 97 846 / 102 009 / 106 110 / Colombia
+2 Feb 2020: 4 / ... / 24 / ... / 9731 / ... / 55 061 / ... / 90 947 / ... / 103 250 / 103 918 / 104 204 / 104 271 / 104 772 / Canada
+29 Feb 2020: 1 / ... / 3 / ... / 835 / ... / 14 096 / ... / 56 910 / ... / 94 413 / 95 106 / 96 088 / 97 003 / 97 897 / Qatar
+14 Feb 2020: 1 / ... / 2 / ... / 779 / ... / 5895 / ... / 24 985 / ... / 65 188 / 66 754 / 68 311 / 69 814 / 71 299 / Egypt
+2 Feb 2020: 1 / ... / 14 / ... / 4947 / ... / 21 520 / ... / 37 542 / ... / 65 137 / 67 667 / 68 451 / 69 692 / 70 639 / Sweden
+3 Mar 2020: 1 /... / NA /... / 1133 / ... / 4532 / ... / 17 415 / ... / 59 933 / 62 268 / 64 530 / 67 197 / 69 941 / Argentina
+
+[*On 2 Jul 2020, the Worldometer (and the Johns Hopkins CSSE data) showed a decrease in 29 726 cases for the UK. From https://coronavirus.data.gov.uk/about: "Pillar 2 data for England has had duplicate tests for the same person removed by PHE from 2 Jul 2020. This means that the cumulative total number of UK lab-confirmed cases is now around 30 000 lower than reported on 1 Jul 2020." - Sr.Tech.Ed.MJ
+**On 2 Jun 2020, France completed a review of all positive lab tests reported and removed all duplicate tests on individuals who were counted more than once. This led to a decrease in cumulative case counts.
+In the table above, NA is "not applicable"; those countries whose 1st case was reported after 1 Mar 2020 did not have cases on 1 Mar 2020. - Mod.MPP]
+
+Countries with notable overnight changes or escalating reports to keep an eye on (in alphabetical order):
+Afghanistan, Albania, Algeria, Angola, Argentina, Armenia, Azerbaijan, Bangladesh, Benin, Botswana, Cabo Verde, Cameroon, Chile, Costa Rica, Ecuador, Egypt, Equatorial Guinea, Eritrea, French Guiana, Honduras, Hungary, India, Indonesia, Iran, Iraq, Japan*, Kazakhstan*, Kenya, Kuwait, Kyrgyzstan*, Malawi, Mali, Mauritania, Mexico, Moldova, Montenegro, Namibia, Nepal, Oman, Palestinian Authority, Peru, Philippines, Poland, Qatar, Romania, Rwanda, Saudi Arabia, Senegal, Seychelles, South Sudan, Sudan, Tajikistan, Turks and Caicos, Uzbekistan, Zambia, Zimbabwe
+
+*Newly added countries to grouping
+
+Total number of reported deaths: 524 036
+Total number of worldwide cases: 10 984 735
+Number of newly confirmed cases in past 24 hours: 181 886 [note that there was an adjustment in the daily changes with -29 726 from the UK]
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[According to the data on the Worldometer website, the total number of reported cases of COVID-19 worldwide is now 10 984 735, with reports of cases by 217 countries and territories worldwide. I suspect we will cross the 11 million mark within the next 24 hours. The global case count rose by 1.7% in the past 24 hours. (Remembering the subtraction of 29 726 from the UK cumulative totals -- this moved the UK from 5th position to 8th position with Spain and Peru surpassing it, but artificially decreased the percent change from the previous day). The USA, with more than 2.83 million confirmed cases, now represents 25.8% of the global cases of COVID-19, and Brazil with more than 1.50 million cases represents 13.7% of the global cases of COVID-19. Other countries such as Chile, Peru, Mexico, India, Saudi Arabia, South Africa, and Pakistan are reporting increased numbers of new and cumulative cases as well. If one tallies the total cumulative case counts for the top 5 countries (USA, Brazil, Russia, India, and Spain), they represent over half of the total cases reported globally (53.9%). A global total of 524 036 deaths have been reported, an increase of 5115 deaths in the past 24 hours.
+
+A reminder that in the absence of well-developed contact-tracing activities with testing of asymptomatic and mildly ill contacts, numbers of SARS-CoV-2 virus infections are significantly underreported: actual numbers may be 10-20 times larger. There are also individuals who stay at home throughout their illness, sometimes, unfortunately, dying at home, who are never officially confirmed as infected with the SARS-CoV-2 virus. These data are presented to provide relative indicators of the situations in each of the countries and comparisons between countries and regions of the world.
+
+In descending rank order, the USA is number 1 for cumulative confirmed cases of COVID-19, followed by Brazil, Russia, India, Spain, Peru, the UK (with the negative adjustment, the UK was surpassed by Spain and Peru), Chile, Italy, and Mexico (Mexico surpassed Iran in the past 24 hours) at number 10. China remains at number 22. In descending rank order, the USA is number 1 for the number of newly confirmed cases in the past 24 hours, followed by Brazil, India, South Africa, Russia, Mexico, Pakistan, Colombia, Bangladesh, and Peru. Kazakhstan has been replaced on the top 10 and is now number 17 on this list, reflecting continued increase in transmission in the country. All countries that are currently experiencing major community-based transmission and considered global hot spots. The range in the top 10 daily newly confirmed cases went from 3527 to 57 236.
+
+The top 20 countries in terms of cumulative cases include 7 from the European region, 7 from the Americas region, 3 from the Eastern Mediterranean region, 2 from the South-East Asia region, and 1 from the African region unchanged for the past 2 days. There are no countries from the Western Pacific region. The top 20 countries in terms of numbers of newly confirmed cases in the past 24 hours include 8 from the Americas region, 6 from the Eastern Mediterranean region, 3 from the South East Asia region, 2 from the European region, 1 from the African region (an increase of 1 in the Americas region and a dropping off of the 1 in the Western Pacific region). This listing very much reflects the "hot spots" in terms of countries and regions with ongoing high transmission of the SARS-CoV-2 virus.
+
+Impression: The SARS-CoV-2 is still actively being transmitted in all regions of the world and many countries are showing increases in their daily newly confirmed case counts. - Mod.MPP]
+See Also
+COVID-19 update (299): USA (GA) animal, dog conf 20200703.7535112
+COVID-19 update (298): Al Jazeera, selected countries, WHO, global 20200702.7534054
+COVID-19 update (297): USA anatomy of 4 hotspots, selected countries, WHO, global 20200701.7528543
+COVID-19 update (296): selected countries 20200630.7524661
+COVID-19 update (295): institutional serial testing post exposure WHO, global 20200630.7524593
+COVID-19 update (294): selected countries 20200629.7520447
+COVID-19 update (293): meat plants, China (HB) WHO, global 20200629.7520442
+COVID-19 update (292): selected countries 20200628.7518079
+COVID-19 update (291): fast-track tools, multi-organ, WHO, global 20200627.7517057
+COVID-19 update (290): selected countries 20200627.7515667
+COVID-19 update (280): pangolin, research 20200623.7502805
+COVID-19 update (270): India, rapid breath test, WHO, global 20200619.7486560
+COVID-19 update (260): China (Beijing) South Africa, WHO, global 20200615.7469624
+COVID-19 update (250): selected countries 20200610.7448037
+COVID-19 update (240): journal retractions, Yemen, WHO, global 20200606.7433414
+COVID-19 update (230): Netherlands (NB, LI) animal, farmed mink, spread, control 20200602.7420433
+COVID-19 update (220): global, USA, Italy genomic studies, WHO 20200530.7400094
+COVID-19 update (210): global, Rwanda innov., Solidarity hold, Germany church, WHO 20200526.7376354
+COVID-19 update (200): global, Yemen, WHO 20200522.7364937
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+Undiagnosed pediatric inflammatory syndrome (05): Europe, USA, COVID-19 assoc 20200518.7340554
+Undiagnosed pediatric inflammatory syndrome (04): USA, UK, PMIS, fatal 20200509.7315405
+Undiagnosed pediatric inflammatory syndrome (03): USA, Europe, COVID-19 susp, RFI 20200505.7299876
+COVID-19 update (150): global, USA state prisons, WHO 20200502.7290671
+COVID-19 update (100): China, S. Korea & high local transmission countries 20200413.7217806
+COVID-19 update (50): China (Hong Kong) animal dog, 2nd case PCR positive, OIE 20200323.7129951
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (41): China, global, clinical pics, asymptomatic trans., WHO 20200210.6976117
+Novel coronavirus (40): animal reservoir, pangolin poss intermediate host, RFI 20200210.6972104
+Novel coronavirus (30): updates, China, Viet Nam, research 20200202.6945658
+Novel coronavirus (20): China, wildlife trade ban 20200127.6922060
+Novel coronavirus (10): China (HU, GD, BJ) 20200119.6898567
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia - China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia - China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+----
+Undiagnosed pneumonia - China (HU): RFI 20191230.6864153
+.................................................sb/mpp/mj/lxl
+</body>

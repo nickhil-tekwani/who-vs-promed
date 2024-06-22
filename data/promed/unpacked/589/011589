@@ -1,0 +1,65 @@
+<header id=011589>
+Published Date: 2021-05-15 09:50:07 EDT
+Subject: PRO/AH/EDR> Lyme disease - B. burgdorferi pro-inflammatory cell wall constituent
+Archive Number: 20210515.8363592
+</header>
+<body id=011589>
+LYME DISEASE - BORRELIA BURGDORFERI PRO-INFLAMMATORY CELL WALL CONSTITUENT
+**************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+Date: Thu 13 May 2021 16:41 ET
+Source: News Leader [edited]
+https://eu.newsleader.com/story/news/2021/05/13/virginia-tech-researchers-identify-missing-piece-lyme-disease-puzzle/5079450001/
+
+
+In recent months, far less attention has been paid to another widespread problem that has been proliferating since the late 1970s: Lyme disease. Lyme disease is the most reported vector-borne disease in the country. Over the past 20 years, the United States has experienced a dramatic increase in both the number of reported cases and the geographic distribution of the disease.
+
+In Virginia, the disease is transmitted by blacklegged ticks, which are infected with the Lyme disease-causing bacterium _Borrelia burgdorferi_. Virginia Tech Assistant Professor Brandon Jutras and his lab have continued to tackle the Lyme disease epidemic over the past year, and they have recently identified another missing piece of the Lyme disease puzzle, the university announced in a news release. "This discovery furthers our understanding of how _Borrelia burgdorferi_ causes inflammation and disease," said Mari Davis, the research lab's lead author. "It is a testament to how unique that this bacterium is -- and how we need to keep working to understand more about what is going on behind the scenes in order to develop future diagnostics and treatments."
+
+Almost all bacteria, including the Lyme disease-causing bacterium, make a mesh-like bag to protect the inside of their cells. This bag is known as peptidoglycan. In 2019, Jutras identified peptidoglycan, a lingering cell wall component of the bacterium _Borrelia burgdorferi_, as a likely culprit of the inflammation and Lyme arthritis, the most common late-stage symptom of Lyme disease. Jutras' previous research has shown that peptidoglycan in _Borrelia burgdorferi_ lingers in the bodies of Lyme arthritis patients after the bacteria has entered the body. Weeks to months after the initial infection, the peptidoglycan remains, inciting inflammation and pain.
+
+In this newest development, the lab discovered a protein associated with the peptidoglycan of _Borrelia burgdorferi_ that plays an amplifying role in causing inflammation in Lyme arthritis patients by acting as a molecular beacon that antagonizes the patients' immune system. Using an unbiased proteomics approach and The Mass Spectrometry Research Incubator (VT-MSI) from the Fralin Life Sciences Institute's Core Services, the team identified the protein to be NapA.
+
+NapA, which stands for neutrophil attracting protein A, is an immunomodulatory molecule that is able to recruit immune cells, called neutrophils, toward the inflammatory peptidoglycan. "NapA is another piece to an ever-evolving puzzle; it seems to play a basic role in everyday bacterial life by helping the overall protective properties of peptidoglycan, but it moonlights as a devious protein capable of tricking our immune system," said Jutras. "We believe NapA's devious side has 2 modes: Early in infection, when bacteria are dying and releasing NapA and peptidoglycan, it acts as a decoy to attract immune cells, which allows the viable bacteria to escape and cause disease. In later stages of disease, it may act to attract immune cells to peptidoglycan, a molecule capable of causing inflammation and arthritis," Jutras said.
+
+To determine how NapA attracted neutrophils, Davis sought out Caroline Jones, assistant professor in the Department of Biological Sciences in the Virginia Tech College of Science at the time of the discovery. Her lab specializes in the study of neutrophil chemoattraction. Jones placed neutrophils in the middle of a microfluidic chip, which acts as a maze that cells can wander through. On one side of the chip, there was pure peptidoglycan; on the other was peptidoglycan with NapA. The Jones and Jutras labs showed that neutrophils rapidly migrate toward the side with NapA, proving that the protein is able to give off chemical signals that attract neutrophils in the direction of it, and peptidoglycan.
+
+With this new piece to the puzzle in hand, Jutras plans to add to the lab's current efforts to improve the diagnostic testing and treatment of Lyme disease. "From a prevention and diagnostic perspective, it's possible that the combination of peptidoglycan and NapA could be a novel target for diagnostics," Jutras said. "It could, in theory, be a possible avenue of vaccine development as well. These are big picture possibilities that we are actively pursuing. One thing that we know for sure is that this finding furthers our understanding of how peptidoglycan can drive Lyme arthritis patient [symptomatology]."
+
+Their findings were recently published in PLOS Pathogens, a peer-reviewed open-access medical journal [see below].
+
+[Byline: Monique Calello]
+
+--
+Communicated by:
+ProMED from HealthMap Alerts
+<promed@promedmail.org>
+
+[The citation, abstract, and author summary of the referenced journal article follow below:
+
+Citation: Davis MM, Brock AM, DeHart TG, et al. The peptidoglycan-associated protein NapA plays an important role in the envelope integrity and in the pathogenesis of the Lyme disease spirochete. PLoS Pathog. 2021; 17(5): e1009546. https://doi.org/10.1371/journal.ppat.1009546
+
+Abstract
+--------
+"The bacterial pathogen responsible for causing Lyme disease, _Borrelia burgdorferi_, is an atypical Gram-negative spirochete that is transmitted to humans via the bite of an infected _Ixodes_ tick. In diderms [having 2 cell membranes], peptidoglycan (PG) is sandwiched between the inner and outer membrane of the cell envelope. In many other Gram-negative bacteria, PG is bound by protein(s), which provide both structural integrity and continuity between envelope layers. Here, we present evidence of a peptidoglycan-associated protein (PAP) in _B. burgdorferi_. Using an unbiased proteomics approach, we identified neutrophil attracting protein A (NapA) as a PAP. Interestingly, NapA is a Dps [DNA binding protein from starved bacteria] homologue, which typically functions to bind and protect cellular DNA from damage during times of stress. While _B. burgdorferi_ NapA is known to be involved in the oxidative stress response, it lacks the critical residues necessary for DNA binding. Biochemical and cellular studies demonstrate that NapA is localized to the _B. burgdorferi_ periplasm and is indeed a PAP. Cryo-electron microscopy indicates that mutant bacteria, unable to produce NapA, have structural abnormalities. Defects in cell-wall integrity impact growth rate and cause the napA mutant to be more susceptible to osmotic and PG-specific stresses. NapA-linked PG is secreted in outer membrane vesicles and augments IL-17 production, relative to PG alone. Using microfluidics, we demonstrate that NapA acts as a molecular beacon -- exacerbating the pathogenic properties of _B. burgdorferi_ PG. These studies further our understanding of the _B. burgdorferi_ cell envelope, provide critical information that underlies its pathogenesis, and highlight how a highly conserved bacterial protein can evolve mechanistically, while maintaining biological function."
+
+Author summary
+--------------
+"Diderms typically produce peptidoglycan-associated proteins (PAPs) to enhance structural integrity and continuity within the cell envelope. We have identified a PAP in _B. burgdorferi_ with structural and sequence homology to the near ubiquitous bacterial protein Dps (DNA binding protein from starved bacteria). The _B. burgdorferi_ Dps paralogue is incapable of binding DNA. Instead, it bolsters the protective properties of the PG layer, while playing an important role in host immune modulation. Collectively, our findings highlight the plasticity of bacterial proteins in that they may change how they perform a task despite maintaining the same basic biological function."
+
+After transmission from an infected tick to a human host, _B. burgdorferi_ causes an initial acute, localized infection at the site of the tick bite with a characteristic bullseye-like rash (erythema migrans). Untreated, Lyme disease can progress to later-stage complications that affect many tissues and organ systems, including joints. Persistence of arthritis in some patients is thought to be due to an immune reaction to _B. burgdorferi_-derived components after the spirochetes have been killed. _B. burgdorferi_ shed peptidoglycan, a major component of the cell wall, into its environment during growth, rather than being recycled during bacterial cell-wall turnover. The Jutras group previously identified the _B. burgdorferi_ peptidoglycan, as the immunogen likely to contribute to inflammation during infection and in cases of postinfectious Lyme arthritis (https://www.pnas.org/content/116/27/13498). Now, this group in the referenced journal article above identified a peptidoglycan-associated protein that attracts neutrophils, called neutrophil attracting protein A (NapA), as contributing to the inflammatory response. - Mod.ML]
+See Also
+2019
+----
+Lyme disease - UK: updated reporting 20190802.6601464
+2014
+----
+Lyme disease - USA (06): (NY) vaccination, comment 20140730.2646821
+Lyme disease - Canada: (NS) arthritis, children 20140405.2383959
+.................................................sb/ml/rd/ml
+</body>

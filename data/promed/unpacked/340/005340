@@ -1,0 +1,218 @@
+<header id=005340>
+Published Date: 2020-10-11 08:39:20 EDT
+Subject: PRO/AH/EDR> COVID-19 update (434): COVAX, viral Load, WHO, global
+Archive Number: 20201011.7852648
+</header>
+<body id=005340>
+CORONAVIRUS DISEASE 2019 UPDATE (434): COVAX, VIRAL LOAD, WHO, GLOBAL
+*********************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] Should diagnostic tests report COVID-19 viral load?
+[2] COVAX Platform for Vaccines
+[3] WHO: daily new cases reported (as of 10 Oct 2020)
+[4] Global update: Worldometer accessed 10 Oct 2020 22:05 EDT (GMT-4)
+
+******
+[1] Should diagnostic tests report COVID-19 viral load?
+Date: 2 Oct 2020
+Source: Science [edited]
+https://science.sciencemag.org/content/370/6512/22
+
+
+Ever since the coronavirus pandemic began, battles have raged over testing. Which tests should be given, to whom, and how often? Now, epidemiologists and public health experts are opening a new debate. They say testing centers should report not just whether a person is positive, but also a number known as the cycle threshold (CT) value, which indicates how much virus an infected person harbors.
+
+Advocates point to new research indicating that CT values could help doctors flag patients at high risk for serious disease. Recent findings also suggest the numbers could help officials determine who is infectious and should, therefore, be isolated and have their contacts tracked down. CT value is an imperfect measure, advocates concede. But whether to add it to test results "is one of the most pressing questions out there", says Michael Mina, a physician and epidemiologist at Harvard University's T H Chan School of Public Health.
+
+Standard tests identify SARS-CoV-2 infections by isolating and amplifying viral RNA using a procedure known as the polymerase chain reaction (PCR), which relies on multiple cycles of amplification to produce a detectable amount of RNA. The CT value is the number of cycles necessary to spot the virus; PCR machines stop running at that point. If a positive signal isn't seen after 37 to 40 cycles, the test is negative. But samples that turn out positive can start out with vastly different amounts of virus, for which the CT value provides an inverse measure. A test that registers a positive result after 12 rounds, for a CT value of 12, starts out with more than 10 million times as much viral genetic material as a sample with a CT value of 35.
+
+But the same sample can give different CT values on different testing machines, and different swabs from the same person can give different results. "The CT value isn't an absolute scale," says Marta Gaglia, a virologist at Tufts University. That makes many clinicians wary, Mina says. "Clinicians are cautious by nature," Mina says. "They say, 'if we can't rely on it, it's not reliable.'"
+
+In an August [2020] letter in Clinical Infectious Diseases, members of the College of American Pathologists urged caution in interpreting CT values. Nevertheless, Mina, Gaglia, and others argue that knowing whether CT values are high or low can be highly informative. "Even with all the imperfections, knowing the viral load can be extremely powerful," Mina says.
+
+Early studies showed that patients in the 1st days of infection have CT values below 30, and often below 20, indicating a high level of virus; as the body clears the coronavirus, CT values rise gradually. More recent studies have shown that a higher viral load can profoundly impact a person's contagiousness and reflect the severity of disease.
+
+In a study published this week in Clinical Infectious Diseases, researchers led by Bernard La Scola, an infectious diseases expert at IHU-Mediterranee Infection, examined 3790 positive samples with known CT values to see whether they harbored viable virus, indicating the patients were likely infectious. La Scola and his colleagues found that 70% of samples with CT values of 25 or below could be cultured, compared with less than 3% of the cases with CT values above 35. "It's fair to say that having a higher viral load is associated with being more infectious," says Monica Gandhi, an infectious diseases specialist at the University of California, San Francisco.
+
+Conversely, people often test positive for weeks or even months after they recover but have high CT values, suggesting the PCR has identified genetic material from noninfectious viral debris. Current guidelines from the Centers for Disease Control and Prevention and World Health Organization, which call for patients to isolate themselves for 10 days after onset of symptoms, recognize they are not likely to be infectious after that period. But Mina and others say the recent findings also suggest that patients who have undergone multiple tests with high CT values are likely to be at the tail end of their infections and need not isolate themselves. He adds that contact tracers should triage their efforts based on CT values. "If 100 files land on my desk [as a contact tracer], I will prioritize the highest viral loads 1st, because they are the most infectious," Mina says.
+
+Broad access to CT values could also help epidemiologists track outbreaks, Mina says. If researchers see many low CT values, they could conclude an outbreak is expanding. But if nearly all CT values are high, an outbreak is likely waning. "We have to stop thinking of people as positive or negative, and ask how positive?" Mina says.
+
+CT values could also help clinicians flag patients most at risk for severe disease and death. A report in June [2020] from researchers at Weill Cornell Medicine found that among 678 hospitalized patients, 35% of those with a CT value of 25 or less died, compared with 17.6% with a CT value of 25 to 30 and 6.2% with a CT value above 30. In August [2020], researchers in Brazil found that among 875 patients, those with a CT value of 25 or below were more likely to have severe disease or die.
+
+Gandhi agrees that having access to CT values could help clinicians identify people at high risk for developing symptoms. Nevertheless, she and others note that a high viral load doesn't necessarily lead to disease; some 40% of people who contract SARS-CoV-2 stay healthy even though they have a similar amount of virus to patients who fall ill. "As a physician, having the CT value is not the only thing I will use" to diagnose and track patients, says Chanu Rhee, a hospital epidemiologist at Brigham and Women's Hospital. "But I do still find it helpful."
+
+--
+communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The interpretation of real time PCR data remains one of the challenges in rolling out this testing methodology in laboratories that have limited experience with the technique. Understandably, the investments in the last decade and a half for improving influenza and other respiratory viruses' diagnostic capacity in Asia, Africa and South America using real time PCR testing platforms has helped improve this capacity, but expertise/competence and experience of the laboratory staff in working with different technologies as well as different commercial kits and reporting COVID-19 results remains a challenge.
+
+In this scenario, although it would arguably be difficult to start classifying patients as non-infectious, mildly infectious, and highly infectious based on CT values (CT value is the PCR cycle threshold at which the fluorescent signals are detectable in the real time instrument), it is still a qualitative marker for the viral load, and can still serve as an estimation tool at best. As to estimating whether an outbreak is waning or spreading, it can be adjunctive to the good old epidemiological line listing and investigative tools.
+
+The full article can be accessed at the URL above: Science 02 0ct 2020; Vol. 370, Issue 6512, pp. 22 DOI: 10.1126/science.370.6512.22. - Mod.UBA]
+
+******
+[2] COVAX Platform for vaccines
+Date: Fri 9 Oct 2020
+Source: Al Jazeera [edited]
+https://www.aljazeera.com/news/2020/10/9/china-joins-covax-un-backed-global-covid-19-vaccine-facility
+
+
+China has joined the WHO-backed COVAX facility, which is designed to ensure that any vaccine against COVID-19 is cost-effective and accessible to all. China has officially signed an agreement to join the World Health Organization-led COVAX facility, a global COVID-19 vaccine project to ensure poorer countries have access to life-saving vaccines.
+
+China is the largest economy to back the initiative so far. Neither the United States nor Russia has signed up. Foreign ministry spokeswoman Hua Chunying said in a statement posted to Twitter that China's decision was "an important step to uphold the concept of a shared community of health for all".
+
+The COVID-19 Vaccines Global Access Facility (COVAX) is led by WHO, the Coalition for Epidemic Preparedness Innovations (CEPI) and Gavi, the Vaccine Alliance and aims to deliver some 2 billion doses of vaccine around the world by the end of next year [2021]. COVAX will pool financial and scientific resources and bring richer countries together with 92 low- and middle-income economies such as the Philippines and Indonesia, which are eligible for financial support for the procurement of vaccines through the Gavi COVAX Advance Market Commitment (AMC). COVAX aims to develop at least 3 safe and effective vaccines that can be made available to those participating in the scheme.
+
+Earlier this month [October 2020], Antonio Guterres, the secretary-general of the United Nations, reiterated his call for a "quantum leap in support" for the global vaccine plan, saying it needs an additional USD 15 billion in funding by the end of the year [2020].
+
+China is signing up to COVAX as countries in Europe, the US and beyond battle a resurgence of the virus that 1st emerged late last year [2019] in the central Chinese city of Wuhan. The US has recorded the most cases and the most deaths but has not backed COVAX, instead securing supplies through bilateral deals.
+
+Hundreds of thousands of people in China have already been injected with experimental vaccines, with at least 3 companies there in the final stages of clinical trials. The government has said it may have a coronavirus vaccine available as early as next month [November 2020], and Hua said developing countries would be given priority. "The COVID-19 pandemic still poses a severe threat to the safety and health of people in all countries," she said. "China continues to focus on ensuring that developing countries have equal access to appropriate, safe, and effective vaccines."
+
+--
+communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[COVAX, the vaccines pillar of the Access to COVID-19 Tools (ACT) Accelerator, is co-led by the Coalition for Epidemic Preparedness Innovations (CEPI), Gavi, the Vaccine Alliance, and WHO, working in partnership with developed and developing country vaccine manufacturers. It is the only global initiative that is working with governments and manufacturers to ensure COVID-19 vaccines are available worldwide to both higher-income and lower-income countries.
+
+All participating countries, regardless of income levels, will have equal access to these vaccines once they are developed. The initial aim is to have 2 billion doses available by the end of 2021, which should be enough to protect high risk and vulnerable people, as well as frontline healthcare workers.
+
+For lower-income funded nations, who would otherwise be unable to afford these vaccines, as well as a number of higher-income self-financing countries that have no bilateral deals with manufacturers, COVAX is quite literally a lifeline and the only viable way in which their citizens will get access to COVID-19 vaccines. For the wealthiest self-financing countries, some of which may also be negotiating bilateral deals with vaccine manufacturers, it serves as an invaluable insurance policy to protect their citizens, both directly and indirectly. On the one hand, it will provide direct protection by increasing their chances of securing vaccine doses. Yet, at the same time by procuring COVID-19 vaccines through COVAX, these nations will also indirectly protect their citizens by reducing the chances of resurgence by ensuring that the rest of the world gets access to doses too [https://www.gavi.org/vaccineswork/covax-explained].
+
+In order to be able to secure enough doses of vaccines to protect the most vulnerable populations, such as health workers and the elderly, the next step for the partnership is to confirm potential self-financing participants' intent to participate by 31 Aug 2020 and to turn these into binding commitments to join the COVID-19 Vaccine Global Access Facility (COVAX Facility) by 18 Sep 2020, with the 1st upfront payments to follow thereafter, and no later than 9 Oct 2020.
+
+The COVAX Facility is a Gavi-coordinated pooled procurement mechanism for new COVID-19 vaccines through which COVAX will ensure fair and equitable access to vaccines for each participating economy, using an allocation framework currently being formulated by WHO. The COVAX Facility will do this by pooling buying power from participating economies and providing volume guarantees across a range of promising vaccine candidates, allowing those vaccine manufacturers whose expertise is essential to large scale production of the new vaccines, to make early, at-risk investments in manufacturing capacity, providing participating countries and economies with the best chance at rapid access to doses of a successful COVID-19 vaccine.
+
+The success of COVAX hinges not only on countries signing up to the COVAX Facility, but also filling key funding gaps for both COVAX R&D work and a mechanism to support participation of lower-income economies in the COVAX Facility.
+
+CEPI is leading COVAX vaccine research and development work, which aims to develop 3 safe and effective vaccines, which can be made available to countries participating in the COVAX Facility. Nine candidate vaccines are currently being supported by CEPI; 7 of which are currently in clinical trials. Governments, vaccine manufacturers (in addition to their own R&D), organizations and individuals have committed USD 1.4 billion towards vaccine R&D so far, but an additional USD one billion is urgently needed to continue to move the portfolio forward.
+
+A further 9 candidate vaccines, which complement the current CEPI portfolio, are currently being evaluated for inclusion in COVAX. Furthermore, COVAX will consider procuring vaccines that complement the portfolio from any producer in the world; conversations are already underway with a number of additional manufacturers not receiving R&D support from CEPI to procure their vaccines if they are successful. Maximizing the portfolio of vaccines increases the probability of success, as individual vaccines historically have a high failure rate (https://www.who.int/news-room/detail/24-08-2020-172-countries-and-multiple-candidate-vaccines-engaged-in-covid-19-vaccine-global-access-facility). - Mod.UBA]
+
+******
+[3] WHO: daily new cases reported (as of 10 Oct 2020)
+Date: Sat 10 Oct 2020
+Source: WHO [abridged, edited]
+https://covid19.who.int/table
+
+
+*Daily case reports as of 10 Oct 2020 15:36 CEST
+
+Surveillance
+------------
+WHO region (no. countries/territories):
+Total confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+------------------------
+Western Pacific Region (19): 648 453 (4380) / 14 170 (99)
+European Region (61): 6 809 678 (123 684) / 245 991 (1160)
+South East Asia Region (10): 7 823 832 (82 273) / 125 842 (1081)
+Eastern Mediterranean Region (22): 2 585 780 (18 646) / 65 894 (418)
+Region of the Americas (54): 17 662 955 (150 202) / 585 834 (5645)
+African Region (49): 1 222 956 (4174) / 27 094 (172)
+Cases on an international conveyance (Diamond Princess): 741 (0) / 13 (0)
+Confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+Grand total: 36 754 395 (383 359) / 1 064 838 (8575)
+
+--
+communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The number of countries and territories reporting confirmed cases of COVID-19 to WHO remains at 216.
+
+Data by country, area, or territory for 9 Oct 2020 can be accessed at https://promedmail.org/wp-content/uploads/world-pdf/WHO%20daily%20tablesOct10_1602402302.pdf.
+
+- The Americas region reported 39.2% of daily case numbers and 65.8% of the daily deaths reported in the past 24 hours, maintaining its position as the most severely affected region, having reported more than 17.6 million cases. The USA and Brazil maintain their dominance, followed by Mexico, Argentina, Colombia, and Peru. Other countries reporting more than 1000 cases in the past 24 hours include Canada, Chile, and Costa Rica (Ecuador did not report cases for the last 24 hours). Case reports continue to rebound as expected as one gets away from weekend reporting artifacts (soon to begin again).
+
+- The European region reported 32.3% of daily case numbers and 13.5% of the daily deaths reported in the past 24 hours, and total cumulative cases reported exceed 6.8 million. Countries not reporting cases today (10 Oct 2020) include Kazakhstan, Hungary, and Montenegro. France is dominant, followed by the UK, Spain, Russia, Netherlands, Ukraine, Czech Republic, Germany, Italy, Poland, and Romania. Other countries reporting more than 1000 cases in the past 24 hours include Turkey, Portugal, Austria, Hungary, Switzerland, the Republic of Moldova and Slovakia.
+
+- The Eastern Mediterranean region reported 4.8% of daily case numbers and 4.8% of the deaths reported in the past 24 hours, having reported a cumulative total of greater than 2.5 million cases. Iran is dominant, followed closely by Morocco, Iraq, Lebanon, Jordan, UAE, and Libya (Tunisia cases not reported). Other countries reporting more than 500 but fewer than 1000 cases include Pakistan, and Kuwait.
+
+- The African region reported 1.1% of daily case numbers and 2.0% of the deaths reported in the past 24 hours and has reported more than 1.2 million cases. South Africa is dominant, followed by Ethiopia, Kenya, Uganda, Mozambique, Algeria, Ghana, Nigeria, Angola and Cabo Verde.
+
+- The Western Pacific region reported 1.1% of daily case numbers and 1.2% of the deaths reported in the past 24 hours, having reported a cumulative total of 0.64 million cases. As previously, the Philippines maintains its dominance, followed by Japan, Malaysia, Guam, and South Korea.
+
+- The South East Asia region reported 21.5% of the daily newly reported cases and 12.6% of reported deaths in the past 24 hours, having reported a cumulative total of more than 7.8 million cases. As previously, India remains dominant, followed by Indonesia, Nepal, Bangladesh, and Myanmar.
+
+On the Overview tab at the WHO source URL, the epidemic curve of confirmed COVID-19 cases by WHO region, 30 Dec 2019 through 10 Oct 2020 is an excellent visual representation of the pandemic. - Mod.UBA]
+
+******
+[4] Global update: Worldometer accessed 10 Oct 2020 21:50 EDT (GMT-4)
+Date: Sat 10 Oct 2020
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at https://promedmail.org/wp-content/uploads/world-pdf/OCT10DATASET_1602402460.pdf.
+
+A 7-day series of cumulative data reported by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/OCT10WORLD7_1602402498.pdf. - Mod.UBA]
+
+Total number of reported deaths: 1 077 458
+Total number of worldwide cases: 37 459 161
+Number of newly confirmed cases in the past 24 hours: 360 006
+
+--
+communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[India, the USA, and Brazil are still the most severely affected countries in terms of cumulative case counts and daily new case confirmations, with India in the 2nd position in terms of cumulative case counts and dominating in terms of newly reported cases. In the past 24 hours, these 3 countries -- India (74 535), followed by the USA (51 027), and Brazil (34 650) -- have maintained their dominance. A global total of 4853 deaths were reported in the past 24 hours (9-10 Oct 2020).
+
+Countries reporting more than 5000 newly confirmed cases in the past 24 hours (15 countries) include India, USA, Brazil, France (26 896), Argentina (12 414), UK (15 165), Russia (12 846), Colombia (8447), Spain (0), Netherlands (6499), Ukraine (5728), Italy (5724), Belgium (5385), Poland (5300), Mexico (5263) and Nepal (5008). A total of 41 countries have reported more than 1000 cases in the past 24 hours; 19 of the 41 countries reporting more than 1000 newly confirmed cases are from the European region, 8 were from the Americas region, and 7 were from the Eastern Mediterranean region.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, there is an increase in case counts by 12.3%, while daily reported deaths have increased by 0.30%.
+
+Impression: Global 7-day averages have increased with reports from the past 72 hours. There is still an apparent, though lesser, decline in reports from India and Brazil. A common observation is that while there are increases in reported cases, the decrease in reported deaths is stabilizing, but keeping the transmission dynamics, it would not be surprising to see an increase in deaths in 3-4 weeks following the increase in cases (see section [1] above). - Mod.UBA]
+See Also
+COVID-19 update (433): animal, Denmark (ND,MJ) farmed mink, spread, control 20201010.7851707
+COVID-19 update (432): transmission and age, South Asia, WHO, global 20201010.7850554
+COVID-19 update (431): saliva antibodies, remdesivir, WHO, global 20201009.7847920
+COVID-19 update (430): animal, USA (UT) mink 20201009.7847704
+COVID-19 update (429): long term effects, neuro, WHO, global 20201008.7846058
+COVID-19 update (428): POC test, airborne trans, mitigation impact, WHO, global 20201007.7842239
+COVID-19 update (427): common cold, reinfection, WHO, global 20201006.7839500
+COVID-19 update (426): rapid POC tests, older adult vaccine, WHO, global 20201005.7836586
+COVID-19 update (425): animal, Denmark (ND) farmed mink, spread, control 20201004.7835635
+COVID-19 update (424): air travel, India, CSF leakage, WHO, global 20201004.7835129
+COVID-19 update (423): Parkinson's disease, MIS-A, WHO, global 20201003.7832664
+COVID-19 update (422): obesity & severity, cluster busting, WHO, global 20201002.7830244
+COVID-19 update (421): safer indoors, Spain WHO, global 20201001.7828012
+COVID-19 update (420): ECMO, USA serosurvey, WHO, global 20200930.7824510
+COVID-19 update (410): ACE inhibitors and ARBs, WHO COVAX plan, WHO, global 20200922.7801717
+COVID-19 update (400): lockdowns, influenza co-infections WHO, global 20200914.7776512
+COVID-19 update (350): USA (TX) animal, cat 20200808.7658191
+COVID-19 update (300): Korea antibodies, China asymptomatic index case, WHO 20200703.7536146
+COVID-19 update (250): selected countries 20200610.7448037
+COVID-19 update (200): global, Yemen, WHO 20200522.7364937
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+Undiagnosed pediatric inflammatory syndrome (05): Europe, USA, COVID-19 assoc 20200518.7340554
+Undiagnosed pediatric inflammatory syndrome (04): USA, UK, PMIS, fatal 20200509.7315405
+Undiagnosed pediatric inflammatory syndrome (03): USA, Europe, COVID-19 susp, RFI 20200505.7299876
+COVID-19 update (150): global, USA state prisons, WHO 20200502.7290671
+COVID-19 update (100): China, S. Korea & high local transmission countries 20200413.7217806
+COVID-19 update (50): China (Hong Kong) animal dog, 2nd case PCR positive, OIE 20200323.7129951
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (41): China, global, clinical pics, asymptomatic trans., WHO 20200210.6976117
+Novel coronavirus (40): animal reservoir, pangolin poss intermediate host, RFI 20200210.6972104
+Novel coronavirus (30): updates, China, Viet Nam, research 20200202.6945658
+Novel coronavirus (20): China, wildlife trade ban 20200127.6922060
+Novel coronavirus (10): China (HU, GD, BJ) 20200119.6898567
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia: China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia: China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+---
+Undiagnosed pneumonia: China (HU): RFI 20191230.6864153
+and other items in the archives
+.................................................sb/uba/msp/sh
+</body>

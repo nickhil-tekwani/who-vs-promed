@@ -1,0 +1,65 @@
+<header id=030167>
+Published Date: 2022-04-25 11:09:57 EDT
+Subject: PRO/AH/EDR> Ebola update (03): Congo DR (EQ)
+Archive Number: 20220425.8702834
+</header>
+<body id=030167>
+EBOLA UPDATE (03): DEMOCRATIC REPUBLIC OF CONGO (EQUATEUR)
+**********************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+Date: Sat 23 Apr 2022
+Source: Virological.org [edited]
+https://virological.org/t/april-2022-ebola-virus-disease-case-in-equateur-province-drc-represents-a-new-spillover-event/795
+
+
+April 2022 Ebola virus disease case in Equateur Province, DRC, represents a new spillover event
+--------------------------------------------------------------------------------
+Context
+-------
+On 23 Apr 2022, the Minister of Public Health, Hygiene, and Prevention announced a new case of Ebola virus disease (EVD) occurring in Mbandaka health zone in Equateur Province, Democratic Republic of the Congo (DRC). EVD outbreaks occurred previously in Equateur Province in 2018 and 2020 [see ProMED 20200601.7416123].
+
+The 31-year-old male, a student from Boende in Tshuapa Province, returned to Mbandaka, Equateur Province on 25 Feb 2022. He was vaccinated against Ebola virus in 2020 and is not known to be an EVD survivor. Symptom onset occurred on 5 Apr 2022 with fever and headache, which were treated at home. He was admitted to the Bongisa Libota Health Center in Mbandaka on 16 Apr 2022, where he was hospitalized for 3 days, before being transferred on 19 Apr 2022 to the Wangata General Reference Hospital in Mbandaka. On 21 Apr 2022, signs of haemorrhagic fever appeared, and the patient was placed in isolation at the Wangata Ebola treatment center as a suspected EVD patient but died the same day.
+
+Blood and swab samples were taken, which tested positive for Ebola virus at the Mbandaka provincial laboratory on 21 Apr 2022. The 2 samples were sent to the Institut National Recherche Biomedicale (INRB) in Kinshasa where Ebola virus was confirmed by GeneXpert on 23 Apr 2022.
+
+Sequencing
+----------
+The blood and oral swab samples were sequenced at the Pathogen Genomics Laboratory at INRB-Kinshasa on an Oxford Nanopore Technologies GridION. Sequencing libraries were prepared using an amplicon sequencing approach (Mbala-Kingebeni, 2021; Grubaugh et al., 2019; Quick et al. 2017), generating identical genomes with 98.3% and 96.7% genome coverage.
+
+The 2 genomes were identical and the genome with highest coverage (22MBK0001) was aligned with genomes from prior sequenced Ebola virus disease outbreaks using MAFFT (Katoh, 2013). A phylogenetic tree was inferred using RAxML (Stamatakis, 2014; Figure 1 [available at the source URL above]: Maximum likelihood phylogenetic tree of all EVD outbreaks, midpoint rooted, including genome sequences from the Equateur 2018 (blue), Equateur 2020 (green), and new Equateur 2022 (red) outbreaks). The new genome was most closely related to the Equateur 2020 outbreak but fell outside the outbreak clade, indicating that this case represents a new spillover event from the host reservoir and is not directly linked to the Equateur 2018 or Equateur 2020 EVD outbreaks. Further epidemiologic investigations are ongoing.
+
+[Byline: Catherine Pratt]
+
+--
+Communicated by:
+Kristian Andersen
+Scripps Research, California
+via
+Mary Marshall
+<mjm2020@googlemail.com>
+
+[Ebola virus is enzootic in the DRC and elsewhere in Africa. Spillover events can occur when villagers interact with wildlife infected with the virus, as in capturing and butchering bushmeat for consumption. Further investigation may clarify the vertebrate from which the virus was transmitted; bats are frequently implicated. A number of studies have tried to identify factors associated with the transmission of the virus from the maintenance to the intermediate or target hosts. For a recently published study using a Geographic Information System-based multicriteria evaluation (GIS-MCE), see
+Lee-Cruz L, Lenormand M, Cappelle J, et al. Mapping of Ebola virus spillover: Suitability and seasonal variability at the landscape scale. PLoS Negl Trop Dis. 2021; 15(8): e0009683; https://doi.org/10.1371/journal.pntd.0009683
+--------------------------------------------------------------------------------
+Abstract
+--------
+"The unexpected Ebola virus outbreak in West Africa in 2014 involving the Zaire ebolavirus made clear that other regions outside Central Africa, its previously documented niche, were at risk of future epidemics. The complex transmission cycle and a lack of epidemiological data make mapping areas at risk of the disease challenging. We used a Geographic Information System-based multicriteria evaluation (GIS-MCE), a knowledge-based approach, to identify areas suitable for Ebola virus spillover to humans in regions of Guinea, Congo, and Gabon where Ebola viruses already emerged. We identified environmental, climatic and anthropogenic risk factors and potential hosts from a literature review. Geographical data layers, representing risk factors, were combined to produce suitability maps of Ebola virus spillover at the landscape scale. Our maps show high spatial and temporal variability in the suitability for Ebola virus spillover at a fine regional scale. Reported spillover events fell in areas of intermediate to high suitability in our maps, and a sensitivity analysis showed that the maps produced were robust. There are still important gaps in our knowledge about what factors are associated with the risk of Ebola virus spillover. As more information becomes available, maps produced using the GIS-MCE approach can be easily updated to improve surveillance and the prevention of future outbreaks."
+- Mod.LK
+
+ProMED map:
+Mbandaka, Équateur, DR Congo: https://promedmail.org/promed-post?place=8702834,934]
+See Also
+Ebola update (02): Congo DR (EQ) 20220424.8702804
+2020
+----
+Ebola update (53): Congo DR (EQ) outbreak over, pathogenesis 20201118.7946079
+Ebola update (25): Congo DR (EQ, NK) cases, response WHO, new spillover 20200606.7432964
+Ebola update (23): Congo DR (EQ) outbreak 20200601.7416123
+and other items in the archives
+.................................................lk/mj/lxl
+</body>

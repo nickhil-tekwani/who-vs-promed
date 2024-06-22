@@ -1,0 +1,321 @@
+<header id=037881>
+Published Date: 2020-10-10 08:01:42 EDT
+Subject: PRO/AH/EDR> COVID-19 update (432): transmission and age, South Asia, WHO, global
+Archive Number: 20201010.7850554
+</header>
+<body id=037881>
+CORONAVIRUS DISEASE 2019 UPDATE (432): USA TRANSMISSION AND AGE, SOUTH ASIA, WHO, GLOBAL
+****************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] USA: Transmission dynamics by age-group in hotspot counties
+[2] From our regional networks: South Asia
+[3] WHO: daily new cases reported (as of 9 Oct 2020)
+[4] Global update: Worldometer accessed 9 Oct 2020 21:50 EDT (GMT-4)
+
+******
+[1] USA: Transmission dynamics by age-group in hotspot counties
+Date: Fri 9 Oct 2020
+Source: Morbidity and Mortality Weekly Report [edited]
+https://www.cdc.gov/mmwr/volumes/69/wr/mm6941e1.htm?s_cid=mm6941e1_w
+
+
+ref: Oster AM, Caruso E, DeVies J, et al. Transmission dynamics by age group in COVID-19 hotspot counties -- United States, April-September 2020. MMWR Morb Mortal Wkly Rep. Epub 9 Oct 2020. http://dx.doi.org/10.15585/mmwr.mm6941e1
+
+The Centers for Disease Control and Prevention (CDC) works with other federal agencies to identify counties with increasing coronavirus disease 2019 (COVID-19) incidence (hotspots) and offers support to state, tribal, local, and territorial health departments to limit the spread of SARS-CoV-2, the virus that causes COVID-19 (1). Understanding whether increasing incidence in hotspot counties is predominantly occurring in specific age-groups is important for identifying opportunities to prevent or reduce transmission. The percentage of positive SARS-CoV-2 reverse transcription-polymerase chain reaction (RT-PCR) test results (percent positivity) is an important indicator of community transmission (https://www.cdc.gov/coronavirus/2019-ncov/lab/resources/calculating-percent-positivity.html; https://www.whitehouse.gov/openingamerica/). CDC analyzed temporal trends in percent positivity by age-group in COVID-19 hotspot counties before and after their identification as hotspots. Among 767 hotspot counties identified during June and July 2020, early increases in the percent positivity among persons aged 24 years or younger were followed by several weeks of increasing percent positivity in persons aged 25 years or older. Addressing transmission among young adults is an urgent public health priority.
+
+Hotspot counties were identified by applying previously described standardized criteria to detect counties that had more than 100 cases during the past 7 days and experienced increases in cases in the preceding 3-7 days (1). Counties identified as hotspots during 1 Jun 2020 through 31 Jul 2020 that had not met hotspot criteria in the previous 21 days were included. SARS-CoV-2 RT-PCR test results were obtained from data submitted by state health departments and laboratories.* Percent positivity was calculated by dividing the number of positive test results by the sum of positive and negative test results for each age-group (0-17, 18-24, 25-44, 45-64, and 65+ years) for the 45 days before and 45 days after hotspot detection (spanning April-September 2020) based on specimen collection or test order date. Data were presented using a 7-day moving average. Results were aggregated across all hotspot counties and stratified by age-group. Analyses were conducted using R software (version 3.6.0; The R Foundation).
+
+The 767 hotspot counties detected 1 Jun 2020 through 31 Jul 2020 represented 24% of all US counties and 63% of the US population. Percent positivity among persons aged 0-17 and 18-24 years began increasing 31 days before hotspot identification. Increases in percent positivity among older age-groups began after the increases in younger age-groups: among adults aged 25-44 years, 45-64 years, and 65+ years, increases began 28 days, 23 days, and 20 days, respectively, before hotspot identification (Figure 1). At the time of hotspot detection, the highest percent positivity was among persons aged 18-24 years (14%), followed by those aged 0-17 years (11%), 25-44 years (10%), 45-64 years (8%), and 65+ years (6%). Percent positivity among persons aged 18-24 years was near its peak of 15% by the date of hotspot detection; however, among other age-groups, percent positivity continued to increase for 21-33 days after hotspot detection, peaking at 10%-14%, and the decline for other age-groups was slower than that for persons aged 18-24 years.
+
+Important differences were identified when analyzing percent positivity by US Census region (https://www2.census.gov/geo/pdfs/maps-data/maps/reference/us_regdiv.pdf; Figure 2). Trends by age for hotspot counties in the South (488 counties) and West (98 counties) aligned with national trends, although percent positivity was higher in the South than in the West for all age-groups. In hotspot counties in the Midwest (134 counties), percent positivity among persons aged 18-24 years peaked before hotspot detection, and percent positivity increased minimally in other age-groups. In hotspot counties in the Northeast (47 counties), there was a small increase in percent positivity among persons aged 18-24 years but minimal or no increases in other age-groups.
+
+In hotspot counties, particularly those in the South and West, percent positivity increased earliest in younger persons, followed by several weeks of increasing percent positivity among older age-groups. An increase in the percentage of positive test results in older age-groups is likely to result in more hospitalizations, severe illnesses, and deaths (https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/older-adults.html). These findings corroborate regional patterns in the southern USA, where increased percent positivity among adults aged 20-39 years preceded increases among those aged 60 years and older (2); provide evidence that among young adults, those aged 18-24 years demonstrate the earliest increases in percent positivity; and underscore the importance of reducing transmission from younger populations to those at highest risk for severe illness or death. There is an urgent need to address transmission among young adult populations, especially given recent increases in COVID-19 incidence among young adults (3). These data also demonstrate the urgency of healthcare preparedness in hotspot counties,** which are likely to experience increases in COVID-19 cases and hospitalizations among older populations in the weeks after meeting hotspot criteria.
+
+*SARS-CoV-2 RT-PCR testing data were obtained from COVID-19 electronic laboratory reporting data submitted by state health departments for 37 states and from data submitted directly by a subset of public health, commercial, and reference laboratories (representing approximately 50% of all tests) for 13 states and the District of Columbia. The data might not include results from all testing sites within a jurisdiction (e.g., point-of-care test sites) and therefore reflect the majority, but not all, SARS-CoV-2 RT-PCR tests in the USA. The data represent laboratory test totals (not individual persons) and exclude antibody and antigen tests.
+
+**CDC and other federal agencies that monitor trends in COVID-19 are collaborating to refine approaches to define and track hotspots. As a result, terminology or definitions used in future reports might differ from the terminology used in this report.
+
+[Figures and references can be found at the source URL.]
+
+--
+communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[These analyses confirm the observations that have been made during the increasing hotspots in the USA and in other countries: The younger age-groups have been affected earlier on, many of whom have mild or no disease, and several weeks later there is the increase in hospitalizations and severe disease presentations to the hospitals. While the study shows an approximate 8-day interval before increases in cases between the younger age-group and older age-group, add an additional 10-14 days before the severe symptoms manifest themselves; thus, there is an apparent lag of approximately 3 weeks between the start of the "hotspot" and the recognition through increased hospitalizations and severe diseases, and add another 10-14 days before the increase in deaths is reported. This would explain somewhat how during the 1st waves in European countries and in New York City and Washington State, when the increase in hospitalizations was noted, the number of infected individuals and community transmission had "skyrocketed", overwhelming the health infrastructures.
+
+The sobering statistic is that the increase in cases (transmission) among the 0-17 and 18-24 year age-groups began an average of 31 days before the hotspot was identified/recognized. We are now a few weeks into the reopening of schools, including universities, thereby gathering 0-17 and 18-24 year-olds...it is not surprising that transmission increases have been noticed with new hotspots cropping up around the country, especially with a significant amount of community transmission ongoing in the background. Can these be identified earlier with implementation of "cluster busting" strategies to prevent the 2nd waves being as devastating as the 1st waves? (see COVID-19 update (422): obesity & severity, cluster busting, WHO, global 20201002.7830244 for a discussion on cluster busting strategy). - Mod.MPP]
+
+******
+[2] From our regional networks: South Asia
+Date: Fri 9 Oct 2020
+Source: ProMED-SoAs [edited]
+https://promedmail.org/?lang=soas
+
+
+COVID-19 update (142): South Asia [in press]
+In this update:
+[A] Afghanistan
+[B] Bangladesh
+[C] India
+[D] Sri Lanka
+
+******
+[A] Afghanistan
+Date: Thu 8 Oct 2020 15:04 AFT
+Source: The Khaama Press [edited]
+https://www.khaama.com/afghanistan-reports-68-new-cases-of-covid-19-987822/
+
+
+The Ministry of Public Health reported on Thursday [8 Oct 2020] that out of 372 samples, 68 cases have turned positive in the last 24 hours. At least 113 392 people have so far been tested in the governmental labs, and there still are 5088 known active cases in the country. According to the ministry, within 24 hours, 13 individuals have recovered from COVID-19, and one individual is reported dead.
+
+[The new cases recorded are in Kabul (16), Herat (50), Logar (1), and Kandahar (1).]
+
+The total number of cases in Afghanistan is 39 616, total deaths are 1470, and the total recoveries are recorded 33 058.
+
+[byline: Mohammad Haroon Alim]
+
+--
+communicated by:
+ProMED-SoAs
+<promed-SoAs@promedmail.org>
+
+[Maps of Afghanistan: http://www.lib.utexas.edu/maps/middle_east_and_asia/afghanistan_admin-2009.jpg and https://promedmail.org/promed-post?place=7850554,137]
+
+---
+[B] Bangladesh
+Date: Thu 8 Oct 2020 15:36 BST
+Source: bdnews24.com [abridged, edited]
+https://bdnews24.com/bangladesh/2020/10/08/bangladesh-records-20-new-virus-deaths-caseload-jumps-by-1441
+
+
+Bangladesh has registered 20 new fatalities from the novel coronavirus infection [COVID-19] in a daily count, taking the death toll to 5460. The caseload jumped to 374 592 after 1441 people tested positive for COVID-19 in the 24 hours to 8 am [Thu 8 Oct 2020], the government said.
+
+The number of recoveries outpaced active cases in the same period as another 1685 patients recovered from COVID-19 through treatment at home and in hospital care. It brings the total to 288 316.
+
+A total of 12 605 samples were tested at 109 authorised labs across the country in the last 24 hours, with a positivity rate of 11.43%, according to data released by the health directorate. The official figures put the recovery rate at 76.97%, while the mortality rate stands at 1.46%.
+
+--
+communicated by:
+ProMED-SoAs
+<promed-SoAs@promedmail.org>
+
+[The daily case-positivity percentage of COVID-19 against the total number of samples tested in Bangladesh remains stable, in the vicinity of 12% over the last week or so. - Mod.PKB
+
+Maps of Bangladesh: http://tinyurl.com/bw2fuve and https://promedmail.org/promed-post?place=7850554,153]
+
+---
+[C] India
+Date: Fri 9 Oct 2020 07:55 IST
+Source: The Times of India [TOI], Times News Network (TNN) [abridged, edited]
+https://timesofindia.indiatimes.com/india/covid-positivity-rates-of-22-states-below-national-average/articleshow/78564347.cms
+
+
+In line with World Health Organisation (WHO) recommendation, almost all states and UTs [Union Territories] in India are testing more than 140 samples "per day per million population", the health ministry said, underlining higher testing on a sustained basis has aided in bringing down the positivity rate.
+
+The national cumulative positivity rate declined over the last 11 days to 8.2%. Currently, 6 states and one UT have a less than 5% positivity rate, whereas 22 are below the national average, indicating the rate of infection spread is being contained in many parts. The national average of tests per day per million population stands at 865.
+
+India has conducted 60 323 tests per million population so far, whereas US has done 344 858 and Brazil -- which has the 3rd highest number of total COVID-19 cases reported so far -- has performed 84 051 tests per million population.
+
+Bihar, Mizoram, Gujarat, Jharkhand, Uttar Pradesh, Dadra & Nagar Haveli, and Himachal Pradesh have cumulative positivity rates of below 5%. India has stepped up its testing capacity over the last 6 months with over 1900 laboratories under the ICMR [Indian Council of Medical Research] network including government and private labs.
+
+The country's testing capacities have multiplied manifold and more than 15 lakh [1.5 million] samples can be tested every day now. With 1 194 321 tests on Wednesday [7 Oct 2020], the cumulative tests in India have now crossed 8.34 crore [83.4 million]. Higher testing across wide regions leads to early identification of positive cases, prompt tracking through efficient surveillance and tracing, and timely and effective treatment in homes or facilities and in hospitals for the severe cases, the ministry said.
+
+These measures in tandem eventually lead to lower mortality rate, it added. Helped by more recoveries and fewer new cases, the active case load remained below 10 lakh [1 million] for the 17th day on Wednesday [7 Oct 2020]. A total of 78 524 new confirmed cases were reported during Wednesday [7 Oct 2020], whereas 83 011 people were discharged on recovery.
+
+[byline: Sushmi Dey]
+
+--
+communicated by:
+ProMED-SoAs
+<promed-SoAs@promedmail.org>
+
+[As indicated in the news report above, the daily case-positivity percentage of COVID-19 cases against a massive number of samples tested, the overall daily positive and active cases in India are now on a declining trend, suggesting that the disease in the country might have already passed its peak. The updated information on the distribution of active cases, cured/discharged/migrated cases, deaths, and total confirmed cases attributed to COVID-19 in India by states and union territories can be seen at https://www.mohfw.gov.in/ and by clicking on COVID-19 Statewise Status. - Mod.PKB
+
+Maps of India: http://www.mapsofindia.com/maps/india/india-political-map.htm and https://promedmail.org/promed-post?place=7850554,142]
+
+---
+[D] Sri Lanka
+Date: Thu 8 Oct 2020 22:15 IST
+Source: Daily Mirror [edited]
+http://www.dailymirror.lk/breaking_news/COVID-19-cases-from-Minuwangoda-cluster-increased-to-1-053/108-197502
+
+
+Another employee at Brandix apparel factory in Minuwangoda and 8 close associates of factory employees have tested positive for COVID-19, increasing the number of cases from the Minuwangoda cluster to 1053, the Government Information Department said.
+
+--
+communicated by:
+ProMED-SoAs
+<promed-SoAs@promedmail.org>
+
+[Maps of Sri Lanka: http://www.mapsopensource.com/images/sri-lanka-districts-map.gif and https://promedmail.org/promed-post?place=7850554,144
+
+The South Asian COVID-19 situation, according to data from Worldometer (https://www.worldometers.info/coronavirus/) as of 9 Oct 2020 at 05:30 GMT:
+
+Country: Total cases / Total deaths / Deaths per million population
+India: 6 906 151 / 106 521 / 77
+Bangladesh: 374 592 / 5460 / 33
+Pakistan: 317 595 / 6552 / 30
+Nepal: 98 617 / 590 / 20
+Afghanistan: 39 616 / 1470 / 38
+Maldives: 10 742 / 34 / 63
+Sri Lanka: 4488 / 13 / 0.6
+Bhutan: 304 / 0 / -
+
+To compare the situation in South Asian countries above with previous disease data, readers are referred to the archives below:
+
+2 Oct 2020 at 06:09 GMT: 20201002.7830222
+25 Sep 2020 at 06:03 GMT: 20200925.7811558
+18 Sep 2020 at 04:55 GMT: 20200918.7791805
+11 Sep 2020 at 06:28 GMT: 20200911.7768020
+4 Sep 2020 at 05:46 GMT: 20200904.7745644
+28 Aug 2020 at 06:25 GMT: 20200830.7724555
+21 Aug 2020 at 06:33 GMT: 20200822.7701213
+14 Aug 2020 at 02:38 GMT: 20200815.7676465
+7 Aug 2020 at 03:02 GMT: 20200809.7653320
+31 Jul 2020 at 12:08 GMT: 20200731.7630191
+24 Jul 2020 at 05:14 GMT: 20200724.7606708
+17 Jul 2020 at 05:16 GMT: 20200717.7583563
+10 Jul 2020 at 08:35 GMT: 20200710.7559716
+3 Jul 2020 at 05:42 GMT: 20200703.7535367
+26 Jun 2020 at 06:11 GMT: 20200627.7511829
+19 Jun 2020 at 06:47 GMT: 20200620.7486580
+12 Jun 2020 at 06:49 GMT: 20200613.7460702
+5 Jun 2020 at 07:04 GMT: 20200606.7429525
+29 May 2020 at 07:07 GMT: 20200529.7392910
+22 May 2020 at 06:18 GMT: 20200522.7364852
+15 May 2020 at 06:24 GMT: 20200515.7338409
+8 May 2020 at 06:20 GMT: 20200508.7312471
+1 May 2020 at 8:36 GMT: 20200501.7287142
+24 Apr 2020 at 14:53 GMT: 20200426.7262474
+17 Apr 2020 at 12:13 GMT: 20200418.7234555
+10 Apr 2020 at 8:06 GMT: 20200410.7207231
+
+The lowest number of confirmed cases recorded so far is from Bhutan, and there is no mortality attributed to COVID-19 reported from the country. It is the only country left so far in South Asia with no COVID-19 deaths reported. - Mod.PKB]
+
+[ProMED-mail has multiple regional networks covering the COVID-19 pandemic and other diseases and events of interest occurring in the regions at times in greater detail than covered on the ProMED-mail global list. There is ProMED-ESP covering the Spanish-speaking countries (in Spanish), ProMED-PORT covering the Portuguese countries (in Portuguese), ProMED-RUS covering the Russian-speaking countries (present and former, in Russian), ProMED-MBDS covering the Mekong Basin Countries (Cambodia, China - Yunnan and Guanxi, Laos, Myanmar, Thailand and Viet Nam) in English, ProMED-FRA covering Francophone Africa (in French), ProMED-EAFR covering the English-speaking countries in Africa, ProMED-MENA covering the Middle East and North African countries (in English with Arabic summaries) and ProMED-SoAs covering the South Asian countries.
+
+The above is a post going out today (10 Oct 2020) on the ProMED-SoAs network and covers the current situations in 4 of the South Asian countries with references to prior such updates that can be found in our archives. - Mod.MPP]
+
+******
+[3] WHO: daily new cases reported (as of 9 Oct 2020)
+Date: Fri 9 Oct 2020
+Source: WHO [abridged, edited]
+https://covid19.who.int/table
+
+
+*Daily case reports as of 9 Oct 2020 15:36 CEST
+
+Surveillance
+------------
+WHO region (no. countries/territories):
+Total confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+------------------------
+Western Pacific Region (19): 644 073 (3431) / 14 071 (154)
+European Region (61): 6 676 012 (109 749) / 244 754 (950)
+South East Asia Region (10): 7 741 559 (82 284) / 124 761 (1129)
+Eastern Mediterranean Region (22): 2 567 134 (21 666) / 65 476 (493)
+Region of the Americas (54): 17 512 753 (127 250) / 580 189 (3282)
+African Region (49): 1 218 782 (6386) / 26 922 (331)
+Cases on an international conveyance (Diamond Princess): 741 (0) / 13 (0)
+Confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+Grand total: 36 361 054 (350 766) / 1 056 186 (6339)
+
+--
+communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The number of countries and territories reporting confirmed cases of COVID-19 to WHO remains at 216.
+
+Data by country, area, or territory for 9 Oct 2020 can be accessed at https://promedmail.org/wp-content/uploads/world-pdf/WHO%20daily%20tablesOct9_1602274110.pdf.
+
+- The Americas region reported 36.3% of daily case numbers and 51.8% of the daily deaths reported in the past 24 hours, maintaining its position as the most severely affected region, having reported more than 17.5 million cases. The USA and Brazil maintain their dominance, followed by Argentina, Colombia, Mexico, and Peru. Other countries reporting more than 1000 cases in the past 24 hours include Canada, Chile, Ecuador, and Costa Rica. Case reports continue to rebound as expected as one gets away from weekend reporting artifacts (soon to begin again).
+
+- The European region reported 31.3% of daily case numbers and 15.0% of the daily deaths reported in the past 24 hours, and total cumulative cases reported exceed 6.6 million. Countries not reporting cases today (9 Oct 2020) include Israel, Kazakhstan, Belgium, and Sweden. France is dominant, followed by the UK, Spain, Russia, Netherlands, Ukraine, Czech Republic, Germany, Italy, Poland, and Romania. Other countries reporting more than 1000 cases in the past 24 hours include Turkey, Portugal, Austria, Hungary, Switzerland, the Republic of Moldova and Slovakia.
+
+- The Eastern Mediterranean region reported 6.2% of daily case numbers and 7.8% of the deaths reported in the past 24 hours, having reported a cumulative total of greater than 2.5 million cases. Iran is dominant, followed closely by Iraq, Morocco, Tunisia, Lebanon, Jordan, and UAE. Other countries reporting more than 500 but fewer than 1000 cases include Libya, Kuwait and Oman.
+
+- The African region reported 1.8% of daily case numbers and 5.2% of the deaths reported in the past 24 hours and has reported more than 1.2 million cases. South Africa is dominant (not having reported cases yesterday - 8 Oct 2020), followed by Ethiopia, Kenya, Uganda, Mozambique, Algeria, Ghana and Nigeria.
+
+- The Western Pacific region reported 0.98% of daily case numbers and 2.4% of the deaths reported in the past 24 hours, having reported a cumulative total of 0.64 million cases. As previously, the Philippines maintains its dominance, followed by Japan, Malaysia, Guam, and South Korea.
+
+- The South East Asia region reported 23.5% of the daily newly reported cases and 17.8% of reported deaths in the past 24 hours, having reported a cumulative total of more than 7.7 million cases. As previously, India remains dominant, followed by Indonesia, Nepal, Bangladesh, and Myanmar.
+
+On the Overview tab at the WHO source URL, the epidemic curve of confirmed COVID-19 cases by WHO region, 30 Dec 2019 through 9 Oct 2020 is an excellent visual representation of the pandemic. - Mod.MPP]
+
+******
+[4] Global update: Worldometer accessed 9 Oct 2020 21:50 EDT (GMT-4)
+Date: Fri 9 Oct 2020
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at https://promedmail.org/wp-content/uploads/world-pdf/OCT9DATASET_1602297559.pdf.
+
+A 7-day series of cumulative data reported by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/OCT9WORLD7_1602298278.pdf. - Mod.MPP]
+
+Total number of reported deaths: 1 072 605
+Total number of worldwide cases: 37 099 134
+Number of newly confirmed cases in the past 24 hours: 354 785
+
+--
+communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[India, the USA, and Brazil are still the most severely affected countries in terms of cumulative case counts and daily new case confirmations, with India in the 2nd position in terms of cumulative case counts and dominating in terms of newly reported cases. In the past 24 hours, these 3 countries -- India (73 196), followed by the USA (60 715) and Brazil (27 651) have maintained their dominance. A global total of 5786 deaths were reported in the past 24 hours (8-9 Oct 2020).
+
+Countries reporting more than 5000 newly confirmed cases in the past 24 hours (15 countries) include India, USA, Brazil, France (20 339), Argentina (15 099), UK (13 864), Russia (12 126), Czech Republic (8617), Colombia (8121), Spain (5986), Netherlands (5971), Ukraine (5804), Belgium (5728), Italy (5372), and Mexico (5263). A total of 41 countries have reported more than 1000 cases in the past 24 hours; 19 of the 41 countries reporting more than 1000 newly confirmed cases are from the European region, 8 were from the Americas region, and 7 were from the Eastern Mediterranean region.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, there is an increase in case counts by 10.1%, while daily reported deaths have decreased by 0.94%.
+
+Impression: Global 7-day averages have increased with reports from the past 72 hours. There is still an apparent though lesser decline in reports from India and Brazil. The USA has an increase of 13.1% in 7-day averages of newly confirmed cases and a decrease of 0.79% in 7-day averages of reported deaths. A common observation is while there are increases in reported cases, the decrease in reported deaths is stabilizing, but keeping the transmission dynamics, it would not be surprising to see an increase in deaths in 3-4 weeks following the increase in cases (see section [1] above). - Mod.MPP]
+See Also
+COVID-19 update (431): saliva antibodies, remdesivir, WHO, global 20201009.7847920
+COVID-19 update (430): animal, USA (UT) mink 20201009.7847704
+COVID-19 update (429): long term effects, neuro, WHO, global 20201008.7846058
+COVID-19 update (428): POC test, airborne trans, mitigation impact, WHO, global 20201007.7842239
+COVID-19 update (427): common cold, reinfection, WHO, global 20201006.7839500
+COVID-19 update (426): rapid POC tests, older adult vaccine, WHO, global 20201005.7836586
+COVID-19 update (425): animal, Denmark (ND) farmed mink, spread, control 20201004.7835635
+COVID-19 update (424): air travel, India, CSF leakage, WHO, global 20201004.7835129
+COVID-19 update (423): Parkinson's disease, MIS-A, WHO, global 20201003.7832664
+COVID-19 update (422): obesity & severity, cluster busting, WHO, global 20201002.7830244
+COVID-19 update (421): safer indoors, Spain WHO, global 20201001.7828012
+COVID-19 update (420): ECMO, USA serosurvey, WHO, global 20200930.7824510
+COVID-19 update (410): ACE inhibitors and ARBs, WHO COVAX plan, WHO, global 20200922.7801717
+COVID-19 update (400): lockdowns, influenza co-infections WHO, global 20200914.7776512
+COVID-19 update (350): USA (TX) animal, cat 20200808.7658191
+COVID-19 update (300): Korea antibodies, China asymptomatic index case, WHO 20200703.7536146
+COVID-19 update (250): selected countries 20200610.7448037
+COVID-19 update (200): global, Yemen, WHO 20200522.7364937
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+Undiagnosed pediatric inflammatory syndrome (05): Europe, USA, COVID-19 assoc 20200518.7340554
+Undiagnosed pediatric inflammatory syndrome (04): USA, UK, PMIS, fatal 20200509.7315405
+Undiagnosed pediatric inflammatory syndrome (03): USA, Europe, COVID-19 susp, RFI 20200505.7299876
+COVID-19 update (150): global, USA state prisons, WHO 20200502.7290671
+COVID-19 update (100): China, S. Korea & high local transmission countries 20200413.7217806
+COVID-19 update (50): China (Hong Kong) animal dog, 2nd case PCR positive, OIE 20200323.7129951
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (41): China, global, clinical pics, asymptomatic trans., WHO 20200210.6976117
+Novel coronavirus (40): animal reservoir, pangolin poss intermediate host, RFI 20200210.6972104
+Novel coronavirus (30): updates, China, Viet Nam, research 20200202.6945658
+Novel coronavirus (20): China, wildlife trade ban 20200127.6922060
+Novel coronavirus (10): China (HU, GD, BJ) 20200119.6898567
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia: China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia: China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+----
+Undiagnosed pneumonia: China (HU): RFI 20191230.6864153
+and other items in the archives
+.................................................sb/sh/mpp/rd/sh
+</body>

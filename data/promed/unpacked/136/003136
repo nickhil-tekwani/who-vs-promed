@@ -1,0 +1,123 @@
+<header id=003136>
+Published Date: 2022-08-19 19:37:21 EDT
+Subject: PRO/EDR> E. coli O104 - Europe: (Netherlands, Austria) 2017-2021
+Archive Number: 20220819.8705121
+</header>
+<body id=003136>
+E. COLI O104 - EUROPE: (NETHERLANDS, AUSTRIA) 2017-2021
+*******************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+Date: Thu 11 Aug 2022
+Source: Emerging Infectious Diseases [edited]
+https://wwwnc.cdc.gov/eid/article/28/9/22-0037_article
+
+
+Citation: Coipan CE, Friesema IH, van den Beld MJC, et al: Sporadic occurrence of enteroaggregative Shiga toxin-producing _Escherichia coli_ O104:H4 similar to 2011 outbreak strains. Emerg Infect Dis. 2022.
+----------------------------------------------------------------------------------------------------------------
+
+Shiga toxin-producing _Escherichia coli_ [or enterohemorrhagic _E coli (EHEC)] is a zoonotic pathogen that causes illness ranging from mild diarrhea to hemolytic uremic syndrome and death. During 2011, an exceptionally large outbreak caused by serotype O104:H4 EHEC occurred in Europe, mainly in Germany and France, that was associated with sprouts grown from imported fenugreek seeds (1). Besides the ability to produce Shiga toxin, specifically stx2a, the strain had the genetic characteristics and phylogenetic backbone of an enteroaggregative _E. coli_ (EAEC) pathotype (2) but lacked other classical EHEC virulence markers eae and hlyA (3). In addition, the outbreak strain carried plasmid-borne blaCTX-M-15 and blaTEM-1 genes. The epidemiologic investigation revealed that a contaminated batch of fenugreek seeds imported into the European Union from Egypt was the most probable source of the pathogen causing the outbreak (4).
+
+After the 2011 outbreak in Germany and France, only a few sporadic cases of infection with Shiga toxin-producing EAEC O104:H4 were reported, most related to travel to Turkey or North Africa (5-8). We describe the sporadic occurrence of Shiga toxin-producing EAEC O104:H4 isolates in the Netherlands, originating from 2 clinical cases from 2019 and 2020 and one food isolate from 2017. In addition, we report a clinical case from Austria in 2021.
+
+The study
+---------
+Surveillance of Shiga toxin-producing _E. coli_ (EHEC) in the Netherlands is performed in one or both of 2 ways: by mandatory case notification from medical laboratories or physicians to regional public health services, which then report the cases to the Netherlands National Institute for Public Health and the Environment (RIVM), or by microbiological surveillance, when medical laboratories send suspected EHEC isolates to RIVM for confirmation and further molecular characterization. Since 2016, EHEC isolates have been subjected to whole-genome sequencing for high-resolution detection of clusters and outbreaks nationwide. During detailed retrospective analysis of the whole-genome sequencing data, we identified isolates from 2 clinical cases of EHEC infection from 2019 and 2020 and characterized them as stx2a-encoding EAEC O104:H4 (isolates NL1981 and NL2076). Both cases involved middle-aged nonhospitalized women with abdominal cramps and bloody diarrhea. Neither of the 2 case-patients reported recent travel. The 2019 case-patient reported consuming cooked minced beef, and the 2020 case-patient reported consuming beef, hamburger meat, and vegetables and fruits from her own garden. In 2021, the Austrian Agency for Health and Food Safety obtained a sample of similar stx2a-encoding EAEC O104:H4 from a 10-year-old girl with hemolytic uremic syndrome. This case-patient also reported no recent travel, but she had consumed raw veal. Finally, we retrospectively identified stx2a-encoding EAEC O104:H4 in a sample obtained from pig meat (pork) in 2017 in the Netherlands.
+
+We performed a genomic comparison among the recently identified isolates, 2 Shiga toxin-producing EAEC O104:H4 isolates in cases from the Netherlands from 2013 described elsewhere (8), and a set of representative isolates from a 2011 outbreak in Germany and France, including isolates from case-patients in Germany who shed the outbreak strain well into 2012 (long-term shedders). To achieve our full set of isolates (Table [for table and figures, see source URL. - Mod.LL]), we supplemented the dataset with O104:H4 isolates retrieved from public repositories to gain more insights into the relatedness among investigated isolates and track possible evolutionary events. We assessed genomic relations between isolates by core- and accessory-genome multilocus sequence typing using the Enterobase STEC schema implemented in Ridom Seqsphere version 8.0.1 (https://www.ridom.de). The resulting dendrogram was rooted with strain 1060_13, a Clermont type A isolate. The 2020 patient isolate from the Netherlands (NL2076) and the pork isolate (ESBL3427) clearly clustered with the representative outbreak isolates (Figures 1 and 2). Conversely, patient isolates NL1981 from the Netherlands in 2019 and MRV-21-00239 from Austria in 2021 appeared more similar to each other and the 2 patient isolates (338 and 381_1) from the Netherlands in 2013 than to isolates from the outbreak cluster (Figures 1 and 2).
+
+We determined the content of the plasmid, virulence, and antimicrobial resistance genes using the PlasmidFinder, VirulenceFinder, and ResFinder databases (http://www.genomicepidemiology.org). Within the outbreak cluster, including the patient (NL2076) and pork (ESBL3427) strains from the Netherlands, isolates showed virulence profiles typical of the 2011 outbreak strain, including STEC virulence markers stx2a, lpfA, and iha; the EAEC pAA plasmid (with aggR, aar, aap, sepA, the aatPABCD operon, and the aggABCD operon); and some chromosomal EAEC markers such as pic and sigA, but they lacked the STEC hallmark intimin eae. In addition, the isolates within the outbreak cluster showed similar antimicrobial resistance profiles, including blaCTX-M-15 and blaTEM-1B. Exceptions were the 2012 isolates from long-term shedders in Germany, which lost the pAA plasmid but belong to the outbreak cluster on the basis of their core genome (9) (Figure 1). Ancestral trait reconstruction as implemented in the R package ape v.5.5 (10), indicated a high likelihood that the most recent common ancestor of the isolates identified in this study were lysogenized with an stx-encoding phage. Among the isolates in the outbreak cluster, the core-genome allelic distance was 0-15 alleles (Figure 2).
+
+Conclusions
+-----------
+After the 2011 outbreak in Europe, only a few sporadic cases of infection with stx-producing EAEC O104:H4 strains, most related to travel to Turkey or North Africa (8,11), were reported. The fact that the particular EAEC O104:H4 strains have never convincingly been isolated from food, animal, or environmental sources, and that EAEC in general are primarily human-adapted (12), support the hypothesis of a human reservoir and potential multiple events of import by travelers from an area where this pathogen is endemic. On the other hand, the loss of essential virulence markers in long-term shedder, might be a preview of common trends of the effect of bacterial genome reduction on long-term carriage in humans which, in turn, might indicate that the newly signaled isolates are maintained in niches other than the human one. Genomic analysis of several pos-outbreak EAEC O104:H4 isolates suggests that they are not derived from the 2011 outbreak but share a recent common ancestor (13). Our analysis indicates that distinct more- or less-distant variants of Shiga toxin-producing EAEC O104:H4 are circulating worldwide. These variants are more likely to represent independent evolutionary events than continuous diversification of a single clade established and circulating in Europe after the large 2011 outbreak (14). In the absence of any previous indication of Shiga toxin-producing EAEC O104:H4 in animals, it was surprising to retrieve such an isolate from a pork product. However, this finding does not necessarily imply that pigs are a reservoir, because the contamination could also have originated from a food handler or contaminated feed rather than the pigs.
+
+In conclusion, we show that Shiga toxin-producing EAEC O104:H4 isolates highly related to the 2011 outbreak strain are sporadically occurring in Europe. We emphasize the need to optimize safeguarding vulnerable chains of food production to prevent future outbreaks.
+
+References
+----------
+1. Buchholz U, Bernard H, Werber D, et al: German outbreak of _Escherichia coli_ O104:H4 associated with sprouts. N Engl J Med. 2011; 365: 1763-70.
+2. Scheutz F, Nielsen EM, Frimodt-Moller J, et al: Characteristics of the enteroaggregative Shiga toxin/verotoxin-producing _Escherichia coli_ O104:H4 strain causing the outbreak of haemolytic uraemic syndrome in Germany, May to June 2011. Euro Surveill. 2011; 16: 19889.
+3. Bielaszewska M, Mellmann A, Zhang W, et al: Characterisation of the _Escherichia coli_ strain associated with an outbreak of haemolytic uraemic syndrome in Germany, 2011: a microbiological study. Lancet Infect Dis. 2011; 11: 671-6.
+4. EFSA: Shiga toxin-producing E. coli (STEC) O104:H4 2011 outbreaks in Europe: taking stock. EFSA J. 2011; 9: 2390.
+5. Jourdan-da Silva N, Watrin M, Weill FX, et al: Outbreak of haemolytic uraemic syndrome due to Shiga toxin-producing _Escherichia coli_ O104:H4 among French tourists returning from Turkey, September 2011. Euro Surveill. 2012; 17: 20065.
+6. Frank C, Milde-Busch A, Werber D: Results of surveillance for infections with Shiga toxin-producing _Escherichia coli_ (STEC) of serotype O104:H4 after the large outbreak in Germany, July to December 2011. Euro Surveill. 2014; 19: 20760.
+7. Guy L, Jernberg C, Arven Norling J, et al: Adaptive mutations and replacements of virulence traits in the _Escherichia coli_ O104:H4 outbreak population. PLoS One. 2013; 8: e63027.
+8. Ferdous M, Zhou K, de Boer RF, et al: Comprehensive characterization of _Escherichia coli_ O104:H4 isolated from patients in the Netherlands. Front Microbiol. 2015;6:1348.
+9. Zhang W, Bielaszewska M, Kunsmann L, et al: Lability of the pAA virulence plasmid in _Escherichia coli_ O104:H4: implications for virulence in humans. PLoS One. 2013; 8: e66717.
+10. Paradis E, Schliep K. ape 5.0: an environment for modern phylogenetics and evolutionary analyses in R. Bioinformatics. 2019; 35: 526-8.
+11. Grad YH, Godfrey P, Cerquiera GC, et al: Comparative genomics of recent Shiga toxin-producing _Escherichia coli_ O104:H4: short-term evolution of an emerging pathogen. MBio. 2013; 4: e00452-12.
+12. Okeke IN, Wallace-Gadsden F, Simons HR, et al: Multi-locus sequence typing of enteroaggregative _Escherichia coli_ isolates from Nigerian children uncovers multiple lineages. PLoS One. 2010; 5: e14093.
+13. Grad YH, Lipsitch M, Feldgarden M, et al: Genomic epidemiology of the _Escherichia coli_ O104:H4 outbreaks in Europe, 2011. Proc Natl Acad Sci U S A. 2012; 109: 3065-70.
+14. Tietze E, Dabrowski PW, Prager R, et al. Comparative genomic analysis of two novel sporadic Shiga toxin-producing _Escherichia coli_ O104:H4 strains isolated 2011 in Germany. PLoS One. 2015; 10: e0122074.
+
+--
+Communicated by:
+ProMED
+
+[A good description of the pathogen, from Eurosurveillance:
+Scheutz F, Moeller Nielsen E, Frimodt-Moeller J, et al: Characteristics of the enteroaggregative Shiga toxin/verotoxin-producing _E. coli_ O104:H4 strain causing the outbreak of HUS in Germany, May to June 2011. Euro Surveill. 2011; 16(24): pii=19889; http://www.eurosurveillance.org/ViewArticle.aspx?ArticleId=19889
+--------------------------------------------------------------------------------
+The _E. coli_ strain causing a large outbreak of hemolytic uremic syndrome and bloody diarrhea in Germany in May and June 2011 possesses an unusual combination of pathogenic features typical of enteroaggregative _E. coli_ together with the capacity to produce Shiga toxin and is described below.
+
+The outbreak strain
+-------------------
+"The Danish isolates were PCR-positive for the aggR gene, which is typical of enteroaggregative _E. coli_ (EAggEC). Further analysis showed that the outbreak strain (first 8 isolates from Danish patients) were also positive for the following genes: sigA, sepA, pic, aatA, aaiC, aap, as well as aggA, which encodes the major component of the AAF/I adhesin. AAF/I is a fimbrial organelle usually associated with a strong ability to form biofilms and haemagglutination with human erythrocytes. Preliminary testing at WHO CC showed that the isolates were moderate to good biofilm producers particularly in Dulbecco's minimum essential medium (DMEM) supplemented with 0.45% glucose, which is typical and defining for EAggEC strains. The outbreak strain was a typical _E. coli_: lactose-positive, sorbitol-fermenting and beta-glucuronidase-positive. Furthermore, the strain was positive for iutA encoding an aerobactin receptor found in 80% of extraintestinal pathogenic _E. coli_ isolated from urosepsis (2) and negative for the STEC-associated adhesin (saa) and cytotoxin subtilase (subAB).
+
+"Taken together, these data indicate that the outbreak strain is indeed a typical EAggEC strain that has acquired the bacteriophage encoding Stx/VT. Using a novel protocol for subtyping of stx/vtx genes (3), we have shown that the gene encoding Stx/VT is stx2a/vtx2a.
+
+"Sequence analysis of the published stx2a/vtx2a sequence (SRX067313 on http://www.ncbi.nlm.nih.gov/sra) showed 100% amino acid identity of the holotoxin to Stx2a/VT2a from _E. coli_ O157:H7 EDL933 isolated from Michigan ground beef in 1983 (accession number X07865 [4]) but differed by one nucleotide at position 867 (C instead of T), making the nucleotide sequence identical to the sequence found in sorbitol-fermenting O157 strains from Germany in 2002 and 2005 (accession numbers AY143336 and AY143337, unpublished), DQ231589 and DQ231590 (5), and Scotland in 2006 (EU526759) (6). This sequence variant of stx2a/vtx2a has also been detected in isolates from seagulls (accession number AB030484, unpublished) and human isolates of different serotypes: _E. coli_ O121:H19 from Canada (DQ143182 and DQ143183) (7) and Idaho, USA (EF441611) (8), and O111:H8 also from Idaho, USA (EF441606) (8).
+
+"These findings could explain the unexpectedly high level of virulence in a STEC/VTEC strain negative for the attaching/effacing pathogenicity island. It is indeed conceivable that the enteroaggregative adherence phenotype could have allowed these _E. coli_ O104 strains to colonize the intestinal mucosa of the affected patients as efficiently as the typical eae-positive STEC/VTEC strains. The different mechanism of adhesion might also explain why this strain is more likely to cause severe disease in adults rather than in children, as would be usual for typical HUS-associated STEC/VTEC: adults and children might differ in their susceptibility to the adherence and/or colonization properties of this type of EAggEC strain. Obviously, elucidating this aspect requires dedicated studies, and we cannot exclude that the different rates of HUS between adults and children observed in the current outbreak just reflect a difference in the exposures."
+
+References can be found at the original URL.
+
+In addition to the chimeric O104:H4 strain, Soysal et al (Enterohemorrhagic _Escherichia coli_ hybrid pathotype O80:H2 as a new therapeutic challenge. Emerg Infect Dis 2016; 9: 1607-12) brought forth more information regarding another hybrid EHEC that contains a rare variant of the intimin gene and genetic determinants related to a plasmid, found mostly in avian pathogenic _E. coli_ and _E. coli_ that causes human neonatal meningitis, which is associated with extraintestinal virulence. This group, led by Stephane Bonacorsi, originally reported this atypical organism in an adult associated with HUS with a relapse associated with bacteremia (Mariani-Kurkdjian P, Lemaire C, Bidet P, et al: Haemolytic-uraemic syndrome with bacteraemia caused by a new hybrid _Escherichia coli_ pathotype. New Microbes New Infect. 2014; 2: 127-31).
+
+The 2016 study reported that 96% of the cases were associated with HUS, but the authors do point out that the surveillance system for EHEC is voluntary in France, and PCR assays for Shiga toxin in stool are only done in cases involving diarrhea with HUS suspicion, so the denominator of total O80:H2 cases is not known. Likewise, whether this organism is zoonotic is also not clear, and the areas in France with this strain are not where most cases of _E. coli_ O157 are reported.
+
+Regarding the use of antimicrobials, the issue is relevant in these cases since some of them are associated with bacteremia, which requires antimicrobial therapy. Azithromycin and ceftriaxone were not associated with increasing Shiga toxin production, whereas ciprofloxacin was in this study. In the large _E. coli_ O104:H4 outbreak in northern Germany, therapy was also used especially in those cases where the colon was perforated. In those reports, the carbapenem antimicrobials also did not increase toxin production. Whether these effects are strain specific is not clear at this time, so should not necessarily be generalized to all EHEC. Of note, the _E. coli_ O104:H4 strain was a genetic hybrid between EHEC and enteroaggregative _E. coli_ and was not thought to be a zoonosis.
+
+Extraintestinal invasive strains of EHEC will indeed introduce another layer of concern about these infections. - Mod.LL
+
+ProMED maps:
+Netherlands: https://promedmail.org/promed-post?place=8705121,104
+Austria: https://promedmail.org/promed-post?place=8705121,109]
+See Also
+2014
+----
+E. coli O104 - Germany: post outbreak surveillance, 2011-2013 20140412.2396852
+2012
+----
+E. coli EHEC - Europe: (France, Germany, Denmark) O104 20120126.1022870
+2011
+----
+E. coli O104 - EU (36): intervention strategies 20110827.2617
+E. coli O104 - EU (35): final update, commentaries 20110805.2363
+E. coli O104 - EU (34): update, non-identity of Korean strain 20110717.2168
+E. coli O104 - EU (33): update, asymptomatic infection 20110714.2132
+E. coli O104 - EU (32): updates, USA ex Germany death 20110711.2095
+E. coli O104 - EU (31): update, Denmark 2ndary cases 20110708.2068
+E. coli O104 - EU (30): update, fenugreek susp 20110707.2052
+E. coli O104 - EU (29): update, fenugreek susp 20110705.2038
+E. coli O104 - EU (28): update, France 20110704.2024
+E. coli O104 - EU (27): update, fenugreek seed susp. 20110629.1979
+E. coli O104 - EU (26): update, Sweden, France 20110628.1974
+E. coli O104 - EU (25): updates 20110628.1969
+E. coli O104 - EU (24): France, sprouts 20110626.1956
+E. coli O104 - EU (23): updates 20110624.1940
+E. coli O104 - EU (22): case update 20110622.1902
+E. coli O104 - EU (21): case update 20110619.1877
+E. coli O104 - EU (20): secondary cases 20110618.1862
+E. coli O104 - EU (10): USA commentary 20110605.1718
+E. coli O104 - EU: (Germany, Denmark, Sweden) Spanish cucumbers 20110526.1611
+E. coli VTEC - Germany (04): O104, poss. salad source 20110526.1600
+E. coli VTEC - Germany (03): O104, spread South 20110525.1587
+E. coli VTEC - Germany (02): increased case burden 20110524.1578
+E. coli VTEC - Germany: RFI 20110523.1566
+.................................................ll/rd/ml
+</body>

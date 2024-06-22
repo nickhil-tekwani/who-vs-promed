@@ -1,0 +1,474 @@
+Query:	 1000901
+0.947942	1000901	1000873	1000901	1000873	531312	531284	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.996078	1000901	1000625	1000901	1000625	531312	531036	1	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed51.K768.B6.idx.51.i
+Query:	 1000902
+0.870869	1000902	355968	1000902	355968	531313	352967	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.885727	1000902	75206	1000902	75206	531313	72205	1	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed51.K768.B6.idx.51.i
+0.890119	1000902	174717	1000902	174717	531313	171716	5	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed55.K768.B6.idx.55.i
+0.908483	1000902	1000608	1000902	1000608	531313	531019	10	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed60.K768.B6.idx.60.i
+0.946945	1000902	1000882	1000902	1000882	531313	531293	22	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed72.K768.B6.idx.72.i
+0.967651	1000902	529461	1000902	529461	531313	526460	26	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed76.K768.B6.idx.76.i
+0.981986	1000902	1001271	1000902	1001271	531313	531682	28	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed78.K768.B6.idx.78.i
+0.984188	1000902	1001876	1000902	1001876	531313	532287	40	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed90.K768.B6.idx.90.i
+Query:	 1000903
+0.942097	1000903	1000757	1000903	1000757	531314	531168	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.947877	1000903	1001586	1000903	1001586	531314	531997	8	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed58.K768.B6.idx.58.i
+0.951429	1000903	1000465	1000903	1000465	531314	530876	23	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed73.K768.B6.idx.73.i
+Query:	 1000904
+0.894174	1000904	1000538	1000904	1000538	531315	530949	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.984334	1000904	1000490	1000904	1000490	531315	530901	2	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed52.K768.B6.idx.52.i
+Query:	 1000905
+0.860388	1000905	512427	1000905	512427	531316	509426	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.928184	1000905	458285	1000905	458285	531316	455284	1	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed51.K768.B6.idx.51.i
+0.957247	1000905	1000488	1000905	1000488	531316	530899	5	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed55.K768.B6.idx.55.i
+0.974955	1000905	1000847	1000905	1000847	531316	531258	23	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed73.K768.B6.idx.73.i
+Query:	 1000906
+0.956742	1000906	1000808	1000906	1000808	531317	531219	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.964900	1000906	1000594	1000906	1000594	531317	531005	1	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed51.K768.B6.idx.51.i
+0.970893	1000906	1000382	1000906	1000382	531317	530793	4	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed54.K768.B6.idx.54.i
+Query:	 1000907
+0.955519	1000907	1000238	1000907	1000238	531318	530649	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.956866	1000907	1000880	1000907	1000880	531318	531291	13	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed63.K768.B6.idx.63.i
+0.986290	1000907	206871	1000907	206871	531318	203870	21	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed71.K768.B6.idx.71.i
+Query:	 1000908
+0.916948	1000908	1002247	1000908	1002247	531319	532658	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.980811	1000908	371189	1000908	371189	531319	368188	7	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed57.K768.B6.idx.57.i
+Query:	 1000909
+0.875615	1000909	1000441	1000909	1000441	531320	530852	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.989991	1000909	1000003	1000909	1000003	531320	530414	4	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed54.K768.B6.idx.54.i
+0.991640	1000909	362192	1000909	362192	531320	359191	6	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed56.K768.B6.idx.56.i
+0.994353	1000909	205816	1000909	205816	531320	202815	12	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed62.K768.B6.idx.62.i
+0.999837	1000909	1001205	1000909	1001205	531320	531616	39	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed89.K768.B6.idx.89.i
+Query:	 1000910
+0.940408	1000910	491530	1000910	491530	531321	488529	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.959589	1000910	114726	1000910	114726	531321	111725	6	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed56.K768.B6.idx.56.i
+0.960815	1000910	1000147	1000910	1000147	531321	530558	14	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed64.K768.B6.idx.64.i
+0.962109	1000910	526860	1000910	526860	531321	523859	16	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed66.K768.B6.idx.66.i
+Query:	 1000911
+0.952842	1000911	1000275	1000911	1000275	531322	530686	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.978689	1000911	1001710	1000911	1001710	531322	532121	7	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed57.K768.B6.idx.57.i
+Query:	 1000912
+0.749352	1000912	421199	1000912	421199	531323	418198	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.914757	1000912	354723	1000912	354723	531323	351722	1	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed51.K768.B6.idx.51.i
+0.914976	1000912	125058	1000912	125058	531323	122057	12	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed62.K768.B6.idx.62.i
+0.983211	1000912	369792	1000912	369792	531323	366791	13	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed63.K768.B6.idx.63.i
+Query:	 1000913
+0.991793	1000913	227767	1000913	227767	531324	224766	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+Query:	 1000914
+0.872190	1000914	525365	1000914	525365	531325	522364	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.948321	1000914	511340	1000914	511340	531325	508339	2	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed52.K768.B6.idx.52.i
+0.952181	1000914	426813	1000914	426813	531325	423812	11	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed61.K768.B6.idx.61.i
+0.964896	1000914	523789	1000914	523789	531325	520788	15	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed65.K768.B6.idx.65.i
+0.967083	1000914	247438	1000914	247438	531325	244437	20	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed70.K768.B6.idx.70.i
+Query:	 1000915
+0.920504	1000915	532275	1000915	532275	531326	529274	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.978000	1000915	1000140	1000915	1000140	531326	530551	2	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed52.K768.B6.idx.52.i
+0.984350	1000915	480877	1000915	480877	531326	477876	21	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed71.K768.B6.idx.71.i
+Query:	 1000916
+0.952391	1000916	1000874	1000916	1000874	531327	531285	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.961726	1000916	1000637	1000916	1000637	531327	531048	4	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed54.K768.B6.idx.54.i
+Query:	 1000917
+0.869363	1000917	1000389	1000917	1000389	531328	530800	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.896249	1000917	1000726	1000917	1000726	531328	531137	4	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed54.K768.B6.idx.54.i
+0.934091	1000917	1000186	1000917	1000186	531328	530597	5	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed55.K768.B6.idx.55.i
+0.985376	1000917	79938	1000917	79938	531328	76937	14	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed64.K768.B6.idx.64.i
+Query:	 1000918
+0.877450	1000918	248459	1000918	248459	531329	245458	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.970876	1000918	1000797	1000918	1000797	531329	531208	1	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed51.K768.B6.idx.51.i
+0.974955	1000918	417137	1000918	417137	531329	414136	6	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed56.K768.B6.idx.56.i
+0.981739	1000918	34646	1000918	34646	531329	31645	25	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed75.K768.B6.idx.75.i
+Query:	 1000919
+0.865220	1000919	44559	1000919	44559	531330	41558	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.876797	1000919	479141	1000919	479141	531330	476140	1	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed51.K768.B6.idx.51.i
+0.989870	1000919	136684	1000919	136684	531330	133683	8	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed58.K768.B6.idx.58.i
+Query:	 1000920
+0.845117	1000920	1000850	1000920	1000850	531331	531261	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.937828	1000920	491712	1000920	491712	531331	488711	4	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed54.K768.B6.idx.54.i
+Query:	 1000921
+0.968154	1000921	1000691	1000921	1000691	531332	531102	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.973268	1000921	1000682	1000921	1000682	531332	531093	6	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed56.K768.B6.idx.56.i
+0.997221	1000921	243420	1000921	243420	531332	240419	7	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed57.K768.B6.idx.57.i
+Query:	 1000922
+0.958889	1000922	1000236	1000922	1000236	531333	530647	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+Query:	 1000923
+0.957692	1000923	1000431	1000923	1000431	531334	530842	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.962622	1000923	209168	1000923	209168	531334	206167	1	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed51.K768.B6.idx.51.i
+0.963914	1000923	1000239	1000923	1000239	531334	530650	3	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed53.K768.B6.idx.53.i
+0.993862	1000923	124914	1000923	124914	531334	121913	5	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed55.K768.B6.idx.55.i
+Query:	 1000924
+0.818936	1000924	531509	1000924	531509	531335	528508	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.904488	1000924	418732	1000924	418732	531335	415731	1	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed51.K768.B6.idx.51.i
+0.957019	1000924	531493	1000924	531493	531335	528492	2	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed52.K768.B6.idx.52.i
+0.962700	1000924	1001535	1000924	1001535	531335	531946	12	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed62.K768.B6.idx.62.i
+0.981355	1000924	1000711	1000924	1000711	531335	531122	13	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed63.K768.B6.idx.63.i
+0.982397	1000924	1000652	1000924	1000652	531335	531063	31	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed81.K768.B6.idx.81.i
+Query:	 1000925
+0.905569	1000925	531770	1000925	531770	531336	528769	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.996167	1000925	469349	1000925	469349	531336	466348	2	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed52.K768.B6.idx.52.i
+Query:	 1000926
+0.937095	1000926	1000744	1000926	1000744	531337	531155	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.972447	1000926	517745	1000926	517745	531337	514744	14	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed64.K768.B6.idx.64.i
+Query:	 1000927
+0.967364	1000927	1000921	1000927	1000921	531338	531332	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.978798	1000927	1001799	1000927	1001799	531338	532210	1	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed51.K768.B6.idx.51.i
+0.989219	1000927	429281	1000927	429281	531338	426280	3	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed53.K768.B6.idx.53.i
+Query:	 1000928
+0.891002	1000928	1000843	1000928	1000843	531339	531254	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.921466	1000928	1002672	1000928	1002672	531339	533083	5	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed55.K768.B6.idx.55.i
+0.921685	1000928	1000172	1000928	1000172	531339	530583	31	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed81.K768.B6.idx.81.i
+0.953523	1000928	1000911	1000928	1000911	531339	531322	34	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed84.K768.B6.idx.84.i
+Query:	 1000929
+0.951543	1000929	1000670	1000929	1000670	531340	531081	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.981355	1000929	1001790	1000929	1001790	531340	532201	3	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed53.K768.B6.idx.53.i
+Query:	 1000930
+0.809076	1000930	151	1000930	151	531341	150	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.843507	1000930	219849	1000930	219849	531341	216848	2	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed52.K768.B6.idx.52.i
+0.907491	1000930	1000015	1000930	1000015	531341	530426	3	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed53.K768.B6.idx.53.i
+0.930337	1000930	1002425	1000930	1002425	531341	532836	5	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed55.K768.B6.idx.55.i
+0.947559	1000930	1002228	1000930	1002228	531341	532639	21	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed71.K768.B6.idx.71.i
+Query:	 1000931
+0.829993	1000931	329130	1000931	329130	531342	326129	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.855238	1000931	1001125	1000931	1001125	531342	531536	3	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed53.K768.B6.idx.53.i
+0.870236	1000931	178347	1000931	178347	531342	175346	5	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed55.K768.B6.idx.55.i
+0.948923	1000931	1002150	1000931	1002150	531342	532561	9	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed59.K768.B6.idx.59.i
+0.953837	1000931	1002169	1000931	1002169	531342	532580	20	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed70.K768.B6.idx.70.i
+0.976951	1000931	1000192	1000931	1000192	531342	530603	46	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed96.K768.B6.idx.96.i
+Query:	 1000932
+0.962670	1000932	1000618	1000932	1000618	531343	531029	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.966525	1000932	51322	1000932	51322	531343	48321	48	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed98.K768.B6.idx.98.i
+Query:	 1000933
+0.985912	1000933	1000559	1000933	1000559	531344	530970	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+Query:	 1000934
+0.961115	1000934	1000030	1000934	1000030	531345	530441	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.978312	1000934	1001585	1000934	1001585	531345	531996	4	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed54.K768.B6.idx.54.i
+Query:	 1000935
+0.991665	1000935	183471	1000935	183471	531346	180470	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+Query:	 1000936
+0.934573	1000936	427608	1000936	427608	531347	424607	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.972133	1000936	85911	1000936	85911	531347	82910	16	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed66.K768.B6.idx.66.i
+Query:	 1000937
+0.815769	1000937	214801	1000937	214801	531348	211800	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.982544	1000937	432801	1000937	432801	531348	429800	1	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed51.K768.B6.idx.51.i
+0.993486	1000937	1001990	1000937	1001990	531348	532401	7	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed57.K768.B6.idx.57.i
+0.995718	1000937	291386	1000937	291386	531348	288385	17	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed67.K768.B6.idx.67.i
+Query:	 1000938
+0.866921	1000938	503440	1000938	503440	531349	500439	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.952353	1000938	409478	1000938	409478	531349	406477	1	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed51.K768.B6.idx.51.i
+0.963043	1000938	1000825	1000938	1000825	531349	531236	2	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed52.K768.B6.idx.52.i
+0.971219	1000938	1000316	1000938	1000316	531349	530727	34	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed84.K768.B6.idx.84.i
+Query:	 1000939
+0.895034	1000939	260683	1000939	260683	531350	257682	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.897075	1000939	1001971	1000939	1001971	531350	532382	13	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed63.K768.B6.idx.63.i
+0.920888	1000939	164232	1000939	164232	531350	161231	24	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed74.K768.B6.idx.74.i
+Query:	 1000940
+0.987410	1000940	1000035	1000940	1000035	531351	530446	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.988372	1000940	1000627	1000940	1000627	531351	531038	12	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed62.K768.B6.idx.62.i
+Query:	 1000941
+0.808251	1000941	377851	1000941	377851	531352	374850	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.819946	1000941	175136	1000941	175136	531352	172135	1	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed51.K768.B6.idx.51.i
+0.836745	1000941	271453	1000941	271453	531352	268452	2	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed52.K768.B6.idx.52.i
+0.859327	1000941	530940	1000941	530940	531352	527939	4	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed54.K768.B6.idx.54.i
+0.930271	1000941	1000931	1000941	1000931	531352	531342	7	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed57.K768.B6.idx.57.i
+0.937258	1000941	1000917	1000941	1000917	531352	531328	16	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed66.K768.B6.idx.66.i
+0.951245	1000941	1000327	1000941	1000327	531352	530738	22	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed72.K768.B6.idx.72.i
+0.963169	1000941	1000063	1000941	1000063	531352	530474	41	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed91.K768.B6.idx.91.i
+Query:	 1000942
+0.715317	1000942	321348	1000942	321348	531353	318347	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.775839	1000942	73135	1000942	73135	531353	70134	1	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed51.K768.B6.idx.51.i
+0.938258	1000942	1001527	1000942	1001527	531353	531938	9	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed59.K768.B6.idx.59.i
+Query:	 1000943
+0.908094	1000943	249827	1000943	249827	531354	246826	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.936149	1000943	372802	1000943	372802	531354	369801	2	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed52.K768.B6.idx.52.i
+0.952219	1000943	1000892	1000943	1000892	531354	531303	5	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed55.K768.B6.idx.55.i
+0.957150	1000943	1002457	1000943	1002457	531354	532868	17	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed67.K768.B6.idx.67.i
+Query:	 1000944
+0.935662	1000944	1000531	1000944	1000531	531355	530942	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.967943	1000944	1001606	1000944	1001606	531355	532017	1	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed51.K768.B6.idx.51.i
+0.990408	1000944	189775	1000944	189775	531355	186774	3	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed53.K768.B6.idx.53.i
+Query:	 1000945
+0.808154	1000945	471471	1000945	471471	531356	468470	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.850339	1000945	256964	1000945	256964	531356	253963	2	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed52.K768.B6.idx.52.i
+0.861071	1000945	401094	1000945	401094	531356	398093	7	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed57.K768.B6.idx.57.i
+0.869970	1000945	111132	1000945	111132	531356	108131	20	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed70.K768.B6.idx.70.i
+Query:	 1000946
+0.907837	1000946	1000467	1000946	1000467	531357	530878	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.973216	1000946	212649	1000946	212649	531357	209648	7	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed57.K768.B6.idx.57.i
+Query:	 1000947
+0.853682	1000947	480630	1000947	480630	531358	477629	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.856717	1000947	55721	1000947	55721	531358	52720	1	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed51.K768.B6.idx.51.i
+0.870295	1000947	197499	1000947	197499	531358	194498	2	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed52.K768.B6.idx.52.i
+0.873958	1000947	514710	1000947	514710	531358	511709	6	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed56.K768.B6.idx.56.i
+0.903516	1000947	1000355	1000947	1000355	531358	530766	10	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed60.K768.B6.idx.60.i
+0.906608	1000947	1001237	1000947	1001237	531358	531648	19	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed69.K768.B6.idx.69.i
+0.929840	1000947	1002090	1000947	1002090	531358	532501	28	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed78.K768.B6.idx.78.i
+Query:	 1000948
+0.909015	1000948	201540	1000948	201540	531359	198539	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.915151	1000948	492553	1000948	492553	531359	489552	2	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed52.K768.B6.idx.52.i
+0.934401	1000948	381322	1000948	381322	531359	378321	3	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed53.K768.B6.idx.53.i
+0.944529	1000948	1001932	1000948	1001932	531359	532343	6	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed56.K768.B6.idx.56.i
+0.960420	1000948	515663	1000948	515663	531359	512662	7	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed57.K768.B6.idx.57.i
+0.970247	1000948	1000835	1000948	1000835	531359	531246	10	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed60.K768.B6.idx.60.i
+0.981982	1000948	1000474	1000948	1000474	531359	530885	13	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed63.K768.B6.idx.63.i
+Query:	 1000949
+0.966419	1000949	1000725	1000949	1000725	531360	531136	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.979751	1000949	298648	1000949	298648	531360	295647	3	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed53.K768.B6.idx.53.i
+0.987221	1000949	1000553	1000949	1000553	531360	530964	6	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed56.K768.B6.idx.56.i
+0.991202	1000949	1000584	1000949	1000584	531360	530995	9	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed59.K768.B6.idx.59.i
+Query:	 1000950
+0.807660	1000950	405279	1000950	405279	531361	402278	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.849102	1000950	423496	1000950	423496	531361	420495	2	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed52.K768.B6.idx.52.i
+0.873973	1000950	469525	1000950	469525	531361	466524	3	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed53.K768.B6.idx.53.i
+0.933576	1000950	1002304	1000950	1002304	531361	532715	6	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed56.K768.B6.idx.56.i
+0.950344	1000950	1001976	1000950	1001976	531361	532387	24	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed74.K768.B6.idx.74.i
+Query:	 1000951
+0.961679	1000951	1002039	1000951	1002039	531362	532450	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.971602	1000951	473126	1000951	473126	531362	470125	1	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed51.K768.B6.idx.51.i
+0.973992	1000951	1000760	1000951	1000760	531362	531171	5	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed55.K768.B6.idx.55.i
+0.989580	1000951	402697	1000951	402697	531362	399696	8	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed58.K768.B6.idx.58.i
+Query:	 1000952
+0.850979	1000952	420145	1000952	420145	531363	417144	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.888310	1000952	1000853	1000952	1000853	531363	531264	2	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed52.K768.B6.idx.52.i
+0.966124	1000952	1000602	1000952	1000602	531363	531013	3	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed53.K768.B6.idx.53.i
+0.983583	1000952	1000886	1000952	1000886	531363	531297	5	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed55.K768.B6.idx.55.i
+0.988835	1000952	1000771	1000952	1000771	531363	531182	14	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed64.K768.B6.idx.64.i
+Query:	 1000953
+0.980983	1000953	1000801	1000953	1000801	531364	531212	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.985572	1000953	1000396	1000953	1000396	531364	530807	5	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed55.K768.B6.idx.55.i
+Query:	 1000954
+0.863353	1000954	1000879	1000954	1000879	531365	531290	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.888729	1000954	382942	1000954	382942	531365	379941	1	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed51.K768.B6.idx.51.i
+Query:	 1000955
+0.919365	1000955	1000294	1000955	1000294	531366	530705	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.944684	1000955	1002119	1000955	1002119	531366	532530	1	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed51.K768.B6.idx.51.i
+Query:	 1000956
+0.975228	1000956	1000901	1000956	1000901	531367	531312	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.979335	1000956	1000338	1000956	1000338	531367	530749	2	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed52.K768.B6.idx.52.i
+0.982060	1000956	1000694	1000956	1000694	531367	531105	10	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed60.K768.B6.idx.60.i
+0.992249	1000956	1000896	1000956	1000896	531367	531307	12	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed62.K768.B6.idx.62.i
+Query:	 1000957
+0.999788	1000957	1000511	1000957	1000511	531368	530922	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+Query:	 1000958
+0.942886	1000958	1000692	1000958	1000692	531369	531103	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.960479	1000958	353371	1000958	353371	531369	350370	9	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed59.K768.B6.idx.59.i
+0.977668	1000958	189618	1000958	189618	531369	186617	40	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed90.K768.B6.idx.90.i
+Query:	 1000959
+0.966671	1000959	1000314	1000959	1000314	531370	530725	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.971215	1000959	528840	1000959	528840	531370	525839	9	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed59.K768.B6.idx.59.i
+Query:	 1000960
+0.875648	1000960	1000097	1000960	1000097	531371	530508	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.884772	1000960	425778	1000960	425778	531371	422777	3	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed53.K768.B6.idx.53.i
+0.927991	1000960	97116	1000960	97116	531371	94115	5	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed55.K768.B6.idx.55.i
+0.985196	1000960	519595	1000960	519595	531371	516594	10	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed60.K768.B6.idx.60.i
+Query:	 1000961
+0.727820	1000961	324717	1000961	324717	531372	321716	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.848474	1000961	37463	1000961	37463	531372	34462	1	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed51.K768.B6.idx.51.i
+0.874344	1000961	402394	1000961	402394	531372	399393	2	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed52.K768.B6.idx.52.i
+Query:	 1000962
+0.816421	1000962	304202	1000962	304202	531373	301201	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.832654	1000962	410675	1000962	410675	531373	407674	1	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed51.K768.B6.idx.51.i
+0.842084	1000962	28583	1000962	28583	531373	25582	6	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed56.K768.B6.idx.56.i
+0.879952	1000962	434024	1000962	434024	531373	431023	7	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed57.K768.B6.idx.57.i
+0.881976	1000962	1000887	1000962	1000887	531373	531298	12	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed62.K768.B6.idx.62.i
+0.901911	1000962	417672	1000962	417672	531373	414671	14	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed64.K768.B6.idx.64.i
+0.919784	1000962	1000465	1000962	1000465	531373	530876	17	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed67.K768.B6.idx.67.i
+0.929127	1000962	1000863	1000962	1000863	531373	531274	28	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed78.K768.B6.idx.78.i
+Query:	 1000963
+0.803910	1000963	365089	1000963	365089	531374	362088	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.897377	1000963	1000159	1000963	1000159	531374	530570	1	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed51.K768.B6.idx.51.i
+0.934814	1000963	447824	1000963	447824	531374	444823	13	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed63.K768.B6.idx.63.i
+0.963711	1000963	1001383	1000963	1001383	531374	531794	14	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed64.K768.B6.idx.64.i
+0.985195	1000963	82359	1000963	82359	531374	79358	22	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed72.K768.B6.idx.72.i
+Query:	 1000964
+0.967418	1000964	452228	1000964	452228	531375	449227	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.972449	1000964	1000271	1000964	1000271	531375	530682	9	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed59.K768.B6.idx.59.i
+0.983716	1000964	1000708	1000964	1000708	531375	531119	14	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed64.K768.B6.idx.64.i
+Query:	 1000965
+0.802617	1000965	519935	1000965	519935	531376	516934	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.867281	1000965	175192	1000965	175192	531376	172191	1	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed51.K768.B6.idx.51.i
+0.883606	1000965	1000907	1000965	1000907	531376	531318	9	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed59.K768.B6.idx.59.i
+0.920388	1000965	27899	1000965	27899	531376	24898	24	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed74.K768.B6.idx.74.i
+0.945240	1000965	1000036	1000965	1000036	531376	530447	47	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed97.K768.B6.idx.97.i
+Query:	 1000966
+0.875180	1000966	1000719	1000966	1000719	531377	531130	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.913995	1000966	1000023	1000966	1000023	531377	530434	3	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed53.K768.B6.idx.53.i
+0.986944	1000966	595	1000966	595	531377	594	26	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed76.K768.B6.idx.76.i
+Query:	 1000967
+0.840918	1000967	356761	1000967	356761	531378	353760	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.923338	1000967	493996	1000967	493996	531378	490995	1	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed51.K768.B6.idx.51.i
+0.942015	1000967	458951	1000967	458951	531378	455950	2	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed52.K768.B6.idx.52.i
+0.972506	1000967	1002126	1000967	1002126	531378	532537	46	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed96.K768.B6.idx.96.i
+Query:	 1000968
+0.891324	1000968	1000920	1000968	1000920	531379	531331	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.935661	1000968	96553	1000968	96553	531379	93552	2	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed52.K768.B6.idx.52.i
+0.940924	1000968	287237	1000968	287237	531379	284236	5	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed55.K768.B6.idx.55.i
+0.959768	1000968	1002457	1000968	1002457	531379	532868	27	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed77.K768.B6.idx.77.i
+0.968004	1000968	1000943	1000968	1000943	531379	531354	37	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed87.K768.B6.idx.87.i
+Query:	 1000969
+0.983302	1000969	1000696	1000969	1000696	531380	531107	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.986625	1000969	1000539	1000969	1000539	531380	530950	2	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed52.K768.B6.idx.52.i
+0.991421	1000969	1000492	1000969	1000492	531380	530903	11	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed61.K768.B6.idx.61.i
+Query:	 1000970
+0.856247	1000970	57445	1000970	57445	531381	54444	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.995565	1000970	1000895	1000970	1000895	531381	531306	1	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed51.K768.B6.idx.51.i
+0.997101	1000970	1000776	1000970	1000776	531381	531187	11	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed61.K768.B6.idx.61.i
+Query:	 1000971
+0.849195	1000971	94635	1000971	94635	531382	91634	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.864380	1000971	1000689	1000971	1000689	531382	531100	6	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed56.K768.B6.idx.56.i
+0.866069	1000971	172008	1000971	172008	531382	169007	7	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed57.K768.B6.idx.57.i
+0.868034	1000971	1000724	1000971	1000724	531382	531135	28	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed78.K768.B6.idx.78.i
+0.880721	1000971	191196	1000971	191196	531382	188195	49	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed99.K768.B6.idx.99.i
+Query:	 1000972
+0.758222	1000972	515329	1000972	515329	531383	512328	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.873794	1000972	18124	1000972	18124	531383	15123	1	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed51.K768.B6.idx.51.i
+0.885645	1000972	1000475	1000972	1000475	531383	530886	10	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed60.K768.B6.idx.60.i
+0.900716	1000972	128700	1000972	128700	531383	125699	17	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed67.K768.B6.idx.67.i
+0.902574	1000972	529966	1000972	529966	531383	526965	18	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed68.K768.B6.idx.68.i
+0.936912	1000972	1000752	1000972	1000752	531383	531163	43	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed93.K768.B6.idx.93.i
+Query:	 1000973
+0.771570	1000973	405330	1000973	405330	531384	402329	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.958827	1000973	1000940	1000973	1000940	531384	531351	1	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed51.K768.B6.idx.51.i
+0.960083	1000973	1000870	1000973	1000870	531384	531281	5	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed55.K768.B6.idx.55.i
+0.986242	1000973	1000753	1000973	1000753	531384	531164	7	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed57.K768.B6.idx.57.i
+0.988872	1000973	1000952	1000973	1000952	531384	531363	15	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed65.K768.B6.idx.65.i
+Query:	 1000974
+0.666284	1000974	100685	1000974	100685	531385	97684	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.702270	1000974	297451	1000974	297451	531385	294450	1	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed51.K768.B6.idx.51.i
+0.960080	1000974	1001441	1000974	1001441	531385	531852	2	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed52.K768.B6.idx.52.i
+0.962138	1000974	1000943	1000974	1000943	531385	531354	13	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed63.K768.B6.idx.63.i
+Query:	 1000975
+0.984734	1000975	1000549	1000975	1000549	531386	530960	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+Query:	 1000976
+0.773261	1000976	427418	1000976	427418	531387	424417	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.867959	1000976	253052	1000976	253052	531387	250051	1	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed51.K768.B6.idx.51.i
+0.871970	1000976	385920	1000976	385920	531387	382919	4	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed54.K768.B6.idx.54.i
+0.939122	1000976	1000943	1000976	1000943	531387	531354	5	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed55.K768.B6.idx.55.i
+0.941499	1000976	1001382	1000976	1001382	531387	531793	6	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed56.K768.B6.idx.56.i
+0.946790	1000976	1002692	1000976	1002692	531387	533103	16	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed66.K768.B6.idx.66.i
+0.954880	1000976	1000529	1000976	1000529	531387	530940	17	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed67.K768.B6.idx.67.i
+Query:	 1000977
+0.831015	1000977	129261	1000977	129261	531388	126260	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.924682	1000977	1001381	1000977	1001381	531388	531792	1	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed51.K768.B6.idx.51.i
+Query:	 1000978
+0.860245	1000978	498814	1000978	498814	531389	495813	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.876511	1000978	21447	1000978	21447	531389	18446	4	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed54.K768.B6.idx.54.i
+0.979497	1000978	1000077	1000978	1000077	531389	530488	5	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed55.K768.B6.idx.55.i
+0.988319	1000978	1000302	1000978	1000302	531389	530713	9	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed59.K768.B6.idx.59.i
+Query:	 1000979
+0.885232	1000979	1000483	1000979	1000483	531390	530894	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.912784	1000979	72163	1000979	72163	531390	69162	1	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed51.K768.B6.idx.51.i
+0.942158	1000979	1000145	1000979	1000145	531390	530556	4	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed54.K768.B6.idx.54.i
+0.944277	1000979	1000550	1000979	1000550	531390	530961	47	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed97.K768.B6.idx.97.i
+Query:	 1000980
+0.792926	1000980	248814	1000980	248814	531391	245813	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.797054	1000980	152755	1000980	152755	531391	149754	1	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed51.K768.B6.idx.51.i
+0.968613	1000980	1001121	1000980	1001121	531391	531532	2	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed52.K768.B6.idx.52.i
+0.973345	1000980	1002263	1000980	1002263	531391	532674	23	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed73.K768.B6.idx.73.i
+Query:	 1000981
+0.750187	1000981	11105	1000981	11105	531392	8104	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.781971	1000981	238354	1000981	238354	531392	235353	1	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed51.K768.B6.idx.51.i
+0.957051	1000981	195129	1000981	195129	531392	192128	2	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed52.K768.B6.idx.52.i
+0.977737	1000981	1001767	1000981	1001767	531392	532178	33	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed83.K768.B6.idx.83.i
+Query:	 1000982
+0.985299	1000982	1001152	1000982	1001152	531393	531563	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.987297	1000982	1000553	1000982	1000553	531393	530964	36	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed86.K768.B6.idx.86.i
+Query:	 1000983
+0.993672	1000983	403725	1000983	403725	531394	400724	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+Query:	 1000984
+0.887985	1000984	144801	1000984	144801	531395	141800	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.932907	1000984	1001301	1000984	1001301	531395	531712	2	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed52.K768.B6.idx.52.i
+0.960835	1000984	1000166	1000984	1000166	531395	530577	8	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed58.K768.B6.idx.58.i
+0.961403	1000984	1000748	1000984	1000748	531395	531159	9	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed59.K768.B6.idx.59.i
+0.987179	1000984	1001287	1000984	1001287	531395	531698	26	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed76.K768.B6.idx.76.i
+Query:	 1000985
+0.736730	1000985	474637	1000985	474637	531396	471636	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.810434	1000985	74480	1000985	74480	531396	71479	1	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed51.K768.B6.idx.51.i
+0.921065	1000985	314165	1000985	314165	531396	311164	2	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed52.K768.B6.idx.52.i
+0.925637	1000985	1002147	1000985	1002147	531396	532558	6	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed56.K768.B6.idx.56.i
+0.959007	1000985	1001218	1000985	1001218	531396	531629	17	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed67.K768.B6.idx.67.i
+Query:	 1000986
+0.939429	1000986	1002379	1000986	1002379	531397	532790	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.959868	1000986	1000982	1000986	1000982	531397	531393	3	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed53.K768.B6.idx.53.i
+0.962476	1000986	1000727	1000986	1000727	531397	531138	5	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed55.K768.B6.idx.55.i
+0.963023	1000986	1000494	1000986	1000494	531397	530905	6	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed56.K768.B6.idx.56.i
+0.987188	1000986	335644	1000986	335644	531397	332643	9	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed59.K768.B6.idx.59.i
+Query:	 1000987
+0.928476	1000987	1000926	1000987	1000926	531398	531337	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.948655	1000987	1000699	1000987	1000699	531398	531110	4	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed54.K768.B6.idx.54.i
+0.967587	1000987	1002181	1000987	1002181	531398	532592	11	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed61.K768.B6.idx.61.i
+0.994145	1000987	381185	1000987	381185	531398	378184	16	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed66.K768.B6.idx.66.i
+Query:	 1000988
+0.817130	1000988	105833	1000988	105833	531399	102832	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.976848	1000988	1000491	1000988	1000491	531399	530902	1	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed51.K768.B6.idx.51.i
+0.984921	1000988	1000310	1000988	1000310	531399	530721	39	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed89.K768.B6.idx.89.i
+Query:	 1000989
+0.852625	1000989	513283	1000989	513283	531400	510282	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.968705	1000989	1000160	1000989	1000160	531400	530571	1	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed51.K768.B6.idx.51.i
+0.982871	1000989	272619	1000989	272619	531400	269618	17	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed67.K768.B6.idx.67.i
+0.982988	1000989	215572	1000989	215572	531400	212571	21	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed71.K768.B6.idx.71.i
+0.983805	1000989	1000771	1000989	1000771	531400	531182	39	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed89.K768.B6.idx.89.i
+Query:	 1000990
+0.974771	1000990	1000406	1000990	1000406	531401	530817	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.981227	1000990	1000770	1000990	1000770	531401	531181	5	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed55.K768.B6.idx.55.i
+0.987487	1000990	406243	1000990	406243	531401	403242	7	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed57.K768.B6.idx.57.i
+0.988185	1000990	200155	1000990	200155	531401	197154	11	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed61.K768.B6.idx.61.i
+0.990303	1000990	136661	1000990	136661	531401	133660	24	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed74.K768.B6.idx.74.i
+0.991833	1000990	1000246	1000990	1000246	531401	530657	26	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed76.K768.B6.idx.76.i
+0.992493	1000990	1001146	1000990	1001146	531401	531557	39	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed89.K768.B6.idx.89.i
+Query:	 1000991
+0.917351	1000991	1000831	1000991	1000831	531402	531242	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.930870	1000991	135786	1000991	135786	531402	132785	18	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed68.K768.B6.idx.68.i
+0.944776	1000991	513583	1000991	513583	531402	510582	34	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed84.K768.B6.idx.84.i
+Query:	 1000992
+0.894985	1000992	1000006	1000992	1000006	531403	530417	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.946373	1000992	164507	1000992	164507	531403	161506	6	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed56.K768.B6.idx.56.i
+0.979972	1000992	245396	1000992	245396	531403	242395	19	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed69.K768.B6.idx.69.i
+Query:	 1000993
+0.868249	1000993	1000772	1000993	1000772	531404	531183	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.992288	1000993	455535	1000993	455535	531404	452534	1	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed51.K768.B6.idx.51.i
+0.993671	1000993	1000573	1000993	1000573	531404	530984	14	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed64.K768.B6.idx.64.i
+0.994272	1000993	1002561	1000993	1002561	531404	532972	30	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed80.K768.B6.idx.80.i
+Query:	 1000994
+0.822624	1000994	352148	1000994	352148	531405	349147	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.864427	1000994	17719	1000994	17719	531405	14718	2	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed52.K768.B6.idx.52.i
+0.870596	1000994	250030	1000994	250030	531405	247029	27	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed77.K768.B6.idx.77.i
+Query:	 1000995
+0.768310	1000995	119586	1000995	119586	531406	116585	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.858244	1000995	150588	1000995	150588	531406	147587	2	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed52.K768.B6.idx.52.i
+0.868216	1000995	515932	1000995	515932	531406	512931	3	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed53.K768.B6.idx.53.i
+0.897017	1000995	75186	1000995	75186	531406	72185	4	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed54.K768.B6.idx.54.i
+0.939098	1000995	491648	1000995	491648	531406	488647	8	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed58.K768.B6.idx.58.i
+0.941962	1000995	209767	1000995	209767	531406	206766	16	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed66.K768.B6.idx.66.i
+0.944714	1000995	1000857	1000995	1000857	531406	531268	47	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed97.K768.B6.idx.97.i
+0.945707	1000995	221506	1000995	221506	531406	218505	48	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed98.K768.B6.idx.98.i
+Query:	 1000996
+0.596771	1000996	437804	1000996	437804	531407	434803	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.886550	1000996	365488	1000996	365488	531407	362487	1	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed51.K768.B6.idx.51.i
+0.905797	1000996	458519	1000996	458519	531407	455518	9	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed59.K768.B6.idx.59.i
+0.934489	1000996	327092	1000996	327092	531407	324091	10	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed60.K768.B6.idx.60.i
+Query:	 1000997
+0.554238	1000997	352447	1000997	352447	531408	349446	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.849276	1000997	329069	1000997	329069	531408	326068	1	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed51.K768.B6.idx.51.i
+0.858466	1000997	527376	1000997	527376	531408	524375	3	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed53.K768.B6.idx.53.i
+0.915572	1000997	394588	1000997	394588	531408	391587	5	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed55.K768.B6.idx.55.i
+0.927562	1000997	276269	1000997	276269	531408	273268	15	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed65.K768.B6.idx.65.i
+0.932306	1000997	459250	1000997	459250	531408	456249	25	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed75.K768.B6.idx.75.i
+0.953571	1000997	1000193	1000997	1000193	531408	530604	49	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed99.K768.B6.idx.99.i
+Query:	 1000998
+0.923238	1000998	71075	1000998	71075	531409	68074	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.932779	1000998	521280	1000998	521280	531409	518279	2	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed52.K768.B6.idx.52.i
+0.940463	1000998	1001067	1000998	1001067	531409	531478	6	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed56.K768.B6.idx.56.i
+0.952294	1000998	273875	1000998	273875	531409	270874	8	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed58.K768.B6.idx.58.i
+0.958938	1000998	1000959	1000998	1000959	531409	531370	9	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed59.K768.B6.idx.59.i
+0.966007	1000998	323137	1000998	323137	531409	320136	10	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed60.K768.B6.idx.60.i
+0.969664	1000998	183168	1000998	183168	531409	180167	31	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed81.K768.B6.idx.81.i
+Query:	 1000999
+0.960976	1000999	454701	1000999	454701	531410	451700	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.975439	1000999	1000634	1000999	1000634	531410	531045	1	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed51.K768.B6.idx.51.i
+0.978115	1000999	1000718	1000999	1000718	531410	531129	2	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed52.K768.B6.idx.52.i
+0.978930	1000999	1000431	1000999	1000431	531410	530842	7	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed57.K768.B6.idx.57.i
+0.980671	1000999	155998	1000999	155998	531410	152997	8	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed58.K768.B6.idx.58.i
+0.992628	1000999	471608	1000999	471608	531410	468607	44	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed94.K768.B6.idx.94.i
+Query:	 1001000
+0.945909	1001000	1002283	1001000	1002283	531411	532694	0	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed50.K768.B6.idx.50.i
+0.972505	1001000	436026	1001000	436026	531411	433025	6	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed56.K768.B6.idx.56.i
+0.988780	1001000	1001824	1001000	1001824	531411	532235	8	/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed58.K768.B6.idx.58.i

@@ -1,0 +1,299 @@
+<header id=041107>
+Published Date: 2022-01-25 20:24:05 EST
+Subject: PRO/AH/EDR> COVID-19 update (30): variants in immuno-comp., stability, endemic, WHO
+Archive Number: 20220126.8701074
+</header>
+<body id=041107>
+CORONAVIRUS DISEASE 2019 UPDATE (30): VARIANTS IN IMMUNO-COMPROMISED, VIRUS STABILITY, ENDEMIC, WHO
+***************************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] Variants in immunocompromised patients
+[2] Virus stability
+[3] Meaning of endemic
+[4] WHO: daily new cases reported (as of 24 Jan 2022)
+[5] Global update: Worldometer accessed 24 Jan 2022 19:55 EST (GMT-5)
+
+******
+[1] Variants in immunocompromised patients
+Date: Sun 23 Jan 2022
+Source: News Medical Life Sciences [medRxiv pre-print report, edited]
+https://www.news-medical.net/news/20220123/Novel-SARS-CoV-2-mutations-reported-in-chronic-HIV-patients.aspx
+
+
+As of [Sun 23 Jan 2022], the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has infected over 350 million people worldwide and claimed the lives of over 5.59 million. A new study [see citation below] posted to the medRxiv preprint server describes the emergence of new SARS-CoV-2 variants in 3 immunocompromised patients.
+
+Background
+----------
+With the rollout of several effective vaccines against the coronavirus disease 2019 (COVID-19), public health officials anticipated that rapid vaccination coverage would lead to population immunity and the end of the current pandemic. However, delays and shortfalls in the supply of vaccines to many regions, along with vaccine skepticism, have led to the emergence of several SARS-CoV-2 variants that are associated with higher transmissibility and immune escape capabilities. These new strains of SARS-CoV-2 have driven successive resurgences of the virus that have caused new infections, reinfections, and breakthrough infections.
+
+Many previous studies have described chronic SARS-CoV-2 infections in immunocompromised patients due to their inability to clear the virus completely. The prolonged presence of SARS-CoV-2 in the body allows the viral genome to change and adapt to environmental threats, including antibodies used to treat such patients.
+
+This is a fertile source for novel SARS-CoV-2 variants, especially those with antibody escape capability from antibodies elicited by both vaccines and natural infection. Mutations in the spike gene can lead to changes in the spike protein that modify the antibody epitopes and subsequently prevent or impair spike binding by anti-spike antibodies. As a result, neutralizing antibodies fail to act against these novel variants.
+
+Many of these SARS-CoV-2 variants, including the alpha, beta, delta, and omicron variants, have multiple spike mutations that are associated with antibody escape from neutralizing antibodies that are active against the wild-type virus. Neutralizing activity is a correlate of protective immunity against the virus, as well as viral clearance and non-fatal disease; therefore, any reduction in this activity is significant.
+
+The current study describes the emergence of novel mutations in 3 patients with chronic SARS-CoV-2 infection because of advanced human immunodeficiency virus (HIV) infection.
+
+Study findings
+--------------
+The 1st patient was admitted to the hospital with breathlessness along with weight loss, fevers, and night sweats. A polymerase chain reaction (PCR) test of the combined nose and throat swabs (CNTS) was positive for SARS-CoV-2 and the patient was also diagnosed to have HIV-1. Military tuberculosis was also present, and the patient was treated for all these conditions. Two months later, a repeat CNTS was negative for SARS-CoV-2 ribonucleic acid (RNA).
+
+The 2nd patient, who had previously been diagnosed with diffuse large B-cell lymphoma and HIV-1, was admitted as a result of a urinary tract infection. The patient was poorly compliant with antiretroviral therapy (ART) for HIV, which had been diagnosed 2 decades before. At 4 weeks from admission, a CNTS was positive for SARS-CoV-2. This 2nd patient was put on oxygen due to breathlessness and remained positive for SARS-CoV-2 thereafter.
+
+The 3rd patient had a 10-year history of HIV-1 with intermittent ART. Presenting with cough, fever, and myalgia, the diagnosis of COVID-19 was made upon admission. While the symptoms subsided soon afterward, every weekly CNTS has been positive for SARS-CoV-2.
+
+All patient samples yielded large amounts of viral RNA from the CNTS, which corresponded to a cycle threshold (Ct) of 30 that is considered to be a moderate-to-high viral load. In all cases, the infecting variant was the alpha SARS-CoV-2, which consists of an N501Y mutation that improves the binding affinity of the viral receptor-binding domain (RBD) for the host cell angiotensin-converting enzyme 2 (ACE2) receptor by 10-fold.
+
+When the viral RNA from these patients was sequenced by next-generation sequencing (NGS), numerous mutations in the SARS-CoV-2 spike RBD were detected. Some of these mutations persisted over time, probably because they were selected for by the presence of antibodies to earlier strains. All patient samples were also found to harbor a mutation at E484 within the receptor-binding motif (RBM) of the RBD, a position notorious for immune escape. Some of these mutations, such as E484K and E484G, also increase the binding affinity of the RBD for ACE2. The anti-spike antibodies in the serum of the 3rd patient were at detectable levels; however, no activity was seen with the wild-type virus. Successful virus isolation was achieved from the 3rd patient.
+
+Implications
+------------
+The current study demonstrates the evolution of SARS-CoV-2 within immunocompromised hosts harboring chronic infection and its adaptation through novel mutations that emerged over time. The persistence of some, though not all, of the mutations, indicates that SARS-CoV-2 continued to replicate actively within the patients as a result of the immune deficit that led to a failure to clear the virus from the body.
+
+"These findings provide further evidence that in the setting of immunosuppression, individuals can have chronic SARS-CoV-2 infection providing an opportunity for the generation of novel variants."
+
+These mutations appear to promote higher transmissibility and could also facilitate antibody escape. The combined presence of N501Y and E484K in the SARS-CoV-2 beta variant was associated with the highest reduction in neutralizing capacity by currently available natural, vaccine-induced, and therapeutic monoclonal antibodies seen so far.
+
+The presence of the Q498R mutation, in combination with N501Y, is expected to markedly promote binding affinity for the ACE2 receptor. When all 3 mutations occur, as was seen in the 1st and 3rd patients, their cumulative effects are expected to enhance RBD-ACE2 binding 50-fold as compared to the wild-type virus. Such large increases in transmissibility are worrying and could indicate that the variant is also capable of efficiently evading antibody-mediated neutralization. Further studies are therefore needed to characterize the impact of these mutations.
+
+However, it is already known that other mutations, such as Q493K in the RBD that is also found in the omicron variant, along with Q498R and Y505H, are associated with resistance to neutralizing antibodies and have been previously identified in immunocompromised hosts. The possible causes of these mutations could include the very low CD4 cell counts, absence of a neutralizing antibody response, or the increased receptor binding that allowed certain mutations to be positively selected.
+
+"CD4 T-cells are central to both neutralizing antibody and cytotoxic T-cell activity in acute infection."
+
+The lack of adequate CD4 cell counts could be responsible for the poor neutralizing antibody response since the latter depends on activation by T-cells and because CD4 T-cells are linked with recovery from infection with this virus and faster viral clearance. However, when the CD4 cell response is absent or significantly delayed, a fatal or severe outcome is more likely. In contrast, the patients in this study had chronic yet asymptomatic SARS-CoV-2 infection, perhaps due to the contribution of other components of adaptive immunity.
+
+The lack of neutralization in the 3rd patient, even with detectable anti-spike antibody titers, shows that the functional effects of antibodies, rather than their magnitude alone, must be measured, especially in immunocompromised patients. Much more research is required to discern the relationships between the deficiency of different immune components and viral clearance in this and other infections.
+
+Meanwhile, it is obvious that patients with chronic SARS-CoV-2 infection must be monitored closely to prevent the emergence of new mutations that can facilitate escape from vaccine-induced antibodies. In this case, genome sequencing data was used to identify the presence of replicating virus particles, thus triggering proper containment measures. This would indicate the need for such sequencing tools to be made available in diagnostic centers in order to prevent and contain such outbreaks.
+
+A significant proportion of the sub-Saharan African population remains unvaccinated. The high HIV caseload, about 1/3 of whom are not on ART and thus chronically immunosuppressed, highlights the threat that these individuals could promote further mutation of SARS-CoV-2. Taken together, these factors support the need to make vaccination a global program, rather than regional.
+
+[Byline: Liji Thomas]
+
+--
+Communicated by:
+ProMED from Google Alerts
+
+[The citation for the above-mentioned study follows:
+Riddell AC, Kele B, Harris K, et al. Generation of novel SARS-CoV-2 variants on B.1.1.7 lineage in 3 patients with advanced HIV disease. medRxiv 2022.01.14.21267836; doi: https://doi.org/10.1101/2022.01.14.21267836.]
+
+******
+[2] Virus stability
+Date: Fri 21 Jan 2022
+Source: News Medical Life Sciences [bioRxiv pre-print report, edited]
+https://www.news-medical.net/news/20220121/Omicron-found-to-have-higher-environmental-stability-among-SARS-CoV-2-variants.aspx
+
+
+In a recent study [see citation below], Japanese researchers report that the new severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) variant, omicron, has higher environmental stability than previous variants. The study, posted on the preprint server bioRxiv*, compared the SARS-CoV-2 Wuhan strain and variants of concern (VOCs) -- alpha, beta, delta, and omicron variants -- for their survivability and infectivity. Using constructed human skin models, and plastic substrates, the researchers evaluated the environmental stability of the variants.
+
+Introduction
+------------
+Understanding the pathogenesis of the SARS-CoV-2 and its stability in the environment is critical in mitigating the ongoing pandemic that has caused debilitating damages globally. From the initial days, the SARS-CoV-2 ancestral virus has exhibited high transmissibility. With the emergence of many variants, the virus has gained higher transmissibility as evidenced by the number of infection cases despite vaccines and lockdowns the world over.
+
+Several factors are attributed to the increased infectivity and transmissibility of the SARS-CoV-2, such as increased viral load shed from infected individuals, prolonged viral shedding period, decrease in the minimum viral load required to establish infection, changes in the infection target site, and increased environmental stability.
+
+However, to date, no study directly compares the stability of the ancestral virus and its variants of concern in detail and reports their environmental stability. There are previous studies that have reported that the alpha (Pango lineage: B.1.1.7) and beta (Pango lineage: B.1.351) have similar stability. Some studies have compared the stability of the SARS-CoV-2 with that of the severe acute respiratory syndrome coronavirus (SARS-CoV-1) and the influenza virus.
+
+The present study precisely evaluated the differences in viral stability of the Wuhan strain (Pango lineage: A) and all the VOCs, including the omicron (Pango lineage: B.1.1.529) and delta (Pango lineage: B.1.617.2) variant. They also analyzed the disinfection efficacy between the Wuhan strain and all VOCs.
+
+The study
+--------
+All viruses (Wuhan strain (Pango lineage: A, hCoV-19/Japan/TY/WK-521/2019), alpha variant (Pango lineage: B.1.1.7, hCoV-19/Japan/QK002/2020), beta variant (Pango lineage: B.1.351, hCoV-19/Japan/TY8-612/2021), gamma variant (Pango lineage: P.1, hCoV-19/Japan/TY7-501/2021), delta variant (Pango lineage: B.1.617.2, hCoV-19/Japan/TY11-927/2021), and omicron variant (Pango lineage: B.1.1.529, hCoV-19/Japan/TY38-873/2021)) in the study were provided by the National Institute of Infectious Diseases (Tokyo, Japan). The researchers used the VeroE6/TMPRSS2 cells for culturing the viruses.
+
+The researchers evaluated the virus stability on plastic (polystyrene plate) and human skin surfaces. Using the human skin collected from forensic autopsy specimens, the researchers developed an ex vivo model. After applying the virus on the plastic/skin surface, they tested for the survivability of the virus. They evaluated the stability of different viruses on the surface of the human skin model, and also found the effectiveness of different disinfectants against viruses on the human skin. The alcohol-based disinfectants, ethanol, and isopropanol were used in the study.
+
+The researchers defined the detection limit for the titer of the virus remaining on the surface to be 100.5 TCID50, and the survival time as the time until the virus on the surface was no longer detected. On the plastic surface, the researchers analyzed the survival times of the Wuhan strain, alpha variant, beta variant, gamma variant, delta variant, and omicron variant to be 56.0 h, 191.3 h, 156.6 h, 59.3 h, 114.0 h, and 193.5 h, respectively.
+
+While on the human skin surface, they analyzed the survival times of the Wuhan strain, alpha variant, beta variant, gamma variant, delta variant, and omicron variant to be 8.6 h, 19.6 h, 19.1 h, 11.0 h, 16.8 h, and 21.1 h, respectively, with the omicron variant having the longest survival time. The researchers reported that the half-life values had the same tendency as the survival time.
+
+The disinfectants were effective against all the viruses within 15s. However, the VOCs were slightly more resistant than the Wuhan strain. On human skin, an ex vivo evaluation showed complete inactivation of all the viruses with exposure to 35% ethanol within 15s. Therefore, the researchers highly recommend the current protocol of hand hygiene practices to continue for infection control as advised by the World Health Organization.
+
+Thus, this study showed that on plastic and skin surfaces, the VOCs exhibited more than 2-fold longer survival times than those of the Wuhan strain and remained infective on the skin surfaces for more than 16h.
+
+Limitations of the study
+------------------------
+The study does not address the reasons for the observed higher environmental stability of the variants. Further research using recombinant viruses may identify the factors behind this, the researchers observed. Importantly, the evaluated survival time and the half-life in this study are dependent on the external environment and the composition of the body fluid.
+
+In this study, the virus was ultracentrifuged and dispersed in PBS (phosphate buffer saline) solvent. Therefore, it is subject to change according to the number of variables in the environment. Moreover, the relationship between the virus load on the surface and the risk of transmission is unclear. Therefore, it might be reasonable to interpret the value of survival time in this study as a reference value," observed the researchers in the paper.
+
+Conclusion
+----------
+The information on the stability of the virus and its variants responsible for the ongoing pandemic is crucial for infection control and mitigation. This study investigated the environmental stability of the SARS-CoV-2 and its variants of concern. It showed that the omicron variant has the highest environmental stability among VOCs; suggestive of how omicron has rapidly replaced the delta variant and ferociously spread across the globe.
+
+Furthermore, these findings will contribute greatly to elucidating the mechanism of VOC spread with the addition of genetic analysis, the researchers conclude.
+
+[Byline: Ramya Dwivedi]
+
+--
+Communicated by:
+ProMED
+
+[The citation for the above-mentioned study follows:
+Hirose R, Itoh Y, Ikegaya H, et al. Differences in environmental stability among SARS-CoV-2 variants of concern: Omicron has higher stability. bioRxiv. 2022; doi: https://doi.org/10.1101/2022.01.18.476607.
+
+The study looks at the stability of the virus on plastic and simulated human skin surfaces. However, it is clear that airborne transmission of SARS-CoV-2 is the main route of transmission. Handwashing after touching surfaces is important, but not the most important personal protective measure one can take. Good ventilation and proper mask use will reduce risk more. This is not meant to downplay the importance of hand washing as good personal hygiene.
+
+The study is interesting in view of the claims of virus transmission via contaminated mail and frozen food [Bai L, Wang Ye, Wang Yi, et al. Controlling COVID-19 Transmission due to Contaminated Imported Frozen Food and Food Packaging. China CDC Weekly. 2021; 3(2): 30-33; doi: 10.46234/ccdcw2021.008], but these routes of infection have been treated with scepticism. - Mod.LK]
+
+******
+[3] Meaning of endemic
+Date: Mon 24 Jan 2022
+Source: Nature [edited]
+https://www.nature.com/articles/d41586-022-00155-x
+
+
+Citation: Katzourakis A. Nature. 2022; 601, 485; https://doi.org/10.1038/d41586-022-00155-x.
+------------------------------------------------------------------------------
+The word 'endemic' has become one of the most misused of the pandemic. And many of the errant assumptions made encourage a misplaced complacency. It doesn't mean that COVID-19 will come to a natural end.
+
+To an epidemiologist, an endemic infection is one in which overall rates are static: not rising, not falling. More precisely, it means that the proportion of people who can get sick balances out the 'basic reproduction number' of the virus, the number of individuals that an infected individual would infect, assuming a population in which everyone could get sick. Yes, common colds are endemic. So are Lassa fever, malaria, and polio. So was smallpox, until vaccines stamped it out.
+
+In other words, a disease can be endemic and both widespread and deadly. Malaria killed more than 600 000 people in 2020. Ten million fell ill with tuberculosis that same year and 1.5 million died. Endemic certainly does not mean that evolution has somehow tamed a pathogen so that life simply returns to 'normal.'
+
+As an evolutionary virologist, it frustrates me when policymakers invoke the word endemic as an excuse to do little or nothing. There's more to global health policy than learning to live with endemic rotavirus, hepatitis C, or measles.
+
+Stating that an infection will become endemic says nothing about how long it might take to reach stasis, what the case rates, morbidity levels, or death rates will be or, crucially, how much of a population -- and which sectors -- will be susceptible. Nor does it suggest guaranteed stability: there can still be disruptive waves from endemic infections, as seen with the US measles outbreak in 2019. Health policies and individual behaviour will determine what form -- out of many possibilities -- endemic COVID-19 takes.
+
+Soon after the alpha variant emerged and spread in late 2020, I argued that, unless infections were suppressed, viral evolution would be fast and unpredictable, with the emergence of more variants with different and potentially more-dangerous biological characteristics. Since then, public-health systems have struggled under the highly transmissible and more-virulent delta variant, and now there is omicron, with its substantial ability to evade the immune system, causing reinfections and breakthroughs. Beta and gamma were also highly dangerous, but did not spread to the same extent.
+
+The same virus can cause endemic, epidemic or pandemic infections: it depends on the interplay of a population's behaviour, demographic structure, susceptibility, and immunity, plus whether viral variants emerge. Different conditions across the world can allow more-successful variants to evolve, and these can seed new waves of epidemics. These seeds are tied to a region's policy decisions and capacity to respond to infections. Even if one region reaches an equilibrium -- be that of low or high disease and death -- that might be disturbed when a new variant with new characteristics arrives.
+
+COVID-19 is, of course, not the world's 1st pandemic. The fact that immune systems have evolved to cope with constant infections, and the traces of viral genetic material embedded in our own genomes from ancient viral infections, are testament to such evolutionary battles. It is likely that some viruses went 'extinct' on their own and still caused high rates of mortality on the way out.
+
+There is a widespread, rosy misconception that viruses evolve over time to become more benign. This is not the case: there is no predestined evolutionary outcome for a virus to become more benign, especially ones, such as SARS-CoV-2, in which most transmission happens before the virus causes severe disease. Consider that alpha and delta are more virulent than the strain first found in Wuhan, China. The 2nd wave of the 1918 influenza pandemic was far more deadly than the 1st.
+
+Much can be done to shift the evolutionary arms race in humanity's favour. First, we must set aside lazy optimism. Second, we must be realistic about the likely levels of death, disability, and sickness. Targets set for reduction should consider that circulating virus risks giving rise to new variants. Third, we must use -- globally -- the formidable weapons available: effective vaccines, antiviral medications, diagnostic tests, and a better understanding of how to stop an airborne virus through mask wearing, distancing, and air ventilation and filtration. Fourth, we must invest in vaccines that protect against a broader range of variants.
+
+The best way to prevent more, more-dangerous or more-transmissible variants from emerging is to stop unconstrained spread, and that requires many integrated public-health interventions, including, crucially, vaccine equity. The more a virus replicates, the greater the chance that problematic variants will arise, most probably where spread is highest. The alpha variant was first identified in the United Kingdom, delta was first found in India, and omicron in southern Africa, all places where spread was rampant.
+
+Thinking that endemicity is both mild and inevitable is more than wrong, it is dangerous: it sets humanity up for many more years of disease, including unpredictable waves of outbreaks. It is more productive to consider how bad things could get if we keep giving the virus opportunities to outwit us. Then we might do more to ensure that this does not happen.
+
+[Byline: Aris Katzourakis]
+
+--
+Communicated by:
+Mary Marshall
+<mjm2020@googlemail.com>
+From Tulio de Oliveira @Tuliodna, and also from Sabine Zentis and retweeted by Kristian Andersen
+
+[ProMED posted earlier on the misuse/misunderstanding of the word "endemic." This article lays out the meaning and significance for COVID very clearly.
+
+Also see https://www.thesaturdaypaper.com.au/opinion/topic/2022/01/15/why-covid-19-will-never-become-endemic/164216520013155 (subscription required). - Mod.LK]
+
+******
+[4] WHO: daily new cases reported (as of 24 Jan 2022)
+Date: Mon 24 Jan 2022
+Source: WHO [abridged, edited]
+https://covid19.who.int/table
+
+
+*Daily case reports as of 24 Jan 2022 16:48 CET
+
+Surveillance
+------------
+WHO region (no. countries/territories):
+Total confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+--------------------------------------------------------------------------------
+Western Pacific Region (19): 14 308 546 (142 860) / 165 066 (283)
+European Region (61): 131 002 165 (1 127 253) / 1 742 509 (1944)
+South East Asia Region (10): 50 112 782 (339 175) / 731 020 (478)
+Eastern Mediterranean Region (22): 18 299 374 (67 818) / 319 704 (204)
+Region of the Americas (54): 127 975 395 (1 213 775) / 2 471 381 (4781)
+African Region (49): 7 942 093 (8610) / 162 573 (202)
+Cases on an international conveyance: 764 (0) / 13 (0)
+
+Confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+Grand total: 349 641 119 (2 899 491) / 5 592 266 (7892)
+
+--
+Communicated by:
+ProMED
+
+[Data by country, area, or territory for 24 Jan 2022 can be accessed at https://promedmail.org/wp-content/uploads/world-pdf/2022%20WHO%20Data%20Tables%20JAN24_1643140452.pdf.
+
+- The Americas region reported 41.9% of cases and 60.6% of deaths in the past 24 hours, having reported more than 127.97 million cases, 2nd to the European region, the most severely affected region. The USA reported 763 485 cases followed by Brazil, Argentina, Peru, Mexico, Colombia, Chile, Uruguay, and Panama. An additional 7 countries reported more than 1000 cases (Cuba, Guatemala, Barbados, Venezuela, Puerto Rico, Paraguay, and Dominican Republic), in the past 24 hours. Additionally, Jamaica and Guyana reported more than 500 but fewer than 1000 cases.
+
+- The European region reported 38.9% of daily case numbers and 24.6% of the daily deaths reported in the past 24 hours, as the most affected region, with cumulative cases exceeding 131.00 million. Some countries not reporting cases in the last 24 hours or longer include Belgium and Spain, among others. A total of 37 countries reported more than 1000 cases in the past 24 hours, with 2 reporting more than 100 000 cases, 17 reporting more than 10 000, and 18 reporting over 1000 cases; an additional 4 countries reported more than 500 but fewer than 1000 cases.
+
+- The Eastern Mediterranean region reported 2.3% of daily case numbers and 2.6% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 18.29 million cases. Pakistan (7586) reported the highest number over the last 24 hours followed by Tunisia, Jordan, Lebanon, Iran, Iraq, Saudi Arabia, Morocco, Kuwait, Bahrain, Qatar, UAE, Libya, occupied Palestinian Territory, Egypt, and Oman.
+
+- The African region reported 0.30% of daily case numbers and 2.6% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 7.94 million cases. Algeria (2134) reported the highest number over the last 24 hours followed by South Africa. Angola and Ghana reported more than 500 but less than 1000 cases over the last 24 hours. A total of 20 countries/ territories did not report cases over the last 24 hours.
+
+- The Western Pacific region reported 4.9% of daily case numbers and 3.6% deaths in the past 24 hours, having reported a cumulative total of more than 14.30 million cases. Japan (48 411) reported the highest number over the last 24 hours followed by Australia, Philippines, Viet Nam, South Korea, Malaysia, Singapore, Mongolia, and Lao PDR.
+
+- The South East Asia region reported 11.7% of the daily newly reported cases and 6.0% of reported deaths in the past 24 hours, having reported a cumulative total of more than 50.11 million cases. India is dominant, reporting 306 064 cases during the last 24 hours, followed by Bangladesh (14 828), Nepal (8054), Thailand (7139), and Indonesia (2927). Sri Lanka, Myanmar, and Maldives, among others, did not report cases.
+
+On the Overview tab at the WHO source URL, the epidemic curve of confirmed COVID-19 cases by WHO region, 30 Dec 2019 through 24 Jan 2022, is an excellent visual representation of the pandemic. - Mod. UBA]
+
+******
+[5] Global update: Worldometer accessed 24 Jan 2022 19:55 EST (GMT-5)
+Date: Mon 24 Jan 2022
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+Total number of reported deaths: 5 622 918
+Total number of worldwide cases: 355 216 285
+Number of newly confirmed cases in the past 24 hours: 3 089 378
+
+--
+Communicated by:
+ProMED
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at https://promedmail.org/wp-content/uploads/world-pdf/2022%20WORLDDATA%20JAN24_1643140513.pdf.
+
+A 7-day series of cumulative data reported by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/2022%20JAN24WORLD7_1643140468.pdf. - Mod.UBA]
+
+[In the past 24 hours, 37 countries including the USA (1 032 759), Spain (305 432), India (255 874), France (108 481), the UK (94 397), Germany (90 962), Brazil (90 509), Argentina (78 121), Italy (77 666), Turkey (67 023), Russia (65 109), the Netherlands (64 630), Australia (48 265), Japan (47 176), Hungary (39 928), Denmark (37 847), Portugal (32 758), Austria (25 610), Philippines (24 840), Poland (29 097), Finland (22 520), Colombia (21 219), Greece (19 073), Norway (18 542), Chile (18 797), Mexico (17 938), Canada (17 276), Ecuador (16 718), Serbia (15 046), Bangladesh (14 828), Viet Nam (14 362), Romania (12 082), Czech Republic (12 935), Ukraine (12 915), Jordan (11 478), Bulgaria (11 049), and Uruguay (10 045) reported the highest numbers of cases, all reporting more than 10 000 newly confirmed cases. A global total of 8130 deaths were reported in the preceding 24 hours (late 22 Jan 2022 to late 23 Jan 2022). The exponential rise in cases over the last few weeks can be attributed to the rapid spread of the omicron variant globally. The 7-day averages indicate an increasing global trend for cases and deaths.
+
+A total of 87 countries reported more than 1000 cases in the past 24 hours; 43 of the 87 countries are from the European region, 14 are from the Americas region, 12 are from the Eastern Mediterranean region, 6 are from the Western Pacific region, 6 are from the South East Asia region, and 6 are from the African region.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, case counts have increased by 17.2%, while daily reported deaths have increased by 15.5%. Similar comparative 7-day averages in the USA show a 7.2% increase in daily reported cases and 33.0% increase in reported deaths.
+
+Impression: The global daily reported over 3.08 million newly confirmed infections in the past 24 hours with over 355.21 million cumulative reported cases and over 5.62 million reported deaths. Transmission continues at a very high level. - Mod.UBA]
+See Also
+COVID-19 update (29): risk assessment, cognitive impairment, global 20220124.8701055
+COVID-19 update (28): rapid tests, fertility, future, WHO 20220123.8701039
+COVID-19 update (27): wastewater, neurology, WHO 20220123.8701029
+COVID-19 update (26): China (Hong Kong) animal, hamster, OIE 20220122.8701017
+COVID-19 update (25): USA masks, nocebo effect, universal vacc, WHO 20220121.8700995
+COVID-19 update (24): USA home tests, Europe & Asia action, omicron, WHO 20220119.8700977
+COVID-19 update (23): China (Hong Kong) animal, hamster, public health hazard 20220119.8700956
+COVID-19 update (22): mobility, breath test, co-infection, Israel 4th dose, WHO 20220119.8700955
+COVID-19 update (21): neurology, isolation period cut 20220117.8700934
+COVID-19 update (20): Africa vacc., Taiwan, waning immunity, persistence, global 20220117.8700915
+COVID-19 update (10): animal, omicron origin statement, OIE 20220110.8700763
+COVID-19 update (01): omicron severity & changes, Germany, T-cell reactivity 20220101.8700616
+2021
+----
+COVID-19 update (452): rapid test, omicron, Ab neutralization, school, WHO 20211230.8700597
+COVID-19 update (451): animal, USA, wild deer 20211230.8700589
+COVID-19 update (450): maternal Abs, CDC isolation guidance, WHO 20211230.8700575
+COVID-19 update (400): animal, sheep, research, experimental infection 20211121.8699806
+COVID-19 update (350): boosters, deaths, cases, vaccines, WHO 20211014.8699041
+COVID-19 update (300): Norway, myocarditis, schools, new variant C.1.2, WHO 20210901.8638460
+COVID-19 update (200): animal, China, origin 20210608.8433657
+COVID-19 update (100): antibodies, vaccine, Thailand, Cambodia, WHO, global 20210316.8250009
+COVID-19 update (50): UK vaccine study, Brazil reinfection, WHO 20210205.8167161
+COVID-19 update (01): variants, vaccine, Thailand, global, WHO 20210101.80629382020
+2020
+----
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+COVID-19 update (562): viral load, UK vacc dose, ECDC, WHO 20201231.8061525
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia: China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia: China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+----
+Undiagnosed pneumonia: China (HU): RFI 20191230.6864153
+and other items in the archives
+.................................................sb/lk/uba/ao/tw/jh
+</body>

@@ -1,0 +1,410 @@
+<header id=034635>
+Published Date: 2011-08-11 14:18:59 EDT
+Subject: PRO/AH/EDR> Avian influenza, human (55): data analysis
+Archive Number: 20110811.2439
+</header>
+<body id=034635>
+AVIAN INFLUENZA, HUMAN (55): DATA ANALYSIS
+******************************************
+
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+Date: Thu 11 Aug 22011
+Source: Eurosurveillance 2011; 16(32), 11 Aug [edited]
+http://www.eurosurveillance.org/ViewArticle.aspx?ArticleId=19941
+
+
+Avian influenza A(H5N1) in humans: new insights from a line list of
+WHO confirmed cases, Sep 2006 to Aug 2010
+---------------------------
+Research article by Fiebig L, Soyka J, Buda S, Buchholz U, Dehnert M,
+Haas W. in Euro Surveill. 2011;16(32):pii=19941.
+
+Summary
+-------
+The threat of avian influenza (AI) viruses to humans in Europe in 2005
+prompted the Robert Koch Institute to establish a routine monitoring
+instrument condensing information on all human AI cases worldwide
+reported from the World Health Organization (WHO) and other sources
+into a line list for further analysis. The 235 confirmed AI cases
+captured from September 2006 to August 2010 had a case fatality rate
+of 56 per cent (132/235), ranging from 28 per cent (27/98) in Egypt to
+87 per cent (71/82) in Indonesia. In a multivariable analysis, odds of
+dying increased by 33 per cent with each day that passed from symptom
+onset until hospitalisation (OR: 1.33, p=0.002). In relation to
+children of 0-9 years, odds of fatal outcome were more than 6 times
+higher in 10-19 year-olds and 20-29 year-olds (OR: 6.06, 95 per cent
+CI: 1.89-19.48, p=0.002 and OR: 6.16, 95 per cent CI: 2.05-18.53,
+p=0.001, respectively), and nearly 5 times higher in patients of 30
+years and older (OR: 4.71, 95 per cent CI: 1.56-14.27, p=0.006)
+irrespective of the country which had notified WHO of the cases. The
+situation in Egypt was special in that case number and incidence in
+children were more than twice as high as in any other age group or
+country. With this study, we show that data from the public domain
+yield important epidemiological information on the global AI
+situation. This approach to establish a line list is time-consuming,
+but a line list is a prerequisite to such evaluations. We thus would
+like to encourage the placing of a publicly accessible line list of
+anonymised human AI cases -- for example, directly by WHO. This might
+enhance our understanding of AI in humans and permit the rapid
+detection of changes in its epidemiology with implications for human
+health.
+
+Introduction
+------------
+Avian influenza (AI) has received public attention since 1997 when
+human infections and thereof 6 fatal cases due to the highly
+pathogenic avian influenza A(H5N1) virus strain were confirmed in Hong
+Kong [1,2] and the pandemic potential of AI viruses was recognised
+[3]. Since 2003, when avian influenza A(H5N1) reappeared, the World
+Health Organization (WHO) has reported 526 human infections with avian
+influenza A(H5N1), of which 311 were fatal, from Central Asian,
+European and African countries [4]. In several areas, highly
+pathogenic AI in poultry has become endemic, with implications on
+human health, as exposure to sick or dead poultry is a risk factor for
+AI in humans [2,5-8]. Because of the pandemic potential of avian
+influenza A(H5N1), there is a great need for joint risk assessments
+and as a prerequisite for rapid international sharing of biological
+materials, reference reagents, epidemiologic data and other
+information when available -- for example, between WHO member states
+and WHO [9].
+
+Unique efforts were made to share information on AI infections in
+humans, domestic poultry and wild birds [10,11] -- for exampl, through
+the reporting of confirmed human cases under the International Health
+Regulations (2005), supported by the WHO Global Alert and Response
+System (GAR) [12]. Case-based reports irrespective of the confirmation
+status have been mainly circulated by the Program for Monitoring
+Emerging Diseases of the International Society for Infectious Diseases
+(ProMED-mail) [13]. News agencies such as Reuters Alertnet [14], and
+public health authorities, including the European Centre for Disease
+Prevention and Control (ECDC) [15], the World Organisation for Animal
+Health (OIE)/Food and Agriculture Organization (FAO) network on animal
+influenza (OFFLU) [16], and the Global Initiative on Sharing Avian
+Influenza Data (GISAID) [17], have contributed in compiling and
+publishing updates on AI in humans and birds online. However, a
+uniform, case-based and thus statistically analysable epidemiological
+database of all human AI cases is not yet publicly available.
+
+Germany, in need for timely information on the AI situation when
+Europe faced 1st avian influenza A(H5N1) cases in birds in 2005,
+established an AI monitoring system at the Robert Koch Institute (RKI)
+in October 2005, which captures case-based information on AI
+infections in humans, as well as animal cases with zoonotic potential,
+worldwide. This system proved particularly useful for situation
+updates, risk assessments and national risk communication from
+February 2006 onwards, when avian influenza A(H5N1) was detected in
+wild birds in Germany [18]. Although the body of literature has
+continuously increased meanwhile, namely through WHO situation updates
+[2,19-23], and virological or epidemiological studies [5,24-27], the
+RKI AI monitoring system has been maintained to have a flexible
+database available for epidemiological evaluations.
+
+With the aim to examine whether a systematic line list based on
+publicly available information on human AI cases would contribute to
+the understanding of the epidemiology of human AI, we assessed case
+characteristics, case fatality, and potential risk factors based on
+our established line list.
+
+Methods
+-------
+Monitoring system: The system established in October 2005, consists of
+a database, collecting events and reports in chronological order, and
+a line list of human cases. The present analysis is based exclusively
+on the line list and covers information on human AI cases reported
+between September 2006 and August 2010 and with a symptom onset date
+not earlier than September 2006. The monitoring followed a
+standardised operating procedure, defining information sources,
+intervals for screening the data and for the database management (as
+described below), and was maintained in Excel (version 11, Microsoft
+Corporation, Redmond, Washington, USA).
+
+Information sources: All screened information sources for human AI
+cases were publicly accessible. They included WHO [12], ECDC [15],
+ProMED [13], as well as Reuters Alertnet [14]. This range of sources
+was accessed to anticipate the extent of non-confirmed human AI and to
+assess the loss of information when ignoring them. All sources were
+screened on a daily basis (weekdays only). If an event was reported
+simultaneously by more than one source, and if there was conflicting
+information, WHO reports were ranked highest, followed by ECDC and
+ProMED. If an event was reported prior to a WHO report by another
+source, both the WHO and the initial report were recorded.
+
+Line list: The line list covered demographic case information, namely
+the country to which the cases were assigned to in the initial
+reports, the patients' age (in years) and sex, date of symptom onset,
+date of hospitalisation, disease outcome, date of death, exposure to
+potentially infected poultry, as well as possible contact with
+infected individuals. Time intervals from symptom onset to
+hospitalisation, from hospital admission to outcome, the duration of
+hospitalisation, and the duration of illness were captured in days.
+The line list and a description of the variable set are provided
+online (http://www.rki.de/avian-influenza-linelist).
+
+Case definitions: Cases were classified into 3 groups: confirmed
+cases, non-confirmed probable, and suspected cases, in a more
+simplified way than by WHO. Confirmed cases comprised avian influenza
+A(H5N1) human cases reported by WHO and with WHO confirmation, i.e.
+persons with defined clinical signs, epidemiological links and
+laboratory confirmation by an influenza laboratory accepted by WHO, as
+specified in the WHO case definition [28].
+
+Other reported cases were (irrespective of their clinical
+presentation) considered as probable if they had exposure to WHO
+confirmed human cases, or to sick or dead poultry, or the AI virus
+infection was confirmed by the country or local institutions but not
+meeting WHO criteria. All other non-confirmed cases were defined as
+suspected cases.
+
+Data analyses: The line list records were compared to the cumulative
+number of confirmed human cases of avian influenza A(H5N1) published
+by WHO [12]. The delay (in days) between the date of WHO reporting,
+and the date of the 1st report by another source than WHO, was
+calculated for WHO confirmed cases.
+
+Confirmed cases were further analysed for demographic and
+epidemiological characteristics stratified by countries, including
+China, Egypt, Indonesia and Vietnam (with 10 or more cases) and a
+remaining group of all other countries. The cases were classified in
+age groups of 10 year intervals. Incidences were calculated over the
+study period as cases per 10 million population, using population data
+from the United Nations [29]. Median and inter-quartile ranges (IQRs)
+were calculated for continuous variables and absolute numbers and
+proportions (together with 95 percent exact confidence intervals
+(CIs)) for categorical variables. For comparison of characteristics,
+the Kruskal-Wallis test, the Wilcoxon-Mann-Whitney test and Fisher's
+Exact test were used. Case fatality was assessed by calculating the
+cumulative (cCFR) and a rolling case fatality rate (rCFR).
+Investigated factors potentially associated with case fatality were
+age (grouped as 0-9, 10-19, 20-29, 30 years or older), sex, country,
+time from symptom onset to hospitalisation, and reported exposure to
+poultry. Univariable and multivariable logistic regression had been
+performed and results were presented as odds ratios (OR) with 95
+percent confidence intervals. In multivariable analysis forward and
+backward selection was applied on all variables, where sex was taken
+into account in all calculations. All possible 2-way interaction terms
+were tested separately and the likelihood ratio test was used to
+analyse whether interaction terms improved the model at a significance
+level of 10 percent. The reported p values are 2-sided and p less than
+0.05 was considered statistically significant. Data were analysed
+using Excel (version 11, Microsoft Corporation, Redmond, Washington,
+USA) and Stata (version 11.0, StataCorp LP, TX, USA) software.
+
+Results
+-------
+[This section has been abbreviated and interested readers should
+access the original text via the source URL to view the full text, the
+tables and figures, and the literature references cited throughout the
+whole document. - Mod.CP]
+
+Reported cases: In the study period, we captured 294 human AI cases in
+12 different countries of which 235 (80 percent) were WHO confirmed,
+35 (12 per cent) were classified as probable, and 24 (8 per cent) as
+suspected. The proportion of confirmed cases was highest in Egypt
+(98/99, 99 per cent) and lowest in Indonesia (82/126, 65 per cent).
+Numbers of reported WHO confirmed cases in our line list were largely
+congruent with cumulative case numbers published by WHO, except for
+Indonesia with 82 versus 102 cases, respectively. This allowed for a
+close reproduction of WHO graphs on avian influenza A(H5N1) human
+cases by date of symptom onset and country, which reveal highest case
+numbers in the winter and spring season of the northern hemisphere.
+
+The median delay from symptom onset to the initial report by any
+source was 11 days among 201 cases with available information. Egypt
+had the shortest median delay of 7 days. 52 per cent of the confirmed
+cases (123/235) were initially reported by another source than WHO in
+a median of 3 days prior to the WHO report. The shortest median delay
+between the initial report and the WHO report was 2 days in China and
+Indonesia, whereas the longest median delay was 9 days in Viet Nam and
+the grouped remaining countries.
+
+Demographic characteristics: 57 per cent of confirmed cases (132/233
+with available information) were women and 43 per cent (101/233) men
+corresponding to a men-to-women ratio of 0.8. This ratio ranged from
+0.6 to 1.3, with 0.6 in Indonesia, 0.8 in Egypt, 1.0 in the grouped
+remaining countries, 1.1 in Viet Nam, and 1.3 in China.
+
+The cases' median age was 18 years but was significantly higher in
+women than in men (21 years in women vs. 14 years in men, p=0.04. The
+median age differed markedly across countries. The lowest median age
+of 6 years was found in Egypt with significant difference between
+women and men (16.5 vs 4 years, respectively, p=0.002). In Egypt, the
+youngest age group (0 to 9 years) accounted for the highest number of
+cases with 53 of 98 cases (54 per cent) and had the highest incidence
+of 284 cases per 10 million population of the same age group, over the
+4-year study period. In contrast, Indonesia, China, and Viet Nam had
+highest case numbers and incidences in the age group of 20 to 29
+years.
+
+Exposure to poultry: 96 per cent of confirmed cases (187/194 with
+available information) had reportedly direct or indirect contact to
+potentially infected poultry. The proportion of individuals with
+reported exposure differed significantly across countries (p=0.009)
+and ranged from 80 per cent to 100 per cent, with 8/10 in the grouped
+remaining countries, 10/12 in China, 55/57 in Indonesia, 93/94 in
+Egypt and 21/21 in Viet Nam without significant differences by the
+cases' sex or age (p=0.70 and p=0.06, respectively).
+
+Hospitalisation: All 228 cases with available information had been
+hospitalised. Patients were admitted to hospital in a median of 4 days
+after symptom onset. The median time from symptom onset to
+hospitalisation ranged from 2-5 days, with 2 days in Egypt, 2.5 days
+in the grouped remaining countries, 4 days in China and 5 days in
+Indonesia and Viet Nam. No significant sex-specific differences were
+found in this delay (p=0.706).
+
+Case fatality: 56 per cent (132/235) of confirmed cases died. The CFR
+differed across countries ranging from 28 per cent (27/98) in Egypt to
+87 per cent (71/82) in Indonesia. The cCFR and the 19-month rCFR
+indicated a decline in case fatality over the study period. Whereas
+the cCFR was little affected by the outcome of new cases and had only
+slightly decreased, the rCFR had steeply declined in the period from
+April 2008 to April 2009. Until mid 2008, a large proportion of cases
+occurred in Indonesia (country with highest CFR) and shifted
+thereafter to Egypt (country with lowest CFR). Accordingly,
+country-specific rCFRs for Indonesia and Egypt were less steep than
+the overall rCFR. The 19-months rCFR was privileged as it was less
+affected by case-free periods than rCFRs calculated over shorter
+periods (not shown).
+
+In Egypt, fatal cases had a median age of 25 years, which was, at
+significant level, higher than the age of cases who survived (4 years,
+p less than 0.001; Table 2). The CFR in Egypt was significantly higher
+in women than in men, (39 per cent (22/56) vs 12 per cent (5/42)
+respectively, p=0.003), which was not observed elsewhere (China: 63
+per cent (5/8) in women vs 70 per cent (7/10) in men, p=1.0;
+Indonesia: 84 per cent (43/51) vs 90 per cent (28/31), p=0.521; Viet
+Nam: 58 per cent (7/12) vs 69 per cent (9/13), p=0.688; remaining
+countries: 80 per cent (4/5) vs 40 per cent (2/5), p=0.524,
+respectively).
+
+A significant difference in time from symptom onset to hospitalisation
+between survivors and fatal cases was only found in Egypt (one day vs
+4.5 days respectively, p=0.001). All 19 cases worldwide hospitalised 8
+days after symptom onset or later had died.
+
+Discussion and conclusions
+--------------------------
+[The section also has been abbreviated and only conclusions are
+presented here. Readers should consult the original document for the
+full analysis. - Mod.CP]
+
+With this study, we summarised the current global AI situation in
+humans. It is, to our knowledge, the 1st study that not only analysed
+human AI cases worldwide on the basis of a line list collected over
+several years but in addition made these case-based data available
+online. We found that a longer delay from symptom onset to hospital
+admission and belonging to older age groups were associated with
+higher mortality in AI patients, and that the situation in Egypt
+differed markedly from other countries with highest AI incidences in
+children and lowest CFR.
+
+Confirmed cases had a median age of 18 years, which is consistent with
+earlier findings, although investigation periods and affected
+countries varied [2,19,21]. The identified predominance of female
+cases in Indonesia and Egypt and the low age median among Egyptian
+cases support findings from previous studies [2,23-25]. 96 percent of
+the cases had reportedly direct or indirect contact to potentially
+infected poultry, recognised as the most important risk factor for
+humans AI [8,34].
+
+The median time from symptom onset to hospitalisation was 4 days,
+which is remarkably stable when compared to earlier studies [19,21].
+If time to hospital admission is regarded as an indicator for
+monitoring case management and patients' awareness [31], no progress
+would be evident from a global perspective so far.
+
+The cases' average CFR was 56 per cent, which is widely consistent
+with findings from earlier investigation periods [2,19,23]. Using a
+19-month rolling CFR, we found a clear decrease in case fatality,
+which persisted when stratifying for Egypt and Indonesia. It could
+thus not simply be explained by a predominance of Egyptian cases since
+2009. Regarding the decreasing CFR in Egypt, Schroedl [32] suggested
+that the circulating AI virus strain may have become less virulent and
+more apt to spreading among children.
+
+Analytical results revealed lowest odds of dying for Egyptian cases,
+even when adjusted for age, sex and time to hospitalisation. Thus, the
+high proportion of survivors in Egypt cannot be entirely explained --
+as often assumed -- by sex-specific differences in CFR [21,24] and the
+high proportion of children among AI patients in Egypt [5], as well as
+short delays from symptom onset to hospitalisation [25].
+
+It cannot be ruled out, that different virus clades circulating in
+Egypt (clade 2.2) and Asia (clades 2.1 and 2.3) shape the
+country-specific epidemiological features [2,23]. Differences in CFR
+across countries and changes over time might also partly be explained
+by differences in intensity and quality of exposure, health-seeking
+behaviour, reporting attitudes, overall performance of the
+surveillance system, and access to diagnostics and medical care
+[23,27,39,40], such as the time to start of oseltamivir treatment, the
+antiviral recommend by WHO for human infections with AI virus [2].
+However, country-specific details on its administration are widely
+unknown, and it remains controversial up to how many days after
+symptom onset the application of the antiviral reduces mortality
+[30,41]. In our study, all patients hospitalised 8 or more days after
+symptom onset died. This suggests a rather narrow time window for
+antiviral drug administration.
+
+Our study points out that data extracted from the public domain
+already yields pertinent epidemiological information for assessing the
+current situation and developments of AI in humans. A line list format
+as provided would enhance the analysability of key data, their
+updating, and the evaluation of variables needed. Several countries
+monitor the global AI situation, whether they currently face human AI
+cases, e.g. Egypt [25], or not, e.g. France [27]. This indicates a
+common interest in data and if they were directly provided in such
+format, this would help to save time and resources for public health
+authorities and researchers.
+
+A line list needs to be flexible in view of potential new information
+to be entered. New variables and parameter values might come up, when
+the minimum dataset suggested Bird and Farrar [31] on direct and
+indirect exposures to avian influenza A(H5N1) confirmed and
+non-confirmed poultry and human exposures would be implemented or when
+results from prospective studies involving exposed and unexposed
+individuals as designed by Kayali et al. [34] are available.
+Unconfirmed cases would ideally be recorded as systematically as
+confirmed cases, either in a common or separate database as suggested
+by Bird and Farrar [31].
+
+Presenting cases in the format of a line list is not a goal in itself,
+but a prerequisite for targeting surveillance and identifying risk
+factors, as well as a starting point for prospective studies, e.g.
+investigating potential human-to-human transmission, the
+transmissibility of avian influenza viruses, and host-related factors
+including age-dependent immunity in humans [33,42].
+
+We would like to encourage that an anonymised case-based database for
+AI in humans is directly placed publicly and continuously updated,
+e.g. by an internationally renowned organisation such as WHO. Open
+access to analysable data might accelerate the identification and
+implementation of research questions and surveillance priorities and
+thus enhance our understanding of -- still mostly fatal -- AI in
+humans and permit the rapid detection of epidemiological changes with
+implications for human health.
+
+--
+communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The editors of ProMED-mail are encouraged to learn that our database
+has played a useful role in this analysis. - Mod.CP]
+See Also
+Avian influenza, human (54): Egypt, WHO 20110810.2427
+Avian influenza, human (53): Cambodia, Egypt 20110803.2338
+Avian influenza, human (52): Cambodia (BM) 20110729.2279
+Avian influenza, human (51): Indonesia (AH) 20110721.2199
+Avian influenza, human (50): Egypt, WHO 20110622.1911
+Avian influenza, human (40): comment 20110428.1318
+Avian influenza, human (30): Indonesia (WJ) 20110323.0921
+Avian influenza, human (20): Egypt, WHO 20110308.0751
+Avian influenza, human (10): Cambodia (Phnom Penh) WHO 20110210.0459
+Avian influenza, human: Egypt, 117 & 118th cases & li 20110102.0019
+.................................................cp/msp/sh
+</body>

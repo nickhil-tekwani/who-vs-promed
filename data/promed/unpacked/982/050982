@@ -1,0 +1,85 @@
+<header id=050982>
+Published Date: 2014-06-24 16:07:20 EDT
+Subject: PRO/AH> Anthrax: new ecological research (03)
+Archive Number: 20140624.2562652
+</header>
+<body id=050982>
+ANTHRAX: NEW ECOLOGICAL RESEARCH (03)
+*************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+[1]
+Date: Mon 23 Jun 2014
+From: Steve Bellan <steve.bellan@gmail.com> [edited]
+
+
+[Re: ProMED-mail Anthrax: new ecological research (02)
+Archive Number: 20140617.2547212]
+----------------------------------------------------------------------
+We appreciate Dr Hugh-Jones's comments. This posting of our manuscript arose after we responded to the comment on the Chobe NP elephant outbreak [ProMED-mail archive no 20140523.2494227] that, "Some have recommended covering elephant carcasses with thorn brush to discourage scavengers. Putrefaction with the normal acidification of the carcass tissues that accompanies it will rapidly kill the vegetative organisms. So the environmental contamination around an unopened carcass may be relatively modest."
+
+We disagree with the latter 2 statements above based on our publication posted above. In our experiment, we randomly selected half of the naturally occurring anthrax carcasses to be scavenged 'controls' and the other half to be experimentally caged for 4 days post-death to prevent vertebrate scavenging. We then sampled spores at several times for up to a year after host death and found no significant differences in spore contamination levels between scavenged and unscavenged groups, with substantial contamination occurring at both. We speculate that the substantial contamination at unscavenged carcasses may be due to ruptures in the skin caused either by blowfly larvae or by bloating induced by putrefaction.
+
+In response to Dr Hugh-Jones comments on our manuscript:
+
+1. We did not use PLET [polymyxin, lysozyme, EDTA, thallium acetate] for counting but rather we used TSPBA [trimethoprim-sulfamethoxazole polymyxin blood agar], which is the same agar also used by the GABRI [ground anthrax bacillus refined isolation] method. PLET was only used as a 2nd method in direct comparison to TSPBA. As said in our Methods section, use of PLET was stopped when it became clear that the results are exactly the same as on TSPBA. So, it is not true that our use of PLET underestimates the real colony counts.
+
+2. The GABRI method has only been tested on one special soil type which may have led to idiosyncratic results. The use of fosfomycin as a selective agent in the GABRI method is also surprising, since fosfomycin is generally used for the induction of temporal phages in bacilli including _B. anthracis_, which should limit growth. Indeed, when we have tested GABRI on our own spiked soil samples, the colony count of all bacilli (including _Bacillus anthracis_) went down by about 3 logs. So the GABRI method will certainly produce false negatives if there is only a small spore concentration present and we caution using GABRI for outbreak analyses or even forensic purposes.
+
+3. We do mention some scavenger species that fed on the carcasses but don't specify exact ones because the scavenger composition varies over time at carcasses. For more information on the scavenger composition at a carcass as a function of time since death please see Figures 3-4 in (Bellan et al (2013). Methods Ecol Evol; [4(4): 361-9; available at http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3818731/), which address this topic explicitly and this camera trap video of one of the fresh carcasses we found to get an idea of what scavenging looks like in Etosha NP. While it is rare for us to sight fresh carcasses, as shown in Figure 4 of the manuscript above, our on the ground presence at this time was great enough to occasionally spot them (see this movie of surveillance effort, carcass observation, and zebra movement data with legend here). Unlike deer and springbok, zebra carcasses are not eviscerated by vultures within minutes -- they are too big and it is difficult for vultures to get inside unless other bigger scavengers have already started . Vultures also are only active from the late morning until sunset, so this depends on the time of carcass death as evident in the camera trap video above).
+
+4. In response to "In addition, confirmation is needed on what happens within the typical target species not just in the 1st 4 days but up to 8 to 10 days postmortem in relation to, for example, numbers of surviving viable organisms within the carcass, pH, and the internal aerobic-anaerobic status. It is possibly not as simple as tradition would have it, though probably not widely different." We sampled carcass sites for a full year after death. Furthermore, the purpose of randomization is to solve the problem of not knowing these other carcass characteristics. We do not need to monitor every single characteristic of a carcass because the caging treatment was randomized. A key tenet of epidemiological study design is that randomization leads to an, on average, even distribution of characteristics between treatment groups and removes the possibility of confounding.
+
+5. We did flag each sample site as described in detail in our manuscript. Furthermore, our use of homogenized pooled sub-samples within each site solves the issue of revisiting sites and sampling appropriately. Further more, it is unclear how any difference in this effect between control and caged sites could effect our results.
+
+The 2 most recent reviews of anthrax ecology (Hugh-Jones and de Vos 2002 [Rev Sci Tech; 21(2): 359-83] and Hugh-Jones and Blackburn 2009 [Mol Aspects Med; 30(6): 356-67]) both confidently state that substantial contamination occurs only if carcasses are opened (by scavengers) within 4 days of death. Yet the cited evidence in these review amounts to 2 studies. First, Dragon et al 2005's observational study compared 2 carcasses: a highly scavenged bison carcass to a minimally scavenged bison carcass; they found less contamination in the latter, but the difference was NOT statistically significant. Second, Minett 1950 studied of levels of _B. anthracis_ contamination in goat body parts cut up to varying degrees in a laboratory setting, finding that contamination was greater the more these body parts were exposed to the environment. All other evidence on the effect of scavenging (prior to our study) has been entirely anecdotal and is based on the idea that the bloodier/messier a carcass, the greater the contamination. Given the complexity of the sporulation process in the environment, we do not believe this to be a robust argument on its own. Our study shows that when left alone by scavengers, carcasses can clearly lead to substantial contamination. Thus, scavenging is not critical to the life cycle of _B. anthracis_, at least in one African system.
+
+--
+Steve Bellan, PhD, MPH
+Post-doctoral Researcher
+Lauren Ancel Meyers Research Group
+Center for Computational Biology and Bioinformatics
+University of Texas at Austin
+<steve.bellan@gmail.com>
+http://www.bio.utexas.edu/research/meyers/steve_bellan/
+
+******
+
+[2]
+Date: Tue 24 Jun 2014
+From: Dan Dragon <dragon@ualberta.ca> [edited]
+
+
+The 2 carcasses sampled for the 2005 Applied & Environmental Microbiology paper [71(3): 1610-1615. doi: 10.1128/AEM.71.3.1610-1615.2005] are an admittedly small sample size. However, during a subsequent anthrax outbreak in the Slave River Lowlands of the Northwest Territories, I sampled around 8 more bison carcasses. Samples were collected before and after various cremation treatments. Statistical analysis between the pre-treatment baseline samplings of the carcasses failed to find any significant collation between degree of scavenging observed and the subsequent contamination of the surrounding soil (although for these carcasses, samples were collected via distance and vector from a central peg versus the grid method described in the 2005 paper).
+
+As part of the cremation tests, the bison carcasses were flipped longitudinally over their vertebrae onto a cremation bed of wood and coal with the assistance of a come-along. This allowed the pre-treatment sampling to include collection of the soil that had been under the animal (something we were unable to do with the carcasses sampled for the 2005 paper). While the highest concentrations of viable spores were often associated with soil where blood had accumulated from a wound in the carcass or where orifice exudate had accumulated, high to medium concentrations of spores were also found in the soil directly under the animal or within about half a foot of the animal. While this soil was not directly associated with blood or orifice exudates, it was damper than the surrounding field suggesting some sort of seepage from the carcass (the dampened soil and sloughed cape hair from the carcasses resulted in a negative image of the animal on the ground after it had been flipped that greatly added in documentation of sample collection). The spore contamination detected in this area was so consistent that, when they build a cremation pyre, the Northwest Territories personnel now also cover the original resting site of the animal with wood and coal (colloquially referred to as the porch) and include it as part of the cremation.
+
+--
+Daniel C Dragon, PhD
+Biosafety Officer, Environment, Health and Safety
+Risk Management Services
+University of Alberta
+3-107 Research Transition Facility
+Edmonton AB
+Canada T6G 2V2
+<dragon@ualberta.ca>
+
+[Our thanks to Steve and Dan for their comments. This clearly opens the field for a reassessment of the parts played by carcass degeneration, leakage/seepage/dry-bot species, scavengers, and even soil spore counting.
+
+For myself I would like to see what the park officials at the Kruger National Park find when they examine their dead zebras, and likewise their park colleagues in Tanzania. Until we have new independent data there is clearly an urgent place for spraying on and around wildlife carcasses with 5 percent formaldehyde if only to initiate disinfection until any of the carcasses can be burnt.
+
+This thread is now cut. - Mod.MHJ
+
+A HealthMap/ProMED-mail map can be accessed at: https://promedmail.org/promed-post?place=2562652,11247.]
+See Also
+Anthrax: new ecological research (02) 20140617.2547212
+Anthrax: new ecological research 20140606.2523686
+1998
+----
+Anthrax, molecular pathogenesis, current research 19980501.0858
+.................................................mhj/mj/jw
+</body>

@@ -1,0 +1,108 @@
+<header id=046945>
+Published Date: 2013-05-01 11:20:56 EDT
+Subject: PRO/AH> Avian influenza, human (67): H7N9, age distribution
+Archive Number: 20130501.1679295
+</header>
+<body id=046945>
+AVIAN INFLUENZA, HUMAN (67): H7N9, AGE DISTRIBUTION
+***************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+Date: Thu 25 Apr 2013
+From: David N Fisman <david.fisman@utoronto.ca> [edited]
+
+
+Thoughts on the age distribution of influenza A (H7N9) human cases in China, 2013
+----------------------------------------------------------------------
+I think the age distribution of identified H7N9 cases in China is remarkable, and strongly suggestive of a high degree of under-identification of mild and asymptomatic infections in the country. Based on yesterday's case counts posted on the FluTrackers website ([24 Apr 2013], available at http://www.flutrackers.com/forum/showpost.php?p=489904), it appeared that there were 110 cases, of whom all but 2 had age data available; 6 further cases were missing data on gender. There are 22 deaths, with one additional possible death for an apparent CFR [Case Fatality Ratio] of 20 or 21 per cent. What has been missing from recent reports related to age distribution and H7N9 influenza cases has been any kind of population denominator, which might help us to see just how unexpected this age distribution might be.
+
+I have tried to quantify the degree to which older individuals are over-represented with a few simple calculations presented below. While it would be preferable to use population denominators for the individual provinces affected as denominators, I have not been able to find these and so have used age-specific population estimates for China as a whole as denominators in the calculations below. Assuming that age distributions across provinces are not dramatically different the results should be reasonable. As cases continue to appear in a wider and wider area of China this also becomes an increasingly reasonable approach.
+
+One possible means for quantifying the excess of cases in older individuals might be via a Standardized Morbidity Ratio [SMR]. The crude cumulative incidence of H7N9 infections in China to date is 110 cases in a population of approximately 1.34 billion, or approximately 0.082 cases per million population; for our SMR estimates we restricted the analysis to the 102 cases for whom both age and gender information are available, so we use a slightly lower estimated cumulative incidence of 0.076 per million. In any case, we can apply this figure to age- and gender- specific populations in order to calculate SMR for each group, as in the table below (SMR = 100 x (observed cases/expected cases)). It can be seen that there's a marked increase in risk in males over 54, and in females over 64, relative to younger individuals, while female risk is substantially lower than risk in males.
+
+Age Group / Gender / Est. Pop / Observed Cases / Expected Cases / SMR
+
+0 to 14 / Male / 124 773 577 / 0 / 9 / 0
+15 to 24 / Male / 109 922 192 / 0 / 8 / 0
+25 to 54 / Male / 322 161 347 / 21 / 24 / 86
+55 to 64 / Male / 77 374 476 / 15 / 6 / 257
+65+ / Male / 60 597 243 / 34 / 5 / 742
+
+0 to 14 / Female / 107 286 199 / 0 / 8 / 0
+15 to 24 / Female / 98 325 568 / 1 / 7 / 13
+25 to 54 / Female / 308 101 780 / 13 / 23 / 56
+55 to 64 / Female / 75 289 733 / 4 / 6 / 70
+65+ / Female / 65 753 724 / 14 / 5 / 282
+
+Similarly, we can perform Poisson regression to calculate incidence rate ratios and confidence limits. Again, there is markedly elevated risk in older individuals, and in males as compared to females (note that there was no evidence for significant interaction between gender and age in this model).
+
+Covariate
+Incidence Rate Ratio (95 per cent CI [Confidence Interval)
+P-value
+
+Age less than 55
+1.00 (referent)
+
+Age 55-64
+3.84 (2.20 to 6.72)
+less than 0.001
+
+Age 65+
+11.98 (7.75 to 18.52)
+less than 0.001
+
+Male gender
+2.20 (1.45 to 3.35)
+less than 0.001
+
+There are several possible explanations for the preponderance of cases among males and older individuals. One of these is potentially exposure to avians, and much has been made of the fact that older men in affected areas may, for example, tend birds or go to parks frequented by pigeons as a leisure time activity. This would not explain the absence of younger individuals who work in agriculture, animal markets, the food services industry, veterinary clinics and zoos, national parks, and any number of other settings where bird exposure must be common. Indeed, one would suspect that if exposure is occurring via farms and markets, it must be a nearly ubiquitous exposure; a de facto environmental exposure. If this is the case, then there are 2 possible explanations for the patterns observed above: one is that case ascertainment is fairly complete but younger individuals are uninfectable with this pathogen; the 2nd, which I regard as more plausible, is that infection is occurring across a broad swath of the population, but those individuals who are being identified as infected are being identified based on unusually severe illness, resulting in case ascertainment bias.
+
+Additional lines of evidence suggest that case ascertainment bias is present here. Excluding 1 death that occurred in an individual of un-reported age, the odds ratio for death in older individuals (if older is defined as greater than 64 years) is only 1.67 (95 per cent CI 0.65 to 4.28, P = 0.29); if older is defined as greater than 54 (years old), the OR remains non-significant (OR = 2.22, 95 per cent CI 0.75 to 6.59, P = 0.15). This is most unexpected: among cases, the overwhelming risk of death should be in older individuals who are far more likely to be frail, as is the typical pattern seen with influenza. For example, the relative risk of mortality associated with seasonal influenza in individuals [older] than 65 [years] is likely 10 or more (consider the fact that over 90 per cent of influenza deaths occur in individuals [older] than 65 [years] in North America, while those over 65 make up only 13-14 per cent of the population in the US and Canada (1, 2); for the 2009 H1N1 pandemic strain, older individuals appeared unlikely to be infected, but in the province of Ontario, Canada, those who were infected were many times more likely to die than younger individuals (OR for death with age greater than 50 [years] was 28.6, 95 per cent CI 7.3 to 111.2, after only 10 deaths) (3). Thus, while the inability to see any clear association between age and mortality may be a simple function of inadequate statistical power at this early moment in the outbreak, it may also suggest that all identified cases are at the sicker end of the spectrum, which again supports the idea that there may be case-ascertainment bias at play. The absence of a clear increase in mortality in older adults in the current outbreak may thus be an epidemiological example of Sherlock Holmes' "dog that didn't bark"!
+
+What is striking to me is the similarity in age distribution and male predominance in H7N9 cases to the age distribution and male predominance seen in another infection whose virulence appears extremely high, but which may be inflated by ascertainment only of more severe cases, that being legionellosis. Legionella has a male:female ratio that ranges from 1.5 to 3, and is exceedingly rare in individuals [younger] than 50 [years] (4, 5). As legionella species are ubiquitous environmentally, exposure is likely widespread, with the gender ratio and age distribution of cases presumably reflecting susceptibility to infection. A plot of age and sex effects for legionellosis (in Ontario) and H7N9 in China, as represented by incidence rate ratios, is posted at http://davidfisman.tumblr.com/image/48890130762. Females in the 25 to 54 age group are used as referents for both diseases (IRR = 1). China H7N9 estimates are less stable due to low case counts.
+
+Note that legionella is environmentally abundant, so there is no need to invoke differential exposure in order to explain these divergent risks. Rather, these differentials likely represent different vulnerability to invasion conditional on (ubiquitous) exposure. Components of elevated risk in older individuals (for legionellosis) may include both differences in physical function (such as the tendency towards microaspiration) as well as immune senescence and immune effects of comorbid illnesses (6). Presumably the excess male risk at any given age reflects the fact that (as seems apparent from diminished life expectancy in males vs females) older males may be of more advanced "physiological age" than females who are of the same chronological age.
+
+Could the parallels between influenza H7N9 and legionellosis extend beyond vulnerability to the actual ecology of these diseases? Influenza viruses do appear to be stable in lake waters and wetlands, which are of course commonly frequented by the wild birds which are influenza's natural reservoir (7-9). Environmental sampling of surface waters in affected areas could potentially be revealing. Indeed, a ProMED-mail posting today suggested that environmental samples from lakes with duck populations yield a virus that appears similar to influenza A (H7N9). (Avian influenza, human (60): China H7N9 update 20130425.1672341).
+
+What if the contention that younger individuals are being exposed to H7N9 with the same likelihood as older individuals is correct? It would likely be important to know whether these younger individuals are actually being infected, or are invulnerable to infection. Presumably well-conducted seroepidemiological studies that will delineate the relationship between recognized and unrecognized infections are underway. However, let us assume for the moment that (as with influenza generally) there is fairly marked heterogeneity in severity of illness among infected individuals and younger people are indeed infected with the same likelihood as older individuals but are much less likely to be ascertained as cases. In this situation, the true risk of infection in younger people could be approximated by the apparent risk of infection in older individuals, depending on the fraction of infected older individuals who we assume are being identified by surveillance systems. If all cases are currently being ascertained, the CFR is an alarming 20 per cent. However, if we assume that only cases in those over 64 years of age are being ascertained accurately, the risk of infection in the population climbs from 0.082 per million to 0.38 per million, and the true number of infections would then be 512. The CFR would then fall to 4.5 per cent. If, as is likely, not all cases in the elderly are being ascertained, CFR would fall still further. If 10 per cent of cases in the elderly are being ascertained, risk increases to 3.8 per million, and the CFR would be estimated at 0.45 per cent. Clearly properly obtained serological data are urgently needed for appropriate risk analysis to occur! These results are presented graphically at http://davidfisman.tumblr.com/image/48891689809.
+
+In summary, while concerning, application of basic epidemiology suggests that the current picture of H7N9 influenza in China is subject to case ascertainment bias, which is likely contributing to marked inflation of the apparent CFR. The age and gender distribution of cases relative to the population is reminiscent of that seen in legionellosis, an environmentally abundant pathogen that appears to preferentially cause recognized infection in older males. It is suggested that environmental as well as animal reservoirs be explored for the better delineation of this novel infectious disease.
+
+--
+David N Fisman, MD MPH FRCPC
+Associate Professor of Epidemiology, Medicine, and Health Policy
+Dalla Lana School of Public Health and Institute of Health Policy, Management and Evaluation
+University of Toronto
+Canada
+<david.fisman@utoronto.ca>
+
+References
+----------
+1. Simonsen L, Clarke MJ, Schonberger LB, et al: Pandemic versus epidemic influenza mortality: a pattern of changing age distribution. The Journal of infectious diseases. J Infect Dis. 1998 Jul; 178(1): 53-60 [available at http://jid.oxfordjournals.org/content/178/1/53.long.
+2. The World Bank: Population ages 65 and above (per cent of total). Available via the Internet at http://data.worldbank.org/indicator/SP.POP.65UP.TO.ZS. Last accessed 25 Apr 2013.
+3. Tuite AR, Greer AL, Whelan M, et al: Estimated epidemiologic parameters and morbidity associated with pandemic H1N1 influenza. CMAJ: Canadian Medical Association journal/journal de l'Association Medicale Canadienne. 2010 Feb; 182(2): 131-6 [available at http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2817319/].
+4. Ng V, Tang P, Jamieson F, et al: Laboratory-based evaluation of legionellosis epidemiology in Ontario, Canada, 1978 to 2006. BMC Infect Dis. 2009; 9:68 [available at http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2695468/].
+5. Quinet B: [Epidemiology and surveillance of legionella infections]. Archives de pediatrie: organe officiel de la Societe francaise de pediatrie. 2005 Apr; 12 Suppl 1: S19-21. Epidemiologie et surveillance des infections a legionnelles [abstract available at http://www.ncbi.nlm.nih.gov/pubmed/15893231].
+6. Niederman MS, Fein AM: Pneumonia in the elderly. Clinics in geriatric medicine. 1986 May; 2(2): 241-68 [abstract available at http://www.ncbi.nlm.nih.gov/pubmed/3516364].
+7. Domanska-Blicharz K, Minta Z, Smietanka K, et al: H5N1 high pathogenicity avian influenza virus survival in different types of water. Avian Dis. 2010 Mar; 54(1 Suppl): 734-7 [abstract available at http://www.ncbi.nlm.nih.gov/pubmed/20521724].
+8. Hinshaw VS, Webster RG, Turner B: Water-bone transmission of influenza A viruses? Intervirology. 1979; 11(1): 66-8. doi: 10.1159/000149014.
+9. Henaux V, Samuel MD, Dusek RJ, et al: Presence of avian influenza viruses in waterfowl and wetlands during summer 2010 in California: are resident birds a potential reservoir? PLoS One. 2012; 7(2): e31471 [available at http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0031471].
+
+[For background, in a prior ProMED-mail post, there was a letter to the editor from Skowronski DM, Janjua NZ, Kwindt TL, De Serres G in Eurosurveillance with a discussion on the unusual age distribution of the cases (see ProMED-mail Avian influenza, human (61): China H7N9 update 20130426.1674993, section [4] Immunological profiling):
+
+"Perhaps the most intriguing impression to date from available surveillance findings has been the unexpected age/sex distribution of reported influenza A(H7N9) cases. The age range spans from 2 to 91 years, but 2/3 of influenza A(H7N9) cases have been 50 years of age or older and 2/3 have been male. Illness severity, with a substantial case fatality rate of 20 per cent, shows a similar age/sex profile. Unlike the pattern observed for influenza A(H5N1), children, both boys and girls and notably the school-aged, are under-represented among influenza A(H7N9) detections. Among the 1st 100 adult influenza A(H7N9) cases, men and women were equally represented in the youngest age category, 20-34 years, but men were 2-3-fold more frequent than women in older age groups. Furthermore, compared with women 20-34 years of age, women 50-64 and 65-79 years were each twice as frequent among influenza A(H7N9) detections. Conversely, men 50-64 and 65-79 years are each 4-5-fold more frequent among influenza A(H7N9) detections than men 20-34 years of age. While being careful not to over-interpret early surveillance data, what hypotheses might be invoked to explain that pattern?"
+
+A few days later, there was another ProMED-mail post containing a line listing of the 1st 127 cases, providing information on age and sex of cases as well as dates of onset, death and geographic location of the cases. (While the data came from a FluTrackers report available at http://www.flutrackers.com/forum/showthread.php?p=489904, the information was extracted into the ProMED-mail post: Avian influenza, human (64): China H7N9 update 20130430.1680704).
+
+ProMED-mail would like to thank Dr Fisman for his submission. Dr Fisman raises some interesting points above in his discussion. What awaits to be seen is results from serosurveys of the population in the affected areas for identification of prior exposure to the H7N9 by age and gender among the general population, and those who are in high risk professions/jobs that increase their probable exposure to these avian populations. - Mod.MPP]
+See Also
+Avian influenza, human (66): H7N9 update 20130501.1683390
+Avian influenza, human (64): China H7N9 update 20130430.1680704
+Avian influenza, human (61): China H7N9 update 20130426.1674993
+.................................................lm/jw/mpp/mj
+</body>

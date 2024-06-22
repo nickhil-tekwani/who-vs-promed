@@ -1,0 +1,487 @@
+<header id=040126>
+Published Date: 2022-06-19 15:53:12 EDT
+Subject: PRO/AH/EDR> COVID-19 update (143): long COVID, FDA, South Asia, WHO, global
+Archive Number: 20220619.8703945
+</header>
+<body id=040126>
+CORONAVIRUS DISEASE 2019 UPDATE (143): LONG COVID, FDA, SOUTH ASIA, WHO, GLOBAL
+*******************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] Long COVID
+[A] Incidence following delta vs omicron variants
+[B] 3 leading theories
+[C] Mass deterioration event
+[2] FDA: vaccine approval
+[3] Regional update: South Asia
+[A] Bangladesh
+[B] India
+[C] Nepal
+[4] WHO: daily new cases reported (as of 17 Jun 2022)
+[5] Global update: Worldometer accessed 17 Jun 2022 19:23 EDT (GMT-5)
+
+******
+[1] Long COVID
+[A] Incidence following delta vs omicron variants
+Date: Sat 18 Jun 2022
+Source: The Lancet [edited]
+https://doi.org/10.1016/S0140-6736(22)00941-2
+
+
+Citation: Antonelli M, Capdevila Pujol J, Spector TD, et al. Risk of long COVID associated with delta versus omicron variants of SARS-CoV-2. Lancet. 2022; 399(10343): 2263-4.
+--------------------------------------------------------------------------------
+The omicron variant of SARS-CoV-2 (PANGO B.1.1.529) spread rapidly across the world, out-competing former variants soon after it was first detected in November 2021. According to the Our World in Data COVID-19 database, in Europe, the number of confirmed cases reported between December 2021 and March 2022 (omicron period) has exceeded all previously reported cases. Omicron appears to cause less severe acute illness than previous variants, at least in vaccinated populations. However, the potential for large numbers of people to experience long-term symptoms is a major concern, and health and workforce planners need information urgently to appropriately scale resource allocation.
+
+In this case-control observational study, we set out to identify the relative odds of long COVID (defined following the National Institute for Health and Care Excellence guidelines as having new or ongoing symptoms 4 weeks or more after the start of acute COVID-19) in the UK during the omicron period compared with the delta period. We used self-reported data from the COVID Symptom Study app (1 [see source URL for complete references]) (King's College London Research Ethics Management Application System number 18210, reference LRS-19/20-18210). Data were extracted and pre-processed using ExeTera13 (version 0.5).
+
+The inclusion criteria in both periods were a positive real-time PCR or lateral flow antigen test for SARS-CoV-2 after vaccination, at least one log per week in the app for at least 28 days after testing positive (2), and no previous SARS-CoV-2 infections before vaccination.
+
+We identified 56 003 UK adults first testing positive between 20 Dec 2021 and 9 Mar 2022 who satisfied the inclusion criteria. These cases are hereafter referred to as omicron cases, as more than 70% of UK cases were estimated to be attributable to the omicron variant during that time. Using identical selection criteria, we identified 41 361 UK adult cases first testing positive between 1 Jun 2021 and 27 Nov 2021 referred to as delta cases, as more than 70% of cases were attributable to the delta variant. Both symptomatic and asymptomatic infections were considered, and, for the omicron period, we included only participants testing positive before 10 Feb 2022, to ensure all participants had at least 28 days for symptom reporting after testing positive.
+
+In both periods, female participation was higher than male participation (55% for omicron and 59% for delta cases). Delta and omicron cases had similar age (mean age 53 years) and prevalence of comorbidities (around 19%). Considering the local area Index of Multiple Deprivation (IMD), a score ranging from 1 (most deprived) to 10 (least deprived) estimating relative locality deprivation, omicron cases were distributed in areas of slightly lower deprivation than delta cases (16.7% vs 17.5% for IMD 1-3). To assess the association between long COVID (outcome) and the infection period (exposure), we applied a univariate logistic regression model adjusted by sex, IMD, age, the presence of comorbidities, vaccination status (1, 2, or 3 doses), and body-mass index, all of which are related to the risk of long COVID (3). We stratified the analysis according to the time elapsed between infection and most recent vaccination considering 3 groups -- 3 months, 3-6 months, and more than 6 months -- to allow for potential waning of immunity from vaccination.
+
+Among omicron cases, 2501 (4.5%) of 56 003 people experienced long COVID, and among delta cases, 4469 (10.8%) of 41 361 people experienced long COVID. Omicron cases were less likely to experience long COVID for all vaccine timings, with an odds ratio ranging from 0.24 (0.20-0.32) to 0.50 (0.43-0.59). These results were also confirmed when the analysis was stratified by age-group (figure [see source URL]).
+
+We believe this is the 1st peer-reviewed study to report on long-COVID risk associated with infection by the omicron variant, highlighting that health surveillance using smartphone apps can produce rapid insights, which we have consistently shown are accurate and subsequently replicated.
+
+A major strength of our study in relation to long COVID is the prospective symptom logging of a wide range of symptoms. Limitations of the self-reported data include no direct testing of infectious variants (here assumed from national data) and no objective measures of illness duration. The samples, although not fully generalisable to the UK population on account of sex and socioeconomic bias, were similar in both periods, allowing comparison. We had insufficient data to estimate the odds of long COVID in unvaccinated individuals and did not estimate effects in children. Finally, to enable swift reporting, the period of assessment of omicron cases was slightly shorter than for the delta variant, and assessment of longer durations of long COVID (e.g., >12 weeks) was not possible.
+
+Overall, we found a reduction in odds of long COVID with the omicron variant versus the delta variant of 0.24-0.50 depending on age and time since vaccination. However, the absolute number of people experiencing long COVID at a given time depends on the shape and amplitude of the pandemic curve. For example, given the high numbers of people infected with omicron in the UK from December 2021 to February 2022, our data are consistent with the UK Office for National Statistics, who estimated that the numbers of people experiencing long COVID actually increased from 1.3 million in January 2022 to 1.7 million in March 2022 (4). Considering the UK omicron peak of more than 350 000 new symptomatic COVID-19 cases per day estimated on 26 Mar 2022 by the ZOE app model and 4% of cases being long COVID, future numbers with long COVID will inevitably rise.
+
+--
+Communicated by:
+Mary Marshall
+<mjm2020@googlemail.com>
+
+---
+[B] 3 leading theories
+Date: Thu 16 Jun 2022
+Source: Science [abridged, edited]
+https://www.science.org/content/article/what-causes-long-covid-three-leading-theories
+
+
+They span 3 continents, but a trio of researchers who've never met share a singular focus made vital by the still-raging pandemic: deciphering the causes of long COVID and figuring out how to treat it.
+
+Almost 2 years ago in Italy, pediatric infectious disease doctor Danilo Buonsenso, who works at Gemelli University Hospital, started to see children who, months after mild infections with SARS-CoV-2, were still short of breath and had crushing fatigue and other symptoms. He now suspects that, in some of them, the cells and tissues that control blood flow are damaged and the blood's tendency to clot is amplified. Minute blood clots, left over from the viral assault or fueled by its aftermath, might be gumming up the body's circulation, to disastrous effect from the brain to joints. "In some patients we have specific areas where no blood flow comes in" or the flow is reduced, Buonsenso says. Is that driving their lingering symptoms? "I can't say this is the truth, of course. But this makes sense."
+
+Meanwhile, in the United States, microbiologist Amy Proal can't stop thinking about a 2nd leading long-COVID theory: that the coronavirus keeps hurting people by stubbornly enduring in the body, even after acute infection passes. Studies have shown "the virus is capable of persistence in a wide range of body sites," especially nerves and other tissues, says Proal, who works at the PolyBio Research Foundation, a nonprofit in Washington state. She recently caught COVID-19 for the 3rd time.
+
+Down under in Australia, immunologist Chansavath Phetsouphanh of the University of New South Wales, Sydney, is chasing a 3rd lead, motivated by what the blood of long-COVID patients has divulged: an immune system gone haywire even 8 months after they'd first tested positive. He had assumed that immune cells galvanized to fight off infection would have calmed down over that time span. So "it was a surprise that these cells did not recover," says Phetsouphanh, who is working to set up an international long-COVID collaboration.
+
+For each of these researchers -- and many others exploring the causes of long COVID -- untangling the complex syndrome, with a still-evolving definition, is a laborious, stepwise process. First, they must show that a possible contributor -- such as minuscule clots, lingering virus, or immune abnormalities -- crops up disproportionately in people with long COVID. Then comes the hard part: proving that each of these traits, alone or in combination, explains why the coronavirus has rendered millions of people shadows of their former selves.
+
+All agree that solo operators are unlikely. Lingering virus, for example, could attack the circulatory system, triggering blood clots or chronic inflammation. "I see this as a triangle," Buonsenso says, with each trigger potentially explaining, or even amplifying, the others.
+
+A final challenge is identifying treatments that ease or reverse these abnormalities and help patients feel better. In the United Kingdom, home to a widely praised effort to identify immediate COVID-19 treatments, researchers are launching a clinical trial that will be among the largest worldwide to test potential long-COVID therapies in a randomized, statistically robust manner. But more such studies are needed -- and time is of the essence. In May [2022], the US Centers for Disease Control and Prevention reported that a review of the medical records of nearly 2 million people suggested at least 1 in 5 of those diagnosed with COVID-19 had developed conditions characteristic of long COVID. Other studies have found roughly similar rates. Some recent research suggests the risk for vaccinated people is somewhat lower, but vaccination's power to head off the syndrome remains uncertain.
+
+For Proal and others, fitting the puzzle pieces together is of urgent concern. "I consider long COVID to be a massive emergency," she says.
+
+In Rome, Buonsenso is using a sophisticated medical imaging technique to better understand the role of blood clots. Called a SPECT-CT scan, it combines 2 different types of images: a single-photon emission computed tomography scan, which uses a radiotracer injected into a person's veins to provide pictures of blood flow, and a standard CT scan for information about lung structure. By merging these, doctors can see which parts of the lungs aren't getting normal blood flow.
+
+So far, Buonsenso has scanned the lungs of 11 youngsters who have severe long COVID, including irregular heartbeats and breathlessness during exercise. In 6 children, the lungs appeared normal. In the other 5, the images were striking: Where there should have been bright oranges and yellows, signifying pulsing blood, one lung was nearly completely blue, indicating little flow. Buonsenso believes tiny blood clots or chronic damage to the lining of blood vessels may be impairing blood flow. He and his colleagues published their 1st evidence of such damage, in a 14-year-old girl, in July 2021 in The Lancet Child & Adolescent Health.
+
+The knotty question is what to do next. Buonsenso's patients don't meet the current criteria for taking anticoagulant drugs that prevent blood clots or keep them from getting bigger, because no clots are visible on their scans. "You either say, 'I'm sorry, but I can't do anything outside of a study,' or you are kind of a not-scared doctor with reciprocal trust with the patient and family, and together make a decision," Buonsenso says.
+
+With seriously ill children and their desperate parents in front of him, Buonsenso didn't want to wait to launch a clinical trial. He and the families instead decided to do what they could. All 5 patients are now taking anticoagulants -- which carry the risk of severe bleeding -- under close monitoring.
+
+He's heartened by their progress. Several are back in school, playing sports, and spending time with friends. Two have been rescanned. A teenager who still suffers from symptoms showed little improvement. But in another, whose symptoms have largely resolved, the images looked nearly normal. The other 3 will be rescanned this summer [2022].
+
+Of course, he can't be sure those who improved did so because of the treatment. That's why he is hoping for resources to establish a long COVID clinical trial that would include a placebo group.
+
+Like other doctors, Buonsenso has been inspired by long-COVID patients who have lobbied hard for treatments and shared successes and failures on social media. Marta Esperti, a 34-year-old graduate student now living in Paris, is one of them. Struck by COVID-19 more than 2 years ago, she wasn't hospitalized but months later struggled with fatigue, breathlessness when walking, persistent fever, joint pain, and other symptoms. Yet bloodwork and other medical tests, such as x-rays of her lungs, were largely normal. Esperti kept pushing for answers. Then, in the spring of 2021, "I received a call from the pulmonologist saying, 'Listen, I want you to do another test.'"
+
+Esperti was one of the 1st long-COVID patients in Europe to receive a lung SPECT-CT scan, and it looked just like the compromised lungs of the sick children Buonsenso scanned later. "My right lung is almost completely blue," she says. She posted the images on Twitter, where they were shared by thousands of people.
+
+Like Buonsenso, Esperti's doctors believe damage to tiny blood vessels and minuscule clots are the culprit. The theory of persistent microclots gained further credence in the summer of 2021, when Resia Pretorius, a physiologist at Stellenbosch University in South Africa, and her colleagues reported in Cardiovascular Diabetology that such clots could linger in the blood of long-COVID patients. Her team found signs of excessive blood clotting in 11 people with long COVID, but not in healthy people or another group with type 2 diabetes, whom they used for comparison.
+
+One challenge facing clinicians keen to hunt for microclots in blood is that detecting them is a laborious process, although Pretorius is working to make it more accessible to doctors. SPECT-CT scans identify clots indirectly, based on blood flow abnormalities.
+
+The work by Pretorius and others fits an emerging pattern in which the biology of acute and chronic COVID-19 appears to overlap. Early in the pandemic, doctors recognized blood clots as a signature of early, severe illness: Many hospitalized patients had clots in their lungs, brain, and elsewhere. Even people with milder disease were at heightened risk of heart attacks and strokes in the weeks following infection.
+
+"The 2 diseases"-- acute COVID-19 and long COVID -- "aren't very different," posits David Lee, an emergency medicine doctor at New York University Grossman School of Medicine. He suspects microclots explain many chronic symptoms. At least 70% of long-COVID patients have respiratory problems, he estimates, and at least 30% suffer from dysautonomia, in which abnormalities in the autonomic nervous system disrupt heart rate, breathing, and digestive function. Many suffer from fatigue and what's often called "brain fog." Tiny clots in the brain could explain cognitive troubles, Lee notes; or clots may kill small fiber nerve cells and drive dysautonomia.
+
+But solid evidence that microclots cause long-COVID symptoms is still lacking. To learn more, Lee launched a study of 20 long-COVID patients with respiratory symptoms and 20 healthy volunteers who had COVID-19 and recovered. The participants will undergo SPECT-CT scans to see whether any of them have disrupted lungs. If abnormalities on the scans are unique to some with long COVID, that could be a step toward identifying subsets of patients.
+
+The idea that lingering virus might be a long-COVID culprit solidified for Proal in late 2021, thanks in part to an autopsy study that captured her attention. Researchers from the US National Institutes of Health described in a preprint their analysis of tissues from 44 people who had been infected. Most had died from COVID-19, but 5 had mild or even asymptomatic infection and had succumbed to something else. All 44 still harbored viral RNA in their body, including in the brain, muscle, gut, and lungs. Many organs also had evidence of replicating virus.
+
+The study established that replicating copies of the virus could persist. But it didn't focus on people with long COVID, making it difficult to establish a link.
+
+Other studies are now trying to do that by comparing those with long COVID and other cohorts, including people who have recovered from COVID-19. In one, gastroenterologist Herbert Tilg at the Medical University of Innsbruck set out to look for molecular traces of virus in the gut, a favorite hunting ground for researchers studying SARS-CoV-2. That's because the gut is far easier for doctors to access than many other organs, such as the lungs or the brain, and is thought likelier to harbor virus than blood, which tends to clear a pathogen more quickly.
+
+Tilg recruited 46 people who'd had COVID-19 months earlier, 21 of whom had at least one symptom of long COVID. All the volunteers had inflammatory bowel disease and were scheduled for routine endoscopies. (Most were in remission.) Tilg used that procedure to gather extra tissue samples and probe for signs of the coronavirus. The bottom line: All of those with long-COVID symptoms harbored viral RNA or, in some cases, viral proteins. Among those who'd recovered from acute COVID-19, 11 had traces of virus, too, whereas another 14 had no virus that Tilg could find. He and colleagues published their study in May [2022] in Gastroenterology.
+A key question is whether lingering virus is driving illness in long-COVID patients. Proal and her colleagues are trying to definitively tie persistent virus to long-COVID symptoms -- or determine that the theory doesn't hold water. She is working with Mehandru and with Putrino, who has access to a cohort of more than 1000 long-COVID patients who could participate in new studies. The team is planning colonoscopies to look for virus in intestinal cells, and also wants to scrutinize the activity of immune cells that populate the region. Are these cells in a heightened state of alert, for example, suggesting the viral particles are setting them off? In some patients, Mehandru has noted immune responses in the gut, but says the work is preliminary.
+
+Ideally, this deep dive into the gut's biology would be paired with a clinical trial examining whether antiviral drugs can beat back long-COVID symptoms. Participants could be studied before and after a course of antivirals, to see whether they clear any signs of virus in their gut and whether that matches up with changes in symptoms. "That's the trial I'd love to see happen," Putrino says.
+
+So far it hasn't, to the frustration of many in the long-COVID research and advocacy communities. "The patients are really, really desperate," says Francisco Tejerina, an HIV researcher at Gregorio Maranon Hospital in Madrid, who has detected viral RNA in the stool, urine, and blood plasma of people with long COVID. He worries about people experimenting on their own with therapies, including antivirals, that may be useless, or worse, dangerous. "They want something now," he says. "I understand that."
+
+As the pursuit of blood clots and viral fragments intensifies, a 3rd track is both intersecting with those themes and making inroads on its own: the immune system, which some researchers believe could help bind together disparate observations. One idea, Phetsouphanh says, is that in some COVID-19 patients, an immune system revved up and destabilized by the coronavirus attack may be unable to reset itself to idle.
+
+To test that, he and colleagues gathered blood from 31 long-COVID patients, who all had fatigue or other characteristic symptoms at least 3 months after infection, and analyzed dozens of immune markers. "We were uncertain what we would find," Phetsouphanh says. The result was striking. Essentially, long-COVID patients had an immune system in constant high alert, the team reported in January [2022] in Nature Immunology.
+
+White blood cells that typically recruit other cells to sites of infection were highly activated, which may explain why the patients' levels of interferons, proteins the body makes to fight invaders, were sky high 8 months after infection. The participants also had a dearth of inactivated T cells and B cells, a population of cells that normally putters about awaiting instruction to counter pathogens. Collectively this signaled chronic inflammation, which can cause a host of health problems.
+
+Phetsouphanh and his colleagues also found these immune signatures were unique to their long-COVID cohort: They didn't appear in people who'd had the virus but recovered, or in those who'd been infected with different coronaviruses.
+
+Other groups are also finding myriad immune system abnormalities long after a SARS-CoV-2 infection. In January [2022], immunologist Akiko Iwasaki at the Yale School of Medicine, neuroscientist Michelle Monje at Stanford Medicine, and their colleagues reported in a preprint that mice given the coronavirus in their nose to mimic a mild infection developed inflammation in the brain, as well as loss of myelin, which insulates nerves and helps them transmit signals. In the mice, inflammation struck the brain even though the researchers couldn't find virus there. Furthermore, when the group compared blood samples from 48 people with long COVID who had cognitive impairments and 15 long-COVID patients who did not, they found higher levels of inflammatory markers in the 1st group, suggesting chronic inflammation may be driving these neurological symptoms.
+
+Such work highlights "how little we know about immune function," says Putrino, who is collaborating with Iwasaki. Work like hers is "opening up this world" of immune markers that aren't part of standard blood tests but may be critical to understanding the syndrome.
+
+Increasingly, researchers want to fine-tune how they classify people with long COVID, differentiating subsets based on symptoms, biology, or both. In a way, "the biggest obstacle that we are facing is we gave it one name, we gave it the name of long COVID, which implies that it is one disease," says Chahinda Ghossein, a physician and heart disease researcher at Maastricht University and co-leader of a 15 000-patient long-COVID study in the Netherlands. "All the studies being performed show us that it is not."
+
+One of the 1st large efforts to define subgroups, in part by testing potential treatments, will begin to enroll patients this month [June 2022] in the United Kingdom. Called STIMULATE-ICP (Symptoms, Trajectory, Inequalities and Management: Understanding Long COVID to Address and Transform Existing Integrated Care Pathways), it will recruit 4500 long-COVID patients. Each will be randomly assigned one of 3 potential therapies: an anticlotting drug called rivaroxaban, an anti-inflammatory called colchicine, or a pair of antihistamines, famotidine and loratadine. (Antihistamines can quell a type of inflammation called mast-cell activation.) The project will include imaging as well as the collection of blood and tissue samples for a biobank. Organizers also have the option of adding up to 3 additional treatments.
+
+Amitava Banerjee, a cardiologist at University College London, leads the study, and his colleague Emma Wall at UCL and the Francis Crick Institute is overseeing the treatment element. Both say it's crucial to test long-COVID therapies in trials before prescribing them en masse to patients.
+
+"If you follow social media, you might think we've cracked it," Banerjee says, referring to anecdotal reports of vastly improved long-COVID symptoms, after, say, taking anticoagulants or antiviral drugs. Those narratives can offer important clues, he says, stressing that working with and listening to patients is invaluable. (Every component of STIMULATE-ICP includes a patient advocate.) But "we've got to be really humble" about what we know, Banerjee adds.
+
+After months of delays, the trial is "close to the start line," he says, but "we should have been there months ago." Trials for drugs to treat acute COVID-19 were fast-tracked, while "long COVID is joining the queue with everything else" in medicine, Banerjee laments.
+
+Esperti's story underscores the work to be done. She's been taking anticoagulant drugs for more than a year, and can now work, swim, drive, and cook -- all previously impossible tasks. But she still can't run or carry heavy objects, and she suffers from sporadic fatigue. She was hit by a 2nd bout of COVID-19 in December 2021 that left her severely debilitated, but she improved after a 4th dose of vaccine in late March [2022].
+
+Mysteries remain. A repeat SPECT-CT scan 3 months after she started taking the drugs showed no change in her lungs, though her lung function has improved. "I thought all I have to do is take anticoagulants" and recovery would be quick, she says. Esperti suspects that, like peeling the layers of an onion, she's unraveled one trigger for her symptoms, only to come upon another she can't yet decode. It's another chapter in the annals of long COVID: a narrative that researchers are doggedly trying to change.
+
+[Byline: Jennifer Couzin-Frankel]
+
+--
+Communicated by:
+Mary Marshall
+via Eric Topol
+
+---
+[C] Long COVID: mass deterioration event
+Date: Wed 15 Jun 2022
+Source: The Atlantic [edited]
+https://apple.news/AJWx9PrPtQaibguRBvhIfIw
+
+
+A tidal wave of chronic illness could leave millions of people incrementally worse off.
+
+In late summer 2021, during the delta wave of the coronavirus pandemic, the American Academy of Physical Medicine and Rehabilitation issued a disturbing wake-up call: According to its calculations, more than 11 million Americans were already experiencing long COVID. The academy's dashboard has been updated daily ever since, and now pegs that number at 25 million.
+
+Even this may be a major undercount. The dashboard calculation assumes that 30% of COVID patients will develop lasting symptoms, then applies that rate to the 85 million confirmed cases on the books. Many infections are not reported, though, and blood antibody tests suggest that 187 million Americans had gotten the virus by February 2022. (Many more have been infected since.) If the same proportion of chronic illness holds, the country should now have at least 56 million long-COVID patients. That's one for every 6 Americans.
+
+So much about long COVID remains mysterious: The condition is hard to study, difficult to predict, and variously defined to include a disorienting range and severity of symptoms. But the numbers above imply ubiquity: a new plait in the fabric of society. As many as 50 million Americans are lactose intolerant. A similar number have acne, allergies, hearing loss, or chronic pain. Think of all the people you know personally who experience one of these conditions. Now consider what it would mean for a similar number to have long COVID: Instead of having blemishes, a runny nose, or soy milk in the fridge, they might have difficulty breathing, overwhelming fatigue, or deadly blood clots. Even if that 30% estimate is too high -- even if the true rate at which people develop post-acute symptoms were more like 10 or 5 or even 2%, as other research suggests -- the total number of patients would still be staggering, many millions nationwide. As experts and advocates have observed, the emergence of long COVID would best be understood as a "mass disabling event" of historic proportions, with the health-care system struggling to absorb an influx of infirmity, and economic growth blunted for years to come.
+
+Indeed, if -- as these numbers suggest -- 1 in 6 Americans already has long COVID, then a tidal wave of suffering should be crashing down at this very moment, all around us. Yet while we know a lot about COVID's lasting toll on individuals, through clearly documented accounts of its life-altering effects, the aggregate damage from this wave of chronic illness across the population remains largely unseen. Why is that?
+
+A natural place to look for a mass disabling event would be in official disability claims, the applications made to the federal government in hopes of getting financial support and access to health insurance. Have those gone up in the age of long COVID?
+
+In 2010, field offices for the Social Security Administration received close to 3 million applications for disability assistance. The number dropped off at a steady rate in the years that followed, as the population of working-age adults declined and the economy improved after the Great Recession, down to just about 2 million in 2019. Then came COVID. In 2020 and 2021, 1/3 of all Americans became infected with SARS-CoV-2, and a significant portion of those people developed chronic symptoms. Yet the number of applications for disability benefits did not increase. In fact, since the start of the pandemic, disability claims have dropped by 10% overall, a rate of decline that matches up almost exactly with the one present throughout the 2010s.
+
+"You see absolutely no reaction at all to the COVID crisis," Nicole Maestas, an associate professor of health-care policy at Harvard, told me. She and other economists have been looking for signs of the pandemic's effect on disability applications. At first, they expected to see an abrupt U-turn in the number of applications after the economy buckled in March 2020 -- just as had happened in the aftermath of prior recessions -- and then perhaps a slower, continuous rise as the toll of long COVID became apparent. But so far, the data haven't borne this out.
+
+The National Health Interview Survey provides another perspective, though the population effects of long COVID are no easier to find in those data. The survey, performed annually by the federal government, measures disability rates among Americans by asking whether they have, at minimum, "a lot of difficulty" completing any of a set of basic tasks, which include concentrating, remembering, walking, and climbing stairs. The proportion of people who reported such difficulties was flat through 2021: 9.6% of adults were disabled in December 2019, as compared with 9.5% 2 years later.
+
+The survey measures described above may be affected slightly by the pandemic's disproportionate death toll among already disabled people. They could also only ever tell one part of the story. At best, they'll capture a certain kind of long COVID, the sort that leads to brain fog, fatigue, and weakness, among other severe impairments in memory, concentration, and mobility. One of the overarching problems here is that long COVID has been associated with many other ailments, too, such as internal tremors, sudden heart palpitations, and severe allergic reactions. None of these issues is likely to show up in the NHIS or BLS data, let alone qualify someone for long-term financial support from the Social Security Administration.
+
+If the "mass disabling event" plays out as tens of millions of cases of shooting nerve pain or diarrhea, for example, or even just a persistent loss of smell, then you might never see a large jump in the number of Americans who report having difficulty functioning. In that case, though, more Americans might end up seeking out their doctors for evaluations, tests, and treatments. A growing number of symptoms, overall, should lead to a growing burden, overall, on the country's health-care system.
+
+The available data suggest that the opposite is true, at least for now. A report from Kaiser Family Foundation, released last fall [2021], found that both outpatient and inpatient health-care spending was actually lower than projected through the 1st half of 2021 -- even accounting for millions of acutely ill COVID patients. "We have not seen pent-up demand from delayed or forgone care," the nonprofit wrote. (This modest spending was recorded despite the fact that the proportion of Americans with health insurance increased during the 1st 2 years of the pandemic.) In February [2022], the consulting firm McKinsey surveyed leaders from 101 hospitals around the country, who said that outpatient visits and surgeries were still below pre-pandemic levels. The pandemic's effect on health-care workers must be contributing to this decline in volume, but it can't account for all of it. Most patients can still snag a specialist appointment within 2 or 3 weeks, according to McKinsey's data.
+
+It's possible that many long-haulers have simply given up on getting medical care, because they've understandably concluded that treatments don't exist or that doctors won't believe they're sick. (The scarcity of clinics dedicated to patients with long COVID could also be a problem.) The UK's Office for National Statistics has been performing one of the world's largest long-COVID surveys, in an effort to measure the full extent of this behind-the-scenes suffering. The study shows that, as of the beginning of May [2022], 3% of that country's residents identify as having long COVID, broadly defined as "still experiencing [any] symptoms" more than 4 weeks after first getting sick. (Eighty percent of the UK population is estimated to have been infected with the coronavirus at least once.) About 2/3 of this group -- amounting to more than 1 million people -- say that the condition affects their ability to perform day-to-day activities. Among the survey's most-cited chronic symptoms are weakness, shortness of breath, difficulty concentrating, muscle aches, and headaches.
+
+In its focus on persistent symptoms, the UK survey may be leaving out other, more insidious consequences of COVID. A CDC analysis, published last month [May 2022], examined the medical records from hundreds of thousands of adult COVID patients, and concluded that at least 1 in 5 might experience post-illness complications. Some of these were of the familiar types (trouble breathing, muscle pain); others were of the ticking-time-bomb variety, including blood clots, kidney failure, and heart attacks. This study's methods have been harshly criticized -- people who have long COVID "deserve better, much better," Walid Gellad, a professor of medicine at the University of Pittsburgh, told me -- and the 1-in-5 statistic could be way too high. But if the CDC's results are correct in substance -- if various mortal dangers do increase by a significant degree after COVID -- then the effects of these should also be detectable at the population level. Comparisons between individual study results and overall disease burden offer a reality check for extreme findings, Jason Abaluck, an economist and a health-policy expert at Yale, told me. "They allow you to put bounds on things."
+
+Where does that leave us with long COVID? The majority of Americans have already encountered the virus, many more than once. The CDC suggests that these people will, on average, experience about a 50% increase in their respective risks of blood clots, kidney failure, and heart attacks, as well as diabetes and asthma. Comprehensive national disease estimates will take years to compile, but provisional rates of death from heart disease, stroke, and kidney disease haven't really budged since 2019, and the NHIS survey has shown no increase in the number of Americans with high blood pressure or asthma.
+
+In short, here's what we can say right now: Disability rates might be rising, but only by a little bit; the health-care system seems to be coping; deaths from post-COVID complications aren't mounting; and the labor force is holding up. Long COVID, in other words, isn't yet standing out amid the pandemic's other social upheavals.
+
+[LF] has long COVID, and she shows up in the data. The 38-year-old former flight attendant and yoga instructor from Houston became ill with COVID in June 2020. Her infection led to months of hospitalizations, procedures, and rehabilitation. She now requires a team of medical specialists, and she remains severely limited in her daily activities because of neurological symptoms, fatigue, and allergic reactions. [LF] went on medical leave from work after her symptoms began, and she never returned. In December 2020, she applied for disability benefits from the Social Security Administration and was granted them about 6 months later.
+
+"Government numbers aren't accurate, and may never be accurate," [LF] told me. She knows of long-haulers who have applied for disability programs under better-established diagnoses, for instance, because they believed that citing long COVID wouldn't grant them access. And she said that when national metrics don't reflect the everyday reality of the long-COVID community, advocating for research, treatment, and support services becomes more difficult.
+
+[FZ] also has long COVID, but he hasn't quit his job, nor has he put in a claim for any benefits. A 58-year-old lawyer from Nashville, Tennessee, [FZ] developed a mild case of COVID in January 2021. The nasal congestion he experienced was so unremarkable that he assumed at first he had a simple sinus infection. But in the course of his recovery, something about Ziegler's appetite changed -- seemingly for good. Foods he had previously loved became strangely unappetizing; he lost a significant amount of weight. Then he started noticing hand tremors, trouble breathing, and cognitive issues. A battery of medical tests came back essentially normal, but [FZ] still doesn't feel as well as he did before catching the virus. His life has changed, but that difference might not be reflected on any government graph. "The square pegs of long-COVID patients are never going to fit into the round holes of conventional testing," he told me.
+
+The mix of symptoms and experiences that define long COVID suggests that no single measure, or group of measures, can illustrate the suffering of long-haulers in aggregate. A "mass disabling event" is not playing out in the data we have. That could change in the months and years to come, or else it might indicate that we're in another kind of moment, one that leaves tens of millions of Americans feeling somewhat worse off than they were before, not so sick that they can't hold down a job or need medical attention, but also not quite back to baseline. Call it a "mass deterioration event."
+
+"There are a significant number of people that can't simply move on," [FZ] told me. "Many of them have no idea why they are feeling the way they do, and they have not been able to get any relief." That form of epidemic -- one that degrades quality of life, incrementally, for millions -- is likely unfolding, even as a much smaller group of patients, including [LF], see their lives utterly transformed by chronic illness. We don't know how bad the long-COVID crisis will get, but for many, there's no turning back.
+
+[Byline: Benjamin Mazer]
+
+--
+Communicated by:
+Mary Marshall
+via Arthur Caplan tweet
+
+******
+[2] FDA: vaccine approval
+Date: Fri 17 Jun 2022
+Source: STAT [edited]
+https://www.statnews.com/2022/06/17/fda-approves-pfizer-and-moderna-covid-vaccines-for-infants-toddlers-and-preschoolers/
+
+
+The Food and Drug Administration on Friday [17 Jun 2022] authorized the Pfizer-BioNTech and Moderna COVID vaccines for use in children as young as 6 months of age, setting the stage for a government push to make the shots available for the youngest children.
+
+The decision comes less than 2 days after a panel advising the FDA voted unanimously to recommend authorization, saying their benefits would outweigh any risks for young kids.
+
+The FDA also authorized the Moderna vaccine, which was previously cleared in adults over 18, for older children and adolescents, meaning both vaccines are cleared for all ages over 6 months.
+
+"Those trusted with the care of children can have confidence in the safety and effectiveness of these COVID-19 vaccines and can be assured that the agency was thorough in its evaluation of the data," FDA Commissioner Robert Califf said in a statement.
+
+Before families can start to avail themselves of the vaccines, though, an advisory committee for the Centers for Disease Control and Prevention needs to recommend the shots, too, and CDC Director Rochelle Walensky must accept the recommendation. The group meets Friday and Saturday [18-19 Jun 2022], when the votes will be held.
+
+The Biden administration is already prepared to roll out the vaccine. On 9 Jun [2022], the administration said that should the vaccines be authorized and recommended by the CDC, it would be ready with 10 million available doses, with millions more on the way.
+
+Administration officials said that they would work to make sure that a broad range of pediatricians would have the shots, including those at smaller practices and in rural settings. The vaccines will be available in package sizes of 100 doses and will come with all the supplies needed to administer them, including small needles.
+
+"We know that there are many parents who have been eagerly awaiting the opportunity to vaccinate their youngest kids, and we share their eagerness," a senior administration official said. "Therefore, you know, every day, all day, right now, we are focusing on getting ready to have this as accessible as possible to as many families as possible."
+
+Rolling out the shots will pose new logistical challenges because, unlike the vaccines for older children and adults, they have different dosages, dosing schedules, and efficacy and safety profiles.
+
+The Pfizer shot, developed with partner BioNTech, is given in this age group as 3-microgram doses. The 1st 2 are given 3 weeks apart, and the 3rd is given 8 weeks after the 2nd dose.
+
+The Moderna vaccine is administered as 2 25-microgram doses given a month apart. However, most experts expect that children who receive the Moderna vaccine should also receive a booster either of the original Moderna vaccine, which is not yet authorized, or of a yet-to-be introduced Moderna vaccine more specifically targeting the omicron variant.
+
+Both vaccines were authorized based on clinical trials showing that they led to the production of antibodies at similar levels as those seen in adults. The Pfizer-BioNTech shot was initially being developed as a 2-dose vaccine, but results led the companies to add a 3rd dose to their vaccine regimen. The FDA said that an analysis of the Pfizer/BioNTech vaccine's efficacy in this age group was not reliable because a low number of COVID cases occurred overall.
+
+"I think we will have to wait a little bit longer for Pfizer to have more mature effectiveness data to have the confidence that we'd like to put out numbers, although we don't have any concern that there is going to be any significant concern with effectiveness here," said Peter Marks, director of the FDA's Center for Biologics Evaluation and Research, at a press conference.
+
+In clinical trials of children 6 through 23 months of age, the Moderna vaccine was 50.6% effective in preventing symptomatic COVID-19, the FDA said. Among participants 2 through 5 years of age, it was 36.8% effective.
+
+Both vaccines can cause symptoms such as fever, fatigue, achiness, irritability, and decreased appetite. The Pfizer vaccine appeared to cause fevers somewhat less often than the Moderna vaccine, although indirectly comparing clinical trials can be misleading, and the FDA made no claims in its announcement directly comparing the tolerability of the 2 vaccines.
+
+"I think with 2 vaccines that have different dosing regimens, it is going to be even more important that the public health education, the education of providers, is done very, very carefully," said Archana Chatterjee, the vice president of medical affairs at the Rosalind Franklin University of Medicine and Science, at the FDA advisory panel meeting earlier this week. "We are making choices between 2 different vaccines that have a little bit different profiles."
+
+Both vaccines have been linked to inflammation of the heart or the lining around it, conditions known as myocarditis or pericarditis, in adolescent males. In 16-17-year-old males, whose risk is highest, myocarditis is reported for about 1 in 13 000 at the 2nd doses of the Pfizer vaccine; some analyses have indicated the risk might be higher for the Moderna vaccine, but the FDA presented other data at its advisory committee meeting indicating that the risk was similar for both shots.
+
+The FDA said that in analyses it conducted with the CDC, most cases of myocarditis and pericarditis due to the vaccine resolve rapidly with no impact on quality of life 90 or more days after the case was reported. Increased rates of the condition were not detected in younger children.
+
+Uptake of COVID vaccines has been much lower in children than in adults. According to the CDC, only 29.2% of those aged 5 to 11 were fully vaccinated as of 1 Jun [2022], compared to 74.8% of those aged 40-49 and 87.8% of those over age 75.
+
+The CDC emphasized at the FDA meeting that the risk to children for COVID is very real, even though the risk of hospitalization or death is lower than for adults. In children aged 1 through 4 years old, COVID is the 5th leading cause of death. From January 2020 through May 2022, 202 children in this age group have died from COVID. "Any death of a child is tragic, and should be prevented, if possible," Califf said at the FDA press conference.
+
+Hospitalizations of children in this age group who test positive for COVID surged as the omicron variant became more prevalent. Hospitalization rates were initially lower than for influenza in this age group, the CDC said at the FDA meeting, but since October 2021 they have been substantially higher. Califf said that hospitalization rates for children with COVID were 5 times higher during the recent wave than at the worst previous points of the pandemic.
+
+"We have been planning for this moment for months, and as soon as the FDA authorizes these vaccines, we're going to get them distributed across the country," White House COVID-19 response coordinator Ashish Jha said in a video released Wednesday [15 Jun 2022]. "And then as soon as the CDC signs off on this, we're going to start seeing these vaccines go into arms."
+
+[Byline: Matthew Herper]
+
+--
+Communicated by:
+Mary Marshall
+
+[From the CDC:
+
+Children ages 5-11 years:
+-----------------------------
+As of 15 Jun 2022, the CDC recorded the following:
+
+- 10.1 million US children ages 5-11 have received at least one dose of COVID-19 vaccine, representing 36% of 5-11-year-olds
+
+- 8.3 million US children ages 5-11 completed the 2-dose vaccination series, representing 29% of 5-11-year-olds
+
+- About 18.3 million children 5-11 had yet to receive their 1st COVID-19 vaccine dose. This past week about 46 000 received their 1st vaccine dose.
+
+- Child vaccination rates vary widely across states, ranging from 16%-67% receiving their 1st dose.
+
+Children ages 12-17 years:
+-------------------------------
+- 17.3 million US children and adolescents ages 12-17 have received at least one dose of COVID-19 vaccine, representing 69% of 12-17-year-olds
+
+- 14.8 million US children and adolescents ages 12-17 completed the 2-dose vaccination series, representing 59% of 12-17-year-olds
+
+- About 7.9 million children ages 12-17 had yet to receive their 1st COVID-19 vaccine dose. This past week about 30 000 received their 1st vaccine dose.
+
+- Child vaccination rates vary widely across states: In 14 states, over 3/4 of children (age 12-17) have received at least 1 dose, and in 8 states, fewer than 50% have received 1 dose.
+
+There are 72.8 M children under age 18 in the US, 22% of the population. Children aged 5-11 represent 8.6% of the US population.
+(https://www.aap.org/en/pages/2019-novel-coronavirus-covid-19-infections/children-and-covid-19-vaccination-trends/) - Mod.LK]
+
+******
+[3] Regional update: South Asia
+[A] Bangladesh
+Date: Fri 17 Jun 2022 16:35 BST
+Source: The Daily Star [edited]
+https://www.thedailystar.net/health/disease/coronavirus/events-who/deaths-infections/news/433-covid-19-cases-24-hours-positivity-rate-now-627-3049606
+
+
+At least 433 new COVID-19 cases were recorded in 24 hours till 8:00 am today [17 Jun 2022], said a press release issued by the Directorate General of Health Services (DGHS).
+
+No COVID-19 death has been reported for the 17th consecutive day, however. The total number of COVID-19 deaths in the country remains 29 131, and the death rate is 1.49%.
+
+The current positivity rate is 6.27% while the total positivity rate stands at 13.76%. Meanwhile, with the new infections the total number of cases rose to 1 955 427, added the release.
+
+A total of 6905 samples were tested across the country during this period.
+
+At least 93 patients have recovered from COVID-19 within this time. The total number of recoveries now stands at 1 905 711, and the recovery rate at 97.46%, added the release.
+
+--
+Communicated by:
+ProMED-SoAs
+
+[The temporal distribution of cases and deaths attributed to COVID-19 in the country, from 18 Apr to 17 Jun 2022, can be seen at https://dghs-dashboard.com/pages/covid19.php. - Mod.PKB
+
+Maps of Bangladesh: http://www.nutritionprofile.org/division/ and https://promedmail.org/promed-post?place=8703935,153.]
+
+******
+[B] India
+Date: Sat 18 Jun 2022 10:56 IST
+Source: The Times of India (TOI), Times News Network (TNN) [edited]
+https://timesofindia.indiatimes.com/india/covid-19-india-reports-13216-new-cases-and-23-deaths-in-last-24-hours/articleshow/92294792.cms
+
+
+With 13 216 new coronavirus infections being reported in a day, India's total tally of COVID-19 cases rose to 43 283 793, according to the Union health ministry data updated on Saturday [18 Jun 2022]. This is the 1st time in 113 days that the country has recorded over 13 000 cases.
+
+The death toll climbed to 524 840 with 23 fresh fatalities in the last 24 hours.
+
+The country's active COVID-19 cases increased to 68 108, according to the health ministry data. The active cases constituted 0.16% of the total infections, while the national recovery rate was recorded at 98.63%, the health ministry said.
+
+An increase of 5045 cases has been recorded in the active COVID-19 caseload in a span of last 24 hours. The daily positivity rate was recorded at 2.73% and weekly positivity rate at 2.47%, the data said.
+
+The cumulative doses administered in the country so far under the nationwide COVID-19 vaccination drive has exceeded 196 crore [1.96 billion]. While the vaccination for the age group 12-14 years began on 16 Mar 2022, the COVID-19 precaution or booster dose administration for age group 18-59 years also started on 10 Apr 2022.
+
+India crossed the grim milestone of 2 crore [20 million] on 4 May, 3 crore [30 million] on 23 Jun and 4 crore [40 million] on [25 Jan] this year [2022]. [It is not clear whether it is indicating the vaccination coverage by time for the age group 12-14 years in India. However, according to previous mass media information, India's COVID tally had crossed the 20-lakh mark (2 million) on 7 Aug 2020, 30 lakh (3 million) on 23 Aug 2020, 40 lakh (4 million) on 5 Sep 2020, and 50 lakh (5 million) on 16 Sep 2020. It went past 60 lakh (6 million) on 28 Sep 2020, 70 lakh (7 million) on 11 Oct 2020, crossed 80 lakh (8 million) on 29 Oct 2020, 90 lakh (9 million) on 20 Nov 2020, and surpassed the one-crore (10 million) mark on 19 Dec 2020. India had crossed the grim milestone of 2 crore (20 million) on 4 May 2021 and 3 crore (30 million) on 23 Jun 2021. - Mod.PKB]
+
+The health ministry stressed that more than 70% of the deaths occurred due to comorbidities.
+
+--
+Communicated by:
+ProMED-SoAs
+
+[The updated information on the distribution of active cases, cured/discharged/migrated cases, deaths, and total confirmed cases attributed to COVID-19 in India by states and union territories can be seen at https://www.mohfw.gov.in/, by clicking COVID-19 Statewise Status. Three graphs showing the temporal dynamics of COVID-19 cases, the temporal dynamics of COVID-19 deaths, and the dynamics of active cases in the country can be seen at the source URL above. - Mod.PKB
+
+Maps of India: http://www.mapsofindia.com/maps/india/india-political-map.htm and https://promedmail.org/promed-post?place=8703935,142]
+
+******
+[C] Nepal
+Date: Fri 17 Jun 2022 19:34 NPT
+Source: The Himalayan Times [edited]
+https://thehimalayantimes.com/nepal/nepal-records-34-covid-19-cases-on-friday
+
+
+The national active COVID-19 caseload of Nepal active caseload has reached to 104 on Friday [17 Jun 2022] as 24 people tested positive for the infection in past 24 hours. The latest reported number of infections carried the nationwide tally to 979 333 while the death toll remains at 11 952, as no fatalities were recorded today [17 Jun 2022].
+
+Meanwhile, the total coronavirus recoveries stand at 967 277 with 15 discharges logged today [17 Jun 2022].
+
+As per the latest data provided by the health ministry, a total of 3610 tests were conducted in the last 24 hours, of which 2234 were PCR tests while 1376 were antigen tests. With this, a total of 5 738 257 PCR tests have been carried out till date [17 Jun 2022]. Similarly, antigen tests confirmed 10 positive cases in the past 24 hours.
+
+Nepal's COVID-19 recovery rate stands at 98.8%, while the fatality rate stands at 1.2%. Currently, there are no individuals in any quarantine facilities across Nepal.
+
+--
+Communicated by:
+ProMED-SoAs
+
+Maps of Nepal: https://en.wikipedia.org/wiki/Nepal#Administrative_divisions and https://promedmail.org/promed-post?place=8703935,139
+
+The South Asia COVID-19 situation, according to data from Worldometer (https://www.worldometers.info/coronavirus/) as of 18 Jun 2022 at 06:48 GMT:
+
+Country: Total cases / Total deaths / Deaths per million population
+India: 43 283 793 / 524 840 / 373
+Bangladesh: 1 955 427 / 29 131 / 174
+Pakistan: 1 531 824 / 30 383 / 133
+Nepal: 979 333 / 11 952 / 396
+Sri Lanka: 663 984 / 16 520 / 765
+Afghanistan: 181 534 / 7713 / 190
+Maldives: 179 979 / 299 / 535
+Bhutan: 59 644 / 21 / 27
+
+Over the last 8 days,76 528, 1556, 787, 98, and 67 COVID-19 cases were detected in India, Bangladesh, Pakistan, Nepal, and Sri Lanka, respectively, compared with 37 666, 208, 483, 72, and 72 in the preceding 7 days, revealing a sharp increasing trend in India and Bangladesh, as well as an increasing trend in Pakistan, but a state of stability in Nepal and Sri Lanka.
+
+The numbers of new cases in India are significantly and sustainably increasing over the last 3 weeks, and such alarming growth of new cases is generating a kind of fear that this could be an initial signal of seeing the 4th wave of the disease in the country (https://www.timesnownews.com/india/covid-19-cases-in-india-coronavirus-update-active-cases-article-92095279).
+
+Bangladesh is currently seeing a similar exponential growth of new cases. The case positivity against the number of samples tested for laboratory testing is now 6.27%, as indicated in article [1] above, which once went down even less than 0.5%. This is alarming and also could be an indication to the development of a new wave in the country. Considering the recent upsurges of COVID-19 in India and Bangladesh, everyone in South Asia should need to follow the standard mitigation measures including wearing masks properly, washing hands, maintaining physical distance, and avoiding gatherings regardless of the previous history of infections or vaccination.
+
+The trends of daily confirmed COVID-19 cases and deaths attributed to the disease in Pakistan can be seen at https://covid19.who.int/region/emro/country/pk, and a recent update on COVID-19 new cases, recovered cases, and deaths caused by the disease in Nepal can be seen at https://covid19.mohp.gov.np.
+
+In the last 8 days, the total number of people who died due to COVID-19 was 93 in India, and 2 each in Pakistan and Sri Lanka, but no one has died in Bangladesh and Nepal. Over the last 24 hours, as of 18 Jun 2022 at 08:00 IST, COVID-19 deaths were reported from one union territory and 7 states of the 36 states and union territories in India -- 1 in Delhi, 2 in Karnataka state, 13 in Kerala state, 3 in Maharashtra state and 1 each in Meghalaya state, Punjab state, Uttarakhand state, and Uttar Pradesh state (https://www.mohfw.gov.in/).
+
+As of 18 Jun 2022, at 08:00 IST (GMT+5:30) India has administered 1 960 042 768 doses of the COVID-19 vaccine (https://www.mohfw.gov.in/).
+
+Bangladesh has a plan for vaccinating 70% of the population. As of 16 Jun 2022, 108.12% have received the 1st dose (against target) and 99.34% of the target population have received the 1st and 2nd doses. Around 22.89% against the 2nd dose have also received a 3rd dose as a booster vaccination (http://103.247.238.92/webportal/pages/covid19-vaccination-update.php).
+
+As of 9 Jun 2022, Nepal has administered 47 568 725 doses of the COVID-19 vaccine (https://covid19.who.int/region/searo/country/np).
+
+Sri Lanka has administered at least 39 586 599 doses of the COVID-19 vaccine as of 13 Jun 2022 (https://covid19.who.int/region/searo/country/lk).
+
+Over the last 8 days, a total of 8 new cases with 0 deaths were reported from Bhutan compared with 8 cases with 0 deaths in the previous week. - Mod.PKB
+
+******
+[4] WHO: daily new cases reported (as of 17 Jun 2022)
+Date: Fri 17 Jun 2022
+Source: WHO [abridged, edited]
+https://covid19.who.int/table
+
+
+*Daily case reports as of 17 Jun 2022 16:48 CET
+
+Surveillance
+------------
+WHO region (no. countries/territories):
+Total confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+--------------------------------------------------------------------------------
+Western Pacific Region (19): 62 605 363 (131 539) / 235 181 (281)
+European Region (61): 223 780 003 (153 443) / 2 020 869 (215)
+South East Asia Region (10): 58 305 870 (16 848) / 789 407 (39)
+Eastern Mediterranean Region (22): 21 850 741 (0) / 343 369 (0)
+Region of the Americas (54): 160 251 921 (242 709) / 2 752 954 (1022)
+African Region (49): 9 069 288 (3595) / 173 179 (14)
+Cases on an international conveyance: 764 (0) / 13 (0)
+
+Confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+Grand total: 535 863 950 (548 134) / 6 314 972 (1571)
+
+--
+Communicated by:
+ProMED
+
+[Data by country, area, or territory for 17 Jun 2022 can be accessed at https://promedmail.org/wp-content/uploads/world-pdf/2022%20WHO%20Data%20Tables_1655575682.pdf.
+
+- The Americas region reported 44.3% of cases and 65.0% of deaths during the past 24 hours, having reported more than 160.25 million cases, 2nd to the European region, the most severely affected region. The USA (138 833) reported the highest number of cases, followed by Brazil, Chile, Mexico, Puerto Rico, Guatemala, and Panama. Peru, Dominican Republic, and Bolivia reported more than 500, but less than 1000 cases over the last 24 hours.
+
+- The European region reported 28.0% of cases and 13.7% of deaths over the last 24 hours, as the most affected region, with cumulative cases exceeding 223.78 million. Some countries reporting few or no cases in the last 24 hours or longer include Turkey, Spain, Ukraine, Portugal, Belgium (4 cases), Romania, Switzerland, and Tajikistan, among others. A total of 11 countries reported more than 1000 cases in the past 24 hours, with 3 countries reporting more than 10 000, 8 reporting over 1000 cases, while 1 country reported more than 500 but fewer than 1000 cases.
+
+- The Eastern Mediterranean region reported no cases or deaths during the past 24 hours, having reported a cumulative total of more than 21.85 million cases.
+
+- The African region reported 0.66% of cases and 0.89% of deaths during the past 24 hours, having reported a cumulative total of more than 9.06 million cases. South Africa (1936) reported the highest number of cases followed by Ethiopia and Kenya. Up to 36 countries in the region did not report any cases over the last 24 hours.
+
+- The Western Pacific region reported 24.0% of daily case numbers and 17.9% of deaths in the past 24 hours, having reported a cumulative total of more than 62.60 million cases. China (63 761) reported the highest number of cases over the last 24 hours followed by Australia, Japan, South Korea, New Zealand, Singapore, Malaysia, and Viet Nam.
+
+- The South East Asia region reported 3.1% of the daily newly reported cases and 2.5% of reported deaths in the past 24 hours, having reported a cumulative total of more than 58.30 million cases. India (12 847) reported the highest number of cases followed by Thailand (1967), Indonesia (1220), and Bangladesh (790). Maldives, North Korea, and Bhutan, among others, did not report cases over the last many weeks.
+
+On the Overview tab at the WHO source URL, the epidemic curve of confirmed COVID-19 cases by WHO region, 30 Dec 2019 through 17 Jun 2022, is an excellent visual representation of the pandemic. - Mod. UBA]
+
+******
+[5] Global update: Worldometer accessed 17 Jun 2022 19:23 EDT (GMT-5)
+Date: Fri 17 Jun 2022
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+Total number of reported cases: 543 682 014
+Total number of reported deaths: 6 339 468
+Number of newly confirmed cases in the past 24 hours: 590 781
+
+--
+Communicated by:
+ProMED
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at https://promedmail.org/wp-content/uploads/world-pdf/2022%20WORLDDATA%20JUNE17_1655575698.pdf.
+
+A 7-day series of cumulative data reported by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/2022%20JUNE17WORLD7_1655575712.pdf. - Mod.UBA]
+
+[In the past 24 hours, 16 countries -- the USA (107 687), Taiwan (55 222), France (50 605), Spain (48 272), Italy (36 170), Brazil (28 672), Germany (28 471), North Korea (20 370), Australia (37 243), Japan (15 802), Colombia (13 810), Chile (13 104), India (13 066), the UK (12 054), Israel (10 960), and Belgium (10 500) -- reported the highest numbers of cases, all reporting more than 10 000 newly confirmed cases. A global total of 1447 deaths were reported in the preceding 24 hours (late 15 Jun 2022 to late 16 Jun 2022).
+
+A total of 38 countries reported more than 1000 cases in the past 24 hours; 18 of the 38 countries are from the European region, 7 are from the Americas region, 2 are from the Eastern Mediterranean region, 7 are from the Western Pacific region, 3 are from the South East Asia region, and 1 is from the African region.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, case counts have decreased by 23.8%, while daily reported deaths have decreased by 12.4%. Comparative 7-day averages in the USA show a 6.6% decrease in daily reported cases and 1.5% decrease in reported deaths.
+
+Impression: The global daily reported over 0.59 million newly confirmed infections in the past 24 hours with over 543.68 million cumulative reported cases and over 6.33 million reported deaths. - Mod.UBA]
+See Also
+COVID-19 update (142): immunity boost, WHO, global 20220617.8703919
+COVID-19 update (141): vacc. effectiveness in children, WHO, global 20220615.8703865
+COVID-19 update (139): aerosol spread, in utero exposure, long COVID, WHO, global 20220611.8703811
+COVID-19 update (138): MIS-C, children, Novavax, origin, South Asia, WHO, global 20220611.8703804
+COVID-19 update (137): long COVID, police deaths, vaccines, WHO, global 20220611.8703803
+COVID-19 update (136): deaths, new variants, vaccine, WHO, global 20220609.8703761
+COVID-19 update (135): N.Korea, France, sleep, antibody test, WHO, global 20220608.8703735
+COVID-19 update (134): Paxlovid studies, boosters, N. Korea, WHO, global 20220605.8703674
+COVID-19 update (133): end of COVID, Portugal, India, Pfizer, S Asia, WHO, global 20220603.8703661
+COVID-19 update (132): pandemic end, Shanghai, masks, WHO, global 20220603.8703642
+COVID-19 update (131): lo
+</body>

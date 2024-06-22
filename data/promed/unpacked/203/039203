@@ -1,0 +1,315 @@
+<header id=039203>
+Published Date: 2020-11-08 08:40:00 EST
+Subject: PRO/EDR> COVID-19 update (478): genome, mink, mortality rates, FDA, WHO, global
+Archive Number: 20201108.7925666
+</header>
+<body id=039203>
+CORONAVIRUS DISEASE 2019 UPDATE (478): GENOME, MINK, MORTALITY RATES, FDA, WHO, GLOBAL
+**************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] Diversity of COVID-19 Based on Substitution Distance
+[2] Denmark: SARS-CoV-2 mink-associated variant strain
+[3] Hospital Mortality Rates
+[4] FDA approval for Neutralizing Antibodies test
+[5] WHO: daily new cases reported (as of 7 Nov 2020)
+[6] Global update: Worldometer accessed 7 Nov 2020 22:24 EST (GMT-5)
+
+******
+[1] Diversity of COVID-19 Based on Substitution Distance
+Date: Fri 6 Nov 2020
+Source: LitCovid [edited]
+https://www.ncbi.nlm.nih.gov/research/coronavirus/publication/33149633
+
+
+Background: The number of COVID-19 infections worldwide has reached 10 million. COVID-19 caused by SARS-CoV-2 is more contagious than SARS-CoV-1. There is a dispute about the origin of COVID-19. Study results showed that all SARS-CoV-2 sequences around the world share a common ancestor towards the end of 2019.
+
+Methods: Virus sequences from COVID-19 samples at the early time should be less diversifiable than those from samples at the later time because there might be more mutations when the virus evolutes over time. The diversity of virus nucleotide sequences can be measured by the nucleotide substitution distance. To explore the diversity of SARS-CoV-2, we use different nucleotide substitution models to calculate the distances of SARS-CoV-2 samples from 3 different areas, China, Europe, and the USA. Then, we use these distances to infer the origin of COVID-19.
+
+Results: It is known that COVID-19 originated in Wuhan China and then spread to Europe and the USA. By using different substitution models, the distances of SARS-CoV-2 samples from these areas are significantly different. By ANOVA testing, the p-value is less than 2.2e-16. The analyzed results in most substitution models show that China has the lowest diversity, followed by Europe and lastly by the USA. This outcome coincides with the virus transmission time order that SARS-CoV-2 starts in China, then outbreaks in Europe, and finally in the USA.
+
+Conclusion: The magnitude of nucleotide substitution distance of SARS-CoV-2 is closely related to the transmission time order of SARS-CoV-2. This outcome reveals that the nucleotide substitution distance of SARS-CoV-2 may be used to infer the origin of COVID-19.
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[Parlikar et al have conducted an earlier study and identified mutational hotspots with high, medium and low probability based on genome analysis of 167 SARS-CoV-2 strains. The study concluded that the majority of the SARS-CoV-2 genome segments are close to Bat CoV, followed by some to Pangolin CoV [https://www.ncbi.nlm.nih.gov /research/ coronavirus/publication/32742815].
+
+In the above study, building on the knowledge from earlier works, the team have compared the divergence of SARS-CoV-2 sequences from the 3 areas, China, the USA, and Europe. They used 17 models to calculate the pairwise sequence distances of sequences in each area and then analyze the characteristics of the distances of the 3 areas.
+
+Based on the genomic analysis, the authors conclude that "Our outcome shows that China samples have the smallest distance mean value, followed by Europe, and lastly by the USA, which is consistent with the virus transmission time order that SARS-CoV-2 starts in China, then outbreaks in Europe, and finally in the USA. This outcome reveals that the nucleotide substitution distance of SARS-CoV-2 may be used to infer the origin of COVID-19." - Mod.UBA]
+
+******
+[2] Denmark: SARS-CoV-2 mink-associated variant strain
+Date: Fri 6 Nov 2020
+Source: Disease outbreak news [edited]
+https://www.who.int/csr/don/06-november-2020-mink-associated-sars-cov2-denmark/en/
+
+
+Since June 2020, 214 human cases of COVID-19 have been identified in Denmark with SARS-CoV-2 variants associated with farmed minks, including 12 cases with a unique variant, reported on 5 Nov 2020. All 12 cases were identified in September 2020 in North Jutland, Denmark. The cases ranged in age from 7 to 79 years, and 8 had a link to the mink farming industry, and 4 cases were from the local community.
+
+Initial observations suggest that the clinical presentation, severity and transmission among those infected are similar to that of other circulating SARS-CoV-2 viruses. However, this variant, referred to as the "cluster 5" variant, had a combination of mutations, or changes that have not been previously observed. The implications of the identified changes in this variant are not yet well understood. Preliminary findings indicate that this particular mink-associated variant identified in both minks and the 12 human cases has moderately decreased sensitivity to neutralizing antibodies.
+
+Further scientific and laboratory-based studies are required to verify preliminary findings reported and to understand any potential implications of this finding in terms of diagnostics, therapeutics, and vaccines in development. In the meantime, actions are being taken by Danish authorities to limit the further spread of this variant of the virus among mink and human populations.
+
+SARS-CoV-2, the virus which causes COVID-19, was 1st identified in humans in December 2019. As of 6 Nov 2020, it has affected more than 48 million people causing over 1.2 million deaths worldwide. Although the virus is believed to be ancestrally linked to bats, the virus origin and intermediate host(s) of SARS-CoV-2 have not yet been identified.
+
+Available evidence suggests that the virus is predominantly transmitted between people through respiratory droplets and close contact, but there are also examples of transmission between humans and animals. Several animals that have been in contact with infected humans, such as minks, dogs, domestic cats, lions, and tigers, have tested positive for SARS-CoV-2.
+
+Minks were infected following exposure from infected humans. Minks can act as a reservoir of SARS-CoV-2, passing the virus between them, and pose a risk for virus spill-over from mink to humans. People can then transmit this virus within the human population. Additionally, spill-back (human to mink transmission) can occur. It remains a concern when any animal virus spills into the human population, or when an animal population could contribute to amplifying and spreading a virus affecting humans. As viruses move between human and animal populations, genetic modifications in the virus can occur. These changes can be identified through whole genome sequencing, and when found, experiments can study the possible implications of these changes on the disease in humans.
+
+To date, 6 countries, namely Denmark, the Netherlands, Spain, Sweden, Italy, and the United States of America have reported SARS-CoV-2 in farmed minks to the World Organisation for Animal Health (OIE).
+
+Public health response
+Danish authorities have announced the following planned or ongoing public health actions:
+- Culling of all farmed mink (more than 17 million) in Denmark, including its breeding stock;
+- Enhancing surveillance of the local population to detect all COVID-19 cases, including through population-wide mass PCR testing for the region of North Jutland;
+- Expanding the percentage of sequencing of human and mink SARS-CoV-2 infections in Denmark;
+- Rapid sharing of the full genome sequences of the mink-variant SARS-CoV-2; and Introducing new movement restrictions and other public health measures to affected areas in North Jutland to reduce further transmission, including movement restrictions between municipalities.
+
+WHO risk assessment
+---------------------
+All viruses, including SARS-CoV-2, change over time. SARS-CoV-2 strains infecting minks, which are subsequently transmitted to humans, may have acquired unique combinations of mutations. In order to fully understand the impact of specific mutations, advanced laboratory studies are required. These investigations take time and are done in close collaboration between different research groups.
+
+The recent findings reported by the Danish Public Health Authority (Statens Serum Institut) in Denmark related to the novel variant of SARS-CoV-2 identified in humans need to be confirmed and further evaluated to better understand any potential implications in terms of transmission, clinical presentation, diagnostics, therapeutics and vaccine development.
+
+Furthermore, detailed analyses and scientific studies are needed to better understand the reported mutations. The sharing of full genome sequences of human and animal strains will continue to facilitate detailed analyses by partners. Members of the WHO SARS-CoV-2 Virus Evolution Working Group are working with Danish scientists to better understand the available results and collaborate on further studies. Further scientific and laboratory-based studies will be undertaken to understand the implications of these viruses in terms of available SARS-CoV-2 diagnostics, therapeutics, and vaccines in development.
+
+Actions taken by the Danish authorities will limit continued spread of mink-associated variants of SARS-CoV-2 in Denmark, and in particular have been implemented to contain the unique variant reported to WHO. These actions include restricting movement of people, culling animals, widespread testing of people living in affected areas, and increased genomic sequencing of SARS-CoV-2 viruses across the country.
+
+WHO advice
+------------
+This event highlights the important role that farmed mink populations can play in the ongoing transmission of SARS-CoV-2 and the critical role of strong surveillance, sampling, and sequencing SARS-CoV-2, especially around areas where such animal reservoirs are identified.
+
+The preliminary findings by Denmark are globally relevant, and WHO recognises the importance of sharing epidemiological, virological and full genome sequence information with other countries and research teams, including through open-source platforms.
+
+WHO advises further virological studies should be conducted to understand the specific mutations described by Denmark and to further investigate any epidemiological changes in function of the virus in terms of its transmissibility and the severity of disease it causes. WHO advises all countries to increase the sequencing of SARS-CoV-2 viruses where possible and sharing the sequence data internationally.
+
+WHO advises all countries to enhance surveillance for COVID-19 at the animal-human interface where susceptible animal reservoirs are identified, including mink farms.
+
+WHO also reminds countries to strengthen farming biosafety and biosecurity measures around known animal reservoirs in order to limit the risk of zoonotic events associated with SARS-CoV-2. This includes infection prevention and control measures for animal workers, farm visitors and those who may be involved in animal husbandry or culling.
+
+The basic principles to reduce the general risk of transmission of acute respiratory infections are as follows:
+
+- Avoiding close contact with people suffering from acute respiratory infections;
+- Ensuring frequent hand-washing, especially after direct contact with ill people or their environment;
+- For people with symptoms of acute respiratory infection, practicing cough etiquette, such as maintain distance, cover coughs and sneezes with disposable tissues or clothing, and wash hands; use of masks where appropriate; and
+- Enhancing standard infection prevention and control practices in hospitals in health care facilities, especially in emergency departments.
+
+WHO has issued guidance for public health considerations while resuming international travel, recommending a thorough risk assessment, taking into account country context, the local epidemiology and transmission patterns, the national health and social measures to control the outbreak, and the capacities of health systems in both departure and destination countries, including at points of entry. In case of symptoms suggestive of acute respiratory illness either during or after travel, the travellers are encouraged to seek medical attention and share their travel history with their health care provider. Health authorities should work with travel, transport and tourism sectors to provide travellers with information to reduce the general risk of acute respiratory infections via travel health clinics, travel agencies, conveyance operators, and at points of entry.
+
+For more information, see:
+- WHO Health Topics page on COVID-19
+- WHO Scientific brief on the transmission of SARS-CoV-2: implications for infection prevention precautions
+- WHO Public health considerations while resuming international travel
+- OIE Update 6 on the COVID-19 situation in mink in Denmark
+- OIE Technical factsheet, infection with SARS-CoV-2 in animals
+- OIE Questions and Answers on COVID-19
+- FAO Exposure of humans or animals to SARS-CoV-2 from wild, livestock, companion and aquatic animals
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[Reproducing the comment by Mod.AS on 7 Nov 2020 in ProMED post COVID-19 update (477): animal, Sweden, mink, spread, genotyping 20201107.7924269: "It is relieving to note that the Swedish SARS-CoV-2 mink strain has already been genotyped and found not to present the amino acid changes in the spike protein that were found in the 'cluster 5' variant, identified recently in Denmark. The Danish strain was considered to be associated with a decreased susceptibility to post-infection antibodies induced by SARS-CoV-2 in humans, leading to Denmark's decision to cull its entire mink population. - Mod.AS."
+
+So far, 6 countries have reported COVID-19 infections in farmed minks, including the Netherlands, Spain, Denmark, USA, Italy, and Sweden. There are many other countries where minks are farmed, led by the world's largest, China. Active animal surveillance and reporting in all countries with reported infections or farming of susceptible animal species is highly recommended. Furthermore, identification and testing of people who are or have been in contact with the infected farms/animals as well as tracing of the persons who have moved from these locations should be an important consideration. - Mod.UBA]
+
+******
+[3] Hospital Mortality Rates
+Date: Fri 6 Nov 2020
+Source: Livescience [edited]
+https://bit.ly/36kxjGp
+
+
+Two large recent studies show that people hospitalized for COVID-19 in March 2020 were more than 3 times as likely to die as people hospitalized for COVID-19 in August 2020.
+
+The 1st study used data from 3 hospitals in New York City. The chance of death for someone hospitalized for the coronavirus in those hospitals dropped from an adjusted 25.6% in March 2020 to 7.6% in August 2020. The 2nd study, which looked at survival rates in England, found a similar improvement.
+
+In March 2020, out of 1724 people hospitalized for COVID-19 in the 3 New York hospitals, 430 died. In August 2020, 134 were hospitalized and 5 died. This change in the raw numbers could be driven by who was arriving at the hospital -- if only older people were getting sick, the death rate would be higher, for example -- but the researchers controlled for this in their calculations.
+
+To better understand what was causing this decrease in the hospitalization death rate, the researchers accounted for a number of possible confounding factors, including the age of patients at hospitalization, race and ethnicity, the amount of oxygen support individuals needed when they got to the hospital, and such risk factors as being overweight, smoking, high blood pressure, diabetes, lung disease, and so on.
+
+No matter what their specific situation, a person hospitalized in March 2020 for COVID-19 was more than 3 times as likely to die as one hospitalized in August 2020.
+
+The study in England looked at hospitalized coronavirus patients who were sick enough to go to a high-dependency unit (HDU) -- one where they were monitored closely for oxygen needs -- or the intensive care unit (ICU). As in the New York study, the researchers also accounted for confounding factors, but they calculated survival rates instead of mortality rates.
+
+Looking at 21 082 hospitalizations in England from 29 Mar 2020 to 21 Jun 2020, the authors found a continuous improvement in survival rates of 12.7% per week in the HDU and 8.9% per week in the ICU. Overall, between March 2020 and June 2020, the survival rate improved from 71.6% to 92.7% in the HDU and from 58% to 80.4% in the ICU. These increases in survival after hospitalization for the coronavirus in England mirrored the changes in New York City.
+
+The main reason researchers think coronavirus patients are doing better is simply that there are now effective treatments for the virus that didn't exist in March 2020.
+
+I am a practicing infectious disease doctor at the University of California, San Francisco, and I have witnessed these improvements firsthand. Early on, my colleagues and I had no idea how to treat this brand-new virus that burst onto the scene in late 2019. But over the spring, large studies tested different treatments for COVID-19, and we now use an antiviral called remdesivir and a steroid called dexamethasone to treat our hospitalized coronavirus patients.
+
+Along with these new treatments, physicians gained experience and learned simple techniques that improved outcomes over time, such as positioning a patient with low oxygen in a prone position to help distribute oxygen more evenly throughout the lungs. And as time has gone on, hospitals have become better prepared to handle the increased need for oxygen and other specialized care for patients with the coronavirus.
+
+Though improvements in care and effective drugs like remdesivir and dexamethasone have helped greatly, the virus is still very dangerous. People with severe cases can suffer prolonged symptoms of fatigue and other debilitating effects. Therefore, other treatments should be and are still being explored.
+
+Treatments have undoubtedly gotten better. But the authors of the New York City study specifically mention that public health measures not only led to the plummeting hospitalization rates -- 1724 in March 2020 vs. 134 in August 2020 -- but might have helped lower death rates too.
+
+My own research proposes that social distancing and face coverings may reduce how much virus people are exposed to, overall leading to less severe cases of COVID-19. It is important to continue to follow public health measures to help us get through the pandemic. This will slow the spread of the virus and help keep people healthier until a safe and effective vaccine is widely available.
+
+[Byline: Monica Gandhi]
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+******
+[4] FDA approval for Neutralizing Antibodies test
+Date: Fri 6 Nov 2020
+Source: FDA, News Release [edited]
+https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-authorizes-first-test-detects-neutralizing-antibodies-recent-or
+
+Today [6 Nov 2020], the U.S. Food and Drug Administration authorized the 1st serology test that detects neutralizing antibodies from recent or prior SARS-CoV-2 infection, which are antibodies that bind to a specific part of a pathogen and have been observed in a laboratory setting to decrease SARS-CoV-2 viral infection of cells. The FDA issued an emergency use authorization (EUA) for the cPass SARS-CoV-2 Neutralization Antibody Detection Kit [https://www.fda.gov/media/143584/download], which specifically detects this type of antibody.
+
+Although the FDA has previously issued EUAs to more than 50 antibody (serology) tests, those tests only detect the presence of binding antibodies. Binding antibodies bind to a pathogen, such as a virus, but do not necessarily decrease the infection and destruction of cells. It's important to note that the effect of neutralizing antibodies for SARS-CoV-2 in humans it is still being researched.
+
+"The ability to detect neutralizing antibodies can help us gain additional insight into what the existence of antibodies may mean for patients as we continue the fight against COVID-19," said Tim Stenzel, M.D., Ph.D., director of the Office of In Vitro Diagnostics and Radiological Health in the FDA's Center for Devices and Radiological Health. "There are still many unknowns about what the presence of SARS-CoV-2 antibodies may tell us about potential immunity, but today's [6 Nov 2020] authorization gives us another tool to evaluate those antibodies as we continue to research and study this virus. Patients should not interpret results as telling them they are immune, or have any level of immunity, from the virus."
+
+The FDA cautions patients against using the results from this test, or any serology test, as an indication that they can stop taking steps to protect themselves and others, such as stopping social distancing, discontinuing wearing masks, or returning to work. The FDA also wants to remind patients that serology tests should not be used to diagnose an active infection, as they only detect antibodies that the immune system develops in response to the virus, not the virus itself.
+
+The EUA was issued to GenScript USA Inc. for its cPass SARS-CoV-2 Neutralization Antibody Detection Kit [https://www.fda.gov/media/143584/download].
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[There are 2 types of antibody tests that aim to detect COVID-19 infection with sufficient specificity and sensitivity. The 1st type is the virus neutralization test (VNT), which detects neutralizing antibodies (NAbs) in a patient's blood. VNT requires handling live SARS-CoV-2 in a specialized biosafety level 3 (BSL3) containment facility, which is tedious and time consuming, taking 2-4 days to complete. Pseudovirus-based virus neutralization test (pVNT) is similar, but still requires the use of live viruses and cells, although handled in a BSL2 laboratory.
+
+All other assays, such as ELISA and lateral flow rapid tests, represent the 2nd assay type, which can detect only binding antibodies, and not Nab.
+
+This is a "Surrogate" virus neutralization assay developed by Professor Lin-Fa Wang's lab at Duke-NUS Medical School, which detects Neutralizing Abs, but without the need to use any live virus or cells, and can be completed in 1-2 hours in a BSL2 lab. Using purified receptor binding domain (RBD) protein from the viral spike (S) protein and the host cell receptor ACE2, the test is designed to mimic the virus-host interaction by direct protein-protein interaction in a test tube or an ELISA plate well. This highly specific interaction can then be neutralized, i.e., blocked by highly specific Nabs in patient or animal sera in the same manner as in a conventional VNT.
+
+The assay detects circulating neutralizing antibodies against SARS-CoV-2 that block the interaction between the receptor binding domain (RBD) of the viral spike glycoprotein with the ACE2 cell surface receptor. The assay can be helpful in current COVID-19 investigations of sero-prevalence, assessment of herd immunity, longevity of protective immunity, efficacy of different vaccine candidates, as well as tracking infection in animals, but like all antibody tests, it has little role in detection of acute infections. - Mod.UBA]
+
+******
+[5] WHO: Daily new cases reported (as of 7 Nov 2020)
+Date: Sat 7 Nov 2020
+Source: WHO [abridged, edited]
+https://covid19.who.int/table
+
+*Daily case reports as of 7 Nov 2020 17:46 CET
+
+Surveillance
+------------
+WHO region (no. countries/territories):
+Total confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+------------------------
+Western Pacific Region (19): 760 473 (5437) / 15 910 (59)
+European Region (61): 12 803 858 (297 295) / 307 866 (3929)
+South East Asia Region (10): 9 586 409 (56 527) / 148 615 (636)
+Eastern Mediterranean Region (22): 3 274 928 (31 730) / 83 093 (728)
+Region of the Americas (54): 21 326 640 (158 238) / 653 104 (2399)
+African Region (49): 1 353 882 (6645) / 30 556 (159)
+Cases on an international conveyance (Diamond Princess): 741 (0) / 13 (0)
+
+Confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+Grand total: 49 106 931 (555 872) / 1 239 157 (7910)
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The number of countries and territories reporting confirmed cases of COVID-19 to WHO remains at 218.
+
+Data by country, area, or territory for 7 Nov 2020 can be accessed at https://promedmail.org/wp-content/uploads/world-pdf/WHO%20daily%20tablesNov7_1604828577.pdf.
+
+- The Americas region reported 28.4% of daily case numbers and 30.3% of the daily deaths reported in the past 24 hours, maintaining its position as the most severely affected region, having reported more than 21.3 million cases. The USA maintains its dominance, followed by Argentina, Colombia, Mexico, Peru, and Canada. Chile and Costa Rica reported more than 1000 new cases in the past 24 hours. Brazil did not report the case numbers over the last 24 hours
+
+- The European region reported 53.4% of daily case numbers and 49.6% of the daily deaths reported in the past 24 hours, and total cumulative cases reported exceed 12.8 million. Countries not reporting cases today (7 Nov 2020) include Spain, Kazakhstan, Sweden, and Israel. Countries reporting more than 10 000 cases in the past 24 hours include France, followed by Italy, Poland, UK, Germany, Russia, Czech Republic, and Switzerland. There were 18 additional countries reporting more than 1000 new cases in the past 24 hours.
+
+- The Eastern Mediterranean region reported 5.7% of daily case numbers and 9.2% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 3.27 million cases. Iran is dominant, with record-breaking highs, followed by Morocco, Jordan, Iraq, Lebanon, Tunisia, Pakistan, Libya, and UAE. Kuwait, and the Palestinian Authority each reported more than 500 cases but fewer than 1000, while Tunisia, Sudan, Somalia and Yemen have not reported any cases in the past 24 hours.
+
+- The African region reported 1.2% of daily case numbers and 2.0% of the deaths reported in the past 24 hours and has reported more than 1.35 million cases. South Africa is dominant, followed by Kenya, Botswana, Ethiopia, Algeria, Angola, Uganda, Nigeria, Cameroon, Ghana, and Mozambique.
+
+- The Western Pacific region reported 0.97% of daily case numbers and 0.74% of the deaths reported in the past 24 hours, having reported a cumulative total of 0.76 million cases. The Philippines has resumed its dominance followed by Malaysia, Japan, French Polynesia, South Korea, Guam, and China.
+
+- The South East Asia region reported 10.2% of the daily newly reported cases and 8.0% of reported deaths in the past 24 hours, having reported a cumulative total of more than 9.5 million cases. As previously, India remains dominant, followed by Indonesia, Nepal, Bangladesh, Myanmar, Sri Lanka, and the Maldives.
+
+Impression: The Americas region combined with the European region account for 80% of daily reported cases and 79% of the global reported deaths in the past 24 hours. That said, the European region has 28 countries reporting more than 1000 cases per day and an additional 7 countries reporting more than 500 cases in the past 24 hours. Cases have somewhat declined in the South East Asian region, while overall case numbers are just above 5000 from the Western Pacific region and just over 6000 in the Africa region.
+
+On the Overview tab at the WHO source URL, the epidemic curve of confirmed COVID-19 cases by WHO region, 30 Dec 2019 through 7 Nov 2020, is an excellent visual representation of the pandemic. - Mod.MPP]
+
+******
+[6] Global update: Worldometer accessed 7 Nov 2020 22:24 EST (GMT-5)
+Date: Sat 7 Nov 2020
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at https://promedmail.org/wp-content/uploads/world-pdf/NOV7DATASET_1604828763.pdf.
+
+A 7-day series of cumulative data reported by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/NOV7WORLD7_1604828839.pdf. - Mod.UBA]
+
+Total number of reported deaths: 1 256 123
+Total number of worldwide cases: 50 255 095
+Number of newly confirmed cases in the past 24 hours: 599 641
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[In the past 24 hours, the USA (124 390), France (86 852), India (46 318), and Italy (39 811) have been dominant. A global total of 7436 deaths were reported in the past 24 hours (5-6 Nov 2020). The global total is now above 49.6 million cases.
+
+Countries reporting more than 10 000 newly confirmed cases in the past 24 hours (11 countries) include the USA, India, France, Italy, Argentina (33 348), Russia (30 251), Poland (27 875), UK (24 957), Spain (0), Brazil (21 056), Germany (17 119), and Ukraine (10 746). A total of 55 countries reported more than 1000 cases in the past 24 hours, representing 25.5% of reporting countries; 29 of the 55 countries reporting more than 1000 newly confirmed cases are from the European region, 10 are from the Americas region, 7 are from the Eastern Mediterranean region, 6 are from the South East Asia region, and 2 are from the Africa region.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, case counts have increased by 12.5%, while daily reported deaths have increased by 23.1%. Looking at the same comparisons in the USA, as the dominant country worldwide with clearly uncontrolled transmission, the 7-day change in daily reported cases is 35.7% and in reported deaths is 19.6%.
+
+Impression: Global daily reported cases continue to increase, and the daily increase has surpassed 500 000-600 000 new cases and with countries in the European region and the Americas region showing the largest increases in daily new case counts, followed by the Eastern Mediterranean and the South East Asia regions. The Africa region has several countries with increased reporting as well.
+
+All in all, the growth in the USA is exponential, having surpassed the 10 million cumulative case mark, with the state of Texas having reported over one million cases and Florida will be crossing one million cases in the coming week if daily reports continue at the same rate. - Mod.UBA]
+See Also
+COVID-19 update (477): animal, Sweden, mink, spread, genotyping 20201107.7924269
+COVID-19 update (476): chronic viral shedding, NPIs impact, WHO, global 20201107.7923556
+COVID-19 update (475): animal, Denmark, mink, spike protein sequences 20201106.7922587
+COVID-19 update (474): remdesivir, vaccine induced herd immunity, WHO, global 20201106.7920708
+COVID-19 update (473): animal, Denmark, mink, mutation, eradication, RFI 20201105.7918210
+COVID-19 update (472): schools, immunity, mutations, WHO, global 20201105.7918610
+COVID-19 update (471): animal, Denmark, mink, zoonotic, eradication 20201104.7916300
+COVID-19 update (470): USA contact tracing, sewage, WHO, global 20201104.7915703
+COVID-19 update (460): variant 20A.EU1, Thailand, Sri Lanka, Yemen WHO, global 20201030.7902223
+COVID-19 update (450): animal, cattle, research, experimental infection 20201022.7883213
+COVID-19 update (440): children, RNA vaccines, WHO, global 20201015.7863738
+COVID-19 update (430): animal, USA (UT) mink 20201009.7847704
+COVID-19 update (420): ECMO, USA serosurvey, WHO, global 20200930.7824510
+COVID-19 update (410): ACE inhibitors and ARBs, WHO COVAX plan, WHO, global 20200922.7801717
+COVID-19 update (400): lockdowns, influenza co-infections WHO, global 20200914.7776512
+COVID-19 update (350): USA (TX) animal, cat 20200808.7658191
+COVID-19 update (300): Korea antibodies, China asymptomatic index case, WHO 20200703.7536146
+COVID-19 update (250): selected countries 20200610.7448037
+COVID-19 update (200): global, Yemen, WHO 20200522.7364937
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+Undiagnosed pediatric inflammatory syndrome (05): Europe, USA, COVID-19 assoc 20200518.7340554
+Undiagnosed pediatric inflammatory syndrome (04): USA, UK, PMIS, fatal 20200509.7315405
+Undiagnosed pediatric inflammatory syndrome (03): USA, Europe, COVID-19 susp, RFI 20200505.7299876
+COVID-19 update (150): global, USA state prisons, WHO 20200502.7290671
+COVID-19 update (100): China, S. Korea & high local transmission countries 20200413.7217806
+COVID-19 update (50): China (Hong Kong) animal dog, 2nd case PCR positive, OIE 20200323.7129951
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (41): China, global, clinical pics, asymptomatic trans., WHO 20200210.6976117
+Novel coronavirus (40): animal reservoir, pangolin poss intermediate host, RFI 20200210.6972104
+Novel coronavirus (30): updates, China, Viet Nam, research 20200202.6945658
+Novel coronavirus (20): China, wildlife trade ban 20200127.6922060
+Novel coronavirus (10): China (HU, GD, BJ) 20200119.6898567
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia: China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia: China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+----
+Undiagnosed pneumonia: China (HU): RFI 20191230.6864153
+and other items in the archives
+.................................................sb/uba/msp/ml
+</body>

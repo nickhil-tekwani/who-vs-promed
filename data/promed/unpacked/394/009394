@@ -1,0 +1,281 @@
+<header id=009394>
+Published Date: 2021-08-20 16:27:09 EDT
+Subject: PRO/AH/EDR> COVID-19 update (287): Israel, USA vaccine impact, Australia, Japan, WHO, global
+Archive Number: 20210820.8610594
+</header>
+<body id=009394>
+CORONAVIRUS DISEASE 2019 UPDATE (287): ISRAEL, USA VACCINE IMPACT, AUSTRALIA, JAPAN, WHO, GLOBAL
+************************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] Israel: vaccine efficacy vs severe disease
+[2] USA: impact of early vaccine efforts
+[3] Australia and Japan: cases rising
+[4] WHO: daily new cases reported (as of 19 Aug 2021)
+[5] Global update: Worldometer accessed 19 Aug 2021 23:59 EST (GMT-5)
+
+******
+[1] Israel: vaccine efficacy vs severe disease
+Date: Tue 17 Aug 2021
+Source: COVID-19 Data Science [abridged, edited]
+https://www.covid-datascience.com/post/israeli-data-how-can-efficacy-vs-severe-disease-be-strong-when-60-of-hospitalized-are-vaccinated
+
+
+A surge involving the rapidly transmitting delta variant in heavily vaccinated countries has led to much hand-wringing that the vaccines are not effective against delta, or vaccine efficacy wanes after 4-6 months. This has fueled anti-vaccine sentiment suggesting the vaccines are not working and causing much stress in vaccinated people that they are not as protected as they thought they would be.
+
+In this post, I will focus on vaccine efficacy vs severe disease/hospitalization, which is the key factor for public health. I will not deal with vaccine efficacy vs symptomatic or asymptomatic disease here -- that has its own set of nuances that I will save for a future post.
+
+One disturbing result that has been repeated about several locations is that a high proportion of patients hospitalized for COVID-19 are vaccinated. For example, we can see from data from the Israeli government data dashboard that nearly 60% of all patients currently hospitalized for COVID-19 (as of 15 Aug 2021) are vaccinated [dataset and details are provided at the source URL]. Out of 515 patients currently hospitalized with severe cases in Israel, 301 (58.4%) of these cases were fully vaccinated, meaning 2 doses of the Pfizer vaccine.
+
+From this type of result in various places, I have seen tweets suggesting vaccines don't work or have lost their efficacy vs severe disease, and I have seen other articles quote this type of figure as further evidence for the reduction of effectiveness of the vaccines in trying to justify 3rd shot boosters.
+
+However, while these numbers are true, to quote them as evidence for low vaccine efficacy is wrong and misleading. Sometimes, with observational data there is confounding of multiple factors that can make it easy to misinterpret simple percentages like this, and the current vaccination situation in Israel brings a perfect storm of confounding factors that lead to confusion if not thought through carefully.
+
+In particular, the key factors here that contribute to this confusion are:
+
+1. High vaccination rates in the country (nearly 80% of all residents over 12 years)
+2. Age disparity in vaccinations, including
+3. Nearly all older people being vaccinated (more than 90% of residents over 50 years) and
+4. The vast majority of unvaccinated being younger people (more than 85% of unvaccinated under 50 years)
+5. Older people are orders of magnitude more likely to be hospitalized with a respiratory virus than young people (residents over 50 years are more than 20x more likely to have hospitalized serious infections than residents under 50 years, and residents 90+ are more than 1600x more likely to have hospitalized serious infections than residents ages 12-15 years)
+
+After accounting for the vaccination rates and stratifying by age groups, from these same data we can see that the vaccines retain high efficacy (85%-95%) vs severe disease, showing that when it comes to preventing severe disease, the Pfizer vaccine is still performing very well vs delta, even in Israel from whence the most concerning data have arisen. I will present the raw data in tables and step [through] these results. I will focus on fully vaccinated vs unvaccinated to streamline the presentation, but the same data also show partial vaccination also provides a decent level of protection vs severe disease (75%-85%).
+
+Adjusting for vaccination rate
+------------------------------
+It is true that nearly 60% of active serious cases are vaccinated, but such an analysis based on raw counts can be misleading since it is heavily influenced by the vaccination rates. When vaccination rates are low, use of raw counts can exaggerate the vaccine efficacy, and when vaccination rates are high, use of raw counts like this can attenuate the vaccine efficacy, making it seem lower than it in fact is.
+
+Note that a high proportion (nearly 80%) of all Israeli residents 12 years and older have been vaccinated. To adjust for vaccination rates, one should normalize the counts of severe cases in our setting, for example, by computing number "per 100 000".
+
+After this adjustment, we see that the rate of severe cases is 16.4/5.3 = 3.1x higher in unvaccinated individuals than fully vaccinated individuals. This suggests the vaccines are suppressing severe disease.
+
+Here I will define efficacy vs severe disease as 1 - V/N, where V = rate of infection per 100 000 for fully vaccinated, N = rate of infection per 100 000 for unvaccinated. This represents percent reduction in serious infection rate in the vaccinated group relative to the unvaccinated group.
+
+The efficacy of vaccine vs severe disease can be computed from this ratio by vaccine efficacy vs severe disease = 1 - 5.3/16.4 = 67.5%. The interpretation of this number is that the vaccines are preventing more than two-thirds of the serious infections leading to hospitalization that would have occurred without vaccination.
+
+Note that this is considerably lower than the more than 95% efficacy vs severe disease that has been previously touted. This number makes it seem like the vaccine efficacy vs severe disease has substantially waned over time with this delta variant. However, this number is also misleading because of previously mentioned confounding of age with vaccination status and risk of disease, i.e., that older people are more likely to be vaccinated and inherently at higher risk of severe disease. We have to be careful, as I will now explain.
+
+Imbalanced vaccination rates by age
+-----------------------------------
+If we split out the data by younger (under 50 years) and older (over 50 years), we can see that there is a sharp disparity in vaccination rates by age. The vast majority of older people (more than 90%) have been vaccinated, while only 73% of younger people have been vaccinated. Looking at it another way, we see that 1 116 834/1 302 912 = 85.7% of unvaccinated individuals are younger (under 50 years).
+
+Disparity in severe disease risk by age
+---------------------------------------
+This vaccination disparity by age matters because there is also a major disparity in risk of severe disease by age, with older people having an inherently much higher probability of severe disease requiring hospitalization than younger people. If we look at just the unvaccinated population, we see the risk of severe cases is 91.9/3.9 = 23.6x higher in older (over 50 years) than younger (under 50 years) people. Looking at fully vaccinated individuals, we see the risk of severe cases is 13.36/0.31 = 42.5x higher in older (over 50 years) than younger (under 50 years) people.
+
+Vaccine efficacy vs severe disease by age cohort
+------------------------------------------------
+However, since we have the data split out by age groups, we can easily compute the vaccine efficacy vs severe disease for each age group:
+
+Vaccine efficacy vs severe disease for younger (under 50 years) = 1 - 0.3/3.9 = 91.8%
+Vaccine efficacy vs severe disease for older (over 50 years) = 1 - 13.6/90.9 = 85.2%
+
+[Byline: Jeffrey Morris]
+
+--
+Communicated by:
+Mary Marshall
+<mjm2020@googlemail.com>
+
+[Thanks to Sabine Zentis for this link. See the source URL above for additional data, tables and figure.
+
+Eran Segal (https://twitter.com/segal_eran) tweeted: "Israel is reporting a 4-fold increase in protection from infection after a 3rd booster shot, compared to an age-gender matched cohort of 2 doses. And 5-6-fold increased protection from hospitalization and severe disease. 3rd dose now approved for all, tomorrow [20 Aug 2021] starting in 40+ y/o." - Mod.LK]
+
+******
+[2] USA: impact of early vaccine efforts
+Date: Thu 19 Aug 2021
+Source: CIDRAP (Center for Infectious Disease Research and Policy) [edited]
+https://www.cidrap.umn.edu/news-perspective/2021/08/early-us-vaccine-efforts-may-have-prevented-140k-covid-deaths-3-million
+
+
+The 1st push of the US COVID-19 vaccination campaign averted an estimated 140 000 deaths and more than 3 million infections by early May [2021], saving USD 625 billion to USD 1.4 trillion, suggests an observational study yesterday [18 Aug 2021] in Health Affairs (https://doi.org/10.1377/hlthaff.2021.00619).
+
+In the 1st known study to evaluate the effects of state-level vaccination campaigns, a team led by Indiana University-Purdue University Indianapolis (IUPUI) researchers modeled the number of COVID-19 deaths that would have occurred from 21 Dec 2020 to 9 May 2021, had it not been for vaccines. The difference between the actual number of deaths and the modeling data provided an estimate of the number of deaths prevented.
+
+Vaccines prevented an estimated 139 393 deaths and 3.1 million infections in the United States after the Food and Drug Administration authorized emergency use of the Pfizer/BioNTech vaccines on 11 Dec 2020, followed by the Moderna and Johnson & Johnson vaccines on 18 Dec 2020 and 27 Feb 2021, respectively. "The existence of multiple COVID-19 vaccines offers hope that the ongoing vaccination campaign will slow COVID-19 transmission, save lives, and enable a return to normal activities," the study authors wrote.
+
+All 50 states and Washington DC, on average, saw 5 fewer COVID-19 deaths per 10 000 adult residents in the first 5 months of the campaign. After adjusting for population size, New York realized the largest benefit, with 11.7 fewer COVID-19 deaths per 10 000 people. Hawaii saw the smallest reduction, with 1.1 fewer deaths per 10 000 people.
+
+Vaccination progress at the state level varied over time. West Virginia was the 1st state to achieve 10 doses per 100 adults, on 16 Jan 2021, while Idaho was the last, on 4 Feb 2021. The 1st state to reach 20 doses per 100 adults was Alaska, on 29 Jan 2021, while Alabama was the last, on 21 Feb 2021. California was the 1st to achieve 120 doses per 100 adults, on 6 May 2021, but many states have yet to meet that benchmark. The median number of days between reaching 10 and 20 doses per 100 adults was 19 days, and the median number between 20 and 40 doses per 100 adults was 24 days.
+
+In a RAND Corporation press release, senior author Christopher Whaley, PhD, said the study "brings into focus the dramatic success of the early months of the nation's coronavirus vaccine rollout. The findings provide support for policies that further expand vaccine administration to enable a larger proportion of the nation's population to benefit" (https://www.eurekalert.org/news-releases/925371).
+
+The US government allocated USD 13 billion for vaccine development and manufacturing efforts through the end of 2020, the authors said, noting that control of the pandemic relies on broad vaccination. "Our results suggest that further efforts to vaccinate populations globally and in a coordinated fashion will be critical to achieving greater control of the COVID-19 pandemic," they concluded.
+
+The researchers urged fair allocation of vaccines to particularly susceptible populations (e.g., racial minorities) who are less likely to receive vaccinations. "Ensuring that vulnerable patient populations equally share the benefits of COVID-19 vaccination campaigns is critical," they wrote. "Although this analysis is beyond the scope of our study, as data become available, it is imperative that researchers continue to evaluate disparities in vaccine access and their consequences in creating further hot spots and heterogeneity in burden."
+
+As of today [19 Aug 2021], 60% of Americans 12 and older have had at least one COVID-19 vaccine dose, and 51% are fully vaccinated, according to the New York Times COVID tracker (https://www.nytimes.com/interactive/2021/us/covid-cases.html). Vermont leads the nation, with 67% of its population fully vaccinated, while Alabama and Mississippi lag, at 36%.
+
+[Byline: Mary Van Beusekom]
+
+--
+Communicated by:
+Mary Marshall
+<mjm2020@googlemail.com>
+
+******
+[3] Australia and Japan: cases rising
+Date: Thu 19 Aug 2021
+Source: CIDRAP (Center for Infectious Disease Research and Policy) [edited]
+https://www.cidrap.umn.edu/news-perspective/2021/08/australia-japan-report-record-covid-19-rises
+
+
+As many countries struggle to rein in the highly transmissible delta (B1617.2) COVID-19 variant, Australia and Japan reported new single-day highs, while situations stabilized in some parts of Africa and the Americas. Elsewhere, New Zealand reported 11 new cases in a growing cluster in the Auckland area.
+
+With 754 new cases today [19 Aug 2021], Australia reported its biggest daily total of the pandemic, according to Reuters (https://www.reuters.com/world/asia-pacific/australias-victoria-reports-years-biggest-covid-19-caseload-2021-08-18/). Most of the burden is from an outbreak centered on Sydney in New South Wales state, which also reported a record single-day high of 681 cases.
+
+Sydney's outbreak is growing, despite a 7-week lockdown. Australian officials have tapped into an emergency supply of Pfizer-BioNTech vaccine to vaccinate younger adults in Sydney's worst-affected suburbs. Elsewhere in Australia, more local cases were reported in Melbourne and Canberra, which are also in lockdown.
+
+In neighboring New Zealand, 11 more local cases were reported in a growing cluster in Auckland, raising the total to 21, according to the New Zealand Herald. Officials have linked the source to a traveler from Sydney and said at least 12 cases have been confirmed as part of the same cluster, and 8 more are expected to be linked to the cluster (https://www.nzherald.co.nz/nz/covid-19-coronavirus-outbreak-may-be-more-contained-than-first-feared/Q5AJNV2BUPOFU6TJ6SA7SOC54Q/).
+
+Japan yesterday [18 Aug 2021] reported a record 23 917 cases, with the virus fueling rises in many areas outside the Tokyo epicenter, according to the Japan Times (https://www.japantimes.co.jp/news/2021/08/18/national/japan-coronavirus-august-18/). Twenty-seven of the country's 47 prefectures reported record-high case totals yesterday. In Tokyo, about 80% of the critical care beds are full, and about 60% of the country's population is under a state of emergency, which was recently extended until 12 Sep 2021.
+
+More global headlines
+---------------------
+- In the Americas, most countries in South America are reporting declining cases, Pan American Health Organization (PAHO) officials said yesterday [18 Aug 2021] at a briefing. Brazil's hospital occupancy is below 80% for all of its states for the 1st time since November [2020]. However, activity is accelerating in North America, Central America, and Caribbean locations.
+
+- Africa is starting to see its 3rd wave level off, but the situation is very fragile, Matshidiso Moeti, MBBS, the head of the World Health Organization (WHO) African regional office said at a briefing today [19 Aug 2021]. She said the delta variant is dominant in most countries, and 23 are experiencing rising cases. Though vaccine shipments are ramping up, only 2% of Africa's population is fully vaccinated, she said, reiterating a call for richer countries to prioritize vaccine equity over booster doses.
+
+- The global total today [19 Aug 2021] climbed to 209 461 916 cases, with at least 4 393 112 deaths, according to the New York Times tracker (https://www.nytimes.com/interactive/2021/world/covid-cases.html).
+
+--
+Communicated by:
+Mary Marshall
+<mjm2020@googlemail.com>
+
+******
+[4] WHO: daily new cases reported (as of 19 Aug 2021)
+Date: Thu 19 Aug 2021
+Source: WHO [abridged, edited]
+https://covid19.who.int/table
+
+
+*Daily case reports as of 19 Aug 2021 16:48 CET
+
+Surveillance
+------------
+WHO region (no. countries/territories):
+Total confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+--------------------------------------------------------------------------------
+Western Pacific Region (19): 5 599 355 (72 753) / 78 722 (771)
+European Region (61): 63 114 795 (168 420) / 1 248 497 (1607)
+South East Asia Region (10): 40 262 511 (91 114) / 620 333 (2675)
+Eastern Mediterranean Region (22): 13 887 897 (71 684) / 253 687 (1239)
+Region of the Americas (54): 80 950 761 (237 716) / 2 060 376 (3654)
+African Region (49): 5 385 856 (25 272) / 128 839 (638)
+Cases on an international conveyance (Diamond Princess): 745 (0) / 13 (0)
+
+Confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+Grand total: 209 201 939 (666 959) / 4 390 467 (10 584)
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[Data by country, area, or territory for 19 Aug 2021 can be accessed at https://promedmail.org/wp-content/uploads/world-pdf/2021%20WHO%20Daily%20Tables%20AUG19_1629482805.pdf.
+
+- The Americas region reported 35.6% of daily case numbers and 34.5% of the daily deaths reported in the past 24 hours and maintained its position as the most severely affected region, having reported more than 80.95 million cases. The USA reported over 146 000 cases over the last 24 hours, followed by Brazil (37 613), Mexico (14 814), and Cuba (8666); 7 additional countries reported more than 1000 cases in the past 24 hours, while 4 countries reported more than 500 but fewer than 1000 cases.
+
+- The European region reported 25.2% of daily case numbers and 15.1% of the daily deaths reported in the past 24 hours, and total cumulative cases reported exceed 63.11 million cases. Many countries not reporting cases in the last 24 hours or longer include Belgium (4 cases), Sweden, Switzerland (9 cases), and Kazakhstan, among others; 22 countries reported more than 1000 cases in the past 24 hours, and an additional 6 countries reported more than 500 but fewer than 1000 cases.
+
+- The Eastern Mediterranean region reported 10.7% of daily case numbers and 11.7% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 13.88 million cases. Iran reported the highest number of cases (39 174) over the last 24 hours, followed by Morocco, Iraq, Pakistan, Libya, Tunisia, Lebanon, and UAE. Jordan, Saudi Arabia, and Occupied Palestinian Territory reported more than 500 but fewer than 1000 cases.
+
+- The African region reported 3.7% of daily case numbers and 6.0% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 5.38 million cases. South Africa (14 727) reported the highest number of cases over last 24 hours, followed by Kenya, Algeria, Nigeria, and Ethiopia. Mozambique, Eswatini, and Rwanda reported more than 500 but fewer than 1000 cases. Cameroon, Botswana, Ghana, and Congo, among others, did not report any new cases in the past 24 hours.
+
+- The Western Pacific region reported 10.9% of daily case numbers and 7.2% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 5.59 million cases. Japan reported the highest number of cases over the last 24 hours (over 22 000 cases), followed by Malaysia, Philippines, Viet Nam, South Korea, Mongolia, Australia, and Fiji.
+
+- The South East Asia region reported 14.6% of the daily newly reported cases and 25.2% of reported deaths in the past 24 hours, having reported a cumulative total of more than 40.26 million cases. India is dominant, reporting over 36 000 cases over the last 24 hours, followed by Indonesia (22 053), Thailand (20 902), Bangladesh (6566), Myanmar (2590), and Nepal (2321). Additionally, Sri Lanka and Maldives have not reported any cases for many days.
+
+On the Overview tab at the WHO source URL, the epidemic curve of confirmed COVID-19 cases by WHO region, 30 Dec 2019 through 19 Aug 2021, is an excellent visual representation of the pandemic. - Mod.UBA]
+
+******
+[5] Global update: Worldometer accessed 19 Aug 2021 23:59 EST (GMT-5)
+Date: Thu 19 Aug 2021
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at https://promedmail.org/wp-content/uploads/world-pdf/2021%20WORLDDATA%20AUG19_1629483678.pdf.
+
+A 7-day series of cumulative data reported by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/2021%20AUG19WORLD7_1629483370.pdf. - Mod.UBA]
+
+Total number of reported deaths: 4 417 088
+Total number of worldwide cases: 210 823 537
+Number of newly confirmed cases in the past 24 hours: 726 484
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[In the past 24 hours, 18 countries, including the USA (154 917), India (37 312), UK (36 463), Brazil (35 991), Iran (31 266), Mexico (28 953), Japan (24 091), France (23 973), Malaysia (22 948), Indonesia (22 053), Russia (20 914), Thailand (20 902), Turkey (19 320), Philippines (14 461), South Africa (13 671), Spain (12 445), Viet Nam (10 654), and Argentina (10 596), have reported the highest numbers of cases, all reporting more than 10 000 newly confirmed cases in the past 24 hours. A global total of 11 202 deaths were reported in the past 24 hours (late 17 Aug 2021 to late 18 Aug 2021). A total of 61 countries reported more than 1000 cases in the past 24 hours; 32 of the 61 countries are from the European region, 8 are from the Americas region, 7 are from the Eastern Mediterranean region, 5 are from the South East Asia region, 5 are from the Western Pacific region, and 4 from the African region.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, case counts have increased by 0.56%, while daily reported deaths have increased by 2.1%. Similar comparative 7-day averages in the USA show a 14.0% increase in daily reported cases and a 54.1% increase in reported deaths.
+
+Impression: The global daily reported over 700 000 newly confirmed infections in the past 24 hours with over 210.80 million cumulative reported cases and over 4.41 million reported deaths. - Mod.UBA]
+See Also
+COVID-19 update (286): super immunity, booster shots, waning immunity, WHO 20210819.8607769
+COVID-19 update (285): animal, Spain (GA) mink, OIE 20210819.8604021
+COVID-19 update (284): New Zealand, Israel, USA, WHO, global 20210818.8605056
+COVID-19 update (283): virus spread, funding, wildfires, ARDS, saliva test, WHO 20210817.8602225
+COVID-19 update (282): Israel, antibody kinetics, WHO 20210816.8599381
+COVID-19 update (281): USA, China, Philippines, WHO 20210815.8597166
+COVID-19 update (280): new variant B.1.621, Canada, regional, WHO 20210814.8595594
+COVID-19 update (279): UK schools, cognitive, WHO 20210813.8593500
+COVID-19 update (278): inhaled corticosteroid, breast milk antibodies, WHO 20210813.8590939
+COVID-19 update (277): variant names, Bangladesh, SE Asia, vaccine adverse events, WHO 20210812.8587809
+COVID-19 update (276): animal, Poland, mink, research 20210811.8587558
+COVID-19 update (275): Israel vaccine, delta variant PAHO, WHO 20210810.8584828
+COVID-19 update (274): resp viruses, USA, rapid tests, WHO 20210809.8581724
+COVID-19 update (273): vaccine effect, motorcycle rally, delta variant, WHO 20210809.8579489
+COVID-19 update (272): outcomes, mixing vaccines, children, S Asia, WHO 20210808.8577773
+COVID-19 update (270): myocarditis, pericarditis, Australia, WHO 20210806.8575370
+COVID-19 update (269): herd immunity, children, flu vaccine, WHO 20210806.8572839
+COVID-19 update (268): China tests, ischaemia, detainees, WHO 20210804.8569503
+COVID-19 update (267): USA, CIDRAP, obesity, rapid tests, WHO 20210803.8566627
+COVID-19 update (266): variants, breakthrough infection, WHO 20210802.8564010
+COVID-19 update (264): booster, relaxing NPI & variant risk, China, WHO 20210801.8561674
+COVID-19 update (263): lambda and delta variants, CDC, South Asia, WHO 20210731.8559796
+COVID-19 update (262): Pfizer effect., MIS-C, Israel breakthroughs/boosters, WHO 20210730.8557829
+COVID-19 update (261): Singapore, mental illness, vaccine mix & match, WHO 20210729.8554984
+COVID-19 update (258): CDC mask policy, IDSA, Japan, WHO, global 20210728.8551757
+COVID-19 update (256): masks, Promed-ESP, mRNA vaccine 2nd dose, WHO 20210727.8549125
+COVID-19 update (255): Indonesia medic. fatal. & variants, nasal involv., WHO 20210726.8546570
+COVID-19 update (253): child vaccines, immunocompromised, Europe restrict., WHO 20210725.8544147
+COVID-19 update (252): lambda variant, South Asia, Viet Nam, malnutrition, WHO 20210724.8542486
+COVID-19 update (251): USA delta variant, Israel vaccines, Olympics, WHO, global 20210723.8540650
+COVID-19 update (250): caregiver loss, school buses, mRNA vaccines, WHO 20210722.8538296
+COVID-19 update (249): T cell response, GAO, UK, vaccination USA & France, WHO 20210721.8535478
+COVID-19 update (248): immunity and variants, vaccines, azithromycin, WHO 20210720.8532784
+COVID-19 update (246): Indonesia, France, Germany, Israel, Olympics, WHO 20210719.8530178
+COVID-19 update (245): UK, Israel, mask trial retraction, Eurosurveillance, WHO 20210718.8527924
+COVID-19 update (244): lambda var S America, long COVID & children, Europe, WHO 20210717.8526331
+COVID-19 update (243): Olympics, Africa, MIS-C possible causes, WHO, global 20210717.8524248
+COVID-19 update (242): inc. cases and deaths, hosp resources, infec. rates, WHO 20210715.8521711
+COVID-19 update (241): South Africa, beta variant, vaccines, Netherlands, WHO 20210714.8518836
+COVID-19 update (240): Delta, long Covid, vaccine boosters, Guillian-Barre, WHO 20210713.8516206
+COVID-19 update (210): mucormycosis, Delta var US, quarantine transmission, WHO 20210617.8456074
+COVID-19 update (200): animal, China, origin 20210608.8433657
+COVID-19 update (100): antibodies, vaccine, Thailand, Cambodia, WHO, global 20210316.8250009
+COVID-19 update (50): UK vaccine study, Brazil reinfection, WHO 20210205.8167161
+COVID-19 update (01): variants, vaccine, Thailand, global, WHO 20210101.80629382020
+2020
+----
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+COVID-19 update (562): viral load, UK vacc dose, ECDC, WHO 20201231.8061525
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia: China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia: China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+----
+Undiagnosed pneumonia: China (HU): RFI 20191230.6864153
+.................................................sb/lk/uba/rd/jh
+</body>

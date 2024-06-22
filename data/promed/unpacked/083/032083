@@ -1,0 +1,169 @@
+<header id=032083>
+Published Date: 2001-01-13 18:50:00 EST
+Subject: PRO/AH> CJD (new var.) - UK: some questions (04)
+Archive Number: 20010113.0101
+</header>
+<body id=032083>
+CJD (NEW VARIANT) - UK: SOME QUESTIONS (04)
+*******************************************
+A ProMED-mail post
+<http://www.promedmail.org>
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+<http://www.isid.org>
+See Also
+CJD (new var.) - Ireland: polio vaccine withdrawn 20010105.0038
+CJD (new var.) - UK: some questions 20010109.0074
+CJD (new var.) - UK: some questions (02) 20010110.0076
+CJD (new var.) - UK: some questions (03) 20010111.0089
+CJD (new var.) - UK: tonsillectomy instruments 20010105.0039
+CJD (new var.) - UK: update 3 Jan 2001 20010104.0025
+2000
+-----
+CJD (new var,), beef consumption link unproven 20001104.1923
+CJD (new var.), children - UK 20001016.1772
+CJD (new var.), cluster - UK (Leicestershire) 20000715.1171
+CJD (new var.), cluster - UK (Leicestershire) (04) 20001109.1963
+CJD (new var.), cluster - UK (Yorkshire) 20001101.1907
+CJD (new var.), cluster - UK (Yorkshire) (02) 20001102.1913
+CJD (new var.), cluster? - UK (Stockport) 20001215.2190
+CJD (new var.), death of elderly man - UK 20001102.1912
+CJD (new var.), iatrogenic dental transmission risk 20000808.1328
+CJD (new var.), onset, death data - UK 20000403.0492
+CJD (new var.), revised mortality prediction - UK 20000811.1335
+CJD (new var.), young adults - UK 20000330.0468
+CJD (new var.) - UK: apparent rise in incidence 20000804.1302
+CJD (new var.) - UK: under-reporting risk 20001208.2146
+CJD (new var.) - UK: update June 2000 20000707.1126
+CJD (new var.): is rise in cases real? - UK 20000117.0062
+[1
+Date: Fri, 12 Jan 2001 11:39:30 -0500
+From: Hopkins, Andrew S. <amh7@cdc.gov>
+
+A Short Comment on the Properties of Prions
+-------------------------------------------
+[The previous posting in this series, CJD (new var.) - UK: some questions
+(03), contained some misstatements regarding the nature of prions. Dr.
+Hopkins sets the record straight.
+Prions do not really act directly on the "quaternary" forms of a protein
+although they theoretically could affect it indirectly. The quaternary form
+of a protein refers to assemblies of multiple polypeptide chains such as the
+four chains of hemoglobin. Most of the time the author seems to be talking
+about single chain proteins anyway. The folded shape of a protein is its
+tertiary structure. Prions, according to the present literature, arise due
+to some kind of autocatalytic aberrant beta-sheet formation, which is a
+secondary structure property, which may in turn affect tertiary folding.
+Susan Liebman's work on the Psi factor in _Saccharomyces cerevisiae_ (a
+"Yeast" prion) shows that over-expression of heat shock proteins, can
+overcome the Psi phenotype, presumably by refolding the protein to its
+correct form. Other than the human PrP protein and its homologue in other
+species and the _S. cerevisiae_ example, I don't believe the literature is
+replete with large numbers of examples of other proteins which exhibit prion
+type autocatalytic misfolding being: quote "discovered across families and
+even phyla" as this author states.
+In the second paragraph the author discusses chaperonins directing
+alternative folding pathways leading to "crystalline" forms of a protein.
+Thus the author seems to be under the misimpression that "prions" are
+crystalline forms of a protein. This is certainly not true. If it were, the
+3-dimensional structure of the human prion protein with approximately 260
+amino acids
+would have been solved in an afternoon. Prions are not crystalline. They are
+insoluble amorphous tangles which cannot be crystallized under normal
+conditions because they are completely insoluble in any of the solutions
+used to generate crystals for X-ray analysis.
+Third paragraph refers to "ubiquitin-resistance." No such thing. Ubiquitin
+does not do anything directly to proteins itself. It just targets them for
+pathways towards proteolytic degradation. Ubiquitin itself is not a
+protease, and does not degrade proteins. See:
+<http://jcsmr.anu.edu.au/dmm/molgen/ubiquitin%20laboratory/ubiquitin_lab_hom
+e page.htm>
+The last paragraph refers to prions as "chaperonins." There is no evidence
+for this, and the author did not propose it previously, so where did this
+hypothesis come from?
+--
+Andy Hopkins
+CDC
+<amh7@cdc.gov>
+******
+[2
+Date: Sat, 13 Jan 2001 10:02:27 +0000
+From: O. Hotz de Baar <Oz@upthorpe.demon.co.uk>
+
+Further Comment on the Analysis of Outbreak Data
+------------------------------------------------
+I have had some further thoughts on the original posting that commented on
+the possibility of misreported variant CJD cases possibly associated with
+triggering of susceptible genotypes (e.g. familial/GSS) on exposure to
+infective prions (e.g. BSE).
+There is enough circumstantial evidence on possible prionic triggering of
+susceptible individuals to consider this a possible scenario [in my
+opinion. Note that
+Robert LaBudde made this comment some years ago, in particular commenting on
+the smoothness of the (variant CJD+GSS) curve compared to the variant CJD
+one and speculating on this. I do not know if GSS has been strain typed.
+The data has to be based on dates of deaths as there are no other data. It
+is unfortunate that a good baseline for sporadic cases is probably not
+available, and as even referrals are not given pre-1990 it is not easy to
+disentangle the effect of improved reporting. Inevitably any evaluation will
+be crude in the extreme, with only the UK dates of death from the UK CJD
+site that can be used for comparison. In particular these are subject to
+varying delays as those affected can be kept alive for between months and
+years. It is a truly tragic disease. For convenience, and for further
+discussion, I offer the following sets of data. The first table can be
+conveniently viewed as a table if you set your display font as a monopitched
+font (e.g.g courier), the second block is comma delimited for cut & paste
+into a spreadsheet.
+Personally I don't see any real evidence for a peak although one might argue
+weakly that the increase seen in the curves based on dates of onset show a
+greater increase that might be warranted if you believe there may have been
+some 'effective mis-reporting'.
+
+A = Total of all UK CJD
+B = Total less iatrogenic (which by definition is a known infective source)
+C = variant CJD+GSS
+D = variant CJD+GSS+familial
+Year A B C D
+1985 28 27 0 1
+1986 26 26 0 0
+1987 24 24 1 1
+1988 24 23 0 1
+1989 32 30 0 2
+1990 33 28 0 0
+1991 36 35 0 3
+1992 51 49 1 6
+1993 46 42 2 4
+1994 59 58 3 7
+1995 47 43 6 8
+1996 60 56 14 16
+1997 80 74 11 15
+1998 89 86 19 23
+1999 84 78 15 17
+2000 72 65 25 27
+--
+O. Hotz de Baar
+<Oz@upthorpe.demon.co.uk>
+[Some interesting thoughts and discussion have been generated by this series
+of postings. This seems an appropriate juncture to cut this thread until such
+time as new data becomes available. - Mod.CP
+.....................cp/es
+*##########################################################*
+ProMED-mail makes every effort to verify the reports that
+are posted, but the accuracy and completeness of the
+information, and of any statements or opinions based
+thereon, are not guaranteed. The reader assumes all risks in
+using information posted or archived by ProMED-mail. ISID
+and its associated service providers shall not be held
+responsible for errors or omissions or held liable for any
+damages incurred as a result of use or reliance upon posted
+or archived material.
+************************************************************
+Visit ProMED-mail's web site at <http://www.promedmail.org>.
+Send all items for posting to: promed@promedmail.org
+(NOT to an individual moderator). If you do not give your
+full name and affiliation, it may not be posted. Send
+commands to subscribe/unsubscribe, get archives, help,
+etc. to: majordomo@promedmail.org. For assistance from a
+human being send mail to: owner-promed@promedmail.org.
+############################################################
+############################################################
+</body>

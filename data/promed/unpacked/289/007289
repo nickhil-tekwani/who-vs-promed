@@ -1,0 +1,344 @@
+<header id=007289>
+Published Date: 2021-03-21 08:16:55 EDT
+Subject: PRO/AH/EDR> COVID-19 update (107): variants, Olympics, India, WHO, global
+Archive Number: 20210321.8260135
+</header>
+<body id=007289>
+CORONAVIRUS DISEASE 2019 UPDATE (107): VARIANTS, OLYMPICS, INDIA, WHO, GLOBAL
+*****************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] Variant Updates
+[2] Japan: Olympics
+[3] India: Next wave?
+[4] WHO: daily new cases reported (as of 19 Mar 2021)
+[5] Global update: Worldometer accessed 19 Mar 2021 21:10 EST (GMT-5)
+
+******
+[1] Variant Updates
+
+[A] Antibody escape risk
+Date: Sat 20 Mar 2021
+Source: Reviews in Medical Virology [abridged, edited]
+https://doi.org/10.1002/rmv.2231
+https://onlinelibrary.wiley.com/doi/epdf/10.1002/rmv.2231
+https://onlinelibrary.wiley.com/doi/10.1002/rmv.2231
+
+
+Ref. Focosi D, Maggi F.Neutralising antibody escape of SARS-CoV-2 spike protein: Risk assessment for antibody-based Covid-19 therapeutics and vaccines. 16 Mar 2021
+
+Summary
+The Spike protein is the target of both antibody-based therapeutics (convalescent plasma, polyclonal serum, monoclonal antibodies) and vaccines. Mutations in Spike could affect efficacy of those treatments. Hence, monitoring of mutations is necessary to forecast and readapt the inventory of therapeutics. Different phylogenetic nomenclatures have been used for the currently circulating SARS-CoV-2 clades. The Spike protein has different hotspots of mutation and deletion, the most dangerous for immune escape being the ones within the receptor binding domain (RBD), such as K417N/T, N439K, L452R, Y453F, S477N, E484K, and N501Y. Convergent evolution has led to different combinations of mutations among different clades. In this review, we focus on the main variants of concern, that is, the so-called UK (B.1.1.7), South African (B.1.351) and Brazilian (P.1) strains.
+
+Spike protein mutations detected in currently circulating strains:
+A222V, L18F, P681H, H69/V70,V367F, P384A, K417N, N439K, G446V, L452R, Y453F, LF455YL, TEI470-2NVP, S477N , E484K, caused by SNP G23012A, G485R, F490S, S494P, N501Y.
+
+Variants of concern:
+5.1 B.1.1.298
+5.2 B.1.1.7
+5.3 B.1.351
+
+Brazilian variants of concern:
+P.2 (also improperly termed B.1.1.28.2 or B.1.1.28 [E484K])
+A 3rd-B.1.1.28-derived variant, VUI-NP13L
+B.1.1.33, has been termed B.1.1.33 (E484K).
+
+Conclusions
+SARS-CoV-2 diversity and MR (1-2 SNPs per month (192) is currently half of the one for influenza viruses: currently, 2 SARS-CoV-2 viruses randomly picked from anywhere in the world harbour only 10 RNA bases of difference out of 29 903, but the ongoing massive infection in humans is increasing the likelihood of major genetic variation. Furthermore, border closures create a situation where in-country evolution could be unrecognised and whose consequences could be detected only after border reopening.
+
+Mutations within the RBM are nowadays accumulating: While there are evidences that virtually all anti-SARS-CoV-2 CD8+ T-cell responses should recognise these newly described variants, (193) they have the potential to impact on antibody neutralisation. The common cold coronavirus HCoV-229E evolves antigenic variants that are comparatively resistant to the older sera but remain sensitive to contemporaneous sera. (194)
+
+Simulation results suggest that prioritising SARS-CoV-2 vaccination by antibody status while doses of the vaccine remain in short supply is largely effective, (195, 196) but on the other side, it is almost always better to use vaccines targeting the faster spreading SARS-CoV-2 strain, even when the initial prevalence of this variant is much lower. (197) Given the reported reduced neutralisation by vaccine-elicited antibodies against single to triple K417N + E484K + N501Y mutants, (96) it is likely that vaccines may need to be updated periodically to avoid potential loss of clinical efficacy, and in this regard, mRNA vaccines are likely the easiest to be remanufactured.
+
+Only a few of the commercial mAbs have been screened for their capacity to neutralise minor strains of SARS-CoV-2. mAb cocktails should reduce the opportunities for immune escape; nevertheless, novel mutants rapidly appear after treatment with individual mAb, causing loss of neutralisation. While escape occurs when combining mAbs targeting overlapping regions of Spike, this does not happen when combining noncompeting antibodies. (198) Given the preserved affinity to ACE2 from Spike variants, ACE2-Ig proteins are broadly effective against SARS-CoV-2 variants. (102)
+
+Preparing [for] mutations 1st means adjusting the usage of CCP donations (199): It has been formally proven that only a minority of convalescent samples lose all neutralising activity in contrast to mAbs from 5 different epitope clusters where neutralisation was completely abrogated by a single Spike mutation. While only a minority of sera from hospitalised individuals lose more than 3-fold potency against any individual mutant, more than half of the mild/asymptomatic serum samples showed a 3-fold drop in potency against at least one Spike mutant. (78) If the main strain changes among epidemic waves, hyperimmune serum, monoclonal antibody and vaccine stockpiles become ineffective, while CCP manufacturing can immediately restart, restoring product efficacy.
+
+The unavoidable delay in retargeting mAbs and vaccines, with its detrimental consequences, should stimulate continuous research in genomic epidemiology.
+
+--
+Communicated by:
+ProMED Rapporteur Kunihiko Iizuka
+
+[Good technical review of spike protein variants as of January 2021 and their "escape" potential. Figure 1 is a great visual summary of the mutation sites and their relative abundance. But the focus is solely on the spike protein and not the NLS or other sites in the viral genome.
+
+The NY Times variant tracker is perhaps the most accessible and relevant publication for non-molecular biologists and the general public (https://www.nytimes.com/interactive/2021/health/coronavirus-variant-tracker.html). - Mod.LXL]
+
+------
+[B] Threat level designations
+Date: Fri 19 Mar 2021
+Source: Drug Discovery and Development [edited]
+https://www.drugdiscoverytrends.com/u-s-government-classifies-threat-levels-of-sars-cov-2-variants/
+
+
+The number of SARS-CoV-2 variants with enhanced transmissibility and resistance to antibodies is increasing, prompting the U.S. government to issue guidance on how to classify them.
+
+The criteria divide variants into 3 categories including the following:
+- Variant of interest [VOI]: This virus type has genetic markers that have been linked to a potentially increased risk. Examples include mutations that could change how the virus enters cells and responds to antibodies from vaccination or infection. Such a virus could also potentially enhance transmissibility or disease severity.
+- Variant of concern [VOC]: This class includes variants with evidence of increased transmissibility, severe disease or reduction in neutralization by antibodies from infection or vaccination. Such a variant may also pose a higher risk of eluding testing. See the table below for examples.
+- Variant of high consequence: This category poses the most significant risk. A variant of high consequence has a demonstrable ability to evade prevention measures or medical countermeasures. Such a variant could potentially elude vaccines or medical treatments. No SARS-CoV-2 variants currently meet this threshold.
+
+To classify a SARS-CoV-2 "variant of concern" requires significant evidence of its increased risk. Conversely, the threshold for classifying a "variant of interest" is relatively low.
+
+To classify variants, CDC will collaborate with the newly formed SARS-CoV-2 Interagency Group (SIG). That group contains experts from FDA, NIH and other government agencies.
+
+"The SIG focuses on rapid characterization of the emerging [variants of concern] and actively monitors their potential influence on critical SARS-CoV-2 countermeasures, including diagnostics, therapeutics, and vaccines," as explained in a JAMA article coauthored by CDC director Rochelle Walensky.
+
+- VOC:
+B.1.1.7 1st detected in UK
+- Roughly 50% increased transmissibility.
+- Suspected to increase disease severity.
+- This variant has minimal impact on authorized monoclonal antibody therapeutics.
+- Currently available vaccines continue to be effective against this variant.
+
+P.1 1st detected in Japan and Brazil
+- Possibly more transmissible. One preprint study estimated this variant was between 1.4 and 2.2 times more transmissible than the original coronavirus strain.
+- Moderate impact on authorized monoclonal antibody therapeutics.
+- Reduced neutralization by convalescent and post-vaccination sera.
+
+B.1.351 1st detected in South Africa
+- Roughly 50% increased transmissibility.
+- Moderate impact on authorized EUA monoclonal antibody therapeutics.
+- Moderate reduction on neutralization by convalescent and post-vaccination sera.
+
+B.1.427 1st detected in California
+- Roughly 20% increased transmissibility.
+- Significant impact on neutralization by some authorized therapeutics.
+- Moderate reduction in neutralization using convalescent and post-vaccination sera.
+
+B.1.429 1st detected in California
+- Roughly 20% increased transmissibility.
+- Significant impact on neutralization by some, but not all, COVID-19 therapeutics.
+- Moderate reduction in neutralization using convalescent and post-vaccination sera.
+
+[Byline: Brian Buntz]
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[Because the terms VOI and VOC are being used a lot, it is important to be clear on their meaning. The reference for this is: Walensky RP, Walke HT, Fauci AS. SARS-CoV-2 Variants of Concern in the United States--Challenges and Opportunities. JAMA. 2021;325(11):1037-1038. doi:10.1001/jama.2021.2294>.
+
+On 10 Jan 2020, the 1st genomic sequence of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) isolated from a patient in Wuhan, China, was posted online. As of 3 Feb 2021, 468 000 sequences of SARS-CoV-2 from COVID-19 cases globally have been uploaded into publicly available databases, including more than 93 000 from individuals in the US. SARS-CoV-2, like other RNA viruses, constantly changes through mutation, with new variants occurring over time. Generally, when new variants become more common, they do so because of some selective advantage to the virus. Among the numerous SARS-CoV-2 variants that have been detected, only a very small proportion are of public health concern because they are more transmissible, cause more severe illness, or can elude the immune response that develops following infection and possibly from vaccination.
+
+In the recent months, 3 specific viral lineages reflecting variants of concern have emerged and merit close monitoring: B.1.1.7, B.1.351, and P.1.
+
+The B.1.1.7 lineage (known as 20I/501Y.V1 or variant of concern [VOC] 202012/01) was 1st detected in the UK in December 2020 with likely emergence during the preceding September [2020]; this variant has now been identified in at least 80 countries.1 The 1st identified US case of the B.1.1.7 variant was detected in Colorado in late December 2020. Since then, B.1.1.7 has been detected in at least 33 US states. Another VOC, the B.1.351 lineage (known as 20H/501Y.V2) was 1st identified in the Republic of South Africa in December 2020 with likely emergence before October 2020; this variant has been identified in at least 41 countries including the US, where it was 1st detected in South Carolina and Maryland in late January 2021. The SARS-CoV-2 P.1 lineage (known as 20J/501Y.V3) was identified in December 2020 in travelers from Brazil, with the 1st case in the US detected in Minnesota in January 2021.
+
+Preliminary data from the UK suggest that the B.1.1.7 variant is more transmissible than previous variants of SARS-CoV-2 (similar concerns have been raised about the B.1.351 and P.1 variants), and preliminary data suggest the possibility of increased severity of disease with infection. Some data also suggest that people infected with an earlier form of circulating SARS-CoV-2 may have reduced protection from reinfection with the B.1.351 variant. This observation and a report of an approximately 6-fold reduction in neutralization of B.1.351 variants by sera from vaccinated individuals with a vaccine designed against wild-type virus suggest that currently employed vaccines might be less effective at preventing infection due to this variant. It should be noted that this type of assessment, neutralizing antibody from vaccinated or previously infected individuals, does not assess other types of potential immunity, such as memory T- and B-cell activity.
+
+Modeling data have illustrated how a more contagious variant, such as B.1.1.7, has the potential to exacerbate the trajectory of the US pandemic and to reverse the present downward trend in new infections and further delay control of the pandemic. A recent report from Minnesota in the Morbidity and Mortality Weekly Report (MMWR) on B.1.1.7 variant cases highlighted the risk of domestic and international travel; the Centers for Disease Control and Prevention (CDC) recommends delaying travel to reduce the chance of acquiring and spreading SARS-CoV-2 including emerging VOC. By 3 Feb 2021, genomic sequencing of circulating viruses from one commercial laboratory suggests that the nationwide prevalence of the B.1.1.7 variant in the US is now approaching 1%, with prevalence in some states exceeding 2%.
+
+There are also signs of concerning increases in cases attributed to the B.1.351 variant in some countries. A recent MMWR report shows the substantial increase in the B.1.351 variant that occurred in Zambia, going from none detected by genomic sequencing of a subset of samples from March to early December 2020 to 22 of 23 samples (96%) sequenced from a 1-week period in mid-December 2020, corresponding with a more than 16-fold increase in COVID-19 incidence in Zambia from early December 2020 to early January 2021. The possibility of a similar experience in the US is a real threat. However, such an outcome is not inevitable; the US and other countries have the capability to prevent this outcome from occurring with a strong and immediate public health response.
+
+To ensure a proactive rather than reactive response, the Department of Health and Human Services (HHS) established a SARS-CoV-2 Interagency Group (SIG) to improve coordination among CDC, the National Institutes of Health (NIH), the Food and Drug Administration (FDA), the Biomedical Advanced Research and Development Authority (BARDA), the US Department of Agriculture (USDA), and the Department of Defense (DoD). The SIG focuses on rapid characterization of the emerging VOC and actively monitors their potential influence on critical SARS-CoV-2 countermeasures including diagnostics, therapeutics, and vaccines.
+
+To ensure that diagnostic testing continues to reliably identify infections including those caused by VOC, FDA and CDC are working together with industry to evaluate tests already approved for SARS-CoV-2 detection under Emergency Use Authorization. To address risk of reinfection and ensure vaccine effectiveness, NIH, CDC, and DoD are conducting in vitro neutralization assays to assess the neutralizing activity of human convalescent and postvaccination sera, respectively, against VOC. Similarly, NIH and DoD are assessing the effects of the emerging variants on the efficacy of certain therapeutics by conducting in vitro and in vivo neutralization assays with authorized monoclonal antibody and polyclonal antibody products.
+
+The public health response within the US needs to address not only SARS-CoV-2 variants from other countries, but also be vigilant for the evolution of domestic VOC given the high levels of transmission in much of the nation. A multipronged public health response is needed. 1st, the level of community transmission must be aggressively decreased by more widespread adoption of demonstrated effective prevention practices, specifically correct and consistent use of face masks, physical distancing, restrictions on high-risk and high-capacity settings, frequent hand washing, delaying travel, and widespread diagnostic testing and screening to swiftly identify and isolate infectious individuals, particularly those who are asymptomatic, and quarantine contacts. 2nd, increased genome sequence surveillance combined with viral characterization and epidemiological investigation are needed to track recognized VOC and rapidly identify newly emerging variants. 3rd, in addition to CDC's partnership with state health departments on national strain surveillance of 750 samples per week, CDC is now contracting with commercial laboratories to significantly increase sequence surveillance to more than 6000 samples per week. Furthermore, state public health laboratories and academic partners have been contributing thousands of viral genome sequences monthly to the US surveillance efforts. 4th, the US needs to accelerate SARS-CoV-2 vaccination nationally and globally to decrease transmission and thereby viral replication that creates opportunities for VOC to emerge, especially where virus is most rapidly spreading.
+
+Clinical trials have shown that the vaccines authorized for use in the US are highly effective against COVID-19 infection, severe illness, and death. As of 11 Feb 2021, more than 46 million doses of vaccine have been administered in the US. As the national vaccination program rolls out, CDC is leading a comprehensive suite of studies to assess the actual effectiveness of these vaccines in non-clinical trial settings among the 1st populations for whom vaccination was recommended, including studies underway now to assess protection in clinicians and other healthcare personnel. In addition, CDC and NIH are working with state and local health departments to investigate "breakthrough" infections following vaccination, identified through a variety of mechanisms including case-based surveillance. Investigations of vaccine effectiveness, individual breakthrough infections, and the ability of postvaccination serum to neutralize novel variant viruses are important components of monitoring the effectiveness of vaccination in controlling COVID-19 in an arena of evolving viral variants. Finally, a concerted and well-coordinated public health effort together with rapid and widespread uptake of effective vaccines are essential to remain ahead of the inevitable evolution of variants that could dangerously accelerate the trajectory of the pandemic.
+
+This article discusses the importance of a multipronged coordinated approach among organizations now to be overseen by the SARS-CoV-2 Interagency Group (SIG). Such an approach should lead to rapid response as new variants appear. Diagnostics, therapeutics and vaccines will need to be adjusted to cover the changes. It is important to involve state and local health departments in the chain since they have the 1st glimpse of changes occurring. And academic scientists must be involved, as they can determine the biological significance of the mutations detected. This is the perfect time to rethink public health infrastructure and improve coordination of effort. - Mod.LK]
+
+******
+[2] Japan: Tokyo Olympics
+Date: Sat 20 Mar 2021
+Source: Al Jazeera [abridged, edited]
+https://www.aljazeera.com/sports/2021/3/20/overseas-fans-banned-from-tokyo-olympics-over-covid-fears
+
+
+The Tokyo 2020 Olympic Games were postponed last year to 2021 due to the coronavirus pandemic.
+
+Overseas fans will be barred from this year's [2021] pandemic-postponed Tokyo Olympics and Paralympics because of continuing coronavirus concerns, organisers announced on Sat 20 Mar 2021.
+
+The decision was announced after an online meeting of the International Olympic Committee (IOC), the Japanese government, the Tokyo government, the International Paralympic Committee (IPC), and local organisers.
+
+"In order to give clarity to ticket holders living overseas and to enable them to adjust their travel plans at this stage, the parties on the Japanese side have come to the conclusion that they will not be able to enter into Japan at the time of the Olympic and Paralympic Games," the Tokyo 2020 organising body said in a statement. The IOC and IPC "fully respect and accept this conclusion," the statement added.
+
+Japan has attributed about 8800 deaths to COVID-19 and has controlled the virus better than most countries.
+
+About one million tickets are reported to have been sold to fans from outside Japan, while 4.45 million tickets were sold to Japan residents.
+
+"We could wait until the very last moment to decide, except for the spectators," said Seiko Hashimoto, the president of the organizing committee. "They have to secure accommodations and flights. So, we have to decide early, otherwise we will cause a lot of inconvenience to them. I know this is a very tough issue."
+
+IOC President Thomas Bach called it a "difficult decision. We have to take decisions that may need sacrifice from everybody," he said.
+
+AP Sports journalist Stephen Wade, speaking to Al Jazeera from Tokyo, said that the polls indicated that more than 70 percent of Japanese people "did not want overseas fans here."
+
+"The economic impact is very small. This is an economy with USD 5-6 trillion GDP/GNP," Wade said. "The Olympics are small potatoes, it's a couple of weeks, it doesn't have much effect." He said the organising committee, however, will be affected.
+
+"Ticket sales are the 3rd largest income source, almost USD 800 million; they're going to lose a big chunk of that in refunds," Wade said.
+
+The financial burden of lost ticket sales falls on Japan. Overall, Japan is officially spending USD 15.4 billion to organise the Olympics. Several government audits say the actual cost may be twice that much. All but USD 6.7 billion is public money.
+
+Meanwhile, British taekwondo athlete Lutalo Muhammad said that despite the absence of foreign fans, he was happy that the games are still going ahead. "For me, one of the biggest things about the Olympics is having that support," he said, referring to "family and friends flying from home."
+
+"An Olympics without that is going to be weird, but let's face it, it's been a very weird year," Muhammad said.
+
+Organisers are expected next month [April 2021] to announce the capacity at venues, which will be filled by local residents.
+
+The ban on fans from abroad comes just days before the Japanese Olympic torch relay starts in the eastern Fukushima prefecture on Thu 25 Mar 2021.
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[It sounds as if Japanese fans will be permitted to attend. This also presents a risk, as do the international players themselves to each other. - Mod.LK
+
+As a result, there remains the potential for the 2021 Tokyo Olympics to foster a super-spreading event. As of 20 Feb 2021, over 200 countries and over 2000 athletes are slated to participate in 47 different events in Tokyo. https://www.washingtonpost.com/sports/2021/02/20/tokyo-olympics-2021-guide/. -Mod.LXL]
+
+******
+[3] India: Next wave?
+Date: Sat 20 Mar 2021
+Source: Reuters [edited]
+https://www.reuters.com/article/us-health-coronavirus-india-cases/india-coronavirus-cases-surge-to-four-month-high-some-lockdowns-return-idUSKBN2BC067
+
+
+India reported 40 953 new coronavirus cases on Sat 20 Mar 2021, the biggest daily jump in nearly 4 months, with its richest state and economic backbone Maharashtra accounting for more than half the infections.
+
+Deaths rose by 188 to 159 404, the health ministry reported, underscoring a resurgence of the virus in the world's 3rd worst affected country, after the United States and Brazil.
+
+Some regions in India have already reimposed containment measures, including lockdowns and restaurant closures, and more are being considered.
+
+Doctors have blamed the fresh infection wave on people's relaxed attitude to mask-wearing and other social distancing measures, warning that hospital wards were swiftly filling up in states like Maharashtra.
+
+Maharashtra reported a record 25 681 cases, including 3000 in the financial capital of Mumbai, over the past 24 hours.
+
+The state of 112 million people has imposed a lockdown in some districts and put curbs on cinemas, hotels and restaurants until the end of the month [March 2021]. Chief minister Uddhav Thackeray warned that a wider lockdown is an option, according to local media.
+
+The rise in India's COVID-19 cases peaked at nearly 100 000 a day in September 2020 and had been falling steadily until late last month [February 2021].
+
+In addition to Maharashtra, the Indian states of Punjab, Karnataka, Gujarat, and Madhya Pradesh all reported a surge in new cases.
+
+The capital, New Delhi, has reported a steady rise in infections over the last 2 weeks, prompting city authorities to scale up an immunisation drive to 125 000 doses per day, from about 40 000.
+
+Many Indians have started questioning the government's highly publicised vaccine exports campaign when only a fraction of the country's 1.35 billion people have been inoculated.
+
+The government has announced plans to inoculate 300 million people, or 1/5th of the population, by August 2021. Yet only 42 million have been vaccinated so far, while the world's biggest vaccine maker has gifted or exported almost 60 million doses.
+
+--
+Communicated by:
+ProMED Rapporteur Kunihiko Iizuka
+
+[The surge in cases in India is reflective of similar reports from Europe and the US, where cases had declined somewhat following stricter lockdowns and initiating mass vaccination campaigns.
+
+It seems that 2021 will continue to be a year of juggling administrative control measures and increasing vaccination coverage in various countries and regions to effectively respond to the pandemic. - Mod.UBA]
+
+******
+[4] WHO: daily new cases reported (as of 20 Mar 2021)
+Date: Sat 20 Mar 2021
+Source: WHO [abridged, edited]
+https://covid19.who.int/table
+
+
+*Daily case reports as of 20 Mar 2021 16:18 CET
+
+Surveillance
+------------
+WHO region (no. countries/territories):
+Total confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+-----------------------------------
+Western Pacific Region (19): 1 763 132 (10 867) / 30 782 (52)
+European Region (61): 42 260 060 (191 869) / 926 375 (2868)
+South East Asia Region (10): 14 130 838 (49 878) / 214 459 (410)
+Eastern Mediterranean Region (22): 7 091 557 (38 123) / 152 988 (477)
+Region of the Americas (54): 53 731 830 (195 428) / 1 293 491 (5699)
+African Region (49): 2 991 061 (8752) / 75 986 (415)
+Cases on an international conveyance (Diamond Princess): 745 (0) / 13 (0)
+
+Confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+Grand total: 121 969 223 (494 917) / 2 694 094 (9921)
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[Data by country, area, or territory for 20 Mar 2021 can be accessed at https://promedmail.org/wp-content/uploads/world-pdf/2021%20WHO%20Daily%20Tables%20Mar20_1616316158.pdf.
+
+- The Americas region reported 39.4% of daily case numbers and 57.4% of the daily deaths reported in the past 24 hours and maintained its position as the most severely affected region, having reported more than 53.73 million cases. Brazil reported over 86 000 cases over the last 24 hours followed by the US with 58 826 cases. Nine additional countries reported more than 1000 cases in the past 24 hours (Colombia, Argentina, Mexico, Peru, Chile, Paraguay, Uruguay, Guatemala, and Canada), and an additional 6 countries (Cuba, Bolivia, Honduras, Dominican Republic, Jamaica, and Venezuela) reported more than 500 but fewer than 1000 cases.
+
+- The European region reported 38.7% of daily case numbers and 28.9% of the daily deaths reported in the past 24 hours, and total cumulative cases reported exceed 42.26 million. Countries not reporting cases include France, Spain, Israel, Belgium, Switzerland (5 cases), and Kazakhstan, among others. Poland reported the highest number of cases over the last 24 hours, followed by Italy, Turkey, Germany, Ukraine, and Hungary, reporting more than 10 000 new cases in the past 24 hours. Another 17 countries reported more than 1000 cases, and an additional 8 countries reported more than 500 but fewer than 1000 cases.
+
+- The Eastern Mediterranean region reported 7.7% of daily case numbers and 4.8% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 7.09 million cases. Iran reported the highest number of cases (7620) over the last 24 hours, followed by Jordan (7354), Iraq, Lebanon, Pakistan, UAE, Palestinian Authority, Libya, and Kuwait. Bahrain, Tunisia, and Egypt reported more than 500 but fewer than 1000 cases.
+
+- The African region reported 1.7% of daily case numbers and 4.1 % of the deaths reported in the past 24 hours, having reported a cumulative total of more than 2.99 million cases. Ethiopia reported 1994 cases followed by South Africa (1462 cases), and Kenya (1354). Ghana and Cote d'Ivoire reported more than 500 but fewer than 1000 cases in the last 24 hours. Many countries, including Cameroon, Malawi, Namibia, and Botswana, among others, did not report any new cases in the past 24 hours.
+
+- The Western Pacific region reported 2.1% of daily case numbers and 0.5% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 1.76 million cases. Philippines reported the highest number of cases over the last 24 hours (over 7000 cases), followed by Malaysia, Japan, South Korea, and Mongolia.
+
+- The South East Asia region reported 10.1% of the daily newly reported cases and 4.1% of reported deaths in the past 24 hours, having reported a cumulative total of more than 14.13 million cases. India is dominant, reporting over 40 000 cases, followed by Indonesia (6279) cases), Bangladesh, Sri Lanka, and Maldives.
+
+On the Overview tab at the WHO source URL, the epidemic curve of confirmed COVID-19 cases by WHO region, 30 Dec 2019 through 20 Mar 2021, is an excellent visual representation of the pandemic. - Mod.UBA]
+
+******
+[5] Global update: Worldometer accessed 20 Mar 2021 21:10 EST (GMT-5)
+Date: Sat 20 Mar 2021
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at:
+https://promedmail.org/wp-content/uploads/world-pdf/2021%20WORLDDATA%20MAR20_1616316745.pdf.
+
+A 7-day series of cumulative data reported by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/2021%20MAR20WORLD7_1616316831.pdf. - Mod.UBA]
+
+Total number of reported deaths: 2 721 424
+Total number of worldwide cases: 123 424 721
+Number of newly confirmed cases in the past 24 hours: 552 330
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[In the past 24 hours, Brazil (73 450), the USA (55 908), India (43 815), and France (35 345), have reported the highest numbers of cases. A global total of 8769 deaths were reported in the past 24 hours (late 19 Mar 2021 to late 20 Mar 2021). Countries reporting more than 10 000 newly confirmed cases in the past 24 hours (10 countries) include Brazil, the USA, India, France, Poland (26 405), Italy (23 832), Turkey (21 060), Ukraine (15 292), Germany (13 365), and Hungary (11 132). A total of 56 countries reported more than 1000 cases in the past 24 hours; 31 of the 56 countries are from the European region, 9 are from the Americas region, 7 are from the Eastern Mediterranean region, 3 are from the South East Asia region, 3 are from the Western Pacific region, and 3 from the African region.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, case counts have increased by 13.7%, while daily reported deaths have increased by 3.9%. Similar comparative 7-day averages in the USA show a 12.4% increase in daily reported cases and a 12.8% decrease in reported deaths.
+
+Impression: The global daily reported cases totaled over 550 000 newly confirmed infections in the past 24 hours, with over 123.42 million cumulative reported cases and over 2.72 million reported deaths. - Mod.UBA]
+See Also
+COVID-19 update (106): 3rd wave, variants, AstraZeneca, WHO, global 20210320.8258994
+COVID-19 update (105): long COVID, variants, T Cell resp, S Asia, WHO, global 20210319.8256709
+COVID-19 update (104): surge, Europe, variants, vaccines, WHO, global 20210318.8254505
+COVID-19 update (103): variants, Papua New Guinea, WHO, global 20210317.8252208
+COVID-19 update (102): China, origin, farmed wild animals susp. 20210316.8251684
+COVID-19 update (101): animal, USA, UK variant 20210316.8251626
+COVID-19 update (100): antibodies, vaccine, Thailand, Cambodia, WHO, global 20210316.8250009
+COVID-19 update (99): China, animal reservoir, wildlife sale, pork supply impact 20210315.8249619
+COVID-19 update (98): transmission, long COVID, vaccine reactions, WHO, global 20210315.8247668
+COVID-19 update (97): testing, contact tracing, variants, immunity, WHO 20210314.8246696
+COVID-19 update (96): HCWs, child mental health, Africa vaccines, WHO 20210313.8245159
+COVID-19 update (95): vacc reactions, vacc approval, Americas, WHO 20210312.8242839
+COVID-19 update (94): blood donor Abs, self-check, pollen, variant, WHO 20210311.8241172
+COVID-19 update (93): animal, Estonia (HA) cat, OIE 20210310.8239589
+COVID-19 update (92): allergy mRNA vacc, sex-specific risk, WHO 20210310.8238271
+COVID-19 update (91): USA post vacc, vacc passport, WHO 20210309.8236250
+COVID-19 update (90): UK sewage, Viet Nam, Cambodia, WHO 20210308.8233859
+COVID-19 update (80): vaccine, USA variants, comments, WHO, global 20210226.8214650
+COVID-19 update (70): gangrene, challenge trials, immunity, cancer, WHO, global 20210218.8198620
+COVID-19 update (60): animal, SARS-CoV-2-related viruses, pangolin, bat 20210211.8184900
+COVID-19 update (50): UK vaccine study, Brazil reinfection, WHO 20210205.8167161
+COVID-19 update (01): variants, vaccine, Thailand, global, WHO 20210101.8062938
+2020
+----
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+COVID-19 update (562): viral load, UK vacc dose, ECDC, WHO 20201231.8061525
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia: China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia: China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+----
+Undiagnosed pneumonia: China (HU): RFI 20191230.6864153
+and other items in the archives
+.................................................sb/lk/uba/msp/lxl
+</body>

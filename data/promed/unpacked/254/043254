@@ -1,0 +1,90 @@
+<header id=043254>
+Published Date: 2020-11-19 00:01:06 EST
+Subject: PRO/AH/EDR> COVID-19 update (495): animal, cat, transmission model
+Archive Number: 20201119.7954363
+</header>
+<body id=043254>
+CORONAVIRUS DISEASE 2019 UPDATE (495): ANIMAL, CAT, TRANSMISSION MODEL
+**********************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+Date: Tue 17 Nov 2020
+Source: bioRxiv preprint, not peer reviewed [edited]
+https://www.biorxiv.org/content/10.1101/2020.11.16.384917v1.full.pdf
+
+
+ref: Braun KM, Moreno GK, Halfmann PJ, Baker DA, et al. Transmission of SARS-CoV-2 in domestic cats imposes a narrow bottleneck. bioRxiv preprint. 2020; doi: https://doi.org/10.1101/2020.11.16.384917 [this version posted 17 Nov 2020].
+
+Abstract
+--------
+The evolutionary mechanisms by which SARS-CoV-2 viruses adapt to mammalian hosts and, potentially, escape human immunity depend on the ways genetic variation is generated and selected within and between individual hosts. Using domestic cats as a model, we show that SARS-CoV-2 consensus sequences remain largely unchanged over time within hosts, but dynamic sub-consensus diversity reveals processes of genetic drift and weak purifying selection. Transmission bottlenecks in this system appear narrow, with new infections being founded by fewer than 10 viruses. We identify a notable variant at amino acid position 655 in Spike (H655Y) which arises rapidly in index cats and becomes fixed following transmission in 2 of 3 pairs, suggesting this site may be under positive selection in feline hosts. We speculate that narrow transmission bottlenecks and the lack of pervasive positive selection combine to constrain the pace of ongoing SARS-CoV-2 adaptive evolution in mammalian hosts.
+
+--
+communicated by:
+Herve Bercovier
+Prof (Emeritus) of Microbiology
+The Faculty of Medicine
+Hebrew University of Jerusalem, Israel
+<hb@cc.huji.ac.il>
+
+[The following complementary data and comments are extracted from the discussion section of the above pre-print paper, authored by researchers of the University of Wisconsin, Madison, Wisconsin, and the Emory University, Atlanta, Georgia:
+
+"Using domestic cats as a translational model, we show that genetic drift appears to be a major force shaping SARS-CoV-2 evolution. Selection within hosts is weak, and transmission bottlenecks, even with the potential for contact transmission, appear narrow. These observations suggest that SARS-CoV-2 may already be well adapted to mammalian hosts. The strong role of genetic drift may combine with the relatively slow mutation rate and narrow transmission bottlenecks to slow the overall pace of viral evolution.
+
+"Here we use deep viral sequencing to carefully uncover within-host variants in 6 domestic cats grouped into 3 defined transmission pairs. We find genetic drift and purifying selection shape SARS-CoV-2 genetic diversity within feline hosts, and a stringent bottleneck defines viral transmission. This latter finding is at odds with some recent studies in humans, which have estimated wide and variable SARS-CoV-2 transmission bottlenecks. Our data, however, is in line with other narrow estimates. These discordant estimates are likely due to a combination of factors including uncertain sources of infection, difficulty collecting samples which closely bookend the transmission event, and inaccurate variant calls.
+
+"These studies have commonly identified transmission pairs using intrahousehold infections diagnosed within a defined timeframe. A major weakness with this approach is the possibility that some of these cohabiting individuals will both share an alternative source of exposure. Furthermore, without fine-scale epidemiological and clinical metadata, pinpointing the likely transmission is challenging, so even samples collected before and after a real transmission event may be several days removed from the time of transmission. Here, we were able to circumvent many of these challenges by taking advantage of domestic cats experimentally infected with SARS-CoV-2 arranged in defined transmission pairs with clinical monitoring and daily sample collection, making for a useful model system.
+
+"Reports of natural transmission from humans to cats lend credence to the idea that cats can serve as a viable model for studying transmission. Like in humans, infectious SARS-CoV-2 virus can be recovered from cat nasal turbinates, soft palates, tonsils, tracheas, and lungs. Respiratory droplet transmission, which is thought to drive SARS-CoV-2 infection in humans, has been repeatedly reported in cats. However, it is still likely that cat-specific processes and characteristics impact patterns of SARS-CoV-2 evolution and transmission in this model system.
+
+"Our study found that overall genetic diversity in cats was low, and signatures support prominent roles for genetic drift and purifying selection. The combination of low genetic diversity, genetic drift, and purifying selection are in line with recent estimates of human within-host diversity. Importantly, our study only evaluated 3 transmission pairs with an undefined mode of transmission in the context of a single human isolate. Future studies will need to further explore the role of respiratory droplet transmission among a larger cohort of cats.
+
+"As has been demonstrated for other viruses, a narrow transmission bottleneck may act as a brake on the pace with which SARS-CoV-2 will be able to evade humoral immunity and antiviral therapeutics through the stochastic loss of beneficial variants before they become fixed. The size of the transmission bottleneck may have additional implications for individual infections.
+
+"The total number of founding virions, or the inoculum dose, has been posited to play a role in 'coronavirus disease 2019' ('COVID-19') clinical severity and outcomes. The relationship between the size of the genetic bottleneck and inoculum dose is not entirely clear, but these are not synonymous concepts. For example, an infection founded by 1000 genetically identical viruses would be categorized as resulting from a narrow genetic bottleneck but a relatively large inoculation dose, or population bottleneck. Furthermore, levels of viral genetic diversity have been linked to pathogenesis or clinical outcomes in the context of other viruses (for example, influenza A virus, polio, and respiratory syncytial virus), and because narrow transmission bottlenecks reduce viral genetic diversity, bottlenecks may play an essential role in the outcome of individual infections in this way as well. The relationship between SARS-CoV-2 viral genetic diversity and COVID-19 severity remains unclear.
+
+"Although within-host diversity was limited in the cats evaluated here, we identify 2 notable variants. S H655Y and E S67S arose rapidly, despite being found at 0.85% and 0.34% in the stock, and were detectable at intermediate frequencies at the 1st-day post-inoculation in all 3 index cats. S H655Y has been previously reported in other settings as well: natural SARS-CoV-2 infections in humans, transmission studies in a hamster model, as well as SAR-CoV-2 tissue culture experiments. S H655Y is near the polybasic cleavage site, residing between the receptor binding domain and the fusion peptide, and is thought to modulate Spike glycoprotein fusion efficiency. With short sequence reads and sequencing approaches relying on amplicon PCR, we cannot rigorously assess the extent of linkage disequilibrium between these variants. It may be that S H655Y arose on the genetic background of an existing S67S variant in envelope. If S H655Y facilitates viral replication in cats, viruses with this variant in linkage with E S67S might have been positively selected in all index cats.
+
+"Humans are currently the primary reservoir for SARS-CoV-2, but the mink example shows that SARS-CoV-2 is able to infect and transmit among other mammals with the potential for ongoing zoonosis and anthroponosis. This exemplifies the need to understand the evolutionary mechanisms and pace at which SARS-CoV-2 is able to adapt to, and transmit between, a broad range of host species. In our study we see variants arising early and being transmitted onward in cats, a potential reservoir species. Our study and the mink example show that species and context-specific adaptations are inevitable as SARS-CoV-2 explores new hosts. While we do not know the phenotypic impacts of these variants, the rapid rise of variants in potential reservoir species may significantly impact humans if exposed to these new species-specific SARS-CoV-2 adaptations.
+
+"As more than 300 000 new SARS-CoV-2 cases occur each day worldwide, we must have models in place to recapitulate key evolutionary factors influencing SARS-CoV-2 transmission.
+
+"With the imminent release of SARS-CoV-2 vaccines and therapeutics and increasing incidence of natural exposure-related immunity, these models can help us forecast the future of SARS-CoV-2 variation and population-level genetic changes. Here, we use 6 domestic cats to show how SARS-CoV-2 genetic variation is predominantly influenced by genetic drift and purifying selection within individual hosts. Additionally, we find a role for narrow transmission bottlenecks shaping founding diversity in all 3 contact cats. Continued efforts to sequence SARS-CoV-2 across a wide variety of hosts, transmission routes, and spatiotemporal scales will be necessary to determine the evolutionary and epidemiological forces responsible for shaping within-host genetic diversity into global viral variation."
+
+For the (omitted) references and additional information, subscribers are referred to the complete text in the source URL.
+
+Infections with SARS-CoV-2 in cats have, so far, been reported to the OIE from the following 10 countries (dates of 1st reports in brackets): Belgium (28 Mar 2020); USA (6 Apr 2020); France (2 May 2020); Spain (16 Jul 2020); Germany (13 May 2020); Russia (26 May 2020); Hong Kong (24 Jul 2020); UK (28 Jul 2020); Chile (22 Oct 2020); Brazil (29 Oct 2020). Cases in cats have been identified, according to the media, in several other countries without being specifically notified to the OIE (for example, China, where included in serological surveys and experimental infection trial).
+
+Surveillance in domestic and stray cats have been performed in several countries, including in and around infected mink farms in the Netherlands. Experimental infection trials, performed in several countries, have shown that cats could transmit the virus to other cats, in contrast with dogs, which could be infected but did not transmit. No case of cat-to-human COVID-19 infection is known to have taken place anywhere so far. - Mod.AS]
+See Also
+COVID-19 update (490): animal, Greece (EM) mink, 1st report, OIE, assessment
+COVID-19 update (463): Brazil (MT) animal, cat, OIE 20201031.7905784
+COVID-19 update (452): Chile (RM) animal, cat, OIE 20201023.7885452
+COVID-19 update (350): USA (TX) animal, cat 20200808.7658191
+COVID-19 update (345): animal, cat, research, experimental infection 20200805.7648370
+COVID-19 update (334): animal, Netherlands, mink, spread, UK, cat, 1st rep, OIE 20200727.7617582
+COVID-19 update (330): China (Hong Kong) animal, cat, OIE 20200724.7609215
+COVID-19 update (267): animal, domestic, wild, cat, research 20200617.7480013
+COVID-19 update (248): Netherlands (NB, LI) animal, mink, spread, culling, cat 20200609.7446478
+COVID-19 update (238): USA (MN) animal, cat 20200605.7429133
+COVID-19 update (227): animal, cat, dog, research, experimental infection 20200601.7416648
+COVID-19 update (212): Russia (Moskva) animal, cat, OIE 20200526.7379578
+COVID-19 update (209): Netherlands (NB) farmed mink, animal-to-human, cat, epid 20200525.7375359
+COVID-19 update (189): Netherlands (NB) animal, farmed mink, research, cat, dog 20200517.7344274
+COVID-19 update (183): Japan/USA, animal, research, cat, experimental infection 20200514.7337185
+COVID-19 update (181): Germany (BY), France (AC), cat, OIE animal case defin. 20200513.7332909
+COVID-19 update (177): Netherlands (NB) animal, farmed mink, Spain (CT) cat susp 20200512.7328587
+COVID-19 update (166): China (Hong Kong) animal, cat, OIE, resolved 20200508.7314521
+COVID-19 update (149): France (IF) animal, cat, owned 20200501.7289409
+COVID-19 update (124): USA (NY) animal, cat, lion, OIE 20200423.7259119
+COVID-19 update (123): USA (NY) animal, cat, conf. 20200422.7256272
+COVID-19 update (113): USA (NY) animal, cat, susp, RFI 20200418.7240811
+COVID-19 update (75): China (Hong Kong) animal cat, OIE 20200403.7179945
+COVID-19 update (70): China (Hong Kong) animal, cat, pets & stock 20200402.7173286
+COVID-19 update (58): Belgium, animal, cat, clinical case, RFI 20200327.7151215
+.................................................arn/tw/sh
+</body>

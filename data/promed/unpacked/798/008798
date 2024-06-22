@@ -1,0 +1,95 @@
+<header id=008798>
+Published Date: 2012-09-28 15:51:15 EDT
+Subject: PRO/EDR> Novel coronavirus - Saudi Arabia (08): real-time RT-PCR assay
+Archive Number: 20120928.1314254
+</header>
+<body id=008798>
+NOVEL CORONAVIRUS - SAUDI ARABIA (08): REAL-TIME POLYMERASE CHAIN REACTION ASSAY
+********************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+Date: Thu 27 Sep 2012
+Source: Eurosurveillance Edition 2012, 17(39) [summ., edited]
+http://www.eurosurveillance.org/ViewArticle.aspx?ArticleId=20285
+
+
+Detection of a novel human coronavirus by real-time reverse-transcription polymerase chain reaction
+----------------------------------------------------------------------
+[By: Corman VM, Eckerle I, Bleicker T, et al]
+
+Summary
+-------
+We present 2 real-time reverse-transcription polymerase chain reaction assays for a novel human coronavirus (CoV), targeting regions upstream of the E gene (upE) or within open reading frame (ORF)1b, respectively. Sensitivity for upE is 3.4 copies per reaction (95 percent confidence interval (CI): 2.5-6.9 copies) or 291 copies/mL of sample. No cross-reactivity was observed with coronaviruses OC43, NL63, 229E, SARS-CoV, or with 92 clinical specimens containing common human respiratory viruses. We recommend using upE for screening and ORF1b for confirmation.
+
+Introduction
+------------
+Coronaviruses (CoV) are large positive-stranded RNA viruses causing mainly respiratory and enteric disease in a range of animals and in humans. Humans are known to maintain circulation of 4 different human coronaviruses (hCoV) at a global population level. These are part of the spectrum of agents that cause the common cold. The SARS-CoV [severe acute respiratory syndrome coronavirus] constitutes a 5th hCoV, which was in circulation for a limited time during 2002 and 2003, when a novel virus appeared in humans and caused an outbreak affecting at least 8000 people. Mortality was high, at ca. 10 percent [1]. Symptoms matched the clinical picture of acute primary viral pneumonia, termed severe acute respiratory syndrome (SARS).
+
+During September 2012, health authorities were notified of 2 cases of severe hCoV infection caused by a novel virus type. Both patients had travelled, or resided, in Saudi Arabia. Laboratories dealing with each of these unlinked cases were situated in Jeddah, Rotterdam, and London, respectively. In a collaborative activity coordinated by major European and national epidemic response networks we have developed diagnostic real-time reverse-transcription polymerase chain reaction (RT-PCR) assays suitable for qualitative and quantitative detection of the new agent.
+
+[Interested readers are referred to the original text, figures and references via the source URL above for a detailed account of the technical methods.]
+
+A provisional genome sequence as well as an isolate of the new virus were obtained from author RM Fouchier on [24 Sep 2012], after public notification of the 2nd case, who was in the United Kingdom (UK), to be most probably infected by the same virus as the 1st case, yet unrelated. The sequence (GenBank accession number: JX869059 for the Rotterdam virus isolate, termed hCoV-EMC) served as the template for assay design, and the virus was used for initial validation experiments.
+
+Results
+-------
+Upon scanning of a provisional genome assembly, a region upstream of the putative E gene [envelope protein gene] was identified as a particularly suitable target region for a real-time RT-PCR assay. The assay designed for this region is hereafter referred to as the upE-assay. A confirmatory test was designed in the open reading frame 1b (termed the ORF1b assay). This target gene did not overlap with those of known pan-CoV assays [3-5].
+
+In order to obtain an estimate of the end point sensitivity of the assays, they were applied to cell culture-derived virus stock. The virus had a titre of 1.26 x 107 median tissue culture infective dose (TCID50)/mL. In limiting dilution experiments, the upE and ORF1b assays detected down to 0.01 and 0.1 TCID50 per reaction, respectively. The discrepancy between assays might be due to release of subgenomic RNA after onset of cytopathogenic effect (CPE) in cell culture, including the upE target fragment. PCRs on these samples indicated no divergence between the assays after onset of CPE (observed at 24h onwards). However, both assays deviated from each other by constant numbers of Ct values over the full duration of incubation, including time 0 (T0) when the cells were just infected and when no subgenomic RNA could have been present. It was concluded that the higher Ct values at each time point, and the lower dilution endpoint for the ORF1b assay indicated that this assay had a lower sensitivity.
+
+A more detailed assessment of technical sensitivity can be achieved using quantified, in-vitro transcribed RNA derived from the peri-amplicon region of each assay. These transcripts were generated and tested in serial ten-fold dilution experiments. Detection end points were two copies per reaction for the upE assay, and 10 copies per reaction for the confirmatory, ORF1b gene, assay. To obtain a statistically robust assessment of Limit Of Detection (LOD), transcripts were also tested in multiple parallel reactions in smaller dilution intervals above and below the end-point PCR limits. The results in terms of the fraction of positive reactions at each concentration were subjected to probit regression analysis. Based on the upE assay with a detection limit of 3.4 copies per reaction, and a cell-culture endpoint equivalent to 0.01 TCID50 per reaction, it was calculated that the RNA/infectious unit ratio of the virus stock must have been ca. 29 (100/3.4).
+
+To exclude non-specific reactivity of oligonucleotides among each other, all formulations were tested 40 times in parallel with assays containing water and no other nucleic acids except the provided oligonucleotides. In none of these reactions was any positive signal seen. Cross-reactivity with known, heterospecific human CoVs was excluded by testing high-titred cell culture materials.
+
+To obtain a more clinically relevant figure on assay specificity, the assays were applied on 92 original clinical samples in which other respiratory viruses had already been detected during routine respiratory screening at Bonn University Medical Centre. These samples were prepared using the Qiagen Viral RNA kit, a formulation widely used to extract RNA in clinical laboratories. Of note, the tested panel included 4 samples containing hCoV-HKU1, which was not available as cultured virus stock. In total, none of the 92 original clinical samples, containing a wide range of respiratory viruses, gave any detection signal with either assay while positive controls were readily detected. It was concluded that the assay could be reliably applied to clinical samples.
+
+Discussion
+----------
+Cell culture-derived virus is a useful source of reference material for the evaluation of molecular detection assays. However, detection endpoints determined on cell culture-derived virus are difficult to correlate to virus titre. Reasons include the discrepancy between infectious viral particles and the number of copies of viral RNA, as well as the imbalance between viral genomic and subgenomic transcripts in the particular case of CoVs. This is important for laboratories using cell-cultured virus as reference, but also in the clinical setting. For example, SARS-CoV assays targeting structural protein genes tend to be slightly more sensitive than ORF1b-based assays when applied to clinical samples [6]. For the novel virus the ratio of RNA copies per infectious unit was ca. 29, while little imbalance seems to exist between genomic and subgenomic RNA in Vero cells up to 36 h post infection.
+
+While we are not addressing the issue of quantitative PCR in this report, it should be mentioned that the availability of synthetic RNA standards enables immediate implementation of quantitative virus detection that is essential for case management and public health. Quantitative virus data can help assess the height and duration of virus excretion, and can also be useful as an early and robust parameter for the success of treatment [2,7,8]. Here we have used synthetic RNA to determine technical limits of detection in the style of standards applied by industry, taking inter-assay variation into account and providing statistically robust detection end points based on physically quantified target genes, which is impossible to achieve on cell-cultured virus. It is important to note that the detection limits we describe here are expressed as copies per reaction. We have chosen not to translate these numbers into other terms such as 'copies per ml of sputum', 'copies per swab sample', or 'copies per gram of faeces'. Such transformations vary greatly between different RNA extraction methods and clinical materials. However, we can project that the level of sensitivity, particularly for the upE assay, is very similar to those levels achieved with most advanced RT-PCR assays developed for the SARS-CoV [6,8]. For example, the Qiagen Viral RNA kit with an input volume of 140 microL of sample and an elution volume of 60 microL as recommended by the manufacturer involves a conversion factor of 85.7 between copies per reaction and copies per mL of sample. The upE assay should thus detect as little as ca. 291 copies per mL of sputum with 95 percent certainty. For solid samples such as swabs, which can be dipped into the lysis buffer, the resulting conversion factor is 12, resulting in a projected capability of the assay to detect as little as ca. 41 copies per swab with 95 percent certainty.
+
+In this regard it is highly important to remember practical experiences made with SARS-CoV detection. Even with the highest levels of RT-PCR sensitivity it turned out that not all patients retrospectively shown to seroconvert could be diagnosed by RT-PCR in the acute phase of disease [6,8,9]. This has been ascribed to the fact the SARS-CoV replication occurs predominantly in the lower respiratory tract due to the anatomical localisation of its entry receptor, angiotensin-converting enzyme 2 (ACE2). Should the novel virus use the same receptor, we might see a similar distribution of virus, and similar challenges in clinical application of molecular diagnostics. Studies of virus concentration in clinical samples are underway to address these highly critical issues.
+
+Specificity is a very important issue in rare, highly critical virus infections for which a broad number of differential diagnoses exist. The risk associated with false positive PCR results posed a challenge in development of the assays described here. First, real-time PCR can yield artificial signals due to technical interference of oligonucleotides involved in the assay (resembling primer dimers in which probe sequences participate). These may be observed at infrequent intervals due to the statistical nature of nonspecific random molecular interactions. We have taken care to exclude the occurrence of those signals by testing large series of water-containing assays. Second, any virus detection assay might cross-react with related viruses, and there is worldwide circulation of four different human CoVs. Viral stock solutions were tested in order to exclude cross-reactivity even on high-titred materials. In spite of the favourable outcome of this experiment, it should be mentioned that of the 2 assays investigated, the target gene of the ORF1b-based assay was most conserved between CoV. The genetic range of known CoV from animals is larger than those human viruses tested here. Theoretical comparisons between genomes of these viruses and our ORF1b assay suggested no risk of significant cross-reactivity (not shown). However, in absence of further investigation we tend to recommend using the upE assay for case management. This is also due to the lower sensitivity of the ORF1b assay.
+
+The final proof of assay specificity was provided in a set of clinical samples that was assembled to realistically reflect the composition of patient groups presenting with acute respiratory infections (ARI). Of note, also the 4 "common-cold coronaviruses" hCoV-NL63, -229E, -OC43, and -HKU1 were included in this panel. Consequentially, we can say from these data that typical human CoV will not cross-react with the assay, even under adverse conditions such as those created by the additional presence of patient-derived nucleic acid and other components typical of clinical samples that may all interfere with the performance of PCR.
+
+The open availability of proven diagnostic assays early in an epidemic is useful in order to equip and prepare public health laboratories efficiently [10,11]. However, there are a number of caveats associated with the wide and largely uncontrolled provision of such technology during the very early phase of an epidemic. In this phase public health authorities around the world have to monitor the development of case statistics in order to make projections and attain epidemic risk assessment. The notification of false positive laboratory results can be highly detrimental during this phase of the epidemic.
+
+The authors of this paper will provide in-vitro transcribed RNA controls to health professionals (refer to Acknowledgements section [available at the source URL above]) but will not be able to provide intense technical advice. Authors will follow the policy of providing only one control, namely that for the upE assay, in order to minimise opportunities for accidental laboratory contamination. If laboratories find patient samples positive by the upE assay and control, they can conduct confirmatory testing using the ORF1b assay. A positive result in this test would most likely not be due to contamination. Of note, the target gene of our ORF1b assay does not overlap with that of other, so-called 'pan-CoV' assays [3-5], excluding the possibility of contaminating our assay with high-titred controls or PCR products from these assays.
+
+In this light we should mention that we have been working on an N gene-based assay as well, but our experience with testing clinical material strongly suggests N-gene assays should not be used for diagnostic application for the time being, that is, as long as no direct sequence information of the N gene is available from clinical samples.
+
+[For the list of references see the original article at the source URL above.]
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The authors present 2 real-time reverse-transcription polymerase chain reaction assays for the novel human coronavirus recently isolated from patients in Saudi Arabia. The assay targeting regions upstream of the E gene (upE) (upE) or within an open reading frame (ORF)1b. The specificities of the reactions were determined using cell culture-derived virus. For the novel virus the ratio of RNA copies per infectious unit was ca. 29, and there was little imbalance between genomic and subgenomic RNA in Vero cells up to 36 hours post infection. The authors recommend using the upE assay for case management, in view of the lesser sensitivity of the ORF1b assay. On theoretical grounds the authors consider there is no likelihood of significant cross-reactivity with other coronaviruses. The level of sensitivity, particularly for the upE assay, was very similar to those levels achieved with most advanced RT-PCR assays developed for the SARS-CoV.
+
+The authors make the interesting observation that during the SAS-CoV outbreak even with the highest levels of RT-PCR sensitivity not all patients retrospectively shown to seroconvert could be diagnosed by RT-PCR during the acute phase of disease. This has been ascribed to the fact that SARS-CoV replication occurred predominantly in the lower respiratory tract due to the anatomical localisation of its entry receptor, angiotensin-converting enzyme 2. Should the novel Saudi Arabian coronavirus use the same receptor, a similar phenomenon might be encountered in clinical application of this method of diagnosis. Studies of virus concentration in clinical samples are underway to address these highly critical issues. - Mod.CP]
+
+[The rapid sharing of information on laboratory procedures that will assist in the study of this newly identified novel coronavirus is a testimony to the evolution of the public health community's response to newly emerging diseases. The authors' note of caution on the theoretical grounds used to consider the proposed testing with high specificity for this novel coronavirus should be noted. - Mod.MPP]
+See Also
+Novel coronavirus - Saudi Arabia (06) 20120927.1311743
+Novel coronavirus - Saudi Arabia (05): WHO, case def., nomenclature 20120926.1309747
+Novel coronavirus - Saudi Arabia (04): RFI, Jordan, April 2012 20120925.1308001
+Novel coronavirus - Saudi Arabia (03): UK HPA, WHO, Qatar 20120923.1305982
+Novel coronavirus - Saudi Arabia (02): additional cases, RFI 20120923.1305931
+Novel coronavirus - Saudi Arabia: human isolate 20120920.1302733
+2009
+----
+Coronaviruses, bat - Kenya 20090218.0673
+2003
+----
+Coronaviruses, animal: inapparent infection 20030430.1081
+SARS - worldwide (04): etiology 20030325.0737
+.................................................mpp/cp/mpp/mj/jw
+</body>

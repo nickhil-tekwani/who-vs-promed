@@ -1,0 +1,10 @@
+date : Mon Apr 3 15:11:33 EDT 2023
+hostname : c0315
+job : 35057620_50
+seed: 50
+K : 768
+B : 6
+floats : /work/k.church/Scarpino/WHO/done/x.kwc.edges.f
+seed = 50
+floats_to_random_bytes: K = 768, N = 6
+dot: 0.568, vals = 14533073, calls = 25593360

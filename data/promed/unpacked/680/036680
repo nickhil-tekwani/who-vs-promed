@@ -1,0 +1,198 @@
+<header id=036680>
+Published Date: 2008-01-18 12:00:13 EST
+Subject: PRO/AH> Salmonellosis, online mapping - Europe
+Archive Number: 20080118.0228
+</header>
+<body id=036680>
+SALMONELLOSIS, ONLINE MAPPING - EUROPE
+**************************************
+A ProMED-mail post
+<http://www.promedmail.org>
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+<http://www.isid.org>
+
+Date: Thu 17 Jan 2008
+Source: Eurosurveillance [edited]
+<http://www.eurosurveillance.org/edition/v13n03/080117_3.asp>
+
+
+Creating an online atlas of Salmonella serotypes in Europe
+----------------------------------------------------------
+Salmonellosis is a frequently occurring disease in Europe. Through
+their national surveillance systems, the European Union (EU) Member
+States collect a substantial amount of information on cases of
+salmonellosis, which may be used to gain new insights into the
+epidemiological characteristics of the many different _Salmonella_
+serotypes. One simple approach to this is by visualizing the spatial
+distribution of the cases on maps. Geographic information systems
+(GIS) are computer tools that help to map and analyse the spatial
+distribution of cases. This may help to identify associations that
+are not otherwise easily noticed.
+
+In the project described here, we used GIS to depict the spatial
+distribution of the most important _Salmonella_ serotypes in Europe.
+
+Methods
+-------
+Data used in the project were national surveillance data of
+laboratory-confirmed salmonellosis. The source of data was Enter-net
+(<http://www.hpa.org.uk/hpa/inter/enter-net_menu.htm>), the EU
+dedicated surveillance network for the enteric infections
+_Salmonella_ and verocytotoxin-producing _Escherichia coli_ (VTEC)
+O157, which has been collecting case-based data from participating
+countries since 1994. These data are interesting in a GIS context
+because they include a geographical variable indicating, within each
+country, the region of residence of the patient or the region where
+the diagnosis was made. In October 2007, the coordination of
+Enter-net was transferred to the European Centre for Disease
+Prevention and Control (ECDC).
+
+The project was put forward at the annual Enter-net workshop in 2005.
+Subsequently, the data were cleaned and geo-coded in cooperation with
+the Enter-net representatives of the countries that were interested
+in taking part in the project. In addition to the Enter-net data,
+several countries supplied data directly to the project. These were
+Greece, Poland, Sweden, the Netherlands and Germany (the latter via
+the <SurvStat@RKI system>). In total there were 1.6 million cases in
+the dataset used.
+
+The geographical information in the data was recoded according to the
+Nomenclature of Territorial Units for Statistics classification (NUTS,
+<http://ec.europa.eu/comm/eurostat/ramon/nuts/home_regions_en.html>),
+which is the official EU geographical division system. This system is
+based on the existing geographical administrative divisions used in
+the EU Member States. The maps were made using Arc-GIS software
+[ESRI] and a website
+(<http://www.epigis.dk>) was set up.
+
+Results
+-------
+As a result of this project, maps were created showing the annual
+incidence (number of cases per 100 000 inhabitants) of
+laboratory-confirmed cases of the 10 most common _Salmonella
+enterica_ serotypes (Enteritidis, Typhimurium, Virchow, Hadar,
+Infantis, Newport, Derby, Agona, Saintpaul and Heidelberg) listed in
+the Enter-net database. The maps cover all countries in Europe for
+which data were available and which agreed to participate in the
+project. In all, 30 countries were represented with data for at least
+1 year within the period 1994-2006.
+
+A total of 3 different annual series of maps were made. The 1st
+simply show the annual incidence per country (Figure 1 [the figures
+can be seen at the original URL - Mod.LL]). The 2nd series illustrate
+the incidence at the district (sub-country) level (Figure 2). This
+geographic level differs between countries; for example, in case of
+Germany the states (Lander) are represented, in France they are
+departments and in Denmark counties. The 3rd series show the serotype
+data per district, giving percentage (rather than an incidence rate)
+relative to the total number of annual reported _Salmonella_ cases
+per district (Figure 3).
+
+All maps are available at the _Salmonella_ Atlas website
+(<http://www.epigis.dk>), where more information about the project
+may also be found.
+
+Discussion
+----------
+The maps we have created give an overview of the geographical
+distribution of the cases of salmonellosis and allow for comparisons
+between countries, thus making it easier to use the otherwise complex
+data of the Enter-net Salmonella database. Furthermore, the maps are
+presented in an easily accessible format on the Internet.
+
+While the maps highlight areas with high or low incidences of a given
+serotype, it is important to bear in mind that significant variations
+between countries may be partly related to the large differences
+between surveillance systems in European countries. As a result, it
+is often not possible to compare incidence rates of salmonellosis
+between countries directly, and in some instances it is even not
+possible to make comparisons between various districts of a single
+country. Therefore some background knowledge about the surveillance
+systems in place in Europe is needed when interpreting the maps. For
+this reason, a note is added to each map, stating that the maps
+should be interpreted with caution due to the existing differences in
+surveillance and reporting.
+
+Furthermore, we attempted to adjust for the overall differences of
+the _Salmonella_ surveillance systems in each region by making a
+series of maps that show the number of cases of a given serotype in
+relation to the total number of diagnosed _Salmonella_ cases. These
+maps provide a picture of how important a given serotype is in the
+different countries and districts.
+
+Although GIS can be a very powerful tool in descriptive epidemiology,
+geographical location data are often not routinely collected as part
+of disease surveillance. Few European disease datasets exist that
+(like the _Salmonella_ dataset) are both fairly large and contain
+information about where within a country the incident took place. We
+think it is useful to ask for location variables when collecting data
+at regional, national or international institutions. Such location
+data should refer to well-defined geographical areas; for example, in
+case of the EU follow the NUTS system of classification.
+
+We hope that these maps will be useful for epidemiologists when
+making trend analyses and investigating outbreaks. In their current
+form the maps may not be sufficiently flexible to fulfil all these
+goals, but we are continuing to develop this project and plan in the
+near future to construct a dynamic web-based mapping-tool that will
+allow users to set a number of parameters and be presented with a map
+drawn from an underlying database. In this way, it will be possible
+to create maps which present much more data, including depictions of
+the full list of serotypes, different age groups, phage types and
+other information such as whether or not the infections were travel-related.
+
+[Bfyline: Rudbeck Jepsen M, Fisher I, Galle1 M, et al.]
+
+--
+Communicated by:
+ProMED-mail
+<promed@promemdail.org>
+
+[The maps, as stated, can be found at
+<http://www.epigis.dk>. Such maps can be very useful tools in
+studying infectious diseases such as salmonelllosis. - Mod.LL]
+See Also
+Salmonellosis, tourists - UK ex Kenya (Coast Province): alert 20080115.0191
+2007
+----
+Salmonellosis, serotype Paratyphi var Java - Europe 20071221.4100
+Salmonellosis, serotype Enteritidis, hotel lunch - EU ex Spain 20071019.3415
+2005
+----
+Salmonellosis, serotype Goldcoast, tourists - Multicountry ex Spain
+(03) 20051212.3574
+Salmonellosis, serotype Goldcoast, tourists - Multicountry ex
+Spain 20051028.3142
+2001
+----
+Salmonellosis, tourists - Norway ex Greece 20010927.2365
+....................ll/ejp/dk
+
+*##########################################################*
+************************************************************
+ProMED-mail makes every effort to verify the reports that
+are posted, but the accuracy and completeness of the
+information, and of any statements or opinions based
+thereon, are not guaranteed. The reader assumes all risks in
+using information posted or archived by ProMED-mail. ISID
+and its associated service providers shall not be held
+responsible for errors or omissions or held liable for any
+damages incurred as a result of use or reliance upon posted
+or archived material.
+************************************************************
+Become a ProMED-mail Premium Subscriber at
+<http://www.isid.org/ProMEDMail_Premium.shtml>
+************************************************************
+Visit ProMED-mail's web site at <http://www.promedmail.org>.
+Send all items for posting to: promed@promedmail.org
+
+(NOT to an individual moderator). If you do not give your
+full name and affiliation, it may not be posted. Send
+commands to subscribe/unsubscribe, get archives, help,
+etc. to: majordomo@promedmail.org. For assistance from a
+human being send mail to: owner-promed@promedmail.org.
+
+############################################################
+############################################################
+</body>

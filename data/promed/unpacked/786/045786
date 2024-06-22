@@ -1,0 +1,373 @@
+<header id=045786>
+Published Date: 2020-11-04 11:02:08 EST
+Subject: PRO/EDR> COVID-19 update (470): USA contact tracing, sewage, WHO, global
+Archive Number: 20201104.7915703
+</header>
+<body id=045786>
+CORONAVIRUS DISEASE 2019 UPDATE (470): USA CONTACT TRACING, SEWAGE, WHO, GLOBAL
+*******************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] USA (San Francisco, California): outcomes of contact tracing
+[2] USA: sewage testing
+[3] WHO updates (as of 3 Nov 2020)
+[4] Global update: Worldometer accessed 3 Nov 22:26 EST (GMT-5)
+
+******
+[1] USA (San Francisco, California): outcomes of contact tracing
+Date: Tue 27 Oct 2020
+Source: JAMA [edited]
+https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2772238
+
+
+ref: Sachdev DD, Brosnan HK, Reid MJA, et al. Outcomes of contact tracing in San Francisco, California -- test and trace during shelter-in-place. JAMA Intern Med. 2020. doi: 10.1001/jamainternmed.2020.5670. Epub ahead of print. PMID: 33136116. doi: 10.1001/jamainternmed.2020.5670
+--------------------------------------------------------------------------------
+Given the pressing need to reopen economic activity prior to the availability of a vaccine, the US and other nations are investing in contact tracing as a core component of the coronavirus disease 2019 (COVID-19) response. An estimated 75% of infected contacts need to be quarantined to contain COVID-19. We evaluated case investigation and contact tracing outcomes in San Francisco, California, during shelter-in-place restrictions.
+
+Methods
+-------
+San Francisco residents diagnosed with COVID-19 were routinely reported to the health department and assigned for case investigation and contact tracing. On [5 May 2020], universal testing for COVID-19 contacts was recommended, regardless of symptoms. This study included cases diagnosed during shelter-in-place from [13 Apr to 8 Jun 2020]. Cases identified through outbreak investigations in long-term care facilities were excluded (10% of cases).
+
+To evaluate the outcomes of contact tracing, we calculated the proportion of people who were interviewed, identified close contacts, and had at least 1 contact notified, tested, and newly diagnosed with COVID-19. A deterministic match based on personal identifiers was performed between contact and testing databases to (1) exclude contacts who were known to have COVID-19, (2) deduplicate previously named household contacts, and (3) ascertain testing results. We report the median number of days (with interquartile range [IQR]) taken to process each step. Analyses were conducted in SAS, version 9.4 (SAS Institute). Bivariate tests including X2 tests to compare categorical variables and t-tests for continuous variables were conducted, as appropriate, and a P less than .05 identified statistical significance. This work was conducted as part of the San Francisco Department of Public Health COVID-19 surveillance; institutional review board approval and informed consent were not required.
+
+Results
+-------
+Among 1633 cases reported, 1394 (85.4%) people were interviewed. Median (IQR) age was 37 (26-49) years; 972 (69.7%) were Latino (85% primarily Spanish-speaking), and 842 (60.3%) were male. Of the 603 (43.2%) interviewed people residing in a household with at least 5 persons, 510 (84.6%) were Latino. Half of interviewed people reported contact with someone diagnosed with COVID-19 (Table).
+
+Among 791 people interviewed after recommending universal testing for close contacts, 404 (51.1%) identified a contact not previously diagnosed with COVID-19, 356 (45.0%) had at least 1 contact notified, 206 (26.0%) had at least 1 contact tested, and 72 (9.1%) had at least 1 contact test positive for COVID-19. Of people residing in a household with at least 5 persons, 10.7% named a contact who was newly diagnosed with COVID-19. Among 1214 contacts traced, 1017 (83.8%) were successfully notified, 457 (37.6%) were tested, and 120 (9.9%) were newly diagnosed with COVID-19 (Figure). The secondary attack rate (calculated as the percentage of contacts who tested newly positive for COVID-19) was higher among household compared with non-household contacts (111 of 983 [11.3%] and 9 of 231 [3.9%], respectively; P less than .001), despite similar testing rates.
+
+The median (IQR) number of days was 3 (1-6) from symptom onset (or specimen collection date in asymptomatic cases) to testing, 2 (1-2) from testing to test result, 1 (0-1) from test result to case interview, and 1 (0-1) from case interview to notification of the first contact. Overall, median (IQR) time from the case's symptoms to contact notification and testing was 6 (4-9) days and 6 (4-10) days, respectively.
+
+Discussion
+----------
+San Francisco's COVID-19 contact tracing program reached more than 80% of cases and contacts and identified secondary cases within a median time frame of 6 days from the case's symptom onset. While Latinos comprise 15% of San Francisco residents, they represented 70% of interviewed cases. 10% of contacts were newly diagnosed with COVID-19 compared with citywide testing positivity of 2.2% during this period. Although the majority of people with COVID-19 were interviewed within 1 day of test result, the 5-day delay between case symptom onset and positive test result raises concern regarding the timeliness of tracing in preventing onward transmission. Because 90% of secondary cases were household contacts, presymptomatic transmission could have occurred such that infected contacts may have already transmitted the virus by the time they were notified. Limitations include underreporting of close contacts during shelter-in-place and inability to ascertain adherence to quarantine. Addressing testing delays and improving contact identification will be necessary to optimize COVID-19 contact tracing efforts.
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The complete article including the table, figure, and references is available at the source URL above.
+
+Early and rapid contact tracing is an effective disease control strategy that involves identifying cases and their contacts then working with them to interrupt disease transmission. This includes asking cases to isolate and contacts to quarantine at home voluntarily. Contact tracing is a key strategy to prevent the further spread of COVID-19.
+
+According to the CDC guidance, the contact tracing should be conducted for close contacts of confirmed or probable COVID-19 patients using the following steps (https://www.cdc.gov/coronavirus/2019-ncov/downloads/php/contact-tracing-CDC-role-and-approach.pdf):
+1. Case investigation: Public health staff work with a patient to help them recall everyone with whom they have had close contact during the time when they may have been infectious. For COVID-19, a close contact is defined as any individual who was within 6 feet of an infected person for at least 15 minutes starting from 48 hours before the person began feeling sick until the time the patient is isolated.
+2. Contact tracing: Public health staff begin contact tracing by notifying exposed individuals (contacts) of their potential exposure as rapidly and sensitively as possible, not revealing the infected patient's identity.
+3. Contact support: Contacts are provided with education, information, and support to help them understand their risk, what they should do to separate themselves from others who are not exposed, and how to monitor themselves for illness. In addition, they are informed of the possibility that they could spread the infection to others even if they themselves do not feel ill.
+4. Self-quarantine: Contacts are encouraged to stay home and maintain social distance from others (at least 6 feet/2 m) until 14 days after their last exposure to the infected patient, in case they also become ill.
+
+Every effort should be made to interview the patient and contacts by telephone, text, or video conference instead of in person.
+
+Undoubtedly, with the burden of COVID19 cases, contact tracing is a labor-intensive process that requires a well-trained workforce of effective communicators who can approach individuals with compassion and build trust. - Mod.UBA]
+
+******
+[2] USA: sewage testing
+Date: Thu 29 Oct 2020
+Source: CNN Health [abridged, edited]
+https://edition.cnn.com/2020/10/28/health/covid-sewage-testing-spike/index.html
+
+
+When Rosa Inchausti and her colleagues started testing wastewater in Tempe, Arizona, it was 2018 and they were not looking for coronavirus. They were tracking the opioid epidemic.
+
+But because they were set up to sample the city sector by sector, they were able to switch gears and begin sampling sewage for evidence of coronavirus. "We were ready for this," Inchausti told CNN.
+
+Now the city is regularly sampling sewers to keep an eye on the pandemic. And things are not looking good in parts of Tempe.
+
+And they're not looking good in Boston, or in Reno, Nevada, or in many other cities across the country.
+
+Biobot Analytics has been analyzing sewage, looking for evidence of coronavirus, for dozens of customers, including Boston.
+
+As daily coronavirus counts top 70 000 as measured by standard testing, sewage testing suggests things are going to get a whole lot worse. "It's a leading indicator," Inchausti said. "The proof is in the poop."
+
+Across the country, cities and universities are testing sewage to monitor the virus. Studies suggest it's a useful way to augment standard person-by-person coronavirus testing and while a sewage sample cannot point to an infected individual, it can give an indication that infections are circulating in an area, a neighborhood, or even in an individual building.
+
+Early on in the pandemic, it became clear that COVID-19 virus makes its way into the digestive system and could be found in human feces. From there, it's just a quick flush into the sewers.
+
+Mariana Matus, co-founder and CEO of Biobot Analytics, which is analyzing sewage for dozens of customers, said sewage testing can show virus is starting to circulate even before people start showing up at hospitals and clinics and before they start lining up for COVID-19 tests.
+
+"People start shedding virus pretty quickly after they are infected and before they start showing symptoms," Matus told CNN.
+
+The results are clear on the Massachusetts Water Resources Authority [MWRA] website, which displays Biobot's analysis of data covering 2 million MWRA customers in the Boston area. It shows a spike in viral samples in April and May [2020], falling back through the summer. Now the virus is showing up again, with samples at levels close to what was seen at the height on the pandemic in the spring.
+
+"We are seeing an upturn in the wastewater data which I think broadly matches what we are seeing across the country," Matus said. "It's been interesting seeing this almost 2nd wave."
+
+Massachusetts still has a low percentage of coronavirus tests coming back positive at 1.5%. But the growing number of positive hits from the sewage indicate more positive tests are to come, Matus said.
+
+"I think that it is pretty good evidence that we need to pay attention. Communities need to pay attention," said Matus, a biologist who started the company with a small group of colleagues at the Massachusetts Institute of Technology.
+
+The little startup has been deluged with requests to test wastewater systems, she said. "Who doesn't like a poop story?" Matus asked.
+
+Testing the sewage for evidence of COVID-19 is like preparing a weather forecast, said Krishna Pagilla, chair of civil and environmental engineering at the University of Nevada, Reno, and director of the Nevada Water Innovation Institute.
+
+"This is something that we should have concentrated on from the beginning in every community," Reno's Pagilla told CNN.
+
+The coronavirus breaks down fairly quickly once it's flushed. Wastewater testing doesn't recover whole virus but instead pulls out 2 specific pieces of viral material called RNA. It can no longer infect people but is easy to identify.
+
+Finding this RNA in the sewage tells researchers someone infected is using the system. The more RNA is there, the more people are infected.
+
+"We will know a few days in advance. We can inform the health authorities," Pagilla said. It's especially useful in a college town, Pagilla said.
+
+"People are reluctant to get tested now," he said. "Or we have students who say, 'hey I am having symptoms but I am going to hang out at home.' They don't get seriously ill, so they don't get tested. But then maybe they decide to go to the gym."
+
+In Tempe, Inchausti said the city makes even more direct use of the information.
+
+"The relationship is never just to have the data and look at it and say, 'that's nice,' she said.
+
+Instead, Inchausti, who is the city's Strategic Management & Diversity director, said her team publishes the data on a public website and has used it to target low-income neighborhoods heavily populated by minorities who are most at risk of dying from COVID-19.
+
+One, designated Area 6, abuts the Arizona State University campus. Its 8100 residents are largely low-income. When coronavirus RNA counts went up in the sewage there recently, Inchausti said, "we spent USD 15 000 blitzing it with masks."
+
+"There is a lot of information that people flush down the toilet," Mansfeldt said. Numbers shot up in the weeks after students returned to campus in late August [2020], peaking at 130 positive PCR tests on [17 Sep 2020]. But they plummeted to just a few a day after the city and county of Boulder instituted restrictions on college-aged residents that prevented gatherings of any size -- not even 2 people -- for 2 weeks. Officials relented after a week when students complained of safety issues, allowing those aged 18 to 22 to travel in pairs.
+
+Now campus cases are ticking up again, from one case on [16 Oct 2020] to 5 on [22 Oct 2020] and 8 on [26 Oct 2020]. But Mansfeldt said the wastewater indicators look good. "Most sewers are testing negative," he said.
+
+Inchausti and Pagilla both said they hoped state and federal officials would pay attention and start using sewage data to monitor the pandemic across the country as a whole -- and to respond.
+
+The US Centers for Disease Control and Prevention has set up a website [https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/wastewater-surveillance.html] and is hoping state, tribal, local, and territorial health departments will submit wastewater testing data for a national database.
+
+"At this time, point estimates of community infection based on wastewater measurements should not be used," the CDC advises.
+
+[Byline: Maggie Fox]
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[As mentioned in the article above, the Massachusetts Water Resources Authority (MWRA) website, which displays Biobot's analysis of data covering 2 million MWRA customers in the Boston area. It shows a spike in viral samples in April and May 2020, falling back through the summer. Now the virus is showing up again, with samples at levels close to what was seen at the height of the pandemic in the spring. The website data is regularly updated with new information (http://www.mwra.com/biobot/biobotdata.htm).
+
+Studies suggest that wastewater testing can be a useful way to augment standard person-by-person coronavirus testing. While a sewage sample cannot point to an infected individual, it can give an indication that infections are circulating in an area, a neighborhood, or even in an individual building. "The proof is in the poop."
+
+Also, sewage testing can be a predictor that the virus is circulating in the community/area even before people start showing up at hospitals and clinics, and before there is a demand for increased COVID-19 testing. - Mod.UBA]
+
+******
+[3] WHO updates (as of 3 Nov 2020)
+[A] Weekly epidemiological update 12
+Date: Tue 3 Nov 2020
+Source: WHO [abridged, edited]
+https://www.who.int/publications/m/item/weekly-epidemiological-update---3-november-2020
+
+
+Data as received by WHO from national authorities, as of 10 am CEST [1 Nov 2020]
+
+Global epidemiological situation
+--------------------------------
+In the past week, over 3.3 million new cases have been reported globally (Figure 1). As of [1 Nov 2020], nearly 46 million cases and 1.2 million deaths have been reported globally. The further acceleration in the incidence of new cases was most notable in European Region, which reported half of global new cases (over 1.7 million cases -- a 22% increase from the previous week. Moreover, the region also reported a substantial rise in the number of new deaths (a 46% increase compared with the previous week), with Europe and the Americas now each reporting over 17 000 new deaths in the last 7 days.) The Americas and the Eastern Mediterranean Regions have also seen relatively smaller rises in the number of reported cases. The South East Asia Region has continued to report a decline in new cases and deaths, while case incidence continues to fluctuate around similar rates compared to recent weeks in the African and Western Pacific Regions (Table 1).
+
+Despite regional variations, the countries reporting the highest number of cases in the past week remain the same as in the previous 4 weeks: the United States of America, India, and France. Since the start of the pandemic, 9 countries have reported more than 1 million confirmed cases: the United States, India, Brazil, Russian Federation, France, Spain, Argentina, Colombia, and the United Kingdom. 5 have reported over 40 000 cumulative deaths: the United States, Brazil, India, Mexico, and the United Kingdom.
+
+Figure 1: Number of COVID-19 cases reported weekly by WHO Region, and global deaths, as of [1 Nov 2020]
+Table 1: Newly reported and cumulative COVID-19 confirmed cases and deaths, by WHO Region, as of [1 Nov 2020]
+
+Special focus: An age and gender analysis of COVID-19
+-----------------------------------------------------
+Based on WHO's surveillance system, using both case report form data and weekly aggregated data shared by Member States, an analysis has been conducted and is presented here, covering 124 countries from 5 out of 6 WHO Regions which have provided sufficient data. The data covers the period [31 Dec 2019 to 18 Oct 2020] and includes data on 18 156 074 patients.
+
+- Age distribution over time
+Since the start of the pandemic, an increase in the proportion of confirmed cases in younger population groups has been observed over time (Figure 3). Most notably, the proportion of cases among adolescents and young adults aged 15-24 years increased from 4% at the beginning of the epidemic (week 9-10 [24 Feb-8 Mar 2020]) to 14% during week 42 [12-18 Oct 2020], and those aged 25-64 increased from 50% to 65% over the same period. Slight increases were also observed in the proportion of cases among children aged 0-4 years (from 0.5% to 2%), and 5-14 years (from 1% to 5%). Concurrently, we observed a decrease and then stabilization of the proportion of cases aged 65 years and older, from 40% in the early stages of the epidemic, down to 15% in recent weeks.
+
+Changes in age distribution trends are likely linked to several factors, including increased surveillance and access to testing. Early in the pandemic, surveillance and limited testing capacity were often focused on patients with severe disease, who were more likely to be elderly hospitalized patients. Surveillance and testing capacities were expanded and became more accessible to cases with mild or no symptoms. The decrease in proportion of elder cases could also be linked to the implementation of infection prevention and control measures in long term care facilities, and an increase in transmission among younger age groups.
+
+The evolution of reported deaths by age (Figure 4) shows a slow increase in the proportion of reported deaths aged 25-64 years, ranging from roughly 10% in the early stages, peaking at 30% in the summer, and now around 25%. Reported deaths in those aged 65 years and older decreased from close to 90% in the early stages to 75% in the most recent weeks. These data support previous observations that older people, who often have co-morbidities, remain the most vulnerable to COVID-19 morbidity and mortality. The proportion of reported deaths in the youngest age groups, 0-4 and 5-14 years, remain under 0.2%.
+
+Critically, while most people with COVID-19 recover after 2 to 6 weeks, there is increasing documentation of the long term effects of COVID-19, including among younger and non-vulnerable groups.
+
+Figure 3: Distribution of confirmed COVID-19 cases by age by epidemiological week reported, combined data from WHO Case Report Form and Weekly Aggregate Surveillance Systems as of 18 October 2020 (n = 18 156 074).
+Figure 4: Distribution of confirmed COVID-19 deaths by age by epidemiological week reported, combined data from WHO Case Report Form and Weekly Aggregate Surveillance Systems as of 18 October 2020 (n = 459 943).
+
+- Gender distribution
+Our overall data show that men and women each comprise 50% of cases; however, this proportion varies greatly between countries. A higher proportion of cases tends to be observed among men in countries where men are frequently exposed outside the household as a result of economic factors or have differential access to testing and healthcare. In countries where women are involved in healthcare and social careers, the proportion of confirmed COVID-19 cases is higher. These gender differentials can also vary among age groups.
+
+There is a notable difference in the death rate between sexes, with males accounting for 59% of deaths recorded. Differences in risks of exposure, behavior, and risk perception, such as smoking and healthcare-seeking behaviors, as well as differences in some co-morbid conditions, may impact the outcomes of COVID-19 and contribute to male-female differences in disease severity.
+
+Situation by WHO region
+-----------------------
+- African Region
+The African Region continued a 4-week trend with a gradual increase in the number of new cases reported in the past 7 days (Figure 5), reporting almost 33 000 new cases -- 1% of new global cases in the past week. Although the number of new cases has increased slightly, the number of new reported deaths has continued to decline since a spike was observed three weeks ago following the retrospective capturing of a large number deaths in South Africa. South Africa, Kenya, and Ethiopia continue to report the highest numbers of new cases, while the highest number of new deaths per million population in the region was reported by South Africa (6 new cases per million population).
+
+In Nigeria, after a peak in cases at the end of June and in July [2020], weekly new cases have decreased gradually since September. In the past week, 923 new confirmed cases (4 cases per million population) were reported, while deaths have remained relatively low. Nigeria has a relatively low testing rate and is currently conducting 1.2 diagnostic tests per 10 000 population per week. The test positivity rate has remained relatively stable for the last 7 weeks and is currently 4%.
+
+This past week Uganda recorded a new highest daily increase in COVID-19 cases, with over 430 cases reported on [30 Oct 2020] and close to 1200 cases (26 cases per million population) reported during the week. With almost half of the new cases reported from the capital, Kampala remains the most affected region. From the beginning of the epidemic, a total of 862 healthcare workers have been infected and 8 have died (7% of overall cases and deaths). Health Authorities in Kampala, in collaboration with WHO, are taking a data and equity-oriented approach to the COVID-19 response, and city authorities have been assessing the susceptibility of local communities to the impact of the virus with a new COVID-19 vulnerability framework.
+
+Figure 5: Number of COVID-19 cases and deaths reported weekly by the WHO African Region, as of [1 Nov 2020]
+
+- Region of the Americas
+Although the Region as a whole reported a 13% rise in cases compared with last week (Figure 6), continued declines were observed in many countries, especially in South America. The United States of America, Brazil, and Argentina continue to report the highest number of new cases, with the United States reporting a 26% increase this week to over 500 000 new cases (1650 cases per million population). The overall change in the number of new deaths being reported in the Region, a 2% increase, is much lower than the rapid rise seen in the European Region.
+
+Colombia has now reported over 1 million cumulative cases and 31 000 cumulative deaths. Cases in Colombia peaked in the week of [10 Aug 2020] at 77 915 cases, dropping to 43 000 cases in the week of [28 Sep 2020], but have risen in October, with 64 200 new cases (1250 cases per million population) and 1300 new deaths reported this week. Approximately 40% of cases are aged 20-39 years. Although 30% of cases are in people aged 60 years and older, this age group accounts for 76% of deaths. A total of 64% of deaths are male. As of 25 October, around 38% of hospital beds are occupied by COVID-19 patients.
+
+In Mexico, the number of new weekly cases rose to just under 47 000 at the end of July [2020]. Although cases have fallen since then, they have remained above 30 000 per week (295 new cases per million population reported last week). On [28 Oct 2020], the Ministry of Health reported that the median age of cases is 43, with Mexico City, State of Mexico, Nuevo Leon, Guanajuato, and Sonora reporting the highest number of cumulative cases. Mexico City has recorded 17% of cumulative cases and has the highest number of active cases (more than 3000 cases), followed by Nuevo Leon, Guanajuato, State of Mexico, and Coahuila, which all have more than 1000 active cases. Men account for 64% of deaths, with a median age of 63 years. Based on a recent study on excess deaths, the Ministry of Health has said that as many as an additional 50 000 excess deaths can be attributed to COVID-19.
+
+In Peru, case incidence has continued to fall since reaching a peak in the week of [17 Aug 2020] when there were just under 60 000 cases. In the past week, 17 000 new cases (520 cases per million population) and 370 new deaths were reported. Around 45% of cases have been reported from one department -- the region of the capital Lima. The Ministry of Health reports that as of [28 Oct 2020], 4.4 million people have been tested for COVID-19. As of [28 Oct 2020], there are 5419 patients hospitalized for COVID-19, of which 1052 were in intensive care. The government has approved a decree extending the state of national emergency through November [2020].
+
+Figure 6: Number of COVID-19 cases and deaths reported weekly by the WHO Region of the Americas, as of [1 Nov 2020]
+
+- Eastern Mediterranean Region
+Over the past 2 months, the Eastern Mediterranean Region has observed a steady increase in the number of new COVID-19 cases recorded (Figure 7), with 182 000 reported in the past week (accounting for 5% of all cases reported globally). In the past 7 days, there has been a 10% increase in the number of deaths reported with a total of 4 700 new deaths. The Region shows a mixed pattern with countries at different epidemic stages and experiencing different outcomes. Countries reporting the highest number of cases over the past week include the Islamic Republic of Iran, Morocco, and Iraq, all reporting over 550 new cases per 1 million population in the past 7 days. The countries with the highest number of new deaths per million population in the past week are Tunisia, the Islamic Republic of Iran, and Jordan, with over 28 new deaths per million population.
+
+Since early September [2020], the incidence of COVID-19 cases and deaths in the Islamic Republic of Iran has been increasing gradually, reaching over 50 000 new cases (600 cases per million population) and 2500 new deaths in the past week. The country has the highest mortality rate overall in the Eastern Mediterranean Region with a total of 415 deaths per million population since the beginning of the pandemic. In the past week, the Islamic Republic of Iran extended public health and social measures in the capital of Tehran and across the country, as health authorities declared that they were recording a death from the virus every 4 minutes. Some hospitals have exceeded bed capacity to treat new patients. The closure of schools, mosques, shops, restaurants, and other public institutions in Tehran, which was due to end on [26 Oct 2020], will now be extended until [20 Nov 2020].
+
+Morocco has been experiencing a gradual increase in cases and deaths since the beginning of August [2020]. This past week, the country registered a new record in new cases with over 24 600 new cases and 440 new deaths. Currently, the country's COVID-19 fatality rate is around 1.7%. Casablanca-Settat is the most affected region with the majority of cases coming from the city of Casablanca. According to local authorities, this week the reproductive number has stabilized at 0.8%. The test positivity rate has raised from 11% to 16% in just three weeks. More restrictive measures have been applied in the region of Casablanca-Settat following the rise in the incidence of COVID-19. Other regions have also adopted new measures including earlier closure of shopping centres.
+
+Figure 7: Number of COVID-19 cases and deaths reported weekly by the WHO Eastern Mediterranean Region, as of [1 Nov 2020]
+
+- European Region
+The European Region has seen a 22% increase in new cases and a 43% increase in new deaths in the past 7 days compared with the previous week (Figure 8). France, Italy, and the United Kingdom reported the highest numbers of new cases, although Andorra, Czechia, and Belgium reported the highest per population incidence. France accounted for the 3rd-highest number of new cases globally, with over 275 000 cases reported in the past week (4200 cases per million population): a 27% increase from the previous week. The number of new cases has increased since August [2020], in line with much of Europe; however, in October there has been a considerable escalation. As of [29 Oct 2020], there were 24 000 hospitalizations, with 3500 in intensive care, with the Ile-de-France and Auvergne-Rhone-Alpes regions having the highest numbers of hospitalizations. The COVID-19 occupancy rate of intensive care beds is rising rapidly. The increases in indicators are most marked among people aged 65 and over. The President of the Republic announced the reinstatement of stricter public health and social measures from [30 Oct to 1 Dec 2020].
+
+Belgium and Italy have both seen rapid rises in cases and reported the 2nd and 9th highest number of new cases in Europe, respectively. New cases in Belgium fell by 21% from last week to 82 500 new cases, while those in Italy rose by 72% from last week to 175 000 new cases. Despite the fall seen in Belgium, it still has one of the world's highest incidences of new cases per million population, with 7000 new cases per million. Italy's incidence is lower at 2800 cases per million. Belgium has instituted a second phase of national containment measures. Italy and several other European countries have been experienced an increasing number of protests over government restrictions.
+
+In Switzerland, the number of new cases has grown considerably in October [2020], rising from fewer than 2500 new weekly cases reported from mid-April through to the end of September, and fewer than a hundred cases reported in some weeks, to 50 000 new cases in the past week. Switzerland has the 5th highest incidence of new cases per million population in the Region (5800 cases per million population). The weekly number of hospitalizations has also risen considerably. While weekly testing rates have increased, test positivity rates have also increased from 15% to 22.5% (as of [25 Oct 2020]). Since the beginning of September, the median age of cases has been steadily increasing from 33 to 42 years, as of [25 Oct 2020]. Switzerland has progressively implemented strict public health and social measures in recent weeks, with a new range of national restrictions coming into effect on [29 Oct 2020], with several cantons implementing additional measures.
+
+Figure 8: Number of COVID-19 cases and deaths reported weekly by the WHO European Region, as of [1 Nov 2020]
+
+- South East Asia Region
+New cases and deaths in the South East Asia Region this week have continued to decline (Figure 9). This is mainly due to a decline in reported cases in India, which contributes over 80% of all cases in the Region. Additionally, large rates of decrease have been reported seen in Nepal, Indonesia, and Bhutan. There have been over 380 000 new cases reported in the past 7 days, bringing the cumulative amount of cases to over 9.2 million.
+
+In contrast to other countries in the region, Sri Lanka reported a 53% increase in the past 7 days from 2046 new cases to 3142 new cases (147 cases per million population). This follows a cluster detected in a garment factory on [3 Oct 2020]. A curfew was imposed in Colombo District and other high-risk areas from [29 Oct to 2 Nov 2020]. Additionally, active cases have been admitted to dedicated COVID-19 treatment hospitals, where 4764 patients were admitted to 37 hospitals as of [28 Oct 2020]. The government is also upgrading around 60 divisional hospitals as isolation and treatment centers to add more bed capacity.
+
+Indonesia has been showing a decreasing trend of new cases for the last 4 weeks. The country reported around 24 000 new cases (88.1 per 1 million population) in the last past 7 days and over 410 000 cumulative cases to date. WHO, in collaboration with the Ministry of Health and the National COVID-19 Task Force, has conducted a series of focus group discussions for a detailed review of challenges and possible solutions for enhancing contact tracing.
+
+Figure 9: Number of COVID-19 cases and deaths reported weekly by the WHO South-East Asia Region, as of [1 Nov 2020]
+
+- Western Pacific Region
+The Western Pacific Region continues to account for the fewest cases and deaths reported globally, with declines observed in the past 2 weeks (Figure 10). There have been over 26 000 new cases (13.5 new cases per million population) reported in the past 7 days, resulting in almost 734 000 cumulative cases to date.
+
+The Philippines continues to report the highest number of new cases (12 910 cases) and new deaths (287 deaths), representing almost 50% of new cases and 75% of new deaths in the region in the last 7 days; although incidence remains relatively low compared to other countries (117 new cases per million).
+
+The Marshall Islands reported their 1st 2 COVID-19 cases this week on [28 Oct 2020]. According to the national authorities, the 2 cases were identified on a military base on Kwajalein Atoll, although they were not epidemiologically linked.
+
+Over 240 new cases have been reported in China in the past 7 days, an increase of 32% compared with the previous week. A cluster of new cases related to local factories was identified in the autonomous region of Xinjiang between [24 and 28 Oct 2020]. Local authorities confirmed 45 cases and 138 asymptomatic cases, after 4 746 500 residents of Kashgar were tested.
+
+Figure 10: Number of COVID-19 cases and deaths reported weekly by the WHO Western Pacific Region, data as of [1 Nov 2020]
+
+Key weekly updates
+------------------
+- The 5th meeting of the IHR (2005) Emergency Committee on COVID-19 took place on [Thu 29 Oct 2020]. They advised that the pandemic still constituted a Public Health Emergency of International Concern, and urged a focus on response efforts based on lessons learned and science. The Emergency Committee provided advice for WHO and countries to focus on in the coming months and expressed appreciation for WHO's leadership and response activities. It will reconvene in 3 months' time.
+- To a significant number of people, COVID-19 poses a range of serious long-term effects, and post COVID- 19 symptoms and complications have been reported in both non-hospitalised and hospitalised patients. In a media briefing on [30 Oct 2020; https://www.who.int/director-general/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---30-october-2020], WHO Director-General Dr Tedros said "What's really concerning is the vast spectrum of symptoms that fluctuate over time, often overlap and can affect any system in the body. From fatigue, a cough, and shortness of breath, to inflammation and injury of major organs -- including the lungs and heart, and even neurological and psychological effects. Although we're still learning about the virus, what's clear is that this is not just a virus that kills people. While people do recover, it can be slow -- sometimes weeks or months -- and it is not always a linear route to recovery."
+- Several vaccines are now in final phase III trials [https://www.who.int/publications/m/item/draft-landscape-of-covid-19-candidate-vaccines]. If proved safe and effective they will be rolled out through the ACT Accelerator's [https://www.who.int/initiatives/act-accelerator] vaccine arm -- the COVAX Facility [https://www.who.int/initiatives/act-accelerator/covax], which is now supported by 186 countries. The COVAX Facility is speeding up the search for an effective vaccine for all countries. At the same time, it is supporting the building of manufacturing capabilities, and procuring doses ahead of time so that 2 billion doses can be fairly distributed by the end of 2021.
+- Progress on gender equality has been made in all 12 key areas identified in the 1995 Beijing Declaration and Platform for Action on Women [https://www.who.int/initiatives/beijing25] -- but for millions of girls and women around the world today, this visionary agenda is still far from reality. The British Medical Journal has commissioned a special series of papers on "Women's Health and Gender Inequalities" [https://www.bmj.com/gender] with support from WHO, the Human Reproduction Programme, and the United Nations University International Institute for Global Health. The COVID-19 pandemic is limiting or reversing gains made towards gender equality [https://apps.who.int/iris/bitstream/handle/10665/332080/WHO-2019-nCoV-Advocacy_brief-Gender-2020.1-eng.pdf]. WHO strongly urges investment in women's health and is marking the 25th anniversary of the Beijing Declaration with a number of activities.
+
+----
+[B] Daily new cases reported (as of 3 Nov 2020)
+Date: Tue 3 Nov 2020
+Source: WHO [abridged, edited]
+https://covid19.who.int/table
+
+*Daily case reports as of 3 Nov 2020 15:46 CEST
+
+Surveillance
+------------
+WHO region (no. countries/territories):
+Total confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+------------------------
+Western Pacific Region (19): 743 137 (5146) / 15 664 (52)
+European Region (61): 11 531 650 (227 043) / 289 753 (2447)
+South East Asia Region (10): 9 352 375 (47 122) / 145 491 (664)
+Eastern Mediterranean Region (22): 3 146 969 (28 341) / 80 068 (724)
+Region of the Americas (54): 20 733 940 (117 323) / 642 995 (1327)
+African Region (49): 1 331 971 (3693) / 30 064 (97)
+Cases on an international conveyance (Diamond Princess): 741 (0) / 13 (0)
+
+Confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+Grand total: 46 840 783 (428 668) / 1 204 028 (5311)
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The number of countries and territories reporting confirmed cases of COVID-19 to WHO remains at 218.
+
+Data by country, area, or territory for 3 Nov 2020 can be accessed at https://promedmail.org/wp-content/uploads/world-pdf/WHO%20daily%20tablesNov3_1604493289.pdf.
+
+- The Americas region reported 27.4% of daily case numbers and 25.0% of the daily deaths reported in the past 24 hours, maintaining its position as the most severely affected region, having reported more than 20.7 million cases. The USA maintains its dominance, followed by Brazil, Colombia, Argentina, Mexico, Peru, and Canada. Chile also reported more than 1000 new cases in the past 24 hours.
+
+- The European region reported 53.0% of daily case numbers and 46.1% of the daily deaths reported in the past 24 hours, and total cumulative cases reported exceed 11.5 million. Countries not reporting cases today (3 Nov 2020) include Spain, Israel, Kazakhstan, and Sweden. France is dominant, followed by Italy, UK, Russia, Poland, Germany, Czech Republic, Ukraine, Netherlands, Romania, Hungary, Austria, Portugal, Bulgaria, Slovakia, Croatia, and Turkey. Other countries reporting more than 1000 cases in the past 24 hours include Georgia, Greece, Armenia, and Norway.
+
+- The Eastern Mediterranean region reported 6.6% of daily case numbers and 13.6% of the deaths reported in the past 24 hours, having reported a cumulative total of greater than 3.1 million cases. Iran is dominant with (record-breaking highs), followed by Jordan, Iraq, Morocco, UAE, Pakistan, and Lebanon. Libya, Tunisia, Palestinian Authority, and Kuwait each reported more than 500 cases but fewer than 1000, while Somalia and Yemen have not reported any cases in the past 48 hours.
+
+- The African region reported 0.86% of daily case numbers and 1.8% of the deaths reported in the past 24 hours and has reported more than 1.3 million cases. South Africa is dominant, followed by Kenya, Ethiopia, Cameroon, Reunion, Uganda, Angola, Mozambique, Mayotte, and Nigeria.
+
+- The Western Pacific region reported 1.2% of daily case numbers and 0.98% of the deaths reported in the past 24 hours, having reported a cumulative total of 0.97 million cases. As previously, the Philippines maintains its dominance, followed by French Polynesia, Malaysia, Japan, South Korea, and China.
+
+- The South East Asia region reported 11.0% of the daily newly reported cases and 12.5% of reported deaths in the past 24 hours, having reported a cumulative total of more than 9.3 million cases. As previously, India remains dominant, followed by Nepal, Indonesia, Bangladesh, Myanmar, Sri Lanka, and the Maldives.
+
+Impression: Essentially unchanged. The Americas region combined with the European region account for 80% of daily reported cases and 72% of the global reported deaths in the past 24 hours. Cases have somewhat declined in the South East Asian region, while overall case numbers remain around 5000 from the Western Pacific region and around 4000 in the Africa region.
+
+On the Overview tab at the WHO source URL, the epidemic curve of confirmed COVID-19 cases by WHO region, 30 Dec 2019 through 3 Nov 2020, is an excellent visual representation of the pandemic. - Mod.UBA]
+
+******
+[4] Global update: Worldometer accessed 3 Nov 2020 22:26 EST (GMT-5)
+Date: Tue 3 Nov 2020
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at https://promedmail.org/wp-content/uploads/world-pdf/NOV3DATASET_1604493542.pdf.
+
+A 7-day series of cumulative data reported by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/NOV3WORLD7_1604493652.pdf. - Mod.UBA]
+
+Total number of reported deaths: 1 220 224
+Total number of worldwide cases: 47 844 811
+Number of newly confirmed cases in the past 24 hours: 527 011
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[In the past 24 hours, the USA (124 985), India (46 033), France (36 330), and Italy (28 241) have been dominant. A global total of 8983 deaths were reported in the past 24 hours (2-3 Nov 2020). The global total is now above 47.8 million cases and will cross the 48 million mark over the next 24 hours.
+
+Countries reporting more than 10 000 newly confirmed cases in the past 24 hours (12 countries) include the USA, India, France, Italy, UK (20 018), Spain (18 669), Russia (18 648), Germany (16 545), Poland (19 364), Brazil (12 920), Argentina (12 145), and Czechia (12 089). A total of 49 countries reported more than 1000 cases in the past 24 hours; 28 of the 49 countries reporting more than 1000 newly confirmed cases are from the European region, 9 are from the Americas region, 7 are from the Eastern Mediterranean region, and 5 are from the South East Asia region.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, case counts have increased by 14.6%, while daily reported deaths have increased by 17.2%.
+
+Impression: Global daily reported cases continue to increase with countries in the European region and the Americas region showing the largest increases in daily new cases counts, followed by the Eastern Mediterranean and the South East Asia regions. - Mod.UBA]
+See Also
+COVID-19 update (467): vaccines, superspreading events, Ghana, WHO, global 20201103.7912109
+COVID-19 update (466): antibody trial, Kenya, WHO, global 20201102.7908743
+COVID-19 update (465): age, South Asia, antibody trial, WHO, global 20201101.7907142
+COVID-19 update (464): animal, Denmark, mink, control, One Health 20201101.7906484
+COVID-19 update (463): Brazil (MT) animal, cat, OIE 20201031.7905784
+COVID-19 update (462): OP monoclonal antibody, Brazil, age-group NPI, WHO, global 20201031.7905120
+COVID-19 update (461): animal, Sweden, mink, 1st case, RFI 20201030.7903582
+COVID-19 update (460): variant 20A.EU1, Thailand, Sri Lanka, Yemen WHO, global 20201030.7902223
+COVID-19 update (450): animal, cattle, research, experimental infection 20201022.7883213
+COVID-19 update (440): children, RNA vaccines, WHO, global 20201015.7863738
+COVID-19 update (430): animal, USA (UT) mink 20201009.7847704
+COVID-19 update (420): ECMO, USA serosurvey, WHO, global 20200930.7824510
+COVID-19 update (410): ACE inhibitors and ARBs, WHO COVAX plan, WHO, global 20200922.7801717
+COVID-19 update (400): lockdowns, influenza co-infections WHO, global 20200914.7776512
+COVID-19 update (350): USA (TX) animal, cat 20200808.7658191
+COVID-19 update (300): Korea antibodies, China asymptomatic index case, WHO 20200703.7536146
+COVID-19 update (250): selected countries 20200610.7448037
+COVID-19 update (200): global, Yemen, WHO 20200522.7364937
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+Undiagnosed pediatric inflammatory syndrome (05): Europe, USA, COVID-19 assoc 20200518.7340554
+Undiagnosed pediatric inflammatory syndrome (04): USA, UK, PMIS, fatal 20200509.7315405
+Undiagnosed pediatric inflammatory syndrome (03): USA, Europe, COVID-19 susp, RFI 20200505.7299876
+COVID-19 update (150): global, USA state prisons, WHO 20200502.7290671
+COVID-19 update (100): China, S. Korea & high local transmission countries 20200413.7217806
+COVID-19 update (50): China (Hong Kong) animal dog, 2nd case PCR positive, OIE 20200323.7129951
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (41): China, global, clinical pics, asymptomatic trans., WHO 20200210.6976117
+Novel coronavirus (40): animal reservoir, pangolin poss intermediate host, RFI 20200210.6972104
+Novel coronavirus (30): updates, China, Viet Nam, research 20200202.6945658
+Novel coronavirus (20): China, wildlife trade ban 20200127.6922060
+Novel coronavirus (10): China (HU, GD, BJ) 20200119.6898567
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia: China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia: China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+----
+Undiagnosed pneumonia: China (HU): RFI 20191230.6864153
+and other items in the archives
+.................................................sb/uba/mj/ml
+</body>

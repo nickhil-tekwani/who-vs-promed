@@ -1,0 +1,89 @@
+<header id=003654>
+Published Date: 2001-03-27 18:50:00 EST
+Subject: PRO/AH> Foot & mouth disease, modelling - UK
+Archive Number: 20010327.0620
+</header>
+<body id=003654>
+FOOT & MOUTH DISEASE, MODELLING - UK
+************************************
+A ProMED-mail post
+<http://www.promedmail.org>
+ProMED-mail, a program of the
+International Society for Infectious Diseases
+<http://www.isid.org>
+See Also
+Foot & mouth disease - UK (30) 20010325.0595
+Date: 27 Mar 2001
+From: Professor Roger Morris <R.S.Morris@massey.ac.nz> [edited
+
+The item on ProMED-mail March 25 by James Meek headed "Three teams, three
+predictive models" makes the statement "The three models are relatively
+crude... " and goes on to specify weaknesses which would obviously be of
+concern in interpreting the predictions if they were true of particular
+models. The author does not appear to have adequately differentiated among
+the models in making this statement, which is quite inaccurate about at
+least one of the models.
+The model used by the Weybridge team to predict an epidemic size of the
+order of 4400 farms (with current controls and epidemiological assumptions)
+is the Interspread model developed progressively over the last decade by my
+research group at the EpiCentre, Massey University, New Zealand,
+particularly by Dr Robert Sanson and Mark Stern.
+It is a full stochastic geographical model of the livestock farms of an
+affected country, which has been populated with a comprehensive spatial
+data set of UK livestock farms by a joint team from Massey and the UK
+Veterinary Laboratories Agency since the epidemic started in February. The
+epidemiological parameters in the model have been derived from careful
+review of the literature, and from various analyses of the detailed 1967/68
+UK outbreak data (supplied by Dr Martin Hugh-Jones).
+Other features of the model are based as far as possible on specific
+research we undertook to answer questions, or on literature review. A range
+of adjustments has been made to the model by the joint team in the last
+month, to give the best possible approximation to current UK circumstances
+in running the model.
+The structure of the model allows a broad range of control options to be
+considered, and the model uses as its starting point the true recorded
+state of the epidemic on whatever is chosen as Day Zero for the particular
+simulation. A classical swine fever variant of Interspread was used by
+Wageningen University to analyze the 1997/98 Dutch [Classical swine fever
+(hog cholera) epidemic, and the expected epidemic curve and outbreak size
+predicted by the model (381 affected farms) matched closely with reality
+(429 affected), although the confidence intervals on the prediction were of
+course quite wide.
+Therefore the predictions derived from Interspread should provide a
+valuable guide to the expected scale of the epidemic under the control
+program assumptions applied, and can provide quite detailed insights into
+the expected effects of modifications to the control strategy. Naturally,
+we do not expect the outbreak to reach the predicted size of 4400 farms
+because measures will be taken to prevent that, but the model should help
+considerably in deciding what measures will be most effective in curtailing
+further growth of the outbreak.
+--
+Roger S Morris MVSc, PhD, FAmerCE, FACVSc, FRSNZ
+Gilruth Professor of Animal Health
+Director, Massey University EpiCentre
+Institute of Veterinary, Animal and Biomedical Sciences
+Massey University, Palmerston North, NEW ZEALAND
+<R.S.Morris@massey.ac.nz>
+[Dr Morris, thank you for your clarification on the Weybridge model. - Mod.TG
+....................tg/pg/sh
+*##########################################################*
+ProMED-mail makes every effort to verify the reports that
+are posted, but the accuracy and completeness of the
+information, and of any statements or opinions based
+thereon, are not guaranteed. The reader assumes all risks in
+using information posted or archived by ProMED-mail. ISID
+and its associated service providers shall not be held
+responsible for errors or omissions or held liable for any
+damages incurred as a result of use or reliance upon posted
+or archived material.
+************************************************************
+Visit ProMED-mail's web site at <http://www.promedmail.org>.
+Send all items for posting to: promed@promedmail.org
+(NOT to an individual moderator). If you do not give your
+full name and affiliation, it may not be posted. Send
+commands to subscribe/unsubscribe, get archives, help,
+etc. to: majordomo@promedmail.org. For assistance from a
+human being send mail to: owner-majordomo@promedmail.org.
+############################################################
+############################################################
+</body>

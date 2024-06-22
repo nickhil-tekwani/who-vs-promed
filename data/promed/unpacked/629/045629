@@ -1,0 +1,73 @@
+<header id=045629>
+Published Date: 2017-05-12 16:02:29 EDT
+Subject: PRO/AH/EDR> Tularemia - Australia: (NS) possum
+Archive Number: 20170512.5031168
+</header>
+<body id=045629>
+TULAREMIA - AUSTRALIA: (NEW SOUTH WALES) POSSUM
+***********************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+Date: Thu 11 May 2017
+Source: Emerg Infect Did Volume 23, Number 7--July 2017 [in press] [edited]
+https://wwwnc.cdc.gov/eid/article/23/7/16-1863_article
+
+
+Tularemia is a highly infectious zoonotic disease caused by the bacterium _Francisella tularensis_ that affects humans and other animals (1,2). Globally, tularemia has been identified in a wide range of animal hosts; rabbits and rodents are the most important reservoirs (3). Tularemia in humans is typically acquired through direct exposure to infected animals during hunting, although biting insect vectors such as ticks and mosquitos, as well as waterborne and environmental sources, have been reported (1). Outbreaks are not uncommon in disease-endemic areas, and a positive correlation exists between the population density of the animal reservoir and the number of human tularemia cases (4).
+
+Ulceroglandular tularemia is the most common form of disease in humans, accounting for about 75 percent of reported cases, and is characterized by fever, ulceration at the site of infection, and enlargement of local lymph nodes (5). Untreated infection by _F. tularensis_ can be life-threatening. Given its multiple routes of transmission, including inhalation of contaminated dust, the bacterium is considered a category A bioterrorism agent in most jurisdictions.
+
+Tularemia is endemic to parts of the Northern Hemisphere, including North America and Eurasia, and most cases in humans are caused by the _F. tularensis_ subspecies _tularensis_ (type A) and _holarctica_ (type B). Notably, regions in the Southern Hemisphere, including Australia, have been largely considered tularemia-free. In 2003, a divergent _Francisella spp._ was isolated from a human foot wound in the Northern Territory, Australia (6), and has since been reclassified as _F. hispanensis_ (7). However, in 2011, a case of ulceroglandular tularemia was reported in an adult bitten by a wild ringtail possum (_Pseudocheirus peregrinus_) in western Tasmania, Australia (8). No isolate was obtained in this case, although infection by _F. tularensis_ was suggested by both 16S rRNA sequencing and serology (8). Two additional cases of suspected human tularemia were reported in Tasmania in 2011, close to the site of the original infection (13). These cases suggest a possible wider distribution of _F. tularensis_ in the Southern Hemisphere and a potential reservoir in ringtail possums in Australia.
+
+As part of a wider study of neglected and undiagnosed disease syndromes observed in Australia wildlife, we investigated the possible infectious cause of several deaths in ringtail possums that were most often associated with acute necrotizing enteritis or hepatitis. In total, 8 possums were included in this study, each representative of a distinct mortality event in Sydney, New South Wales, during 2000-2009. Liver and brain tissue were collected at the time during necropsy and stored at -80 C [-112 F].
+
+To identify potential pathogens in these possum samples, we used an unbiased, high-throughput RNA sequencing approach (RNA-Seq; Epicentre, Madison, WI, USA). Total RNA was 1st extracted from the 8 affected liver tissues and pooled before host ribosomal RNA depletion and library preparation by using Ribo-Zero Gold (Illumina; San Diego, CA, USA) with TruSeq Stranded mRNA Library preparation kit (Illumina). The library was sequenced by using the Illumina HiSeq2500 platform, producing 50 740 088 paired-end sequence reads (100 nt lengths). These data were assembled de novo using Trinity (9) and screened for viral, bacterial, and fungal pathogens by comparisons to existing databases by using nucleotide and protein Blast searches (10).
+
+No viral or fungal pathogens were apparent in the de novo assembled transcripts. Strikingly, however, _F. tularensis_ was abundant, representing about 85 percent of the bacterial contigs identified. Other, less abundant bacteria were species from the genera _Serratia_, _Streptococcus_, _Escherichia_, and _Bacillus_. Remapping the RNA-Seq data against the complete genome of the _F. tularensis_ subsp.<holarctica_ reference strain T01 (GenBank accession no. NZ_CP012092) produced an assembly of 80 516 reads, providing 46.9 percent genome coverage (891 561/1 899 676 nt) at a mean depth of 4.2x and pairwise identity of 99.8 percent. This relatively high abundance suggested that _F. tularensis_ subsp. _holarctica_ RNA was probably present in the pooled possum liver sample.
+
+To confirm the infection, individual liver samples were independently screened for _F. tularensis_ at the Emerging Infections and Biohazard Response Unit (EIBRU) at Pathology West, Westmead Hospital, Sydney. This screening involved culturing on enriched cysteine heart agar blood culture medium with antibiotic supplementation (11), and assays provided through the US CDC's Laboratory Response Network that included direct fluorescent antigen (DFA) testing and real-time PCR. No serum was available for serologic testing. Of the 8 liver samples present in the RNA-Seq pool, 2 were positive (samples 2 and 7) for _F. tularensis_ by both DFA and PCR (all 3 gene targets, FT1, FT2, and FT3, were positive). Both of these _F. tularensis_-positive samples were obtained from ringtail possums found in the Sydney north shore area and were associated with 2 separate mass mortality events in May 2002 (sample 7) and August 2003 (sample 2). An _F. tularensis_ isolate was also obtained from sample 7 (denoted FT7) that was identified by morphology, biochemical tests, mass spectrometry, and confirmatory testing by DFA and real-time PCR. Whole-genome sequencing was performed on an Illumina NextSeq500 by using Nextera XT libraries prepared from FT7 genomic DNA in addition to control stocks held by the Emerging Infections and Biohazard Response Unit to eliminate them as possible sources of contamination. Raw sequence data are available from the National Center for Biotechnology Information (BioSample accession no. SAMN06114577).
+
+A multilocus phylogenetic comparison of the FT7 isolate and the original possum liver RNA-Seq data revealed that the sequences clearly clustered together within an Asian subclade of the _holarctica_ subspecies that includes biovar _japonica_ (Figure 1 [for figures, see original URL - Mod.LL]). The differences between the sequences (3 nt across the multilocus region of 7009 nt) are probably best explained by sequence quality with poor coverage (only 1x) in the RNA-Seq data at these positions. A subsequent whole-genome single nucleotide polymorphism analysis (Figure 2) and subspecies-specific PCR producing an 839-bp product confirmed FT7 as a member of biovar _japonica_ (12). Although it is difficult to draw conclusions from such a conserved region, we note that the sequences from the FT7 isolate and the RNA-Seq data both matched, with 100 percent identity, the 16S rRNA and recA gene sequences identified in the human tularemia case in Tasmania (8). Testing of additional archived tissues from 8 similarly affected ringtail possums and 3 rabbits did not identify further cases positive for _F. tularensis_. Hence, there are probably multiple etiologies for the acute necrotizing enteritis or hepatitis observed.
+
+The clinical, gross, and histologic findings, in addition to the genetics and microbiology, confirm the diagnosis of _F. tularensis_ infection in >2 ringtail possums associated with 2 mortality events in Sydney. Native ringtail possums in Australia might therefore be a natural reservoir or end-stage host of tularemia and serve as useful sentinels of disease activity that could pose a threat to human health through occasional exposure. A better understanding of the ecology of _F. tularensis_ subsp. _holarctica_ in Australia is necessary to contribute to public health and to wildlife welfare and conservation.
+
+References
+1. Foley JE, Nieto NC: Tularemia. Vet Microbiol. 2010;140: 332-338.
+2. Maurin M, Gyuranecz M: Tularaemia: clinical aspects in Europe. Lancet Infect Dis. 2016;16: 113-124.
+3. Petersen JM, Molins CR: Subpopulations of Francisella tularensis ssp. tularensis and holarctica: identification and associated epidemiology. Future Microbiol. 2010;5: 649-661.
+4. Gyuranecz M, Reiczigel J, Krisztalovics K, et al: Factors influencing emergence of tularemia, Hungary, 1984-2010. Emerg Infect Dis. 2012;18: 1379-1381.
+5. Ellis J, Oyston PC, Green M, Titball RW: Tularemia. Clin Microbiol Rev. 2002;15: 631-646.
+6. Whipp MJ, Davis JM, Lum G, et al: Characterization of a novicida-like subspecies of Francisella tularensis isolated in Australia. J Med Microbiol. 2003;52: 839-842.
+7. Sjodin A, Svensson K, Ohrman C, et al: Genome characterisation of the genus Francisella reveals insight into similar evolutionary paths in pathogens of mammals and fish. BMC Genomics. 2012;13: 268.
+8. Jackson J, McGregor A, Cooley L, et al: Francisella tularensis subspecies holarctica, Tasmania, Australia, 2011. Emerg Infect Dis. 2012;18: 1484-1486.
+9. Grabherr MG, Haas BJ, Yassour M, et al: Full-length transcriptome assembly from RNA-Seq data without a reference genome. Nat Biotechnol. 2011;29: 644-652.
+10. Altschul SF, Gish W, Miller W, Myers EW, Lipman DJ: Basic local alignment search tool. J Mol Biol. 1990;215: 403-410.
+11. Petersen JM, Schriefer ME, Gage KL, et al: Methods for enhanced culture recovery of Francisella tularensis. Appl Environ Microbiol. 2004;70: 3733-3735.
+12. Huber B, Escudero R, Busse HJ, et al: Description of Francisella hispaniensis sp. nov., isolated from human blood, reclassification of Francisella novicida (Larson et al. 1955) Olsufiev et al. 1959 as Francisella tularensis subsp. novicida comb. nov. and emended description of the genus Francisella. Int J Syst Evol Microbiol. 2010;60: 1887-1896.
+13. Veitch M, Cooley L. Tularemia, human, possum--Australia (03): (Tasmania). ProMED. 2001 Nov 22 [cited 2016 Nov 6]. http://www.promedmail.org,archiveno.20111122.3425.
+
+[Byline: Eden JS, Rose K, Ng J, et al]
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[This appears to be the 1st identification of _F. tularensis_ ssp. _holarctica_ on the mainland off Australia. ProMED documented the reports of human cases of tularemia on the Australian island of Tasmania in the past. - Mod.LL
+
+A HealthMap/ProMED-mail map can be accessed at: https://promedmail.org/promed-post?place=5031168,284.]
+See Also
+2012
+----
+Tularemia, human, possum, 2011 - Australia: (TS) 20120914.1290255
+2011
+----
+Tularemia, human, possum - Australia (03): (TS) 20111122.3425
+Tularemia, human, possum - Australia (02): (TS), RFI 20111108.3324
+Tularemia, human, possum - Australia: (TS), RFI 20111105.3299
+.................................................ll/ec/lm
+</body>

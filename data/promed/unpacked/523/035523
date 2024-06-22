@@ -1,0 +1,355 @@
+<header id=035523>
+Published Date: 2020-12-31 11:48:39 EST
+Subject: PRO/AH/EDR> COVID-19 update (562): viral load, UK vacc dose, ECDC, WHO
+Archive Number: 20201231.8061525
+</header>
+<body id=035523>
+CORONAVIRUS DISEASE 2019 UPDATE (562): VIRAL LOAD, UK VACCINE DOSE, ECDC RISK ASSESSMENT, WHO
+*********************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] Viral load and disease severity
+[2] UK: vaccination
+[3] ECDC: risk assessment of new variants for EU
+[4] WHO: daily new cases reported (as of 30 Dec 2020)
+[5] Global update: Worldometer accessed 30 Dec 2020 21:59 EST (GMT-5)
+
+******
+[1] Viral load and disease severity
+Date: Tue 29 Dec 2020
+Source: NY Times [edited]
+https://www.nytimes.com/2020/12/29/health/coronavirus-viral-load.html#click=https://t.co/O3zT2bynLh
+
+
+As Covid-19 patients flood into hospitals nationwide, doctors are facing an impossible question. Which patients in the emergency room [ER] are more likely to deteriorate quickly, and which are most likely to fight off the virus and to recover?
+
+As it turns out, there may be a way to help distinguish these 2 groups, although it is not yet widely employed. Dozens of research papers published over the past few months found that people whose bodies were teeming with the coronavirus more often became seriously ill and more likely to die, compared with those who carried much less virus and were more likely to emerge relatively unscathed.
+
+The results suggest that knowing the so-called viral load -- the amount of virus in the body -- could help doctors predict a patient's course, distinguishing those who may need an oxygen check just once a day, for example, from those who need to be monitored more closely, said Dr Daniel Griffin, an infectious disease physician at Columbia University in New York. Tracking viral loads "can actually help us stratify risk", Dr Griffin said.
+
+The idea is not new: managing viral load has long formed the basis of care for people with HIV, for example, and for tamping down transmission of that virus. Little effort has been made to track viral loads in Covid-19 patients. This month, however, the Food and Drug Administration said clinical labs might report not just whether a person was infected with the coronavirus, but also estimate how much virus was carried in their body. This is not a change in policy -- labs could have reported this information all along, according to 2 senior FDA officials who spoke on the condition of anonymity because they were not authorized to speak publicly about the matter.
+
+Still, the news came as a welcome surprise to some experts, who have for months pushed labs to record this information. "This is a very important move by the FDA," said Dr Michael Mina, an epidemiologist at the Harvard T H Chan School of Public Health. "I think it's a step in the right direction to making the most use of one of the only pieces of data we have for many positive individuals." The FDA's change followed a similar move by the Florida Department of Health, which now requires all labs to report this information.
+
+The omission of viral load from test results was a missed opportunity not just to optimize strained clinical resources, but also to better understand Covid-19, experts said. Analyzing the viral load soon after exposure, for example, could help reveal whether people who die from Covid-19 are more likely to have high viral loads at the start of their illnesses.
+
+And a study published in June [2020] showed that the viral load decreases as the immune response surges, "just like you'd expect it to be for any old virus," said Dr Alexander Greninger, a virologist at the University of Washington in Seattle, who led the study.
+
+An uptick in the average viral load throughout entire communities could indicate an epidemic on the rise. "We can get an idea of whether the epidemic is growing or declining, without relying on case counts," said James Hay, a postdoctoral researcher in Dr Mina's lab.
+
+Fortunately, data on viral load -- or at least a rough approximation of it -- is readily available, built into results from the PCR tests that most labs use to diagnose a coronavirus infection. A PCR test is performed in "cycles", each doubling the amount of viral genetic material originally drawn from the patient's sample. The higher the initial viral load, the fewer cycles the test needs to find genetic material and produce a signal. A positive result at a low cycle threshold, or Ct, implies a high viral load in the patient. If the test is not positive until many cycles have been completed, the patient probably has a lower viral load.
+
+Researchers at Weill Cornell Medicine in New York recorded viral loads among more than 3000 hospitalized Covid-19 patients on the day of their admission. They found that 40% of patients with high viral loads -- whose tests were positive at a Ct of 25 or below -- died while in the hospital, compared with 15% of those with positive tests at higher Cts and presumably lower viral loads.
+
+In another study, the Nevada Department of Public Health found an average Ct value of 23.4 in people who died from Covid-19, compared with 27.5 in those who survived their illnesses. People who were asymptomatic had an average value of 29.6, suggesting they carried much less virus than the other 2 groups.
+
+These numbers may seem to vary by very little, but they correspond to millions of viral particles. "These are not subtle differences," Dr Greninger said. A study from his lab showed that patients with a Ct of less than 22 had more than 4 times the odds of dying within 30 days, compared with those with a lower viral load.
+
+But the use of Ct values to estimate viral load is a fraught practice. Viral load measurements for HIV are highly precise, because they are based on blood samples. Tests for the coronavirus rely on swabbing the nose or throat -- a procedure that is subject to user error and whose results are less consistent.
+
+The amount of coronavirus in the body changes drastically over the course of the infection. The levels rise from undetectable to yielding positive test results in just hours, and viral loads continue to increase until the immune response kicks in. Then viral loads quickly decline. But viral fragments may linger in the body, triggering positive test results long after the patient has stopped being infectious and the illness has resolved.
+
+Given this variability, capturing viral load at one point in time may not be useful without more information about the trajectory of illness, said Dr Celine Gounder, an infectious disease specialist at Bellevue Hospital Center and a member of the incoming administration's coronavirus advisory group. "When on that curve are you measuring the viral load?" Dr Gounder asked.
+
+The exact relationship between a Ct value and the corresponding viral load can vary between tests. Rather than validate this quantitative relationship for each machine, the FDA authorized the tests to deliver diagnoses based on a cutoff for the cycle threshold.
+
+Most manufacturers conservatively set their machine's thresholds for diagnosis from 35 to 40, values that generally correspond to an extremely low viral load. But the exact threshold for a positive result, or for a specific Ct to indicate infectiousness, will depend on the instrument used. "That's why I get very anxious about a lot of these assessments on the basis of Ct values," said Susan Butler-Wu, director of clinical microbiology at the University of Southern California. "Certainly, it is a value that can be useful in certain clinical circumstances," Dr Butler-Wu said, "but the idea that you can have a unicorn Ct value that correlates perfectly with an infectious versus noninfectious state makes me very nervous."
+
+Other experts acknowledged these limitations, but said the benefit from recording Ct values outweighed the concerns. "All of those are valid points when looking at an individual patient's test results, but it doesn't change the fact that on average, when you look at the admission test results of these Ct values, they really identify patients at high risk of decompensating and dying," said Dr Michael Satlin, an infectious diseases physician and lead researcher of the Weill Cornell study. Dr Satlin said adjusting his team's results for duration of symptoms and several other variables did not alter the high risk of death in patients with high viral loads. "No matter how you try to adjust, statistically, this association is extremely strong and will not go away," he said.
+
+At a population level, too, Ct values can be valuable during a pandemic, Dr Hay said. High viral loads in a large group of patients can indicate recent exposure to the virus, signaling a nascent surge in community transmission. "This could be a great surveillance tool for less well-resourced settings who need to understand the epidemic trajectory, but do not have the capacity to carry out regular, random testing," Dr Hay said. Over all, he and others said, viral load information is too valuable a metric to be ignored or discarded without analysis.
+
+"One of the things that's been tough in this pandemic is everybody wants to do evidence-based medicine and wants to go at the appropriate speed," Dr Greninger said. "But we also should expect certain things to be true, like more virus is usually not good."
+
+[byline: Apoorva Mandavilli]
+
+--
+communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[Even though the traditional PCR assays for acute infectious diseases is a qualitative PCR -- a yes or no answer to detection of the virus in the patient samples -- quantitative determination of viral load has important implications for therapeutic evaluation in HIV and HCV infections.
+
+In the context of the current pandemic, Ct value data has an important implication in the laboratory determination of the positive or negative result, and is determined based on the assay protocol as well as internal validation. The Ct value for every tested sample is documented, but rarely reported to the requesting physicians so as to simplify the understanding of the results. A low/earlier Ct value definitely indicates high viral load/titres in the patient's specimen and use of this component from the test report to predict the disease course and expected outcome may help physicians in taking early critical decisions for case management. - Mod.UBA]
+
+******
+[2] UK: vaccination
+[A] Required vaccination rates
+Date: Tue 29 Dec 2020
+Source: Reuters [edited]
+https://mobile.reuters.com/article/amp/idUSKBN29302C?taid=5fead07654859c000143b523&utm_campaign=trueanthem&utm_medium=trueanthem&utm_source=twitter&__twitter_impression=true
+
+
+Britain must vaccinate 2 million people a week to avoid a 3rd wave of the coronavirus outbreak, a study by the London School of Hygiene and Tropical Medicine (LSHTM) has concluded. The UK has had more than 71 000 deaths from the coronavirus and over 2.3 million cases of COVID-19 infections as of late [Mon 28 Nov 2020], according to a Reuters tally.
+
+"The most stringent intervention scenario with tier 4 (restrictions) England-wide and schools closed during January [2021] and 2 million individuals vaccinated per week, is the only scenario we considered which reduces peak ICU (intensive care) burden below the levels seen during the 1st wave", the study said. "In the absence of substantial vaccine roll-out, cases, hospitalisations, ICU admissions and deaths in 2021 may exceed those in 2020." An accelerated uptake of 2 million vaccinated per week "is predicted to have a much more substantial impact", it added <bit.ly/3o9l2MJ>. The study has yet to be peer-reviewed.
+
+Responding to the study, a UK Health Department spokesman told Reuters that "over the coming weeks and months the rate of vaccination will increase as millions more doses become available and the programme continues to expand." The British government has said it has secured early access to 357 million vaccines doses through agreements with several developers.
+
+Prime minister Boris Johnson and his scientific advisers have said a variant of the coronavirus, which could be up to 70% more transmissible, is spreading rapidly in Britain, although it is not thought to be more deadly or to cause more serious illness. [Emergence of this variant] prompted tight measures to restrict social mixing in London and south east England, while plans to ease curbs over Christmas across the nation were dramatically scaled back or scrapped altogether.
+
+Media reports over the weekend said Britain will roll out the Oxford-AstraZeneca COVID-19 vaccine from [4 Jan 2021], with approval by the country's medical regulator expected within days. Earlier this month [December 2020], Britain became the 1st country in the world to roll out the vaccine made by Pfizer and BioNTech. The British government said on [Thu 24 Dec 2020] that 600 000 people had received the 1st dose of the Pfizer-BioNTech COVID-19 vaccine.
+
+[byline: Kanishka Singh]
+
+--
+communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+----
+[B] UK: emergency use authorisation [EUA] + roll out of AstraZeneca and Oxford
+Date: Wed 30 Dec 2020
+Source: NY Times [subscription required, edited]
+https://www.nytimes.com/2020/12/30/world/europe/uk-covid-19-vaccine-oxford-astrazeneca.html#click=https://t.co/dh4RsmmL8u
+
+
+Health officials hope to soon vaccinate a million people per week as the country's hospitals are overwhelmed by cases of a new, more contagious coronavirus variant. Britain on [Wed 30 Dec 2020] became the 1st country to give emergency authorization to the coronavirus vaccine developed by AstraZeneca and the University of Oxford, clearing the path for a cheap and easy-to-store shot that much of the world will rely on to help end the pandemic.
+
+In a departure from prevailing strategies around the world, the British government also decided to begin giving as many people as possible a 1st vaccine dose rather than holding back supplies for quick 2nd shots, greatly expanding the number of people who will be inoculated.
+
+That decision put Britain at the vanguard of a far-reaching and uncertain experiment in speeding up vaccinations, one that some scientists say could alleviate the suffering wrought by a pandemic that has been killing hundreds of people each day in Britain and thousands more around the world.
+
+The global effort to accelerate vaccinations, coming as a new, more contagious variant of the virus is spreading, gathered steam in many places on [Wed 30 Dec 2020]. China said clinical trial results showed high efficacy for one of its vaccine candidates, an announcement that hastened the global rollout of hundreds of millions of doses of Chinese vaccines but was short on crucial details. Russia's Sputnik V vaccine, long criticized for being introduced prematurely, also began use this week in Argentina, Belarus, Hungary and Serbia, the 1st other countries to begin injecting it en masse. And Argentina quickly followed Britain in authorizing the Oxford-AstraZeneca shot, with India expected to do the same soon.
+
+Britain's 2 moves on [Wed 30 Dec 2020] -- authorizing an easy-to-make, easy-to-deliver vaccine, and delaying 2nd vaccine doses -- offered one blueprint for how to ramp up inoculation campaigns that have so far been entangled in logistical and manufacturing problems there and in much of the West.
+
+The Oxford-AstraZeneca shot is poised to become the world's dominant form of inoculation. At USD 3 to USD 4 a dose, it is a fraction of the cost of some other vaccines. And it can be shipped and stored in normal refrigerators for 6 months, rather than in the ultracold freezers required by its rivals, making it easier to administer to people in poorer and harder-to-reach areas.
+
+Delaying 2nd vaccine doses, too, could double the number of people eligible for shots in the coming weeks and eventually lighten the toll of the virus not only in Britain but also in countries facing years of vaccine shortages, some scientists said. While any one person may be better off with the full 2 doses, they said, society as a whole benefits if more people are given the partial protection of a single dose for the time being.
+
+"We're talking about potentially vaccinating in the billions more people in a given year, versus the alternative, which is to go with 2 doses and let them sit in a freezer," said Michael Mina, an epidemiologist at Harvard who was one of the earliest proponents of delaying 2nd doses. "There may be a trade-off for each of those individuals, but at the population level, you may end up saving many more lives."
+
+Still, other scientists believe that Britain overshot the available evidence, potentially leaving older people and health care workers without the full protection of 2 vaccine doses amid dreadful wintertime surges. Britain did without the public meetings or voluminous published briefings that have preceded Covid-19 regulatory decisions in the United States. And there is limited available evidence about how much protection is afforded by a single dose.
+
+"What is the longevity of any protective immunity for one dose, versus 2 doses?" said John Moore, a professor of microbiology and immunology at Weill Cornell Medical College. "Where's the data?"
+
+Britain will delay the 2nd, booster, doses not only of the Oxford-AstraZeneca vaccine but also the Pfizer-BioNTech shot. That vaccine has been in use in the country for several weeks and has been shown in clinical trials to have considerable efficacy after a single dose. Pfizer, though, cautioned on [Wed 30 Dec 2020] that its data on the efficacy of a single dose does not extend beyond when people receive their 2nd shots, 3 weeks after the 1st. The company said that 2 doses "are required to provide the maximum protection against the disease".
+
+For Britain, where hospitals are overwhelmed by a deluge of cases of a new and more contagious coronavirus variant, the rollout of more vaccines offered a distant hope of a reprieve. Starting on [Mon 4 Jan 2021], the health service is preparing to vaccinate as many as 2 million people per week at makeshift sites in soccer stadiums and racecourses, though the 1st shipment will only include 530 000 doses. Instead of administering the 2 vaccine shots within a month as was originally planned, clinicians in Britain will wait as long as 12 weeks to give people 2nd doses, the government said.
+
+Clinical trials of the Oxford-AstraZeneca vaccine had already subjected participants to delayed 2nd doses, with most participants in the British trial being given the 2 doses at least 9 weeks apart. British regulators said on [Wed 30 Dec 2020] that the 1st dose of the vaccine had 70% efficacy in protecting against Covid-19 in the period between that shot taking effect and a 2nd shot being administered, though those figures held for a limited subset of trial participants and have not been published.
+
+Scientists have also expressed concerns about the Oxford-AstraZeneca group not having enough data on older people to fully assess the vaccine's efficacy in that group. Andrew Pollard, the director of the Oxford Vaccine Group, said in an interview on [Wed 30 Dec 2020] that the signs of an immune response in older people were strong and that more evidence of the vaccine's efficacy in that group would emerge from an ongoing American trial that has nearly enrolled all 30 000 of its volunteers.
+
+The United States and the European Union have indicated that they are unlikely to authorize the Oxford-AstraZeneca vaccine until at least February [2021].
+
+When given in 2 full-strength doses, the regimen authorized by Britain, AstraZeneca's vaccine showed 62% efficacy in clinical trials -- considerably lower than the roughly 95% efficacy achieved by Pfizer and Moderna's shots. No one who received the vaccine in the clinical trials developed severe Covid-19 or was hospitalized. British regulators said on [Wed 30 Dec 2020] that the vaccine's efficacy appeared to rise to 80% in a smaller group of volunteers who were given the 2 doses roughly 3 months, rather than a single month, apart, a result that has not been published but that nevertheless emboldened the regulators to authorize a longer gap between doses.
+
+Professor Pollard said in the interview that the longer interval provoked higher levels of antibodies in participants. And he said that finding may help solve a puzzle that has hung over the Oxford-AstraZeneca group: why the vaccine had a 90% efficacy in volunteers who were given a half-strength, rather than full-strength, initial dose. Those volunteers happened to get their 2 doses further apart, making it likely that the higher efficacy was a result of the elongated gap between doses, and not the size of the initial dose at all, as originally believed.
+
+Menelas Pangalos, the AstraZeneca executive in charge of much of the company's research and development, said in an interview on [Wed 30 Dec 2020] that the company would now focus on "getting that inter-dose interval right." He said the company believes "the sweet spot" may be from 8 to 12 weeks between doses.
+
+Analysts cautioned that it may not be easy for Britain's health service to persuade people to take a vaccine that appears less effective than other available shots, but that nevertheless could hasten the end of the pandemic.
+
+Much of the world is looking to AstraZeneca in part because it has set more ambitious manufacturing targets than other Western vaccine makers. It has said that it expects to make up to 3 billion doses next year -- a haul that, at 2 doses per person, would be enough to inoculate nearly one in 5 people worldwide. The company has pledged to make the vaccine available at cost around the world until at least July 2021, and in poorer countries into perpetuity.
+
+"This is very good news for the world," Stephen Evans, a professor of pharmacoepidemiology at the London School of Hygiene and Tropical Medicine, said of British regulators' go-ahead. "It makes a global approach to a global pandemic much easier."
+
+For prime minister Boris Johnson of Britain, who has faced withering criticism for his handling of the pandemic, the rollout of the Oxford-AstraZeneca could bring some relief. The government put more than 3-quarters of England in a virtual lockdown as of [Wed 30 Dec 2020] night, and delayed the reopening of 2ary schools in January [2021] amid signs that the new coronavirus variant spreads more easily in children.
+
+Since authorizing Pfizer's vaccine on [2 Dec 2020], Britain has used it to vaccinate hundreds of thousands of people. But the country has struggled to administer it beyond hospitals and doctor's offices, leaving some of its highest-priority recipients, like nursing home residents, still vulnerable.
+
+--
+communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+----
+[C] UK: efficacy of single dose Pfizer vaccine jabs
+Date: Wed 30 Dec 2020 9:52 AM EST
+Source: Daily Mail [edited]
+http://www.dailymail.co.uk/news/article-9099049/Questions-Britains-decision-drop-two-dose-vaccine-regimen.html
+
+
+Pfizer warned today there is 'no data' to show a single dose of its coronavirus vaccine provides long-term protection, after the UK scrapped its original jab rollout plan. The UK medical regulator is now recommending Covid jabs are given in 2 doses 3 months apart, rather than over the intended 4-week period, to allow millions more people to be immunised over a shorter time period.
+
+The strategy will apply to both Pfizer/BioNTech's vaccine and the newly approved jab by Oxford/AstraZeneca, despite limited data around the effectiveness of the initial doses. It is a direct response to spiking Covid cases and hospitalisations across the UK that are being driven by a new, highly-infectious strain that emerged in the South East England in September [2020].
+
+Virtually the whole of England is facing brutal lockdown until the spring, with Covid vaccines the only hope of ending the devastation. Health bosses now want to give as many people as possible an initial dose, rather than holding back the 2nd doses, so more of the population can enjoy at least some protection.
+
+In a thinly-veiled swipe at the UK, Pfizer warned that any 'alternative' dosing regimens should be closely monitored by health authorities. The US firm said there was 'no data' in its studies to show its vaccine protects against Covid when taken 12 weeks apart. 'Data from the phase 3 study demonstrated that, although partial protection from the vaccine appears to begin as early as 12 days after the 1st dose, 2 doses of the vaccine are required to provide the maximum protection against the disease, a vaccine efficacy of 95%,' Pfizer said in a statement. 'There are no data to demonstrate that protection after the 1st dose is sustained after 21 days.'
+
+Today's approval for the Oxford vaccine only applies to 2 full doses and not the half-dose, full-dose regimen that scientists claimed was up to 50% more effective, with regulators admitting there was not enough data to approve the latter tactic. But it still significantly increases the likelihood of the government achieving the target because, unlike the Pfizer jab, Oxford's can be stored in a normal fridge which makes it easier to transport to care homes and GP surgeries.
+
+The government's joint committee on vaccination and immunisation (JCVI) today [Wed 30 Dec 2020] recommended a single dose of either vaccine should be given to as many vulnerable people as possible, rather than sticking to the 2-dose strategy. Professor Wei Shen Lim, chairman of the JCVI, said that with Covid infection rates currently at a high level, the 'immediate urgency is for rapid and high levels of vaccine uptake'. He said that after a 1st dose people acquire a high level of protection, and the JCVI therefore recommends delivery of the initial dose should be prioritised for both the Pfizer and AstraZeneca vaccines. He told a Downing Street data briefing: 'This will allow the greatest number of eligible people to receive vaccine in the shortest time possible and that will protect the greatest number of lives.'
+
+A spokesperson for the Department of Health and Social Care (DHSC) said: 'Everyone will still receive their 2nd dose and this will be within 12 weeks of their 1st. The 2nd dose completes the course and is important for longer term protection. The trial results make the case for using all available vaccines to vaccinate people with the 1st dose, without holding back a 2nd dose for each person, overwhelming. The 1st dose gives a high level of immunity - enough to halt hospital admissions - and the 2nd dose is in any event at its most effective 2/3 months after the 1st, by which time we will have extra supplies of the vaccine to cover 2nd doses.
+
+'In addition, the government should consider urgently: acceleration of the vaccination programme. Of course, 1 million vaccinations a week is remarkable by normal standards. But given the rates of transmission and the costs of lockdown, we need to do much more. Given the advantages of the AstraZeneca vaccine in terms of simplicity to administer - like the flu jab - we should surely be using every available potential resource including all pharmacies, occupational health capacity and those suitable to be trained fast to administer vaccines and increase the rate of vaccination. And we should think about greater flexibility in the plan, with vaccination of groups most likely to transmit the virus and hotspot areas as well as age and vulnerability.' Scientists have welcomed the decision, saying it will allow greater 'flexibility' in the vaccination programme.
+
+Commenting on the decision, Stephen Evans, professor of pharmacoepidemiology at the London School of Hygiene & Tropical Medicine, said: 'The decision to allow both the currently UK authorised vaccines to be given with a greater delay between doses to maximise the numbers getting one dose as rapidly as possible is a sensible one. It cannot have been an easy decision, since the evidence on the efficacy of one dose was more limited, but the crisis in the UK requires more than the usual regulatory approach.'
+
+Professor Robert Read, head of clinical and experimental sciences within medicine at the University of Southampton, added: 'JCVI has advised that whilst we should be prepared to give people the 2nd dose, it is acceptable to give that within 12 weeks of the 1st dose. This allows some much-needed flexibility in a programme as big as this.'
+
+Ian Jones, professor of virology at the University of Reading, added: 'A level of immunity sufficient to prevent severe disease can be generated after only one inoculation of this vaccine so the revised JCVI advice to prioritise giving those at risk their 1st dose is a sensible idea. It will allow more people in this group to be treated with initial supplies, reduce the threat of hospitalisation from Covid-19, and accelerate the return to normality.'
+
+Lawrence Young, professor of molecular oncology at Warwick Medical School, said: 'To maximise the number of at-risk groups receiving the vaccine, the 1rst dose will be given to as many people as possible with the 2nd dose being delayed for up to 12 weeks. This will allow the 100million vaccine doses ordered by the UK Government to be rolled out to as many people as possible starting as soon as next week.'
+
+[byline: Connor Boyd]
+
+--
+communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[It seems like a practical strategy to use all the available vaccine options for immunizing a maximum subset of the population as the case number are extremely high in UK at present. It remains to be seen what the impact of these multiple candidates will be in bringing down the case numbers and controlling viral transmission. - Mod.UBA]
+
+******
+[3] ECDC: risk assessment of new variants for EU
+Date: Tue 29 Dec 2020
+Source: ECDC [edited]
+https://www.ecdc.europa.eu/en/publications-data/covid-19-risk-assessment-spread-new-sars-cov-2-variants-eueea
+
+
+Executive summary
+-----------------
+Viruses constantly change through mutation, and so the emergence of new variants is an expected occurrence and not in itself a cause for concern; SARS-CoV-2 is no exception. A diversification of SARS-CoV-2 due to evolution and adaptation processes has been observed globally.
+
+While most emerging mutations will not have a significant impact on the spread of the virus, some mutations or combinations of mutations may provide the virus with a selective advantage, such as increased transmissibility or the ability to evade the host immune response. In such cases, these variants could increase the risk to human health and are considered to be variants of concern.
+
+New variants of current concern
+-------------------------------
+The United Kingdom (UK) has faced a rapid increase in COVID-19 case rates in the South East, the East and the London area, which is associated with the emergence of a new SARS-CoV-2 variant, VOC 202012/01. As of [26 Dec 2020], more than 3000 cases of this new variant, confirmed by genome sequencing, have been reported from the UK. An increasing proportion of cases in the South East, the East and the London area are due to this variant, but cases have also been identified in other parts of the UK. Although it was 1st reported in early December [2020], the initial cases were retrospectively identified as having emerged in late September [2020]. Preliminary analyses indicate that the new variant has increased transmissibility compared to previously circulating variants, but no increase in infection severity has so far been identified. Since [26 Dec 2020], a few VOC 202012/01 cases have also been reported in other EU/EEA countries (Belgium, Denmark, Finland, France, Germany, Iceland, Ireland, Italy, the Netherlands, Norway, Portugal, Spain and Sweden) and globally (Australia, Canada, Hong Kong SAR, India, Israel, Japan, Jordan, Lebanon, South Korea, Switzerland, Singapore).
+
+In addition to VOC 202012/01, South Africa has reported another SARS-CoV-2 variant, designated as 501.V2, which is also of potential concern. This variant was 1st observed in samples from October [2020], and since then more than 300 cases with the 501.V2 variant have been confirmed by whole genome sequencing (WGS) in South Africa, where it is now the dominant form of the virus. Preliminary results indicate that this variant may have an increased transmissibility. However, like the VOC 202012/01, at this stage there is no evidence that 501.V2 is associated with higher severity of infection. On [22 Dec 2020], 2 geographically separate cases of this new variant 501.V2 were detected in the UK. Both are contacts of symptomatic individuals returning from travel to South Africa. On [28 Dec 2020], one additional case of this new variant was detected in Finland in a returning traveller from South Africa.
+
+Risks associated with new variants of current concern
+-----------------------------------------------------
+ECDC assesses that the probability of SARS-CoV-2 VOC 202012/01 and 501.V2 being introduced and further spread in the EU/EEA is currently high. Although there is no information that infections with these strains are more severe, due to increased transmissibility the impact of COVID-19 disease in terms of hospitalisations and deaths is assessed as high, particularly for those in older age groups or with co-morbidities. The overall risk associated with the introduction and further spread of SARS-CoV-2 VOC 202012/01 and 501.V2 is therefore assessed as high.
+
+The probability of increased circulation of any SARS-CoV-2 strains and this placing greater pressure on health systems in the coming weeks is considered to be high due to the festive season and, higher still, in countries where the new variants are established. The impact of this increased pressure on health systems is considered to be high even if current public health measures are maintained. Therefore, the overall risk of an increased impact on health systems in the coming weeks is assessed as high.
+
+Maintaining and strengthening non-pharmaceutical interventions
+--------------------------------------------------------------
+Member states are recommended to continue to advise their citizens of the need for non-pharmaceutical interventions in accordance with their local epidemiological situation and national policies and, in particular, to consider guidance on the avoidance of non-essential travel and social activities.
+
+Options for delaying the introduction of variants of concern
+------------------------------------------------------------
+The options available for delaying the introduction and further spread of a new variant of concern are:
+- to perform targeted and representative sequencing of community cases to detect early and monitor the incidence of the variant;
+- to increase follow-up and testing of people with an epidemiological link to areas with significantly higher incidence of the variant and to sequence samples from such cases;
+- to enhance targeted contact tracing and isolation of suspected and confirmed cases of the variant;
+- to alert people coming from areas with significantly higher incidence of the variant to the need to comply with quarantine, as well as getting tested and self-isolating if they develop symptoms;
+- to recommend avoiding all non-essential travel, in particular to areas with a significantly higher incidence of the variant.
+
+Although in the short-to-medium term the roll-out of vaccinations will probably contribute to the response, these immediate measures are essential until such time as doses are available in sufficient numbers and have been shown to have a mitigating effect.
+
+Increased detection and characterisation
+--------------------------------------------
+Member states should continue to monitor for abrupt changes in rates of transmission or disease severity as part of the process of identifying and assessing the impact of variants. Data analysis and assessment of the local, regional and national situation should be performed to identify areas with rapidly changing epidemiology.
+
+National public health authorities should notify cases of the new variant, as well as any other new SARS-CoV-2 variants of potential concern, through the Early Warning and Response System (EWRS) and The European Surveillance System (TESSy) for case-based surveillance and aggregate reporting, which has been adapted for this purpose.
+
+In order to be able to detect introductions of known variants, as well as emergence of new variants of concern, member states need to perform timely genome sequencing of a significant and representative selection of isolates. The UK has demonstrated that their sequencing programme is able to detect emerging variants. Ideally, Member States should aim for a similar timeliness and fraction of samples sequenced, although this will depend on the availability of resources. If representative sequencing on a similar scale to that carried out by the UK is not feasible, samples could be selected where the involvement of a variant of concern is suspected.
+
+--
+communicated by:
+Mary Marshall
+<mjm2020@googlemail.com>
+
+[The ECDC assessment provides a practical review of the prevalent situation with recent reports of the new SARS-CoV 2 variant from Europe, Asia, Africa and the Americas and emphasizes that in order to detect introduction of new variants at present and in the future, countries should perform genomic sequencing of percentage of isolates that are representative as well, and also ensure that this activity is done in a timely way and in accordance with available resources. - Mod.UBA]
+
+******
+[4] WHO: daily new cases reported (as of 30 Dec 2020)
+Date: Wed 30 Dec 2020
+Source: WHO [abridged, edited]
+https://covid19.who.int/table
+
+
+*Daily case reports as of 30 Dec 2020 15:59 CET
+
+Surveillance
+------------
+WHO region (no. countries/territories):
+Total confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+----------------------------------------------------------------------
+Western Pacific Region (19): 1 079 899(7587) / 19 879 (105)
+European Region (61): 25 933 806 (251 900) / 570 472 (6589)
+South East Asia Region (10): 11 928 810 (31 467) / 182 431 (594)
+Eastern Mediterranean Region (22): 4 885 422 (22 206) / 120 339 (451)
+Region of the Americas (54): 35 072 919 (236 660) / 848 883 (3498)
+African Region (49): 1 871 432 (14 163) / 41 602 (643)
+Cases on an international conveyance (Diamond Princess): 745 (0) / 13 (0)
+
+Confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+Grand total: 80 773 033 (563 983) / 1 783 619 (11 784)
+
+--
+communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+******
+[5] Global update: Worldometer accessed 30 Dec 2020 21:59 EST (GMT-5)
+Date: Wed 30 Dec 2020
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at https://promedmail.org/wp-content/uploads/world-pdf/DEC30DATASET_1609437480.pdf]
+
+A 7-day series of cumulative data reported by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/DEC30WORLD7_1609437605.pdf. - Mod.UBA]
+
+Total number of reported deaths: 1 812 046
+Total number of worldwide cases: 83 070 276
+Number of newly confirmed cases in the past 24 hours: 738 893
+
+--
+communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[In the past 24 hours, the USA (234 775), Brazil (55 853), and UK (50 023) have reported the highest numbers of cases. A global total of 15 777 deaths were reported in the past 24 hours (29-30 Dec 2020), possibly some bulk reporting after the dip during the holidays.
+
+Countries reporting more than 10 000 newly confirmed cases in the past 24 hours (15 countries) include the USA, Brazil, UK, Germany (28 410), Russia (26 513), France (26 457), India (21 957), South Africa (17 710), Czechia (16 408), Italy (16 202), Turkey (15 692), Poland (13 032), Mexico(12 099), Argentina (11 765), and Colombia (11 639). A total of 61 countries reported more than 1000 cases in the past 24 hours; 33 of the 61 countries that reported more than 1000 newly confirmed cases are from the European region, 11 are from the Americas region, 10 are from the Eastern Mediterranean region, 3 are from the South East Asia region, 3 are from the Western Pacific region, and one from the African region.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, case counts have decreased by 22.0%, while daily reported deaths have increased by 1.9%.
+
+Impression: The global daily reported cases are over 650 000 newly confirmed infections in the past 24 hours and over 83 million cumulative reported cases with almost 1.81 million reported deaths. Countries in the European and the Americas regions are still showing the largest increases in daily new case counts even with reductions in daily case reports due to the period, followed by the Eastern Mediterranean, South East Asia, and Western Pacific regions. The USA has crossed 20 million confirmed cases and 350 000 deaths. - Mod.UBA]
+See Also
+COVID-19 update (561): variants, China serosurvey, psychosis, WHO 20201230.8057135
+COVID-19 update (560): variants, Thailand, viral shedding, WHO 20201229.8054081
+COVID-19 update (559): immunity duration, South Asia, stillbirths, WHO, global 20201228.8051181
+COVID-19 update (558): variants, Africa, Europe, Hong Kong, trials, WHO, global 20201227.8049469
+COVID-19 update (557): animal, Slovenia (SA) ferret, OIE 20201226.8048809
+COVID-19 update (556): Egypt, UAE, Thailand, diabetes, mutations, WHO, global 20201226.8047282
+COVID-19 update (555): USA (CO) animal, black-footed ferret, vaccine 20201225.8046582
+COVID-19 update (554): Nigeria mutation, UK duration of immunity, WHO, global 20201225.8045570
+COVID-19 update (553): variants, immunocompromised, M East/N Africa, WHO, global 20201224.8043651
+COVID-19 update (552): USA, animal, cat, dog, snow leopard, OIE 20201223.8042405
+COVID-19 update (551): animal, pig, research, experimental infection 20201223.8041877
+COVID-19 update (550): mutation, query, Thailand, Taiwan, WHO, global, RFI 20201223.8040292
+COVID-19 update (540): S Africa MIS-C, USA risk factors, Iran serosurvey, WHO global 20201216.8021945
+COVID-19 update (530): animal, mink, research, experimental infection, vaccine 20201210.8009205
+COVID-19 update (520): Denmark, Netherlands, mink, human-animal interface, WHO 20201204.7994061
+COVID-19 update (510): animal, mink, Lithuania, Poland, 1st reports, France, OIE 20201127.7976927
+COVID-19 update (500): frequent rapid tests, vaccine, WHO, global 20201122.7962919
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+Undiagnosed pediatric inflammatory syndrome (05): Europe, USA, COVID-19 assoc 20200518.7340554
+Undiagnosed pediatric inflammatory syndrome (04): USA, UK, PMIS, fatal 20200509.7315405
+Undiagnosed pediatric inflammatory syndrome (03): USA, Europe, COVID-19 susp, RFI 20200505.7299876
+COVID-19 update (150): global, USA state prisons, WHO 20200502.7290671
+COVID-19 update (100): China, S. Korea & high local transmission countries 20200413.7217806
+COVID-19 update (50): China (Hong Kong) animal dog, 2nd case PCR positive, OIE 20200323.7129951
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (41): China, global, clinical pics, asymptomatic trans., WHO 20200210.6976117
+Novel coronavirus (40): animal reservoir, pangolin poss intermediate host, RFI 20200210.6972104
+Novel coronavirus (30): updates, China, Viet Nam, research 20200202.6945658
+Novel coronavirus (20): China, wildlife trade ban 20200127.6922060
+Novel coronavirus (10): China (HU, GD, BJ) 20200119.6898567
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia: China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia: China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+---
+Undiagnosed pneumonia: China (HU): RFI 20191230.6864153
+and other items in the archives
+.................................................sb/uba/ao/sh
+</body>

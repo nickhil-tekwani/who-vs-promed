@@ -1,0 +1,345 @@
+<header id=004138>
+Published Date: 2021-01-05 07:33:38 EST
+Subject: PRO/AH/EDR> COVID-19 update (05): vaccine intervals, vaccine route, snippets, WHO, global
+Archive Number: 20210105.8072388
+</header>
+<body id=004138>
+CORONAVIRUS DISEASE 2019 UPDATE (05): VACCINE INTERVALS, VACCINE ROUTE, SNIPPETS, WHO, GLOBAL
+*********************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] Vaccine intervals
+[2] Vaccine route of administration
+[3] International snippets: Asia-Pacific, Europe
+[4] WHO: daily new cases reported (as of 4 Jan 2021)
+[5] Global update: Worldometer accessed 4 Jan 2021 21:50 EST (GMT-5)
+
+******
+[1] Vaccine intervals
+[A] USA: vaccine 2nd dose timing - Annals of Internal Medicine
+Date: Mon 5 Jan 2021
+Source: Annals of Internal Medicine [edited]
+https://www.acpjournals.org/doi/10.7326/M20-8137
+
+
+ref: Tuite AR, Zhu L, Fisman DN, Salomon JA. Alternative dose allocation strategies to increase benefits from constrained COVID-19 vaccine supply. Ann Intern Med. 2021 Jan 5. doi: 10.7326/M20-8137. Epub ahead of print. PMID: 33395334.
+https://www.acpjournals.org/doi/10.7326/M20-8137
+--------------------------------------------------------------------------------
+Background
+On [18 Dec 2020], the US Food and Drug Administration issued an emergency use authorization (EUA) for the Moderna COVID-19 vaccine, adding to the earlier EUA for the Pfizer-BioNTech COVID-19 vaccine. Although trial evidence for both vaccines indicates partial protection against COVID-19 illness after 1 dose (1,2), the vaccines are authorized only as 2-dose series and have not yet been evaluated for single-dose use. In the United States, distribution plans for initial supply of vaccine doses withhold half of the available supply for 2nd doses to be administered weeks later (3). With COVID-19 surging, there are important trade-offs to consider between the health costs of deferring benefits of earlier protection for half of people who could be vaccinated from initial supply, weighed against risks of possible vaccine supply disruptions that could delay receipt of 2nd doses in the absence of sufficient reserves. We used a simple model to quantify these trade-offs.
+
+Methods
+We developed a decision analytic cohort model to estimate direct benefits of vaccination against COVID-19 under alternative strategies for dose allocation (details in the Supplement, available at Annals.org). The fixed strategy, modeled after current US policy, reserves 50% of each vaccine installment for second doses to be administered 3 weeks later. The flexible strategy (an illustrative example of 1st possible alternatives) reserves 10% of the supply for 2nd doses during the 1st 3 weeks, 90% during each of the next 3 weeks, and 50% thereafter.
+
+Expected benefits of vaccination were computed as averted COVID-19 cases accumulated over an 8-week period, relative to no vaccination. Vaccine and programmatic characteristics were based on the Pfizer-BioNTech vaccine (1). Efficacy estimates allowed for partial protection (52.4%) after receipt of the 1st dose and full protection (94.8%) after the 2nd dose (1). We assumed waning efficacy for those not receiving the 2nd dose within 3 weeks after the 1st (single-dose efficacy reduced by a factor of 0.9 each week after week 3). We computed incremental benefits of the flexible strategy as relative increases in averted COVID-19 cases compared with the fixed strategy. Across a range of simulated scenarios, we varied vaccine supply, relative protection from the 1st dose, and waning efficacy given delayed 2nd dose. To consider whether the preferred strategy would depend on infection trends, we assessed results when COVID-19 incidence was stable, was steadily increasing, or was sharply rising then falling.
+
+Results
+Under a steady vaccine supply of 6 million doses per week, the flexible strategy would result in an additional 23% to 29% of COVID-19 cases averted compared with the fixed strategy (Figure 1). In both scenarios, 24 million people received at least 1 dose by the 8th week, whereas 2.4 million additional people received 2 doses of vaccine in the flexible strategy because millions more received an initial dose during the 1st 3 weeks; all 2nd doses were administered on schedule (within 3 weeks of 1st dose) in both strategies. If vaccine supply dropped to 3 million doses per week starting in week 4, overall benefits were reduced in both strategies, and the numbers of people receiving at least 1 dose by 8 weeks, 2 doses by 8 weeks, and 2 on-schedule doses by 8 weeks were 16.5, 12, and 12 million in the fixed strategy, respectively, and 20.1, 12.9, and 6.3 million in the flexible strategy, respectively. Overall, the flexible strategy averted an additional 27% to 32% of COVID-19 cases compared with the fixed strategy in the context of this moderate supply reduction.
+
+We examined additional scenarios that would deliberately disadvantage the flexible strategy, by assuming substantially greater declines in vaccine supply and greater waning of protection with delayed 2nd dose (Figure 2). While numbers of fully vaccinated individuals were adversely affected by these changes, the flexible strategy continued to produce greater overall benefits than the fixed strategy even when we assumed that protection would drop to zero if the 2nd dose was not received within 6 weeks after the 1st dose. In further sensitivity analyses that varied single-dose efficacy estimates over broad ranges, we found that the 2 key determinants of optimal strategy were the number of highly protected individuals at the end of the simulation and the stability of the vaccine supply. The combination of a low 1st-dose efficacy and a collapse in supply was the sole circumstance that favored the fixed strategy.
+
+Discussion
+In this analysis, we demonstrated the potential to improve upon current policies for deploying tightly constrained early supply of highly efficacious COVID-19 vaccines in order to maximize population health benefits. Current policies place a premium on eliminating any possible delays to delivering 2nd doses using an allocation scheme that maintains large reserves of vaccine to guard against complete collapse of supply. The cost of this conservative approach, however, is to delay receipt of 1st doses in many people who could gain substantial health benefits from earlier vaccination. We find that under most plausible scenarios, a more balanced approach that withholds fewer doses during early distribution in order to vaccinate more people as soon as possible could substantially increase the benefits of vaccines, while enabling most recipients to receive 2nd doses on schedule. Our analysis is limited by focusing only on direct benefits to vaccine recipients rather than including potential secondary benefits from avoiding transmission. Key uncertainties remain around the time course of protection afforded by the 1st dose of vaccine and loss of protection with extended time to the 2nd dose. Nevertheless, we suggest a simple modification to current policy that has potential to significantly amplify urgently needed benefits from limited vaccine supply.
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[The above was a letter to the editor. I attempted to find data supporting the rationale for a 3 week interval between doses as opposed to a 4-6 week interval and was unable to find supportive information. Hence I could not validate the projected waning immunity of 1st dose following delay in administration of 2nd dose. In another article in the same journal and issue but in Ideas and Opinions (Barnabas RV, Wald A. A public health COVID-19 vaccination strategy to maximize the health gains for every single vaccine dose. Ann Int Med 5 Jan 2021; https://doi.org/10.7326/M20-8060) the authors discuss using a 1 dose strategy to accept a 51% efficacy in a greater population rather than aim for a 91% efficacy. Generally in the routine immunization programs, we are less concerned about too long an interval vs a too short interval that may fail due to ongoing immune stimulation of the earlier dose. Presumably this should be seen with the mRNA vaccine, but are there data?
+
+But, given the lower efficacy of the vaccine following the 1st dose, I wonder how the ethicists would approach assessing both proposals. Especially in the use of not as yet approved by the FDA biologics. Are we proposing further alterations in phase 2/3 studies? - Mod.MPP]
+
+----
+[B] Europe
+Date: Mon 4 Jan 2021
+Source: The New York Times [edited]
+https://www.nytimes.com/2021/01/04/world/second-covid-vaccine-delay.html
+
+
+As governments around the world rush to vaccinate their citizens, scientists, and policymakers are debating whether to reserve the 2nd doses everyone will need or give as many people as possible just one shot now -- potentially at the expense of giving 2nd doses on schedule. A number of countries in Europe are considering the options, or moving forward with the delay, despite a lack of evidence about how much protection a single dose of vaccine will provide and how long it will last.
+
+Denmark on Monday [4 Jan 2021] approved a lag of up to 6 weeks between the 1st and 2nd shots of the Pfizer-BioNTech vaccine, Reuters reported, although the vaccine is meant to be given in doses 3 weeks apart. Germany and Ireland are considering similar moves.
+
+Britain last week announced a plan to separate doses by up to 12 weeks. Britain has authorized Pfizer's vaccine as well as the product developed by the University of Oxford and AstraZeneca, which is meant to be given in doses separated by 4 weeks.
+
+So far, health officials in the United States have been adamantly opposed to the idea, saying it is not supported by the data gathered in clinical trials. "The approach some countries are taking of delaying the booster shot could backfire and could decrease confidence in the vaccines," Moncef Slaoui, scientific adviser of Operation Warp Speed, the federal effort to accelerate vaccines, said on Sunday night [3 Jan 2021].
+
+In the late-stage clinical trial that found the vaccine from Pfizer-BioNTech to be highly effective, participants generally received their 2nd shots about 3 weeks after the 1st, although data were included from people who received the doses as far as 7 weeks apart. In a statement on Monday [4 Jan 2021], the European Union's drug regulator, the European Medicines Agency, expressed support for sticking to the original plan for spacing the doses of the vaccine. "Any change to this would require a variation to the marketing authorization as well as more clinical data to support such a change," said Monika Benstetter, an agency spokeswoman.
+
+Since the United States began rolling out authorized vaccines from Pfizer-BioNTech and Moderna, 2nd shots of the vaccines have been sequestered to guarantee that they will be available for people who have gotten their 1st injections. Pfizer has also pushed back on the idea of additional lag time. "2 doses of the vaccine are required to provide the maximum protection against the disease," said Steven Danehy, a spokesman for Pfizer. "There are no data to demonstrate that protection after the 1st dose is sustained after 21 days."
+
+The developers of authorized vaccines have reported that a degree of protection appears to kick in after the 1st shot of vaccine, although it's unclear how quickly it may wane.
+
+Still, despite a high-level repudiation of the UK strategy from Dr Anthony S Fauci, the nation's top infectious disease expert, some scientists believe the United States should consider widening the gap between doses. Proponents of the idea argue that spreading vaccines more thinly across a population by concentrating on 1st doses may save lives.
+
+On Sunday [3 Jan 2021], Dr Robert M Wachter, the chair of the department of medicine at the University of California at San Francisco, and Dr Ashish K Jha, the dean of the Brown University School of Public Health, wrote in an opinion piece in The Washington Post that "it's time to change the plan." "The biggest mistake you can make in medicine is anchoring bias," Dr Wachter told The New York Times. "You get stuck on what you thought, and you don't shift with new information." The debate reflects frustration that so few Americans have gotten their 1st doses.
+
+As of Monday morning [4 Jan 2021], 3 weeks into the vaccination drive, 15.4 million doses of the Pfizer-BioNTech and Moderna vaccines had been shipped across the United States, but just 4.6 million people had gotten their 1st shots.
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[The debate is ongoing in Europe and the USA, in the absence of clear cut data supporting or refuting that strategy. - Mod.MPP]
+
+******
+[2] Date: Sun 3 Jan 2021
+From: Alex Martinez <almc3302@yahoo.com> [edited]
+
+
+Subject: Intradermal vaccine
+Did anyone try the COVID-19 vaccines intradermally? Vaccines in the skin may work faster and in small doses?
+
+--
+Alex Martinez
+CFIA [Canadian Food Inspection Agency]
+<almc3302@yahoo.com>
+
+[Alex Martinez asks a very good question and one that should be taken into consideration and evaluated in animal models for SARS-CoV-2. This mode of immunization has been given new consideration as technology for delivery improves. Intradermal immunization has the advantage of being immunogenic at lower dosages likely because of the abundance of antigen-presenting cells in the dermis and epidermis. This is important when a vaccine is in short supply, such as yellow fever and COVID-19 vaccines.
+
+Below are excerpts from several publications that discuss the benefits and challenges of intradermal vaccination. References can be found by accessing each of the full publications.
+
+1. Hickling JK, Jones KR, Friede M, et al. Intradermal delivery of vaccines: potential benefits and current challenges. Bull World Health Organ. 2011 Mar 1; 89(3): 221-6. doi: 10.2471/BLT.10.079426. Epub 2011 Jan 5. PMID: 21379418; PMCID: PMC3044245; https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3044245/
+--------------------------------------------------------------------------------
+Introduction
+Most vaccines are delivered by the intramuscular or subcutaneous routes using a needle and syringe; the intradermal route is only widely used for the administration of Bacille Calmette-Guérin and rabies vaccines. However there is renewed interest in intradermal vaccine delivery, driven by the fact that the dermis and epidermis of human skin are rich in antigen-presenting cells, suggesting that delivery of vaccines to these layers, rather than to muscle or subcutaneous tissue, should be more efficient and induce protective immune responses with smaller amounts of vaccine antigen.(1)
+
+Clinical trials investigating intradermal delivery and its potential for dose-sparing have been conducted with several different vaccines, with variable results. These have been reviewed in a recent report from the Program for Appropriate Technology in Health (PATH) and the World Health Organization (WHO).(2) For some vaccines, there has been a clear demonstration of dose-sparing by intradermal delivery; however, there are several gaps in knowledge as well as developmental and operational challenges to overcome if the benefits of using intradermal delivery are to be fully realized.
+
+Potential benefits
+Dose-sparing arising from intradermal delivery of vaccines could be beneficial to immunization programmes, particularly in resource-poor settings, by potentially reducing the per-injection cost (including transport and storage) of vaccines because more doses might be obtained from the existing vaccine presentation.
+
+Dose-sparing might also "stretch" the availability of vaccines in cases where supply is limited by manufacturing capacity. This is probably most relevant for pandemic influenza vaccines where global production capacity limits access to a vaccine at the start of a pandemic.(3) In 2009, H1N1 vaccine was not available in most low-income countries until 8 months after WHO's declaration of the influenza pandemic.(4)
+
+Other vaccines with potential supply constraints include yellow fever and inactivated poliovirus vaccines.(5,6) The level of demand for inactivated poliovirus vaccine in the period following eradication of wild-type polioviruses and the end of the use of oral poliovirus vaccines is uncertain, but modelling suggests that there could be a "demand spike" and supply shortage of inactivated poliovirus vaccine during this period.(6)
+
+----
+2. Criscuolo E, Caputo V, Diotti RA, et al. Alternative methods of vaccine delivery: an overview of edible and intradermal vaccines. J Immunol Res. 2019 Mar 4; 2019:8303648. doi: 10.1155/2019/8303648. PMID: 30949518; PMCID: PMC6425294; https://www.hindawi.com/journals/jir/2019/8303648/
+--------------------------------------------------------------------------------
+Numerous studies have focused on vaccines delivered to the mucosal interface or intradermally, demonstrating rapid and wide biodistribution of the antigen and the capacity to induce both protective mucosal (mainly mediated by secretory IgA (SIgA)) and systemic cellular and humoral responses (6-8).
+
+The mucosal delivery and the immune response
+The efficacy of the mucosal administration route is largely based on the fact that mucous membranes constitute the largest immunologic organ in the body. Moreover, this interface is endowed with well-organized lymphatic structures, termed mucosa-associated lymphoid tissue (MALT), containing both the innate and adaptive (T and B cells) arms of the immune system (9). Furthermore, antigen-specific SIgA plays a pivotal role in protecting mucosal surfaces from both microbe adhesion and toxin activities (8). Thus, the development of novel vaccine delivery platforms implementing the elicitation of pathogen- or toxin-specific SIgA, as well as systemic IgG, is pivotal to improve vaccine effectiveness (10).
+
+To date, the most well-studied vaccine delivery platforms capable of eliciting both mucosal and systemic immunities are edible or intradermal vaccine formulations (Figure 1).
+
+The intradermal vaccine delivery and its associated immune response
+Another vaccine delivery route capable of triggering both systemic and mucosal immunities is the intradermal route, in which the antigen is delivered through the skin using recently developed self-administrable devices. In particular, the application of microneedle technology overcomes the skin permeation barrier imposed by the stratum corneum and facilitates antigen delivery. The efficacy of this new microneedle-based immunization approach is due to the presence of several types of immune cells (such as DCs, T lymphocytes, NK cells, macrophages, and mast cells) in the epithelium (99, 100). In fact, the cells that are responsible for triggering the inflammation cascade in the skin are the Langerhans cells (comprising 2-4% of epithelial cells). Langerhans cells are a specific DC subset that migrates into the lymph node following antigen capture and aids in the initiation of an adaptive immune response (101). These cells are also efficiently stimulated by pathogen-associated molecular patterns (PAMPs) using an array of germline-encoded pattern recognition receptors (PRR), including toll-like receptors (TLR) and langerin (CD207) (100). Importantly, skin resident mast cells are also key drivers of the innate immune response in the skin through the release of granules containing inflammatory mediators (102).
+
+Intradermal vaccination
+Using conventional syringes for intramuscular or subcutaneous vaccinations, large volumes of vaccine solution can be injected (greater than or equal to 1 mL). Thus, the choice of the muscle or hypodermis as vaccination targets is mainly based on convenience (99). Intradermal immunization for vaccine delivery is an upcoming strategy showing significant advantages over conventional vaccination routes. In particular, in the last few years, intradermal vaccination has gained momentum as an alternative and more effective vaccine delivery route, both from a scientific and a commercial point of view (Table 3).
+
+Intradermal vaccination designates the delivery of an antigen directly into the dermis with a syringe, a needle, a microneedle, or a pressure injector. The standard intradermal immunization technique was invented by the French physician Charles Mantoux in 1910, while he was developing the tuberculin test. This technique allows the injection of 100-200 microL of vaccine solution. However, Mantoux's technique requires skilled medical personnel to be performed (103). Recent advancements have led to the development of techniques and instruments that can overcome the difficulties associated with intradermal administration (104). In fact, different devices have been developed over the years for intradermal vaccination. Among them, solid microneedles, particle injectors, and self-administrable patches with coated microprojections or biodegradable needles have been described (105). As previously mentioned, intradermal vaccination can induce mucosal and systemic immunities. These immunological capabilities, coupled with its ease of access, make the intradermal route an attractive vaccination delivery target (106).
+
+Intradermal vaccination has been demonstrated to be very safe. In fact, novel devices involve the use of needles with a smaller size than the usual (25 μm and 1 mm) and make it possible to bypass the corneous layer of epidermis by creating transient micropores in the cutaneous tissues. Even if some studies have shown that intradermal vaccination can be associated with a higher incidence of local reactogenicity, including primarily mild pain, swelling, and redness, systemic side effects have not been reported. In fact, the intradermal route limits the transfer of vaccine components to the blood circulation (and the risk of septic shock) and the possible toxicity due to hepatic first-pass effect (107). Typically, when present, local effects resolve quickly, as reported in a study comparing the safety and immunogenicity of a large number of intradermal versus intramuscular influenza vaccines (108).
+
+From a commercial point of view, intradermal vaccination has been primarily explored for its ability to elicit equivalent antibody responses at lower doses, a phenomenon typically described as "dose sparing" (113). In this regard, the advantage of a low dose is most evident in high-surge situations, such as during pandemic and seasonal influenza waves, in which large populations are at an increased risk and large amounts of new antigen preparations are quickly required each year (114-116). Above all, dose sparing is also important in a large-scale setting and in reducing the production-associated costs, especially in developing countries, where the price of the vaccine limits its use and coverage. In this regard, the US Food and Drug Administration (FDA) approved the trivalent inactivated intradermal influenza vaccine for use in adults 18-64 years of age for use during the 2012-2013 season, and a quadrivalent formulation was subsequently approved in 2014. However, similar to intramuscular vaccines, the formulation of these approved intradermal vaccines is liquid and thus still dependent on the cold chain and administered through a syringe. For these reasons, novel dried solid microneedle devices, while eliciting comparable immunogenicity to intramuscular-administered vaccines, represent an innovative approach to facilitate self-administration and allow vaccine storage at room temperature (117).
+
+----
+3. SARS vaccine candidates tested in vivo using intradermal injections. At least 2 of the candidates were immunogenic in mice. Note that these were all DNA constructs. The current Pfizer and Moderna vaccines are mRNA. But there is no reason mRNA would not be equally immunogenic following ID immunization. Read the abstract below. The full paper is not open access:
+
+Zakhartchouk AN, Viswanathan S, Moshynskyy I, et al. Optimization of a DNA vaccine against SARS. DNA Cell Biol. 2007 Oct; 26(10): 721-6. doi: 10.1089/dna.2007.0616. PMID: 17665998; https://www.liebertpub.com/doi/10.1089/dna.2007.0616
+--------------------------------------------------------------------------------
+Abstract
+--------
+Severe acute respiratory syndrome coronavirus (SARS-CoV) first appeared in Southern China in November 2002, and then quickly spread to 33 countries on 5 continents along international air travel routes. Although the SARS epidemic has been contained, there is a clear need for a safe and effective vaccine should an outbreak of a SARS-CoV infection reappear in human population. In this study, we tested 4 DNA-vaccine constructs: (1) pLL70, containing cDNA for the SARS-CoV spike (S) gene; (2) pcDNA-SS, containing codon-optimized S gene for SARS-CoV S protein (residues 12-1255) fused with a leader sequence derived from the human CD5 gene; (3) pcDNA-St, containing the gene encoding the N-portion of the codon-optimized S gene (residues 12-532) with the CD5 leader sequence; (4) pcDNA-St-VP22C, containing the gene encoding the N-portion of the codon-optimized S protein with the CD5 leader sequence fused with the C-terminal 138 amino acids of the bovine herpesvirus-1 (BHV-1) major tegument protein VP22. Each of these plasmids was intradermally administered to C57BL/6 mice in three separate immunizations. Analysis of humoral and cellular immune responses in immunized mice demonstrated that pcDNA-SS and pcDNA-St-VP22C are the most immunogenic SARS vaccine candidates.
+- Mod.LK
+
+In animal testing of the DNA vaccine INO4800, the intradermal route was successful in stimulating response to the vaccine
+
+Patel A, Walters J, Reuschel EL, et al. Intradermal-delivered DNA vaccine provides anamnestic protection in a rhesus macaque SARS-CoV-2 challenge model. Posted July 29 2020. doi: https://doi.org/10.1101/2020.07.28.225649.
+--------------------------------------------------------------------------------
+"Summary
+--------
+"Coronavirus disease 2019 (COVID-19), caused by the SARS-CoV-2 virus, has had a dramatic global impact on public health, social, and economic infrastructures. Here, we assess immunogenicity and anamnestic protective efficacy in rhesus macaques of the intradermal (ID)-delivered SARS-CoV-2 spike DNA vaccine, INO-4800. INO-4800 is an ID-delivered DNA vaccine currently being evaluated in clinical trials. Vaccination with INO-4800 induced T cell responses and neutralizing antibody responses against both the D614 and G614 SARS-CoV-2 spike proteins. Several months after vaccination, animals were challenged with SARS-CoV-2 resulting in rapid recall of anti-SARS-CoV-2 spike protein T and B cell responses. These responses were associated with lower viral loads in the lung and with faster nasal clearance of virus. These studies support the immune impact of INO-4800 for inducing both humoral and cellular arms of the adaptive immune system which are likely important for providing durable protection against COVID-19 disease."
+
+There are also press releases by the developers of the INO-4800 vaccine (https://www.precisionvaccinations.com/vaccines/ino-4800-dna-coronavirus-vaccine) and other potential vaccines in the pipeline (University of Nottingham https://www.findaphd.com/phds/project/development-of-an-intradermal-or-inhaled-dna-vaccine-for-covid-19-and-beyond/?p127093). - Mod.MPP]
+
+******
+[3] International snippets: Asia-Pacific, Europe
+[A] Asia- Pacific
+Date: Mon 4 Jan 2021
+Source: The Associated Press (AP) Asia Today [edited]
+https://apnews.com/article/migrant-workers-coronavirus-pandemic-asia-bangkok-thailand-3a70cec72f9935ec0096ed2e977cb4e7
+
+
+Thailand
+--------
+Thailand has registered 745 new coronavirus cases, with a new death reported in Bangkok, where a semi-lockdown went into effect. The Center of COVID-19 Situation Administration said Monday [4 Jan 2021] that the new infections bring the total number since last January [2020] to 8439, while the death toll has climbed to 65.
+
+The agency said the number included 152 Thais and 577 migrant workers in Samut Sakhon, the province next to Bangkok that is the epicenter of the new outbreak. Nearly all the infected workers were employed in fish markets and factories and are all housed in dormitories that have been closed off to the public since the recent outbreak began. Since the initial spike in late December [2020], the virus has now been found in 54 of Thailand's 73 provinces.
+
+The government has ordered all schools closed from Monday [4 Jan 2021] and had taken earlier other steps to try and restrict the spread of the virus, including closing bars, massage parlors and playgrounds, and banning all public gatherings. It has not yet closed down shopping malls or stores, while restaurants are still allowed to operate but cannot serve alcoholic beverages.
+
+Provincial governors can also order their own, tougher, measures. Bangkok authorities have announced that all eateries can only do takeaway service from 7 p.m. to 6 a.m. starting Monday [4 Jan 2021] evening. The government has been considering tougher measures if the spread of the virus does not slow down around the country.
+
+Elsewhere in the Asia-Pacific region
+------------------------------------
+- Australia
+Mask wearing has become mandatory is some circumstances in Australia's largest city [Sidney] due to the pandemic risk. People risk a 200 Australian dollar (USD 154) fine in Sydney if they don't wear masks in shopping malls, on public transport and in various indoor areas. New South Wales state Chief Health Officer Kerry Chant could not say how long the measure would be in place. The state on Monday [4 Jan 2021] reported its 1st 24-hour period without a new coronavirus infection being detected since [15 Dec 2020]. A cluster that started in Sydney last month [December 2020] has spread to Melbourne, Australia's 2nd-largest city, where masks have been mandatory since July [2020]. Australian Chief Medical Officer Paul Kelly said 3 new cases had been detected in Melbourne during the latest 24-hour period, bringing the national total to 28 504 cases since the pandemic began. Only 26 COVID-19 patients were in Australian hospitals on Monday [4 Jan 2021], and none was in an intensive care unit, Kelly said.
+
+- Japan
+Japanese Prime Minister Yoshihide Suga says vaccine approval is being speeded up to curb the spread of the coronavirus, and he promised to consider declaring a state of emergency. Tokyo Gov. Yuriko Koike and the governors of Saitama, Chiba and Kanagawa had asked the national government Saturday [2 Jan 2021] to declare the emergency after the capital saw a daily record of 1337 cases on New Year's Eve. The declaration carries no legal penalties but works as a strong warning for people to work from home, reduce nonessential outings and social distance, as well as having businesses close early. Suga told reporters the ruling party will push for a legal change when parliament reconvenes later this month [January 2021], to allow penalties for violations. He said vaccine approval is now expected this month [January 2021] instead of February [2021]. Vaccinations are expected to begin next month [February 2021].
+
+- Sri Lanka
+Sri Lankan authorities say schools will partially reopen next week [week beginning 11 Jan 2021] after being shut for nearly 3 months because of the coronavirus. Classes in primary schools will resume in most places on [11 Jan 2021], and grade 11 classes on [25 Jan 2021]. Students in grade 11 face a compulsory government exam in 2 months. However, the education ministry said it decided not to reopen schools in the capital region, where COVID-19 cases are still being detected. Schools were closed in October [2020] following outbreaks at a garment factory and a fish market. Schools in some areas reopened in November [2020] but were closed again for school holidays in December [2020]. Sri Lanka has also banned public gatherings and imposed restrictions on public transport. It has reported 44 774 cases as of Sunday [3 Jan 2021], including 213 fatalities.
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[Reading the updates one remains concerned for the situation in Thailand with continued transmission in a country that has been relatively spared to date compared with other countries. And similarly for Japan, where transmission continues at a level the country had been spared in previous months. One envies those countries with lower case counts and lower fatalities, especially when living in the epicenter country where transmission is out of control. - Mod.MPP]
+
+----
+[B] Europe
+Date: Mon 4 Jan 2021
+Source: Financial Times [edited]
+https://www.ft.com/content/3292fc38-7945-4d7e-b8ed-582146ebe782
+
+
+European countries set to extend lockdowns as COVID cases surge
+---------------------------------------------------------------
+Germany is preparing to extend its nationwide lockdown until the end of January [2021] as governments across Europe consider prolonging or strengthening restrictions to battle highly contagious mutations of coronavirus. "Premature easing would set us back very far again," Markus Soeder, the premier of Bavaria and leader of the Christian Social Union, one of Germany's governing parties, said on Sunday [3 Jan 2021] , after the heads of the country's 16 states met virtually over the weekend. "The numbers are simply still far too high," he added. "As annoying as it is, we have to stay consistent and not give up too soon again."
+
+The tally of new infections in Germany has fallen off the record highs registered in the run-up to Christmas [25 Dec 2020], when the country had roughly 30 000 cases a day. Slightly more than 10 300 infections were reported on Sunday [3 Jan 2021], although the number of submissions from test centres is always lower at the weekend.
+
+However, the 7-day infection rate in Germany stands at more than 140 per 100 000 residents, almost triple the level at which policymakers have suggested it would be safe to ease restrictions. Chancellor Angela Merkel is set to meet the heads of Germany's states on Tuesday [5 Jan 2021] to decide whether to extend the current lockdown, which expires on [10 Jan 2021].
+
+In the UK, where the 7-day rolling rate stands at almost 400 infections per 100 000 inhabitants, Prime Minister Boris Johnson suggested that the government may have to impose stricter measures and delay the reopening of schools. "We are entirely reconciled to doing what it takes to get the virus down," he told the BBC. "That may involve tougher measures in the weeks ahead."
+
+On Saturday [2 Jan 2021], the British territory of Gibraltar also imposed a 2-week lockdown after its chief minister said the virus was "propagating more quickly than we can control it".
+
+In France, the government on Saturday [2 Jan 2021] moved a nightly curfew in 15 departments in the east and south east from 8pm to 6pm. The incidence of COVID-19 in those areas has been climbing more rapidly than elsewhere, prompting local leaders to call for a harsher lockdown. The government has also delayed the planned reopening of museums and cinemas, promised for [7 Jan 2021], while restaurants and bars remain closed nationwide. Schools will reopen after Christmas holidays on Monday [4 Jan 2021]. Jerome Salomon, a French health ministry official, said on Sunday [3 Jan 2021] that the full impact of people seeing each other during the Christmas and New Year's holidays would not translate into new hospitalisations until next week, adding that the "situation was worrying", with daily infections already hovering close to 15 000, compared with 10 000 in early December [2020]. "We have another 4 months of collective effort ahead of us," Mr Salomon told the Journal du Dimanche.
+
+As top health officials in Ireland warned that the virus was "out of control" in the country, deputy prime minister Leo Varadkar said further restrictions could not be ruled out even after Dublin sharpened its national lockdown last week [week of 28 Dec 2020] for the 2nd time in 8 days. "I think the situation is very alarming. We can see hospitalisations increasing at a rapid rate, numbers in ICU increasing too," Mr Varadkar told national broadcaster RTE on Sunday. "We do need to turn off the tap. If patients continue to be admitted at the rate they're currently being admitted, then we'll run into difficulties later on in January [2021]."
+
+Mr Varadkar said the "explosion of cases" since Christmas had gone beyond any modelling. Irish health officials reported a record 4962 cases on Sunday [2 Jan 2021] -- after they warned that the figures in coming days would reflect the delayed reporting of more than 9000 new infections. Ireland's 14-day incidence rate per 100 000 was 381.6 on [1 Jan 2021] -- up from 102.4 a fortnight earlier. The extension of lockdowns across Europe comes amid harsh criticism of the EU's handling of vaccine procurement and distribution. While the US has administered more than 4m doses of Covid-19 vaccines and the UK has exceeded 1m [million], Germany has managed 238 000 and France has injected only about 350. Mr Soeder told the Bild am Sonntag newspaper that the EU had "ordered too few doses and relied on the wrong manufacturers". He called for vaccination efforts to be "massively accelerated". His comments came after Ugur Sahin, chief executive of BioNTech, the company that developed the only EU-authorised vaccine to date, told Der Spiegel magazine that "the process in Europe certainly wasn't as fast and straightforward as in other countries".
+
+[Byline: Joe Miller, Leila Abboud, Arthur Beesley]
+
+******
+[4] WHO: daily new cases reported (as of 4 Jan 2021)
+Date: Mon 4 Jan 2021
+Source: WHO [abridged, edited]
+https://covid19.who.int/table
+
+
+*Daily case reports as of 4 Jan 2021 17:33 CET
+
+Surveillance
+------------
+WHO region (no. countries/territories):
+Total confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+----------------------------------
+Western Pacific Region (19): 1 119 437 (6713) / 20 373 (85)
+European Region (61): 27 059 283 (173 812) / 591 792 (3022)
+South East Asia Region (10): 12 077 882 (26 868) / 184 941 (448)
+Eastern Mediterranean Region (22): 5 000 203 (22 351) / 122 472 (411)
+Region of the Americas (54): 36 674 670 (337 231) / 876 031 (3545)
+African Region (49): 1 978 166 (16 932) / 44 038 (446)
+Cases on an international conveyance (Diamond Princess): 745 (0) / 13 (0)
+
+Confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+Grand total: 83 910 386 (583 907) / 1 839 660 (7957)
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[The number of countries and territories reporting confirmed cases of COVID-19 to WHO remains 218.
+
+Data by country, area, or territory for 4 Jan 2021 can be accessed at https://promedmail.org/wp-content/uploads/world-pdf/2021%20WHO%20Daily%20Tables%20Jan%204_1609797810.pdf.
+
+Today's (4 Jan 2021) reports reflect 2 parts of weekend reporting artifact during a holiday weekend. In some countries that had no or decreased reporting over the holiday, there is "catch up" reporting, and in other countries they continue to not report over the weekend. Hence drawing any firm conclusions on interpretations will have to wait.
+
+- The Americas region reported 57.8% of daily case numbers and 44.6% of the daily deaths reported in the past 24 hours, but maintained its position as the most severely affected region, having reported more than 36.6 million cases. Countries not reporting include Costa Rica and Bolivia among others. Brazil continues to underreport.
+
+- The European region reported 29.8% of daily case numbers and 38.0% of the daily deaths reported in the past 24 hours, and total cumulative cases reported exceed 27.0 million. Countries not reporting cases include Spain, Belgium (2 cases), Switzerland, Sweden, Israel, Kazakhstan, and Slovenia, among others.
+
+- The Eastern Mediterranean region reported 3.8% of daily case numbers and 5.2% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 5.00 million cases. Countries not reporting any cases include Sudan, Somalia, and Yemen.
+
+- The African region reported 2.9% of daily case numbers and 5.6% of the deaths reported in the past 24 hours and has reported more than 1.97 million cases. South Africa reported over 11 800 cases, Nigeria over 900 cases and Zimbabwe almost 800 cases. Algeria, Cameroon, Cote d'Ivoire, Madagascar, and Botswana among other countries, did not report any new cases.
+
+- The Western Pacific region reported 1.1% of daily case numbers and 1.1% of the deaths reported in the past 24 hours, having reported a cumulative total of 1.11 million cases.
+
+- The South East Asia region reported 4.6% of the daily newly reported cases and 5.6% of reported deaths in the past 24 hours, having reported a cumulative total of more than 12.0 million cases. Thailand reported 1060 cases.
+
+On the Overview tab at the WHO source URL, the epidemic curve of confirmed COVID-19 cases by WHO region, 30 Dec 2019 through 4 Jan 2021, is an excellent visual representation of the pandemic. - Mod.MPP]
+
+******
+[5] Global update: Worldometer accessed 4 Jan 2021 21:50 EST (GMT-5)
+Date: Mon 4 Jan 2021
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at https://promedmail.org/wp-content/uploads/world-pdf/2021%20WORLDDATAJAN4_1609825503.pdf.
+
+A 7-day series of cumulative data reported by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/2021%20JAN4WORLD7_1609825402.pdf. - Mod.MPP]
+
+Total number of reported deaths: 1 860 427
+Total number of worldwide cases: 86 102 071
+Number of newly confirmed cases in the past 24 hours: 608 687
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[There is still some weekend reporting artifact as seen by countries not reporting: Peru, and Sweden, among others, and other countries showing marked decreases in reported cases from pre-weekend reporting (Brazil and Turkey) and other countries reporting more following days of not reporting (Spain, Switzerland).
+
+In the past 24 hours, the USA (239 523), and the UK (58 784), have reported the highest numbers of cases. A global total of 10 184 deaths were reported in the past 24 hours (3-4 Jan 2021).
+
+Countries reporting more than 10 000 newly confirmed cases in the past 24 hours (12 countries) include the USA, UK, Russia (23 351), Spain (22 126), Brazil (20 814), India (16 278), Germany (115 163), Turkey (13 695), South Africa (12 601), Mexico (11 675), Italy (10 798), and Colombia (10 311). A total of 47 countries (down from 61 countries on 31 Dec 2020) reported more than 1000 cases in the past 24 hours; 22 of the 47 countries that reported more than 1000 newly confirmed cases are from the European region, 11 are from the Americas region, 8 are from the Eastern Mediterranean region, 2 are from the South East Asia region, 2 are from the Western Pacific region, and 2 from the African region.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, case counts have increased by 12.1%, while daily reported deaths have increased by 8.9%. Similar comparative 7-day averages in the United States show a 17.8% increase in daily reported cases and a 16.5% increase in reported deaths.
+
+Impression: The global daily reported cases are over 600 000 newly confirmed infections in the past 24 hours and over 85 million cumulative reported cases with over 1.85 million reported deaths. Countries in the European and the Americas regions are still showing the largest increases in daily new case counts, even with reductions in daily case reports due to the period, followed by the Eastern Mediterranean, South East Asia, and Western Pacific regions. Sobering data is that even though there is still significant weekend holiday reporting artifact with reduced cases and deaths reported during this period, comparative 7-day averages are reflecting renewed significant increases of newly confirmed cases and deaths both globally and in the USA where transmission continues to be out of control. - Mod.MPP]
+See Also
+COVID-19 update (04): India vaccines, Nigeria, Thailand, transmission, WHO, global 20210104.8068745
+COVID-19 update (03): UK hospital preparedness, vaccination, travel, WHO 20210103.8067340
+COVID-19 update (02): variants, vaccine, WHO 20210102.8064627
+COVID-19 update (01): variants, vaccine, Thailand, global, WHO 20210101.8062938
+2020
+----
+COVID-19 update (562): viral load, UK vacc dose, ECDC, WHO 20201231.8061525
+COVID-19 update (561): variants, China serosurvey, psychosis, WHO 20201230.8057135
+COVID-19 update (560): variants, Thailand, viral shedding, WHO 20201229.8054081
+COVID-19 update (550): mutation, query, Thailand, Taiwan, WHO, global, RFI 20201223.8040292
+COVID-19 update (540): S Africa MIS-C, USA risk factors, Iran serosurvey, WHO global 20201216.8021945
+COVID-19 update (530): animal, mink, research, experimental infection, vaccine 20201210.8009205
+COVID-19 update (520): Denmark, Netherlands, mink, human-animal interface, WHO 20201204.7994061
+COVID-19 update (510): animal, mink, Lithuania, Poland, 1st reports, France, OIE 20201127.7976927
+COVID-19 update (500): frequent rapid tests, vaccine, WHO, global 20201122.7962919
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+Undiagnosed pediatric inflammatory syndrome (05): Europe, USA, COVID-19 assoc 20200518.7340554
+Undiagnosed pediatric inflammatory syndrome (04): USA, UK, PMIS, fatal 20200509.7315405
+Undiagnosed pediatric inflammatory syndrome (03): USA, Europe, COVID-19 susp, RFI 20200505.7299876
+COVID-19 update (150): global, USA state prisons, WHO 20200502.7290671
+COVID-19 update (100): China, S. Korea & high local transmission countries 20200413.7217806
+COVID-19 update (50): China (Hong Kong) animal dog, 2nd case PCR positive, OIE 20200323.7129951
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (41): China, global, clinical pics, asymptomatic trans., WHO 20200210.6976117
+Novel coronavirus (40): animal reservoir, pangolin poss intermediate host, RFI 20200210.6972104
+Novel coronavirus (30): updates, China, Viet Nam, research 20200202.6945658
+Novel coronavirus (20): China, wildlife trade ban 20200127.6922060
+Novel coronavirus (10): China (HU, GD, BJ) 20200119.6898567
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia: China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia: China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+----
+Undiagnosed pneumonia: China (HU): RFI 20191230.6864153
+and other items in the archives
+.................................................sb/sh/lk/mpp/mj/jh
+</body>

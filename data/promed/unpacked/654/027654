@@ -1,0 +1,158 @@
+<header id=027654>
+Published Date: 2015-04-18 15:41:11 EDT
+Subject: PRO/AH/EDR> MERS-CoV (39): Saudi Arabia, new case, genome sequencing
+Archive Number: 20150418.3306797
+</header>
+<body id=027654>
+MERS-COV (39): SAUDI ARABIA, NEW CASE, GENOME SEQUENCING
+********************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this posting:
+[1] Saudi Arabia, 1 new case - MOH 17-18 Apr 2015
+[2] Genome sequencing available
+
+******
+[1] Saudi Arabia, 1 new case - MOH 17-18 Apr 2015
+Date: 17-18 Apr 2014
+Source: Saudi Arabia Ministry of Health [edited]
+http://www.moh.gov.sa/en/CCC/PressReleases/Pages/default.aspx
+
+
+In the past 2 days since the last ProMED update on 16 Apr 2015, there has been only 1 newly confirmed case of MERS-CoV infection reported (on 17 Apr 2015). There have been no reports of new fatalities nor of new recoveries during this period.
+
+As of today, 18 Apr 2015 there have been a total of:
+979 laboratory confirmed cases of MERS-CoV infection reported by Saudi Arabia including
+427 deaths
+548 recoveries and
+4 currently active cases
+
+The newly confirmed case on 17 Apr 2015 involved a 65 year old non-healthcare worker, Saudi male reported from Dhuba, who was noted to be in Stable condition. He did not have a history of contact with suspected or confirmed case(s) of MERS-CoV in either the healthcare environment or in the community. No further information on this case was available (see http://www.moh.gov.sa/en/CCC/PressReleases/Pages/Statistics-2015-04-17-001.aspx).
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The downward trend of reported cases of MERS-CoV infection in Saudi Arabia continues. As of the most recent ECDC (European Centre for Disease Prevention and Control) tally effective 16 Apr 2015, there have been a total of 1123 cases of MERS-CoV reported by local health authorities worldwide, including 463 deaths (see http://ecdc.europa.eu/en/publications/Publications/communicable-disease-threats-report-18-April-2015.pdf). A map showing the location of Dhuba can be found at http://www.moh.gov.sa/en/CCC/PressReleases/Pages/Statistics-2015-04-17-001.aspx. - Mod.MPP]
+
+******
+[2] Genome sequencing available
+Date: Wed 15 Apr 2015
+From: Matthew Cotton <mc13@sanger.ac.uk> [edited]
+
+
+[ProMED-mail would like to apologize for the delay in posting this important information. - Mod.MPP]
+
+In a collaborative effort between the Saudi Ministry of Health, King Saud University, Riyadh, King Khalid University Hospital, Riyadh, the US CDC, and the Wellcome Trust Sanger Institute, we are monitoring the evolution and transmission patterns of the MERS-coronavirus. A set of 22 new MERS-CoV sequences from April-November 2014 have just been completed. A preliminary phylogenetic analysis and a link to the sequence data can be found on the Virological MERS-CoV site (http://virological.org/c/mers-coronavirus).
+
+--
+Dr Matthew Cotten
+Wellcome Trust Sanger Institute,
+Hinxton
+United Kingdom
+<mc13@sanger.ac.uk>
+
+[ProMED-mail would like to thank Dr Cotten and colleagues for sharing this information. We've taken the liberty to reproduce the report found at http://virological.org/t/new-mers-cov-sequences-april-nov-2014-and-preliminary-analysis/114 (and edited according to ProMED-mail formatting/presentation style).
+
+Ref: Barry MA, Al Subaie SS, Somily AM, et al: Recent evolution patterns of the Middle East respiratory syndrome coronavirus (MERS-CoV). Virological.org
+----------------------------------------------------------------------
+In a collaborative effort between the Kingdom of Saudi Arabia (KSA) Ministry of Health, King Saud University, Riyadh, King Khalid University Hospital, Riyadh, the US CDC, and the Wellcome Trust Sanger Institute, we are monitoring the evolution and transmission patterns of MERS-CoV
+
+Summary
+-------
+PCR-positive upper respiratory samples from confirmed MERS cases identified from May-November 2014 in Jeddah and Riyadh, [Kingdom of Saudi Arabia] were amplified and subjected to deep sequencing with paired 149 nt Illumina MiSeq data followed by de novo assembly [1,2]. 22 samples yielded phylogenetically useful sequences and 8 samples yielded full MERS-CoV genomes (greater than 28 000 nt). The novel sequences are available at the following link in a simple alignment or as an alignment with all available MERS-CoV genomic data. (https://tinyurl.com/MERS-CoV-15May15)
+
+Disclaimer
+----------
+We make these sequence data publically available with the hope that they are useful for other scientists and the caveat that they are preliminary and still undergoing quality control. A manuscript analyzing the phylogenetic patterns in more detail is in preparation. If investigators would like to use these sequence data for publication prior to release of our paper, please contact us.
+
+Phylogenetic patterns
+---------------------
+The recent MERS-CoV sequences fell into 3 main groups [see Figure 1 -- Bayesian phylogeny of 157 MERS-CoV isolates inferred from a multiple sequence alignment of 30055 nucleotides -- available at the source URL]. 6 of the novel Riyadh sequences clustered in the Riyadh_KKUH clade, comprising Riyadh sequences from April 2014 [3], and Indiana_USA_2014 (obtained from a health care worker (HCW) who had worked in Riyadh and then traveled to the USA [4]). A 2nd group of 6 newly generated Riyadh sequences clustered in the Hafr-al-Batin_1 (HAB_1) lineage and also included the 2 most recent sequences from November 2014, both from a single patient. The novel Jeddah sequences form part of the Jeddah_KFH clade and are related to Florida_USA_2014 (from a HCW who had worked in Jeddah and traveled to the USA [4]) and to other published Jeddah sequences from April 2014 [3].
+
+The large Riyadh outbreak in the Spring 2014 appeared to be the result of multiple independent viruses (see also the blue clades 1-6 in [3]). The new sequence data identified an additional MERS-CoV source comprising Riyadh_KKUH_104_25Apr14, Riyadh_KKUH_105_25Apr14, Riyadh_KKUH_173_27Apr14, Riyadh_KKUH_294b_06May14, and possibly Riyadh_KKUH_395_17May14.
+
+The 2 most recent sequences (Riyadh_KKUH_643_02Nov14 and Riyadh_KKUH_665_19Nov14) were of interest as there was a modest increase in cases reported in Riyadh in November 2014 (some with camel contact some with hospital contact). These 2 sequences, although clustering in the HAB_1 lineage, encode an altered spike protein with unique polymorphisms (Figure 2 -- Protein changes in the spike encoded by recent MERS-CoV -- available at the source URL), suggesting a recombinant.
+
+Spike protein changes
+---------------------
+It is important to monitor evolution in the coronavirus spike region. Changes in the spike protein accompanied the evolution of the SARS coronavirus and may be an important marker of increased transmissibility. Multiple changes in spike protein were observed in the recent samples, with changes in or near to the receptor-binding domain (RBD) (Figure 2). An L411F change near the RBD was present in Indiana_USA_2014 and the related Riyadh sequences, while the novel Riyadh sequences in the HAB_1 clade have R542T, which lies within the RBD. However, neither of these Riyadh changes appeared in the 2 most recent Riyadh sequences (Riyadh_KKUH_643_02Nov14, Riyadh_KKUH_665_19Nov14), which display a T477A change near the RBD. The Jeddah sequences encoded a Q833R change. None of the recent changes were found to be under positive selection using any of the selection methods within the Datamonkey suite [5].
+
+Evolutionary rate
+-----------------
+The updated evolutionary rate of the virus is 8.37x10-4 (95 percent CI [confidence interval]: 6.71x10-4, 1.01x10-3). From the phylogeny, the root of the tree (last common ancestor between human MERS and the Egyptian camels) is September 2010 (95 percent CI: November 2009, June 2011). The last common ancestor between clade A (EMC/2012 and Jordan-N3/2012) and B (rest of human isolates) is October 2010 (95 percent CI: January 2010, June 2011) and the root of clade B is November 2011(95 percent CI: June 2011, April 2012).
+
+References
+----------
+1. Cotten M, Lam TT, Watson SJ, et al: Full-genome deep sequencing and phylogenetic analysis of novel human betacoronavirus. Emerg Infect Dis. 2013; 19(5): 736-42B; [abstract available at http://www.ncbi.nlm.nih.gov/pubmed/23693015].
+2. Cotten M, Watson SJ, Zumla AI, et al: Spread, circulation, and evolution of the Middle East respiratory syndrome coronavirus. mBio 2014; 5(1): e01062-13; [available at http://mbio.asm.org/content/5/1/e01062-13.abstract].
+3. Drosten C, Muth D, Corman VM, et al: An observational, laboratory-based study of outbreaks of middle East respiratory syndrome coronavirus in Jeddah and Riyadh, Kingdom of Saudi Arabia, 2014. Clin Infect Dis 60(3): 369-77; [available at http://cid.oxfordjournals.org/content/60/3/369.long].
+4. Bialek SR, Allen D, Alvarado-Ramy F, et al: First confirmed cases of Middle East respiratory syndrome coronavirus (MERS-CoV) infection in the United States, updated information on the epidemiology of MERS-CoV infection, and guidance for the public, clinicians, and public health authorities -- May 2014. MMWR Morb Mortal Wkly Rep 63(19): 431-6; [available at http://www.cdc.gov/mmwr/preview/mmwrhtml/mm6319a4.htm].
+5. Delport W, Poon AF, Frost SD, Kosakovsky Pond SL: Datamonkey 2010: a suite of phylogenetic analysis tools for evolutionary biology. Bioinformatics 2010; 26(19): 2455-7; [available at http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2944195/>]."
+- Mod.MPP
+
+A HealthMap/ProMED-mail map can be accessed at: https://promedmail.org/promed-post?place=3306797,131.]
+See Also
+MERS-CoV (38): Saudi Arabia, new fatalities, serosurvey 20150416.3291924
+MERS-CoV (37): Saudi Arabia, new cases, WHO 20150409.3287570
+MERS-CoV (36): Saudi Arabia, new cases, WHO 20150327.3257815
+MERS-CoV (35): Saudi Arabia, new cases, deaths, WHO 20150325.3247564
+MERS-CoV (34): Saudi Arabia, Qatar, WHO, sequence, RFI 20150313.3222697
+MERS-CoV (33): Saudi Arabia, Germany ex UAE, WHO 20150309.3217977
+MERS-CoV (32): Qatar, Saudi Arabia, RFI 20150309.3216519
+MERS-CoV (31): Saudi Arabia, Germany ex UAE, RFI 20150308.3215456
+MERS-CoV (30): Saudi Arabia, new cases, deaths, WHO, RFI 20150306.3213079
+MERS-CoV (29): UAE (Dubai) animal reservoir, camel 20150303.3204214
+MERS-CoV (28): Saudi Arabia, cases, deaths, WHO 20150303.3197017
+MERS-CoV (27): Saudi Arabia, animal reservoir, camel 20150302.3200502
+MERS-CoV (26): Saudi Arabia, new cases, deaths, WHO, RFI 20150225.3186568
+MERS-CoV (25): Saudi Arabia, new cases, deaths, Philippines, RFI 20150222.3180612
+MERS-CoV (24): Saudi Arabia, new cases, new deaths, RFI 20150217.3173370
+MERS-CoV (23): Saudi Arabia, new cases, comment, WHO 20150216.3170662
+MERS-CoV (22): Saudi Arabia, new cases, RFI 20150215.3168873
+MERS-CoV (21): Saudi Arabia, new cases, new deaths, RFI 20150214.3167451
+MERS-CoV (20): Saudi Arabia, Philippines, WHO, RFI 20150213.3165359
+MERS-CoV (19): Saudi Arabia, Qatar, UAE, Philippines, WHO, RFI 20150212.3160052
+MERS-CoV (18): animal reservoir, camel, Israel survey, bat, RFI 20150210.3156453
+MERS-CoV (17): Saudi Arabia, new cases, WHO 20150207.3148681
+MERS-CoV (16): Qatar, Saudi Arabia, RFI 20150203.3138313
+MERS-CoV (15): Saudi Arabia, new cases 20150130.3126681
+MERS-CoV (14): Saudi Arabia, Oman, WHO 20150124.3114951
+MERS-CoV (13): Saudi Arabia, new cases 20150122.3111739
+MERS-CoV (12): animal reservoir, camels debated, case-control study, RFI 20150122.3109335
+MERS-CoV (11): Saudi Arabia, new cases, deaths, WHO 20150121.3108145
+MERS-CoV (10): Saudi Arabia, new cases, new death 20150119.3103976
+MERS-CoV (09): Saudi Arabia, animal reservoir, camels debated 20150117.3098294
+MERS-CoV (08): Oman, Saudi Arabia, WHO 20150117.3097488
+MERS-CoV (07): Saudi Arabia, new cases 20150114.3092794
+MERS-CoV (06): Oman, new case, RFI 20150111.3085228
+MERS-CoV (05): Saudi Arabia, new cases 20150109.3082724
+MERS-CoV (04): Oman, Saudi Arabia, RFI 20150108.3079584
+MERS-CoV (03): Saudi Arabia, new cases, new fatality, Jordan, WHO 20150107.3077259
+MERS-CoV (02): Saudi Arabia, new case, new fatality, WHO 20150105.3072814
+MERS-CoV (01): Saudi Arabia, new cases, new death 20150104.3069383
+2014
+----
+MERS-CoV (69): Saudi Arabia, new case, RFI 20141230.3063059
+MERS-CoV (68): Jordan, Saudi Arabia, RFI 20141229.3057913
+MERS-CoV (64): Saudi Arabia, new case, camel workers 2012 20141206.3014451
+MERS-CoV - Eastern Mediterranean (42): Saudi Arabia, genome sequencing, Jeddah 20140426.2432140
+MERS-CoV (01): Bangladesh, KSA, Algeria, UAE, Iran, WHO, RFI 20140616.2541707
+MERS-CoV - Eastern Mediterranean (80): S Arabia, Iran, Algeria, Tunisia 20140612.2534478
+2013
+----
+MERS-CoV - Eastern Mediterranean (25): Saudi Arabia, genome 20130612.1768944
+MERS-CoV - Eastern Mediterranean: Saudi Arabia, new case, RFI 20130518.1721601
+Novel coronavirus - Eastern Mediterranean (29): MERS-CoV, ICTV nomenclature 20130516.1717833
+Novel coronavirus - East. Med. (07): Saudi Arabia, UK, Germany 20130221.1554109
+2012
+----
+Novel coronavirus - Saudi Arabia (18): WHO, new cases, cluster 20121123.1421664
+Novel coronavirus - Saudi Arabia: human isolate 20120920.1302733
+.................................................mpp/mj/jw
+</body>

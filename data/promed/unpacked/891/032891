@@ -1,0 +1,296 @@
+<header id=032891>
+Published Date: 2022-06-10 21:47:06 EDT
+Subject: PRO/AH/EDR> COVID-19 update (137): long COVID, police deaths, vaccines, WHO, global
+Archive Number: 20220611.8703803
+</header>
+<body id=032891>
+CORONAVIRUS DISEASE 2019 UPDATE (137): LONG COVID, POLICE DEATHS, VACCINES, WHO, GLOBAL
+***************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] Long COVID
+[2] Police deaths
+[3] Moderna vaccine
+[4] Novovax vaccine
+[5] WHO: daily new cases reported (as of 8 Jun 2022)
+[6] Global update: Worldometer accessed 8 Jun 2022 20:06 EDT (GMT-4)
+
+******
+[1] Long COVID
+Date: Tue 7 Jun 2022
+Source: NIH Director's blog [edited]
+https://directorsblog.nih.gov/2022/06/07/using-artificial-intelligence-to-advance-understanding-of-long-covid-syndrome/
+
+
+Using AI to Advance Understanding of Long COVID Syndrome
+--------------------------------------------------------
+The COVID-19 pandemic continues to present considerable public health challenges in the United States and around the globe. One of the most puzzling is why many people who get over an initial and often relatively mild COVID illness later develop new and potentially debilitating symptoms. These symptoms run the gamut including fatigue, shortness of breath, brain fog, anxiety, and gastrointestinal trouble.
+
+People understandably want answers to help them manage this complex condition referred to as Long COVID syndrome. But because Long COVID is so variable from person to person, it's extremely difficult to work backwards and determine what these people had in common that might have made them susceptible to Long COVID. The variability also makes it difficult to identify all those who have Long COVID, whether they realize it or not. But a recent study, published in the journal Lancet Digital Health, shows that a well-trained computer and its artificial intelligence can help.
+
+Researchers found that computers, after scanning thousands of electronic health records (EHRs) from people with Long COVID, could reliably make the call. The results, though still preliminary and in need of further validation, point the way to developing a fast, easy-to-use computer algorithm to help determine whether a person with a positive COVID test is likely to battle Long COVID.
+
+In this groundbreaking study, NIH-supported researchers led by Emily Pfaff, University of North Carolina, Chapel Hill, and Melissa Haendel, the University of Colorado Anschutz Medical Campus, Aurora, relied on machine learning. In machine learning, a computer sifts through vast amounts of data to look for patterns. One reason machine learning is so powerful is that it doesn't require humans to tell the computer which features it should look for. As such, machine learning can pick up on subtle patterns that people would otherwise miss.
+
+In this case, Pfaff, Haendel, and team decided to "train" their computer on EHRs from people who had reported a COVID-19 infection. (The records are de-identified to protect patient privacy.) The researchers found just what they needed in the National COVID Cohort Collaborative (N3C), a national, publicly available data resource sponsored by NIH's National Center for Advancing Translational Sciences. It is part of NIH's Researching COVID to Enhance Recovery (RECOVER) initiative, which aims to improve understanding of Long COVID.
+
+The researchers defined a group of more than 1.5 million adults in N3C who either had been diagnosed with COVID-19 or had a record of a positive COVID-19 test at least 90 days prior. Next, they examined common features, including any doctor visits, diagnoses, or medications, from the group's roughly 100 000 adults.
+
+They fed that EHR data into a computer, along with health information from almost 600 patients who'd been seen at a Long COVID clinic. They developed 3 machine learning models: one to identify potential long COVID patients across the whole dataset and 2 others that focused separately on people who had or hadn't been hospitalized.
+
+All 3 models proved effective for identifying people with potential Long-COVID. Each of the models had an 85% or better discrimination threshold, indicating they are highly accurate. That's important because once researchers can identify those with Long COVID in a large database of people such as N3C, they can begin to ask and answer many critical questions about any differences in an individual's risk factors or treatment that might explain why some get Long COVID and others don't.
+
+This new study is also an excellent example of N3C's goal to assemble data from EHRs that enable researchers around the world to get rapid answers and seek effective interventions for COVID-19, including its long-term health effects. It's also made important progress toward the urgent goal of the RECOVER initiative to identify people with or at risk for Long COVID who may be eligible to participate in clinical trials of promising new treatment approaches.
+
+Long COVID remains a puzzling public health challenge. Another recent NIH study published in the journal Annals of Internal Medicine set out to identify people with symptoms of Long COVID, most of whom had recovered from mild-to-moderate COVID-19 [2]. More than half had signs of Long COVID. But, despite extensive testing, the NIH researchers were unable to pinpoint any underlying cause of the Long COVID symptoms in most cases.
+
+So if you'd like to help researchers solve this puzzle, RECOVER is now enrolling adults and kids -- including those who have and have not had COVID -- at more than 80 study sites around the country.
+
+References:
+[1] Identifying who has long COVID in the USA: a machine learning approach using N3C data. Pfaff ER, Girvin AT, Bennett TD, Bhatia A, Brooks IM, Deer RR, Dekermanjian JP, Jolley SE, Kahn MG, Kostka K, McMurry JA, Moffitt R, Walden A, Chute CG, Haendel MA; N3C Consortium. Lancet Digit Health. 16 May 2022:S2589-7500(22)00048-6.
+[2] A longitudinal study of COVID-19 sequelae and immunity: baseline findings. Sneller MC, Liang CJ, Marques AR, Chung JY, Shanbhag SM, Fontana JR, Raza H, Okeke O, Dewar RL, Higgins BP, Tolstenko K, Kwan RW, Gittens KR, Seamon CA, McCormack G, Shaw JS, Okpali GM, Law M, Trihemasava K, Kennedy BD, Shi V, Justement JS, Buckner CM, Blazkova J, Moir S, Chun TW, Lane HC. Ann Intern Med. 24 May 2022:M21-4905.
+
+[Byline: Lawrence Tabak]
+
+--
+Communicated by:
+Claudinne Miller
+Tulane Outbreak News
+<cmiller15@tulane.edu>
+
+******
+[2] Police deaths
+Date: Tue 7 Jun 2022
+Source: CIDRAP (Center for Infectious Disease Research and Policy) [edited]
+https://www.cidrap.umn.edu/news-perspective/2022/06/covid-19-was-leading-cause-duty-related-police-deaths-2020
+
+
+COVID-19 was leading cause of duty-related police deaths in 2020
+----------------------------------------------------------------
+COVID-19 caused 62% of duty-related deaths of US police officers in the 1st year of the pandemic -- a rate that rose to 77% to 82% among minority officers -- according to a new study published in Policing: An International Journal. [John M. Violanti, Desta Fekedulegn, Erin McCanlies, et al. Proportionate mortality and national rate of death from COVID-19 among US law enforcement officers: 2020. Policing: An International Journal. ISSN: 1363-951X. Article publication date: 24 May 2022]
+
+Researchers from the State University of New York (SUNY) at Buffalo, the Centers for Disease Control and Prevention (CDC), and the National Institute for Occupational Safety and Health (NIOSH) mined the National Law Enforcement Officer Memorial Fund database, which tracks law-enforcement officers who die while on duty, and the Bureau of Labor Statistics for 2020.
+
+Age, race, rank all risk factors
+--------------------------------
+Of the 295 duty-related deaths, 182 (62%) were attributed to COVID-19, for a national rate of 12.8 per 100 000 officers per year, higher than that of all other causes of death combined (8.0 per 100 000). Most deaths occurred in spring and summer. The remaining 38% of deaths were attributed to gunshot wounds, vehicle crashes, other diseases, accidents, drownings, and beatings.
+
+The vast majority of officers who died of COVID-19 (94%) were men, 61.6% were older than 50 years, 54% had more than 20 years of experience, and 50.0% were lower-ranking (patrol and corrections) officers -- who are likely at higher risk owing to high rates of infection in crowded prisons -- the researchers said. COVID-19 caused 35 of 36 corrections officer deaths (97%), compared with 56 of 130 patrol officer deaths (43%).
+
+On average, relative to officers who died of other causes, those who died of COVID-19 were significantly older (53.0 vs 41.3 years), had more experience (21.3 vs 12.7 years), and less likely to be White than Hispanic or Black (40.0% vs 71%). COVID-19 accounted for 48% of deaths (73 of 153) among White, 77% (66 of 86) among Black, and 82% (37 of 45) among Hispanic or Latino officers.
+
+Half of COVID-19 deaths occurred in southern states, a difference driven by deaths among federal police, who are considered separately because their jurisdictions are dispersed throughout the United States. Federal police made up 12% of COVID-19 deaths but only 4% of those from other causes.
+
+Vaccination, good ventilation key
+---------------------------------
+The study authors noted that police officers, like other first responders, can't avoid close contact with the public. They added that, in 2020, police were charged with coordinating local lockdowns and promoting physical distancing amid reduced staffing, low levels of organizational and public support, and a limited supply of personal protective equipment.
+
+"The COVID-19 outbreak has persisted with the delta and omicron variants, which may lead to further exposure and long-term mental issues such as PTSD (posttraumatic stress disorder), depression, or anxiety," they wrote. "Psychological issues, in turn are associated with worsened job attitudes, higher turnover, decreased job performance, and health issues."
+
+The researchers called for evaluation and development of measures to reduce the risk of law-enforcement officer deaths related to future pandemics, including vaccination, although they acknowledge that vaccination rates tend to be the same as or lower than those of the general public. Because police departments hesitate to require vaccination because it may create conflicts with officers and police unions, some cities are considering offering incentives to increase uptake, they said.
+
+"The government and police organizations need to understand the risk of death among police while working in a disaster-framed environment for prolonged time and make informed decisions about preparedness strategies that may help in mitigating such risks during dynamic extreme events," the researchers wrote, cautioning that the study data are descriptive and should be interpreted as such.
+
+The authors said that the results could also apply to other first responders, such as firefighters and paramedics.
+
+"To help prevent the spread of COVID-19, the Occupational Safety and Health Administration recommends that organizations implement multiple layers of controls, including vaccinations, mask wearing, distancing, and increased ventilation in situations where police, first responders, and other at-risk workers are more likely to be in prolonged, close contact with the public," lead author John Violanti, PhD, a retired New York state trooper and expert on police stress, said in a SUNY press release. [https://www.eurekalert.org/news-releases/955045]
+
+[Byline: Mary Van Beusekom]
+
+--
+Communicated by:
+Mary Marshall
+<mjm2020@googlemail.com>
+
+[The same personal protective measures apply to police officers, prison wardens, and first responders as to the general public, only more so since they have such high exposure to infected individuals. As has been observed in the general population, race and ethnicity are high risk factors, along with socioeconomic status. This is the 1st study to examine law enforcement deaths from COVID-19 on a national level, demonstrating the widespread risk from COVID that officers face on the job. It is important that these personnel get fully vaccinated with booster doses, wear masks, and attempt to maintain personal distance whenever possible. - Mod.LK]
+
+******
+[3] Moderna vaccine
+Date: Wed 8 Jun 2022
+Source: CBS News [edited]
+https://www.cbsnews.com/news/covid-vaccine-moderna-new-booster-antibodies/
+
+
+Moderna says updated COVID booster is superior to original vaccine shots, could begin shipping by August [2022]
+--------------------------------------------------------------------------------
+Moderna announced new data on Wednesday [8 Jun 2022] suggesting a new version of its COVID-19 vaccine will offer superior protection to its original formulation of shots, based on studying antibodies generated by their new boosters in blood samples of trial participants. The company said in a release that it plans to submit its data to the Food and Drug Administration in the coming weeks. If the FDA signs off, doses of the updated vaccine and boosters could be ready to ship "as early as August [2022]."
+
+Moderna's announcement comes ahead of a meeting of the regulator's outside vaccine advisers, scheduled for later this month [June 2022], that will weigh key decisions around potential changes to COVID-19 boosters that may be administered this fall. "As we look to the fall infection season with respiratory viruses, with SARS-CoV-2, and the ongoing circulation of omicron and its subvariants, we believe strongly that this data supports an update of the vaccine from the sequence that we've been using from years ago," Moderna's president Dr. Stephen Hoge told investors on Wednesday [8 Jun 2022].
+
+Moderna's data comes from testing a 50 microgram "bivalent" version of its vaccine. Unlike the current "monovalent" version of the vaccine, which was designed to target the original "ancestral" strain of the virus, Moderna's new booster doses will add in a version of its vaccine targeted to the omicron variant. The company also said the booster "was generally well-tolerated, with side effects comparable to a booster" of its original vaccine at the same size.
+
+Moderna did not announce data showing how the higher antibodies generated by its bivalent vaccine might translate into actual effectiveness against the virus. However, the company said it was optimistic its findings will be sufficient to meet guidelines laid out by the FDA for allowing updated shots. "We have obviously been engaged with regulators globally, including the FDA in the United States, about the criteria for this study since the early part of this year [2022]. And have reviewed those protocols and designed the study to meet that guidance," Hoge said.
+
+Pfizer and its partner BioNTech also say they are testing new versions of their COVID-19 vaccine. The FDA has asked to see those results ahead of the meeting of FDA's Vaccines and Related Biological Products Advisory Committee (VRBPAC) later this month [June 2022].
+
+Regulators have so far been wary of prematurely authorizing a change to the shots, citing the possibility that the onslaught of new variants could render the strategy futile -- outrunning decisions to dump the current vaccine supply with only marginal improvements.
+
+But, federal health officials have said they hope a bivalent approach might offer broader protection. The mix of vaccines might guard against not just omicron but also future variants of concern that are expected to drive a fall and winter wave of infections. Moderna's executives said Wednesday [8 Jun 2022] that the company has already been working to scale up manufacturing of components that will be needed for the new booster.
+
+"We are confident that through the next several months of hard work, we will be able to supply substantial, large amounts of the updated bivalent booster. Hopefully sufficient to meet all demand that's out there for this updated vaccine through the fall season," said Hoge.
+
+FDA officials have previously said that they expect greenlighting a "booster strain change" to the COVID-19 vaccines will likely mean swapping out the shots not just for booster doses but also the primary series that is offered to any adults who are still unvaccinated.
+
+Moderna's executives told investors that they are also preparing to study the updated shots in children as well, but noted that it was possible the FDA might not need those studies in order to greenlight an update for the supply of doses in all ages.
+
+They cited the current process for deciding on updates to the U.S. stock of flu shots, which does not rely on specific studies to greenlight changes in different age groups.
+
+Currently, only the shots from Pfizer-BioNTech are authorized for any Americans under 18. Moderna's request to allow vaccinating children as young as 6 months old with a smaller dose of its original vaccine is expected to go before the FDA's advisory committee, VRBPAC, on [14-15 June 2022].
+
+"It's important that, before we go too far down the path of deciding that data is necessary, we do need to hear from regulators, including the FDA in VRBPAC next week," said Hoge.
+
+[Byline: Alexander Tin]
+
+--
+Communicated by:
+Mary Marshall
+<mjm2020@googlemail.com>
+
+[Also see Moderna's announcement at https://investors.modernatx.com/news/news-details/2022/Moderna-Announces-Omicron-Containing-Bivalent-Booster-Candidate-mRNA-1273.214-Demonstrates-Superior-Antibody-Response-Against-Omicron/default.aspx
+
+The new vaccine is an "omicron-containing bivalent COVID booster candidate, mRNA-1273.214, containing mRNA-1273 (Spikevax) and a vaccine candidate targeting the omicron variant of concern" in a 50 µg booster dose. - Mod.LK]
+
+******
+[4] Novovax vaccine
+Date: Tue 7 Jun 2022
+Source: Reuters [edited]
+https://reut.rs/3aNBrnX
+
+
+Novavax COVID vaccine gets backing of U.S. FDA advisers
+-------------------------------------------------------
+Advisers to the U.S. Food and Drug Administration on Tuesday [7 Jun 2022] voted to recommend authorization of Novavax Inc's (NVAX.O) COVID-19 vaccine for adults.
+
+[Byline: Manas Mishra]
+
+--
+Communicated by:
+ProMED
+
+["The nod from the VRPBAC (Vaccines and Related Biological Products Advisory Committee) comes as the pool of Americans seeking a booster shot continues to nosedive. The 7-day average for booster shots administered daily was about 55 600 this week, down from over a million in early December [2021], according to data from the Centers for Disease Control and Prevention. The agency says only about half of booster-eligible people have gotten one so far -- a clear sign of vaccine fatigue. These days, the bigger problem is a surplus of vaccines, with 82 million vaccine doses discarded over the past year and a half as demand declines.
+
+Making matters trickier for Novavax, a likely FDA approval at this stage would only clear its shot for those who have yet to be vaccinated, not for those seeking a booster. Novavax says its shot, which uses a more traditional protein-based technology, could appeal to people reluctant to receive the vaccines made by Pfizer-BioNTech or by Moderna, which are based on the newer gene-based technology known as mRNA. The FDA advisers were skeptical of that argument, though they said it would be good to offer Americans more choices. ..." (from https://www.wsj.com/articles/novavaxs-new-covid-19-vaccine-might-be-late-to-the-party-11654697078) - Mod.LK]
+
+******
+[5] WHO: daily new cases reported (as of 8 Jun 2022)
+Date: Wed 8 Jun 2022
+Source: WHO [abridged, edited]
+https://covid19.who.int/table
+
+
+*Daily case reports as of 8 Jun 2022 16:48 CET
+
+Surveillance
+------------
+WHO region (no. countries/territories):
+Total confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+--------------------------------------------------------------------------------
+Western Pacific Region (19): 61 430 277 (157 005) / 232 811 (243)
+European Region (61): 221 955 915 (181 237) / 2 016 761 (460)
+South East Asia Region (10): 58 194 480 (7986) / 789 064 (28)
+Eastern Mediterranean Region (22): 21 802 6606 (4911) / 342 939 (20)
+Region of the Americas (54): 158 491 592 (185 321) / 2 746 617 (470)
+African Region (49): 9 020 713 (0) / 172 815 (0)
+Cases on an international conveyance: 764 (0) / 13 (0)
+
+Confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+Grand total: 530 896 347 (536 430) / 6 301 020 (1221)
+
+--
+Communicated by:
+ProMED
+
+[Data by country, area, or territory for 8 Jun 2022 can be accessed at https://promedmail.org/wp-content/uploads/world-pdf/2022%20WHO%20Data%20Tables%20JUN8_1654782543.pdf.
+
+- The Americas region reported 34.5% of cases and 38.5% of deaths over the last 24 hours. It has reported more than 158.49 million cases, 2nd to the European region as the most severely affected region. A total of 6 countries reported more than 1000 cases, 2 of which reported more than 10 000 cases (the USA and Brazil), and 3 countries reported more than 500 but fewer than 1000 cases.
+
+- The European region reported 33.8% of cases and 37.7% of deaths over the last 24 hours. It is the most affected region with cumulative cases exceeding 221.95 million. Some countries reporting few or no cases in the last 24 hours or longer include Turkey, Ukraine, and Sweden, among others. A total of 13 countries reported more than 1000 cases in the past 24 hours, with 5 countries reporting more than 10 000, while no countries reported more than 500 but fewer than 1000 cases.
+
+- The Eastern Mediterranean region reported 0.92% of cases and 1.6% of deaths during the past 24 hours, having reported a cumulative total of more than 21.80 million cases. Bahrain reported the highest number of cases followed by Saudi Arabia. No countries reported more than 1000 cases. Overall, the reporting from the region has been low over the last few weeks, with many countries not reporting cases.
+
+- The African region reported no cases and no deaths in the past 24 hours, having reported a cumulative total of more than 9.02 million cases.
+
+- The Western Pacific region reported 29.3% of daily case numbers and 19.9% of deaths in the past 24 hours, having reported a cumulative total of more than 61.43 million cases. China (83 325) reported the highest number of cases over the last 24 hours followed by Australia, Japan, South Korea, New Zealand, and Singapore.
+
+- The South East Asia region reported 2.9% of the daily newly reported cases and 4.0% of reported deaths in the past 24 hours, having reported a cumulative total of more than 58.18 million cases. India (3714) reported the highest number of cases followed by Thailand (2224). Indonesia, Sri Lanka, Myanmar, Maldives, Bhutan, and North Korea did not report cases over the last 24 hours.
+
+On the Overview tab at the WHO source URL, the epidemic curve of confirmed COVID-19 cases by WHO region, 30 Dec 2019 through 7 Jun 2022, is an excellent visual representation of the pandemic. - Mod.MPP]
+
+******
+[6] Global update: Worldometer accessed 8 Jun 2022 16:40 EDT (GMT-4)
+Date: Tue 7 Jun 2022
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+Total number of reported cases: 538 112 366
+Total number of reported deaths: 6 326 550
+Number of newly confirmed cases in the past 24 hours: 1 537 163
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at https://promedmail.org/wp-content/uploads/world-pdf/2022%20WORLDDATA%20JUNE8_1654782590.pdf.
+
+A 7-day series of cumulative data reported by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/2022%20JUNE8WORLD7_1654954919.pdf. - Mod.MPP]
+
+--
+Communicated by:
+ProMED
+
+[In the past 24 hours, 14 countries: Portugal (828 308), the USA (206 267), Taiwan (80 070), France (53 802), North Korea (50 870), Brazil (49 614), Germany (42 047), Australia (31 702), Italy (22 925), Japan (15 519), the UK (13 884), South Korea (12 146), Chile (10 618), and Mexico (10 355) reported the highest numbers of cases, all reporting more than 10 000 newly confirmed cases. A global total of 3172 deaths were reported in the preceding 24 hours (7 Jun 2022 to 8 Jun 2022).
+
+A total of 38 countries reported more than 1000 cases in the past 24 hours; 16 of the 38 countries are from the European region, 8 are from the Americas region, 2 are from the Eastern Mediterranean region, 7 are from the Western Pacific region, 3 are from the South East Asia region, and 2 are from the African region.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, case counts have increased by 16.9%, while daily reported deaths have increased by 12.3%. Comparative 7-day averages in the USA show a 19.1% increase in daily reported cases and a 31.4% increase in reported deaths.
+
+Impression: The global daily reported over 1.53 million newly confirmed infections in the past 24 hours with over 538.11 million cumulative reported cases and more than 6.32 million reported deaths. - Mod.MPP]
+See Also
+COVID-19 update (136): deaths, new variants, vaccine, WHO, global 20220609.8703761
+COVID-19 update (135): N.Korea, France, sleep, antibody test, WHO, global 20220608.8703735
+COVID-19 update (134): Paxlovid studies, boosters, N. Korea, WHO, global 20220605.8703674
+COVID-19 update (133): end of COVID, Portugal, India, Pfizer, S Asia, WHO, global 20220603.8703661
+COVID-19 update (132): pandemic end, Shanghai, masks, WHO, global 20220603.8703642
+COVID-19 update (131): long COVID, cardiac care, comment, WHO, global 20220601.8703623
+COVID-19 update (130): surveill., cardiac eff., long COVID subtypes, WHO, global 20220601.8703606
+COVID-19 update (120): N Korea, pandemic exit, youth vaccine, US deaths, WHO 20220518.8703327
+COVID-19 update (110): mutations, mental health, China, S Africa, Paxlovid, WHO 20220505.8703018
+COVID-19 update (100): vacc. intervals, deaths, long COVID, subvariants, global 20220420.8702717
+COVID-19 update (90): strategy, 2nd booster, WHO 20220407.8702454
+COVID-19 update (80): animal, USA, deer, transmission 20220325.8702212
+COVID-19 update (70): case count, UK, BA.2, USA, WHO, global 20220312.8701940
+COVID-19 update (60): animal, China, origin, research 20220227
+COVID-19 update (50): Hong Kong, estrogen risk, maternal vaccine benefits, WHO 20220217.8701501
+COVID-19 update (40): Denmark, rosemary, pregnancy, stroke, WHO 20220205.8701276
+COVID-19 update (30): variants in immuno-comp., stability, endemic, WHO 20220126.8701074
+COVID-19 update (20): Africa vacc., Taiwan, waning immunity, persistence, global 20220117.8700915
+COVID-19 update (10): animal, omicron origin statement, OIE 20220110.8700763
+COVID-19 update (01): omicron severity & changes, Germany, T-cell reactivity 20220101.8700616
+2021
+----
+COVID-19 update (452): rapid test, omicron, Ab neutralization, school, WHO 20211230.8700597
+COVID-19 update (451): animal, USA, wild deer 20211230.8700589
+COVID-19 update (450): maternal Abs, CDC isolation guidance, WHO 20211230.8700575
+COVID-19 update (400): animal, sheep, research, experimental infection 20211121.8699806
+COVID-19 update (350): boosters, deaths, cases, vaccines, WHO 20211014.8699041
+COVID-19 update (300): Norway, myocarditis, schools, new variant C.1.2, WHO 20210901.8638460
+COVID-19 update (200): animal, China, origin 20210608.8433657
+COVID-19 update (100): antibodies, vaccine, Thailand, Cambodia, WHO, global 20210316.8250009
+COVID-19 update (50): UK vaccine study, Brazil reinfection, WHO 20210205.8167161
+COVID-19 update (01): variants, vaccine, Thailand, global, WHO 20210101.80629382020
+2020
+----
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+COVID-19 update (562): viral load, UK vacc dose, ECDC, WHO 20201231.8061525
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia: China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia: China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+----
+Undiagnosed pneumonia: China (HU): RFI 20191230.686415
+.................................................sb/lk/mpp/may/lxl
+</body>

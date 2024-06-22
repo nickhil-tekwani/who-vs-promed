@@ -1,0 +1,197 @@
+<header id=063907>
+Published Date: 2021-04-21 06:16:58 EDT
+Subject: PRO/AH/EDR> Ebola update (32): research & genomics
+Archive Number: 20210421.8319208
+</header>
+<body id=063907>
+EBOLA UPDATE (32): RESEARCH AND GENOMICS
+****************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] Ebola virus VP40 protein
+[2] Airborne Ebola virus detection
+[3] Genomic analysis
+
+******
+[1] Ebola virus VP 40 protein
+Date: Wed 14 Apr 2021 11:10 AM EDT
+Source: Newswise, La Jolla Institute of Immunology [edited]
+https://www.newswise.com/articles/shape-shifting-ebola-virus-protein-exploits-human-rna-to-change-shape
+
+
+The human genome contains the instructions to make tens of thousands of proteins. Each protein folds into a precise shape -- and biologists are taught that defined shape dictates the protein's destined function. Tens of thousands of singular shapes drive the tens of thousands of needed functions.
+
+In a new Cell Reports study [see reference below], researchers at La Jolla Institute for Immunology [LJI] demonstrate how Ebola virus has found a different way to get things done. The virus encodes only 8 proteins but requires dozens of functions in its lifecycle. The new study shows how one of Ebola virus's key proteins, VP40, uses molecular triggers in the human cell to transform itself into different tools for different jobs.
+
+"We're all taught that proteins have 'a' structure," says study co-leader Erica Ollmann Saphire, PhD, professor at La Jolla Institute for Immunology and member of the LJI Center for Infectious Disease and Vaccine Research. "Ebola virus's VP40 protein, however, changes itself into different structures at different times, depending on the function needed."
+
+VP40 is the protein that gives Ebola virus its distinctive string-like shape. Saphire's previous studies showed that VP40 can take on a 2-molecule, butterfly-shaped "dimer" or an 8-molecule, wreath-like "octamer" form.
+
+There are dramatic rearrangements of the protein as it transforms from one to the other. The dimer is what physically constructs new viruses that emerge and release from infected cells. The octamer functions only inside the infected cell, in a controlling role, directing other steps of the viral life cycle.
+
+The new study shows exactly what triggers these structural changes. The researchers found that VP40 senses and relies on particular human mRNA to make the transformation from the dimer to octamer.
+
+Saphire worked with study co-corresponding author Scripps Research Professor Kristian Andersen, PhD to deeply sequence RNAs captured and selected by VP40 inside cells. VP40 selected particular sequences, most often found in the untranslated tails of human mRNA.
+
+Saphire lab postdoctoral fellows Hal Wasserman PhD and co-1st author Sara Landeras Bueno, PhD, worked with purified VP40 in test tubes to get a glimpse of the dimer-to-octamer transformation in action. The duo tested many combinations of RNA molecules to try to trigger the transformation and found that particular human mRNA sequences rich in bases guanine and adenine were ideal for driving the same conformational change in vitro that they saw in high-resolution structures of VP40.
+
+"We were very excited and surprised to see that the RNA that triggers this change comes from the host cell and not the virus," says Landeras Bueno. "The virus is hijacking the host cell -- this is another example of a virus acting like a parasite."
+
+Saphire says the study sheds light on the fundamentals of how information is encoded in the genome. There's the genetic code, of course, but Ebola virus also controls how VP40 is deployed during different stages of its life cycle. "It has an additional layer of programming," Saphire says.
+
+The new study also offers further evidence that VP40 is a promising target for effective therapies. Because Ebola virus cannot spread without VP40, the virus is unlikely to acquire VP40 mutations that let it "escape" antibody therapies. This vulnerability has led the LJI team to think of VP40 as Ebola's Achilles' heel.
+
+"VP40 fulfills an elaborate system of requirements for Ebola virus, so we don't expect it to change much," says Wasserman. "That means if we could attack VP40 specifically, the virus would be helpless."
+
+Wasserman says the octamer's regulatory function is still slightly mysterious. The octamer is known to be essential to the Ebola virus life cycle, but more work needs to be done to understand how this VP40 structure controls Ebola virus replication.
+
+Saphire is very interested in investigating whether other viruses -- or living organisms -- have proteins with the same "structural plasticity" as VP40. "I've always wanted to know if this kind of functionality is more common in biology than we think," she says.
+
+--
+Communicated by:
+Mary Marshall
+<mjm2020@googlemail.com>
+
+[Reference
+----------
+Landeras-Bueno S, Wasserman H, Oliveira G, et al. Cellular mRNA triggers structural transformation of Ebola virus matrix protein VP40 to its essential regulatory form. Cell Rep. 2021; 35(2): 108986. doi: 10.1016/j.celrep.2021.108986. PMID: 33852858; https://www.cell.com/cell-reports/fulltext/S2211-1247(21)00300-4
+
+An interesting study that confirms Ebola virus protein VP40 as a promising target for antiviral compounds. - Mod.LK]
+
+******
+[2] Airborne Ebola virus detection
+Date: Tue 20 Apr 2021
+Source: Homeland Security Today [edited]
+https://www.hstoday.us/subject-matter-areas/emergency-preparedness/new-tech-makes-detecting-airborne-ebola-virus-possible/
+
+
+Natural outbreaks of the Ebola virus, while severe, are typically isolated and usually affect no more than a few hundred people at a time. However, from 2014-2016, infections from this deadly virus caused more than 11 000 deaths in West Africa. During this time, several cases of Ebola virus disease were also diagnosed in other countries, including the United States, due to infected travelers from West Africa that had unknowingly harbored and incubated the virus while en-route to their respective destinations.
+
+By the time a person infected with Ebola virus becomes symptomatic, they are typically starting to shed the virus. During an outbreak, healthcare workers and family members of patients are often the first to respond and provide care. In this role, they are at a high risk of becoming infected with the virus as well. Therefore, it is important to understand how we can best prevent transmission in both clinical and home settings.
+
+Human-to-human transmission of the Ebola virus occurs primarily through direct contact and exposure to the blood or other bodily fluids of infected patients. However, there have been new infections that occurred without documented contact between a patient and healthcare provider or family member. While these cases are uncommon, it is possible that a small fraction of the cases of Ebola virus infection may be the result of exposure to small droplets or aerosols containing the virus.
+
+Laboratory studies have shown that the Ebola virus can remain infectious outside of the body for long periods of time. The virus can survive in blood samples on various surfaces for several days, even in hot and humid conditions that would typically kill most other viruses and bacteria. In an aerosolized form, the Ebola virus can survive for over an hour. Additionally, laboratory experiments have demonstrated that inhaling small amounts of Ebola virus can be fatal, and there are examples of Ebola virus disease being transmitted between individuals in close proximity, even though they had never been in direct contact with each other.
+
+However, assessing the risk of transmission via droplets or aerosols is a complicated process. While the minimum amount of virus required to cause infection is thought to be very low, so far it has not been possible to determine a definitive value. This is because commonly used testing methods are often not sensitive enough to detect or measure the amount of infectious virus in the air. To address these challenges, researchers at the Department of Homeland Security (DHS) Science and Technology Directorate's (S&T) National Biodefense Analysis and Countermeasures Center (NBACC) designed and conducted a study to optimize methods for collecting and measuring very small amounts of Ebola virus in the air.
+
+"Ebola can be both a national security and public health concern," explained Lloyd Hough, who leads S&T's Hazard Awareness and Characterization Technology Center. "We're looking forward to applying these methods to better characterize the risks associated with Ebola virus, and are hopeful that others can benefit from these techniques as well."
+
+NBACC researchers assessed and compared multiple devices designed for collecting microorganisms from the air. They concluded that filters made of gelatin were the best for collecting infectious Ebola virus from the air and were also the easiest and safest type of sampling device to use. The researchers utilized a cell line, developed by the Centers for Disease Control and Prevention, in an assay designed to measure the amount of infectious Ebola virus present in a sample. The cell line glows when infected by the virus, which enabled the researchers to differentiate Ebola virus infection from other causes of cell death.
+
+After testing various sampling and assay methodologies, the NBACC researchers found that the combination of the gelatin filter samplers and improved assay was easier to use, more reliable, and nearly 10 times more sensitive than the previous methods utilized to measure the amount of infectious Ebola virus in air samples. The results of these experiments have been published in 2 peer-reviewed journal articles, which will enable researchers at other institutions to understand and utilize these newly developed sampling and assay methodologies.
+
+"Our ability to detect Ebola virus in air samples at levels that are 10-fold lower than what was possible with previous methods, will enable us to provide a better understanding of the aerosol hazard posed by this virus," said Mike Schuit, an investigator in the Aerobiology group at NBACC.
+
+The new sampling and assay methodologies developed by NBACC researchers, as well as the data from associated studies, will be useful in a number of ways. For example, these methods are currently being employed in a study in partnership with the National Institute of Allergy and Infectious Diseases (NIAID) to determine the minimum amount of Ebola virus that needs to be inhaled in order to cause infection or death in an animal model of Ebola virus disease. This study will also determine whether infected animals produce aerosols containing Ebola virus when they breathe, which will help scientists to better understand the potential for natural aerosol transmission of the virus. Various DHS components and partners, along with the Department of Defense and the Department of Health and Human Services, will use these data to conduct hazard modeling and gain a better understanding of the potential risk for airborne transmission of Ebola virus and how it may impact health workers.
+
+Taking lessons learned from the response to Ebola virus, the NBACC researchers are conducting similar studies with SARS-CoV-2, the virus that causes COVID-19. This includes studying the performance of aerosol samplers with SARS-CoV-2, and optimization of methodologies to detect small quantities of SARS-CoV-2 in the air. Furthermore, the NIAID partnership has been extended to examine how much virus it actually takes to start a new infection when aerosol particles containing SARS-CoV-2 are inhaled. As with the Ebola study, this study will also measure whether infectious virus is present in the exhaled breath of infected animals to better understand how COVID-19 spreads in human populations and inform strategies to prevent its continued spread.
+
+--
+Communicated by:
+Mary Marshall
+
+[Adaptation of this device utilizing gelatin filters to collect and measure very small amounts of Ebola virus in the air, would clearly be very useful for detecting SARS-CoV-2, as well as aerosolized biothreats. The question of sensitivity relative to the infectious dose remains. - Mod.LK]
+
+******
+[3] Genomic analysis
+Date: Thu 15 April 2021
+Source: Nature [abridged, edited]
+https://www.nature.com/articles/d41586-021-00986-0
+
+
+ref: An unprecedented genomic analysis helped to curb an Ebola outbreak. Nature. 2021. doi: 10.1038/d41586-021-00986-0. Epub ahead of print. PMID: 33859421.
+--------------------------------------------------------------------------------
+Despite extraordinary challenges, scientists managed to sequence a high percentage of Ebola virus genomes from a deadly wave of infections.
+
+Decades of political instability and conflict made the 2018-20 Ebola virus outbreak in the Democratic Republic of the Congo (DRC) difficult to control. Despite this, scientists conducted genomic sequencing of the pathogen on a scale never previously seen amid an outbreak of the disease -- and at a pace that informed the public-health response.
+
+Eddy Kinganda-Lusamaki at the National Institute of Biomedical Research in Kinshasa, Trevor Bedford at the Fred Hutchinson Cancer Research Center in Seattle, Washington, and their colleagues report that they sequenced viral samples representing nearly 24% of confirmed Ebola infections during the outbreak, despite violence, Internet outages, and shipping troubles. Analyses of the resulting genomes confirmed that the outbreak began at least a month before the 1st case was diagnosed [see reference below].
+
+The data also confirmed that a taxi driver spread the virus to multiple people and that a number of other cases were linked to a pastor's funeral. As a result, the Ebola vaccination policy was changed to include members of the clergy and taxi drivers.
+
+Notably, the sequencing was carried out mainly by Congolese scientists in the DRC; during the 2013-16 West African Ebola outbreak, that research occurred mainly in the United States and Europe.
+
+--
+Communicated by:
+Mary Marshall
+
+[Reference
+----------
+Kinganda-Lusamaki E, Black A, Mukadi DB, et al. Integration of genomic sequencing into the response to the Ebola virus outbreak in Nord Kivu, Democratic Republic of the Congo. Nat Med. 2021; 27(4): 710-716. doi: 10.1038/s41591-021-01302-z. Epub 2021 Apr 12. PMID: 33846610; https://doi.org/10.1038/s41591-021-01302-z (abridged, edited)
+--------------------------------------------------------------------------------
+"We sought to increase the utility of viral genomic data during the Nord Kivu EVD outbreak by regular generation and analysis of EBOV sequence data, releasing the results as genomic epidemiology situation reports. These reports, written in both English and French, allowed representation of interactive genomic data visualization alongside written scientific interpretations. Here we provide an overview of this end-to-end genomic surveillance system, describing sequencing intensity over the course of the Nord Kivu outbreak and patterns of data release. We then describe the broad epidemic dynamics inferred from phylogeographic analysis of all 792publicly available EBOV genomes. Finally, we discuss how the genomic data supported public health decision making and issues that impacted the actionability of the data.
+
+"Our work during the 2018-2020 EVD outbreak in Nord Kivu shows how far genomic surveillance for outbreak response has progressed. At the time, the 2013-2016 West Africa EVD epidemic was notable for its high density of sequenced cases, representing ~5% of reported EVD cases. The vast majority of those sequences were generated by external scientists who came to West Africa, and very little sequencing capacity remained once the outbreak was declared over. Although the Nord Kivu outbreak was smaller, we sequenced close to 24% of confirmed EVD cases, with all sequencing, and now most bioinformatic analysis, occurring within the DRC. The value of building capacity within a country is demonstrated not only by our work here but also by the sustainability of a system that can be shifted to other surveillance efforts. Indeed, using this same genomic surveillance system we are now providing much needed epidemiologic support for understanding SARS-CoV-2 epidemiology in the DRC."
+
+Genomic analysis of virus sequences has allowed scientists to rapidly understand the evolution and epidemiology of the virus being studied, and follow its movement in space. This provides information on how the virus is transmitted and its origin. - Mod.LK]
+See Also
+Ebola update (31): Guinea, vaccine 20210407.8292822
+Ebola update (30): Guinea 20210404.8287452
+Ebola update (29): Congo DR (NK) 20210331.8281659
+Ebola update (28): Guinea 20210330.8277368
+Ebola update (27): Congo DR, USA 20210325.8268072
+Ebola update (26): Congo DR (NK) Guinea 20210318.8253916
+Ebola update (25): Guinea, Congo DR (NK) 20210313.8245287
+Ebola update (24): Congo DR (NK) Guinea 20210308.8233619
+Ebola update (23): Congo DR (NK), Guinea 20210305.8230458
+Ebola update (22): Congo DR (NK) Guinea, WHO 20210304.8226934
+Ebola update (21): Congo DR (NK), Guinea 20210303.8224627
+Ebola update (20): USA, Guinea, Sub-Saharan Africa 20210228.8219231
+Ebola update (19): Guinea (NZ), Congo DR (NK) 20210225.8212245
+Ebola update (18): Guinea, Congo DR (NK), West Africa 20210224.8210083
+Ebola update (17): Guinea, West Africa 20210223.8207483
+Ebola update (16): Guinea, Congo DR (NK) 20210222.8205208
+Ebola update (15): Guinea (KA) 20210221.8203671
+Ebola update (14): Congo DR (NK), Guinea, Liberia 20210219.8202136
+Ebola update (13): Liberia, Guinea, Congo DR (NK) 20210218.8199619
+Ebola update (12): Guinea, Congo DR (NK) 20210218.8197835
+Ebola update (11): Guinea, Congo DR (NK) 20210216.8195512
+Ebola update (10): Guinea, Congo DR (NK) 20210215.8192845
+Ebola update (09): Congo DR (NK), Guinea 20210214.8190818
+Ebola update (08): Congo DR (NK), Guinea 20210214.8189771
+Ebola update (07): Congo DR (NK) WHO 20210212.8188297
+Ebola update (06): Congo DR (NK) WHO, 2nd fatal case 20210212.8186694
+Ebola update (05): Congo DR (NK) fatal 20210207.8173659
+Ebola update (04): long term sequelae, antibody resurgence 20210131.8151988
+Ebola update (03): Ebanga monoclonal antibody 20210118.8114712
+Ebola update (02): Kenya, vaccine stockpile 20210117.8110442
+Ebola update (01): vaccine stockpile 20210113.8099749
+2020
+----
+Ebola update (52): Congo DR (EQ) situation report, Inmazeb 20201112.7933531
+Ebola update (51): Congo DR (EQ) strategies, antibody 20201105.7917308
+Ebola update (50): Congo DR, case update 20201020.7877514
+Ebola update (49): antibody research, treatment 20201015.7864768
+Ebola update (48): Congo DR (EQ) 20201004.7835528
+Ebola update (47): Congo DR (EQ) 20200922.7803256
+Ebola update (46): Congo DR (EQ) 20200913.7774105
+Ebola update (45): Congo DR (EQ), WHO 20200910.7765863
+Ebola update (44): Congo DR (EQ) 20200907.7754938
+Ebola update (43): Congo DR (EQ) WHO 20200901.7736924
+Ebola update (42): Congo DR (EQ) 20200829.7726782
+Ebola update (41): Congo DR (EQ) WHO 20200824.7709014
+Ebola update (40): Congo DR (EQ) 20200819.7696049
+Ebola update (30): Congo DR (EQ) 20200704.7540595
+Ebola update (20): Congo DR (NK,IT) WHO, cases, summaries, perspective 20200501.7288278
+Ebola update (10): Congo DR (NK, IT) cases, summaries, WHO 20200221.7012106
+Ebola update (01): Congo DR (NK,IT) cases, WHO, summary, anthropology 20200105.6872195
+2019
+----
+Ebola update (111): Congo DR (NK,IT) WHO, security, treatment 20191128.6801849
+Ebola update (95): Congo DR (NK,IT,SK) cases, WHO, survivors, vaccine 20191003.6706383
+2018
+----
+Ebola update (120): Congo DR (NK, IT) cases, WHO, vaccination in pregnancy 20181027.6114985
+Ebola update (73): Congo DR (NK) cases, anti-viral, research 20180821.5977639
+Ebola update (28): Congo DR, cases, WHO, action 20180607.5843872
+2016
+----
+Ebola update (23): comment, pregnant women, news, research 20160316.4098040
+.................................................sb/lk/mj/lm
+</body>

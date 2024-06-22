@@ -1,0 +1,219 @@
+<header id=015703>
+Published Date: 2021-04-05 13:13:58 EDT
+Subject: PRO/AH/EDR> COVID-19 update (125): variant analysis, maternal antibodies, WHO, global
+Archive Number: 20210405.8289796
+</header>
+<body id=015703>
+CORONAVIRUS DISEASE 2019 UPDATE (125): VARIANT ANALYSIS, MATERNAL ANTIBODIES, WHO, GLOBAL
+*****************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] Comparative study of 4 coronaviruses
+[2] Maternal antibodies
+[3] WHO: daily new cases reported (as of 4 Apr Mar 2021)
+[4] Global update: Worldometer accessed 4 Apr 2021 21:10 EST (GMT-5)
+
+******
+[1] Comparative study of 4 coronaviruses
+Date: Fri 2 Apr 2021
+Source: News Medical Net [abridged, edited]
+https://www.news-medical.net/news/20210402/Comparative-study-of-SARS-MERS-BATe28090SARS-and-SARS-CoV-2.aspx
+
+
+Scientists have found that several viruses which belong to the _Coronaviridae_ family can infect a wide range of hosts, including birds, humans, and other mammals. These viruses are single-stranded, positive-sense, RNA viruses whose size ranges between 27-32 kb. They are divided into 4 categories, namely, alpha, beta, delta, and gamma.
+
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the causal agent of the ongoing coronavirus disease 2019 (COVID-19) pandemic, and was 1st identified in the Wuhan province of China in December 2019. Owing to its high infectivity and mortality rate, the World Health Organization announced COVID-19 to be a pandemic on 11 Mar 2020.
+
+As viruses undergo genomic mutation, it is foremost important to identify the mutating site for vaccine development. Several phylogenetic tree-based analyses have been conducted to understand the evolutionary relationship of SARS-CoV-2 with other beta coronaviruses. A previous study constructed a phylogenetic tree and revealed that the genomic sequence of SARS-CoV-2 is 88% identical with BAT-CoV. In another study, scientists have isolated around 70 SARS-CoV-2 genomic sequences from COVID-19 patients and studied the spike glycoprotein gene. This study also reported that the BetaCoV-bat-Yunnan-RaTG13-2013 virus is almost identical to SARS-CoV-2.
+
+Even though a comparative study on the genomic sequences of SARS-CoV, MERS-CoV, and SARS-CoV-2 is available, there is a gap in the research in regards to the comparison between 4 types of coronaviruses, namely, SARS-CoV, MERS-CoV, BAT-CoV, and SARS-CoV-2. A new study, which deals with the genomic comparison between the sequence of the above-stated 4 types of coronaviruses, has been published in the Journal of Medical Virology. This study utilized multiple genetic markers, including the single nucleotide polymorphisms (SNPs), whole-genome sequence phylogeny, mutations in proteins, and microsatellites. These were compared with the SARS-CoV-2 reference genomic sequence that is known as the Wuhan strain (Wuhan-Wu-I). All the sequences were obtained from the NCBI Genbank.
+
+The SARS-CoV, MERS-CoV, and SARS-CoV-2 sequences were obtained from Homo sapiens (host), while the BAT-CoV sequences were collected from 8 different types of bats. The results of this study are described below.
+
+Phylogenetic analysis
+For phylogenetic analysis of the different coronaviruses sequence, a maximum likelihood approach with 1000 bootstrapped values was used. The phylogenetic analysis revealed different lineages of coronaviruses. The whole genome-based phylogenetic analysis has shown MERS-CoV to belong to outgroup species while the other 3 were classified as ingroup species. Within the ingroup, 2 lineages were found, namely, a lineage consisting of SARS-CoV-2 and another consisting of SARS-CoV and BAT-CoV. The branches of the phylogenetic tree indicated that the SARS-CoV had diverged very early from the BAT-CoV. The tree also revealed an independent divergence of SARS-CoV-2 from the BAT-CoV. The phylogeny also showed SARS-CoV-2 to be more closely related with BAT-CoV and SARS-CoV than the MERS-CoV. The Simplot software was used to visualize the similarity plot between the 4 selected species. It revealed around 98% homology of BAT-CoV with the reference sequence, i.e., the Wuhan stain of SARS-CoV-2. However, 92% similarity was obtained between SARS-CoV and reference sequence, and 58% similarity between MERS-CoV and the Wuhan strain.
+
+Analysis of genetic variants
+A variant-based analysis showed that the MERS-CoV genome differed from the Wuhan reference strain at 134.21 sites, the BAT-CoV genome differed at 136.72 sites, the SARS-CoV genome differed at 26.64 sites, and the SARS-CoV-2 genome differed at 0.66 sites. Additionally, the current study also revealed that the probability of mutations at the missense sites of MERS-CoV and SARS-CoV-2 is higher compared to SARS-CoV and BAT-CoV. This is due to the reduced number of missense variations in SARS-CoV and BAT-CoV, which has occurred owing to selection pressure on missense sites.
+
+The number of mutations at the Spike protein (S), Envelope protein (E), Membrane protein (M), Nucleocapsid protein (N), and structural proteins were calculated. The SNPs were filtered from S, M, E, and N gene regions by a python script. The S, M, E, and N genes revealed the presence of a varied number of SNPs. The Multialin online tool was used to detect the similarities between four coronaviruses selected for the current study.
+
+Microsatellite analysis
+Microsatellite analysis is used to determine the repetitive sequences in the genome. These sequences have a significant impact on the onset of the diseases and their evolution. In this study, microsatellite analysis was performed using IMEX (Imperfect Microsatellite Extractor) and FMSD (Fast Microsatellite Discovery) online tools. No significant presence of microsatellite was found using IMEX. However, FMSD revealed the presence of more microsatellite in MERS-CoV. The SARS-CoV-2 genome showed the presence of the largest incidence of compound microsatellites.
+
+In summary, the phylogenetic tree analysis showed SARS-CoV-2 is closely related to BAT-CoV, and its 2nd-closest relative is SARS-CoV. All MERS-CoV strains showed distal relation to SARS-CoV-2. In the analysis of genetic variants, more mutations were found in MERS-CoV compared to SARS-CoV and BAT-CoV. The phylogenetic analysis, study of genetic variation, multisequence, and microsatellite analysis, showed that the bat is the native host of SARS-CoV-2. Additionally, it also concluded that BAT-CoV is closely related to SARS-CoV-2. There is a possibility of the presence of an intermediate host to initiate the transmission of COVID-19 from BAT to humans. However, more research is required to validate this assumption. The FMSD tool revealed that SARS-CoV is more closely associated with SARS-CoV-2 than BAT-CoV.
+
+Journal reference
+-----------------
+Rehman HA, Ramzan F, Basharat Z, et al. Comprehensive Comparative Genomic and Microsatellite Analysis of SARS, MERS, BAT‐SARS and COVID‐19 Coronaviruses. J Med Virol. First published: 30 March 2021
+https://doi.org/10.1002/jmv.26974, https://onlinelibrary.wiley.com/doi/10.1002/jmv.26974
+
+--
+Communicated by:
+ProMED from Google Alerts
+<promed@promedmail.org>
+
+******
+[2] Maternal antibodies
+Date: Fri 2 Apr 2021
+Source: Ultrasound Obstet Gynecol [abridged, edited]
+https://doi.org/10.1002/uog.23639
+
+
+Citation
+--------
+Poon, L.C., Leung, B.W., Ma, T., et al. (2021), Relationship between viral load, infection‐to‐delivery interval and mother‐to‐child transfer of anti‐SARS‐CoV‐2 antibodies. Ultrasound Obstet Gynecol. https://doi.org/10.1002/uog.23639
+
+Abstract
+--------
+Objective
+To investigate the association between SARS‐CoV‐2 viral load and infection‐to‐delivery interval with maternal and cord sera anti‐SARS‐CoV‐2 IgG antibody levels in pregnant women with active or recovered SARS‐CoV‐2 infection.
+
+Method
+In this prospective case‐series including consecutive pregnant women with laboratory‐confirmed SARS‐CoV‐2 infection between 27 Mar 2020 and 24 Jan 2021, we have collected information regarding deep throat saliva or nasopharyngeal swab (NPS) RT‐PCR results, serial cycle threshold (Ct) values at and after diagnosis, demographic, clinical and outcome data and neonatal NPS RT‐PCR results. Serum antibodies against SARS‐CoV‐2 were analyzed. Correlation of maternal Ct values, infection‐to‐delivery interval, infection duration and viral load area under the curve (AUC) with gestation age (GA) at diagnosis, maternal and cord sera IgG concentrations and transfer ratio were evaluated.
+
+Results
+A total of 20 consented pregnant women had delivered their babies by 31 Jan 2021, including 14 women having recovered from COVID‐19 and 6 with active infection. The median GA at clinical manifestation was 32.7 weeks (range 11.9‐39.4). The median infection‐to‐delivery interval and infection duration were 41.5 days (range 2‐187) and 10.0 days (range=1‐48), respectively. The median GA at delivery was 39.1 weeks (range=32.4‐40.7) and the median seroconversion interval was 14 days (range=1‐19). Twelve of 13 neonates born to mothers with recovered infection tested positive for IgG. All neonatal NPS samples were reported to be negative for SARS‐CoV‐2 and all cord sera tested negative for IgM. There was a negative correlation between IgG concentrations in cord and maternal sera with infection‐to‐delivery interval and a positive correlation between IgG concentrations in maternal sera with viral load AUC. There was also a significant correlation between transfer ratio with viral load AUC.
+
+Conclusions
+In recovered pregnant women with COVID‐19, anti‐SARS‐CoV‐2 IgG concentrations at delivery increased with viral load during infection and decreased with infection‐to‐delivery interval. The median transplacental transfer ratio of IgG was 1.3 and this transfer was reduced by high viral load during infection.
+
+--
+Communicated by:
+Mary Marshall
+<mjm2020@googlemail.com>
+
+[The question one has while reading this study is whether there is IgG antibody transferred following vaccination of pregnant women with Pfizer, Moderna, Johnson & Johnson, and AztraZeneca vaccines. This question is finally addressed at the end of the Discussion - "There is an urgent need to generate clinical data on efficacy and safety of the various COVID-19 vaccines in pregnant women as well as to determine the vaccine technology and timing of vaccination which can best deliver. " - Mod.UBA]
+
+******
+[3] WHO: daily new cases reported (as of 4 Apr 2021)
+Date: Sun 4 Apr 2021
+Source: WHO [abridged, edited]
+https://covid19.who.int/table
+
+
+*Daily case reports as of 4 Apr 2021 16:18 CET
+
+Surveillance
+------------
+WHO region (no. countries/territories):
+Total confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+--------------------------------------------------------------------------------
+Western Pacific Region (19): 1 963 001(15 389) / 31 896 (113)
+European Region (61): 45 852 597 (169 858) / 980 404 (2418)
+South East Asia Region (10): 15 212 235 (103 810) / 222 054 (667)
+Eastern Mediterranean Region (22): 7 693 094 (38 637) /160 612 (537)
+Region of the Americas (54): 56 580 222 (177 098) / 1 368 633 (6361)
+African Region (49): 3 120 296 (5573) / 78 523 (77)
+Cases on an international conveyance (Diamond Princess): 745 (0) / 13 (0)
+
+Confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+Grand total: 130 422 190(510 365) / 2 842 135 (10 173)
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[Data by country, area, or territory for 4 Apr 2021 can be accessed at https://promedmail.org/wp-content/uploads/world-pdf/2021%20WHO%20Daily%20Tables%20Apr4_1617642018.pdf.
+
+- The Americas region reported 34.7% of daily case numbers and 62.5% of the daily deaths reported in the past 24 hours and maintained its position as the most severely affected region, having reported more than 56.58 million cases. Brazil reported over 70 000 cases over the last 24 hours followed by the USA with 65 770 cases. 7 additional countries reported more than 1000 cases in the past 24 hours (Colombia, Argentina, Mexico, Peru, Paraguay, Uruguay, and Cuba), and an additional 5 countries (Bolivia, Dominican Republic, Honduras, Venezuela and Puerto Rico) reported more than 500 but fewer than 1000 cases. Canada, Chile, Ecuador and Costa Rica among others did not report any cases in the last 24 hours.
+
+- The European region reported 33.2% of daily case numbers and 23.7% of the daily deaths reported in the past 24 hours, and total cumulative cases reported exceed 45.85 million. Many countries not reporting cases in the last 24 hours or longer include France, Spain, Belgium (3 cases), Israel, Sweden, Portugal, and Kazakhstan, among others. Turkey reported the highest number of cases over the last 24 hours, followed by Poland, Italy, Ukraine, and Germany, reporting more than 10 000 new cases in the past 24 hours. Another 14 countries reported more than 1000 cases, and an additional 6 countries reported more than 500 but fewer than 1000 cases.
+
+- The Eastern Mediterranean region reported 7.5% of daily case numbers and 5.2% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 7.69 million cases. Iran reported the highest number of cases (11 420) over the last 24 hours, followed by Iraq, Pakistan, Jordan, Lebanon, UAE, Palestinian Authority, Tunisia, Bahrain, and Kuwait. Morocco, Qatar, and Egypt, reported more than 500 but fewer than 1000 cases.
+
+- The African region reported 1.1% of daily case numbers and 0.7 % of the deaths reported in the past 24 hours, having reported a cumulative total of more than 3.12 million cases. Ethiopia (1997), reported the highest number of cases over last 24 hours followed by Kenya (1184). South Africa reported more than 500 but fewer than 1000 cases. Cameroon, Botswana, Malawi, Gabon, and Congo among others, did not report any new cases in the past 24 hours.
+
+- The Western Pacific region reported 3% of daily case numbers and 1.1% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 1.96 million cases. Philippines reported the highest number of cases over the last 24 hours (over 12 000 cases), followed by Malaysia, South Korea, and Mongolia. Japan did not report any cases over the last 48 hours.
+
+- The South East Asia region reported 20.3% of the daily newly reported cases and 6.5% of reported deaths in the past 24 hours, having reported a cumulative total of more than 15.21 million cases. India is dominant reporting over 93 000 cases, followed by Bangladesh (5683), Indonesia (4345) cases), Sri Lanka, and Maldives.
+
+On the Overview tab at the WHO source URL, the epidemic curve of confirmed COVID-19 cases by WHO region, 30 Dec 2019 through 4 Apr 2021, is an excellent visual representation of the pandemic. - Mod.UBA]
+
+******
+[4] Global update: Worldometer accessed 4 Apr 2021 21:10 EST (GMT-5)
+Date: Sun 4 Apr 2021
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at:
+https://promedmail.org/wp-content/uploads/world-pdf/2021%20WORLDDATA%20APR4_1617642531.pdf.
+A 7-day series of cumulative data reported by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/2021%20APR4WORLD7_1617643024.pdf. - Mod.UBA]
+
+Total number of reported deaths: 2 865 517
+Total number of worldwide cases: 131 897 800
+Number of newly confirmed cases in the past 24 hours: 551 987
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[In the past 24 hours, India (103 793), France (60 922), Turkey (41 998), the USA (36 983), and Brazil (31 359), have reported the highest numbers of cases. A global total of 6807 deaths were reported in the past 24 hours (late 3 Apr 2021 to late 4 Apr 2021). Countries reporting more than 10 000 newly confirmed cases in the past 24 hours (10 countries) include India, Turkey, France, the USA, Brazil, Poland (22 966), Italy (18 025), Ukraine (13 738), Iran (11 680), and Philippines (11 020). A total of 53 countries reported more than 1000 cases in the past 24 hours; 27 of the 53 countries are from the European region, 10 are from the Americas region, 8 are from the Eastern Mediterranean region, 3 are from the South East Asia region, 3 are from the Western Pacific region, and 2 from the African region.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, case counts have increased by 25.3%, while daily reported deaths have increased by 3.1%. Similar comparative 7-day averages in the USA show a 7.6% increase in daily reported cases and a 0.6% decrease in reported deaths.
+
+Impression: The global daily reported over 540 000 newly confirmed infections in the past 24 hours with over 131.89 million cumulative reported cases and over 2.86 million reported deaths. - Mod.UBA]
+See Also
+COVID-19 update (124): surge, variants, bacterial superinfections, WHO, global 20210404.8288263
+COVID-19 update (123): postvaccination transmission, CIDRAP, South Asia, WHO 20210403.8287093
+COVID-19 update (122): vaccines, prior HCoV infection, CIDRAP, Brazil, WHO 20210402.8285587
+COVID-19 update (121): Pfizer clinical trial for children, Brazil, WHO, global 20210401.8283365
+COVID-19 update (120): animal, Russia, vaccine 20210331.8281241
+COVID-19 update (119): Chile, indoor transmission risk, WHO, global 20210331.8281129
+COVID-19 update (118): animal, China, origin, WHO mission, report 20210331.8279475
+COVID-19 update (117): transmission, diagnosis, Philippines, WHO, global 20210330.8278600
+COVID-19 update (116): Vaccine, Canada, variants, common cold, WHO, global 20210329.8276299
+COVID-19 update (115): CAPA, long COVID, Astra-Zeneca, WHO, global 20210328.8274269
+COVID-19 update (114): vacc COVID survivors vs uninfected, flu shots, India, WHO 20210327.8272957
+COVID-19 update (113): Africa, Yemen, schools, remdesivir, WHO, global 20210326.8271053
+COVID-19 update (112): new double mutation variants, AstraZeneca, WHO, global 20210325.8268682
+COVID-19 update (111): protease inhibitor, long COVID, surge, neut Ab, WHO 20210324.8266393
+COVID-19 update (110): vaccines, neutralizing antibody, P1 variant, WHO, global 20210323.8263780
+COVID-19 update (109): animal, Argentina, Italy, cat, dog, OIE 20210323.8262789
+COVID-19 update (108): vaccines, nanopart., Europe, S Africa, AstraZeneca, WHO 20210322.8262023
+COVID-19 update (107): variants, Olympics, India, WHO, global 20210321.8260135
+COVID-19 update (106): 3rd wave, variants, AstraZeneca, WHO, global 20210320.8258994
+COVID-19 update (105): long COVID, variants, T Cell resp, S Asia, WHO, global 20210319.8256709
+COVID-19 update (104): surge, Europe, variants, vaccines, WHO, global 20210318.8254505
+COVID-19 update (103): variants, Papua New Guinea, WHO, global 20210317.8252208
+COVID-19 update (102): China, origin, farmed wild animals susp. 20210316.8251684
+COVID-19 update (101): animal, USA, UK variant 20210316.8251626
+COVID-19 update (100): antibodies, vaccine, Thailand, Cambodia, WHO, global 20210316.8250009
+COVID-19 update (99): China, animal reservoir, wildlife sale, pork supply impact 20210315.8249619
+COVID-19 update (98): transmission, long COVID, vaccine reactions, WHO, global 20210315.8247668
+COVID-19 update (97): testing, contact tracing, variants, immunity, WHO 20210314.8246696
+COVID-19 update (96): HCWs, child mental health, Africa vaccines, WHO 20210313.8245159
+COVID-19 update (95): vacc reactions, vacc approval, Americas, WHO 20210312.8242839
+COVID-19 update (94): blood donor Abs, self-check, pollen, variant, WHO 20210311.8241172
+COVID-19 update (93): animal, Estonia (HA) cat, OIE 20210310.8239589
+COVID-19 update (92): allergy mRNA vacc, sex-specific risk, WHO 20210310.8238271
+COVID-19 update (91): USA post vacc, vacc passport, WHO 20210309.8236250
+COVID-19 update (90): UK sewage, Viet Nam, Cambodia, WHO 20210308.8233859
+COVID-19 update (80): vaccine, USA variants, comments, WHO, global 20210226.8214650
+COVID-19 update (70): gangrene, challenge trials, immunity, cancer, WHO, global 20210218.8198620
+COVID-19 update (60): animal, SARS-CoV-2-related viruses, pangolin, bat 20210211.8184900
+COVID-19 update (50): UK vaccine study, Brazil reinfection, WHO 20210205.8167161
+COVID-19 update (01): variants, vaccine, Thailand, global, WHO 20210101.8062938
+2020
+----
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+COVID-19 update (562): viral load, UK vacc dose, ECDC, WHO 20201231.8061525
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia: China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia: China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+----
+Undiagnosed pneumonia: China (HU): RFI 20191230.6864153
+and other items in the archives
+.................................................sb/lk/lm/uba/ao/lxl
+</body>

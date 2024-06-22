@@ -1,0 +1,62 @@
+<header id=034930>
+Published Date: 2014-12-17 18:53:35 EST
+Subject: PRO/EDR> Ebola virus disease - West Africa (228): GBV-C co-infection, improved survival
+Archive Number: 20141217.3039911
+</header>
+<body id=034930>
+EBOLA VIRUS DISEASE - WEST AFRICA (228): GBV-C VIRUS CO-INFECTION, IMPROVED SURVIVAL
+************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+Date: Wed 3 Dec 2014
+Source: Journal of Virology, accepted manuscript posted online 3 Dec 2014, doi:10.1128/JVI.02752-14 [summ., edited]
+http://jvi.asm.org/content/early/2014/11/27/JVI.02752-14.abstract
+
+
+GB virus C co-infections in West African Ebola patients
+---------------------------------------------------------------
+[Authors: Michael Lauck, Adam L. Bailey, Kristian G. Andersen, Tony L. Goldberg, Pardis C. Sabeti and David H. O'Connor]
+
+[Summary: After hepatitis G virus (HGV) and GB virus type C (GBV-C) were independently discovered, it was determined that they were 2 isolates of the same virus. The HGV/GBV-C genome sequence and organization are closely related to hepatitis C virus. Although HGV/GBV-C infection is common and frequently persists in humans, infection has not been found to be associated with any known disease state. Because this virus is not associated with acute or chronic hepatitis, most people refer to it as GBV-C. GBV-C appears to grow in lymphocytes and not in hepatocytes, and presumably this is why the virus does not cause liver disease. Recent studies suggest that GBV-C infection in HIV-positive people is associated with prolonged survival. In vitro coinfection of human lymphocytes with GBV-C and HIV lead to decreased HIV replication. Further understanding of the mechanism(s) responsible for this interaction with HIV may provide novel approaches for treating HIV and AIDS. (Semin Liver Dis. 2003 May;23(2):137-48. http://www.ncbi.nlm.nih.gov/pubmed/12800067.) - Mod.CP]
+
+Abstract
+--------
+In 49 patients with known Ebolavirus (EBOV) outcomes during the ongoing outbreak in Sierra Leone, 13 were co-infected with the immunomodulatory pegivirus GB virus C (GBV-C). 53 percent of these GBV-C positive patients survived; in contrast, only 22 percent of GBV-C negative patients survived. Both survival and GBV-C status were associated with age, with older patients having lower survival rates and intermediate-age patients (21-45 years) having the highest rate of GBV-C infection. Understanding the separate and combined effects of GBV-C and age on EBOV survival could lead to new treatment and prevention strategies, perhaps through age-related pathways of immune activation.
+
+Abridged text
+-------------
+As of this writing, there have been 14 413 confirmed and probable infections and 5177 deaths in the ongoing and worsening Ebola virus disease outbreak in West Africa. Recently, Ebolavirus (EBOV) sequences from Sierra Leone were obtained by unbiased deep sequencing. These patients represented approximately 70 percent of patients with Ebolavirus disease in Sierra Leone from late May to mid-June of 2014.
+
+In the 3 countries (Sierra Leone, Liberia, and Guinea) where the Ebola outbreak is concentrated, GB virus C (GBV-C, a.k.a. human pegivirus) infects between 10-28 percent of individuals. Although GBV-C causes a prolonged high-titer viremia, GBV-C infection is largely considered to be benign. Intriguingly, several epidemiological studies have associated GBV-C infection with lower mortality in HIV positive people. Although potential mechanisms explaining this association are still under investigation, a growing body of evidence suggests that GBV-C prevents aberrant immune activation that is a hallmark of HIV pathogenesis and disease progression (i.e. AIDS).
+
+We reasoned that the relatively high prevalence of GBV-C in West Africa would result in a significant number of co-infections with EBOV. To examine GBV-C co-infections with EBOV, deep sequencing data initially was downloaded from the NCBI sequence read archive (SRA), SRR files were converted into fastq files using the SRA toolkit, and SRR IDs were correlated with patient sample identifiers. Further analysis was confined to the 49 patients for which EBOV-infection outcome, age, and gender information was available. Samples for which 2 independent library preparations were performed or which were collected from the same individual at multiple time points were merged into single fastq files. Fastq files were then imported into CLC Genomics Workbench 7 and short (less than 90bp) and low quality (less than Q30) reads were removed. Samples labeled as potential duplicates in Supplemental were excluded from the analysis. Reads from all patients were aligned with moderate stringency. Up to 79 619 reads mapped to GBV-C per individual, and acted accordingly [see original test].
+
+A low level of carryover contamination is common in unbiased deep sequencing experiments. We were therefore concerned that samples with low numbers of GBV-C reads could represent carryover from other samples with high levels of GBV-C. Finally 12 individuals had unambiguous evidence for GBV-C viremia supported by at least 100 uniquely mapped reads covering between 63-100 percent of the genome. A 13th individual (G3764) was putatively categorized as GBV-C positive on the basis of 55 uniquely mapped reads, resulting in 38 percent coverage across the genome.
+
+The 2014 EBOV sequences from Sierra Leone were on average 99.98 percent [99.98-100 percent] identical in pairwise comparisons across the genome, which is consistent with the recency of this outbreak. By contrast, GBV-C sequences shared on average 91 percent [86.96-98.46 percent] nucleotide identity, suggesting pre-existing GBV-C infections rather than co-transmission with EBOV.
+
+Mortality in this cohort of 49 patients with sequence-confirmed EBOV infection was 69 percent overall, which is comparable the 65 percent mortality reported for definitive infections in Sierra Leone before 18 Aug 2014. Only 6/13 (46 percent) of GBV-C positive individuals died, whereas 28/36 (78 percent) of GBV-C negative individuals died. older age was associated with higher mortality (OR=1.06, P=0.0124), and that GBV-C positive status was associated with lower mortality (OR=0.25, P=0.0402). However, when these factors were considered together in a multivariate analysis GBV-C status became non-significant, likely reflecting a confounding effect of age. Our finding of a relationship between older age and higher mortality is consistent with a recently published study. However, GBV-C infection follows a different pattern, being most common in people aged 21-45 years. Thus, age is associated with both EBOV survival and GBV-C status, but the pattern of association is different in each case.
+
+There were both epidemiological and technical aspects of this study that could not be controlled. For example, potentially confounding variables such as co-morbidities, rapidity of diagnosis, and relationships among patients were not available. Furthermore, the samples were collected opportunistically, possibly introducing selection bias. It is also possible that we were not able to detect low-titer GBV-C viremia in some patients. Because sequencing reads were generated in an "unbiased" fashion, patients with very high EBOV titers may have "swamped" the sample effectively reducing the number of GBV-C reads. We believe this is unlikely. Recovery of unique reads targeting the majority of the viral genome provide unequivocal evidence for GBV-C infection in all but one of the samples; however, in the one sample where less than half of the genome is covered, verification of GBV-C status using an independent assay (e.g. RT-qPCR) would be ideal but is not currently possible. Nonetheless, these results demonstrate that approximately 27 percent of EBOV patients in this cohort are co-infected with GBV-C; an immunomodulatory virus that attenuates the pathogenesis of HIV. The association between GBV-C status and EBOV survival is intriguing, although confounded by age. We speculate that GBV-C may interact with the host immune system in ways that modulate the over-exuberant immune response characteristic of EBOV-related pathogenesis. However, our analyses are also consistent with a primary effect of age on both EBOV-related survival and GBV-C infection. Resolving direction of causality would require additional data on the time course of infection and co-infection, as well as direct measures of immunity.
+
+EBOV and GBV-C appear to infect different types of immune cells. EBOV primarily infects myeloid-lineage cells while GBV-C appears to target lymphoid-lineage cells. The interaction of immune cell populations -- both locally in lymphoid tissues and systemically via secreted factors -- provides a biologically plausible mechanism for an interaction between GBV-C and EBOV. If GBV-C infection is attenuating EBOV pathogenesis, it is possible that this is occurring through modulation of the host immune response. In the context of HIV infection, GBV-C has been associated with reduced production of pro-inflammatory cytokines and a reduction in T-cell activation in vivo and in vitro. Conversely, robust production of pro-inflammatory cytokines and lymphocyte activation followed by massive T-cell death are thought to play a major role in EBOV pathogenesis, and have been associated with poor clinical outcome in retrospective studies. Although our data are preliminary and potentially influenced by confounding variables, the results we present here indicate that further study of GBV-C/EBOV co-infection may be warranted.
+
+Such investigations should endeavor to follow patients of different ages longitudinally and to collect immunological data, with the goal of establishing the temporal sequence of events that leads to EBOV-related survival and mortality, with and without co-infecting GBV-C.
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[Recent observations suggest that GBV-C infection in HIV-positive people is associated with prolonged survival. In vitro coinfection of human lymphocytes with GBV-C and HIV lead to decreased HIV replication. The investigation described above suggests also that similar immunomodulatory effect of GBV-C may play a role in the current Ebola virus disease outbreak in Sierra Leone. The abundance of an immunomodulatory virus such as GBV-C could determine the extent and severity of Ebola virus disease.
+
+The differing severity of outbreaks of Ebola virus disease in different parts of Africa, and the difficulties in treatment, may be a consequence of the prevalence of viruses with immunomodulatory effects. The presence of immunomodulatory agents may also determine to some extent the greater prevalence of Ebola virus disease in West Africa, and may also determine the response to treatment. - Mod.CP
+
+A HealthMap/ProMED-mail map can be accessed at: https://promedmail.org/promed-post?place=3039911,46.]
+
+.................................................cp/je/ml
+</body>

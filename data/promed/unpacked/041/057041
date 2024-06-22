@@ -1,0 +1,256 @@
+<header id=057041>
+Published Date: 2021-01-12 10:39:12 EST
+Subject: PRO/AH/EDR> COVID-19 update (14): immune response, serology, dengue coinfection, WHO, global
+Archive Number: 20210112.8094266
+</header>
+<body id=057041>
+CORONAVIRUS DISEASE 2019 UPDATE (14): IMMUNE RESPONSE, SEROLOGY, DENGUE COINFECTION, WHO, GLOBAL
+************************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] Cellular immune response
+[2] Non-specific reactivity in serologic assays
+[3] Argentina: coinfection SARS-CoV-2 and dengue
+[4] WHO: daily new cases reported (as of 11 Jan 2021)
+[5] Global update: Worldometer accessed 11 Jan 2021 21:35 EST (GMT-5)
+
+******
+[1] Cellular immune response
+[A] Undetectable IgG
+Date: Accessed 11 Jan 2021
+Source: Emerging Infectious Diseases [abridged, edited]
+https://wwwnc.cdc.gov/eid/article/27/1/20-3772_article
+
+
+ref: Schwarzkopf S, Krawczyk A, Knop D, et al. Cellular immunity in COVID-19 convalescents with PCR-confirmed infection but with undetectable SARS-CoV-2-specific IgG. Emerg Infect Dis. 2021; 27(1):122-129.
+--------------------------------------------------------------------------------
+Abstract
+--------
+We investigated immune responses against severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) among a group of convalescent, potential blood donors in Germany who had PCR-confirmed SARS-CoV-2 infection. 60 days after onset of symptoms, 13/78 (17%) study participants had borderline or negative results to an ELISA detecting IgG against the S1 protein of SARS-CoV-2. We analyzed participants with PCR-confirmed infection who had strong antibody responses (ratio greater than 3) as positive controls and participants without symptoms of SARS-CoV-2 infection and without household contact with infected patients as negative controls. Using interferon-gamma ELISpot, we observed that 78% of PCR-positive volunteers with undetectable antibodies showed T cell immunity against SARS-CoV-2. We observed a similar frequency (80%) of T-cell immunity in convalescent donors with strong antibody responses but did not detect immunity in negative controls. We concluded that, in convalescent patients with undetectable SARS-CoV-2 IgG, immunity may be mediated through T cells.
+
+Discussion
+----------
+As of August 2020, we face the challenge of estimating how many persons are still susceptible to SARS-CoV-2 infection. The ELISpot assay we established may help to identify patients with adaptive immunity against SARS-CoV-2 infection. The assay has the following advantages: it is applicable for routine use, measures cellular immunity within 1 day on a single cell level, determines functional cells, and is independent from HLA restriction. However, it does not allow researchers to determine which T-cell population responds upon restimulation. According to our data in volunteers with confirmed SARS-CoV-2 infection, it could be speculated that the majority of persons with undetectable systemic IgG may presumably be protected by specific T-cell immunity, which would be good news for the control of the pandemic.
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+----
+[B] Cellular immune response without seroconversion
+Date: Accessed Mon 11 Jan 2021
+Source: Emerging Infectious Diseases journal [abridged, edited]
+https://wwwnc.cdc.gov/eid/article/27/1/20-3611_article
+
+
+ref: Gallais F, Velay A, Nazon C, et al. Intrafamilial exposure to SARS-CoV-2 associated with cellular immune response without seroconversion, France. Emerg Infect Dis. 2021; 27(1): 113-121. doi: 10.3201/eid2701.203611
+--------------------------------------------------------------------------------
+Abstract
+--------
+We investigated severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)-specific antibodies and T-cell responses against SARS-CoV-2 and human coronavirus (HCoV) 229E and OC43 in 11 SARS-CoV-2 serodiscordant couples in Strasbourg, France, in which 1 partner had evidence of mild coronavirus disease (COVID-19) and in 10 unexposed healthy controls. Patients with confirmed COVID-19 were considered index patients and their partners close contacts. All index patients displayed positive SARS-CoV-2-specific antibody and T-cell responses that lasted up to 102 days after symptom onset. All contacts remained seronegative for SARS-CoV-2; however, 6 reported COVID-19 symptoms within a median of 7 days after their partners, and 4 of those showed a positive SARS-CoV-2-specific T-cell response against 3 or 4 SARS-CoV-2 antigens that lasted up to 93 days after symptom onset. The 11 couples and controls displayed positive T-cell responses against HCoV-229E or HCoV-OC43. These data suggest that exposure to SARS-CoV-2 can induce virus-specific T-cell responses without seroconversion.
+
+Discussion
+----------
+In this study, we demonstrate that intrafamilial contacts can display a SARS-CoV-2-specific T-cell response in the absence of seroconversion, especially when they have been symptomatic. This T-cell response provides evidence that transient or anatomically contained SARS-CoV-2 infection, or both, may have occurred and that T-cell responses would be more sensitive indicators of SARS-Co-V-2 exposure than antibodies.
+
+There are multiple explanations for virus-specific T cells developing without any antibody response. A study in a small cohort of patients (14) reported that 40% of asymptomatic and 12.9% of patients with mild COVID-19 no longer had antibodies 56 days after being discharged from the hospital. In our study, the serum samples were collected between 49 to 102 days after symptom onset, so it is possible that the contacts had lost their antibodies during this period. It is also possible that very low levels of antibodies that might have developed in contacts were not detected by the serologic assays we used. The lack of specific antibodies might also be because of exposure to low doses of the virus with brief and transient viral replication, to a downstream event of protective innate immune response, or to abortive replication of defective viral genomes (5).
+
+Overall, our results indicate that persons exposed to SARS-CoV-2 may develop virus-specific T-cell responses without detectable circulating antibodies. This aspect of the immune response against SARS-CoV-2 contributes substantially to the understanding of the natural history of COVID-19. Furthermore, our data indicate that epidemiologic data relying solely on the detection of SARS-CoV-2 antibodies may lead to a substantial underestimation of prior exposure to the virus. Our data may also have implications for vaccine development and tracking the future evolution of the SARS-CoV-2 pandemic.
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[The inability to detect humoral antibodies to SARS-CoV-2 following infection may not necessarily indicate lack of seroconversion, but rather can occur for a variety of reasons. The infectious dose may have been insufficient to stimulate a robust antibody response. Or the timing of the specimen collection may be either too early or too late. Or the level of antibody present was below the limit of detectability of the assay. These studies highlight the importance of measuring virus-specific T cell antibody levels as well, which may be more predictive of protection than IgG. - Mod.LK]
+
+******
+[2] Non-specific reactivity in serologic assays
+Date: Accessed Mon 11 Jan 2021
+Source: Emerging Infectious Diseases journal [abridged, edited]
+https://wwwnc.cdc.gov/eid/article/27/1/20-3281_article
+
+
+ref: Yadouleton A, Sander AL, Moreira-Soto A, et al. Limited specificity of serologic tests for SARS-CoV-2 antibody detection, Benin. Emerg Infect Dis. 2021 Jan; 27(1): 233-7. doi: 10.3201/eid2701.203281. Epub 2020 Dec 1. PMID: 33261717; PMCID: PMC7774555.
+--------------------------------------------------------------------------------
+Abstract
+--------
+We used commercially available ELISAs to test 68 samples from coronavirus disease cases and prepandemic controls from Benin. We noted 25% or less false-positive results among controls, likely due to unspecific immune responses elicited by acute malaria. Serologic tests must be carefully evaluated to assess coronavirus disease spread and immunity in tropical regions.
+
+Conclusion
+----------
+We assessed SARS-CoV-2 antibody-based serologic diagnostics in Benin and noted unspecific reactivity in up to 25% of febrile patients, possibly due to acute malaria. Limitations of our study include the small sample size and limited patient metadata. Testing of serum samples for CMV [cytomegalovirus] and EBV [Epstein-Barr virus] by PCR might not have been sensitive due to lack of cell-associated viral nucleic acid; therefore, we cannot exclude potential herpesvirus reactivation affecting serologic testing. Nevertheless, our analyses point to acute malaria as the likely cause of the unspecific serologic reactivity, although we cannot exclude other coexisting conditions in the tropics, such as dengue virus, which also can affect testing (12).
+
+Unspecific reactivity in serologic tests might affect public health interventions in tropical regions, leading to overestimates of SARS-CoV-2 circulation in regions where malaria is endemic and to misidentification of SARS-CoV-2 hotspots. In addition, due to false-positive SARS-CoV-2 results, target populations for vaccine campaigns might be missed when vaccines become available, and coexistent diseases, such as malaria, might be overlooked, leading to higher mortality rates from endemic diseases (13,14). The robustness of current and future SARS-CoV-2 serologic tests should be further assessed by multicentric seroepidemiologic studies from different tropical regions (15).
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[Non-specific antibody reactions confound interpretation of serologic assays and must be assessed to gain confidence in the results. This report of non-specific reactions in up to 25% of febrile patients suspected to have COVID in Benin highlights the problem. Since symptoms are not always helpful in determining etiologic agent, more specific assays or a combination of assays need to be evaluated. - Mod.LK]
+
+******
+[3] Argentina: coinfection SARS-CoV-2 and dengue
+Date: Accessed Fri 8 Jan 2021
+Source: Emerging Infectious Diseases journal [edited]
+https://wwwnc.cdc.gov/eid/article/27/2/20-3439_article
+
+
+ref: Carosella LM, Pryluka D, Maranzana A, et al; COVIDENGUE Study Group. Characteristics of patients co-infected with severe acute respiratory syndrome Coronavirus 2 and dengue virus, Buenos Aires, Argentina, March-June 2020. Emerg Infect Dis. 2021 Feb; 27(2). doi: 10.3201/eid2702.203439. PMID: 33347804.
+--------------------------------------------------------------------------------
+Abstract
+--------
+An epidemic of dengue virus and severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) co-infections occurred in Argentina during 2020. We describe the clinical characteristics and outcomes in a cohort of patients hospitalized because of co-infection. We retrospectively identified 13 patients from different hospitals in Buenos Aires who had confirmed infection with SARS-CoV-2 and dengue virus and obtained clinical and laboratory data from clinical records. All patients had febrile disease when hospitalized. Headache was a common symptom. A total of 8 patients had respiratory symptoms, 5 had pneumonia, and 3 had rash. Nearly all patients had lymphopenia when hospitalized. No patients were admitted to an intensive care unit or died during follow up. Co-infection with SARS-CoV-2 and dengue virus can occur in patients living in areas in which both viruses are epidemic. The outcome of these patients did not seem to be worse than those having either SARS-CoV-2 or dengue infection alone.
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[During the period 3 Mar 2020 to 25 Oct 2020], Argentina confirmed 1 090 589 infections with SARS-CoV-2 of which 143 990 were in the city of Buenos Aires. During the period 4 Jan 2020 to 13 Jun 2020 there were approximately 7300 confirmed cases of dengue in the city. Prior reports of co-infection were individual case reports. In this study, the authors identified a cohort of 13 individuals with documented coinfection with the 2 viruses. Table 1 shows the demographic and clinical characteristics (available at https://wwwnc.cdc.gov/eid/article/27/2/20-3439-t1). Patients were young (mean age 37), 6 females/7 males, all were febrile, the most common symptoms were headache (8) and myalgia (7), and 5 had pneumonia. There were no deaths among the group.
+
+The authors mentioned that their study confirmed that coinfections could occur raising a concern that 2021 may see a resurgence of dengue transmission and lead to an additional burden on the health sector. They remarked on the mild presentation of both dengue symptoms as well as COVID-19 symptoms. As most patients had prolonged fever, usually a sign of more severe COVID-19, the mild clinical presentation associated with the prolonged fever should lead clinicians to suspect coinfection. Unfortunately in other case reports the outcomes were not as good (see references below).
+
+Other case reports referenced in the article include:
+Bicudo N, Bicudo E, Costa JD, et al. Co-infection of SARS-CoV-2 and dengue virus: a clinical challenge. Braz J Infect Dis. 2020 Sep-Oct; 24(5): 452-4. https://www.sciencedirect.com/science/article/pii/S1413867020301070.
+
+Epelboin L, Blondé R, Nacher M, et al. COVID-19 and dengue co-infection in a returning traveller. J Travel Med. 2020; Sep 26; 27(6): taaa114; https://academic.oup.com/jtm/article/27/6/taaa114/5870449/.
+
+Pontes RL, de Brito BB, da Silva FAF, et al. Coinfection by SARS-CoV-2 and dengue virus in a dual viral circulation setting. Travel Med Infect Dis. 2020 Sep-Oct;37:101862; https://www.sciencedirect.com/science/article/abs/pii/S1477893920303586.
+
+Additional case reports of interest:
+Tiwari L, Shekhar S, Bansal A, Kumar P. COVID-19 with dengue shock syndrome in a child: coinfection or cross-reactivity? BMJ Case Rep. 2020 Dec 21;13(12):e239315. doi: 10.1136/bcr-2020-239315. PMID: 33370956; PMCID: PMC7754616; https://casereports.bmj.com/content/13/12/e239315.long.
+
+Nasomsong W, Luvira V, Phiboonbanakit D. Case report: Dengue and COVID-19 coinfection in Thailand. Am J Trop Med Hyg. 2020 Dec 15. doi: 10.4269/ajtmh.20-1340. Epub ahead of print. PMID: 33331264; https://www.ajtmh.org/docserver/fulltext/10.4269/ajtmh.20-1340/tpmd201340.pdf.
+
+Somasetia DH, Malahayati TT, Andriyani FM, et al. A fatal course of multiple inflammatory syndrome in children coinfection with dengue. A case report from Indonesia. IDCases. 2020; 22:e01002. doi: 10.1016/j.idcr.2020.e01002. Epub 2020 Nov 2. PMID: 33163360; PMCID: PMC7605729; https://www.sciencedirect.com/science/article/pii/S2214250920303103.
+
+Radisic MV, Piro MA, Mori I, et al. SARS-CoV-2 and dengue virus co-infection. A case report. Infez Med. 2020 Sep 1; 28(3): 416-419. PMID: 32920578; https://www.infezmed.it/index.php/article?Anno=2020&numero=3&ArticoloDaVisualizzare=Vol_28_3_2020_416
+
+Estofolete CF, Machado LF, Zini N, et al. Presentation of fatal stroke due to SARS-CoV-2 and dengue virus coinfection. J Med Virol. 2020 Sep 3. doi: 10.1002/jmv.26476. Epub ahead of print. PMID: 32881018; https://onlinelibrary.wiley.com/doi/10.1002/jmv.26476.
+- Mod.MPP]
+
+******
+[4] WHO: daily new cases reported (as of 11 Jan 2021)
+Date: Mon 11 Jan 2021
+Source: WHO [abridged, edited]
+https://covid19.who.int/table
+
+
+*Daily case reports as of 11 Jan 2021 19:21 CET
+
+Surveillance
+------------
+WHO region (no. countries/territories):
+Total confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+----------------------------------------
+Western Pacific Region (19): 1 195 640 (10 978) / 21 199 (80)
+European Region (61): 28 986 854 (189 271) / 629 900 (3096)
+South East Asia Region (10): 12 286 356 (28 672) / 188 182 (396)
+Eastern Mediterranean Region (22): 5 173 214 (24 082) / 125 217 (381)
+Region of the Americas (54): 39 242 554 (380 886) / 917 383 (6642)
+African Region (49): 2 162 982 (27 104) / 48 371 (466)
+Cases on an international conveyance (Diamond Princess): 745 (0) / 13 (0)
+
+Confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+Grand total: 89 048 345 (660 993) / 1 930 265 (11 061)
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[The number of countries and territories reporting confirmed cases of COVID-19 to WHO is now 219 with the reports of a case in Micronesia [see comment below].
+
+Data by country, area, or territory for 11 Jan 2021 can be accessed at https://promedmail.org/wp-content/uploads/world-pdf/2021%20WHO%20Daily%20Tables%20Jan%2011_1610405742.pdf.
+
+- The Americas region reported 57.6% of daily case numbers and 60.0% of the daily deaths reported in the past 24 hours and maintained its position as the most severely affected region, having reported more than 39.2 million cases. The USA maintains its dominance, followed by Brazil, Mexico, Colombia, and Argentina. 7 additional countries reported more than 1000 cases in the past 24 hours (Canada, Chile, Panama, Peru, Bolivia, Dominican Republic, and Paraguay) and an additional 4 countries (Honduras, Ecuador, Uruguay, and Venezuela) reported more than 500 but fewer than 1000 cases. Costa Rica among other countries did not report any newly confirmed cases in the past 24 hours.
+
+- The European region reported 28.6% of daily case numbers and 28.0% of the daily deaths reported in the past 24 hours, and total cumulative cases reported exceed 28.9 million. Countries not reporting cases include Spain, Belgium (2 cases), Sweden, Israel, Switzerland, and Kazakhstan, among others. The UK maintains its dominance, followed by Russia, Italy, France, Germany (reporting more than 10 000 cases). Another 14 countries reported more than 1000 cases, and an additional 7 countries reported more than 500 but fewer than 1000 cases.
+
+- The Eastern Mediterranean region reported 3.6% of daily case numbers and 3.4% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 5.17 million cases. Iran maintains its dominance, having reported almost 6000 cases, followed by Lebanon (over 3700); Pakistan, UAE, Tunisia, and Jordan reported more than 1000 cases. Egypt, Morocco, Libya, Iraq, Palestinian Authority, Iraq, and Oman reported more than 500 but fewer than 1000 cases.
+
+- The African region reported 4.1% of daily case numbers and 4.2% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 2.16 million cases. South Africa maintains its dominance, with over 17 000 cases, followed by Nigeria, Zambia, Zimbabwe, Mozambique, Niger, Namibia, Ethiopia, Mauritania, Malawi, Eswatini/Swaziland, Senegal, Algeria, and Burkina Faso.
+
+- The Western Pacific region reported 1.7% of daily case numbers and 0.72% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 1.19 million cases. Japan maintains its dominance, reporting almost 6000 cases, followed by Malaysia, Philippines, South Korea, and China.
+
+- The South East Asia region reported 4.3% of the daily newly reported cases and 3.6% of reported deaths in the past 24 hours, having reported a cumulative total of more than 12.28 million cases. India reported about 16 000 cases (less than half of what was reported yesterday 10 Jan 2021), Indonesia reported more than 9600 cases, followed by Bangladesh, Myanmar, Sri Lanka, Nepal, and Thailand.
+
+On the Overview tab at the WHO source URL, the epidemic curve of confirmed COVID-19 cases by WHO region, 30 Dec 2019 through 11 Jan 2021, is an excellent visual representation of the pandemic. - Mod.MPP]
+
+******
+[5] Global update: Worldometer accessed 11 Jan 2021 21:35 EST (GMT-5)
+Date: Mon 11 Jan 2021
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at https://promedmail.org/wp-content/uploads/world-pdf/2021%20WORLDDATAJAN11_1610423835.pdf.
+
+A 7-day series of cumulative data reported by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/2021%20JAN11WORLD7_1610423924.pdf. - Mod.MPP]
+
+Total number of reported deaths: 1 952 879
+Total number of worldwide cases: 91 314 370
+Number of newly confirmed cases in the past 24 hours: 626 383
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[Weekend artifact is still present but easing up. Countries not reporting cases in the past 24 hours include Sweden, Guatemala, and Bosnia and Herzegovina. Countries showing marked decreases in reports include the USA (down 30.5% in the past 72 hours, Brazil down 53.3% in the past 48 hours; and globally the total reported cases is down 27.1% in the past 72 hours and the global reported deaths is down 36.6% in the past 72 hours.
+
+In the past 24 hours, the USA (225 863), Spain (61 422), and the UK (46 169), have reported the highest numbers of cases. A global total of 9789 deaths were reported in the past 24 hours (10-11 Jan 2021).
+
+Countries reporting more than 10 000 newly confirmed cases in the past 24 hours (11 countries -- down from 16 countries on 9 Jan 20210) include the USA, Spain, UK, Brazil (28 043), Russia (23 315), South Africa (15 046), Colombia (15 003), Italy (12 530), India (12 482), Germany (11 766), and Turkey (10 220). A total of 48 countries reported more than 1000 cases in the past 24 hours (down from 57 countries on Friday 8 Jan 2021); 22 of the 48 countries that reported more than 1000 newly confirmed cases are from the European region, 13 are from the Americas region, 6 are from the Eastern Mediterranean region, 2 are from the South East Asia region, 3 are from the Western Pacific region, and 2 from the African region (note the biggest decrease is in the European countries). A noteworthy occurrence is the 1st report of a case from Micronesia -- a crew member on a government ship that was in the Philippines undergoing repairs (https://www.france24.com/en/live-news/20210111-pacific-s-micronesia-records-first-covid-19-case.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, case counts have increased by 17.6%, while daily reported deaths have increased by 17.1%. Similar comparative 7-day averages in the United States show a 13.9% increase in daily reported cases and a 22.1% increase in reported deaths.
+
+Impression: Even with weekend artifacts related to decreased reporting of newly confirmed cases and deaths, there are still over half a million newly confirmed cases in the past 24 hours, and comparative 7-day averages demonstrate continued growth of the pandemic in terms of reported cases and deaths, especially in Brazil and the USA. The global cumulative reported cases are over 91.3 million with over 1.95 million reported deaths. As mentioned previously, the elevated comparative 7-day averages are probably indicative of the Christmas and New Year's holiday travel and gatherings. - Mod.MPP]
+See Also
+COVID-19 update (13): animal, USA, zoo, gorilla 20210112.8095510
+COVID-19 update (12): viral load, variants, Thailand, China, WHO, global 20210111.8091330
+COVID-19 update (11): variants, China, neutralizing ab. regional, WHO, global 20210110.8088708
+COVID-19 update (10): IgA, IL-6 receptor agonists, China, WHO, global 20210109.8086465
+COVID-19 update (01): variants, vaccine, Thailand, global, WHO 20210101.8062938
+2020
+----
+COVID-19 update (562): viral load, UK vacc dose, ECDC, WHO 20201231.8061525
+COVID-19 update (561): variants, China serosurvey, psychosis, WHO 20201230.8057135
+COVID-19 update (560): variants, Thailand, viral shedding, WHO 20201229.8054081
+COVID-19 update (550): mutation, query, Thailand, Taiwan, WHO, global, RFI 20201223.8040292
+COVID-19 update (540): S Africa MIS-C, USA risk factors, Iran serosurvey, WHO global 20201216.8021945
+COVID-19 update (530): animal, mink, research, experimental infection, vaccine 20201210.8009205
+COVID-19 update (520): Denmark, Netherlands, mink, human-animal interface, WHO 20201204.7994061
+COVID-19 update (510): animal, mink, Lithuania, Poland, 1st reports, France, OIE 20201127.7976927
+COVID-19 update (500): frequent rapid tests, vaccine, WHO, global 20201122.7962919
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+Undiagnosed pediatric inflammatory syndrome (05): Europe, USA, COVID-19 assoc 20200518.7340554
+Undiagnosed pediatric inflammatory syndrome (04): USA, UK, PMIS, fatal 20200509.7315405
+Undiagnosed pediatric inflammatory syndrome (03): USA, Europe, COVID-19 susp, RFI 20200505.7299876
+COVID-19 update (150): global, USA state prisons, WHO 20200502.7290671
+COVID-19 update (100): China, S. Korea & high local transmission countries 20200413.7217806
+COVID-19 update (50): China (Hong Kong) animal dog, 2nd case PCR positive, OIE 20200323.7129951
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (41): China, global, clinical pics, asymptomatic trans., WHO 20200210.6976117
+Novel coronavirus (40): animal reservoir, pangolin poss intermediate host, RFI 20200210.6972104
+Novel coronavirus (30): updates, China, Viet Nam, research 20200202.6945658
+Novel coronavirus (20): China, wildlife trade ban 20200127.6922060
+Novel coronavirus (10): China (HU, GD, BJ) 20200119.6898567
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia: China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia: China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+----
+Undiagnosed pneumonia: China (HU): RFI 20191230.6864153
+and other items in the archives
+.................................................sb/lk/mpp/mj/mpp/ml
+</body>

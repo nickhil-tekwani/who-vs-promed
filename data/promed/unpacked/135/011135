@@ -1,0 +1,196 @@
+<header id=011135>
+Published Date: 2019-05-09 19:11:47 EDT
+Subject: PRO/EDR> Hepatitis A - USA (17)
+Archive Number: 20190509.6462226
+</header>
+<body id=011135>
+HEPATITIS A - USA (17)
+**********************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+Date: Thu 9 May 2019
+Source: MMWR 2019; 68(18); 413-415 [edited]
+https://www.cdc.gov/mmwr/volumes/68/wr/mm6818a2.htm?s_cid=mm6818a2_w
+
+
+Increase in hepatitis A virus infections: United States, 2013-2018
+-------------------------------------------------
+Hepatitis A virus (HAV) is primarily transmitted fecal-orally after close contact with an infected person (1); it is the most common cause of viral hepatitis worldwide, typically causing acute and self-limited symptoms, although rarely liver failure and death can occur (1). Rates of hepatitis A had declined by approximately 95% during 1996-2011; however, during 2016-2018, CDC received approximately 15 000 reports of HAV infections from USA states and territories, indicating a recent increase in transmission (2,3). Since 2017, the vast majority of these reports were related to multiple outbreaks of infections among persons reporting drug use or homelessness (4). In addition, increases of HAV infections have also occurred among men who have sex with men (MSM) and, to a much lesser degree, in association with consumption of imported HAV-contaminated food (5,6). Overall, reports of hepatitis A cases increased 294% during 2016-2018 compared with 2013-2015. During 2016-2018, CDC tested 4282 specimens, of which 3877 (91%) had detectable HAV RNA; 565 (15%), 3255 (84%), and 57 (less than 1%) of these specimens were genotype IA, IB, or IIIA, respectively. Adherence to the Advisory Committee on Immunization Practices (ACIP) recommendations to vaccinate populations at risk can help control the current increases and prevent future outbreaks of hepatitis A in the United States (7).
+
+Hepatitis A infections among persons who meet the Council of State and Territorial Epidemiologists (CSTE) hepatitis A case definition (https://wwwn.cdc.gov/nndss/conditions/hepatitis-a-acute/) are notified to CDC through the National Notifiable Diseases Surveillance System (NNDSS). Cases reported to CDC through NNDSS during 2013-2018 were used to calculate percent change (2013-2015 versus 2016-2018) by state and mapped using RStudio software (version 1.2.1335; RStudio, Inc.). Serum specimens from CSTE confirmed cases submitted to the CDC laboratory were tested for HAV RNA by polymerase chain reaction, and isolated virus was amplified to characterize a 315-base-pair fragment of the VP1/P2B region, which defines the genotype of the virus.
+
+Overall, reports of hepatitis A cases increased 294% during 2016-2018 compared with 2013-2015 (Figure) [for Figure, see original URL. - Mod.LL]. A total of 18 states had lower case counts during 2016-2018 compared with 2013-2015, while 9 states and Washington, DC, had an increase of approximately 500%. During 2013-2018, 4508 HAV anti-immunoglobulin M-positive specimens underwent additional testing at CDC. During 2013-2015, 226 specimens underwent additional testing, of which 197 (87%) had detectable HAV RNA; of the RNA-positive specimens, 76 (39%), 121 (61%), and 0 (0%) tested positive for a genotype IA, IB, or IIIA viral strain, respectively. In comparison, 4282 specimens were tested by CDC during 2016-2018, of which 3877 (91%) had detectable HAV RNA; 565 (15%), 3,255 (84%), and 57 (less than 1%) of these specimens were genotype IA, IB, or IIIA, respectively.
+
+Discussion
+----------
+The number of hepatitis A infections reported to CDC increased during 2016-2018, along with the number of specimens from infected persons submitted to CDC for additional testing. In the past, outbreaks of hepatitis A virus infections occurred every 10-15 years and were associated with asymptomatic children (8). With the widespread adoption of universal childhood vaccination recommendations (https://www.cdc.gov/mmwr/preview/mmwrhtml/rr5507a1.htm), asymptomatic children are no longer the main drivers of hepatitis A outbreaks (3,9). Although the overall incidence rate of HAV infections has decreased within all age groups, a large population of susceptible, unvaccinated adults who were not infected by being exposed to the virus during childhood remain vulnerable to infection by contaminated foods (typically imported from countries with endemic HAV transmission) and, recently, on a much larger scale, through behaviors that increase risk for infection in certain vulnerable populations, such as drug use (3).
+
+Increasingly, molecular epidemiology is employed by public health laboratories to better characterize hepatitis A transmission patterns. When combined with reliable epidemiologic data, these laboratory data can be used to identify transmission networks and confirm the source of exposure during common-source outbreaks, facilitating prompt and effective public health response. Historically, genotype IA has been the most common genotype circulating in North and South America. During 2013-2018, HAV genotype IB predominated in the United States. Increasing numbers of genotype IIIA were seen, a genotype that is considered rare in the United States.
+
+Decreasing new infections from hepatitis A virus can be achieved and sustained by maintaining a high level of population immunity through vaccination. There is no universal vaccination recommendation for adults in the United States; however, ACIP does recommend vaccination for adults who plan travel to HAV-endemic countries, MSM, persons who use drugs, persons with chronic liver disease, and, recently, persons experiencing homelessness (7). Continued efforts to increase hepatitis A vaccination coverage among the ACIP-recommended risk groups is vital to halting the current hepatitis A outbreaks and reducing overall hepatitis A incidence in the United States.
+
+References
+-----------
+1. Franco E, Meleleo C, Serino L, Sorbara D, Zaratti L: Hepatitis A: epidemiology and prevention in developing countries. World J Hepatol. 2012; 4: 68-73.
+2. CDC. Viral hepatitis surveillance, United States 2016. Atlanta, GA: US Department of Health and Human Services, CDC; 2017. https://www.cdc.gov/hepatitis/statistics/2016surveillance/pdfs/2016HepSurveillanceRpt.pdf
+3. CDC. National notifiable infectious diseases: weekly tables, 2018. Atlanta, GA: US Department of Health and Human Services, CDC; 2018. https://wonder.cdc.gov/nndss/static/2018/52/2018-52-table2H-H.pdf
+4. Foster M, Ramachandran S, Myatt K, et al.: Hepatitis A virus outbreaks associated with drug use and homelessness: California, Kentucky, Michigan, and Utah, 2017. MMWR Morb Mortal Wkly Rep. 2018; 67: 1208-10.
+5. Viray MA, Hofmeister MG, Johnston DI, et al.: Public health investigation and response to a hepatitis A outbreak from imported scallops consumed raw: Hawaii, 2016. Epidemiol Infect. 2018; 147: 1-8.
+6. Latash J, Dorsinville M, Del Rosso P, et al.: Notes from the field: increase in reported hepatitis A infections among men who have sex with men: New York City, January-August 2017. MMWR Morb Mortal Wkly Rep. 2017; 66: 999-1000.
+7. Weng M, Moore KL, Romero JR, Nelson NP: Recommendations of the Advisory Committee on Immunization Practices for use of hepatitis A vaccine for persons experiencing homelessness. MMWR Morb Mortal Wkly Rep. 2019; 68: 153-6.
+8. Murphy TV, Denniston MM, Hill HA, et al.: Progress toward eliminating hepatitis A disease in the United States. MMWR Suppl. 2016; 65: 29-41.
+9. Klevens RM, Denniston MM, Jiles-Chapman RB, Murphy TV: Decreasing immunity to hepatitis A virus infection among US adults: findings from the National Health and Nutrition Examination Survey (NHANES), 1999-2012. Vaccine. 2015; 33: 6192-8.
+
+[Authors: Foster MA, Hofmeister MG, Kupronis BA, et al.]
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[Outbreaks continue in a significant number of states. Kentucky, by far, leads the pack.
+
+Except for Arizona, all the other state data is obtained via the CDC website https://www.cdc.gov/hepatitis/outbreaks/2017March-HepatitisA.htm. Outbreaks in California and Utah have been declared over.
+
+Arkansas https://www.healthy.arkansas.gov/programs-services/topics/hepatitis-a:
+As of 3 Jan 2019
+The ADH is responding to an outbreak in northeast Arkansas. Since February 2018, 335 cases have been reported as part of this outbreak.
+
+Arizona https://www.azcentral.com/story/news/local/arizona-health/2019/04/30/what-you-need-know-arizonas-hepatitis-outbreak-maricopa-pima-county/3551069002/:
+So far in 2019, there have been 212 cases reported in Arizona, which is higher than any yearly statewide total in more than a decade, state data shows, and state health officials expect that number to rise.
+
+Colorado https://docs.google.com/document/d/e/2PACX-1vSrN6YvR6zibn7hg7g78DpjhpQYEZR3H7H34_Pl1As8Uo237X82NmRRxdpscSyNuJ6gWIKyFBWt7pG3/pub:
+As of 8 May 2019, there have been 57 cases, 33 hospitalizations, 0 deaths.
+
+Florida http://www.floridahealth.gov/diseases-and-conditions/vaccine-preventable-disease/hepatitis-a/surveillance-data/index.html:
+From 1 Jan 2018 through 4 May 2019, 1585 hepatitis A cases were reported. The number of reported hepatitis A cases more than doubled from 2016 to 2017 and nearly doubled again in 2018 after remaining relatively stable in previous years. Case counts in 2019 have already surpassed those in 2018.
+
+Georgia https://dph.georgia.gov/sites/dph.georgia.gov/files/related_files/site_page/Hepatitis%20A%20Advisory_March%202019_final.pdf:
+11 Mar 2019
+Since January 2018, the Georgia Department of Public Health (DPH) has identified 170 acute hepatitis A virus (HAV) infections statewide (to date), more than 6 times higher than the total of 24 infections identified in 2017. Nearly 60% of the infections have occurred in northwest and north Georgia as well as the Augusta area. HAV infections are continuing to increase in all 3 of these districts, indicative of an HAV outbreak. Increases have also been seen in other areas of the state and are being monitored closely.
+
+Illinois http://www.dph.illinois.gov/hepatitisA:
+Illinois hepatitis A outbreak cases as of 8 May 2019
+Number of cases: 69
+
+Indiana https://www.in.gov/isdh/27791.htm:
+Indiana hepatitis A outbreak data as of 3 May 2019
+Outbreak cases: 1325
+Outbreak deaths: 4
+
+Kentucky https://chfs.ky.gov/agencies/dph/dehp/idb/Pages/hepAoutbreak.aspx:
+Counts as of 27 Apr 2019
+Total outbreak: 4594
+Hospitalizations: 2222
+Deaths: 53
+
+Louisiana http://ldh.la.gov/index.cfm/page/3518:
+As of 3 May 2019, Louisiana has 148 reported cases of HAV infection, 3 of which are not linked to the current outbreak. These are cumulative counts since 1 Jan 2018.
+
+Massachusetts https://www.mass.gov/files/documents/2019/05/06/hav-data-summary-5-3-19.docx:
+1 Apr 2018-3 May 2019
+Since April 2018, 352 cases of acute hepatitis A virus (HAV) infection have been reported to the Massachusetts Department of Public Health (MDPH) in individuals with recent experience of homelessness, unstable housing, and/or substance use disorder. This report, which is updated weekly, summarizes outbreak-associated cases. Outbreak-associated cases are compared to non-outbreak 2018-2019 cases and 2017 cases (pre-outbreak year).
+
+Michigan https://www.michigan.gov/mdhhs/0,5885,7-339-71550_2955_2976_82305_82310-447907--,00.html:
+Michigan hepatitis A outbreak cases and deaths as of 8 May 2019
+Cases: 913
+Hospitalizations: 733
+Deaths: 28
+
+Missouri https://health.mo.gov/living/healthcondiseases/communicable/hepatitisa/index.php#outbreak:
+As of 7 May 2019
+Cases: 289
+Hospitalizations: 144
+Deaths: 1
+
+New Hampshire https://www.dhhs.nh.gov/dphs/cdcs/hepatitisa/hepa-nh.htm:
+Hepatitis A virus (HAV) investigation summary report
+1 Nov 2018-7 May 2019
+Total number of HAV infections identified: 98
+Hospitalized: 60 (61%)
+Deaths: 1
+
+North Carolina https://epi.dph.ncdhhs.gov/cd/hepatitis/hepa_outbreak.html:
+North Carolina hepatitis A outbreak-associated cases, 1 Jan 2018-6 May 2019
+Cases: 76
+Hospitalizations: 55
+Deaths:1
+
+Ohio https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/outbreak-response-bioterrorism-investigation-team/news-and-events/newsevent1:
+Hepatitis A outbreak summary (6 May 2019)
+Number of cases: 2210
+Illness onset range: 5 Jan 2018-1 May 2019
+Age range: 1-84 years
+Number of hospitalizations: 1353 (61%)
+Number of deaths: 7
+Number of counties with cases: 76 (86%)
+
+Tennessee https://www.tn.gov/health/cedep/tennessee-hepatitis-a-outbreak.html:
+Total confirmed cases of hepatitis A in Tennessee (1 Dec 2017-3 May 2019)
+Cases: 1356
+Hospitalizations: 830
+Deaths: 8
+
+West Virginia https://oeps.wv.gov/ob_hav/pages/default.aspx:
+West Virginia Hepatitis A outbreak cases as of 26 Apr 2019
+Number of cases: 2503
+Deaths 21
+- Mod.LL
+
+HealthMap/ProMED-mail map:
+United States: https://promedmail.org/promed-post?place=6462226,106]
+See Also
+Hepatitis A - USA (16): (FL, VA, LA) 20190501.6450738
+Hepatitis A - USA (15): (FL) focal fatalities 20190421.6432789
+Hepatitis A - USA (14): spread 20190420.6429687
+Hepatitis A - USA (13): (KY, WV, OH) 20190418.6429568
+Hepatitis A - USA (12): (KY, WV, OH) 20190404.6404987
+Hepatitis A - USA (11): (KY,WV,OH) 20190325.6386607
+Hepatitis A - USA (10): (NJ) 20190309.6357839
+Hepatitis A - USA (09): (KY,WV,OH) 20190306.6352746
+Hepatitis A - USA (08): (KY,WV,OH) 20190219.6325591
+Hepatitis A - USA (07): (KY,WV,OH) 20190212.6312986
+Hepatitis A - USA (06): (KY,WV,OH) 20190207.6304933
+Hepatitis A - USA (05): (KY, WV, OH) 20190126.6279142
+Hepatitis A - USA (04): (AZ, LA, MA) 20190119.6267077
+Hepatitis A - USA (03): (KY, WV, OH) 20190117.6263392
+Hepatitis A - USA (02): (OH, IN, FL) 20190110.6249959
+Hepatitis A - USA (01): (KY, TN) 20190104.6241686
+2018
+----
+Hepatitis A - USA (65): (KY, WV, AL) 20181229.6226575
+Hepatitis A - USA (64): (NM, AZ) 20181218.6213878
+Hepatitis A - USA (63): (KY) 20181217.6212689
+Hepatitis A - USA (62): (KY, WV) 20181211.6204048
+Hepatitis A - USA (61): (IN, AR, LA) 20181209.6192447
+Hepatitis A - USA (60): (KY, WV, FL) 20181203.6178495
+Hepatitis A - USA (59): (KY, WV, OH) 20181127.6168161
+Hepatitis A - USA (58): (NM) 20181121.6155802
+Hepatitis A - USA (57): (PA, WV) 20181119.6154486
+Hepatitis A - USA (56): (WV, TN) 20181114.6145681
+Hepatitis A - USA (55): (OH, PA, MI) 20181108.6134074
+Hepatitis A - USA (54): (NC) fatal 20181107.6131462
+Hepatitis A - USA (53): (KY, WV) 20181105.6127128
+Hepatitis A - USA (52): 2017 20181102.6124030
+Hepatitis A - USA (51): vaccination of homeless 20181031.6123076
+Hepatitis A - USA (50): (CA, IN, FL) 20181031.6121044
+Hepatitis A - USA (49): (KY, WV) 20181029.6118525
+Hepatitis A - USA (48): more cases, CDC recommendations 20181026.6112506
+Hepatitis A - USA (47): (KY, WV, FL) 20181024.6105628
+Hepatitis A - USA (46): (KY, WV, PA) 20181016.6094878
+Hepatitis A - USA (45): (KY, WV, NY) 20181002.6065894
+Hepatitis A - USA (44): (MA, TN) 20180925.6049219
+Hepatitis A - USA (43): (KY, WV) 20180924.6048976
+Hepatitis A - USA (42): (KY, WV) 20180919.6039246
+Hepatitis A - USA (41): (KY, WV) 20180910.6020394
+Hepatitis A - USA (40): (KY, WV) 20180906.6012457
+Hepatitis A - USA (30): (WV, AR) 20180714.5905424
+Hepatitis A - USA (20): (KY, TN) 20180527.5820929
+Hepatitis A - USA (10): (KY, UT, MI) 20180307.5671905
+Hepatitis A - USA: (HI) 20180107.5543399
+.................................................ll/tw/lm
+</body>

@@ -1,0 +1,262 @@
+<header id=043605>
+Published Date: 2021-02-06 06:34:56 EST
+Subject: PRO/AH/EDR> COVID-19 update (51): variant mortality, frailty, USA variants, WHO
+Archive Number: 20210206.8170027
+</header>
+<body id=043605>
+CORONAVIRUS DISEASE 2019 UPDATE (51): VARIANT MORTALITY, FRAILTY, USA VARIANTS, WHO
+***********************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] UK: B.1.1.7 variant-associated mortality
+[2] Age and frailty: increased risk
+[3] USA: variants
+[4] WHO: daily new cases reported (as of 5 Feb 2021)
+[5] Global update: Worldometer accessed 5 Feb 2021 21:25 EST (GMT-5)
+
+******
+[1] UK: B.1.1.7 variant-associated mortality
+Date: Fri 5 Feb 2021
+Source: Nature News [abridged, edited]
+https://www.nature.com/articles/d41586-021-00299-2
+
+
+The news is sobering, but complicated. Scientists have released the data behind a British government warning last week that the fast-spreading SARS-CoV-2 variant B.1.1.7 increases the risk of dying from COVID-19 compared with previous variants. But some scientists caution that the latest study -- like the government warning -- is preliminary and still does not indicate whether the variant is more deadly or is just spreading faster and so reaching greater numbers of vulnerable people.
+
+The latest findings are concerning, but to draw conclusions "more work needs to be done", says Muge Cevik, a public-health researcher at the University of St Andrews, who is based in Edinburgh, UK.
+
+Last week, British prime minister Boris Johnson said preliminary data from several research groups suggested that B.1.1.7, which was first identified in the UK, was spreading more quickly than previous variants and was also associated with a higher risk of death. On 3 Feb 2021, researchers at the London School of Hygiene & Tropical Medicine (LSHTM) released an analysis (1) of some of those data, which suggests that the risk of dying is around 35% higher for people who are confirmed to be infected with the new variant.
+
+In real terms, that means that for men aged 70-84, the number who are likely to die from COVID-19 increases from roughly 5% for those who test positive for the older variant, to more than 6% for those confirmed to be infected with B.1.1.7, according to the analysis. For men aged 85 or over, the risk of dying increases from about 17% to nearly 22% for those confirmed to be infected with the new variant. The analysis has not been peer reviewed. Other groups are also studying whether B.1.1.7 and other new SARS-CoV-2 variants are more deadly than earlier versions of the virus.
+
+Since B.1.1.7 was first identified in September [2020] in southern England, it has become the dominant variant in the United Kingdom and has spread to more than 30 countries. To investigate whether the lineage causes an increased risk of dying, Nicholas Davies, an epidemiologist at the LSHTM, and colleagues analysed data from more than 850 000 people who were tested for SARS-CoV-2 between 1 Nov 2020 and 11 Jan 2021 but who were not in hospital.
+
+Despite the fact that the B.1.1.7 variant was new, the researchers were able to identify people infected with it because of a glitch in a standard diagnostic kit used in the UK. The test normally looks for 3 SARS-CoV-2 genes to confirm the presence of the virus. But, in the case of B.1.1.7, changes to the spike protein mean that people who are infected still test positive, but for only 2 of these genes. The team found that B.1.1.7 is more deadly than previous variants for all age-groups, genders and ethnicities. "This provides strong evidence that there indeed exists increased mortality from the new strain," says Henrik Salje, an infectious disease epidemiologist at the University of Cambridge, UK.
+
+However, Cevik says that the small number of deaths among young people included in the analysis is not enough to conclude that the new variant hits all ages equally. "It seems to really be affecting older age-groups," she says. This is to be expected, given that the chances of dying from COVID-19 increase significantly with age, says Tony Blakely, an epidemiologist at the University of Melbourne, Australia.
+
+The findings are also consistent with other preliminary work summarized in a document published on 22 Jan 2021 by the New and Emerging Respiratory Virus Threats Advisory Group (known as NERVTAG), a government advisory group. One research team at Imperial College London found that the average case fatality rate -- the proportion of people with confirmed COVID-19 who will die as a result -- was some 36% higher for people infected with B.1.1.7.
+
+Cevik says more data and analysis are needed to conclude whether the variant is more deadly than other lineages. For instance, the latest study doesn't consider whether people infected with the variant have underlying comorbidities, such as diabetes and obesity, and are therefore more vulnerable and at higher risk of dying, she says. The study also covers only a small fraction of COVID-19 deaths in the UK -- some 7% -- and the effect could disappear if deaths in people tested at hospitals are included, says Cevik. Preliminary work by other groups has not found an increased risk of death in people admitted to hospitals with the new variant, and this complicates the latest results.
+
+Davies says it is possible that the new variant could be causing more severe disease, resulting in more people ending up in hospital, but that once there, their risk of dying could be the same as before. But he agrees that more data are needed before researchers can understand what's going on. Some researchers had also suggested that B.1.1.7 could contribute to an increase in deaths because of its fast spread, which would overwhelm hospitals and affect the quality of care. But Davies says that he and his team ruled that out because they compared the risks of death associated with the new and older variants for people who were tested at the same time and place, and so would be subject to the same conditions in hospitals.
+
+ref: 1. Davies NG, Jarvis CI, CMMID COVID-19 Working Group, et al. Increased hazard of death in community-tested cases of SARS-CoV-2 Variant of Concern 202012/01. medRxiv. Epub 3 Feb 2021. https://doi.org/10.1101/2021.02.01.21250959
+
+[byline: Smriti Mallapaty]
+
+--
+communicated by:
+ProMED
+<promed@promedmail.org>
+and
+Mary Marshall
+<mjm2020@googlemail.com>
+
+[The abstract from the study referenced above follows:
+
+"VOC 202012/01, a SARS-CoV-2 variant first detected in the United Kingdom in September 2020, has spread to multiple countries worldwide. Several studies have established that this novel variant is more transmissible than preexisting variants of SARS-CoV-2 but have not identified whether the new variant leads to any change in disease severity. We analyse a large database of SARS-CoV-2 community test results and COVID-19 deaths for England, representing approximately 47% of all SARS-CoV-2 community tests and 7% of COVID-19 deaths in England from 1 Sep 2020 to 22 Jan 2021. Fortuitously, these SARS-CoV-2 tests can identify VOC 202012/01 because mutations in this lineage prevent PCR amplification of the spike gene target (S gene target failure, SGTF). We estimate that the hazard of death among SGTF cases is 30% (95% CI 9-56%) higher than among non-SGTF cases after adjustment for age, sex, ethnicity, deprivation level, care home residence, local authority of residence and date of test. In absolute terms, this increased hazard of death corresponds to the risk of death for a male aged 55-69 increasing from 0.56% to 0.73% (95% CI 0.60-0.86%) over the 28 days following a positive SARS-CoV-2 test in the community. Correcting for misclassification of SGTF, we estimate a 35% (12-64%) higher hazard of death associated with VOC 202012/01. Our analysis suggests that VOC 202012/01 is not only more transmissible than preexisting SARS-CoV-2 variants but may also cause more severe illness."
+
+We await further analyses as mentioned in the above Nature report. - Mod.MPP]
+
+******
+[2] Age and frailty: increased risk
+Date: Fri 5 Feb 2021
+Source: University of Birmingham [abridged, edited]
+https://www.birmingham.ac.uk/research/inflammation-ageing/news/2021/02/severely-frail-covid.aspx
+
+
+ref: Geriatric Medicine Research Collaborative. Age and frailty are independently associated with increased COVID-19 mortality and increased care needs in survivors: results of an international multi-centre study. Age and Ageing. Epub 5 Feb 2021. https://doi.org/10.1093/ageing/afab026; https://academic.oup.com/ageing/advance-article/doi/10.1093/ageing/afab026/6128535
+
+New research led by the University of Birmingham has revealed for the first time the extent to which frailty increases the risk of mortality in COVID-19 patients. The clinical observational study, involving 5711 patients with COVID-19 at 55 hospitals across 12 countries, found that very severely frail individuals with COVID-19 are 3 times more likely to die than those who were not frail, even taking into account their age. It also found that those with severe frailty who survived the virus were 7 times more likely to go on to need increased care at home or in care homes.
+
+The Geriatric Medicine Research Collaborative (GeMRC) -- the group of experts behind the study -- are now calling for improved global public health policy after their research showed that frailty, independently of older age, increases the risk of death from COVID-19.
+
+Frailty is a state where the body becomes more vulnerable to the effects of illness. It is identified by clinicians using a holistic assessment that considers how much support the person needs from others in their daily living before becoming unwell -- not just their medical problems, but the person as a whole.
+
+Senior author Dr Carly Welch, clinical research fellow in geriatric medicine at the University of Birmingham's Institute of Inflammation and Ageing, and chair and co-founder of GeMRC, said: "It was identified very early in the pandemic that older age was a significant risk factor for a higher chance of death with COVID-19. However, not all older people are the same, we all age differently -- some people can live well into their 90s without developing frailty, and it can develop even without the presence of other long-term conditions. "Our findings are important as we have been able to demonstrate that not only older age but also frailty, independently from one another, increase the risk of death from COVID-19 and also a subsequent increased need in care for survivors."
+
+Dr Daisy Wilson, clinical research fellow at the University of Birmingham, added: "We now have evidence to show that those most at risk from COVID-19 are those who are older, or living with frailty, or have underlying health conditions."
+
+GeMRC hopes the research findings will influence public health policy, including advice on shielding and recommendations for prioritisation on vaccination for those with frailty.
+
+Dr Mary Ni Lochlainn, of King's College London, added: "We hope that this research will help to enable increased understanding of frailty as occurring separately to age and that frailty can be considered alongside age in policies both in and outside of hospital. Increased understanding of frailty within the general public will enable improved communication between clinicians, patients, and their relatives or carers, and can be used in thinking about how we ensure that the right treatment is given for all patients in line with their wishes."
+
+The research, published 5 Feb 2021 in Age and Ageing and supported by the National Institute for Health Research (NIHR), is the largest international study of its kind to date. The results also showed that delirium -- a state of clouding of the mind and extremely prevalent in patients with COVID-19 -- is not itself independently associated with increased risk of mortality. Meanwhile, the findings also showed an increased likelihood of transition to a higher level of care on discharge from hospital for those COVID-19 patients with increasing age, frailty, delirium, dementia, and mental health problems.
+
+Further research is encouraged to understand what factors affect recovery of physical function and quality of life with COVID-19, and the inclusion of older adults with frailty in such research is paramount.
+
+--
+communicated by:
+ProMED rapporteur Kunihiko Iizuka
+
+[Earlier studies on frailty and mortality from COVID-19 have been published. In one by Hewitt and colleagues (1), "...the COVID-19 in Older People (COPE) study...aimed to establish the prevalence of frailty in patients with COVID-19 who were admitted to hospital and investigate its association with mortality and duration of hospital stay."
+
+Its interpretation: "In a large population of patients admitted to hospital with COVID-19, disease outcomes were better predicted by frailty than either age or comorbidity. Our results support the use of CFS (clinical frailty score) to inform decision making about medical care in adult patients admitted to hospital with COVID-19."
+
+There were several comments on this paper, questioning how treatment differed among patients, age, comorbidities, etc. See De Smet et al (2), and Darvall et al (3), which took issue with some of the conclusions of Hewitt et al (1).
+
+This new study by GeMRC separated age and frailty, demonstrating that both age and frailty increased risk independently of each other. This understanding should inform care following hospitalization for COVID-19.
+
+refs:
+1. Hewitt J, Carter B, Vilches-Moraga A, et al. The effect of frailty on survival in patients with COVID-19 (COPE): a multicentre, European, observational cohort study. Lancet 2020; 5(8): e444-51. https://doi.org/10.1016/S2468-2667(20)30146-8
+2. De Smet R, Mellaerts B, Vandewinckele H, et al. Frailty and mortality in hospitalized older adults with COVID-19: retrospective observational study. J Am Med Dir Assoc. 2020; 21: 928. https://www.jamda.com/article/S1525-8610(20)30514-4/fulltext
+3. Darvall JN, Bellamo R, Paul E, et al. Frailty in very old critically ill patients in Australia and New Zealand: a population-based cohort study. Med J Aust. 2019; 211: 318-323. https://onlinelibrary.wiley.com/doi/full/10.5694/mja2.50329
+- Mod.LK]
+
+******
+[3] USA: variants
+Date: Fri 5 Feb 2021
+Source: Virological.org [abridged, edited]
+https://virological.org/t/phylogenetic-evidence-that-b-1-1-7-has-been-circulating-in-the-united-states-since-early-to-mid-november/598
+
+
+ref: Larsen BB, Worobey M. Phylogenetic evidence that B.1.1.7 has been circulating in the United States since early- to mid-November. Epub 19 Jan 2021.
+
+Introduction: When SARS-CoV-2 emerged in China late December 2019 and early January 2020, there was little circulating genetic variation as it was exported across the world. This made estimating the number and timing of introductions difficult (1,2 [see source URL for all references]). Since then, the virus has accumulated mutations (as all RNA viruses do) in a (largely) clock-like manner, diversifying into a myriad of lineages. One of these lineages, "B.1.1.7", first arose in the UK in September [2020] after an episode of heightened mutation, likely within a single host (3). This lineage has continued to evolve over the last several months while rapidly increasing in frequency across southeast England and elsewhere. Estimates of its increased transmissibility and a suite of mutations in the spike gene have made this variant a top focus of the scientific community since it was first reported in December 2020 (4,5). The rapid increase in the UK has made export increasingly likely, and, as of 17 Jan 2021, the lineage has been detected in 55 countries, including the United States (6).
+
+The increased sequence variation combined with more comprehensive genome sequencing now compared to during the beginning of pandemic may permit clearer estimates of the number and timing of introductions of SARS-CoV-2. Furthermore, given the increased transmission rate of B.1.1.7 and its grave public health consequences, it is critical to understand how long this lineage has been circulating in the United States, which currently has the highest reported death toll from COVID-19 in the world. The 1st evidence of this lineage in the US was reported in Colorado on 29 Dec 2020 (7). Here, we investigate the dynamics of B.1.1.7 in the US using a phylogenetic approach to [a] compare the importance of independent introductions of the lineage from abroad to domestic circulation within the US and [b] characterize the pace of its early spread within the US. Crucial to the latter goal are estimates of the time of the most recent common ancestors (TMRCAs) of any apparent within-US circulating clades of B.1.1.7. We hope that insights into this viral lineage's spread so far may also provide clues to its possible future dynamics in the US.
+
+Methods: We focused on a unique set of US B.1.1.7 genomes sequenced by a partnership between the Centers for Disease Control (CDC), the consumer genomics company Helix, and the sequencing company Illumina who have been investigating so-called "S dropout" or spike gene target failure (SGTF) SARS-CoV-2 test samples from across the United States (8,9). Such samples have yielded numerous B.1.1.7 genomes; this lineage contains a deletion at the positions that code for sites 69 and 70 of the S protein, causing qPCR assays that target this region to fail.
+
+Results and Discussion: Among these 50 B.1.1.7 genomes from the United States, sampled up to the end of December 2020, there are at least 5 distinct introductions from abroad (Figure 1 [see source URL]). This number is obviously a severe underestimate of the total number of introductions of B.1.1.7 to the US given the small fraction of US SARS-CoV-2 cases that are sequenced, and the use of only these CDC/Helix/Illumina data. Of note, there are additional B.1.1.7 genomes available on GISAID from the United States; however, we used only CDC/Helix/Illumina genomes in part to enable comparisons between [a] B.1.1.7 dynamics in the US as ascertained from this single source of data and [b] B.1.1.7 dynamics in the UK (see below).
+
+It is not clear why the pace of replacement of non-B.1.1.7 viruses might be different in California, Florida and England. We speculate on a few possibilities that need to be monitored as more data become available. One possibility is that B.1.1.7's transmission advantage may vary with mitigation intensity. Perhaps this lineage of SARS-CoV-2, with demonstrably higher viral loads in the upper airway than other variants (4), is able to seed super-spreader events with relative ease when mitigation efforts are comparatively lax, but its transmission advantage is less acute when the playing field is leveled by, for example, widespread mask use and indoor crowd avoidance. Another possibility is that the non-B.1.1.7 lineages circulating in the US, particularly in California, may be more transmissible than the non-B.1.1.7 lineages in England with which B.1.1.7 has been competing, giving B.1.1.7 less of a transmission advantage and, thus, a slower displacement rate of non-B.1.1.7 lineages. An example of this might be a new variant with the Spike RBD mutation L452R that was recently described in the press in California (15). However, we caution that these preliminary estimates may be very noisy; it will be important to reassess these early apparent trends with additional time points as these outbreaks progress.
+
+It is striking that this lineage may already have been established in the US for some 5-6 weeks before B.1.1.7 was first identified as a variant of concern in the UK in mid-December [2020] (16). And it may have been circulating in the US for close to 2 months before it was first detected, on 29 Dec 2020. B.1.1.7 viruses have been estimated to account for only 0.3% of SARS-CoV-2 cases nationally as of early January [2021] (14). It is also worth noting the vast majority (more than 90%) of US B.1.1.7 cases appear to be generated in these well-established domestic outbreaks rather than via travel-related introductions from the UK or other affected countries, though such cases are surely also happening.
+
+These results highlight the importance of a global perspective on genome sequencing to detect and monitor new SARS-CoV-2 variants. Given how rapidly new variants can spread across the globe due to air travel, and how long even variants with reportedly increased transmission rates can remain undetected after becoming established in new regions, it is essential that all countries continue efforts to reduce transmission.
+
+--
+communicated by:
+Mary Marshall
+<mjm2020@googlemail.com>
+
+[See full report for complete references, figures, and tables. Also read COVID-19 update (23): USA (CA) new variant, South Asia, WHO, global 20210118.8112752 for report on and discussion of a new variant with the Spike RBD mutation L452R that was recently described in California. - Mod.LK]
+
+******
+[4] WHO: daily new cases reported (as of 5 Feb 2021)
+Date: Fri 5 Feb 2021
+Source: WHO [abridged, edited]
+https://covid19.who.int/table
+
+
+*Daily case reports as of 5 Feb 2021 17:00 CET
+
+Surveillance
+------------
+WHO region (no. countries/territories):
+Total confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+----------------------------------------------------------------------
+Western Pacific Region (19): 1 465 248 (9309) / 25 526 (200)
+European Region (61): 35 196 220 (167 526) / 772 666 (4932)
+South East Asia Region (10): 12 982 540 (26 101) / 199 668 (377)
+Eastern Mediterranean Region (22): 5 783 010 (23 796) / 136 195 (384)
+Region of the Americas (54): 46 313 540 (115 954) / 1 072 244 (4134)
+African Region (49): 2 629 247 (12 355) / 64 868 (395)
+Cases on an international conveyance (Diamond Princess): 745 (0) / 13 (0)
+
+Confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+Grand total: 104 370 550 (355 041) / 2 271 180 (10 422)
+
+--
+communicated by:
+ProMED
+<promed@promedmail.org>
+
+[The number of countries and territories reporting confirmed cases of COVID-19 to WHO remains 219.
+
+Data by country, area, or territory for 5 Feb 2021 can be accessed at https://promedmail.org/wp-content/uploads/world-pdf/2021%20WHO%20Daily%20Tables%20Feb5_1612572850.pdf.
+
+- The Americas region reported 32.7% of daily case numbers and 39.7% of the daily deaths reported in the past 24 hours and maintained its position as the most severely affected region, having reported more than 46.31 million cases. While the USA remains the most heavily affected country, there were no cases reported by the USA in the past 24 hours. In the absence of the USA, Brazil was dominant having reported just over 56 000 cases followed by Mexico and Colombia (reporting more than 10 000 cases in the past 24 hours); 8 additional countries reported more than 1000 cases in the past 24 hours (Argentina, Peru, Chile, Canada, Bolivia, Dominican Republic, Honduras, and Panama), and an additional 7 countries (Ecuador, Cuba, Paraguay, Guatemala, Venezuela, Uruguay, and Costa Rica) reported more than 500 but fewer than 1000 cases.
+
+- The European region reported 47.2% of daily case numbers and 47.3% of the daily deaths reported in the past 24 hours, and total cumulative cases reported exceed 35.19 million. Countries not reporting cases include Belgium, Israel, and Kazakhstan, among others. France is the most heavily affected, followed by the UK, Russia, Italy, Germany, and Spain reporting more than 10 000 cases in the last 24 hours. Another 17 countries reported more than 1000 cases (Czech Republic, Portugal, Turkey, Poland, Ukraine, Netherlands, Sweden, Romania, Slovakia, Serbia, Switzerland, Belarus, Hungary, Austria, Ireland, Greece, and Albania), and an additional 9 countries reported more than 500 but fewer than 1000 cases (Moldova, Bulgaria, Slovenia, Latvia, Lithuania, Estonia, Denmark, Croatia, and Georgia).
+
+- The Eastern Mediterranean region reported 6.7% of daily case numbers and 3.7% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 5.78 million cases. Iran maintains its dominance, reporting just over 7000 cases, followed by UAE, Lebanon, Pakistan, Jordan, Tunisia, and Iraq. Kuwait, Libya, Bahrain, Palestinian Authority, Morocco, Bahrain, and Egypt reported more than 500 but fewer than 1000 cases.
+
+- The African region reported 3.5% of daily case numbers and 3.8% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 2.62 million cases. South Africa maintains its dominance, with over 3700 cases, followed by Zambia, Nigeria, and Mozambique. Ghana and Ethiopia reported more than 500 but fewer than 1000 cases. Cameroon, Botswana, Mauritania, and Madagascar, among others, did not report any newly confirmed cases in the preceding 24 hours.
+
+- The Western Pacific region reported 2.6% of daily case numbers and 1.9% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 1.46 million cases. Malaysia reported the highest number of cases over the last 24 hours (almost 4600 cases), followed by Japan, Philippines, South Korea, and China.
+
+- The South East Asia region reported 7.4% of the daily newly reported cases and 3.6% of reported deaths in the past 24 hours, having reported a cumulative total of more than 12.98 million cases. India is dominant, having reported over 12 400 cases, followed by Indonesia reporting over 11 400 cases, Sri Lanka, Thailand, Bangladesh, Myanmar, and Nepal.
+
+On the Overview tab at the WHO source URL, the epidemic curve of confirmed COVID-19 cases by WHO region, 30 Dec 2019 through 5 Feb 2021, is an excellent visual representation of the pandemic. - Mod.MPP]
+
+******
+[5] Global update: Worldometer accessed 5 Feb 2021 21:25 EST (GMT-5)
+Date: Fri 5 Feb 2021
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at https://promedmail.org/wp-content/uploads/world-pdf/2021%20WORLDDATA%20FEB5_1612586141.pdf.
+
+A 7-day series of cumulative data reported by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/2021%20FEB5WORLD7_1612586308.pdf. - Mod.MPP]
+
+Total number of reported deaths: 2 308 846
+Total number of worldwide cases: 105 906 775
+Number of newly confirmed cases in the past 24 hours: 505 605
+
+--
+communicated by:
+ProMED
+<promed@promedmail.org>
+
+[In the past 24 hours, the USA (133 434), Brazil (51 319), Spain (28 565), and Mexico (26 626) have reported the highest numbers of cases. A global total of 16 117 deaths were reported in the past 24 hours (late 4 Feb 2021 to late 5 Feb 2021). Peru and Oman, among others, did not report any cases in the past 24 hours.
+
+Countries reporting more than 10 000 newly confirmed cases in the past 24 hours (11 countries) include the USA, Brazil, Spain, Mexico, France (22 139), UK (19 114), Russia (16 688), Italy (14 213), Indonesia (11 749), India (11 689), and Germany (10 835). A total of 52 countries reported more than 1000 cases in the past 24 hours; 26 of the 52 countries are from the European region, 11 are from the Americas region, 7 are from the Eastern Mediterranean region, 2 are from the South East Asia region, 3 are from the Western Pacific region, and 3 are from the African region.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, case counts have decreased by 15.7%, while daily reported deaths have decreased by 7.5%. Similar comparative 7-day averages in the USA show a 20.2% decrease in daily reported cases and a 0.15% decrease in reported deaths.
+
+Impression: The global daily reported cases over 500 000 newly confirmed infections daily in the past 24 hours with over 105.9 million cumulative reported cases and with over 2.30 million reported deaths. Countries in the European and the Americas regions are still showing the largest increases in daily new case counts, even in the face of overall decreasing reports. The Eastern Mediterranean countries have been demonstrating decreasing case counts while the Western Pacific and African countries are increasing in reported cases. - Mod.MPP]
+See Also
+COVID-19 update (50): UK vaccine study, Brazil reinfection, WHO 20210205.8167161
+COVID-19 update (49): Bosnia & Herzegovina (SA) animal, dog, OIE 20210205.8165920
+COVID-19 update (48): Olympics, ICU mortality, seasonality, WHO 20210204.8164453
+COVID-19 update (47): Poland (PM) animal, mink, OIE 20210204.8162830
+COVID-19 update (46): vaccine, mAb, diabetes, age, WHO 20210203.8160588
+COVID-19 update (45): fake test result & vaccine, meat plant variant, WHO 20210202.8157286
+COVID-19 update (44): immunocompromise & mutations, Israel vaccine, WHO 20210201.8154197
+COVID-19 update (43): animal, China, origin, WHO experts mission, Huanan market 20210201.8153415
+COVID-19 update (42): vaccine, EU, Iran, US navy ship, long haulers, WHO, global 20210131.8152278
+COVID-19 update (41): animal, China, origin, WHO experts mission, visits start 20210130.8149337
+COVID-19 update (40): vaccines, Thailand, Viet Nam, WHO, global 20210130.8149707
+COVID-19 update (30): vaccination impact, immune escape, variant, WHO, global 20210123.8129255
+COVID-19 update (20): animal, deer, experimental infection 20210116.8108967
+COVID-19 update (10): IgA, IL-6 receptor agonists, China, WHO, global 20210109.8086465
+COVID-19 update (01): variants, vaccine, Thailand, global, WHO 20210101.8062938
+2020
+---
+COVID-19 update (562): viral load, UK vacc dose, ECDC, WHO 20201231.8061525
+COVID-19 update (561): variants, China serosurvey, psychosis, WHO 20201230.8057135
+COVID-19 update (560): variants, Thailand, viral shedding, WHO 20201229.8054081
+COVID-19 update (550): mutation, query, Thailand, Taiwan, WHO, global, RFI 20201223.8040292
+COVID-19 update (500): frequent rapid tests, vaccine, WHO, global 20201122.7962919
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+Undiagnosed pediatric inflammatory syndrome (05): Europe, USA, COVID-19 assoc 20200518.7340554
+Undiagnosed pediatric inflammatory syndrome (04): USA, UK, PMIS, fatal 20200509.7315405
+Undiagnosed pediatric inflammatory syndrome (03): USA, Europe, COVID-19 susp, RFI 20200505.7299876
+COVID-19 update (150): global, USA state prisons, WHO 20200502.7290671
+COVID-19 update (100): China, S. Korea & high local transmission countries 20200413.7217806
+COVID-19 update (50): China (Hong Kong) animal dog, 2nd case PCR positive, OIE 20200323.7129951
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (41): China, global, clinical pics, asymptomatic trans., WHO 20200210.6976117
+Novel coronavirus (40): animal reservoir, pangolin poss intermediate host, RFI 20200210.6972104
+Novel coronavirus (30): updates, China, Viet Nam, research 20200202.6945658
+Novel coronavirus (20): China, wildlife trade ban 20200127.6922060
+Novel coronavirus (10): China (HU, GD, BJ) 20200119.6898567
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia: China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia: China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+---
+Undiagnosed pneumonia: China (HU): RFI 20191230.6864153
+and other items in the archives
+.................................................sb/sh/mpp/lk/mpp/rd/sh
+</body>

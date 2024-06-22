@@ -1,0 +1,93 @@
+<header id=053999>
+Published Date: 2013-11-21 09:21:41 EST
+Subject: PRO/AH/EDR> Avian influenza, human (143): spatial/temporal analysis
+Archive Number: 20131121.2067681
+</header>
+<body id=053999>
+AVIAN INFLUENZA, HUMAN (143): SPATIAL/TEMPORAL ANALYSIS
+*******************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+Date: Thu 21 Nov 2013
+Source: Eurosurveillance edition 2013; 18(47) [edited]
+http://www.eurosurveillance.org/ViewArticle.aspx?ArticleId=20640
+
+
+Spatial and temporal analysis of human infection with avian influenza A(H7N9) virus in China, 2013
+---------------------------------------------------------------------
+[authors: Liu W, Yang K, Qi X, Xu K, Ji H, Ai J, et al]
+
+Summary
+-------
+Descriptive and geographic information system methods were used to depict the spatial and temporal characteristics of the outbreak of human infection with a novel avian influenza A(H7N9) virus in mainland China, the peak of which appeared between 28 Mar and 18 Apr 2013. As of 31 May 2013, there was a total of 131 reported human infections in China, with a cumulative mortality of 29 per cent (38/131). The outbreak affected 10 provinces, with 106 of the cases being concentrated in the eastern coastal provinces of Zhejiang, Shanghai, and Jiangsu. Statistically significant spatial clustering of cumulative human cases was identified by the Cuzick-Edwards' k-nearest neighbour method. 3 spatio-temporal clusters of cases were detected by space-time scan analysis. The principal cluster covered 18 counties in Zhejiang during 3 to 18 Apr [2013] (relative risk (RR): 26.39; p less than 0.0001), while 2 secondary clusters in March and April [2013] covered 21 counties along the provincial boundary between Shanghai and Jiangsu (RR: 6.35; p less than 0.0001) and 2 counties in Jiangsu (RR: 72.48; p=0.0025). The peak of the outbreak was in the eastern coastal provinces of Zhejiang, Shanghai, and Jiangsu that was characterised by statistically significant spatio-temporal aggregation, with a particularly high incidence in March and April 2013.
+
+Introduction
+------------
+A novel avian influenza A(H7N9) virus emerged in China in February 2013, causing an outbreak of human infections characterised by rapidly progressive severe illness and fatal outcome. After the 1st case of human infection was confirmed in the Minhang district of Shanghai on 31 Mar 2013, the disease gradually spread to the 3 neighbouring provinces of Zhejiang, Jiangsu, and Anhui during the following 4 weeks. The number of cases was very low in this period but then began to increase rapidly, which raised serious concern throughout the world. The Chinese government responded swiftly and the containment measures applied (shutting down live poultry markets) effectively controlled the outbreak -- an approach strongly commended by the international community. To date, the influenza A(H7N9) virus has not been detected in people or birds outside China.
+
+Currently, the outbreak has entered in a stationary state in China and new infections appear only rarely. However, scientists and authorities are still concerned that there might be a risk of a pandemic developing. Strong efforts to date have been made to understand this new virus and substantial progress in epidemiology, diagnosis, therapy, and aetiology of the infection has been achieved. However, much remains to be discovered, particularly with regard to the spatial and temporal pattern of this emerging infectious disease. Understanding such patterns is essential for effective surveillance and control. A sound description of the dynamic progress of the outbreak is needed to refine control strategies and optimise resource allocation.
+
+Advances in geographic information system (GIS) and related technologies have fostered new opportunities for examining diseases. As a distinct, useful tool for spatio-temporal analysis, GIS has been widely applied in controlling emerging infectious diseases, such as severe acute respiratory syndrome (SARS), avian influenza A(H5N1) and influenza A(H1N1)pdm09.
+
+In the present study, we concurrently used descriptive analysis and GIS methods to depict the spatial and temporal characteristics of the outbreak of human infection with influenza A(H7N9) virus in mainland China. This work was conducted with the expectation that the results might provide some clues for further epidemiological research and help scientists and health authorities to more effectively target and improve their surveillance and control efforts in the future.
+
+[The Methods Section comprises: Case definition; Data source; Study areas and study period; Statistical analysis; and Space-time scan statistic]
+
+[The Results Section comprises: Demographic characteristics of cases; Temporal characteristics of cases; Spatial characteristics; Dynamic progress of the outbreak; Spatio-temporal cluster analysis]
+
+Discussion
+----------
+The outbreak of human infection with influenza A(H7N9) virus has attracted considerable attention because it is an emerging infectious disease caused by a novel, reassortant avian-origin influenza virus. As this virus does not have the ability to be transmitted from person to person, it is unlikely to lead to a pandemic, but gene sequences analysis has indicated that it is better adapted than other avian influenza viruses to infect mammals. Scientists are therefore concerned about the possibility of a pandemic if there is further gene mutation.
+
+In the study period, the outbreak caused 131 confirmed human infections in mainland China. As reported previously, most cases were male, mainly aged 60 years or older. In contrast, the influenza A(H5N1) virus mainly affected children, adolescents, and young adults (aged between 4 and 29 years, with a median of 18 years). As of 31 May [2013], 38 cases of influenza A(H7N9) virus infection had died, with accumulative mortality of 29 per cent, much higher than the 21 per cent (17/82) in a previous report on the outbreak. In comparison with the influenza A(H1N1)pdm09 virus infections (mortality: 2.5 per cent), the mortality of cases of influenza A(H7N9) virus infection was higher, although it was clearly lower than that of cases of highly pathogenic avian influenza A(H5N1) virus infection (mortality: 56 per cent). As shown in a former case study, most of the human cases of influenza A(H7N9) virus infection had a severe illness (77/82), while others manifested as mild illness (4/82). In addition, a 4 year old child in Beijing was identified as an asymptomatic carrier of influenza A(H7N9) virus. This has been the only asymptomatic infection of influenza A(H7N9) virus to date. Thus, human infections with influenza A(H7N9) virus may result in fatal disease, mild illness, as well as silent infection.
+
+Our study shows that the influenza A(H7N9) outbreak in mainland China can be divided into 3 stages: early (weeks 1-4), high-incidence (weeks 5-9) and late stationary (weeks 10-15). In the early stage, the outbreak was considered as non-threatening and highly sporadic. However, the high-incidence stage (in March-April 2013) represented a peak, with 76 per cent (100/131) of the cases during this stage. Furthermore, the 3 spatio-temporal clusters of cases identified were all during this period. Increased surveillance and control should be carried out in this period in future, to find out if there is an association with climate. In the late stationary stage, transmission was effectively controlled, leading to the ending of the outbreak in the most severely affected areas. This is now believed to be mainly due to the closure of live poultry markets.
+
+Some studies have claimed that climatic factors, particularly temperature, have a clear impact on seasonal influenza outbreaks. The weather in eastern China is very cold between December and January, and temperatures begin to rise in late February. It is usually relatively warm in March and April, and starts to get hot from May. The temporal characteristics of human infections with influenza A(H7N9) virus suggest that temperature has some association with incidence of this disease. The prevailing mild climate may have been particularly suitable for influenza A(H7N9) virus infection since there was an increase in the number of cases in March-April [2013]. If there is a relationship, attention must be paid as there could be a potential outbreak in the same period (March-April) in the future.
+
+The outbreak was limited to 10 provinces in eastern China. In-depth studies of the factors driving the spatial diffusion of cases are essential to prevent future outbreaks. It is notable that when the 1st human infections appeared in Beijing and Henan, there were no cases in the neighbouring provinces. What is the reason for this? Were the 2 regions new, natural foci of the influenza A(H7N9) virus strain? Alternatively, and perhaps more probable, could they be attributed to the regional poultry trade or migration of infected wild birds? These possibilities need to be further studied.
+
+The 3 coastal provinces of Zhejiang, Shanghai, and Jiangsu were the most severely affected areas. Understanding the main factors causing this spatial concentration is critical in the approach to control this type of emerging disease. Some studies report that the spatial distribution of human infection with highly pathogenic avian influenza A(H5N1) is mainly associated with human population density, poultry density, elevation, and the proportion of land covered by water bodies. However, our study suggests that population density does not influence the spatial pattern of human infection with influenza A(H7N9) virus. Further studies are needed to confirm whether or not there are other counterintuitive correlations involved in the spatial distribution of human infection due to this virus.
+
+The SatScan method has become an increasingly popular adjunct for exploring the spatio-temporal distribution of infectious diseases. We selected this method in the hope of identifying clustering of cases and found 3 clusters in the 3 coastal provinces with a high incidence, which were proposed to be the most probable place of the viral reassortment. 2 of the identified clusters represent the most important hotspots of the outbreak in China and were found in the counties along the boundaries between these 3 provinces. Surveillance should be focused on these regions to identify any future emergence of this or other new virus strains and monitor possible further mutation or reassortment that may alter the risks to animals or humans. The 3rd cluster covered just 2 counties within Jiangsu province and was situated far from the other 2 clusters. In addition, its duration was very short. The risk factors that contribute to clustering warrant further study.
+
+This study, using spatio-temporal methods in conjunction with classic descriptive analysis, found evidence of clustering, in both space and time. The results can provide clues for further developments and serve as a reference and basis for the surveillance and control of human infection with influenza A(H7N9) virus in the future.
+
+--
+communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[Interested readers should access the original text via the source URL above to view the data and statistical analyses.
+
+The authors' analysis shows that the influenza A(H7N9) outbreak in mainland China can be divided into 3 stages: early (weeks 1-4), high-incidence (weeks 5-9), and late stationary (weeks 10-15). In the early stage, the outbreak was considered as non-threatening and highly sporadic. However, the high-incidence stage (in March-April 2013) represented a peak, with 76 per cent (100/131) of the cases during this stage. Furthermore, the 3 spatio-temporal clusters of cases identified were all during this period.
+
+Most of the human cases of influenza A(H7N9) virus infection had a severe illness (77/82), while others manifested as mild illness (4/82). In addition, a 4 year old child in Beijing was identified as an asymptomatic carrier of influenza A(H7N9) virus. This has been the only asymptomatic infection of influenza A(H7N9) virus to date. Thus, human infections with influenza A(H7N9) virus may result in fatal disease, mild illness, as well as silent infection.
+
+The prevailing mild climate may have been particularly suitable for influenza A(H7N9) virus infection since there was an increase in the number of cases in March-April 2013. If there is a relationship, attention must be paid as there could be a potential outbreak in the same period (March-April) in the future.
+
+The 3 coastal provinces of Zhejiang, Shanghai, and Jiangsu were the most severely affected areas. Understanding the main factors causing this spatial concentration is critical in the approach to control this type of emerging disease. However this study suggests that population density does not influence the spatial pattern of human infection with influenza A(H7N9) virus. The authors conclude that further studies are needed to confirm whether or not there are other counterintuitive correlations involved in the spatial distribution of human infection due to this virus. - Mod.CP
+
+A HealthMap/ProMED-mail map can be accessed at: http://healthmap.org/r/1zaU.]
+See Also
+Avian influenza, human (142): H7N9 vaccine development 20131118.2062079
+Avian influenza, human (141): China: southern, H5N1 seroprevalence 20131117.2060088
+Avian influenza, human (140): Indonesia (WJ) H5N1, fatal 20131116.2058832
+Avian influenza, human (139): Taiwan, H6N1 epidemiological analysis 20131114.2055317
+Avian influenza, human (138): China (ZJ) H7N9 new case 20131111.2049326
+Avian influenza, human (135): China (GD & ZG) H7N9 new cases, WHO 20131106.2041316
+Avian influenza, human (134): China (GD), H7N9, child 20131105.2040007
+Avian influenza, human (132): China, H7N9, live poultry markets 20131102.2034820
+Avian influenza, human (126) - China: (ZJ) H7N9 re-emerges 20131024.2019232
+Avian influenza, human (122): China (ZJ) H7N9, alert 20131015.2002724
+Avian influenza, human (120): H7N9 genesis & source 20131010.1994804
+Avian influenza, human (118): China, H7N9 low transmission potential 20131005.1982621
+Avian influenza, human (111): China, H7N9, re-emergence prospects 20130822.1895874
+Avian influenza, human (109) China: H5N1 & H7N9 emergence 20130822.1892436
+Avian influenza (33): China (JS, ZH) LPAI H7N9, live markets, RFI 20130410.1636843
+.................................................cp/mj/sh
+</body>

@@ -1,0 +1,68 @@
+<header id=056644>
+Published Date: 2018-08-22 05:08:13 EDT
+Subject: PRO/AH/EDR> Vector mosquito control methods
+Archive Number: 20180822.5979096
+</header>
+<body id=056644>
+VECTOR MOSQUITO CONTROL METHODS
+*******************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+Date: Mon 20 Aug 2018 11:30 BST
+Source: The Conversation [edited]
+http://theconversation.com/genetically-modified-mosquitoes-may-be-best-weapon-for-curbing-disease-transmission-100719
+
+
+Mosquitoes are some of the most deadly creatures on the planet. They carry viruses, bacteria, and parasites, which they transmit through bites, infecting some 700 million people and killing more than 1 million each year.
+
+With international travel, migration, and climate change, these infections are no longer confined to tropical and subtropical developing countries. Pathogens such as West Nile virus and Zika virus have caused significant outbreaks in the United States and its territories that are likely to continue, with new invasive pathogens being discovered all the time. Currently, control of these diseases is mostly limited to broad-spectrum insecticide sprays, which can harm both humans and non-target animals and insects. What if there was a way to control these devastating diseases without the environmental problems of widespread insecticide use?
+
+Genetically modifying mosquitoes to prevent disease may sound like science fiction, but the technology has advanced in recent years to the point where this is no longer a scenario relegated to late-night movies. In fact, it's not even a new idea; scientists were talking about modifying insect populations to control diseases as early as the 1940s. Today, genetically modified (GM) mosquitoes, developed during the past several decades of research in university laboratories, are being used to combat mosquito-borne pathogens -- including viruses such as dengue and Zika -- in many locations around the globe, including the United States. Progress is also being made to use GM mosquitoes to combat malaria, the most devastating mosquito-borne disease, although field releases for malaria control have not yet taken place.
+
+I have been working on GM mosquitoes, both as a lab tool and to combat disease, for over 20 years. During that time, I have personally witnessed the technology go from theoretical, to seeing it used in the field. I've seen older techniques that were inefficient, random, and slow pave the way for new methods like CRISPR [clustered regularly interspaced short palindromic repeats], which enable efficient, rapid, and precise editing of mosquito genomes, and ReMOT Control which eliminates the requirement for injecting materials into mosquito embryos. These new technologies make GM mosquitoes for disease control not a question of "if," but rather a question of "where" and "when."
+
+Don't worry, these genetic changes only affect the mosquitoes -- they are not transmitted to people when the mosquito bites them.
+
+There are 2 alternative methods currently used to control mosquito-borne diseases using GM mosquitoes. The 1st is "population replacement" in which a mosquito population biologically able to transmit pathogens is "replaced" by one that is unable to transmit pathogens. This approach generally relies on a concept known as "gene drive" to spread the anti-pathogen genes. In gene drive, a genetic trait -- a gene or group of genes -- relies on a quirk on inheritance to spread to more than half of a mosquito's offspring, boosting the frequency of the trait in the population.
+
+The 2nd approach is called "population suppression." This strategy reduces mosquito populations so that there are fewer mosquitoes to pass on the pathogen.
+
+While the concept of gene drive in mosquitoes is many decades old, the gene-editing technique CRISPR has finally made it possible to easily engineer it in the laboratory. However, CRISPR-based gene drives have not yet been deployed in nature, mostly because they are still a new technology that lacks a firm international regulatory framework, but also due to problems related to the evolution of resistance in mosquito populations that will stop the gene from spreading.
+
+It may not be immediately obvious, but the gene in "gene drive" need not be a gene at all -- it can be a microbe. All organisms exist not just with their own genomes, but also with the genomes of all their associated microbes -- the "hologenome." Spread of a microbial genome through a population by inheritance can also be thought of as gene drive. By this definition, the 1st gene drive that has been deployed in mosquito populations for disease control is a bacterial symbiont known as _Wolbachia_. _Wolbachia_ is [the genus of] a bacterium that infects up to 70 percent of all known insect species, where it hijacks the insect reproduction to spread itself through the population.
+
+Thus, the _Wolbachia_ itself (with its genome of approximately 1500 genes) acts as the genetic trait that is driven into the population. When _Wolbachia_ is transferred into a previously uninfected mosquito, it often makes the mosquito more resistant to infection with a pathogen that can cause disease in humans, such as multiple viruses (including dengue and Zika viruses) and malaria parasites.
+
+In the last 8 years, researchers have taken _Wolbachia_ present in fruit flies and transferred that bacteria into mosquitoes that transmit dengue virus. Those modified insects were then released in a dozen countries to control the disease. Although marketed as a "non-GM strategy," artificially infecting mosquitoes with _Wolbachia_ clearly falls under the GM umbrella, as over 1500 genes (the entire bacterial genome) have been transferred from the original fruit fly host into the mosquitoes.
+
+Preliminary dengue control results from these releases in Australia have been promising. However, control of the disease in other release areas with higher disease risk, such as South America and Asia, still needs to be determined, particularly as some studies have demonstrated that _Wolbachia_ can sometimes increase pathogen infection in mosquitoes rather than suppress it.
+
+[Map -- available at the source URL above]: Estimated range of the dengue and Zika virus carrying mosquito species in the United States, _Aedes aegypti_, blue, and _Aedes albopictus, red. States and territories where both species have been collected are purple. All US states and territories except Alaska are at risk for West Nile virus.]
+
+The best current example of population suppression is the release of genetically modified sterile mosquitoes. This is a modern spin on the decades-old sterile insect technique (SIT), where sterile male insects are released into natural populations to mate with the wild females, reducing the mosquito population. But, rather than crudely sterilizing mosquitoes with radiation or chemicals, clever genetic engineering is now used to sterilize them instead. The company Oxitec has engineered mosquitoes with a gene that is lethal to females but not to males, which do not bite or transmit disease. Thousands of these transgenic males are released into nature, where they mate with the wild females in the population. The genetic modification is inherited by the offspring of these matings; female offspring die, while male offspring, which carry the gene, survive and continue passing the trait to further generations. With fewer and fewer females the mosquito population is drastically suppressed. Oxitec has conducted releases in the Grand Caymans, Malaysia, Brazil, and Florida.
+
+There has been some opposition to these sterile mosquito releases, particularly in Florida. For example, in 2016, an Oxitec trial in the Florida Keys was met with some local resistance. However, unlike gene drive strategies, release of sterile mosquitoes (genetically modified or not) has about the smallest environmental footprint and highest safety of any disease control strategy; certainly safer than broad-spectrum insecticide sprays. It is highly targeted, and thus if it works, will only result in elimination of the target mosquito species, which in this case (_Aedes aegypti_) is a highly invasive and non-native mosquito in Florida.
+
+In addition to gene drive, _Wolbachia_ bacteria have also been used for population suppression. Males infected with the bacteria are released into a mosquito population that is either not infected, or infected with a different _Wolbachia_ strain, which leads to "incompatible" or sterile matings. This strategy again has a long history, and was first used to suppress mosquito populations in the 1960s before people even knew that _Wolbachia_ was causing certain populations of mosquitoes to be sterile when mated with one another. In current times, _Wolbachia_-sterilized males have been released in multiple countries including Australia and the US, in California and Florida, to control dengue virus.
+
+In an increasingly interconnected world, and with the added problems of global climate change, pathogens are not likely to stay confined to the developing world, but will be an increasing issue for the US as well. With the evolution of insecticide resistance in mosquitoes a certainty, GM technology has the potential to reduce the burden of mosquito-borne diseases across the globe, without the environmental and health risks associated with harmful pesticide use.
+
+Don't be afraid if it sounds like science fiction; it may just save your life.
+
+[Byline: Jason Rasgon]
+
+--
+Communicated by:
+ProMED-mail from HealthMap Alerts
+<promed@promedmail.org>
+
+[This is a clearly written overview of contemporary approaches to vector mosquito control. They are being tested in the field in various localities and some of these trials look very promising. The future of vector mosquito control looks bright. - Mod.TY]
+See Also
+Dengue/DHF update (15): Asia, Europe, Australia, vector, vaccine 20180805.5947027
+Zika virus (03): Americas, Asia, research, observations 20180201.5600535
+.................................................lxl/ty/lxl/mj
+</body>

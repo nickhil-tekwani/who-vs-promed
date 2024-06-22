@@ -1,0 +1,60 @@
+<header id=001544>
+Published Date: 1999-02-10 18:50:00 EST
+Subject: PRO/AH> Cattle Disease Diagnostic System (CaDDiS)
+Archive Number: 19990210.0182
+</header>
+<body id=001544>
+CATTLE DISEASE DIAGNOSTIC SYSTEM (CaDDiS)
+*******************************************
+A ProMED-mail post
+<http://www.healthnet.org/programs/promed.html>
+<http://ww.fas.org/promed/ahead>
+Date: Mon, 8 Feb 1999 08:47:53 +0000
+From: Sammy McKee <sammy@dis.strath.ac.uk>
+
+Cattle Disease Diagnostic System (CaDDiS) is a computer program which attempts to aid the diagnosis
+of certain common tropical diseases in cattle. The system is based on a Bayesian belief network
+approach, and evaluates the relative likelihood of a cow having any of the specified diseases given
+the observation of particular clinical signs.
+The Interactive CaDDiS model can be found at:
+http://www.dis.strath.ac.uk/vie/CaDDiS
+CaDDiS Home Page containing further information can be found at:
+http://www.dis.strath.ac.uk/vie/CaDDiS/docs/Home_Page.html
+This project is part of a Veterinary Informatics & Epidemiology (VIE) joint venture between the
+University of Strathclyde and the University of Glasgow [UK].
+The VIE Home Page can be found at:
+http://www.dis.strath.ac.uk/vie
+Please forward any comments about the Web-Sites to: crawford@dis.strath.ac.uk
+--
+Samuel Mckee
+Research Assistant University of Strathclyde
+Scotland
+[I checked out the diagnostic page as well as the others. There is some good information. I am a
+bit concerned. On the diagnostic page there appear to be only 20 diseases and I cannot seem to get
+it to list the 20. However, some of those are "foreign animal diseases" to the US, but not
+necessarily to other countries. They are all infectious diseases and there appear to be substantial
+gaps in the diseases that are covered. However, there is some good information on the page links to
+those diseases - Mod.TG]
+.........................tg/jw
+--
+*##########################################################*
+ProMED-mail makes every effort to verify the reports that
+are posted, but the accuracy and completeness of the
+information, and of any statements or opinions based
+thereon, are not guaranteed. The reader assumes all risks in
+using information posted or archived by ProMED-mail. ISID
+and its associated service providers shall not be held
+responsible for errors or omissions or held liable for any
+damages incurred as a result of use or reliance upon posted
+or archived material.
+************************************************************
+Visit ProMED-mail's web site at <http://www.promedmail.org>.
+Send all items for posting to: promed@promedmail.org
+(NOT to an individual moderator). If you do not give your
+full name and affiliation, it may not be posted. Send
+commands to subscribe/unsubscribe, get archives, help,
+etc. to: majordomo@promedmail.org. For assistance from a
+human being send mail to: owner-promed@promedmail.org.
+############################################################
+############################################################
+</body>

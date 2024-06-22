@@ -1,0 +1,59 @@
+<header id=050984>
+Published Date: 2014-06-17 14:19:17 EDT
+Subject: PRO/AH> Anthrax: new ecological research (02)
+Archive Number: 20140617.2547212
+</header>
+<body id=050984>
+ANTHRAX: NEW ECOLOGICAL RESEARCH (02)
+*************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+Date: June 2013
+Source: Applied & Environmental Microbiology [edited]
+http://aem.asm.org/content/early/2013/04/08/AEM.00181-13.abstract
+
+
+Effects of Experimental Exclusion of Scavengers from Carcasses of Anthrax-Infected Herbivores on _Bacillus anthracis_ Sporulation, Survival, and Distribution. Steve E. Bellan, Peter C. B. Turnbull, Wolfgang Beyer and Wayne M. Getz. Applied & Environmental Microbiology, 2013, 79(12):3756. DOI: 10.1128/AEM.00181-13.
+
+Abstract
+Scavenging of anthrax carcasses has long been hypothesized to play a critical role in the production of the infectious spore-stage of _Bacillus anthracis_ after host death, though empirical studies assessing this are lacking. We compared _B. anthracis_ spore production, distribution and survival at naturally occurring anthrax herbivore carcasses that were either experimentally caged to exclude vertebrate scavengers or unmanipulated. We found no significant effect of scavengers on soil spore density (p greater than .05). Soil stained by terminally hemorrhaged blood and by non-hemorrhagic fluids exhibited high levels of _B. anthracis_ spore contamination (ranging from 103-108 spores per gram) even in the absence of vertebrate scavengers. At the majority of carcass sites, we also found that spore density in samples taken from hemorrhagic-fluid stained soil continued to increase for longer than 4 days after host death. We conclude that scavenging by vertebrates is not a critical factor in the life cycle of _B. anthracis_ and that anthrax control measures relying on deterrence or exclusion of vertebrate scavengers to prevent sporulation are unlikely to be effective.
+
+--
+Communicated by
+Steve Bellan, PhD, MPH, Post-doctoral Researcher
+Center for Computational Biology and Bioinformatics
+University of Texas at Austin
+USA
+http://www.bio.utexas.edu/research/meyers/steve_bellan/
+<steve.bellan@gmail.com>
+
+[This is a challenging paper. For those interested, I strongly advise that you read the full script, as there is more to it than displayed by this abstract. See: http://aem.asm.org/content/79/12/3756.full.pdf+html.
+
+Also, anyone wishing to replicate this study but with different anthrax-infected species should not consider using PLET, as this significantly under-displays the numbers of viable spores in your substrate. Instead, use the GABRI method: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3728113/.
+
+Firstly, not all infected species are equicompetent at shedding/leaking infected body fluids. In this study, they tried with a springbok carcass but rejected it when no spores were found in its soil samples. Over the years, we have had a very similar experience with white tailed deer anthrax carcasses; I have sampled the soil under some 10 deer carcasses and never had a positive recovery; others have had identical experiences. On the other hand, I have never seen such a gross leakage as this study described with zebras. With cattle carcasses, I frequently see a bovine shaped spread of grease under the carcass and maybe blood at where the nose and anus would have been, and only there viable spores might be found. Thus, zebras and springboks/white tails are the alpha and omega of carcass leakers.
+
+As white tails are the major affected deer species in west Texas -- the ranch we do most of our research on has over 800 deer and only some 3 dozen aodads -- so _B. anthracis_ must find some way of supporting new deer outbreaks most years. Deaths are not reported in their aodads. The ranch soil is a typical alkaline steppe soil.
+
+The paper does not mention which scavenger species fed on the carcasses, though it lists possibles. In my experience, vultures or turkey buzzards will find a carcass within minutes, and a gang of them will quickly and efficiently eviscerate it. African vultures are well described doing the same, and in doing so, they efficiently and significantly reduce the risk and extent of any soil contamination; passage through their intestines kills any and all vegetative _B. anthracis_ cells; one year, we had a deer outbreak with some 2 dozen deaths, and the buzzards fed on the carcasses, and when I sampled their faeces under their roost, there was not one positive faecal sample in the 20 cultured. Vulture faeces will be positive if they feed on an old carcass where sporulation has already occurred. And beyond a threshold number of deaths, the vultures are replete, and then ignore the new dead deer.
+
+If you are going to have soil contamination from scavengers, it must depend on how they attack the carcass. Maximal soil contamination would logically be from a fresh anthrax carcass with maximum bloody fluid, e.g., ascites, spillage. Lions having ripped the carcass open dine together. Foxes, whether in northern Canada or Argentina, tunnel in. Wolves are very untidy feeders, from what I have seen about wood bison carcasses. Hyaenas come late and drag off pieces and limbs, as do coyotes. Feral hogs and mountain lions are carcass draggers.
+
+In an area with frequent zebra anthrax cases, one might expect to see a genomic shift in the pathogen to maximize the volume of fluids, bloody and otherwise, shed from a zebra carcass. And late fluids even if with no viable organisms might act as nutrients for the early 1st deposited soil-cycling anthrax organisms later if not immediately. Plus they would fertilise the forage to attract grazing animals back to this contaminated site at a later date.
+
+What I am trying to say is that this is not a simple situation. It is one overdue for analysis and investigation, as we have a triad of factors: host species and potentials for postmortem fluid leakage or not; scavenger species and feeding habits; and pathogen factors. In addition, confirmation is needed on what happens within the typical target species not just in the 1st 4 days but up to 8 to 10 days postmortem in relation to, for example, numbers of surviving viable organisms within the carcass, pH, and the internal aerobic-anaerobic status. It is possibly not as simple as tradition would have it, though probably not widely different. It needs recalibration.
+
+One last point, when sampling soil repetitively, flag each sample site. It is all too easy to revisit old, previously sampled sites, ignore other parts, and get distorted results. I speak from experience. - Mod.MHJ
+
+A HealthMap/ProMED-mail map can be accessed at: http://healthmap.org/promed/p/.]
+See Also
+Anthrax: new ecological research 20140606.2523686
+1998
+----
+Anthrax, molecular pathogenesis, current research 19980501.0858
+.................................................mhj/msp/mpp
+</body>

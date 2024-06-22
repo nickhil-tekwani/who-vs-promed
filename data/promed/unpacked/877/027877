@@ -1,0 +1,453 @@
+<header id=027877>
+Published Date: 2020-02-11 18:43:01 EST
+Subject: PRO/AH/EDR> Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO
+Archive Number: 20200211.6979942
+</header>
+<body id=027877>
+NOVEL CORONAVIRUS (42): CHINA, GLOBAL, CLINICAL PICTURES, COVID-19, SARS-COV-2, WHO
+***********************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] China: China National Health Commission 11 Feb 2020
+[2] Global update: Johns Hopkins CSSE [accessed at 8:00 p.m. GMT-5]
+[3] Viral taxonomy: SARS-CoV-2
+[4] COVID-19 the disease, SARS-CoV-2 the virus
+[5] Selected media reports of transmission outside of mainland China
+[6] WHO situation report 21 (as of 10 Feb 2020*)
+
+[Please note that publications presented in these updates that come from bioRxiv are pre-peer review manuscripts and final publications may be significantly different. - Mod.MPP]
+
+******
+[1] China: China National Health Commission 11 Feb 2020
+Date: Wed 12 Feb 2020
+Source: China National Health Commission [in Chinese, machine trans., edited]
+http://www.nhc.gov.cn/xcs/yqtb/202002/4a611bc7fa20411f8ba1c8084426c0d4.shtml
+
+
+Update on the epidemic situation of new coronavirus pneumonia as of 24:00 on [11 Feb 2020]
+------------------------------------------------------------------------------------------
+At 04:00 on [11 Feb 2020], 31 provinces (autonomous regions, municipalities) and the Xinjiang Production and Construction Corps reported that there were 2015 confirmed cases (1638 cases in Hubei), 871 severe cases (897 cases in Hubei), 97 deaths (94 in Hubei, 1 in Henan, Hunan, and Chongqing), and 3342 suspected cases (1685 in Hubei). On the same day, 744 new cases were cured and discharged (417 in Hubei), and 30 068 close contacts were lifted from medical observation.
+
+As of 24:00 on [11 Feb 2020], according to reports from 31 provinces (autonomous regions, municipalities) and the Xinjiang Production and Construction Corps, there were 38 800 confirmed cases (among which 8204 were severe cases), 4740 were cured and discharged, and 1113 died. A total of 44 653 confirmed cases and 16 067 suspected cases have been reported. A total of 451 462 close contacts were tracked, and 185 037 close contacts were still in medical observation. A total of 77 confirmed cases were reported from Hong Kong, Macao, and Taiwan: 49 in the Hong Kong Special Administrative Region (1 death), 10 in the Macao Special Administrative Region (1 in discharged from cure), and 18 in Taiwan (1 in discharged from cure).
+
+Note: The number of new severe cases is obtained by subtracting the number of severe cases on the previous day from the number of existing severe cases on that day. There are medical outcomes such as mild disease and death in severe cases.
+
+On [11 Feb 2020], the number of severe cases in 12 provinces decreased by 44 cases, and the number of severe cases in 8 provinces, including Hubei, increased by 915 cases.
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[A total of 2015 newly confirmed cases have been reported by China in the past 24 hours compared with 3062 on 9 Feb 2020 and 2478 10 Feb 2020. Perhaps there is a decreasing daily confirmation trend beginning. This brings the total number of reported confirmed cases to 44 653 cases. In addition, 97 deaths were reported in this time period, bringing the total number of reported deaths to 1113. In the past 24 hours, there have been 7 newly confirmed cases reported from Hong Kong.
+
+A good map of China showing provinces can be found at https://www.chinadiscovery.com/china-maps/china-provincial-map.html and a HealthMap/ProMED-mail map can be seen at https://promedmail.org/promed-post?place=6979942,155. - Mod.MPP]
+
+******
+[2] Global update: Johns Hopkins CSSE [accessed at 8:00 p.m. GMT-5]
+Date: Tue 11 Feb 2020
+Source: Johns Hopkins CSSE (Center for Systems Science and Engineering) [edited]
+https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
+
+
+Confirmed cases 2 Feb 2020 / 3 Feb 2020 / 4 Feb 2020 (early) / 4 Feb 2020 (end of day) / 5 Feb 2020 / 6 Feb 2020 / 7 Feb 2020 / 8 Feb 2020 / 9 Feb 2020 early / 9 Feb 2020 late / 10 Feb 2020 / 11 Feb 2020 / Country/Region
+17 187 / 19 693 / 20 636 / 23 746 / 27 396 / 30 553 / 34 524 / 37 174 / 37 199 / 40 157 / 42 310 / 44 414 / Mainland China
+20 / 20 / 20 / 22 / 22 / 45 / 25 / 25 / 26 / 26 / 26 / 26 / 26 / Japan
+19 / 19 / 19 / 25 / 25 / 25 / 25 / 32 / 32 / 32 / 32 / 33 / Thailand
+18 / 18 / 18 / 24 / 28 / 28 / 30 / 40 / 40 / 43 / 45 / 47 / Singapore
+15 / 15 / 15 / 17 / 21 / 24 / 26 / 26 / 26 / 36 / 38 / 49 / Hong Kong
+15 / 15 / 15 / 16 / 19 / 23 / 24 / 25 / 25 / 27 / 27 / 28 / South Korea
+12 / 12 / 12/ 13 / 13 / 14 / 15 / 15 / 15 / 15 / 15 / 15 / Australia
+10 / 12 / 12 / 12 / 12 / 12 / 13 / 13 / 15 / 14 / 14 / 16 / Germany
+10 / 10 / 10 / 11 / 11 / 16 / 16 / 17 / 17 / 18 / 18 / 18 / Taiwan
+11 / 11 / 11 / 11 / 12 / 12 / 12 / 12 / 12 / 12 / 12 / 13 / USA
+8 / 8 / 10 / 10 / 10 / 10 / 10 / 10 / 10 / 10 / 10 / 10 / Macau
+8 / 8 / 10 / 10 / 12 / 12 / 12 / 16 / 16 / 18 / 18 / Malaysia
+6 / 6 / 6 / 6 / 6 / 6 / 6 / 11 / 11 / 11 / 11 / France
+6 / 8 / 8 / 8 / 8 / 10 / 10 / 13 / 13 / 14 / 14 / Viet Nam
+5 / 5 / 5 / 5 / 5 / 5 / 5 / 7 / 7 / 7 / 8 / 8 / United Arab Emirates
+4 / 4 / 4 / 4 / 5 / 5 / 7 / 7 / 7 / 7 / 7 / 7 / Canada
+2 / 2 / 2 / 2 / 2 / 2 / 3 / 3 / 3 / 3 / 3 / 3 / Italy
+2 / 2 / 2 / 2 / 2 / 2 / 2 / 2 / 2 / 2 / 2 / 2 / Russia
+2 / 2 / 2 / 2 / 2 / 2 / 3 / 3 / 3 / 3 / 3 / 3 / Philippines
+2 / 3 / 3 / 3 / 3 / 3 / 3 / 3 / 3 / 3 / 3 / 3 / India
+2 / 2 / 2 / 2 / 2 / 2 / 3 / 3 / 3 / 3 / 8 / 8 / UK
+1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / Nepal
+1 / 1 / 1 / 1/ 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / Cambodia
+1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 2 / 2 / 2 / Spain
+1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1/ 1 / 1 / Finland
+1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / Sweden
+1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / Sri Lanka
+0 / 0 / 0 / 1 / 1 / 1 / 1 / 1 / 1/ 1 / 1 / 1 / Belgium
+0 / 0 / 0 / 10 / 20 / 41 / 61 / 64 / 64 / 135 / 135 / Others
+
+Total reported deaths: 1114
+Hubei, Mainland China: 1068 deaths
+Guangdong, Mainland China: 1 death
+Henan, Mainland China: 8 deaths
+Hunan, Mainland China: 1 death
+Anhui, Mainland China: 4 deaths
+Jiangxi, Mainland China: 1 death
+Chongqing, Mainland China: 3 deaths
+Shandong, Mainland China: 1 death
+Sichuan, Mainland China: 1 death
+Beijing, Mainland China: 3 deaths
+Heilongjiang, Mainland China: 8 deaths
+Shanghai, Mainland China: 1 death
+Hebei, Mainland China: 2 deaths
+Guangxi, Mainland China: 1 death
+Hainan, Mainland China: 3 deaths
+Guizhou, Mainland China: 1 death
+Tianjin, Mainland China: 2 deaths
+Gansu, Mainland China: 2 deaths
+Jilin, Mainland China: 1 death
+Hong Kong, Hong Kong: 1 death
+Philippines: 1 death
+
+Data sources: WHO, CDC, ECDC, NHC, and DXY
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[As mentioned previously, this website is constantly updated as new information comes in, so it is likely that when you read this post, the numbers will not match the linked numbers because they will have been updated since the post was prepared.
+
+There are now a total of 476 confirmed cases of COVID-19 (Coronavirus disease 2019; see sections [3] and [4] below) reported from outside mainland China. During this period, no new countries were added to the list, nor were new fatalities reported outside China. With respect to fatalities, the total number of fatalities associated with COVID-19 is now at 1114, with 101 newly reported fatalities in the past 24 hours, all reported from mainland China. Of the 101 newly reported fatalities, 94 (93.1%) were reported from Hubei province. Overall, 1068 (95.9%) of all fatalities reported by mainland China were reported from Hubei province. - Mod.MPP]
+
+******
+[3] Viral taxonomy: SARS-CoV-2
+Date: Tue 11 Feb 2020
+Source: bioRxiv [edited]
+https://doi.org/10.1101/2020.02.07.937862
+
+
+Ref: Gorbalenya AE: _Severe acute respiratory syndrome-related coronavirus_ -- The species and its viruses, a statement of the Coronavirus Study Group. bioRxiv 2020.02.07.937862; doi: https://doi.org/10.1101/2020.02.07.937862
+
+Abstract
+--------
+The present outbreak of lower respiratory tract infections, including respiratory distress syndrome, is the 3rd spillover, in only 2 decades, of an animal coronavirus to humans resulting in a major epidemic. Here, the Coronavirus Study Group (CSG) of the International Committee on Taxonomy of Viruses, which is responsible for developing the official classification of viruses and taxa naming (taxonomy) of the _Coronaviridae_ family, assessed the novelty of the human pathogen tentatively named 2019-nCoV. Based on phylogeny, taxonomy and established practice, the CSG formally recognizes this virus as a sister to severe acute respiratory syndrome coronaviruses (SARS-CoVs) of the species _Severe acute respiratory syndrome-related coronavirus_ and designates it as severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). To facilitate communication, the CSG further proposes to use the following naming convention for individual isolates: SARS-CoV-2/Isolate/Host/Date/Location. The spectrum of clinical manifestations associated with SARS-CoV-2 infections in humans remains to be determined. The independent zoonotic transmission of SARS-CoV and SARS-CoV-2 highlights the need for studying the entire (virus) species to complement research focused on individual pathogenic viruses of immediate significance. This research will improve our understanding of virus-host interactions in an ever-changing environment and enhance our preparedness for future outbreaks.
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+******
+[4] COVID-19 the disease, SARS-CoV-2 the virus
+A. Date: Tue 11 Feb 2020 12:10 p.m. EST
+Source: Washington Post [edited]
+https://www.washingtonpost.com/world/asia_pacific/coronavirus-china-live-updates/2020/02/11/2b8de3ba-4c5c-11ea-b721-9f4cdc90bc1c_story.html
+
+
+Why there are 2 new names for the coronavirus epidemic?
+-------------------------------------------------------
+There are 2 new names associated with the epidemic unfolding in China and in 2 dozen countries around the world.
+
+The "novel coronavirus" will be designated "severe acute respiratory syndrome coronavirus 2," or more simply "SARS-CoV-2."
+
+The disease it causes is "COVID-19."
+
+The name of the disease was announced by the director general of the World Health Organization on Tuesday [11 Feb 2020] at a news conference. The naming of the virus came from a committee of experts who published a paper on a biology preprint site that described their research and rationale for giving the new virus a derivative name.
+
+"It will be like HIV and AIDS -- different names for virus and disease," said Benjamin Neuman, a virologist at Texas A&M University at Texarkana and a co-author of the paper.
+
+The naming of the virus came after close study of its genetic makeup by a dozen scientists, including Neuman, who form the Coronavirus Study Group, part of the International Committee on Taxonomy of Viruses.
+
+Neuman said the new virus is the same species as the virus that caused the outbreak of Severe Acute Respiratory Syndrome (SARS) in China in 2002-2003.
+
+"Same species, but different member of the species," Neuman said.
+
+[Byline: Joel Achenbach]
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+---
+B. Date: Tue 11 Feb 2020
+Source: NPR [edited]
+https://www.npr.org/sections/goatsandsoda/2020/02/11/802352351/new-coronavirus-gets-an-official-name-from-the-world-health-organization
+
+
+The new coronavirus disease that was first identified in Wuhan has received an official name from the World Health Organization (WHO): "COVID-19." "COVI" comes from coronavirus. The "D" stands for disease. The 19 represents 2019, the year the virus was first identified, in December [2019]. The name will apply for the "entire spectrum" of cases, from mild to severe, according to a WHO spokesperson.
+
+The disease had been given the temporary name "2019-nCoV" by WHO in January [2020], identifying the pathogen as a novel (previously unidentified, that is) coronavirus that first emerged in humans in 2019.
+
+As weeks went by, people began calling it "Wuhan virus." But that's a problematic label. WHO guidelines for naming infectious diseases, issued in 2015, discourage names that refer to specific places, people and professions, aiming to avoid negative repercussions from stigmatizing a geographic area or a population group. In addition, no food or animal names should be used, the guidelines say -- "swine flu" is listed as an example to be avoided after fear of that pathogen led the Egyptian government to order the slaughter of hundreds of thousands of pigs.
+
+There are other considerations besides stigma. "The attempt is to describe a disease using terms that people can understand as well as possible," says Keiji Fukuda, a professor at the University of Hong Kong who helped draft the WHO guidelines. "So not to be too jargon-y." And speed is of the essence. Fukuda says in the absence of an easy-to-use, descriptive virus name, it's easy for other monikers to take hold. "You really are racing pretty quickly to get a name out there. If someone coins a phrase which is catchy and which other people quickly begin repeating, it can be very hard or impossible to pull back," Fukuda says.
+
+When SARS -- a member of the coronavirus family, like COVID-19 -- began spreading internationally in 2003, there was no formal process for naming it. Dr. David Heymann, who was leading the WHO's infectious diseases unit in Geneva at the time, had just left for a camping trip with his son's Boy Scout troop when he got a call about the disease's growing reach. He left his son with the other Scouts and headed back to the office. It was a quick meeting -- half an hour, maybe less. "There were no rules at that time about how to name it, so we just went ahead and did it," says Heymann, who is now an epidemiologist at the London School of Hygiene and Tropical Medicine. "The 1st thing we decided was it would be good to have a name that had the same type of a ring as AIDS -- easy to say and short."
+
+Fukuda says despite the ad hoc nature of Heymann's meeting, the group came up with a solid name.
+
+In other recent outbreaks, naming the virus didn't go so well. Middle East Respiratory Syndrome, or MERS, named in 2013, now appears in the "examples to be avoided" column of the WHO's guidance. "That's currently held up as an example of sort of what not to do," says Neuman. "It name-checks a particular region of the Earth, when really a virus is happy infecting anybody that it can get to. It just happens to originate in a particular area."
+
+In addition, an 11-member committee from the International Committee on Taxonomy of Viruses has proposed a name for the virus that causes the disease now known as COVID-19. The name they are proposing is SARS-CoV-2, which, according to the naming committee "formally recognizes this virus as a sister to severe acute respiratory syndrome coronaviruses."
+
+[Byline: Brett Dahlberg and Elena Renken]
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[We will be changing the name of this thread (the subject line) from Novel coronavirus to COVID-19 in keeping with the official naming released today. - Mod.MPP]
+
+******
+[5] Selected media reports of transmission outside mainland China
+A. Japanese cruise ship
+Date: Tue 12 Feb 2020
+Source: JiJi News [in Japanese, machine trans., edited]
+https://www.jiji.com/jc/article?k=2020021200312&g=soc&utm_source=top&utm_medium=topics&utm_campaign=edit
+
+
+The Ministry of Health, Labor and Welfare (MHLW) on Tuesday [11 Feb 2020] announced that 39 out of 53 newly tested humans were infected with the new virus on the cruise ship Diamond Princess. A quarantine officer was also infected in response to the ship's quarantine.
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[Cases continue to be identified. Again, dates of onset are not mentioned, but with the confirmation of a case in a quarantine officer, it suggests there may be ongoing transmission on the quarantined ship. These 39 cases bring the total number of positive cases on this ship to 174. - Mod.MPP]
+
+---
+B. USA ex China (Wuhan)
+Date: Tue 11 Feb 2020
+Source: The Hill [edited]
+https://thehill.com/policy/healthcare/482490-cdc-identifies-13th-patient-with-coronavirus-in-us
+
+
+Federal health officials on Tuesday [11 Feb 2020] confirmed another case of the novel coronavirus in the USA, bringing the total number of confirmed infections to 13. According to the Centers for Disease Control and Prevention (CDC), the individual was an evacuee from Wuhan, China, who was under federal quarantine in San Diego, CA. But the patient had been allowed to leave UC San Diego hospital and return to the quarantine site after a "mix-up" with the testing results, a CDC official told reporters Tuesday [11 Feb 2020].
+
+"It turns out there was probably a mix-up, and the original test wasn't negative," said Dr. Anne Schuchat, principal deputy director of the CDC. "There has been a new test collected in order to understand whether the person is still symptomatic, so there was just a little bit of a mix-up there." Schuchat did not provide any information about how the mix-up happened.
+
+According to a brief statement released by UC San Diego Health late Monday [10 Feb 2020], 4 patients admitted to its isolation units last week were discharged back to their quarantine quarters at Marine Corps Air Station Miramar after the CDC said coronavirus tests came back negative. Further testing revealed that 1 of the 4 patients tested positive for coronavirus, the statement said. The patient was returned to the hospital for observation and isolation until cleared by CDC for release.
+
+Schuchat said the patient's contacts with others are believed to be limited but is being reassessed. The CDC is quarantining an undisclosed number of Americans who have been evacuated from China. Individuals should be removed from quarantine sites and isolated if they begin showing symptoms or test positive for the coronavirus, Schuchat said.
+
+According to the university, another patient from the quarantine site was also transported to UC San Diego Health. The patient is being evaluated and will remain admitted until the test results are confirmed by the CDC.
+
+[Byline: Nathaniel Weixel and Jessie Hellmann]
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[It is unclear from the above media report as to whether the individual is asymptomatic or symptomatic and what impact the individual's return to the quarantine location will have for others in quarantine and the duration of the quarantine. - Mod.MPP]
+
+---
+C. Germany (Bavaria)
+Date: Tue 11 Feb 2020
+Source: Reuters [edited]
+https://www.reuters.com/article/us-china-health-germany-cases/germany-confirms-two-more-cases-of-coronavirus-raising-overall-number-to-16-idUSKBN2052GT
+
+
+Germany on Tuesday [11 Feb 2020] confirmed 2 more cases of coronavirus in the southern state of Bavaria, raising the overall number of known cases in Europe's most populous country to 16.
+
+The 2 new cases of coronavirus are related to infections among staff at a company in the Starnberg district west of Munich, the Bavarian health ministry said. Car supplier Webasto said last month [January 2020] a Chinese employee had tested positive for the virus upon returning to China following a visit to the headquarters near Munich. The employee apparently infected several German colleagues during the visit.
+
+[Byline: Michael Nienaber]
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[It is unclear if these cases are considered to be contacts of the original colleague from China or if these are 2nd-generation transmission cases. - Mod.MPP]
+
+---
+D. Hong Kong
+Date: Tue 11 Feb 2020
+Source: Hong Kong Center for Health Protection Press Release [edited]
+https://www.info.gov.hk/gia/general/202002/11/P2020021100768.htm
+
+
+Latest progress in follow up on novel coronavirus infection in Hong Mei House, Cheung Hong Estate
+-------------------------------------------------------------------------------------------------
+The Centre for Health Protection (CHP) of the Department of Health (DH) is today ([11 Feb 2020]) continuing to proactively follow up on the cases of novel coronavirus infection in Hong Mei House, Cheung Hong Estate in Tsing Yi. Questionnaires with the households at the A07 units of Hong Mei House have been completed. Apart from the close contacts of the resident involved in the case confirmed yesterday ([10 Feb 2020]), so far no additional case has been recorded from other households.
+
+Personnel from the CHP have successfully traced all 34 households of all the A07 units of Hong Mei House. Active case finding was conducted to identify if there are undiagnosed cases. Five residents who were symptomatic were sent to hospitals for isolation and treatment. All of the respiratory samples tested negative for novel coronavirus.
+
+Among the 34 households, 2 are from the confirmed cases, about 100 residents from 30 households are being arranged to be transferred to quarantine centres while the remaining 2 households currently do not reside in their units due to individual reasons.
+
+The CHP is continuing epidemiological investigations into the cases of novel coronavirus infection in Hong Mei House. Together with the Environment Bureau, and departments including Housing Department (HD), the Electrical and Mechanical Services Department and the Architectural Services Department, the CHP is investigating and examining if environmental factors were involved in the infection of the cases.
+
+According to the HD's information, the HD's Maintenance Surveyor and technical inspection team has conducted a detailed inspection at the unit A07 of Hong Mei House where the 62-year-old female patient resides. The vent pipe at the toilet which was altered without permission has been sealed up. The inspection team will inspect other 07 units in the building. If unauthorised alteration of vent pipes in the toilets are detected, immediate and proper follow-up actions will be taken.
+
+As the investigations by relevant departments are ongoing, the CHP advised that, as a precautionary measure, the residents of Cheung Hong Estate at this stage should not open the window or turn on the ventilator when using the toilet.
+
+The Food and Environmental Hygiene Department and the HD will conduct thorough cleaning and disinfection for the building. The DH today organised a health talk for residents of Cheung Hong Estate to give health advice on the prevention of pneumonia and respiratory tract infection to residents.
+
+A spokesman for the CHP said, "The public is strongly urged to maintain at all times strict personal and environmental hygiene, which is key to personal protection against infection and prevention of the spread of the disease in the community."
+
+The spokesman said, "On the personal level, members of the public should wear a surgical mask when having respiratory symptoms, taking public transport or staying in crowded places. They should also perform hand hygiene frequently, especially before touching the mouth, nose or eyes. The public should go out less and reduce social activities, and maintain appropriate social distance with other people as far as possible.
+
+"As for household environmental hygiene, members of the public are advised to maintain drainage pipes properly and regularly pour water into drain outlets (U-traps); after using the toilet, they should put the toilet lid down before flushing to avoid spreading germs."
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[This is impressive to say the least. Lessons were definitely learned and not forgotten from the Amoy Gardens outbreak in 2003. - Mod.MPP]
+
+******
+[6] WHO situation report 22 (as of 11 Feb 2020*)
+Date: Tue 11 Feb 2020
+Source: World Health Organization [edited]
+https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200211-sitrep-22-ncov.pdf?sfvrsn=fb6d49b1_2
+
+
+*The situation report includes information provided by national authorities as of 10 a.m. CET.
+
+Highlights
+----------
+- No new countries reported cases of 2019-nCoV in the past 24 hours.
+
+- An advanced team is currently in Beijing to prepare an international mission and to determine the questions the international team will want to learn more about: from characteristics of the virus to public health response China put in place to try to contain the virus. The group of international experts, with a range of specializations, will work with Chinese counterparts on increasing understanding of the outbreak to guide global response efforts. Since being notified of the outbreak on [31 Dec 2020], the WHO Country Office in China, supported by the regional and international offices, has worked to support China, and indeed the world, to scale up the response. A small mission was sent to Wuhan mid-January, and the Director-General visited in January [2020].
+
+- Following WHO best practices for naming of new human infectious diseases, which were developed in consultation and collaboration with the World Organisation for Animal Health (OIE) and the Food and Agriculture Organization of the United Nations (FAO), WHO has named the disease COVID-19, short for "coronavirus disease 2019."
+
+Technical focus: Zoonotic component of 2019-nCoV and human-animal interface
+---------------------------------------------------------------------------
+Increasing evidence demonstrates the link between the 2019-nCoV and other similar known coronaviruses (CoV) circulating in bats, and more specifically those of the _Rhinolophus_ bat sub-species. These sub-species are abundant and widely present in Southern China, and across Asia, the Middle East, Africa and Europe. Recent studies indicate that more than 500 CoVs have been identified in bats in China. To be noted that serological studies conducted in rural population living close to bats' natural habitat in caves revealed a 2.9% bat-CoV seroprevalence, demonstrating that humans' exposure to bat-CoVs might be common (1).
+
+However, the route of transmission to humans at the start of this event remains unclear. Bats are rare in markets in China but hunted and sold directly to restaurants for food (2). The current most likely hypothesis is that an intermediary host animal has played a role in the transmission.
+
+Both Chinese and external expert groups are working in trying to identify the animal source of this new virus. Identifying the animal source of the 2019-nCoV would help to ensure that there will be no further future similar outbreaks with the same virus and will also help understanding the initial spread of the disease in the Wuhan area. It would also increase our understanding of the virus and help us understand how these viruses jump from animals to humans -- thus, providing critical knowledge on how to protect us from future similar events. In this regard, strengthening food control and market hygiene activities in live food market will be essential to protect people from similar and other zoonotic diseases.
+
+References
+1. Wang N, Li SY, Yang XL, et al. Serological evidence of bat SARS-related coronavirus infection in humans, China. Virol Sin. 2018;33(1):104-107.
+2. Li H, Mendelsohn E, Zong C, et al. Human-animal interactions and bat coronavirus spillover potential among rural residents in Southern China. Biosaf Health. 2019;1(2):84-90.
+
+[The figures provided in the report are the figures from the National Health Commission of China from 12 Feb 2020. The 11 Feb 2020 figures are included in Section [1] above. They are posted at approximately 7 p.m. (GMT-5), which is 1 a.m. (GMT+1) in Geneva. - Mod.MPP]
+
+Table 2. Countries, territories or areas with reported confirmed 2019-nCoV cases and deaths. Data as of [11 Feb 2020].
+
+Excerpted to show confirmed cases outside mainland China:
+
+WHO Region:
+Country/Territory/Area: Total confirmed (new cases in past 24 hours)* / Total (new) with travel history to China / Total (new) cases with possible or confirmed transmission outside of China** / Total (new) case with site of transmission under investigation / Total (new) deaths
+
+Western Pacific Region:
+China***: 42 708 (2484) / / / / 903 (97)
+Japan: 26 / 22 / 4 / 0 / 0
+Republic of Korea: 28 (1) /13 / 12******** / 3 (1) / 0
+Viet Nam: 15 (1) / 8 / 6 / 1 (1) / 0
+Singapore: 45 (2) / 22 (1) / 23******* (1) / 0 / 0
+Australia: 15 / 15 / 0 / 0 / 0
+Malaysia: 18 / 15 / 3********* (0) / 0 / 0
+Cambodia: 1 / 1 / 0 / 0 / 0
+Philippines: 3 / 2 / 0 / 1 / 1
+South East Asia Region:
+Thailand: 33 (1) / 23 (1) / 6********** / 4 / 0
+Nepal: 1 / 1 / 0 / 0 / 0
+Sri Lanka: 1 / 1 / 0 / 0 / 0
+India: 3 / 3 / 0 / 0 / 0
+Region of the Americas:
+United States of America: 13 (1) / 11 (1) / 2 / 0 / 0
+Canada: 7 / 6 / 0 / 1 / 0
+European Region:
+France: 11 / 5 / 6 / 0 / 0
+Finland: 1 / 1 / 0 / 0 / 0
+Germany: 14 / 2 / 12******* / 0 / 0
+Italy: 3 / 3 / 0 / 0 / 0
+Russian Federation: 2 / 2 / 0 / 0 / 0
+Spain: 2 (1) / 0 / 2***** / 0 / 0
+Sweden: 1 / 1 / 0 / 0 / 0
+United Kingdom: 8 (4) / 1 / 7****** (4) / 0 / 0
+Belgium: 1 / 1 / 0 / 0 / 0
+Eastern Mediterranean Region:
+United Arab Emirates: 8 (1) / 6 / 1 / 1 (1) / 0
+
+Other: Cases on an international conveyance (Japan): 135**** (65) / 0 / 0 / 135 (65) / 0
+
+*Case classifications are based on WHO case definitions for 2019-nCoV.
+**Location of transmission is classified based on WHO analysis of available official data and may be subject to reclassification as additional data become available.
+***Confirmed cases in China include cases confirmed in Hong Kong SAR (42 confirmed cases, 1 death), Macao SAR (10 confirmed cases) and Taipei and environs (18 confirmed cases).
+****Cases identified on a cruise ship currently in Japanese territorial waters.
+*****The exposure for both cases occurred outside of Spain.
+******The exposure for 6 cases occurred outside of the United Kingdom.
+*******The exposure for 4 cases occurred outside of Singapore.
+********The exposure for 3 cases occurred outside of Republic of Korea.
+*********The exposure for 1 case occurred outside of Malaysia.
+**********The exposure for 2 cases occurred outside of Thailand.
+
+[There are excellent graphs and a map available at the source URL, as well as strategic objectives and preparedness and response information.
+- Figure 1. Countries, territories or areas with reported confirmed cases of 2019-nCoV, 11 Feb 2020.
+- Figure 2: Epidemic curve of 2019-nCoV cases (n = 150) identified outside China, by date of onset of symptoms and travel history, 11 Feb 2020 (WHO has a note for Figure 2: Of the 395 cases reported outside China, 16 were detected while apparently asymptomatic. For the remaining 379 cases, information on date of onset is available only for the 150 cases presented in the epidemiologic curve.)
+- Figure 3: Epidemic curve of 2019-nCoV cases (n = 395) identified outside China, by date of reporting and travel history, 11 Feb 2020.
+- Mod.MPP]
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The number of countries reporting confirmed cases of the 2019-nCoV with transmission occurring outside China remains 12 (Japan, Singapore, South Korea, Viet Nam, Malaysia, Thailand, USA, France, Germany, Spain, UK, and UAE). - Mod.MPP]
+See Also
+Novel coronavirus (41): China, global, clinical pics, asymptomatic trans., WHO 20200210.6976117
+Novel coronavirus (40): animal reservoir, pangolin poss intermediate host, RFI 20200210.6972104
+Novel coronavirus (39): China, global, false negative NAT tests, WHO 20200209.6972103
+Novel coronavirus (38): China, global, local transm, CFR, WHO 20200209.6969995
+Novel coronavirus (37): China, global, cruise, clinical, WHO 20200208.6967526
+Novel coronavirus (36): China, global, incubation, airport screen, WHO 20200207.6963294
+Novel coronavirus (35): China, global, health workers, cruise, WHO, RFI 20200206.6959291
+Novel coronavirus (34): China, global, deaths, WHO 20200205.6955196
+Novel coronavirus (33): China, global, epidemic modeling interactive tool available 20200204.6954575
+Novel coronavirus (32): China, global, management, research 20200204.6950903
+Novel coronavirus (31): China, Global, 20200202.6946685
+Novel coronavirus (30): updates, China, Viet Nam, research 20200202.6945658
+Novel coronavirus (29): updates, China, Philippines, USA, Canada, Spain 20200202.6944056
+Novel coronavirus (28): China (HU) animal reservoir 20200201.6943858
+Novel coronavirus (27): updates, Africa 20200201.6943724
+Novel coronavirus (26): research, research, early spread in Wuhan, China 20200201.6943519
+Novel coronavirus (25): updates, China, Italy, Russia, UK 20200131.6940058
+Novel coronavirus (24): updates, China, PHEIC, India, economy, research 20200131.6937255
+Novel coronavirus (23): updates, China, UAE, Finland, ECDC, research 20200129.6929532
+Novel coronavirus (22): reservoir suggested, bats 20200129.6930718
+Novel coronavirus (21): China, Canada, Sri Lanka ex China 20200127.6918021
+Novel coronavirus (20): China, wildlife trade ban 20200127.6922060
+Novel coronavirus (19): China (HU) transmission dynamics 20200126.6918012
+Novel coronavirus (18): China (HU) animal reservoir 20200125.6915411
+Novel coronavirus (17): China (HU), France, USA ex China, Viet Nam p2p trans. 20200125.6914553
+Novel coronavirus (16): China (HU), Viet Nam, Singapore ex China, IHR committee WHO 20200123.6910685
+Novel coronavirus (15): China (HU) wild animal sources 20200123.6909913
+Novel coronavirus (14): China (HU), Hong Kong, Macau ex China 20200122.6907971
+Novel coronavirus (13): China (HU) USA ex China 20200121.6903878
+Novel coronavirus (12): China (HU) new fatality, healthcare workers, WHO 20200121.6901757
+Novel coronavirus (11): China (HU), South Korea ex China 20200120.6899007
+Novel coronavirus (10): China (HU, GD, BJ) 20200119.6898567
+Novel coronavirus (09): China, 1st diagnostic test 20200119.6897998
+Novel coronavirus (08): China (HU) more cases, Nepal susp, modeling 20200118.6897282
+Novel coronavirus (07): China (HU), Thailand ex China, Japan ex China, WHO 20200117.6895647
+Novel coronavirus (06): China (HU) fatality, Japan ex China, antipyretic use 20200116.6893471
+Novel coronavirus (05): China (HU), Japan ex China 20200115.6891515
+Novel coronavirus (04): China (HU), Thailand ex China, .6889527
+Novel coronavirus (03): China (HU) animal reservoir suggested, RFI 20200114.6887480
+Novel coronavirus (02): Thailand ex China (HU) WHO 20200113.6886644
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia - China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia - China (HU) (09): novel coronavirus, more info, fatality 20200110.6883253
+Undiagnosed pneumonia - China (HU) (08): novel coronavirus, WHO 20200110.6881082
+Undiagnosed pneumonia - China (HU) (07): official confirmation of novel coronavirus 20200108.6878869
+Undiagnosed pneumonia - China (06): (HU) Hong Kong surveillance, USA CDC alert 20200108.6876648
+Undiagnosed pneumonia - China (05): (HU) novel coronavirus identified 20200108.6877694
+Undiagnosed pneumonia - China (04): (HU) Hong Kong surveillance 20200106.6874277
+Undiagnosed pneumonia - China (03): (HU) updates, SARS, MERS ruled out, WHO, RFI 20200105.6872267
+Undiagnosed pneumonia - China (02): (HU) updates, other country responses, RFI 20200103.6869668
+Undiagnosed pneumonia - China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+----
+Undiagnosed pneumonia - China (HU): RFI 20191230.6864153
+.................................................mpp/rd/ml
+</body>

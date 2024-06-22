@@ -1,0 +1,240 @@
+<header id=063600>
+Published Date: 2021-12-05 23:34:35 EST
+Subject: PRO/AH/EDR> COVID-19 update (417): quarantine hotel, border control, travel bans, global
+Archive Number: 20211206.8700087
+</header>
+<body id=063600>
+CORONAVIRUS DISEASE 2019 UPDATE (417): QUARANTINE HOTEL TRANSMISSION, BORDER CONTROL, TRAVEL BANS, GLOBAL
+*********************************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] Quarantine hotel: probable transmission
+[2] Border controls
+[3] Travel bans and unanswered questions
+[4] New paper of note
+[5] WHO: daily new cases reported (as of 4 Dec 2021)
+[6] Global update: Worldometer accessed 4 Dec 2021 24:35 EST (GMT-5)
+
+******
+[1] Quarantine hotel: probable transmission
+Date: Fri 3 Dec 2021
+Source: CDC [edited]
+https://wwwnc.cdc.gov/eid/article/28/2/21-2422_article
+
+
+Citation: Haogao Gu, Pavithra K, Ng D Y M, et al. Probable Transmission of SARS-CoV-2 Omicron Variant in Quarantine Hotel, Hong Kong, China, November 2021. Emerg Inf Dis Research Letter. 2021 [early release]; 28(2); doi: https://doi.org/10.3201/eid2802.212422.
+---------------------------------------------------------------------------------------------------------------
+Abstract
+--------
+We report detection of severe acute respiratory syndrome coronavirus 2 omicron variant (B.1.1.529) in an asymptomatic, fully vaccinated traveler in a quarantine hotel in Hong Kong, China. The omicron variant was also detected in a fully vaccinated traveler staying in a room across the corridor from the index patient, suggesting transmission despite strict quarantine precautions.
+
+A new variant of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), B.1.1.529, was identified in Botswana and South Africa in early November 2021 and was designated as variant of concern (VOC) omicron by the World Health Organization on 26 Nov 2021 (1). As of 1 Dec 2021, approx. 220 sequences were available on GISAID (https://www.gisaid.org), and this variant has been detected in countries in Africa and beyond since mid-November [2021] (2,3). This variant contains more than 30 spike protein amino acid mutations that might be associated with increased transmissibility, severity, and capacity for immune escape. With supporting evidence of epidemiologic and molecular epidemiologic findings, we report the probable transmission of omicron in a quarantine hotel in Hong Kong, China. We also compare its mutational profile with other VOCs and variants of interest.
+
+Two cases of infection with VOC omicron (cases A and B) were detected in Hong Kong. Case-patient A arrived in Hong Kong from South Africa on 11 Nov 2021, and case-patient B arrived in Hong Kong from Canada on 10 Nov 2021. Both case-patients had previously received 2 vaccine doses (Pfizer-BioNTech, https://www.pfizer.com); the 2nd dose was given on 4 Jun 2021 for case-patient A and on 25 May 2021 for case-patient B. Both case-patients tested negative by reverse transcription PCR (RT-PCR) for SARS-CoV-2 within 72 hours before arrival. On arrival at the Hong Kong airport, both case-patients stayed in the same quarantine hotel and had rooms across the corridor from each other on the same floor.
+
+Case-patient A showed a positive result for SARS-CoV-2 without symptoms on 13 Nov 2021 (cycle threshold [Ct] value 18). He was hospitalized and isolated the next day. Case-patient B had mild symptoms develop on 17 Nov 2021. He showed a positive result for SARS-CoV-2 (Ct value 19) on 18 Nov 2021 and was hospitalized on the same day. The 2 Ct values indicate high viral loads. None of the 12 persons staying in nearby rooms on the same floor during the study or related hotel staff have tested positive in repeated tests for SARS-CoV-2 (4).
+
+Viral genomes deduced from these 2 SARS-CoV-2-positive cases differed only by 1 nt. Retrospective investigation, including closed-circuit television camera footage, confirmed that neither case-patient left their room during the quarantine period. No items were shared between rooms, and other persons did not enter either room. The only time the 2 quarantined persons opened their respective doors was to collect food that was placed immediately outside each room door. The only other time they might have opened their doors would be for RT-PCRs, which were conducted in 3-day intervals. However, because these 2 case-patients arrived 1 day apart, it is unlikely that they would be tested on the same day. Airborne transmission across the corridor is the most probable mode of transmission.
+
+[Figure. Detection of severe acute respiratory syndrome coronavirus 2 omicron variant in 2 patients (cases A and B) in Hong Kong, China, November 2021. A) Phylogenetic time tree of omicron nucleotide. [See full report.]]
+
+We sequenced complete SARS-CoV-2 genomes from case-patients A and B (Appendix) and confirmed that these genomes were VOC omicron (Pango lineage B.1.1.529) (Figure, panel A). Viral sequences from these 2 case-patients differed by only 1 nt. Viral sequence from case-patient A was highly similar to those of the 1st few reported omicron cases identified in South Africa and Botswana (Appendix Table 1). Because many countries have just reported detection of this VOC (https://www.gisaid.org/hcov19-variants), the actual genetic diversity of this virus lineage requires further investigations.
+
+The long branch of omicron clade in the phylogenetic tree is attributed to the large number of mutations (Figure, panel A). Nonsynonymous mutations were identified in the spike (S)-encoding (n = 35) and other viral protein-encoding (n = 22) regions (Figure, panel B). Among the nonsynonymous mutations in the S protein, 43% (n = 15) were also identified in other VOCs/variants of interest, and 31% (n = 11) were found only in VOCs (alpha, n = 6; beta, n = 4; gamma, n = 5; delta, n = 4). Some of the point mutations and deletions found in other regions are not novel and can also be found in other variants at different frequencies (Appendix Table 2). Among these non-S mutations, NSP4-T492I, NSP6-S106del, NSP6-G107del, NSP12-P323L, N-P13L, N-R203K, and N-G204R are commonly found in SARS-CoV-2 variants.
+
+The laboratory and epidemiologic features of the omicron variant are yet to be fully characterized and cannot be determined on the basis of sequence features alone. Nonetheless, compared with other VOCs, the number of mutations found in the spike of the omicron variant is unprecedented. This finding results in false-negative results in some diagnostic RT-PCRs specific for the S gene (3). Many of the mutations found in the S protein are known to alter SARS-CoV-2 antigenicity and transmissibility (5). The R203K and G204R mutations in the nucleocapsid protein are also associated with enhanced virus replication (6).
+
+It is not known whether these detected mutations might affect the effectiveness of existing vaccines and virus transmissibility. However, detection of omicron variant transmission between 2 fully vaccinated persons across the corridor of a quarantine hotel has highlighted this potential concern. Further experimental characterizations and epidemiologic investigations of this newly found VOC are urgently needed. Increased precautions or additional measures might be warranted while awaiting more data.
+
+[Full references are available at the source URL.]
+
+--
+Communicated by:
+Mary Marshall
+<mjm2020@googlemail.com>
+
+[It would be helpful to know how often transmission between "residents" in quarantine hotels has occurred. It strongly suggests we need to upgrade the ventilation systems in these hotels, as well as schools, clinics, hospitals, and more, to protect against such transmissible agents. - Mod.LK]
+
+******
+[2] Border controls
+Date: Thu 2 Dec 2021
+Source: Nature [edited]
+https://www.nature.com/articles/d41586-021-03608-x
+
+
+More than 50 countries have stepped up border controls to slow the spread of omicron, a highly mutated SARS-CoV-2 variant of concern that is sweeping through South Africa. But researchers say many of the restrictions -- especially those targeting only travellers from a handful of countries -- are unlikely to keep omicron out and come at significant cost to the countries concerned.
+
+Scientists in some of the affected countries also say that travel bans risk slowing down urgent research on omicron,by limiting the arrival of imported lab supplies.
+
+"I'm not that optimistic that the way in which these measures are being rolled out right now will have an impact," says Karen Grepin, a health economist at the University of Hong Kong, who studies border-control measures.
+
+"It's too late. The variant is circulating globally," agrees Kelley Lee, who studies global health at Simon Fraser University in Burnaby, Canada.
+
+Most travel bans target South Africa, which raised the alarm about omicron on 24 Nov [2021], and Botswana, which also reported early cases. Many nations are also banning visitors from neighbouring Lesotho, Eswatini, Zimbabwe, and Namibia.
+
+In South Africa's most populous province, Gauteng, omicron accounts for the majority of virus samples sequenced in the past few weeks. The World Health Organization (WHO) has designated omicron a variant of concern because it has numerous mutations in its spike protein, some of which could make it more infectious or improve its ability to evade antibodies.
+
+The extent of travel restrictions varies. The United States is preventing only non-US citizens who have been in selected countries from entering; Australia is also requiring 14 days of quarantine for its own citizens and residents who have visited those countries in the past 2 weeks.
+
+Researchers say border restrictions might deter nations from alerting the world to future variants. They will also slow down urgent research, because few planes carrying cargo -- including lab supplies needed for sequencing -- are now arriving in South Africa. Researchers are racing to understand how omicron's transmissibility and ability to evade immunity created by vaccines differ from those of pre-existing variants of SARS CoV-2. They're also investigating the relative severity of the illness omicron causes.
+
+"The travel ban will paradoxically affect the speed at which scientists are able to investigate," says Shabir Madhi, a vaccinologist at the University of the Witwatersrand in Johannesburg, South Africa. Researchers might also struggle to share samples with global collaborators.
+
+Tulio de Oliveira, a bioinformatician at the University of KwaZulu-Natal in Durban, South Africa, says the slashing of commercial flights could threaten crucial genomic surveillance efforts by a network of institutions in the country. "By next week, if nothing changes, we will run out of sequencing reagents," he says.
+
+Earlier this week, in response to the border restrictions, the WHO published guidance that recommended against travel bans to control viral spread. The advice includes specific recommendations for measures that would be useful, including quarantining new arrivals, and testing travellers for SARS-CoV-2 before and after they make their journeys.
+
+The WHO guidance represents a clear shift in researchers' understanding of the effectiveness of travel restrictions over the course of the pandemic. Before COVID-19, scattered data led many public-health agencies to denounce border restrictions -- although almost every country imposed them in early 2020 anyway. But the pandemic has revealed that restrictions can be useful in certain contexts (1), especially for relatively geographically isolated nations such as Australia (2) and New Zealand.
+
+However, more rigorous studies are needed to flesh out when and how restrictions work best, in particular for countries with more porous borders, says Steven Hoffman, an international lawyer and epidemiologist at York University in Toronto, Canada.
+
+One clear lesson has been that restrictions are most effective when they are implemented rapidly, but the omicron-related border closures were too late, says Grepin.
+
+The variant has now been detected on every populated continent and in more than 20 countries and territories, including the Netherlands, the United Kingdom, Australia, and Japan. Some nations acquired the infection even before South Africa reported the variant to the WHO. "As soon as countries start looking for it, they're finding it, so the advantage of time is probably gone," says Grepin.
+
+Restrictions are also probably most effective at slowing the number of initial cases in a country when they reduce the total volume of international arrivals, rather than when they pick and choose specific countries, says Lee.
+
+For example, one modelling study (3) from the Canadian province of Newfoundland and Labrador, which closed its borders to non-residents on 4 May 2020, found that the restrictions helped to reduce the average number of COVID-19 cases by 92% in the 9 weeks after they were imposed.
+
+For border-control measures to be effective, they also need to be comprehensive, including regular testing and at least a week of quarantine (4,5) for those travellers who do arrive, says Catherine Worsnop, who studies international cooperation during global health emergencies at the University of Maryland in College Park. But this, she says, is something "most countries have not done."
+
+Border-control measures should be used alongside efforts to strengthen public-health interventions such as social distancing, mask wearing, and vaccination, says Grepin, because genomic studies (6) have shown that cases will eventually slip through.
+
+Ultimately, travel restrictions are intended to buy countries time to prepare their health systems for omicron's potential impact. But unless they implement domestic measures, it's hard to know what "we're buying time for," adds Worsnop.
+
+--
+Communicated by:
+Mary Marshall
+<mjm2020@googlemail.com>
+
+******
+[3] Travel bans and unanswered questions
+Date: Sat 4 Dec2021
+Source: London Review of Books [abridged, edited]
+https://www.lrb.co.uk/the-paper/v43/n24/rupert-beale/on-omicron
+
+
+Citation [abridged]: Beale R. On Omicron. London Review of Books. 2021; 43(24).
+--------------------------------------------------------------------------------
+The rationale for the travel ban is that the majority of cases are thought to be in southern Africa. There hasn't been much SGTF [Spike (S) gene target failure] elsewhere, and it's estimated that the variant originated sometime between late September and October [2021]. Thanks to surveillance in South Africa, we have caught this very quickly. There are, however, cases in the UK and elsewhere without obvious connections to southern Africa. Restricting travel will reduce the number of cases that start a new omicron wave, but it won't prevent it. It's a delaying tactic, and whether it is justified depends on what we do with the borrowed time. As Tulio de Oliveira, one of the leading South African scientists working on COVID, pointed out, "Border restrictions deter nations from alerting the world to future variants. They will also slow down urgent research because few planes carrying cargo -- including lab supplies needed for sequencing -- are now arriving in South Africa." I hope the restrictions will be short term; if not, they will be short-sighted.
+
+There are a lot of unanswered questions. What about severity: Might it be "milder"? What about lateral flow tests: Will they still detect it? What about the antivirals: Will they still work? Where did it come from: Human or animal? Most important: Will the vaccines still work?
+
+Let's tackle that last one 1st. The vaccines will definitely still work; we just don't know to what extent. If you haven't yet had your 3rd dose, get it as soon as you reasonably can. If you've not had your 1st dose, get it today. South African scientists have already posted a pre-print showing that omicron appears more likely to infect previously infected people, the 1st empirical confirmation that this variant will at least partly escape immunity. It's very early days to assess the extent to which it escapes, but it would be a major surprise if it wasn't substantially less well neutralised by antibodies generated by the vaccines. Researchers (including the team I work with at the Crick Institute) are rushing to quantify this. The 1st studies may report in a matter of days, and we will begin to get an idea of just how bad it could be.
+
+Might omicron be "milder"? There's no reason to think so. Viruses evolve to optimise transmission within a population. For viruses that are not immediately lethal to their hosts, there is no evidence that they evolve to become less pathogenic. Immunity, acquired by vaccination or infection, makes people less likely to become severely unwell if they are infected again. If a virus appears to become "milder," it's usually because of partial immunity in previously infected or vaccinated individuals. Most of the South African population has been either previously infected or vaccinated: reports claiming that most omicron cases are "mild" reflect this, and we cannot yet infer anything useful about the intrinsic ability of the virus to cause disease. Cases in Gauteng have risen rapidly, and so have hospitalisations. This is very early in the omicron wave; deaths will follow. We can hope the rates will be lower than expected, or we can fear they will be higher, but neither hope nor fear has any rational basis at this point.
+
+There are some potentially important mutations to parts of the virus other than Spike. Lateral flow tests target N, a protein in the virus that's more abundant than Spike and less variable. Omicron has a couple of mutations in N. It's likely that most lateral flow tests will maintain their sensitivity, but that hasn't yet been quantified, and it's possible that one or more proprietary devices may suffer. This is a good reason, along with SGTF, to prefer PCR tests for travellers just now.
+
+What about antivirals? They can be helpful if given very early. There are 2 new drugs which can be given as tablets and will probably be available soon. Molnupiravir -- named after Thor's hammer, as the marketing people would have you believe it does to the virus what Mjolnir does to giants in the Prose Edda (or, let's face it, to bad guys in Marvel movies) -- is unlikely to be affected. Probably the same is true for Pfizer's Paxlovid. There are some artificial neutralising antibodies on the market already, which have been shown to be very effective in some circumstances against earlier variants. Because they target Spike, some of them are likely to be less effective against omicron.
+
+Viral origins aren't always easy to determine. It's interesting that omicron has arisen not from delta but from a different branch of the Sars-CoV-2 evolutionary tree. Delta has had plenty of opportunity to become its most transmissible version. There are suggestions that omicron might have been transmitted to an animal reservoir (reverse zoonosis), and then jumped back to humans. It's not impossible, but I doubt it. It seems more likely that omicron arose as the virus lingered in an immunosuppressed individual, gradually acquiring all the mutations it needed to escape ineffective immunity; plenty of such cases have been described. Untreated HIV is the most prevalent cause of immunosuppression in southern Africa: yet another reason, if any were needed, to take global health inequality more seriously.
+
+--
+Communicated by:
+Mary Marshall
+<mjm2020@googlemail.com>
+with thanks to Sabine Zentis
+
+******
+[4] New paper of note
+Date: Wed 1 Dec 2021
+Source: arXiv [abridged, edited]
+https://arxiv.org/abs/2112.01318
+
+
+Citation: Chen J, Wang R, Gilby N B, et al. Omicron (B.1.1.529): Infectivity, vaccine breakthrough, and antibody resistance. arXiv. 2021 [e-print; not peer reviewed]; arXiv:2112.01318.
+---------------------------------------------------------------------------------------------------
+Abstract
+--------
+The latest severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) variant omicron (B.1.1.529) has ushered panic responses around the world due to its contagious and vaccine escape mutations. The essential infectivity and antibody resistance of the SARS-CoV-2 variant are determined by its mutations on the spike (S) protein receptor-binding domain (RBD). However, a complete experimental evaluation of omicron might take weeks or even months. Here, we present a comprehensive quantitative analysis of omicron's infectivity, vaccine-breakthrough, and antibody resistance. An artificial intelligence (AI) model, which has been trained with tens of thousands of experimental data points and extensively validated by experimental data on SARS-CoV-2, reveals that omicron may be over 10 times more contagious than the original virus or about twice as infectious as the delta variant. Based on 132 3-dimensional (3D) structures of antibody-RBD complexes, we unveil that omicron may be twice more likely to escape current vaccines than the delta variant. The Food and Drug Administration (FDA)-approved monoclonal antibodies (mAbs) from Eli Lilly may be seriously compromised. Omicron may also diminish the efficacy of mAbs from Celltrion and Rockefeller University. However, its impact to Regeneron mAb cocktail appears to be mild.
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+******
+[5] WHO: daily new cases reported (as of 4 Dec 2021)
+
+[On the WHO COVID-19 Dashboard, there is a notice that the data updates for Saturday and Sunday each week will be updated on the subsequent Monday, with effect from 18 Jun 2021.
+
+For graphic representation, use the following link to access comparative country graphs on the EIOS system (Epidemic Intelligence from Open Sources): https://bit.ly/3hxFSDk. - Mod.UBA]
+
+******
+[6] Global update: Worldometer accessed 4 Dec 2021 24:35 EST (GMT-5)
+Date: Sat 4 Dec 2021
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at https://promedmail.org/wp-content/uploads/world-pdf/2021%20WORLDDATA%20DEC4_1638729303.pdf.
+
+A 7-day series of cumulative data reported by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/2021%20DEC4WORLD7_1638729322.pdf. - Mod.UBA]
+
+Total number of reported deaths: 5 264 128
+Total number of worldwide cases: 265 707 170
+Number of newly confirmed cases in the past 24 hours: 509 380
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[In the past 24 hours, 13 countries including the USA (56 742), France (51 624), Germany (46 379), UK (41 457), Russia (32 974), Poland (25 575), the Netherlands (22 613), Turkey (20 374), Czech Republic (17 743), Italy (16 627), South Africa (16 366), Viet Nam (13 998), and Ukraine (13 206) reported the highest numbers of cases, all reporting more than 10 000 newly confirmed cases. A global total of 5763 deaths were reported in the preceding 24 hours (late 2 Dec 2021 to late 3 Dec 2021). A total of 54 countries reported more than 1000 cases in the past 24 hours; 33 of the 54 countries are from the European region, 7 are from the Americas region, 7 are from the Western Pacific region, 3 are from the Eastern Mediterranean region, 2 are from the South East Asia region, and 2 are from the African region.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, case counts have increased by 10.0%, while daily reported deaths have increased by 3.9%. Similar comparative 7-day averages in the USA show a 6.5% increase in daily reported cases and 6.1% increase in reported deaths.
+
+Impression: The global daily reported approx. 500 000 newly confirmed infections in the past 24 hours with over 265.70 million cumulative reported cases and over 5.26 million reported deaths. - Mod.UBA]
+See Also
+COVID-19 update (416): South Africa, omicron spread, immunity, boosters, WHO 20211205.8700073
+COVID-19 update (415): USA, mortality risk, AstraZeneca, Argentina, WHO, global 20211204.8700049
+COVID-19 update (414): US first omicron case, boosters, Israel, origin, WHO 20211202.8700031
+COVID-19 update (413): animal, Canada, wild deer 20211202.8700020
+COVID-19 update (412): international travel, long COVID, WHO, global 20211201.8700001
+COVID-19 update (411): UK boosters & surge, Israel, testing, WHO 20211130.8699977
+COVID-19 update (410): omicron, WHO update, impact, patience, global 20211130.8699966
+COVID-19 update (409): animal, Croatia, zoo, lion, OIE 20211129.8699951
+COVID-19 update (408): omicron, India, symptoms, molnupiravir 20211128.8699934
+COVID-19 update (407): omicron VOC, omicron cases in Europe, South Asia, WHO 20211127.8699923
+COVID-19 update (406): new variant B.1.1.529, travel ban, South Africa, WHO 20211126.8699898
+COVID-19 update (405): Israel, WHO on child/adolescent vacc 20211125.8699875
+COVID-19 update (404): rapid tests, high-risk genes, Paxlovid, vacc mandates 20211124.8699862
+COVID-19 update (403): gyms, masks, ICUs, WHO 20211123.8699843
+COVID-19 update (402): sub-Saharan Africa, cross-reactive Abs 20211122.8699824
+COVID-19 update (401): Germany, plant-based antiviral, breakthrough infections 20211121.8699813
+COVID-19 update (400): animal, sheep, research, experimental infection 20211121.8699806
+COVID-19 update (390): surge in cases, China, Europe, WHO 20211113.8699651
+COVID-19 update (380): Netherlands, Russia, brain effects 20211107.8699512
+COVID-19 update (370): repurposing antidepressants, South Asia, WHO, global 20211030.8699357
+COVID-19 update (360): new delta subvariant, China, UK, South Asia, WHO, global 20211023.8699224
+COVID-19 update (350): boosters, deaths, cases, vaccines, WHO 20211014.8699041
+COVID-19 update (340): long COVID, Israel, WHO 20211007.8698909
+COVID-19 update (330): variants, Novavax, Monoclonal antib, Uruguay, Spain, WHO 20210927.8698746
+COVID-19 update (320): spillover events, long COVID, mandatory vaccines, WHO 20210917.8679439
+COVID-19 update (310): impact on women & children, Africa, mRNA vaccines, Israel 20210910.8660335
+COVID-19 update (300): Norway, myocarditis, schools, new variant C.1.2, WHO 20210901.8638460
+COVID-19 update (200): animal, China, origin 20210608.8433657
+COVID-19 update (100): antibodies, vaccine, Thailand, Cambodia, WHO, global 20210316.8250009
+COVID-19 update (50): UK vaccine study, Brazil reinfection, WHO 20210205.8167161
+COVID-19 update (01): variants, vaccine, Thailand, global, WHO 20210101.80629382020
+2020
+----
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+COVID-19 update (562): viral load, UK vacc dose, ECDC, WHO 20201231.8061525
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia: China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia: China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+----
+Undiagnosed pneumonia: China (HU): RFI 20191230.6864153
+and other items in the archive
+.................................................sb/lk/uba/tw/jh
+</body>

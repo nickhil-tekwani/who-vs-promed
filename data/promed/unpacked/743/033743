@@ -1,0 +1,104 @@
+<header id=033743>
+Published Date: 2014-06-27 15:36:53 EDT
+Subject: PRO/EDR> Antibiotic resistance - new metallo-beta-lactamase (NDM-1) inhibitor
+Archive Number: 20140627.2568937
+</header>
+<body id=033743>
+ANTIBIOTIC RESISTANCE - NEW METALLO-BETA-LACTAMASE (NDM-1) INHIBITOR
+********************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+Date: Wed 25 Jun 2014
+Source: Metronews.ca, The Canadian Press report [edited]
+http://metronews.ca/health/1077936/soil-bug-compound-foils-antibiotic-resistance/
+
+
+A soil sample from Nova Scotia [Canada] has yielded a compound that could help fight antibiotic resistance. Researchers from McMaster University in Hamilton [Ontario] have discovered that a fungus found in the sample produces a chemical that inactivates the dangerous NDM-1 [New Delhi metallo-beta-lactamase-1] resistance gene, making bacteria containing it vulnerable to the antibiotics NDM-1 normally helps them evade [the substance was actually found to inhibit the enzyme NDM-1, not the gene that encodes this enzyme]. The scientists liken the compound to an adjuvant, a chemical that enhances the power of vaccines.
+
+"Simply put, the molecule knocks out NDM-1 so the antibiotics can do their job," said Gerry Wright, the biochemistry professor who leads the team that conducted the research. Their finding was published [Wed 25 Jun 2014] in the scientific journal Nature [1].
+
+The precursor chemicals that antibiotics are based on exist in nature and are often found in soil. For years, pharmaceutical companies searching for new versions of these important drugs maintained libraries of bacteria and fungi found in soil, testing the chemicals they produced to see if they had could be used to fight infections. But as new finds dwindled companies have largely withdrawn from this field, leaving little in the antibiotic pipeline.
+
+With the rise in antibiotic resistance and the emergence of multi-drug resistance factors like NDM-1, which confers resistance to almost all existing antibiotics, experts have warned the world is facing a future in which antibiotics no longer work. That could mean surgeries and procedures we view as standards of modern medicine would be too dangerous to undertake because of the risk of infection.
+
+Wright figured that if soil has been a source of antibiotics, it might also contain small molecules that might counteract resistance when taken in combination with antibiotics. So he and his team began to compile their own library from soil samples taken from across Canada. It now contains about 10 000 samples.
+
+"If we accept that finding things that just kill bacteria outright is going to be hard to find, then why don't we try things that incapacitate resistance? And those same collections should be great sources of inhibitors of resistance," he explained in an interview.
+
+"People in my lab, whenever they were on vacation, I just told them to take a couple of teaspoons of soil from wherever they were.... In a teaspoon of soil, there are probably a billion bacteria."
+
+The researchers grew up the microbes found in the soil samples, extracting the compounds those bacteria and fungi produce. They then began to add them to dishes containing an antibiotic and _Escherichia coli_ bacteria [that] were resistant to the drug because they had been engineered to contain the NDM-1 gene. If the combination did not kill the bacteria, the compound added nothing.
+
+In fewer than 1000 tries -- a small number for this type of work, Wright says -- they found a compound that did knock out the NDM-1 gene's powers. It was a molecule called aspergillomarasmine A -- AMA for short --, which is produced by a fungus called _Aspergillus versicolor_.
+
+To confirm the finding, they tested the antibiotic and AMA combination on 229 strains of resistant bacteria isolated from patients around the world over the past decade. The combination was effective at restoring antibiotic susceptibility in 88 percent of these strains.
+
+To test it further, the McMaster team infected mice with what should have been a lethal dose of _Klebsiella pneumoniae_ that contained the NDM-1 gene. More than 95 per cent survived the experimental infection [treated with a combination of AMA and a carbapenem antibiotic]. But mice are not men and much testing remains to be done to see if this compound could be used safely and successfully in people.
+
+"The next stage for us is to do the sort of hard slog -- toxicology and pharmacology studies to make sure we're not seeing any changes in physiology that might send this compound into the dust bin. So far the experiments are positive. But they could all turn in a second," Wright admitted. "I have no idea whether or not this will actually have legs in the clinic or not, but we're certainly marching towards that direction."
+
+A commentary on the finding suggested it is hopeful, but warned there could be hurdles on the road to use in people [2]. For one thing, it noted AMA has previously been shown to inhibit angiotensin-converting enzyme (ACE), which is naturally produced by humans. It causes blood vessel constriction and increases blood pressure. People with high blood pressure are often prescribed ACE-inhibitor drugs. The authors of the commentary, Djalal Meziane-Cherif and Patrice Courvalin from the Institut Pasteur in Paris, said it remains to be seen if AMA would trigger serious side-effects in people, though they noted that was not the case in mice. They also warned that resistance to the combination could arise -- something Wright accepts as a fact of life.
+
+"The organisms are going to keep evolving different ways to get around them (antibiotics) and they're going to collect these (resistance) genes in multiple packages. So maybe in the future we'll be looking at cocktails of three compounds, four compounds," he said. "That's common ... in HIV, it's common in oncology; it's common in tuberculosis treatment. It's just not common in treating [other] infection.... It just might be in the future."
+
+[Byline: Helen Branswell]
+
+References
+----------
+1. King AM, Reid-Yu SA, Wang W, King DT, et al: Aspergillomarasmine A overcomes metallo-beta-lactamase antibiotic resistance. Nature 2014; 510: 503-6 (26 Jun 2014) doi:10.1038/nature13445; abstract available at http://www.nature.com/nature/journal/v510/n7506/full/nature13445.html.
+2. Meziane-Cherif D, Courvalin P: Antibiotic resistance: To the rescue of old drugs. Nature 2014; 510: 477-8 (26 Jun 2014) doi:10.1038/510477a; available from http://www.nature.com/nature/journal/v510/n7506/full/510477a.html.
+
+--
+Communicated by:
+ProMED-mail Rapporteur Mary Marshall
+
+[Carbapenems are a class of beta-lactam antibiotics that includes ertapenem, doripenem, imipenem, and meropenem. Carbapenems historically have been antibiotics of last resort to treat many infections due to carbapenem-sensitive, but otherwise multidrug-resistant Gram negative bacilli, such as those that produce extended-spectrum beta-lactamases (ESBLs) or AmpC beta-lactamases, which are enzymes that destroy most beta-lactams, except for the carbapenems.
+
+Resistance to carbapenems commonly is the result of an organism acquiring the ability to produce carbapenemases, enzymes that destroy the carbapenems, as well as most other beta-lactam antibiotics. There are 2 types of carbapenemases: metallo-beta-lactamases (MBL), which use zinc ions at their active sites to catalyze the hydrolysis of beta-lactam antibiotics, and serine beta-lactamases, which use serine at the active site. NDM (New Delhi metallo-beta-lactamases -1, -2, -3, -4, etc.), IMP, and VIM (Verona integron-encoded metallo-beta-lactamases) are MBL. KPCs (_Klebsiella pneumoniae_ carbapenemases -1, -2, -3, -4, etc.) and OXA-types (oxacillin-hydrolyzing carbapenemases) are serine beta-lactamases.
+
+KPCs are the most common carbapenemases in the US, but have also been reported worldwide. Many of the carbapenemases are encoded on plasmids, pieces of DNA that can easily spread from one organism to another of the same or even different bacterial species. The plasmids frequently carry genes that confer resistance to multiple other classes of antibiotics, so that carbapenemase-producing organisms have been susceptible only to toxic or otherwise suboptimal antibiotics, such as colistin and tigecycline.
+
+Several inhibitors of serine beta-lactamases (clavulanic acid, sulbactam, and tazobactam) are clinically available for use in combination with various penicillins to overcome resistance. Examples of beta-lactam/beta-lactamase inhibitor combination commonly used in the US are amoxicillin/clavulanic acid (Augmentin), ampicillin/sulbactam (Unasyn), and piperacillin/tazobactam (Zosyn). There are no clinically available inhibitors of MBL.
+
+King et al [ref 1 above] report that aspergillomarasmine A (AMA), a naturally occurring product of _Aspergillus versicolor_, is a rapid and potent inhibitor of the MBL NDM-1 and VIM-2 by removing of zinc ions from the MBL. AMA restored carbapenem activity in vitro against bacterial pathogens such as Enterobacteriaceae, _Acinetobacter_ spp. and _Pseudomonas_ spp. possessing either VIM or NDM-type alleles in vitro. AMA showed very little potentiation of other MBL and had no effect on the serine beta-lactamases. In addition, although meropenem or AMA alone were unable to prevent lethal infection by NDM-1-positive _K. pneumoniae_ in mice, a single dose of combination therapy led to more than 95 percent survival at 5 days following infection. AMA reportedly was well-tolerated and had low toxicity in mice.
+
+Infection with Gram negative pathogens bearing MBL such as NDM-1 and VIM are a growing public health problem and threatens the use of all penicillin, cephalosporin and carbapenem antibiotics to treat infections. A potent inhibitor of these MBL, which proves to be clinically useful without causing serious side effects, would be important finding. It would be anticipated that a carbapenem/MBL inhibitor combination would be clinically useful since other beta-lactam/beta-lactamase inhibitor combinations have already proven to be clinically useful to overcome resistance based on beta-lactamase production. However, pathogens in the future may develop additional resistance mechanisms, such as hyperproduction of the beta-lactamase, loss of drug permeability or efflux pumps, that can overcome the effect of the beta-lactamase inhibitor. The fight against antibiotic resistance is a battle that will require constant vigilance and ingenuity. - Mod.ML]
+See Also
+Antibiotic resistance - India 20140505.2449567
+Antibiotic resistance - worldwide: WHO 20140501.2442194
+NDM-1 carrying Enterobacteriaceae - China: (HK) 20140501.2442036
+Enterobacteriaceae, carbapenem resistant - France: ex India 20140412.2399151
+NDM carrying Gram-negative bacilli - Americas: Update 20140309.2322398
+Enterobacteriaceae, carbapenem resistant - UK: (England) increased incidence 20140308.2321781
+NDM-1 carrying E. coli - USA: (IL) ERCP 20140104.2151607
+2013
+----
+Antimicrobial resistance - Netherlands ex Egypt: family 20131018.2008610
+NDM-1 carrying Enterobacteriaceae - Brazil: (RJ) 20130918.1952976
+Enterobacteriaceae, carbapenem resistant - Malaysia: (SK) nosocomial, fatal 20130818.1886654
+NDM-1 carrying Acinetobacter - France: ex Algeria, ICU outbreak 20130802.1860993
+Acinetobacter - USA: (FL) burn unit, multidrug-resistance 20130731.1856257
+Enterobacteriaceae, carbapenem resistant - Europe: survey 20130712.1822582
+Enterobacteriaceae, drug resistant - USA (02): (CA) CRE 20130410.1636420
+Enterobacteriaceae, drug resistant - USA 20130306.1572873
+2012
+----
+NDM-carrying Enterobacteriaceae - USA (03): (CO) nosocomial 20121118.1414608
+NDM-1 carrying Pseudomonas - France: (ex Serbia) 20121110.1402258
+Gram negative bacilli, MDR - Brazil (02): (MG) KPC, nosocomial 20120925.1308872
+Gram negative bacilli, MDR - USA: (MD) KPC, nosocomial, fatal 20120917.1297252
+NDM-1 carrying Enterobacteriaceae - China (02): (HK) ex Guangdong 20120914.1291460
+NDM-1 carrying Enterobacteriaceae - France: ex Cameroon 20120817.1249316
+NDM-1 carrying Vibrio cholerae - India 20120801.1224333
+NDM-1 carrying Enterobacteriaceae - USA: (RI) ex Viet Nam 20120621.1175799
+NDM-1 carrying Enterobacteriaceae - China: (HK) ex Thailand 20120612.1165421
+NDM carrying bacilli - Canada: (Alberta) nosocomial, fatal 20120520.1138608
+Gram negative bacilli, MDR - Chile: ex Italy, KPC, nosocomial 20120319.1074688
+Gram negative bacilli, MDR - Brazil: (SC) KPC, nosocomial 20120220.1047007
+NDM-1 carrying Enterobacteriaceae - Ireland: 1st rep, ex India 20120217.1044861
+.................................................ml/mj/jw
+</body>

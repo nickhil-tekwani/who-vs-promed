@@ -1,0 +1,277 @@
+<header id=063097>
+Published Date: 2021-01-08 04:24:59 EST
+Subject: PRO/AH/EDR> COVID-19 update (09): immunity, convalescent plasma, asympt transm, WHO, global
+Archive Number: 20210108.8083368
+</header>
+<body id=063097>
+CORONAVIRUS DISEASE 2019 UPDATE (09): DURATION OF IMMUNITY, CONVALESCENT PLASMA, ASYMPTOMATIC TRANSMISSION, WHO, GLOBAL
+***********************************************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] Duration of immunity
+[2] Convalescent plasma
+[3] Asymptomatic transmission
+[4] WHO: daily new cases reported (as of 7 Jan 2021)
+[5] Global update: Worldometer accessed 7 Jan 2021 21:23 EST (GMT-5)
+
+******
+[1] Duration of immunity
+Date: Wed 6 Jan 2021
+Source: Science, Association for the Advancement of Science (AAAS) [abridged, edited]
+https://science.sciencemag.org/content/early/2021/01/06/science.abf4063
+
+
+ref: Dan JM, Mateus J, Kato Y, et al. Immunological memory to SARS-CoV-2 assessed for up to 8 months after infection. Science. 2021 Jan 6: eabf4063. doi: 10.1126/science.abf4063. Epub ahead of print. PMID: 33408181.
+--------------------------------------------------------------------------------
+Abstract
+--------
+Understanding immune memory to SARS-CoV-2 is critical for improving diagnostics and vaccines, and for assessing the likely future course of the COVID-19 pandemic. We analyzed multiple compartments of circulating immune memory to SARS-CoV-2 in 254 samples from 188 COVID-19 cases, including 43 samples at greater than or equal to 6 months post-infection. IgG to the Spike protein was relatively stable over 6+ months. Spike-specific memory B cells were more abundant at 6 months than at 1 month post symptom onset. SARS-CoV-2-specific CD4+ T cells and CD8+ T cells declined with a half-life of 3-5 months. By studying antibody, memory B cell, CD4+ T cell, and CD8+ T cell memory to SARS-CoV-2 in an integrated manner, we observed that each component of SARS-CoV-2 immune memory exhibited distinct kinetics.
+
+Conclusions
+-----------
+At 5 to 8 months PSO [post symptom onset], almost all individuals were positive for SARS-CoV-2 Spike and RBD IgG.
+
+Notably, memory B cells specific for the Spike protein or RBD [receptor binding domain] were detected in almost all COVID-19 cases, with no apparent half-life at 5 -- 8 months post-infection. Other studies of RBD memory B cells are reporting similar findings (50,60). B cell memory to some other infections has been observed to be long-lived, including 60+ years after smallpox vaccination (61), or 90+ years after infection with influenza (62). These data suggest that T cell memory might reach a more stable plateau, or slower decay phase, beyond the first 8 months post-infection.
+
+Beyond sterilizing immunity, immune responses that confine SARS-CoV-2 to the URT [upper respiratory tract] and oral cavity would minimize COVID-19 disease severity to that of a 'common cold' or asymptomatic disease. This outcome is the primary goal of current COVID-19 vaccine clinical trials (3,68). Such an outcome could potentially be mediated by a mixture of memory CD4+ T cells, memory CD8+ T cells, and memory B cells specific for RBD producing anamnestic neutralizing antibodies, based on mechanisms of action in mouse models of other viral infections (69-71). In human COVID-19 infections, SARS-CoV-2-specific CD4+ T cells and CD8+ T cells are associated with less COVID-19 disease severity during an ongoing SARS-CoV-2 infection (5). Rapid seroconversion was associated with significantly reduced viral loads in acute disease over 14 days (29). Both of those associations are consistent with the hypothesis that SARS-CoV-2 memory T cells and B cells would be capable of substantially limiting SARS-CoV-2 dissemination and/or cumulative viral load, resulting in reduced COVID-19 disease severity. The likelihood of such outcomes is also closely tied to the kinetics of the infection, as memory B and T cell responses can take 3-5 days to successfully respond to an infection. As noted above, given the relatively slow course of severe COVID-19 in humans, resting immune memory compartments can potentially contribute in meaningful ways to protective immunity against pneumonia or severe secondary COVID-19. The presence of sub-sterilizing neutralizing antibody titers at the time of SARS-CoV-2 exposure would blunt the size of the initial infection and may provide an added contribution to limiting COVID-19 severity, based on observations of protective immunity for other human respiratory viral infections (37,72-74) and observations of SARS-CoV-2 vaccines in non-human primates (48,67,75).
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[This is an excellent paper that seeks to clarify the heterogeneity of response among the components of the immune memory.
+
+As the authors state, "A thorough understanding of immune memory to SARS-CoV-2 requires evaluation of its various components, including B cells, CD8+ T cells, and CD4+ T cells, as these different cell types may have immune memory kinetics relatively independent of each other. Understanding the complexities of immune memory to SARS-CoV-2 is key to gain insights into the likelihood of durability of protective immunity against re-infection with SARS-CoV-2 and secondary COVID-19 disease. In the current study, we assessed immune memory of all 3 branches of adaptive immunity (CD4+ T cell, CD8+ T cell, and humoral immunity) in a predominantly cross-sectional study of 188 recovered COVID-19 cases, extending up to 8 months post-infection. The findings have implications for immunity against secondary COVID-19, and thus the potential future course of the pandemic (41,42)."
+
+It is reassuring that "at 5 to 8 months PSO [post symptom onset], almost all individuals were positive for SARS-CoV-2 Spike and RBD IgG."
+
+The references, tables, and figures can be found in the full publication at the source URL above. - Mod.LK]
+
+******
+[2] Convalescent plasma
+Date: Wed 6 Jan 2021
+Source: New England Journal of Medicine (NEJM) [edited]
+https://www.nejm.org/doi/full/10.1056/NEJMoa2033700
+
+
+ref: Libster R, Pérez Marc G, Wappner D, et al for Fundación INFANT-COVID-19 Group. Early high-titer plasma therapy to prevent severe COVID-19 in older adults. N Engl J Med. 2021 Jan 6. doi: 10.1056/NEJMoa2033700. Epub ahead of print. PMID: 33406353.
+--------------------------------------------------------------------------------
+Abstract
+--------
+Background
+Therapies to interrupt the progression of early coronavirus disease 2019 (COVID-19) remain elusive. Among them, convalescent plasma administered to hospitalized patients has been unsuccessful, perhaps because antibodies should be administered earlier in the course of illness.
+
+Methods
+We conducted a randomized, double-blind, placebo-controlled trial of convalescent plasma with high IgG titers against severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in older adult patients within 72 hours after the onset of mild COVID-19 symptoms. The primary end point was severe respiratory disease, defined as a respiratory rate of 30 breaths per minute or more, oxygen saturation of less than 93% while the patient was breathing ambient air, or both. The trial was stopped early at 76% of its projected sample size because cases of COVID-19 in the trial region decreased considerably and steady enrollment of trial patients became virtually impossible.
+
+Results
+A total of 160 patients underwent randomization. In the intention-to-treat population, severe respiratory disease developed in 13 of 80 patients (16%) who received convalescent plasma and 25 of 80 patients (31%) who received placebo (relative risk, 0.52; 95% confidence interval [CI], 0.29 to 0.94; P=0.03), with a relative risk reduction of 48%. A modified intention-to-treat analysis that excluded 6 patients who had a primary end-point event before infusion of convalescent plasma or placebo showed a larger effect size (relative risk, 0.40; 95% CI, 0.20 to 0.81). No solicited adverse events were observed.
+
+Conclusions
+Early administration of high-titer convalescent plasma against SARS-CoV-2 to mildly ill infected older adults reduced the progression of COVID-19.
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[The authors mention as background for this study the observation that convalescent plasma administered late in the course of illness did not show benefits. This study was conducted between 4 Jun 2020 and 25 Oct 2020. Study participants were 75 years or older or between 65 and 74 with at least 1 identified high risk comorbidity (hypertension, diabetes, obesity, chronic renal failure, cardiovascular disease, and COPD (chronic obstructive pulmonary disease)). The study was double-blind and high titer convalescent plasma was used (in the upper 28th percentile). The study was stopped early due to too few cases available for enrollment.
+
+A dose-dependent effect was seen for SARS-CoV-2 S IgG titers. Donor titers with a median of 1:3200 showed a relative risk reduction of 73.3%, with a number needed to treat of 4 (range, 3 to 11) to avoid a worsening of Covid-19 in recipients of antibody.
+
+The authors emphasized the importance of beginning treatment within 72 hours of onset of symptoms, consistent with findings in other similar studies. They also note the import of the dose-dependent effect and suggest that "super donors" with IgG titers of 1:12 800 or higher could have plasma contributions banked to have on hand for future needs, using serum from hospitalized patients who mounted the "super donor" response.
+
+A good, solid double-blind clinical trial with positive findings of the use of convalescent plasma early in the course of disease in the older high risk population. Promising findings. - Mod.MPP]
+
+******
+[3] Asymptomatic transmission
+Date: Thu 7 Jan 2021 5:03 PM GMT+1
+Source: The Washington Post [abridged, edited]
+https://www.washingtonpost.com/science/2021/01/07/covid-asymptomatic-spread/
+
+
+People with no symptoms transmit more than half of all cases of the novel coronavirus, according to a model developed by researchers at the Centers for Disease Control and Prevention.
+
+Their findings reinforce the importance of following the agency's guidelines: Regardless of whether you feel ill, wear a mask, wash your hands, stay socially distant, and get a coronavirus test. That advice has been a constant refrain in a pandemic responsible for more than 350 000 deaths in the United States.
+
+59% of all transmission came from people without symptoms, under the model's baseline scenario. That includes 35 percent of new cases from people who infect others before they show symptoms and 24 percent that come from people who never develop symptoms at all.
+
+"The bottom line is controlling the COVID-19 pandemic really is going to require controlling the silent pandemic of transmission from persons without symptoms," said Jay C Butler, the CDC deputy director for infectious diseases and a co-author of the study. "The community mitigation tools that we have need to be utilized broadly to be able to slow the spread of SARS-CoV-2 from all infected persons, at least until we have those vaccines widely available."
+
+The emergence of a more contagious variant, first detected in the United Kingdom and since found in several US states, throws the significance of those guidelines into even starker relief. "Those findings are now in bold, italics, and underlined," Butler said. "We've gone from 11-point font to 16-point font."
+
+The model, published Thursday [7 Jan 2021] in the journal JAMA Network Open [see reference below], comports with earlier estimates of the contribution of asymptomatic spread. "It's certainly confirmatory, but it's nice to see confirmation," said epidemiologist Richard Menzies, who directs the McGill International TB Centre in Canada and was not affiliated with this research. "These are pretty believable, solid results."
+
+Many factors influence how the coronavirus spreads.
+
+But Muge Cevik, an infectious-disease expert at Scotland's University of St. Andrews, argued some of the model's assumptions are flawed. Cevik said the best estimate for the relative contagiousness of people who do not have symptoms, vs. those who do, was 35 percent, drawing from a review of the scientific literature published in September [2020]. [Buitrago-Garcia D, Egli-Gany D, Counotte MJ, et al. Occurrence and transmission potential of asymptomatic and presymptomatic SARS-CoV-2 infections: A living systematic review and meta-analysis. PLoS Med. 2020 Sep 22;17(9):e1003346. doi: 10.1371/journal.pmed.1003346. PMID: 32960881; PMCID: PMC7508369; https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003346].
+
+The study authors instead estimated, at baseline, that people without symptoms were 75 percent as contagious. That figure, Butler said, came from their own literature analysis including peer-reviewed and preprint research.
+
+Cevik also noted the study does not account for the environment where the spread occurs.
+
+Whether vaccines stop coronavirus transmission is not yet certain, and was not a scenario addressed in this model. "The data on the impact of the vaccines on asymptomatic infection are very limited," Butler said, though he anticipates more information in coming months.
+
+The clinical trials for the mRNA vaccines, authorized in December [2020], concluded the vaccinations are highly capable of preventing symptomatic illness. But those trials did not determine whether vaccinated people are able to spread the pathogen. "If they were asymptomatic but equally contagious, then that's going to have quite an impact on the epidemic," Menzies warned. That is why it is so important to keep testing people, he said, especially those who were vaccinated and then exposed to the virus.
+
+[Byline: Ben Guarino]
+
+--
+Communicated by:
+Mary Marshall
+<mjm2020@googlemail.com>
+
+[Reference
+----------
+Johansson MA, Quandelacy TM, Kada S, et al. SARS-CoV-2 Transmission From People Without COVID-19 Symptoms. JAMA Netw Open. 2021 Jan 4; 4(1): e2035057. doi: 10.1001/jamanetworkopen.2020.35057. PMID: 33410879; https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2774707
+--------------------------------------------------------------------------------
+"Key points
+-----------
+"Question: What proportion of coronavirus disease 2019 (COVID-19) spread is associated with transmission of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) from persons with no symptoms?
+
+"Findings: In this decision analytical model assessing multiple scenarios for the infectious period and the proportion of transmission from individuals who never have COVID-19 symptoms, transmission from asymptomatic individuals was estimated to account for more than half of all transmission.
+
+"Meaning: The findings of this study suggest that the identification and isolation of persons with symptomatic COVID-19 alone will not control the ongoing spread of SARS-CoV-2.
+
+"Abstract
+---------
+"Importance: Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the etiology of coronavirus disease 2019 (COVID-19), is readily transmitted person to person. Optimal control of COVID-19 depends on directing resources and health messaging to mitigation efforts that are most likely to prevent transmission, but the relative importance of such measures has been disputed.
+
+"Objective: To assess the proportion of SARS-CoV-2 transmissions in the community that likely occur from persons without symptoms.
+
+"Design, setting, and participants: This decision analytical model assessed the relative amount of transmission from presymptomatic, never symptomatic, and symptomatic individuals across a range of scenarios in which the proportion of transmission from people who never develop symptoms (that is, remain asymptomatic) and the infectious period was varied according to published best estimates. For all estimates, data from a meta-analysis was used to set the incubation period at a median of 5 days. The infectious period duration was maintained at 10 days, and peak infectiousness was varied between 3 and 7 days (â'2 and +2 days relative to the median incubation period). The overall proportion of SARS-CoV-2 was varied between 0% and 70% to assess a wide range of possible proportions.
+
+"Main outcomes and measures: Level of transmission of SARS-CoV-2 from presymptomatic, never symptomatic, and symptomatic individuals.
+
+"Results: The baseline assumptions for the model were that peak infectiousness occurred at the median of symptom onset and that 30% of individuals with infection never develop symptoms and are 75% as infectious as those who do develop symptoms. Combined, these baseline assumptions imply that persons with infection who never develop symptoms may account for approximately 24% of all transmission. In this base case, 59% of all transmission came from asymptomatic transmission, comprising 35% from presymptomatic individuals and 24% from individuals who never develop symptoms. Under a broad range of values for each of these assumptions, at least 50% of new SARS-CoV-2 infections was estimated to have originated from exposure to individuals with infection but without symptoms.
+
+"Conclusions and relevance: In this decision analytical model of multiple scenarios of proportions of asymptomatic individuals with COVID-19 and infectious periods, transmission from asymptomatic individuals was estimated to account for more than half of all transmissions. In addition to identification and isolation of persons with symptomatic COVID-19, effective control of spread will require reducing the risk of transmission from people with infection who do not have symptoms. These findings suggest that measures such as wearing masks, hand hygiene, social distancing, and strategic testing of people who are not ill will be foundational to slowing the spread of COVID-19 until safe and effective vaccines are available and widely used."
+
+A key walk-away from the study above with discussion is the big unknown as to whether vaccination will prevent asymptomatic spread or if vaccinees may become asymptomatic transmitters of the virus. As for the debate surrounding the proportion of infections traceable back to asymptomatic viral shedding, it will continue. One thing is clear and that is that asymptomatic transmission does occur, and NPIs are still critical interventions to prevent community spread. - Mod.MPP]
+
+******
+[4] WHO: daily new cases reported (as of 7 Jan 2021)
+Date: Thu 7 Jan 2021
+Source: WHO [abridged, edited]
+https://covid19.who.int/table
+
+
+*Daily case reports as of 7 Jan 2021 17:04 CET
+
+Surveillance
+------------
+WHO region (no. countries/territories):
+Total confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+--------------------------------------------------------------------------------
+Western Pacific Region (19): 1 146 437 (10 835) / 20 750 (122)
+European Region (61): 27 961 717 (288 030) / 610 083 (5427)
+South East Asia Region (10): 12 164 604 (32 068) / 186 337 (454)
+Eastern Mediterranean Region (22): 5 070 009 (25 362) / 123 725 (396)
+Region of the Americas (54): 37 538 493 (348 951) / 889 076 (6611)
+African Region (49): 2 047 423 (30 698) / 46 116 (958)
+Cases on an international conveyance (Diamond Princess): 745 (0) / 13 (0)
+
+Confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+Grand total: 85 929 428 (735 944) / 1 876 100 (13 968)
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[Apparently, the European countries are still celebrating with countries not reporting new cases in the past 24 hours.
+
+The number of countries and territories reporting confirmed cases of COVID-19 to WHO remains 218.
+
+Data by country, area, or territory for 7 Jan 2021 can be accessed at https://promedmail.org/wp-content/uploads/world-pdf/2021%20WHO%20Daily%20Tables%20Jan%207_1610062927.pdf.
+
+- The Americas region reported 47.4% of daily case numbers and 47.3% of the daily deaths reported in the past 24 hours, but maintained its position as the most severely affected region, having reported more than 37.5 million cases. The USA maintains its dominance followed by Brazil, Colombia, Argentina, and Mexico. 6 additional countries reported more than 1000 cases in the past 24 hours (Canada, Panama, Chile, Bolivia, Ecuador, and Costa Rica) and an additional 5 countries (Peru, Paraguay, Guatemala, Uruguay, and the Dominican Republic) reported more than 500 but less than 1000 cases.
+
+- The European region reported 39.1% of daily case numbers and 38.9% of the daily deaths reported in the past 24 hours, and total cumulative cases reported exceed 27.9 million. Countries not reporting cases include Spain, Belgium (3 cases), Sweden, and Kazakhstan, among others. The UK maintains its dominance, followed by Germany, France, Russia, Italy, Czech Republic, Turkey, Poland, and Portugal. Another 18 countries reported more than 1000 cases and an additional 9 countries reported more than 500 but less than 1000 cases.
+
+- The Eastern Mediterranean region reported 3.4% of daily case numbers and 2.8% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 5.07 million cases. Iran maintains its dominance, even with decreasing daily cases (over 6200), followed by Lebanon, Tunisia, Pakistan, UAE, Morocco, Jordan, Palestinian Authority, and Egypt. Iraq reported more than 500 but less than 1000 cases.
+
+- The African region reported 4.2% of daily case numbers and 6.9% of the deaths reported in the past 24 hours and has reported more than 2.04 million cases. South Africa maintains dominance having reported almost 22 000 cases, and Nigeria over 1600 cases, followed by Congo (Brazzaville), Zambia, Uganda, Zimbabwe, Ethiopia, Algeria, Burkina Faso, Namibia, Kenya, Malawi, Rwanda, Mozambique, Eswatini/Swaziland, Senegal, Angola, Mali, and Mauritania. Ghana, Cameroon, DR Congo, Madagascar, and Botswana among other countries, did not report any new cases.
+
+- The Western Pacific region reported 1.5% of daily case numbers and 0.87% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 1.14 million cases. Japan maintains its dominance reporting almost 6100 cases, followed by Malaysia, Philippines, South Korea, and China.
+
+- The South East Asia region reported 4.4% of the daily newly reported cases and 3.3% of reported deaths in the past 24 hours, having reported a cumulative total of more than 12.1 million cases. India maintained its dominance, reporting over 20 000 cases, followed by Indonesia reporting more than 8800 cases, then Bangladesh, Myanmar, Sri Lanka, Nepal, and Thailand reporting over 300 cases.
+
+On the Overview tab at the WHO source URL, the epidemic curve of confirmed COVID-19 cases by WHO region, 30 Dec 2019 through 7 Jan 2021, is an excellent visual representation of the pandemic. - Mod.MPP]
+
+******
+[5] Global update: Worldometer accessed 7 Jan 2021 21:23 EST (GMT-5)
+Date: Thu 7 Jan 2021
+Source: Worldometer [edited]
+https://promedmail.org/wp-content/uploads/world-pdf/2021%20JAN7WORLD7_1610079285.pdf
+
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at https://promedmail.org/wp-content/uploads/world-pdf/2021%20WORLDDATAJAN7_1610079160.pdf.
+
+A 7-day series of cumulative data reported by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/2021%20JAN7WORLD7_1610079285.pdf. - Mod.MPP]
+
+Total number of reported deaths: 1 906 630
+Total number of worldwide cases: 88 495 963
+Number of newly confirmed cases in the past 24 hours: 860 460
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[In the past 24 hours, the USA (274 429), Brazil (87 134), the UK (56 618), and Spain (42 360) have reported the highest numbers of cases. A global total of 15 844 deaths were reported in the past 24 hours (6-7 Jan 2021).
+
+Countries reporting more than 10 000 newly confirmed cases in the past 24 hours (17 countries) include the USA, Brazil, UK, Spain, Germany (28 078), Russia (23 541), France (21 703), South Africa (20 999), Italy (18 416), India (18 106), Czech Republic (17 773), Colombia (17 576), Argentina (13 835), Mexico (13 734), Sweden (12 536), Turkey (12 171), and Poland (12 119). A total of 60 countries reported more than 1000 cases in the past 24 hours; 29 of the 60 countries that reported more than 1000 newly confirmed cases are from the European region, 15 are from the Americas region, 8 are from the Eastern Mediterranean region, 3 are from the South East Asia region, 3 are from the Western Pacific region, and 2 from the African region.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, case counts have increased by 15.6%, while daily reported deaths have increased by 8.4%. Similar comparative 7-day averages in the United States show a 26.4% increase in daily reported cases and a 16.1% increase in reported deaths.
+
+Impression: The global daily reported cases are over 860 000 newly confirmed infections in the past 24 hours and over 88.49 million cumulative reported cases with over 1.90 million reported deaths. With daily counts over 860 000, the global caseload is approaching 1 million new cases per day. Countries in the European and the Americas regions are still showing the largest increases in daily new case counts, followed by the Eastern Mediterranean, South East Asia, and Western Pacific regions. Sobering data is that the comparative 7-day averages are reflecting renewed significant increases of newly confirmed cases and deaths both globally and in the USA where transmission continues to be out of control, probably indicative of the Christmas and New Year's holiday travel and gatherings. Noteworthy is that a 4th State in the USA -- Illinois -- has crossed the 1 million cumulative case threshold. - Mod.MPP]
+See Also
+COVID-19 update (08): vaccine, FDA, mutation mapping, in flight transm, WHO, global 20210107.8080900
+COVID-19 update (07): animal, China, origin, WHO experts mission
+COVID-19 update (06): breath antibodies, antibody duration, variant, WHO, global 20210106.8076112
+COVID-19 update (05): vaccine intervals, vaccine route, snippets, WHO, global 20210105.8072388
+COVID-19 update (04): India vaccines, Nigeria, Thailand, transmission, WHO, global 20210104.8068745
+COVID-19 update (03): UK hospital preparedness, vaccination, travel, WHO 20210103.8067340
+COVID-19 update (02): variants, vaccine, WHO 20210102.8064627
+COVID-19 update (01): variants, vaccine, Thailand, global, WHO 20210101.8062938
+2020
+----
+COVID-19 update (562): viral load, UK vacc dose, ECDC, WHO 20201231.8061525
+COVID-19 update (561): variants, China serosurvey, psychosis, WHO 20201230.8057135
+COVID-19 update (560): variants, Thailand, viral shedding, WHO 20201229.8054081
+COVID-19 update (550): mutation, query, Thailand, Taiwan, WHO, global, RFI 20201223.8040292
+COVID-19 update (540): S Africa MIS-C, USA risk factors, Iran serosurvey, WHO global 20201216.8021945
+COVID-19 update (530): animal, mink, research, experimental infection, vaccine 20201210.8009205
+COVID-19 update (520): Denmark, Netherlands, mink, human-animal interface, WHO 20201204.7994061
+COVID-19 update (510): animal, mink, Lithuania, Poland, 1st reports, France, OIE 20201127.7976927
+COVID-19 update (500): frequent rapid tests, vaccine, WHO, global 20201122.7962919
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+Undiagnosed pediatric inflammatory syndrome (05): Europe, USA, COVID-19 assoc 20200518.7340554
+Undiagnosed pediatric inflammatory syndrome (04): USA, UK, PMIS, fatal 20200509.7315405
+Undiagnosed pediatric inflammatory syndrome (03): USA, Europe, COVID-19 susp, RFI 20200505.7299876
+COVID-19 update (150): global, USA state prisons, WHO 20200502.7290671
+COVID-19 update (100): China, S. Korea & high local transmission countries 20200413.7217806
+COVID-19 update (50): China (Hong Kong) animal dog, 2nd case PCR positive, OIE 20200323.7129951
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (41): China, global, clinical pics, asymptomatic trans., WHO 20200210.6976117
+Novel coronavirus (40): animal reservoir, pangolin poss intermediate host, RFI 20200210.6972104
+Novel coronavirus (30): updates, China, Viet Nam, research 20200202.6945658
+Novel coronavirus (20): China, wildlife trade ban 20200127.6922060
+Novel coronavirus (10): China (HU, GD, BJ) 20200119.6898567
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia: China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia: China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+----
+Undiagnosed pneumonia: China (HU): RFI 20191230.6864153
+and other items in the archives
+.................................................sb/lk/jh/mpp/mj/jh
+</body>

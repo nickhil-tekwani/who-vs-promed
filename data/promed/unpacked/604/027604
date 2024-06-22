@@ -1,0 +1,222 @@
+<header id=027604>
+Published Date: 2022-01-03 17:14:46 EST
+Subject: PRO/AH/EDR> COVID-19 update (04): USA, reinfection, young adult, comment
+Archive Number: 20220103.8700652
+</header>
+<body id=027604>
+CORONAVIRUS DISEASE 2019 UPDATE (04): USA, REINFECTIONS, YOUNG ADULTS, COMMENT
+******************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] US: breakthrough infection
+[2] Reinfection: review
+[3] Teens and young adults
+[4] Commentary: T Jacob John
+[5] WHO: Daily new cases reported (as of 2 Jan 2022)
+[6] Global update: Worldometer accessed 2 Jan 2022 20:57 EST (GMT-5)
+
+******
+[1] US: breakthrough infection
+Date: Tue 28 Dec 2021
+Source: JAMA Internal Medicine [abridged, edited]
+https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2787643
+
+
+ref: Sun J, Zheng Q, Madhira V, et al. Association between immune dysfunction and COVID-19 breakthrough infection after SARS-CoV-2 vaccination in the US. JAMA Intern Med. Published online 28 Dec 2021. doi:10.1001/jamainternmed.2021.7024. PMID: 34962505
+
+Abstract
+--------
+Importance: Persons with immune dysfunction have a higher risk for severe COVID-19 outcomes. However, these patients were largely excluded from SARS-CoV-2 vaccine clinical trials, creating a large evidence gap.
+Objective: To identify the incidence rate and incidence rate ratio (IRR) for COVID-19 breakthrough infection after SARS-CoV-2 vaccination among persons with or without immune dysfunction.
+Design, setting, and participants: This retrospective cohort study analyzed data from the National COVID Cohort Collaborative (N3C), a partnership that developed a secure, centralized electronic medical record-based repository of COVID-19 clinical data from academic medical centers across the US. Persons who received at least 1 dose of a SARS-CoV-2 vaccine between [10 Dec 2020 and 16 Sep 2021] were included in the sample.
+Main outcomes and measures: Vaccination, COVID-19 diagnosis, immune dysfunction diagnoses (that is, HIV infection, multiple sclerosis, rheumatoid arthritis, solid organ transplant, and bone marrow transplantation), other comorbid conditions, and demographic data were accessed through the N3C Data Enclave. Breakthrough infection was defined as a COVID-19 infection that was contracted on or after the 14th day of vaccination, and the risk after full or partial vaccination was assessed for patients with or without immune dysfunction using Poisson regression with robust SEs. Poisson regression models were controlled for a study period (before or after [pre- or post-delta variant] 20 Jun 2021), full vaccination status, COVID-19 infection before vaccination, demographic characteristics, geographic location, and comorbidity burden.
+Results: A total of 664 722 patients in the N3C sample were included. These patients had a median (interquartile range [IQR]) age of 51 (34-66) years and were predominantly women (n = 378 307 [56.9%]). Overall, the incidence rate for COVID-19 breakthrough infection was 5 per 1000 person-months among fully vaccinated persons but was higher after the delta variant became the dominant SARS-CoV-2 strain (incidence rate before vs after 20 Jun 2021, 2.2 [95% confidence interval [CI] 2.2-2.2] vs 7.3 [CI 7.3-7.4] per 1000 person-months). Compared with partial vaccination, full vaccination was associated with a 28% reduced risk for breakthrough infection (adjusted IRR [AIRR] 0.72; CI 0.68-0.76). People with a breakthrough infection after full vaccination were more likely to be older and women. People with HIV infection (AIRR 1.33; CI 1.18-1.49), rheumatoid arthritis (AIRR 1.20; CI 1.09-1.32), and solid organ transplant (AIRR 2.16; CI 1.96-2.38) had a higher rate of breakthrough infection.
+Conclusions and relevance: This cohort study found that full vaccination was associated with reduced risk of COVID-19 breakthrough infection, regardless of the immune status of patients. Despite full vaccination, persons with immune dysfunction had substantially higher risk for COVID-19 breakthrough infection than those without such a condition. For persons with immune dysfunction, continued use of nonpharmaceutical interventions (for example, mask wearing) and alternative vaccine strategies (for example, additional doses or immunogenicity testing) are recommended even after full vaccination.
+
+Discussion: Although patients with immune dysfunction had substantially less severe COVID-19 outcomes after vaccination compared with cases before vaccination, the disease severity of breakthrough infection cases was still noticeable (3.3% with severe outcomes). The finding that a higher likelihood and greater severity of a breakthrough infection were observed among persons with immune dysfunction prompts the consideration of alternative prevention and management approaches in this population.
+
+Although we were not able to directly identify specific variants in the current data, we were able to classify IRs before and after the delta variant became the dominant strain. Although the true rate of breakthrough infection in the US remains difficult to estimate, the results of this study are reassuring regarding the relative infrequency of severe breakthrough infection among persons without immune dysfunction.
+
+These findings are consistent with results of 2 studies from Israel and US, which corroborated that persons with immune dysfunction had substantially higher risk for a breakthrough infection compared with persons without immune dysfunction.(7,8) A US case-control study of 1210 hospitalized patients suggested that 44% of hospitalized breakthrough cases occurred among immunocompromised patients, estimating that the vaccine was less effective at 59.2% within this group.(7) We further addressed the excessive risk for a breakthrough infection among patients with specific immune dysfunction conditions in this large national sample. Although we observed that breakthrough infection rates were higher in persons with immune dysfunction, the severity of a breakthrough infection was reduced, underscoring that vaccination, although not as immunologically beneficial in this population, had considerable advantages.
+
+The large-scale real-world data we used confirmed that multiple groups of persons with immune dysfunction (SOT [solid organ transplant], RA [rheumatoid arthritis], and HIV infection) displayed substantially higher rates for a breakthrough infection. This study included 8536 persons with HIV and showed that they had an independent 33% higher risk for a breakthrough infection after SARS-CoV-2 vaccination. A recent study reported an increased risk for severe COVID-19 infection in persons living with HIV that was associated with more advanced immune deficiency.(11) Persons living with HIV, especially those with advanced immune deficiency, should be considered at a higher risk, comparable to other patients with immune dysfunction, in guidelines to prevent a COVID-19 breakthrough infection.
+
+We believe the findings provide robust evidence to support the CDC recommendation of a booster vaccine dose in persons with immune dysfunction. Recent studies indicated that patients who underwent SOT experienced weak immune responses to 2-dose SARS-CoV-2 vaccines,(21,22) but 3 doses of an mRNA vaccine may improve immunogenicity.(20,34) Specifically, the detection of anti-SARS-CoV-2 antibodies increased from 40% to 68% after the 3rd dose of an mRNA vaccine in patients who underwent SOT.(20) Although a 3rd dose considerably improved the immune response among SOT recipients, the prevalence of antibody response was still substantially lower in that study than in the general population (<70% vs >90%, respectively).(20) Severe immunodeficiency in some patients may preclude the appropriate antibody response regardless of the number of vaccine doses given.
+
+The findings of this study suggest that nuanced guidance for COVID-19 prevention and control is needed for patients with immune dysfunction. Clinicians and patients should consider continuing nonpharmaceutical interventions even after vaccination, including mask wearing, social distancing, and avoiding densely crowded settings (especially indoors) as much as possible. For patients with immune dysfunction who contracted or were exposed to COVID-19 infection after vaccination, future studies can investigate the benefits of postexposure prophylaxis or preemptive therapy, close monitoring for early disease progression, and permissive use of additional therapies while evaluating the duration of viral shedding or potential for onward transmission. Although antibody levels may not always indicate vaccine protection, further immunogenic studies to identify protective thresholds of antibody response may aid in triaging patients with immune dysfunction who are at greatest risk for a breakthrough infection.
+
+--
+communicated by:
+ProMED rapporteur Kunihiko Iizuka
+
+******
+[2] Reinfection: review
+Date: 26 Jul 2021
+Source: BMJ Journals, Journal of Investigative Medicine [abridged, edited]
+https://jim.bmj.com/content/69/6/1253
+
+
+ref: Wang J, Kaperak C, Sato T, Sakuraba A. COVID-19 reinfection: a rapid systematic review of case reports and case series. BMJ. Journal of Investigative Medicine. http://orcid.org/0000-0003-2519-6129Atsushi
+
+Abstract
+--------
+The COVID-19 pandemic has infected millions of people worldwide and many countries have been suffering from a large number of deaths. Acknowledging the ability of SARS-CoV-2 to mutate into distinct strains as an RNA virus and investigating its potential to cause reinfection is important for future health policy guidelines. It was thought that individuals who recovered from COVID-19 generate a robust immune response and develop protective immunity; however, since the first case of documented reinfection of COVID-19 in August [2020], there have been a number of cases with reinfection. Many cases are lacking genomic data of the 2 infections, and it remains unclear whether they were caused by different strains. In the present study, we undertook a rapid systematic review to identify cases infected with different genetic strains of SARS-CoV-2 confirmed by PCR and viral genome sequencing. A total of 17 cases of genetically confirmed COVID-19 reinfection were found. One immunocompromised patient had mild symptoms with the 1st infection but developed severe symptoms resulting in death with the 2nd infection. Overall, 68.8% (11/16) had similar severity; 18.8% (3/16) had worse symptoms; and 12.5% (2/16) had milder symptoms with the 2nd episode. Our case series shows that reinfection with different strains is possible, and some cases may experience more severe infections with the 2nd episode. The findings also suggest that COVID-19 may continue to circulate even after achieving herd immunity through natural infection or vaccination, suggesting the need for longer-term transmission mitigation efforts.
+
+--
+communicated by:
+Mary Marshall
+<mjm2020@googlemail.com>
+from Sabine Zentis <sabinezentis@gmail.com>
+
+******
+[3] Teens and young adults
+Date: Sat 1 Jan 2022
+Source: The Guardian [edited]
+https://www.theguardian.com/us-news/2022/jan/01/us-omicron-covid-cases-teens-young-adults-children
+
+
+As the US is seeing record numbers of daily coronavirus cases driven by the highly transmissible omicron variant, public health authorities nationwide have said that teens and younger adults are helping fuel this increase. The uptick in COVID-19 among the under-50s coincides with a surge in cases among young children - and a troubling increase in pediatric hospitalizations. The US 7-day average for pediatric hospitalizations increased 58%, to 334, between [21 Dec and 27 Dec 2021]. The increase in hospitalizations for all age groups was about 19%. Less than 25% of US children are vaccinated, Reuters reported.
+
+In Los Angeles county, adults between 18 and 49 accounted for more than 70% of the coronavirus cases recorded between [22 Dec and 28 Dec 2021], according to the Los Angeles Times. The case rate per 100 000 people has surged most quickly in that age range. The county saw more than 27 000 new cases on [31 Dec 2021], dramatically surpassing the winter 2021 daily case average of 16 000. About 25% of all coronaviruses tests in Los Angeles county are positive, according to the newspaper. Broken down further, data show that infection rates in persons from 18 to 29 are more than 8 times higher than one month ago. With adults in their 30s and 40s, there are 6 times as many cases.
+
+"Many of the people in this age group are important members of our labor force ... and these are also folks that are very likely to be out and about for recreation," Barbara Ferrer, the county's public health director, was quoted as saying. "Often this age group doesn't experience the worst consequences of increased transmission," Ferrer continued. "And sometimes that's made it more difficult for individuals to stay attentive to the need to be vigilant about adhering to all of the public health safety measures."
+
+There are concerns that the US economy and healthcare systems could suffer further in January [2022] not because of imposed restrictions such as lockdowns but because there is so much widespread sickness, including relatively mild cases, that staff shortages further hamper commerce and public services.
+
+Meanwhile, the infection rate for children between ages 5 and 11 has doubled. In nearby Orange county, California, adults from age 18 to 44 are driving COVID-19 infections, according to the Times' report.
+
+Coronavirus cases are increasing dramatically among teens and younger adults in southern Nevada. Eighteen to 24-year-olds saw 44.7 cases per 100 000 as of [24 Dec 2021], an 131% increase from one week prior, the Las Vegas Review-Journal reported.
+
+In Dallas county, Texas, coronavirus cases rose by 76% in one week, according to a [28 Dec 2021] report in the Dallas Morning News. Adults between 18 and 29 comprised almost 25% of these cases.
+
+And in the last week of December [2021], one Michigan hospital system reported a 21% increase in coronavirus cases among 21 to 35-year-olds, compared to the preceding week. Michigan hospitals have also reported seeing more patients in younger age groups in December [2021], many of whom are unvaccinated, according to ABC 12 News. "This is also not by coincidence, an age group that remains under-vaccinated in a significant number," Bob Riney, president of healthcare operations and chief operating officer at Henry Ford Health System, told ABC 12 News. "The vast majority of the COVID-19 patients in our hospitals are unvaccinated."
+
+Chicago-area children's hospitals saw their greatest increase in coronavirus case numbers and hospitalizations this week, according to one report. "We've seen our biggest numbers in since the pandemic started actually," Michael Cappello, vice chairman of Advocate Children's Hospital, told NBC 5 Chicago. Allison Bartlett, who teaches about pediatric infectious diseases at the University of Chicago, told the station: "We are seeing twice as many kids in the hospital who are testing positive for COVID-19 than we saw even back in our bad peak in September [2021]."
+
+In New York, the state's top health official warned of a "striking increase" in pediatric COVID-19 hospitalizations. "The risks of COVID-19 for children are real," said Dr Mary T Bassett, acting state health commissioner. There was a 4-fold increase in pediatric COVID-19 hospital admissions from the week of [5 Dec 2021] through the week of [24 Dec 2021].
+
+As case counts in younger demographics grow, officials are girding for yet another winter surge, though possibly a briefer one that previous surges. Columbia University researchers have said that the US could hit its case peak by [Sun 9 Jan 2021], at about 2.5m weekly cases. However, they said, that metric could hit as many as 5.4m, the New York Times reported.
+
+The US has seen 54 747 971 COVID-19 cases, and 825 552 deaths, according to Johns Hopkins University data since the pandemic hit the US almost 2 years ago.
+
+[byline: Victoria Bekiempis]
+
+--
+communicated by:
+ProMED rapporteur Kunihiko Iizuka
+
+[The hospitalization of young individuals is a consequence of the lower vaccination rate in this group. - Mod.LK]
+
+******
+[4] Comment
+Date: Sun 2 Jan 2022
+From: T Jacob John, <tjacobjohn@yahoo.co.in>
+
+
+Reference: to PRO/AH/EDR> COVID-19 update (01): omicron severity & changes, Germany, T-cell reactivity 20220101.8700616. Toc 1B of the post refers to article https://www.gla.ac.uk/researchinstitutes/iii/cvr/engage/news/headline_829358_en.html
+
+This paper describes a step change in omicron's transmission capability, 45 amino acid substitutions including 30 in spike protein of which 15 are in receptor-binding region and markedly decreased neutralisation by antibodies in 2-dose recipients of vaccines, fundamental changes in the omicron entry processes in host cells and a major shift in replication properties.
+
+Clinically, from various reports we have learned that the disease characteristics of omicron are different from what has been described for COVID-19. The paper described that omicron does not induce cell syncytia and has reduced replication kinetics in cultured lung epithelial cells. Instead of cell surface fusion like in SARS-CoV-2, omicron preferentially achieves entry through endosomal fusion.
+
+All these add up to the fact that omicron is not simply a "variant" but is a "deviant" with genotypic and phenotypic changes, antigenic shift rather than drift; alteration in pathogenetic mechanisms and disease characteristics. From other sources we know that cough is not common; symptoms are predominantly upper respiratory, high fever is infrequent; pneumonia and ARDS not usual; hypoxia rare; case-fatality minimal - all these in comparison with all earlier variants.
+
+Now omicron is causing a "fresh pandemic", against the background of the recent global widespread infection and consequent immunity by Wuhan-D614G and alpha, beta, gamma and delta variants.
+
+For these reasons I suggest that what is currently classified as omicron variant of concern is a subtype or subspecies of SARS-CoV-2. The disease caused by omicron is different from COVID-19 and COVID-21 may be a better term to highlight the difference.
+
+--
+T Jacob John
+Retired as Professor in Christian Medical College
+Vellore
+India
+<tjacobjohn@yahoo.co.in>
+
+
+[ProMED thanks Dr John for submitting this comment to ProMED. He makes a very interesting point. Omicron may better be considered a new lineage of SARS-CoV-2 or perhaps as Dr John writes, a subtype or subspecies, rather than a variant, because of its phenotypic and genetic differences, as well as different disease presentation. A lineage is a group of closely related viruses with a common ancestor as compared to a viral variant, which has a genetic sequence that may contain one or more mutations from the reference sequence. A lineage might be comprised of multiple variants. Then there are virus subtypes. Influenza A viruses, for example, are divided into subtypes based on the hemagglutinin and the neuraminidase. There are 18 different hemagglutinin subtypes and 11 different neuraminidase subtypes. I agree that variant may not be the appropriate term to describe omicron with what is now known about its biology. - Mod.LK]
+
+******
+[5] WHO: daily new cases reported (as of 2 Jan 2022)
+
+
+[On the WHO COVID-19 Dashboard, the last data updates are as of 4 pm CET 29 Dec 2021 there is a notice "Kindly note that the case and death data for the Region of the Eastern Mediterranean are incomplete and next dashboard update will be on [Tue 4 Jan 2022 ] due to the holiday schedule."
+
+Please note that we are currently experiencing technical difficulties with the Public Health and Social Measures (PHSM) data from the WHO European Region. Please refer directly to the WHO European Region COVID-19 PHSM Dashboard (PHSM tab below the map) for up-to-date information".
+
+For graphic representation, use the following link to access comparative country graphs on the EIOS system (Epidemic Intelligence from Open Sources): https://bit.ly/3hxFSDk. - Mod.UBA]
+
+******
+[6] Global update: Worldometer accessed 2 Jan 2022 20:57 EST (GMT-5)
+Date: Sun 2 Jan 2022
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+Total number of reported deaths: 5 460 449
+Total number of worldwide cases: 290 640 023
+Number of newly confirmed cases in the past 24 hours: 923 651
+
+--
+communicated by:
+ProMED
+
+[In the past 24 hours, 17 countries -- the USA (277 656), the UK (139 943), Italy (61 137), France (58 432), Canada (35 127), Australia (34 441), India (33 750), Turkey (33 520), Argentina (20 502), Russia (18 233), Greece (17 633), The Netherlands (17 478), Vietnam (16 948), Germany (12 636), Colombia (11 318), Bolivia (11 278), and Portugal (11 080) -- all reported more than 10 000 newly confirmed cases. A global total of 3114 deaths were reported in the preceding 24 hours (late 31 Dec 2021 to late 1 Jan 2022).
+
+The exponential rise in cases over the last couple of weeks can be attributed to the rapid increase in the omicron variant cases in over 90 countries. Studies suggest that the omicron variant causes milder disease than the previously dominant delta variant, but the high number of cases caused by this highly infectious/transmissible variant could rapidly overwhelm hospitals and health systems.
+
+The major differences seen on account of testing delays over the holiday period can be misleading, while the rolling 7 day averages is a more precise indicator to follow the trends of the pandemic, which indicates an increasing global trend on cases with some reduction in deaths.
+
+A total of 53 countries reported more than 1000 cases in the past 24 hours; 30 of the 53 countries are from the European region, 8 are from the Americas region, 5 are from the Western Pacific region, 2 are from the Eastern Mediterranean region, 3 from the South East Asia region, and 5 are from the African region.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, case counts have increased by 93.2%, while daily reported deaths have decreased by 5.9%. Similar comparative 7-day averages in the USA show a 100.4% increase in daily reported cases and a 9.3% decrease in reported deaths.
+
+Impression: Over 900 000 newly confirmed infections were reported worldwide in the past 24 hours, bringing the cumulative totals to over 290.64 million reported cases and over 5.46 million reported deaths. - Mod.UBA]
+See Also
+COVID-19 update (03): Antarctica, omicron, S Africa, China 20220102.8700640
+COVID-19 update (02): South Africa, France, UK, test protocols 20220102.8700630
+COVID-19 update (01): omicron severity & changes, Germany, T-cell reactivity 20220101.8700616
+2021
+---
+COVID-19 update (452): rapid test, omicron, Ab neutralization, school, WHO 20211230.8700597
+COVID-19 update (451): animal, USA, wild deer 20211230.8700589
+COVID-19 update (450): maternal Abs, CDC isolation guidance, WHO 20211230.8700575
+COVID-19 update (449): global, Israel vacc, pregnancy, future, WHO 20211229.8700554
+COVID-19 update (448): France, persistent viral RNA 20211228.8700520
+COVID-19 update (447): animal, USA (PA) zoo, lynx 20211227.8700517
+COVID-19 update (446): masks, boosters, dysphonia, global 20211226.8700504
+COVID-19 update (444): omicron symptoms, mistakes, genetic selection, global 20211225.8700488
+COVID-19 update (443): China, masks, quarantine, South Asia, WHO, global 20211224.8700466
+COVID-19 update (442): omicron, wastewater, severity, met synd, Paxlovid, WHO 20211224.8700457
+COVID-19 update (441): omicron, Germany wastewater detection, rapid tests, WHO 20211222.8700438
+COVID-19 update (440): omicron sever., post vacc. graft rejec., Europe, US, WHO 20211222.8700421
+COVID-19 update (437): omicron spread, UK, France, sports teams, global 20211220.8700382
+COVID-19 update (432): omicron spread, modeling, cardiac effects, China, WHO 20211215.8700298
+COVID-19 update (430): animal, USA, Russia, Finland, vaccines 20211214.8700260
+COVID-19 update (420): animal, Poland (KP) mink, OIE 20211207.8700127
+COVID-19 update (410): omicron, WHO update, impact, patience, global 20211130.8699966
+COVID-19 update (400): animal, sheep, research, experimental infection 20211121.8699806
+COVID-19 update (350): boosters, deaths, cases, vaccines, WHO 20211014.8699041
+COVID-19 update (300): Norway, myocarditis, schools, new variant C.1.2, WHO 20210901.8638460
+COVID-19 update (200): animal, China, origin 20210608.8433657
+COVID-19 update (100): antibodies, vaccine, Thailand, Cambodia, WHO, global 20210316.8250009
+COVID-19 update (50): UK vaccine study, Brazil reinfection, WHO 20210205.8167161
+COVID-19 update (01): variants, vaccine, Thailand, global, WHO 20210101.80629382020
+2020
+---
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+COVID-19 update (562): viral load, UK vacc dose, ECDC, WHO 20201231.8061525
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia: China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia: China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+---
+Undiagnosed pneumonia: China (HU): RFI 20191230.6864153
+.................................................sb/lk/uba/ao/sh
+</body>

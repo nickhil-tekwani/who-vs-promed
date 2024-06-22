@@ -1,0 +1,347 @@
+<header id=047034>
+Published Date: 2022-06-11 19:00:47 EDT
+Subject: PRO/AH/EDR> COVID-19 update (139): aerosol spread, in utero exposure, long COVID, WHO, global
+Archive Number: 20220611.8703811
+</header>
+<body id=047034>
+CORONAVIRUS DISEASE 2019 UPDATE (139): AEROSOL SPREAD, IN UTERO EXPOSURE, LONG COVID, WHO, GLOBAL
+*************************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] Aerosol spread
+[2] In utero exposure
+[3] Long COVID
+[4] WHO: daily new cases reported (as of 10 Jun 2022)
+[5] Global update: Worldometer accessed 10 Jun 2022 22:57 EST (GMT-5)
+
+******
+[1] Aerosol spread
+Date: Fri 10 Jun 2022
+Source: CIDRAP (Center for Infectious Disease Research and Policy) [edited]
+https://www.cidrap.umn.edu/news-perspective/2022/06/report-profiles-aerosol-spread-hospital-covid-19-outbreak
+
+
+SARS-CoV-2 RNA in air samples collected at a nurses station at a Boston hospital were identified in all particle sizes and were genetically identical to human samples from a healthcare-associated outbreak, according to a new study in JAMA Network Open (https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2793153).
+
+For the study, researchers at Harvard, the Veterans Affairs Boston Healthcare System (VABHS), Boston University, and Brigham and Women's Hospital in Boston collected air samples to detect SARS-CoV-2 RNA at a VABHS hospital and long-term care center from 16 Nov 2020 to 11 Mar 2021.
+
+They used a microenvironmental cascade impactor that collects airborne particles in 3 size ranges: larger than 10.0 micrometer (μm), 2.5-10.0 μm, and smaller than 2.5 μm. They collected samples about every week, with a break from 10 Dec 2020 to 4 Jan 2021.
+
+The team also conducted an investigation into a COVID-19 outbreak that eventually involved 103 patients and healthcare personnel (HCP) from 27 Dec 2020 to 8 Jan 2021. It began on a medical ward not dedicated to COVID-19 patients shortly after vaccines had become available to HCP but not patients. It preceded both the delta and omicron variants, which are known to spread faster.
+
+The outbreak began on "ward A" when a nurse developed COVID symptoms 4 days after receiving the 1st dose of Moderna vaccine, then tested positive. The investigators presumed this nurse to be the index case.
+
+Contact tracing over the next 6 days based on polymerase chain reaction (PCR) and antigen testing identified 8 more infected nurses and 8 infected patients from ward A, as well as 2 infected nurses on a 2nd ward (ward B). Patients diagnosed as having COVID-19 were transferred to a COVID unit (ward C), where nurses wore surgical masks but not more protective respirators. Patients wore masks only when outside their room.
+
+Four infected nurses and 7 infected patients were on ward A during 3 days of air sampling at the nurses' station, including 3 nurses and 3 patients with cycle threshold (Ct) values less than 24, an indicator of high viral load.
+
+One patient, who had a Ct value of 17 -- in general, the lower the value, the higher level of viruses -- often wandered or sat unmasked in front of the nurses station within 15 feet from the sampler. In addition, the researchers report that nurses at the station would at times lower their masks to drink.
+
+The researchers found evidence of SARS-CoV-2 in samples of all 3 particle sizes at the ward A nurses station.
+
+Fragments of SARS-CoV-2 RNA in the smallest aerosols (under 2.5 μm) in ward A showed 100% sequence identity with the samples from people. Samples from the other size particles in ward A had greater genetic relationship with human samples (2.5-10 μm, 99.91%; larger than 10 μm, 99.97%) than did samples collected over the same dates on ward C. Those ranged from 99.36% to 99.86% from a nurse's station and break room.
+
+Surveillance of HCP on selected units across the medical center demonstrated that active surveillance and isolation of infected HCP were associated with less SARS-CoV-2 RNA in air samples from those units.
+
+The researchers detected fragments of SARS-CoV-2 RNA by PCR in 24 of 300 samples (8.0%) in units across the medical center where HCP were not under surveillance and 7 of 210 (3.3%) in units where they were. About half of all positive samples (20 of 38 [52.6%]) came from medium-sized particles -- those ranging from 2.5 to 10 μm.
+
+The study authors write, "[Hospital-based] transmission of SARS-CoV-2 occurred on a medical unit during coincidental collection of air samples, and several observations were consistent with aerosol transmission."
+
+They add, "At least 6 nurses and patients who were present during air sample collection had nasopharyngeal samples with a Ct less than 25, a range associated with shedding of replication-competent virus, and most were early in their illness, when detection of viral RNA in exhaled aerosols is most frequent. Viral sequences from 3 infected persons were nearly identical, suggesting nosocomial transmission from a common source."
+
+The researchers also note that surveillance and isolation of infected HCP appeared to reduce aerosol spread of viruses. The authors conclude, "Improvements in air filtration, ventilation, and masking in shared hospital spaces may further decrease transmission of SARS-CoV-2 and other airborne respiratory viruses."
+
+[Byline: Jim Wappes]
+
+--
+Communicated by:
+Mary Marshall
+<mjm2020@googlemail.com>
+
+[The citation and portions of the Discussion section from the study appear below; see the article for complete references and figures.
+
+Stern RA, Charness ME, Gupta K, et al. Concordance of SARS-CoV-2 RNA in aerosols from a nurses station and in nurses and patients during a hospital ward outbreak. JAMA Netw Open. 2022; 5(6): e2216176; doi:10.1001/jamanetworkopen.2022.16176
+--------------------------------------------------------------------------------
+Discussion
+----------
+"In this cohort study, nosocomial transmission of SARS-CoV-2 occurred on a medical unit during coincidental collection of air samples, and several observations were consistent with aerosol transmission. The temporal sequence of transmission suggested that the infection was introduced by a symptomatic nurse and spread among nurses and patients. At least 6 nurses and patients who were present during air sample collection had nasopharyngeal samples with a Ct less than 25, a range associated with shedding of replication-competent virus (12), and most were early in their illness, when detection of viral RNA in exhaled aerosols is most frequent (13). Viral sequences from 3 infected persons were nearly identical, suggesting nosocomial transmission from a common source. Finally, SARS-CoV-2 RNA genomic fragments in the smallest aerosols collected at the nurses station shared sequence identity with the human samples. Respiratory viruses tend to concentrate most in these smallest aerosols (14)."
+
+"These findings suggest that surveillance, in conjunction with interventions including distancing, masking, and ventilation, may reduce the introduction of community-acquired SARS-CoV-2 into aerosols on hospital wards, consistent with the observation that surveillance is associated with a reduction in nosocomial transmission of SARS-CoV-2 (9). With current technology, air sampling surveillance does not have sufficiently rapid turnaround time to monitor nosocomial infection in real time; however, these sampling data were useful in suggesting the presumed mode of transmission." - Mod.LK]
+
+******
+[2] In utero exposure
+Date: Fri 10 Jun 2022
+Source: CIDRAP (Center for Infectious Disease Research and Policy) [edited]
+https://www.cidrap.umn.edu/news-perspective/2022/06/utero-covid-exposure-tied-language-motor-delays-1-year
+
+
+Infants born to mothers infected with SARS-CoV-2 during pregnancy were more likely to receive a neurodevelopmental diagnosis by 1 year of age, regardless of whether they were born pre-term, according to preliminary findings of a Massachusetts General Hospital study published yesterday [9 Jun 2022] in JAMA Network Open (https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2793178).
+
+The study included all 7772 live births at one of 6 Massachusetts hospitals in 2 health systems from March 2020 to September 2020 -- before the emergence of the delta and omicron variants.
+
+Almost all (96%) of the 7466 pregnancies were singletons, and 222 infants (2.9%) were born to COVID-19-infected mothers. Average maternal age was 32.9 years, and the infants were Asian (9.9%), Black (8.4%), White (69.0%), or Hispanic (15.1%).
+
+Fourteen of 222 (6.3%) of the infants exposed to SARS-CoV-2 in utero were diagnosed as having a neurodevelopmental abnormality, such as delayed speech, language, or motor function, compared with 227 of 7550 (3.0%) of unexposed infants.
+
+Infants whose mothers tested positive for COVID-19 during pregnancy were more likely than those born to uninfected mothers to be given a neurodevelopmental diagnosis in their 1st year of life in both unadjusted models (odds ratio [OR], 2.17; 95% confidence interval [CI], 1.24-3.79) and after adjustment for race, ethnicity, insurance status, infant sex, maternal age, and preterm status (adjusted OR, 1.86; 95% CI, 1.03-3.36).
+
+This link was even more evident when infection occurred in the 3rd trimester (adjusted OR, 2.34; 95% CI, 1.23-4.44).
+
+After accounting for non-singleton deliveries, the OR for any neurodevelopmental diagnosis among infants exposed to SARS-CoV-2 in utero was 1.86 (95% CI, 1.03-3.36). A sensitivity analysis assessing the contribution of preterm birth only, the adjusted OR was 1.97 (95% CI, 1.10-3.50).
+
+In an analysis limited to full-term pregnancies (6896 unexposed, 190 exposed infants), the OR for a neurodevelopmental delay was 1.68 (95% CI, 0.81-3.45). Among 27 diagnostic categories included in adjusted models, only viral infection of any type, which could include SARS-CoV-2, was significantly more common in infants of infected mothers (crude OR, 2.59 [95% CI, 1.76-3.81]; adjusted OR, 1.81 [95% CI, 1.20-2.72]).
+
+Babies exposed in utero were more likely than others to be preterm (14.4% vs 8.7%). Infected mothers were significantly less likely to be Asian (3.2% infected vs 10.1% uninfected) or White (36.9% vs 69.9%) but much more likely to be Hispanic (51.8% vs 13.5%) and to have public than private health insurance (60.4% vs 17.2%). Rates of diabetes and high blood pressure were comparable between the infected and uninfected groups.
+
+The study authors cautioned that larger follow-up studies on the potential link between infected mothers and infant neurodevelopmental delays are needed. "Whether a definitive connection exists between prenatal SARS-CoV-2 exposure and adverse neurodevelopment in offspring is not yet known, in part because children born to women infected in the 1st wave of the pandemic are younger than 2 years of age," they wrote.
+
+"More broadly, our analysis indicates the feasibility of leveraging EHR data for a retrospective cohort study that may enable detection of risk signals before such large-scale, prospective follow-up studies are available," they added.
+
+In a related commentary, Torri Metz, MD, of University of Utah Health, asks whether the observed neurodevelopmental complications are being caused by exposure to the pandemic or by maternal COVID-19 infection (https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2793181). "Is it the virus itself or all of the societal changes that occurred during this period including differences in how those changes were experienced among those with and without SARS-CoV-2?" she wrote.
+
+Metz also pointed out that the study included only infants exposed to early variants of SARS-CoV-2 rather than a potentially more severe variant such as delta, because they are the only children now old enough to undergo complex neurodevelopmental assessments.
+
+"Outcomes may be different by variant of maternal SARS-CoV-2 infection," she wrote. "Importantly, we also have no data on whether prior vaccination will have a protective effect against adverse neurodevelopmental outcomes for the offspring of mothers with SARS-CoV-2 beyond the direct benefit of persistent antibodies in the cord blood and through infancy."
+
+But the most important question, Metz said, is how to intervene to help mitigate the pandemic's negative effects on young children. "Prospective studies to validate these findings, tease out some of the nuance, and identify those at highest risk will help healthcare practitioners appropriately dedicate resources to improve outcomes as we follow the life course of this generation of children born during the COVID-19 pandemic," she concluded.
+
+[Byline: Mary Van Beusekom]
+
+--
+Communicated by:
+Mary Marshall
+<mjm2020@googlemail.com>
+
+[The following has been extracted from Dr Metz's commentary (https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2793181); see article for complete references.
+--------------------------------------------------------------------------------
+"A prior study (2) found an association between delivery during the pandemic and delays in fine motor and communication skills at 1 year of age. Similarly, Shuffrey et al. (3) found an association between delivering during the pandemic and lower scores on the Ages and Stages Questionnaire, 3rd edition (ASQ-3) in the subdomains of gross motor, fine motor, and personal-social. Despite these observed changes when those children born during the pandemic were compared with historical control groups, there were not similar differences observed when comparing those with and without exposure to maternal SARS-CoV-2 in utero as measured by the ASQ-3 (3). Thus, the findings in the study by Edlow et al. (1) contrast those previously published. These differences may be a result of differences in ascertainment or a different age of interest (6 months vs 1 year). They may also be related to infection severity as the majority of the mothers in the Edlow et al. study (1) were symptomatic as universal screening was not being performed at the time of this work, whereas one-third of those in the Shuffrey et al. study (3) were asymptomatic and screened with polymerase chain reaction or antibody testing."
+
+"These preliminary data are critically important, yet many questions remain. Essentially all of what we know now about the effects of in utero exposure to maternal SARS-CoV-2 infection is from children who were exposed to the early and alpha variants of SARS-CoV-2 as those are the only children now old enough to undergo rigorous neurodevelopmental assessments. Knowledge about the effects of other variants is lacking. We know that the delta variant substantially damaged the placenta (4) and was associated with a much higher risk of stillbirth compared with other variants (5). This placental damage in conjunction with inflammation and cytokine release has the potential for substantial ramifications for the offspring. Thus, outcomes may be different by variant of maternal SARS-CoV-2 infection. Importantly, we also have no data on whether prior vaccination will have a protective effect against adverse neurodevelopmental outcomes for the offspring of mothers with SARS-CoV-2 beyond the direct benefit of persistent antibodies in the cord blood and through infancy (6).
+
+"Ultimately, it is not surprising that the pandemic and in utero exposure to maternal SARS-CoV-2 infection may adversely affect neurodevelopmental outcomes in young children. As a retrospective cohort study, this publication by Edlow et al. (1) can only demonstrate associations, and causality cannot be determined. This type of work is intended to be hypothesis-generating, and that goal has been accomplished as these preliminary findings generate numerous additional research questions to explore. Are there genetic predispositions to adverse outcomes? Will we observe differential effects by SARS-CoV-2 variant, by severity of infection, and by trimester of infection? Is it the virus itself or all of the societal changes that occurred during this period including differences in how those changes were experienced among those with and without SARS-CoV-2?
+
+"Perhaps the most important question is how do we intervene to help mitigate the adverse effects of the pandemic on young children? Prospective studies to validate these findings, tease out some of the nuance, and identify those at highest risk will help healthcare practitioners appropriately dedicate resources to improve outcomes as we follow the life course of this generation of children born during the COVID-19 pandemic." - Mod.LK]
+
+******
+[3] Long COVID
+Date: Fri 10 Jun 2022
+Source: Stat News [edited]
+https://www.statnews.com/2022/06/10/hamsters-as-animal-model-for-long-covid/
+
+
+In late 2020, Justin Frere, a wiry MD/PhD student dressed in head-to-toe white Tyvek, picked up a clear pipette, methodically reached into the cages of 30 unsuspecting, sedated hamsters and drip-dropped 1000 infectious coronavirus particles down each of their nostrils.
+
+Then, he waited. Days for some. A whole month for others.
+
+The waiting was essential. His goal was to make a tool experts say will be critical to understanding and perhaps one day effectively treating long COVID, the debilitating and still scarcely understood constellation of symptoms that afflict many COVID-19 patients long after their initial infection has passed.
+
+Frere and his adviser, New York University virologist Benjamin tenOever, were trying to make one of the 1st animal models for long Covid. They reported the 1st results from the experiment this week in Science Translational Medicine, showing the hamsters mimic some symptoms and molecular changes observed in humans and pointing to several plausible explanations for the disease (https://www.science.org/doi/10.1126/scitranslmed.abq3059).
+
+If further research bears out the results, these hamsters and several other groups of animals at other labs could allow scientists to probe the basic biology of the mysterious disease, performing the kinds of analyses that you could never do in humans. They may even allow academics and companies to screen therapies before testing them on humans, a crucial step in building up what remains a barren therapeutic armamentarium.
+
+"We are in dire need of new pathways to knowledge that can support diagnostics and therapeutics for this condition," Harlan Krumholz, a Yale cardiologist who has been working with long COVID patients and was not involved with the work, said in an email. "Any potential advance, especially the development of an animal model, is very welcome."
+
+TenOever isn't alone. In December [2021], a Yale lab reported testing 2 possible therapies on one mouse model. The next month, scientists at Stanford and Yale displayed a mouse model that shows the brain fog both long COVID and cancer patients on chemotherapy experience. Stanley Perlman, a coronavirus expert at the University of Iowa, told STAT he is working on his own model, using a version of the coronavirus adapted to infect mice.
+
+Each of these models has different pros and cons -- the Yale mice, for example, first had to be given a kind of gene therapy before they were infected with SARS-CoV-2, which could skew results -- but experts say the world will ultimately need multiple animal models for long COVID.
+
+That's because long COVID is likely not one condition, but an umbrella term for multiple distinct ones.
+
+"We believe that our model recapitulates some aspects of human long COVID, but I would not say it models long COVID perfectly," Akiko Iwasaki, a Yale immunologist who helped create the Stanford-Yale model, said in an email. "Long COVID is a very heterogeneous disease. There are likely 4 or 5 distinct drivers." And, she said, "We need multiple models that reflect each."
+
+Right now, though, the mere fact that researchers can recreate some of the symptoms of long COVID in the lab is important as researchers continue to debate what's driving the disease, said David Putrino, a rehabilitation specialist at Mt. Sinai Health System who has been working with long COVID patients.
+
+"Just saying the words 'animal model of long COVID' really blows out of the water these claims that aim to psychologize long COVID or tell people it's just stress or anxiety," said Putrino, who contributed to the Yale work.
+
+Early in the pandemic, tenOever used the hamsters in his Biosafety Level-3 lab -- originally built for flu research -- to understand the course of the then-novel infection and eventually screen drugs, at the behest of the US government. But in late 2020, the advent of mRNA vaccines made those studies less urgent, at the same time that patient advocacy around long COVID was bubbling up and capturing researchers' attention.
+
+TenOever decided his hamsters could provide a good model for the long-term condition as well. They had already closely mimicked acute infection in humans, probably because they have similar type and levels of ACE2, the protein that the coronavirus uses to vault itself into cells.
+
+"Wherever we looked, whatever we did with our hamsters, it always got phenocopied in humans," he said. "You could find something interesting in hamsters, and then obtain a human biopsy sample that matched those and it always carried over."
+
+That meant his team didn't have to do what Perlman and Iwasaki did and modify the virus or modify the mouse for the model. They could just infect the hamsters and see what happens.
+
+In addition to infecting 30 hamsters with COVID, Frere gave another 30 hamsters nothing and infected still another 30 hamsters with virus from the 2009 swine flu pandemic. In theory, the twin controls would allow researchers to determine which changes were the result of any infection and which changes were unique to coronavirus.
+
+Early on, some differences were clear: The COVID hamsters that were examined after 3 days lost their smell, unlike the flu-infected or uninfected ones. Researchers showed this by putting hamsters in a new cage with buried Cocoa Krispies.
+
+The influenza and uninfected hamsters dug the treats straight up. The coronavirus hamsters "would kind of just wander and be like, why am I here?" said Frere.
+
+There were many similarities, though. Both coronavirus and flu triggered inflammation in the lungs and throughout the body, though the coronavirus' impact was more severe.
+
+And as time went on, the differences narrowed. The coronavirus hamsters that were examined at day 31 -- the point at which symptoms can begin to be described as long COVID -- could smell about as easily as the other 2 groups. None of the hamsters had any virus. Inflammation in much of the body had also gone away, although there was some scarring.
+
+Except for one thing: The olfactory bulb, a fingerling-potato-looking mass of cells behind the nose that relays smell signals to the brain, remained inflamed even a month later. "It is the one place where SARS-CoV-2 differentiates itself from your average response to infection," said tenOever.
+
+Although the olfactory bulb isn't involved in cognitive functions, tenOever said, inflammation there can radiate deeper into the brain. His group teamed with a neurology lab and showed that many of these hamsters' neurons were still expressing genes associated with the body's antiviral response.
+
+They then examined cadavers of patients who had gotten COVID-19 and died much later of unrelated causes, such as a car accident. Their brains showed a similar expression profile. "They also had all of their antiviral defenses still on even though there's no virus there," tenOever said.
+
+That pointed to a couple possible explanations for long COVID, as well as possible therapies.
+
+Clearly, tenOever said, there's an overly powerful inflammatory response against the virus, possibly because coronaviruses have a more stable and longer-lasting genetic code than flu. Although the body eventually clears it, the neurons might be permanently rewired.
+
+There might also be leftover RNA or other types of viral debris -- including zombie-like particles called defective viral genomes -- driving that inflammation, even if researchers couldn't find any.
+
+In both cases, you could test Paxlovid, Pfizer's highly effective antiviral, either to clear the virus in newly infected patients and prevent long-term inflammation, or to clear potential viral debris in patients already experiencing long COVID.
+
+"It's just the obvious choice, because it's just such a good drug," said Ryan Langlois, an immunologist at the University of Minnesota who wasn't involved in the work.
+
+You could also test drugs such as steroids that tamp down the inflammation or completely reset the immune response. Like Iwasaki's group, tenOever suggested a treatment that clears out patient's microglia, the janitor cells of the brain.
+
+The work impressed some physicians who have become specialists in long COVID. "This model should be looked at carefully," Claire Steves, a King's College London clinician, said in an email.
+
+There are, however, significant limitations. For one, the researchers used only the original coronavirus strain and not the variants now circulating, although tenOever points out the experiments were begun over a year ago, and many long COVID patients were infected with the original virus. They also weren't really able to mimic most symptoms seen in patients.
+
+The closest they got was a test where you put marbles in the cages. Hamsters that are stressed or anxious will immediately bury the marbles. Indeed, the long COVID ones did so, but not at a dramatically higher rate than the flu or uninfected ones.
+
+"The hamsters are not walking around with brain fog, or cardiac problems or developing diabetes," said Perlman, the University of Iowa coronavirus expert. "Nothing big time."
+
+Frere said they recognize that limitation. In addition to testing treatments, if they can secure funding, they hope to also make models of hamsters that have preexisting conditions such as heart disease or diabetes to see if they can better show the full long COVID spectrum. The current trials were only on young, healthy hamsters.
+
+They also hope to test other guesses at long COVID's origin, including one hypothesis -- suggested vaguely in the data -- that the virus can, by killing certain cells in the nose, change the balance of a patient's microbiome.
+
+All that, though, will require funding. And hamsters in a high-level containment facility aren't cheap. "These experiments a pop are like 50 grand," tenOever said, referring to treatment studies. "That's not an insignificant amount of money."
+
+[Byline: Jason Mast]
+
+--
+Communicated by:
+Mary Marshall
+<mjm2020@googlemail.com>
+
+[Also read:
+Katie Palmer. Researchers test the power of machine learning to unravel long COVID's mysteries. Stat News. 29 Apr 2022. https://www.statnews.com/2022/04/29/long-covid-machine-learning-n3c/
+
+Elizabeth Cooney. We're all in this together: As long COVID studies continue, researchers cast a wider net. Stat News. 7 Mar 2022. https://www.statnews.com/2022/03/07/long-covid-studies-continue-researchers-cast-wider-net/
+
+STAT Staff. COVID hasn't given up all its secrets. Here are 6 mysteries experts hope to unravel. Stat News. 19 Apr 2022. https://www.statnews.com/2022/04/19/six-covid-mysteries-including-how-it-will-evolve/
+
+Danielle Wenner and Gabriela Arguedas Ramírez. Omitting long COVID from pandemic messaging is harmful for public health. Stat News. 17 May 2022. https://www.statnews.com/2022/05/17/omitting-long-covid-from-pandemic-messaging-is-harmful-for-public-health/
+- Mod.LK]
+
+******
+[4] WHO: daily new cases reported (as of 10 Jun 2022)
+Date: Fri 10 Jun 2022
+Source: WHO [abridged, edited]
+https://covid19.who.int/table
+
+
+*Daily case reports as of 10 Jun 2022 16:48 CET
+
+Surveillance
+------------
+WHO region (no. countries/territories):
+Total confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+--------------------------------------------------------------------------------
+Western Pacific Region (19): 61 735 224 (146 319) / 233 428 (329)
+European Region (61): 222 417 177 (165 846) / 2 017 896 (275)
+South East Asia Region (10): 58 217 287 (11 194) / 789 157 (51)
+Eastern Mediterranean Region (22): 21 807 376 (0) / 342 946 (0)
+Region of the Americas (54): 158 983 746 (248 518) / 2 748 938 (1481)
+African Region (49): 9 039 645 (2488) / 172 980 (24)
+Cases on an international conveyance: 764 (0) / 13 (0)
+
+Confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+Grand total: 532 201 219 (574 365) / 6 305 358 (2160)
+
+--
+Communicated by:
+ProMED
+
+[Data by country, area, or territory for 10 Jun 2022 can be accessed at https://promedmail.org/wp-content/uploads/world-pdf/2022%20WHO%20Data%20Tables%20JUN10_1654975339.pdf.
+
+- The Americas region reported 43.2% of cases and 68.5% of deaths over the last 24 hours. It has reported more than 158.98 million cases, 2nd to the European region as the most severely affected region. A total of 8 countries reported more than 1000 cases, 3 of which reported more than 10 000 cases (the USA, Brazil, and Chile), 4 countries reported more than 1000 cases, and 2 countries reported more than 500 but fewer than 1000 cases.
+
+- The European region reported 28.8% of cases and 12.7% of deaths over the last 24 hours. It is the most affected region with cumulative cases exceeding 222.41 million. Some countries reporting few or no cases in the last 24 hours or longer include the UK, Turkey, Spain, Ukraine, Belgium (9 cases), Switzerland, and Tajikistan. A total of 10 countries reported more than 1000 cases in the past 24 hours; of these 4 countries reported more than 10 000 and 6 reported over 1000 cases, while 2 countries reported more than 500 but fewer than 1000 cases.
+
+- The Eastern Mediterranean region reported no cases and deaths during the past 24 hours, having reported a cumulative total of more than 21.80 million cases.
+
+- The African region reported 0.43% of cases and 1.1% of deaths during the past 24 hours, having reported a cumulative total of more than 9.03 million cases. South Africa (1976) reported the highest number of cases over the last 24 hours followed by Kenya. A total of 38 countries did not report any cases over the last 24 hours.
+
+- The Western Pacific region reported 25.4% of daily case numbers and 15.2% of deaths in the past 24 hours, having reported a cumulative total of more than 61.73 million cases. China (73 344) reported the highest number of cases over the last 24 hours followed by Australia, Japan, South Korea, New Zealand, Singapore, Malaysia, and Viet Nam.
+
+- The South East Asia region reported 1.9% of the daily newly reported cases and 2.3% of reported deaths in the past 24 hours, having reported a cumulative total of more than 58.21 million cases. India (7584) reported the highest number of cases followed by Thailand (2836) and Indonesia (627). Maldives, North Korea, and Bhutan, among others, did not report cases over the last 24 hours.
+
+On the Overview tab at the WHO source URL, the epidemic curve of confirmed COVID-19 cases by WHO region, 30 Dec 2019 through 10 Jun 2022, is an excellent visual representation of the pandemic. - Mod.UBA]
+
+******
+[5] Global update: Worldometer accessed 10 Jun 2022 22:57 EST (GMT-5)
+Date: Fri 10 Jun 2022
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at https://promedmail.org/wp-content/uploads/world-pdf/2022%20WORLDDATAJUNE10_1654975359.pdf.
+
+A 7-day series of cumulative data reported by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/2022%20JUNE10WORLD7_1654975377.pdf. - Mod.UBA]
+
+Total number of reported cases: 539 820 339
+Total number of reported deaths: 6 329 914
+Number of newly confirmed cases in the past 24 hours: 630 972
+
+--
+Communicated by:
+ProMED
+
+[In the past 24 hours, 11 countries: the USA (131 569), Germany (74 908), Taiwan (68 293), Brazil (56 491), North Korea (42 810), Spain (42 456), Australia (33 358), Portugal (22 145), Italy (22 012), Japan (15 790), and Chile (12 964) reported the highest numbers of cases, all reporting more than 10 000 newly confirmed cases. A global total of 1714 deaths were reported in the preceding 24 hours (late 8 Jun 2022 to late 9 Jun 2022).
+
+A total of 34 countries reported more than 1000 cases in the past 24 hours; 16 of the 34 countries are from the European region, 8 are from the Americas region, 1 from the Eastern Mediterranean region, 6 are from the Western Pacific region, 2 are from the South East Asia region, and 1 is from the African region.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, case counts have increased by 33.3%, while daily reported deaths have increased by 17.3%. Comparative 7-day averages in the USA show a 22.3% increase in daily reported cases and a 16.9% increase in reported deaths.
+
+Impression: The global daily reported over 0.63 million newly confirmed infections in the past 24 hours with over 539.82 million cumulative reported cases and more than 6.32 million reported deaths. - Mod.UBA]
+See Also
+COVID-19 update (138): MIS-C, children, Novavax, origin, South Asia, WHO, global 20220611.8703804
+COVID-19 update (137): long COVID, police deaths, vaccines, WHO, global 20220611.8703803
+COVID-19 update (136): deaths, new variants, vaccine, WHO, global 20220609.8703761
+COVID-19 update (135): N.Korea, France, sleep, antibody test, WHO, global 20220608.8703735
+COVID-19 update (134): Paxlovid studies, boosters, N. Korea, WHO, global 20220605.8703674
+COVID-19 update (133): end of COVID, Portugal, India, Pfizer, S Asia, WHO, global 20220603.8703661
+COVID-19 update (132): pandemic end, Shanghai, masks, WHO, global 20220603.8703642
+COVID-19 update (131): long COVID, cardiac care, comment, WHO, global 20220601.8703623
+COVID-19 update (130): surveill., cardiac eff., long COVID subtypes, WHO, global 20220601.8703606
+COVID-19 update (120): N Korea, pandemic exit, youth vaccine, US deaths, WHO 20220518.8703327
+COVID-19 update (110): mutations, mental health, China, S Africa, Paxlovid, WHO 20220505.8703018
+COVID-19 update (100): vacc. intervals, deaths, long COVID, subvariants, global 20220420.8702717
+COVID-19 update (90): strategy, 2nd booster, WHO 20220407.8702454
+COVID-19 update (80): animal, USA, deer, transmission 20220325.8702212
+COVID-19 update (70): case count, UK, BA.2, USA, WHO, global 20220312.8701940
+COVID-19 update (60): animal, China, origin, research 20220227
+COVID-19 update (50): Hong Kong, estrogen risk, maternal vaccine benefits, WHO 20220217.8701501
+COVID-19 update (40): Denmark, rosemary, pregnancy, stroke, WHO 20220205.8701276
+COVID-19 update (30): variants in immuno-comp., stability, endemic, WHO 20220126.8701074
+COVID-19 update (20): Africa vacc., Taiwan, waning immunity, persistence, global 20220117.8700915
+COVID-19 update (10): animal, omicron origin statement, OIE 20220110.8700763
+COVID-19 update (01): omicron severity & changes, Germany, T-cell reactivity 20220101.8700616
+2021
+----
+COVID-19 update (452): rapid test, omicron, Ab neutralization, school, WHO 20211230.8700597
+COVID-19 update (451): animal, USA, wild deer 20211230.8700589
+COVID-19 update (450): maternal Abs, CDC isolation guidance, WHO 20211230.8700575
+COVID-19 update (400): animal, sheep, research, experimental infection 20211121.8699806
+COVID-19 update (350): boosters, deaths, cases, vaccines, WHO 20211014.8699041
+COVID-19 update (300): Norway, myocarditis, schools, new variant C.1.2, WHO 20210901.8638460
+COVID-19 update (200): animal, China, origin 20210608.8433657
+COVID-19 update (100): antibodies, vaccine, Thailand, Cambodia, WHO, global 20210316.8250009
+COVID-19 update (50): UK vaccine study, Brazil reinfection, WHO 20210205.8167161
+COVID-19 update (01): variants, vaccine, Thailand, global, WHO 20210101.80629382020
+2020
+----
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+COVID-19 update (562): viral load, UK vacc dose, ECDC, WHO 20201231.8061525
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia: China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia: China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+----
+Undiagnosed pneumonia: China (HU): RFI 20191230.686415
+.................................................sb/lk/mpp/uba/rd/may/lxl
+</body>

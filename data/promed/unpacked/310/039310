@@ -1,0 +1,653 @@
+<header id=039310>
+Published Date: 2020-03-01 18:13:57 EST
+Subject: PRO/AH/EDR> COVID-19 update (24): global, more imports, apps, USA silent transmission, WH4
+Archive Number: 20200301.7039103
+</header>
+<body id=039310>
+CORONAVIRUS DISEASE 2019 UPDATE (24): GLOBAL, MORE IMPORTATIONS TO NEW COUNTRIES, APPS FOR TRACING CASE MOVEMENTS, USA (WASHINGTON STATE) SILENT TRANSMISSION, WHO
+******************************************************************************************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] Global update: Johns Hopkins CSSE [accessed at 7:30 p.m. GMT-5]
+[2] China: China National Health Commission 1 Mar 2020
+[3] Countries with notable local transmission (South Korea, Italy, Iran)
+[4] New countries confirming cases
+[5] South Korea: Apps to avoid coronavirus
+[6] China - Clinical characteristics
+[7] USA Washington State silent transmission
+[8] Selected media reports of interest: Thailand, Australia 1st deaths
+[9] WHO situation report 40 (as of 1 Mar 2020)
+
+******
+[1] Global update: Johns Hopkins CSSE [accessed at 8:30 p.m. GMT-5]
+Date: Sun 1 Mar 2020
+Source: Johns Hopkins CSSE (Center for Systems Science and Engineering) [edited]
+https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
+
+
+Confirmed cases 2 Feb 2020 / 3 Feb 2020 / 4 Feb 2020 (early) / 4 Feb 2020 (end of day) / 5 Feb 2020 / 6 Feb 2020 / 7 Feb 2020 / 8 Feb 2020 / 9 Feb 2020 early / 9 Feb 2020 late / 10 Feb 2020 / 11 Feb 2020 / 12 Feb 2020 / 13 Feb 2020 / 14 Feb 2020 / 15 Feb 2020 / 16 Feb 2020 / 17 Feb 2020 / 18 Feb 2020 / 19 Feb 2020 / 20 Feb 2020 / 21 Feb 2020 / 22 Feb 2020 / 23 Feb 2020 / 24 Feb 2020 / 25 Feb 2020 / 26 Feb 2020/ 27 Feb 2020 / 28 Feb 2020 / 29 Feb 2020 / 1 Mar 2020 / Country / Region
+
+17 187 / 19 693 / 20 636 / 23 746 / 27 396 / 30 553 / 34 524 / 37 174 / 37 199 / 40 157 / 42 310 / 44 414 / 59 789 / 63 842 / 66 343 / 68 386 / 70 510 / 72 365 / 74 135 / 74 576 / 75 004 / 75 906 / 76 936 / 76 944 / 77 657 / 77 663 / 78,486 / 78 817 / 79 251 / 79 822 / 80 024 / Mainland China
+20 / 20 / 20 / 22 / 22 / 45 / 25 / 25 / 26 / 26 / 26 / 26 / 26 / 28 / 28 / 29 / 43 / 59 / 66 / 74 / 84 / 94 / 105 / 122 / 147 / 159 / 170 / 189 / 214 / 228 / 241 / 256 / Japan
+19 / 19 / 19 / 25 / 25 / 25 / 25 / 32 / 32 / 32 / 32 / 33 / 33 / 33 / 33 / 33 / 34 / 35 / 35 / 35 / 35 / 35 / 35 / 35 / 35 / 37 / 40 / 40 / 41 / 42 / 42 / Thailand
+18 / 18 / 18 / 24 / 28 / 28 / 30 / 40 / 40 / 43 / 45 / 47 / 50 / 58 / 67 / 72 / 75 / 77 / 81 / 84 / 84 / 85 / 85 / 89 / 89 / 91 / 93 / 93 / 93 / 102 / 106 / Singapore
+15 / 15 / 15 / 17 / 21 / 24 / 26 / 26 / 26 / 36 / 38 / 49 / 50 / 53 / 56 / 56 / 57 / 60 / 62 / 63 / 68 / 68 / 69 / 74 / 79 / 85 / 91 / 93 / 94 / 95 / 96 / Hong Kong
+15 / 15 / 15 / 16 / 19 / 23 / 24 / 25 / 25 / 27 / 27 / 28 / 28 / 28 / 28 / 28 / 29 / 30 / 31 / 31 / 104 / 204 / 433 / 602 / 833 / 1146 / 1595 / 1766 / 2337 / 3526 / 3726 / South Korea
+12 / 12 / 12/ 13 / 13 / 14 / 15 / 15 / 15 / 15 / 15 / 15 / 15 / 15 / 15 / 15 / 15 / 15 / 15 / 15 / 15 / 19 / 22 / 22 / 22 / 22 / 22 / 23 / 23 / 25 / 27 / Australia
+10 / 12 / 12 / 12 / 12 / 12 / 13 / 13 / 15 / 14 / 14 / 16 / 16 / 16 / 16 / 16 / 16 / 16 / 16 / 16 / 16 / 16 / 16 / 16 / 16 / 18 / 27 / 48 / 48 / 79 / 130 / Germany
+10 / 10 / 10 / 11 / 11 / 16 / 16 / 17 / 17 / 18 / 18 / 18 / 18 / 18 / 18 / 18 / 20 / 22 / 22 / 24 / 24 / 26 / 26 / 28 / 30 / 31 / 32 / 32 / 34 / 39 / 40 / Taiwan
+11 / 11 / 11 / 11 / 12 / 12 / 12 / 12 / 12 / 12 / 12 / 13 / 13 / 15 / 15 / 15 / 15 / 15 / 29 / 15 / 15 / 35 / 35 / 35 / 53 / 57 / 60 / 60 / 62 / 70 / 76 / USA
+8 / 8 / 10 / 10 / 10 / 10 / 10 / 10 / 10 / 10 / 10 / 10 / 10 / 10 / 10 / 10 / 10 / 10 / 10 / 10 / 10 / 10 / 10 / 10 / 10 / 10 / 10 / 10 / 10 / 10 / 10 / Macau
+8 / 8 / 10 / 10 / 12 / 12 / 12 / 16 / 16 / 18 / 18 / 18 / 19 / 19 / 22 / 22 / 22 / 22 / 22 / 22 / 22 / 22 / 22 / 22 / 22 / 22 / 23 / 23 / 25 / 29 / Malaysia
+6 / 6 / 6 / 6 / 6 / 6 / 6 / 11 / 11 / 11 / 11 / 11 / 11 / 11 / 12 / 12 / 12 / 12 / 12 / 12 / 12 / 12 / 12 / 12 / 14 / 18 / 38 / 57 / 100 / 130 / France
+6 / 8 / 8 / 8 / 8 / 10 / 10 / 13 / 13 / 14 / 14 / 15 / 16 / 16 / 16 / 16 / 16 / 16 / 16 / 16 / 16 / 16 / 16 / 16 / 16 / 16 / 16 / 16 / 16 / Viet Nam
+5 / 5 / 5 / 5 / 5 / 5 / 5 / 7 / 7 / 7 / 8 / 8 / 8 / 8 / 8 / 8 / 9 / 9 / 9 / 9 / 9 / 9 / 13 / 13 / 13 / 13 / 13 / 13 / 19 / 21 / 21 / United Arab Emirates
+4 / 4 / 4 / 4 / 5 / 5 / 7 / 7 / 7 / 7 / 7 / 7 / 7 / 7 / 7 / 7 / 7 / 8 / 8 / 8 / 8 / 9 / 9 / 9 / 10 / 11 / 11 / 13 / 14 / 20 / 24 / Canada
+2 / 2 / 2 / 2 / 2 / 2 / 3 / 3 / 3 / 3 / 3 / 3 / 3 / 3 / 3 / 3 / 3 / 3 / 3 / 3 / 3 / 20 / 79 / 155 / 229 / 322 / 453 / 655 / 888 / 1128 / 1694 / Italy
+2 / 2 / 2 / 2 / 2 / 2 / 2 / 2 / 2 / 2 / 2 / 2 / 2 / 2 / 2 / 2 / 2 / 2 / 2 / 2 / 2 / 2 / 2 / 2 / 2 / 2 / 2 / 2 / 2 / 2 / 2 / Russia
+2 / 2 / 2 / 2 / 2 / 2 / 3 / 3 / 3 / 3 / 3 / 3 / 3 / 3 / 3 / 3 / 3 / 3 / 3 / 3 / 3 / 3 / 3 / 3 / 3 / 3 / 3 / 3 / 3 / 3 / 3 / Philippines
+2 / 3 / 3 / 3 / 3 / 3 / 3 / 3 / 3 / 3 / 3 / 3 / 3 / 3 / 3 / 3 / 3 / 3 / 3 / 3 / 3 / 3 / 3 / 3 / 3 / 3 / 3 / 3 / 3 / 3 / 3 / India
+2 / 2 / 2 / 2 / 2 / 2 / 3 / 3 / 3 / 3 / 8 / 8 / 9 / 9 / 9 / 9 / 9 / 9 / 9 / 9 / 9 / 9 / 9 / 9 / 13 / 13 / 13 / 16 / 20 / 23 / 36 / UK
+1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / Nepal
+1 / 1 / 1 / 1/ 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / Cambodia
+1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 2 / 2 / 2 / 2 / 2 / 2 / 2 / 2 / 2 / 2 / 2 / 2 / 2 / 2 / 2 / 2 / 6 / 13 / 15 / 32 / 45 / 84 / Spain
+1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 2 / 2 / 2 / 3 / 6 / Finland
+1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 2 / 7 / 7 / 12 / 14 / Sweden
+1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / Sri Lanka
+0 / 0 / 0 / 1 / 1 / 1 / 1 / 1 / 1/ 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 2 / Belgium
+0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 2 / Egypt
+0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 2 / 5 / 18 / 28 / 43 / 61 / 95 / 139 / 245 / 388 / 593 / 978 / Iran
+0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 1 / 1 / 1 / 1 / 1 / 2 / 2 / 2 / 4 / 10 / Lebanon
+0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 1 / 1 / 1 / 1 / 1 / 2 / 3 / 4 / 7 / 10 / Israel
+0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 2 / 0 / 0 / 2 / 2 / 4 / 4 / 4 / 6 / 6 / Oman
+0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 2 / 0 / 0 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / Afghanistan
+0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 2 / 0 / 0 / 1 / 11 / 26 / 43 / 45 / 45 / 45 / Kuwait
+0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 2 / 0 / 0 / 1 / 23 / 33 / 33 / 36 / 41 / 47 / Bahrain
+0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 2 / 0 / 0 / 1 / 1 / 5 / 7 / 7 / 13 / 19 / Iraq
+0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 2 / 0 / 0 / 0 / 2 / 2 / 3 / 3 / 9 / 14 / Austria
+0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 2 / 0 / 0 / 0 / 1 / 1 / 1 / 1 / 1 / 3 / Algeria
+0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 2 / 0 / 0 / 0 / 1 / 3 / 3 / 5 / 6 / 7 / Croatia
+0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 2 / 0 / 0 / 0 / 1 / 1 / 8 / 8 / 18 / 27 / Switzerland
+0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 2 / 0 / 0 / 0 / 0 / 2 / 2 / 2 / 4 / 4 / Pakistan
+0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 2 / 0 / 0 / 0 / 0 / 1 / 1 / 6 / 15 / 19 / Norway
+0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 2 / 0 / 0 / 0 / 0 / 1 / 1 / 1 / 1 / 3 / Georgia
+0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 2 / 0 / 0 / 0 / 0 / 1 / 1 / 1 / 1 / 1 / North Macedonia
+0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 2 / 0 / 0 / 0 / 0 / 1 / 1 / 1 / 2 / 2 / Brazil
+0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 2 / 0 / 0 / 0 / 0 / 1 / 1 / 3 / 3 / 3 / Romania
+0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 2 / 0 / 0 / 0 / 0 / 1 / 3 / 4 / 4 / 7 / Greece
+0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 2 / 0 / 0 / 0 / 0 / 0 / 1 / 1 / 1 / San Marino
+0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 2 / 0 / 0 / 0 / 0 / 0 / 1 / 1 / 6 / 10 / Netherlands
+0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 2 / 0 / 0 / 0 / 0 / 0 / 1 / 1 / 3 / 4 / Denmark
+0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 2 / 0 / 0 / 0 / 0 / 0 / 1 / 1 / 1 / 1 / Estonia
+0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 2 / 0 / 0 / 0 / 0 / 0 / 0 / 1 / 1 / 1 / Lithuania
+0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 2 / 0 / 0 / 0 / 0 / 0 / 0 / 1 / 1 / North Ireland
+0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 2 / 0 / 0 / 0 / 0 / 0 / 0 / 1 / 1 / 1 / Nigeria
+0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 2 / 0 / 0 / 0 / 0 / 0 / 0 / 1 / 1 / 1 / Iceland
+0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 2 / 0 / 0 / 0 / 0 / 0 / 0 / 1 / 1 / 3 / Azerbaijan
+0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 2 / 0 / 0 / 0 / 0 / 0 / 0 / 1 / 1 / 1 / Monaco
+0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 2 / 0 / 0 / 0 / 0 / 0 / 0 / 1 / 1 / 1 / Belarus
+0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 2 / 0 / 0 / 0 / 0 / 0 / 0 / 1 / 1 / 1 / New Zealand
+0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 2 / 0 / 0 / 0 / 0 / 0 / 0 / 1 / 4 / 5 / Mexico
+0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 2 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 1 / 6 / Ecuador
+0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 2 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 1 / 3 / Qatar
+0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 2 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 3 / Czech Republic
+0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 2 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 1 / 1 / Ireland
+0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 2 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 1 / 1 / Armenia
+0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 2 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 1 / Dominican Republic
+0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 2 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 0 / 1 / Luxembourg
+
+0 / 0 / 0 / 10 / 20 / 41 / 61 / 64 / 64 / 135 / 135 / 175 / 218 / 218 / 285 / 355 / 454 / 542 / 621 / 634 / 634 / 634 / 691 / 691 / 691 / 705 / 705 / 705 / 705 / 705 / Others (Diamond Princess)
+
+Total number of reported deaths: 3038
+Deaths outside of Mainland China: 126 [including 6 from the Diamond Princess]
+Iran: 54
+South Korea: 17
+Hong Kong: 2
+Italy: 34
+Diamond Princess: 6
+France: 2
+Japan: 6
+Philippines: 1
+Taiwan: 1
+USA: 1
+Australia: 1
+Thailand: 1
+
+
+Data sources: WHO, CDC, ECDC, NHC, and DXY
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[As mentioned previously, this website is constantly updated as new information comes in, so it is likely that when you read this post, the numbers will not match the linked numbers because they will have been updated since the post was prepared.
+
+According to the data on the Johns Hopkins website, there are now a total of 8562 confirmed cases of COVID-19 reported from 68 countries/locations outside mainland China, representing an increase of 1794 cases reported in the past 24 hours, with South Korea accounting for 586 of the newly reported cases, Italy accounting for 566 of the newly reported cases, and Iran accounting for 385 of the newly reported cases. There has been a global total of 3038 reported deaths, of which 126 were reported from outside of Mainland China. Other countries experiencing increases of more than 10 cases include Japan, 15 new cases; Germany, 51 cases; France, 30 new cases; UK 13 new cases, and Spain, 39 new cases, .
+
+For the 5th consecutive day, more cases have been reported from outside of Mainland China than within Mainland China. - Mod.MPP]
+
+******
+[2] China: China National Health Commission 28 Feb 2020
+Date: Sun 1 Mar 2020
+Source: China National Health Commission [in Chinese, machine trans. edited]
+http://www.nhc.gov.cn/xcs/yqtb/202003/5819f3e13ff6413ba05fdb45b55b66ba.shtml
+
+
+At 04:00 on [1 Mar 2020], 31 provinces (autonomous regions, municipalities) and the Xinjiang Production and Construction Corps reported 202 new confirmed cases, 42 new deaths (42 in Hubei), and 141 new suspected cases.
+
+On the same day, 2837 cases were cured and discharged, 8154 were close contacts of medical observation, and 255 severe cases were reduced.
+
+As of 24:00 on [1 Mar 2020], according to reports from 31 provinces (autonomous regions, municipalities) and the Xinjiang Production and Construction Corps, there were 32 652 confirmed cases (of which 7110 were severe cases), 44 462 were cured and discharged, and 2912 had died. A total of 80 026 confirmed cases have been reported, and 715 suspected cases have been reported. A total of 663 240 close contacts were traced, and 46 219 close contacts were still in medical observation.
+
+There were 196 new confirmed cases in Hubei (193 in Wuhan), 2570 new cases cured and discharged in Wuhan (1958), 42 new deaths (32 in Wuhan), and 30 543 confirmed cases (25 903 in Wuhan). There were 6872 severe cases (6225 cases in Wuhan). A total of 33 757 discharged patients were cured (21 185 in Wuhan), a total of 2803 deaths (2227 in Wuhan), and a total of 67 103 confirmed cases (49 315 in Wuhan). There were 80 new suspected cases (70 in Wuhan) and 527 suspected cases (340 in Wuhan).
+
+A total of 148 confirmed cases were reported from Hong Kong, Macao and Taiwan: 98 in the Hong Kong Special Administrative Region (36 discharged, 2 died), 10 in the Macau Special Administrative Region (8 discharged), and 40 in Taiwan (12 discharged, 1 died).
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+and
+ProMED-mail Rapporteur Kunihiko Iizuka
+
+[According to the report above, there have now been a total of 80 026 cases of confirmed COVID-19 reported from China, representing an increase of 202 cases in the past 24 hours, of which 196 (92.1%) were in Hubei province. In addition, there were 42 deaths reported, with all deaths reported from Hubei. There were 3 new cases reported from Hong Kong.
+
+A good map of China showing provinces can be found at https://www.chinadiscovery.com/china-maps/china-provincial-map.html, and a HealthMap/ProMED-mail map can be seen at https://promedmail.org/promed-post?place=7039103,155. - Mod.MPP]
+
+******
+[3] Countries with notable local transmission (South Korea, Italy, Iran)
+A. South Korea: 3736 total cases, 18 deaths
+Official report from KCDC
+Date: Sun 1 Mar 2020
+Source: Ministry of Health and Welfare, Korean CDC [in Korean, machine trans., edited]
+http://www.mohw.go.kr/react/al/sal0301vw.jsp?PAR_MENU_ID=04&MENU_ID=0403&page=1&CONT_SEQ=353264
+
+
+Data taken from a table on the website of the Korean MOHW (Ministry of Health and Welfare). Data source: Korean CDC
+
+Date and time:
+[29 Feb 2020 16:00 (4:00 PM) KT 3150 confirmed cases, 17 deaths]
+1 Mar 2020 9:00 AM KT 3526 confirmed cases, 17 deaths
+1 Mar 2020 16:00 (4:00 PM) KT 3736 confirmed cases, 18 deaths
+
+Change: 586 newly confirmed infections; 1 new death from 29 Feb 2020 16:00 (4 PM) reported cases among previously confirmed cases
+
+Distribution of cases by province: total case / change from 16:00 (4 PM) 29 Feb 2020 to 16:00 (4 PM) 1 Mar 2020
+Seoul 87 / 10
+Busan 83 / 3
+Dae-gu 2705 / 409
+Incheon 6 / 0
+Gwangju 9 / 0
+Daejeon 13 / 0
+Ulsan 20 / 3
+Sejong 1 / 0
+Gangwan 15 / 8
+Gyeonggi 89 / 7
+Gyeongbuk 555 / 67
+Gyeongnam 63 / 4
+Chungbuk 11 / 1
+Chungnam 68 / 20
+Jeonbuk 6 / 1
+Jeonnam 3 / 0
+Jeju 2 / 0
+
+Total: 3736 / 533 [I cannot find where the discrepancy is in these numbers]
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[In the past 24 hours, the tally of confirmed cases of COVID-19 in South Korea has increased by 586 cases and 1 death.
+
+Dae-gu province and Gyeongbuk provinces have reported the highest number of cases, 2705 and 555, respectively. Dae-gu is completely surrounded by Gyeongbuk province in the central eastern part of South Korea. Dae-gu has been the epicenter of this ongoing outbreak.
+
+A good map showing provinces in South Korea can be found at https://www.nationsonline.org/oneworld/map/korea-south-administrative-map.htm. - Mod.MPP]
+
+---
+B. Italy: 1577 cases 29 deaths
+Date: Sun 1 Mar 2020
+Source: Italian Government Health Ministry [in Italian, machine trans, edited]
+http://www.salute.gov.it/portale/news/p3_2_1_1_1.jsp?lingua=italiano&menu=notizie&p=dalministero&id=4135
+
+
+In the field of health monitoring related to the spread of coronavirus on the national territory, at the moment, 1577 people have tested positive for the virus. 83 people have been healed.
+
+The number of people infected in the individual regions is as follows:
+984 in Lombardy,
+285 in Emilia-Romagna,
+263 in Veneto,
+49 in Piedmont,
+25 Marche,
+25 in Liguria,
+17 in Campania,
+13 in Tuscany,
+9 in Sicily,
+6 in Lazio,
+6 in Friuli Venezia Giulia,
+5 in Abruzzo,
+3 in Puglia,
+2 in Umbria,
+1 in Calabria and
+1 in the Autonomous Province of Bolzano.
+
+There are 639 patients hospitalized with symptoms, 140 are in intensive care, while 798 are in home isolation.
+
+34 have died; however, this number will only be confirmed after the Istituto Superiore di Sanita has established the actual cause of the deaths.
+
+--
+Communicated by:
+ProMED-mail
+<promed@rpromedmail.org>
+
+[The current tally of confirmed cases of COVID-19 in Italy is now 1577, including 34 deaths, up from 1049 cases and 29 deaths reported yesterday (29 Feb 2020). Friuli Venezia Giulia is a new province reporting cases.
+
+Italy is a major tourist point for other Europeans, with Lombardy being a major commercial hub. In addition, Italians are highly mobile and travel throughout Europe, and Italy is a major tourist location for Europeans and the Americas. See section [4] below for imported cases from Italy to other countries in Europe, a sign of this mobility.
+
+A map of Italy showing regions: https://www.mapsofworld.com/italy/regions.html. - Mod.MPP]
+
+---
+C. Iran: 978 cases, 54 deaths
+Date: Sun 1 Mar 2020
+Source: France24 [edited]
+https://www.france24.com/en/20200301-iran-raises-coronavirus-death-toll-to-54
+
+
+Iran's health ministry on Sunday [1 Mar 2020] raised the nationwide death toll from the new coronavirus to 54 as the number of confirmed infected cases jumped overnight by more than half to 978 people. The ministry's spokesman Kianoush Jahanpour said new cases were confirmed in a number of cities, including Mashhad, which is home to Iran's most important Shiite shrine that attracts pilgrims from across the region. Calls by Iran's civilian government to clerics to close such shrines to the public have not been uniformly followed. The shrine in Mashhad is among those that have remained open.
+
+The new figures represent 11 more deaths than reported on Saturday [29 Feb 2020] and a whopping 385 new cases of infections. The new numbers, however, bring down the percentage of deaths to infections to around 5.5%. Still, that is much higher than other countries, suggesting the number of infections in Iran may be much higher than current figures show. Jahanpour said in his daily briefing that the number of cases is "still [increasing]" across Iran.
+
+Of the 385 newly confirmed cases, 170 are in Tehran, where schools and cinemas have remained closed for the 2nd week. Public buses and the metro are still operating but are being disinfected daily there. Authorities also doused busy streets in the capital. The ministry spokesman said that 44 cases were also confirmed for the 1st time in the central Markazi province.
+
+Also, on Sunday [1 Mar 2020], Iran's state broadcaster said all flights to and from the city of Rasht, the capital of northern Gilan province, had been suspended. It gave no reasons why. The area of Gilan has some of Iran's highest numbers of infections after the capital, Tehran, and the holy city of Qom, the epicenter of the virus outbreak in the country.
+
+The Revolutionary Guard said it plans to install mobile hospitals in Qom and Rasht cities, where the virus has infected high numbers of people. The Guard has also been photographed in state media leading disinfection efforts in some cities.
+
+Ali Reza Jalali, the head of the Guard's medical college, told state TV that Iran is going through a "hard time and dangerous period." He claimed the group is researching a possible vaccine for the disease. There is currently no vaccine for the novel coronavirus. Researchers around the world are working to find one, but anything widely usable is likely more than a year away.
+
+After days of assurances that the virus was largely under control, officials recently acknowledged Iran is preparing for the possibility of "tens of thousands" of people getting tested for the virus.
+
+The 1st cases were not reported in Iran until [19 Feb 2020], the same day that the 2 elderly infected people died. Since then, of the more than 1100 cases in the Middle East, the majority trace back to Iran. Cases from Iran have been reported in Kuwait, Bahrain, Oman, the United Arab Emirates, Qatar, Lebanon, Afghanistan, Iraq and Pakistan. Starting on Sunday [1 Mar 2020], all nurseries in the UAE licensed by the education ministry were closed for at least 2 weeks to limit the spread of the virus, and Kuwait suspended school until [12 Mar 2020].
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[In the past 24 hours, the number of cases of COVID-19 confirmed in Iran has grown from 593 to 978, an increase of 385 newly confirmed cases. The number of fatalities has also increased from 43 to 54, an increase of 11 new fatalities.
+
+Qom, the apparent epicenter of this outbreak, is located to the southwest of Tehran in central Iran. According to this report, Markazi is a new province reporting cases. A good map of Iran showing provinces can be found at https://www.mapsofworld.com/iran/iran-political-map.html. A HealthMap/ProMED-mail map of Iran is available at https://promedmail.org/promed-post?place=7039103,128. - Mod.MPP]
+
+******
+[4] New countries confirming cases
+Date: Sat 29 Feb 2020
+
+Dominican Republic ex Italy https://listindiario.com/la-republica/2020/03/01/606407/se-registra-primer-caso-de-coronavirus-en-rd
+Czech Republic ex Italy https://medicalxpress.com/news/2020-03-czech-health-minister-coronavirus-cases.html
+[Scotland ex Italy https://www.theedinburghreporter.co.uk/2020/03/first-coronavirus-patient-diagnosed-in-scotland/]
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[Our thanks to Ryan McGinnis for keeping us informed of new infected areas.
+
+In the past 24 hours, there have been 2 new countries confirming cases of COVID-19: Both related to transmission in Italy. In addition, Scotland has also reported a case ex Italy. - Mod.MPP]
+
+******
+[5] South Korea: Apps to avoid coronavirus
+Date: Sat 29 Feb 2020
+Source: Quartz [edited]
+https://qz.com/1810651/south-koreans-are-using-smartphone-apps-to-avoid-coronavirus/
+
+
+As coronavirus cases surge in South Korea, the country is turning to smartphone apps to avoid the contagion. Recently developed apps using public government data allow users to see how close they are to where a confirmed COVID-19 patient has been. They can also see the date a patient was confirmed with the disease, demographic data about the patient, and, crucially, some of their location history.
+
+At least one app, called Corona 100m, will also alert a user if they come within 100 m (328 ft) of a location visited by someone who's had COVID-19.
+
+Developers of such offerings have seen a surge in downloads, with their apps ranked among the week's most-downloaded items in the country's Google Play app store. "The installs are increasing about 20 000 every hour," Bae Won-Seok, a creator of Corona 100m, told CNN Business. His app has been downloaded more than one million times since it was launched less than 3 weeks ago.
+
+The Korea Centers for Disease Control and Prevention reported more than 800 new coronavirus cases today ([29 Feb 2020]). That brings the number of infected in the country to 3150, the largest outbreak outside of mainland China. 71 percent of those cases are in the city of Daegu, with many linked to a religious group the government describes as a cult.
+
+South Koreans aren't alone in harnessing smartphones to combat the virus. A Japanese medical advice company has made its app free for a limited time to allow users to consult with doctors about their symptoms. The app prevents people from overtaxing medical centers and can gather advice from its roster of nearly 120 registered doctors in about 30 minutes.
+
+[Byline: Amanda Shendruk]
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[Fascinating example of creativity in our connected world. The Korean government has been publishing individual details on all confirmed cases of SARS-CoV-2 infection in the country including locations where they've been to attempt to identify potential exposure locations. It awaits to be seen whether these apps contribute to a reduction in transmission in the country or whether they are just contributing to adding to the stigma already associated with this ongoing outbreak. - Mod.MPP]
+
+******
+[6] China - Clinical characteristics
+Date: 28 Feb 2020
+Source: New England Journal of Medicine [edited]
+https://www.nejm.org/doi/full/10.1056/NEJMoa2002032?query=RP
+
+
+Guan WJ, Ni ZY, Hu Y, et al. Clinical Characteristics of Coronavirus Disease 2019 in China [published online ahead of print, 2020 Feb 28]. N Engl J Med. 2020;10.1056/NEJMoa2002032. doi:10.1056/NEJMoa2002032
+
+Abstract
+---
+Background
+Since December 2019, when coronavirus disease 2019 (COVID-19) emerged in Wuhan city and rapidly spread throughout China, data have been needed on the clinical characteristics of the affected patients.
+
+Methods
+We extracted data regarding 1099 patients with laboratory-confirmed Covid-19 from 552 hospitals in 30 provinces, autonomous regions, and municipalities in China through 29 Jan 2020. The primary composite end point was admission to an intensive care unit (ICU), the use of mechanical ventilation, or death.
+
+Results
+The median age of the patients was 47 years; 41.9% of the patients were female. The primary composite end point occurred in 67 patients (6.1%), including 5.0% who were admitted to the ICU, 2.3% who underwent invasive mechanical ventilation, and 1.4% who died. Only 1.9% of the patients had a history of direct contact with wildlife. Among nonresidents of Wuhan, 72.3% had contact with residents of Wuhan, including 31.3% who had visited the city. The most common symptoms were fever (43.8% on admission and 88.7% during hospitalization) and cough (67.8%). Diarrhea was uncommon (3.8%). The median incubation period was 4 days (interquartile range, 2 to 7). On admission, ground-glass opacity was the most common radiologic finding on chest computed tomography (CT) (56.4%). No radiographic or CT abnormality was found in 157 of 877 patients (17.9%) with non-severe disease and in 5 of 173 patients (2.9%) with severe disease. Lymphocytopenia was present in 83.2% of the patients on admission.
+
+Conclusions:
+During the 1st 2 months of the current outbreak, COVID-19 spread rapidly throughout China and caused varying degrees of illness. Patients often presented without fever, and many did not have abnormal radiologic findings (Funded by the National Health Commission of China and others).
+
+--
+Communicated by:
+Ryan McGinnis
+<ryan@digicana.com>
+
+******
+[7] USA Washington State - silent transmission
+Date: 1 Mar 2020
+Source: NY Times
+https://www.nytimes.com/2020/03/01/health/coronavirus-washington-spread.html?action=click&module=Top%20Stories&pgtype=Homepage
+
+
+Coronavirus May Have Spread in U.S. for Weeks, Gene Sequencing Suggests
+------------------------------------------
+Two cases detected weeks apart in Washington State had genetic links, suggesting that many more people in the area may be infected. Researchers who have examined the genomes of 2 coronavirus infections in Washington State say the similarities between the cases suggest that the virus may have been spreading in the state for weeks.
+
+Washington had the United States' 1st confirmed case of coronavirus, announced by the Centers for Disease Control and Prevention on [20 Jan 2020]. Based on an analysis of the virus's genetic sequence, another case that surfaced in the state and was announced on Friday [28 Feb 2020] probably was descended from that 1st case.
+
+The 2 people live in the same county, but are not known to have had contact with one another, and the 2nd case occurred well after the 1st would no longer be expected to be contagious. So the genetic findings suggest that the virus has been spreading through other people in the community for close to 6 weeks, according to one of the scientists who compared the sequences, Trevor Bedford, an associate professor at the Fred Hutchinson Cancer Research Center and the University of Washington.
+
+Dr. Bedford said it was possible that the 2 cases could be unrelated, and had been introduced separately into the United States. But he said that was unlikely, however, because in both cases the virus contained a genetic variation that appears to be rare -- it was found in only 2 of the 59 samples whose sequences have been shared from China, where the virus originated.
+
+A scientist who was not involved in the analysis said he agreed with the conclusion that the 2nd case was connected to the original Washington case. "I think he's right," said Andrew Rambaut, professor of molecular evolution at the University of Edinburgh, referring to Dr. Bedford. "It's extremely unlikely that 2 viruses coming from outside the U.S.A. independently would arrive in the same geographical area and be genetically related unless they were connected."
+
+State and local health officials have been hamstrung in their ability to test widely for the coronavirus. Until very recently, the C.D.C. had insisted that only its test could be used, and only on patients who met specific criteria -- those who had traveled to China within 14 days of developing symptoms or had contact with a known coronavirus case.
+
+If the virus has been spreading undetected in Washington since mid-January [2020], that could mean that anywhere from 150 to 1,500 people may have it, with about 300 to 500 people the most likely range, said Dr. Mike Famulare, a principal research scientist at the Institute for Disease Modeling in Bellevue, Wa., who performed the analysis. These people "have either been infected and recovered, or currently are infected now," he said. Many of those people would now be in the early stages of incubating the virus, and might not yet be contagious, Dr. Famulare said.
+
+Dr. Famulare's estimate was based on a simulation using what scientists have learned about the incubation period and transmissibility of the virus. He called his figures a "best guess, with broad uncertainty." Another method, based on the size of the local population, the number of tests performed and the proportion of those that were positive, produced similar estimates of how widely the virus may have spread in the community.
+
+The scientists immediately reported the genomic sequence and their findings to state and federal health officials. Dr. Scott Lindquist, the state epidemiologist for communicable diseases with the Washington State Department of Health, said on Sunday [1 Mar 2020] that though Dr. Bedford's laboratory had "very limited" data to work with, "I would not be surprised if there was transmission and these 2 were related." Dr. Lindquist said more would be known when genetic sequences from the state's other cases have been similarly analyzed. "Seeing how they all relate to each other will be the real answer to the question of, has it been circulating," he said. "I imagine within the week we should have some of these answers."
+
+Heather Thomas, a spokeswoman for the Snohomish Health District, said in a statement that the district was aware of the preliminary findings suggesting that coronavirus had been spreading for close to 6 weeks. She said that it was important to remember that national testing capabilities have only been available for about 6 weeks, and in Washington, health personnel have only had the ability to test locally for a few days. "It is definitely possible that Covid-19 has been circulating, with people experiencing mild symptoms just like the flu,'' she said. The C.D.C. did not respond to a request for comment.
+
+The 1st patient, a man in his 30s, has recovered after being treated in a hospital isolation unit. The later patient, a teenager, had a mild enough illness to recuperate at home. According to a statement by the Snohomish Health District, the teenager was unaware that he was being tested for the coronavirus. His case came to light on Friday [28 Feb 2020] because he went to a clinic on [24 Feb 2020] to be tested for the flu, and his sample was shared with the Seattle Flu Study, which tested it for a variety of pathogens including the new coronavirus. Tests have been performed on about 1000 samples from the study, Dr. Lindquist said, with only 1 positive result thus far. "So it's not like it's super prevalent," he said of the virus.
+
+"I do think, as more community cases start popping up in the United States, this approach and technique could prove very useful to figuring out the extent of community transmission we currently are having," Dr. Bedford said of the genetic analysis. Similar analyses have helped public health officials trace cases and fight outbreaks of Ebola in West Africa and the Democratic Republic of Congo.
+On Saturday, local health officials in Seattle said that delays in being able to test for the virus had slowed identification of community cases, meaning those who did not travel to places with major outbreaks or have contact with known patients. "If we had the ability to test earlier, I'm sure we would have been able to identify patients earlier," said Dr. Jeffrey Duchin, health officer for Seattle and King County. Two more confirmed cases in the state were announced on Sunday [1 Mar 2020].
+
+The genomic technique used to compare the viruses is akin to constructing a family tree. "As a virus passes from person to person, there will be errors that occur" as copies of the virus are made, Dr. Bedford said. To explain, he compared the tiny mutations in the genetic sequence to mistakes made during a game of telephone. "Those can link up," he said.
+
+The 1st case had 1 genetic difference from the original virus that was detected in Wuhan. The new case had that mutation, plus 3 additional ones. More than 125 genomes derived from samples taken from coronavirus patients around the world have been shared among scientists thus far, providing data for the analysis.
+
+In the 1st case in Washington, the man in his 30s had been traveling in Wuhan, China, and returned home to Snohomish County, Wash., on [15 Jan 2020]. He sought medical care a few days later after developing symptoms and suspecting that he might have the coronavirus, officials have said, and tests later came back positive. Health officials then scrambled to retrace his history, tracking down 8 people he had socialized with at a group lunch and 37 more who were in the clinic when he showed up for medical help. They also reached out to people on his flight back to the United States. But as the man remained in hospital isolation, and then later returned home, officials reported no new cases in Washington state. They tested 2 dozen people over a span of 5 weeks, and all came back negative.
+
+That changed this week, when the state laboratory became able to test for the virus. Officials reported 2 new confirmed cases Friday [28 Feb 2020] night, and then more, including the 1st patient to die of the virus in the United States. They are now working to trace how the cases in the state might be linked, and who else might have been exposed. Two cases have been detected at a skilled nursing facility in Kirkland, Wash., where officials said dozens of other people also had symptoms that could be a sign of coronavirus infection but could also be symptoms of flu.
+
+Gov. Jay Inslee of Washington has declared a state of emergency, and said officials may need to take steps like canceling sporting events and closing schools to slow the spread of the virus in the community.
+
+[Byline: Sheri Fink and Mike Baker]
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The fact that these cases did not have a traceable epidemiologic link to areas where there Is known ongoing transmission of the SARS-CoV-2 (the virus that causes COVID-19) is a clue that the virus has most likely been circulating undetected in Washington State. The information provided by the researchers is tantalizing, it will be an even stronger case if more patients in Washington State where there was no identifiable epidemiologic link can have genomic sequencing of the the viruses responsible for their illnesses to see if this holds up with increasing the sample size studied.
+
+Unfortunately, with limited testing capabilities over the initial weeks following the identification of the outbreak in China, testing was geared towards identifying cases with known high risk exposures, either contact with Wuhan China (or individuals from Wuhan, China) or contact with other individuals with confirmed SARS-CoV-2 infection, and would not have detected community based transmission for those individuals with no known contact with pre-identified high risk exposures. A good case study on "seek and ye shall find" or its corollary "don't look and it ain't there" ....lessons learned...- Mod.MPP]
+
+******
+[8] Selected media reports of interest
+Thailand, Australia 1st deaths
+Date: Sun 1 Mar 2020
+Source: Straits Times [edited]
+https://www.straitstimes.com/world/in-brief-thailand-australia-record-first-deaths
+
+
+A 35-year-old Thai man who also had dengue fever has died from coronavirus infection, Thailand's 1st death from the COVID-19 disease, Department of Disease Control director-general Suwanchai Wattanayingcharoen said yesterday [29 Feb 2020]. Separately, Australia also reported its 1st death of a coronavirus patient in a hospital in Perth early yesterday [29 Feb 2020], health official Andrew Robertson said.
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+******
+[9] WHO Situation Report 41, as of 1 Mar 2020
+Date: Sun 1 Mar 2020
+Source: WHO [edited]
+https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200301-sitrep-41-covid-19.pdf?sfvrsn=6768306d_2
+
+
+*The situation report includes information provided by national authorities as of 10 a.m. CET.
+
+Highlights
+-----
+- Five new Member States (Azerbaijan, Ecuador, Ireland, Monaco and Qatar) reported cases of COVID-19 in the past 24 hours.
+
+- Working with clinicians is crucial to understanding the clinical presentation, natural history and treatment interventions for COVID-19. WHO has published interim clinical guidance, clinical training materials and has launched a global clinical data platform to gather data and improve care for COVID-19 patients. This information is critical to inform the public health response. More information can be found in the Subject in Focus.
+
+- The number of confirmed cases in Hubei province, China has increased for 2 successive days after a period of decline. WHO is monitoring the situation and working to understand its possible significance.
+
+- WHO has published updated recommendations for international traffic in relation to the COVID-19 outbreak. They can be found at: https://www.who.int/ith/2019-nCoV_advice_for_international_traffic-rev/en/.
+
+Subject in Focus: Clinical Management of Patients with COVID-19. WHO is working closely with clinicians caring for patients with COVID-19 in China and across the globe and international experts on infectious disease to better understand, in real time, the clinical presentation, natural history and treatment interventions for COVID-19. A majority of patients with COVID-19 are adults.
+
+Among 44 672 patients in China with confirmed infection, 2.1% were below the age of 20 /1. The most commonly reported symptoms included fever, dry cough, and shortness of breath, and most patients (80%) experienced mild illness. Approximately 14% experienced severe disease, and 5% were critically ill. Early reports suggest that illness severity is associated with age (over 60 years old) and co-morbid disease.
+
+Clinical care of patients with COVID-19 focuses on early recognition, immediate isolation, and implementation of appropriate infection prevention and control (IPC) measures; provision of symptomatic care for those with mild illness; and optimized supportive care for those with severe disease. WHO has published patient management guidance (https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/patient-management), including interim clinical care guidance for hospitalized patients and home care guidance for those with mild disease that may be treated at home in isolation when the health system is strained.
+
+Oxygen therapy is the major treatment intervention for patients with severe COVID-19. All countries should work to optimize the availability of pulse oximeters and medical oxygen systems. Mortality in those with critical illness has been reported as over 50%, thus implementation of proven critical care interventions such as lung protective ventilation should be optimized. COVID-19 critical care clinical training materials are available on https://openwho.org/courses/severe-acute-respiratory-infection. The 1st regional COVID-19 Clinical Case Management training was conducted in Brazzaville from [25-28 Feb 2020] with representatives from 18 countries of the WHO African region. WHO will continue to conduct such trainings to increase global knowledge on the management and care of patients with COVID-19.
+
+WHO launched the Global COVID-19 Clinical Data Platform (https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/early-investigations) to aggregate and report on clinical severity to inform the public health response. Member States are encouraged to contribute by contacting <EDCARN@who.int> for log-in information.
+
+As there is currently no known effective antiviral therapy for COVID-19, the WHO R&D Blueprint has prioritized investigational therapeutics and developed a master randomized clinical trial protocol (https://www.who.int/blueprint/priority-diseases/key-action/multicenter-adaptive-RCT-of-investigational-therapeutics-for-COVID-19.pdf?ua=1) that can be used and adapted at the national level. There are many ongoing ethics-approved clinical trials evaluating a number of different therapeutic interventions globally including priority agents such as ritonavir/lopinavir and remdesivir.
+
+/1. Wu, Z. et al. Characteristics of and Important Lessons from the Coronavirus Disease 2019 (COVID-19) Outbreak in China; Summary of a Report of 72 314 Cases From the Chinese Center for Disease Control and Prevention. JAMA. 24 Feb 2020.
+
+[The figures provided in the report below are the figures from the National Health Commission of China from 29 Feb 2020. The 1 Mar 2020 figures are included in sections [1] and [2] above. They are usually posted between 7 and 9 p.m. (GMT-5), which is 3 a.m. (GMT+1) in Geneva. All figures from all countries are data reported to WHO. - Mod.MPP]
+
+Excerpted to show confirmed cases outside mainland China:
+
+Countries, territories or areas outside China with reported laboratory-confirmed COVID-19 cases and deaths. Data as of [29 Feb 2020].*
+
+WHO region:
+Country: Total confirmed cases (new)* / Total deaths (new) / Transmission classification** / Days since last reported case
+
+Western Pacific Region:
+China: (includes clinical and laboratory confirmed): 79 968 (579) / 2873 (35)
+Japan: 239 (9) / 5 (0) / Local transmission / 0
+Republic of Korea: 3736 (586) / 18 (1) / Local transmission / 0
+Viet Nam: 16 (0) / 0 (0) / Local transmission / 17
+Singapore: 102 (4) / 0 (0) / Local transmission / 0
+Australia: 25 (1) / 0 (0) / Local transmission / 0
+Malaysia: 24 (0) / 0 (0) / Local transmission / 2
+Cambodia: 1 (0) / 0 (0) / Imported cases only / 34
+Philippines: 3 (0) / 1 (0) / Imported cases only / 26
+New Zealand: 1 (0) / 0 (0) / Imported cases only / 2
+
+Southeast Asia Region:
+Thailand: 42 (0) / 0 (0) / Local transmission / 1
+Nepal: 1 (0) / 0 (0) / Imported cases only / 48
+Sri Lanka: 1 (0) / 0 (0) / Imported cases only / 34
+India: 3 (0) / 0 (0) / Imported cases only / 27
+
+Region of the Americas:
+United States of America: 62 (0) / 0 (0) / Local transmission / 0
+Canada: 19 (5) / 0 (0) / Local transmission / 0
+Brazil: 2 (1) / 0 / Imported cases only / 0
+Mexico: 2 (0) / 0 (0) / Imported cases only / 1
+Ecuador; 1 (1) / 0 (0) / Imported cases only / 0
+
+European Region:
+France: 100 (43) / 2 (0) / Local transmission / 0
+Finland: 2 (0) / 0 (0) / Imported cases only / 4
+Germany: 57 (0) / 0 (0) / Local transmission / 1
+Italy: 1128 (240) / 29 (8) / Local transmission / 0
+Russian Federation: 2 (0) / 0 (0) / Imported cases only / 30
+Spain: 45 (13) / 0 (0) / Local transmission / 0
+Sweden: 13 (1) / 0 (0) / Imported cases only / 0
+United Kingdom: 23 (3) / 0 (0) / Local transmission / 0
+Belgium: 1 (0) / 0 (0) / Imported cases only / 26
+Israel: 7 (2) / 0 / Imported cases only / 0
+Austria: 10 (5) / 0 (0) / Imported cases only / 0
+Croatia: 7 (2) / 0 / Local transmission / 0
+Switzerland: 18 (8) / 0 / Imported cases only / 0
+Denmark: 3 (1) / 0 (0) / Imported cases only / 0
+Estonia: 1 (0) / 0 (0) / Imported cases only / 3
+Georgia: 3 (1) / 0 (0) / Imported cases only / 0
+Greece: 3 (0) / 0 (0) / Imported cases only / 2
+North Macedonia: 1 (0) / 0 (0) / Imported cases only / 4
+Norway: 15 (9) / 0 (0) / Local transmission / 0
+Romania: 3 (0) / 0 (0) / Imported cases only / 1
+Belarus: 1 (0) / 0 (0) / Imported cases only / 2
+Lithuania: 1 (0) / 0 (0) / Imported cases only / 2
+Netherlands: 7 (5) / 0 (0) / Local transmission / 0
+San Marino: 1 (0) / 0 (0) / Local transmission / 1
+Azerbaijain: 3 (3) / 0 (0) / Imported cases only / 0
+Ireland: 1 (1) / 0 (0) / Imported cases only / 0
+Monaco: 1 (1) / (0) / Under investigation / 0
+
+Eastern Mediterranean Region:
+United Arab Emirates: 19 (0) / 0 (0) / Local transmission / 1
+Iran (Islamic Republic of): 593 (205) / 43 (9) / Local transmission / 0
+Egypt: 1 (0) / 0 (0) / Imported cases only / 16
+Lebanon: 2 (0) / 0 (0) / Imported cases only / 4
+Kuwait: 45 (0) / 0 (0) / Imported cases only / 1
+Bahrain: 40 (2) / 0 (0) / Imported cases only / 0
+Oman: 6 (0) / 0 (0) / Imported cases only / 2
+Afghanistan: 1 (0) / 0 (0) / Imported cases only / 6
+Iraq: 13 (5) / 0 (0) / Imported cases only / 0
+Pakistan: 4 (2) / 0 (0) / Imported cases only / 0
+Qatar: 1 (1) / 0 (0) / Imported cases only / 0
+
+African Region:
+Algeria: 1 (0) / 0 (0) / Imported cases only / 5
+Nigeria: 1 (0) / 0 (0) / Imported cases only / 2
+
+Other: Cases on an international conveyance (Diamond Princess)***: 705 (0) / 6 (0) / Local transmission / 4
+
+Grand total****: 7169 (1160) / 104 (18)
+
+*Case classifications are based on WHO case definitions for COVID-19.
+**Transmission classification is based on WHO analysis of available official data and may be subject to reclassification as additional data become available. Countries/territories/areas experiencing multiple types of transmission are classified in the highest category for which there is evidence; they may be removed from a given category if interruption of transmission can be demonstrated. It should be noted that even within categories, different countries/territories/areas may have differing degrees of transmission as indicated by the differing numbers of cases and other factors. Not all locations within a given country/territory/area are equally affected.
+
+Terms:
+- Community transmission is evidenced by the inability to relate confirmed cases through chains of transmission for a large number of cases, or by increasing positive tests through routine screening of sentinel samples.
+- Local transmission indicates locations where the source of infection is within the reporting location.
+- Imported cases only indicates locations where all cases have been acquired outside the location of reporting.
+- Under investigation indicates locations where type of transmission has not been determined for any cases.
+- Interrupted transmission indicates locations where interruption of transmission has been demonstrated (details to be determined).
+***Cases identified on a cruise ship currently in Japanese territorial waters.
+****278 female/393 male/6498 unknown. 31 healthcare workers (7 female / 12 male / 12 unknown).
+
+[There are excellent graphs and a map available at the source URL, as well as strategic objectives and preparedness and response information.
+- Figure 1: Countries, territories or areas with reported confirmed cases of COVID-19, 1 Mar 2020.
+- Figure 2: Epidemic curve of confirmed COVID-19 cases (n=6567) reported outside of China, by date of report and WHO region with complete days of reporting through [29 Feb 2020]. - Mod.MPP]
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The number of countries reporting confirmed cases of COVID-19 outside China continues to grow and is now 58. This includes 9 countries from the Western Pacific region, 27 countries from the European region, 4 countries from the Southeast Asia region, 11 countries from the Eastern Mediterranean region, 5 countries from the Americas region, and 2 countries from the African region. 20 countries are listed as having local transmission within their countries with the Netherlands, Norway and Canada reporting local transmission for the 1st time in the past 24 hours. There has also been local transmission noted on the cruise ship quarantined in Japan (the Diamond Princess).
+
+The total number of cases reported from outside of China is now 7169 including 104 deaths.
+
+A notable observation pointed out by WHO is that for the past 2 consecutive days, Hubei has been reporting increased daily numbers of newly confirmed cases. Reported newly confirmed cases from Hubei on 27 Feb 2020 were 409, on 28 Feb 2020 - 318, on 29 Feb 2020 - 423, and 1 Mar 2020 - 570. As mentioned in this report, it bears watching closely.
+
+A somewhat repetitive but necessary reminder: It is clear that the number of reported confirmed cases differs from different reporting websites and is somewhat a function of time of day the website is updated. For example, I note the time I've accessed the Johns Hopkins website, but by the time the post is actually finished with the editing process, those numbers have at times significantly changed. Case counting is clearly a moving target, and, depending upon when the website updates, the numbers may be different. - Mod.MPP]
+See Also
+COVID-19 update (23): global, more importations to new countries, 1st USA death, WHO
+COVID-19 update (22): companion animals, dog susp, RFI 20200229.7036661
+COVID-19 update (21): global, more importations, need for serosurveys, WHO 20200228.7035438
+COVID-19 update (20): China, global, Italy, Iran, Nigeria, imported cases, WHO 20200228.7032761
+COVID-19 update (19): China, global, Italy & Iran, imported cases, WHO 20200226.7029842
+COVID-19 update (18): China, global, Iran, Italy imported cases, WHO 20200226.7026481
+COVID-19 update (17): China, animal reservoir, wildlife trade & consumption ban 20200225.7024245
+COVID-19 update (16): China, global, Iran, Eastern Mediterranean imported cases, WHO 20200224.7022200
+COVID-19 update (15): China, global, Iran, Italy, returning cruise evacuees, WHO 20200223.7017958
+COVID-19 update (14): China, global, Iran, Italy, WHO 20200223.7015552
+COVID-19 update (13): China, global, Iran, Lebanon, Israel, WHO, RFI 20200222.7013077
+COVID-19 update (12): China, global, Iran, cruise ship epidemiology, WHO 20200220.7009533
+COVID-19 update (11): animal reservoir, intermediate hosts, pangolin susp. 20200220.7009213
+COVID-19 update (10): China, global, Iran, WHO 20200219.7005749
+COVID-19 update (09): China, global, pulmonary pathological findings, WHO 20200218.7002608
+COVID-19 update (08): companion animals, RFI 20200218.7002276
+COVID-19 update (07): China, global, comment, epidemiological analysis, WHO 20200218.6999424
+COVID-19 update (06): animal reservoir, intermediate hosts 20200217.6997782
+COVID-19 update (05): China, global, Taiwan fatality, WHO 20200216.6995828
+COVID-19 update (04): China, global, Thailand, cruise ships, WHO 20200215.6993525
+COVID-19 update (03): China, global, Egypt, influenza surveillance, WHO 20200214.6991020
+COVID-19 update (02): China, global, reporting criteria, WHO 20200214.6987678
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (41): China, global, clinical pics, asymptomatic trans., WHO 20200210.6976117
+Novel coronavirus (40): animal reservoir, pangolin poss intermediate host, RFI 20200210.6972104
+Novel coronavirus (39): China, global, false negative NAT tests, WHO 20200209.6972103
+Novel coronavirus (38): China, global, local transm, CFR, WHO 20200209.6969995
+Novel coronavirus (37): China, global, cruise, clinical, WHO 20200208.6967526
+Novel coronavirus (36): China, global, incubation, airport screen, WHO 20200207.6963294
+Novel coronavirus (35): China, global, health workers, cruise, WHO, RFI 20200206.6959291
+Novel coronavirus (34): China, global, deaths, WHO 20200205.6955196
+Novel coronavirus (33): China, global, epidemic modeling interactive tool available 20200204.6954575
+Novel coronavirus (32): China, global, management, research 20200204.6950903
+Novel coronavirus (31): China, Global, 20200202.6946685
+Novel coronavirus (30): updates, China, Viet Nam, research 20200202.6945658
+Novel coronavirus (29): updates, China, Philippines, USA, Canada, Spain 20200202.6944056
+Novel coronavirus (28): China (HU) animal reservoir 20200201.6943858
+Novel coronavirus (27): updates, Africa 20200201.6943724
+Novel coronavirus (26): research, research, early spread in Wuhan, China 20200201.6943519
+Novel coronavirus (25): updates, China, Italy, Russia, UK 20200131.6940058
+Novel coronavirus (24): updates, China, PHEIC, India, economy, research 20200131.6937255
+Novel coronavirus (23): updates, China, UAE, Finland, ECDC, research 20200129.6929532
+Novel coronavirus (22): reservoir suggested, bats 20200129.6930718
+Novel coronavirus (21): China, Canada, Sri Lanka ex China 20200127.6918021
+Novel coronavirus (20): China, wildlife trade ban 20200127.6922060
+Novel coronavirus (19): China (HU) transmission dynamics 20200126.6918012
+Novel coronavirus (18): China (HU) animal reservoir 20200125.6915411
+Novel coronavirus (17): China (HU), France, USA ex China, Viet Nam p2p trans. 20200125.6914553
+Novel coronavirus (16): China (HU), Viet Nam, Singapore ex China, IHR committee WHO 20200123.6910685
+Novel coronavirus (15): China (HU) wild animal sources 20200123.6909913
+Novel coronavirus (14): China (HU), Hong Kong, Macau ex China 20200122.6907971
+Novel coronavirus (13): China (HU) USA ex China 20200121.6903878
+Novel coronavirus (12): China (HU) new fatality, healthcare workers, WHO 20200121.6901757
+Novel coronavirus (11): China (HU), South Korea ex China 20200120.6899007
+Novel coronavirus (10): China (HU, GD, BJ) 20200119.6898567
+Novel coronavirus (09): China, 1st diagnostic test 20200119.6897998
+Novel coronavirus (08): China (HU) more cases, Nepal susp, modeling 20200118.6897282
+Novel coronavirus (07): China (HU), Thailand ex China, Japan ex China, WHO 20200117.6895647
+Novel coronavirus (06): China (HU) fatality, Japan ex China, antipyretic use 20200116.6893471
+Novel coronavirus (05): China (HU), Japan ex China 20200115.6891515
+Novel coronavirus (04): China (HU), Thailand ex China, .6889527
+Novel coronavirus (03): China (HU) animal reservoir suggested, RFI 20200114.6887480
+Novel coronavirus (02): Thailand ex China (HU) WHO 20200113.6886644
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia - China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia - China (HU) (09): novel coronavirus, more info, fatality 20200110.6883253
+Undiagnosed pneumonia - China (HU) (08): novel coronavirus, WHO 20200110.6881082
+Undiagnosed pneumonia - China (HU) (07): official confirmation of novel coronavirus 20200108.6878869
+Undiagnosed pneumonia - China (06): (HU) Hong Kong surveillance, USA CDC alert 20200108.6876648
+Undiagnosed pneumonia - China (05): (HU) novel coronavirus identified 20200108.6877694
+Undiagnosed pneumonia - China (04): (HU) Hong Kong surveillance 20200106.6874277
+Undiagnosed pneumonia - China (03): (HU) updates, SARS, MERS ruled out, WHO, RFI 20200105.6872267
+Undiagnosed pneumonia - China (02): (HU) updates, other country responses, RFI 20200103.6869668
+Undiagnosed pneumonia - China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+----
+Undiagnosed pneumonia - China (HU): RFI 20191230.6864153
+.................................................sb/arn/mpp/msp/lxl
+</body>

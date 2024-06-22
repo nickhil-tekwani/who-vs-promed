@@ -1,0 +1,57 @@
+<header id=011402>
+Published Date: 2022-09-10 19:03:30 EDT
+Subject: PRO/EDR> Onchocerciasis: (Africa, Yemen) geospatial analysis of mass IVM treatment
+Archive Number: 20220910.8705516
+</header>
+<body id=011402>
+ONCHOCERCIASIS: (AFRICA, YEMEN) GEOSPATIAL ANALYSIS OF MASS IVERMECTIN TREATMENT
+********************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+Date: Wed 7 Sep 2022
+Source: BMC Medicine [edited]
+https://doi.org/10.1186/s12916-022-02486-y
+
+
+Citation: Schmidt CA, Cromwell EA, Hill E, et al. The prevalence of onchocerciasis in Africa and Yemen, 2000-2018: a geospatial analysis. BMC Med. 2022; 20: 293.
+--------------------------------------------------------------------------------
+
+Abstract
+--------
+Background: Onchocerciasis is a disease caused by infection with _Onchocerca volvulus_, which is transmitted to humans via the bite of several species of black fly, and is responsible for permanent blindness or vision loss, as well as severe skin disease. Predominantly endemic in parts of Africa and Yemen, preventive chemotherapy with mass drug administration of ivermectin is the primary intervention recommended for the elimination of its transmission.
+
+Methods: A dataset of 18 116 geo-referenced prevalence survey datapoints was used to model annual 2000-2018 infection prevalence in Africa and Yemen. Using Bayesian model-based geostatistics, we generated spatially continuous estimates of all-age 2000-2018 onchocerciasis infection prevalence at the 5 x 5-km resolution as well as aggregations to the national level, along with corresponding estimates of the uncertainty in these predictions.
+
+Results: As of 2018, the prevalence of onchocerciasis infection continues to be concentrated across central and western Africa, with the highest mean estimates at the national level in Ghana (12.2%, 95% uncertainty interval [UI] 5.0-22.7). Mean estimates exceed 5% infection prevalence at the national level for Cameroon, Central African Republic, Democratic Republic of the Congo (DRC), Guinea-Bissau, Sierra Leone, and South Sudan.
+
+Conclusions: Our analysis suggests that onchocerciasis infection has declined over the last 2 decades throughout western and central Africa. Focal areas of Angola, Cameroon, DRC, Ethiopia, Ghana, Guinea, Mali, Nigeria, South Sudan, and Uganda continue to have mean microfiladermia prevalence estimates exceeding 25%. At and above this level, the continuation or initiation of mass drug administration with ivermectin is supported. If national programs aim to eliminate onchocerciasis infection, additional surveillance or supervision of areas of predicted high prevalence would be warranted to ensure sufficiently high coverage of program interventions.
+
+--
+Communicated by:
+ProMED
+
+[Community-based mass treatment with ivermectin (IVM) has been shown to be effective in reducing microfilaremia (i.e., parasitemia) for onchocerciasis, and if administered for many consecutive years, IVM treatment campaigns can interrupt and eliminate the transmission of _O. volvulus_ in many local endemic areas. Thus, in recent years the African Programme for Onchocerciasis Control and the WHO 2020 Roadmap on NTDs [neglected tropical diseases] raised their goals from reduction of onchocerciasis morbidity to complete elimination of onchocerciasis in selected countries of Africa.
+
+The present study is a geospatial analysis of onchocerciasis prevalence in subsaharan African countries and Yemen from 2000 to 2018, and graphically demonstrates the very impressive reduction in parasitemia rates as a result of mass IVM treatment campaigns over that period, including in the Democratic Republic of Congo (DRC), where the onchocerciasis burden of disease is very high (see Figure 1 at the URL above for color-coded heats maps of infection rates).
+
+The authors state that in central Africa, much of the high infection prevalence is due to 2 factors: (1) areas ineligible for ivermectin due to loiasis burden, or (2) areas of greater insecurity or inaccessibility. The 1st concern derives from the observation that there is a significant risk of encephalopathy following IVM administration in individuals with loa loa infection (loiasis), limiting its use in areas endemic for both filarial diseases. However, this has not necessarily prevented the use of IVM in areas endemic for loiasis. Indeed, mass IVM treatment reduces the degree of microfilaremia in _L. loa_-infected individuals as well, for example, in Cameroon (see Onchocerciasis and Loa loa - Cameroon: impact of ivermectin 20181026.6114266). As for the 2nd concern, inaccessibility due to sheer remoteness or insecurity (political instability and violence) continues to dog preventive health efforts of all kinds. Violence by armed factions in the North Kivu province of the DRC, for example, has hindered vaccination efforts for measles and Ebola, and not surprisingly this region continues to have high rates of _Onchocerca_ microfilaremia.
+
+Because IVM kills circulating microfilaria but not the adult female worms ensconced for up to a decade or more in Onchocerca_ nodules, the total elimination of this disease may not be feasible without the development of a safe and effective drug against the adult worms (a "macrofilaricide"). Although the above article does not include an analysis of disease morbidity, including blindness and severe skin manifestations, such morbidity has undoubtedly become less common with mass IVM treatment campaigns, such that elimination of disease morbidity alone may be a laudable and achievable goal for policy makers. - Mod.LXL
+
+ProMED maps:
+Yemen: https://promedmail.org/promed-post?place=8705516,126
+Africa: https://promedmail.org/promed-post?place=8705516,6075]
+See Also
+2021
+----
+Onchocerciasis - Ethiopia: (OR) control 20211224.8700460
+Onchocerciasis - Niger: eradication 20211212.8700226
+2018
+----
+Onchocerciasis and Loa loa - Cameroon: impact of ivermectin 20181026.6114266
+.................................................sb/lxl/rd/ml
+</body>

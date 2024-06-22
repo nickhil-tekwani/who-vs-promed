@@ -1,0 +1,350 @@
+<header id=022485>
+Published Date: 2020-12-27 07:25:14 EST
+Subject: PRO/AH/EDR> COVID-19 update (558): variants, Africa, Europe, Hong Kong, trials, WHO, global
+Archive Number: 20201227.8049469
+</header>
+<body id=022485>
+CORONAVIRUS DISEASE 2019 UPDATE (558): VARIANTS, AFRICA, EUROPE, QUARANTINE, HONG KONG, MONOCLONAL AB TRIALS, WHO, GLOBAL
+*************************************************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] COVID-19 Variants
+[1a] Africa: Nigeria
+[1b] Europe: Spain, France
+[1c] Global
+
+[2] Hong Kong: 21-Day Quarantine
+[3] Post exposure Antibody Trials
+[4] WHO: daily new cases reported (as of 26 Dec 2020)
+[5] Global update: Worldometer accessed 26 Dec 2020 21:59 EST (GMT-5)
+
+******
+[1] COVID-19 Variants
+[1a] Africa: Nigeria
+Date: 24 Dec 2020
+Source: Virological [edited]
+https://virological.org/t/detection-of-sars-cov-2-p681h-spike-protein-variant-in-nigeria/567
+
+
+Background
+Rambaut et al. published a report on 19 Dec 2020 describing a preliminary genomic characterization of an emergent SARS-CoV-2 lineage (B.1.1.7) in the United Kingdom and emphasized the need for an enhanced genomic and epidemiological surveillance of the lineage worldwide. Following the release of the report, we did a quick analysis of samples recently sequenced at the African Centre of Excellence for Genomics of Infectious Diseases (ACEGID), Redeemer's University, Nigeria, and we identified 2 SARS-CoV-2 sequences that share one non-synonymous SNP in the spike protein in common with this lineage, but none of the 22 other unique lineage-defining mutations of B.1.1.7. These were found in 2 patient samples collected on the 3 Aug 2020 and 9 Oct 2020 from individuals in Osun State, Nigeria. The non-synonymous SNP, S:P681H, has been observed in global data outside of the B.1.1.7 lineage and likely represents an independent, homoplasic occurrence of this substitution from the UK.
+
+The P681H spike protein mutation has been previously noted to be directly adjacent to the furin cleavage site, which may have biological significance. However, unlike the B.1.1.7 lineage described in the UK, we haven't observed such a rapid rise of the lineage in Nigeria and do not have evidence to indicate that the P681H variant is contributing to increased transmission of the virus in Nigeria. However, the relative difference in scale of genomic surveillance in Nigeria vs the UK may imply a reduced power to detect such changes; we are currently in the process of sequencing more samples from the recent surge in the number of cases of Covid-19 in Nigeria.
+
+Figure 1: Phylogeny of SARS-CoV-2 genomes from Nigeria showing a distinct clade of the B.1.1.207 lineage with branch length indicating sample collection dates. The 2 genomes were detected in Osun state, Nigeria, with collection dates on 3 Aug and 9 Oct 2020.
+
+Figure 2: Multiple alignment of SARS-CoV-2 reference genome with genomes from Osun state, Nigeria and the United Kingdom. Only 2 genomes (highlighted in yellow) in Nigeria (Osun state) have been seen to have the P681H mutation so far. This non-synonymous mutation is found in the B.1.1.7 lineage (highlighted in red) and can also be found in other UK lineages such as the B.1.255 (highlighted in purple).
+
+Summary
+------
+At the moment, only about 1% of the SARS-CoV-2 genomes from Nigeria share any of the 17 protein-altering variants from the UK lineage of concern (B.1.1.7). However, this might change in the next few weeks when we sequence more samples from the recently reported surge of Covid-19 in Nigeria. Other reported mutations such as the N501Y, A570D, and the HV 69 - 70 deletion in the spike protein have not been detected in our genomes yet, this could also be associated with non-increase of the lineage in Nigeria currently. Inasmuch as the full effect of this mutation isn't known yet, and it is still being studied, the importance of a robust genomic surveillance system cannot be overemphasized, as we can identify and report changes in the genomes of pathogens such as SARS-CoV-2 that are of public health interest.
+
+Data availability
+-------
+All our Nigerian SARS_CoV_2 sequences obtained from the beginning of the pandemic in Nigeria till date are available at https://github.com/acegid/CoV_Sequences/blob/master/all_nigeria_sars-cov-2_sequences_12-21-20.fasta. All of these sequences are also available on GISAID.
+
+Partners and Collaborators
+African Centre of Excellence for Genomics of Infectious Diseases (ACEGID), Redeemer's University, Ede, Osun State, @acegid.
+Redeemer's University, Ede, Osun State (RUN), @RedeemersUni
+Nigeria Centre for Disease Control (NCDC), Abuja, Nigeria, @NCDCgov.
+Africa Center for Diseases Control and Prevention (AfCDC), @AfricaCDC.
+
+--
+Communicated by:
+ProMED-mail Rapporteur Kunihiko Iizuka
+
+------
+[1b] Europe: Spain, France
+Date: 26 Dec 2020
+Source: BBC [edited]
+https://www.bbc.com/news/world-europe-55452262
+
+
+Spain has confirmed 4 cases of the more contagious coronavirus variant recently identified in the UK, the latest European country to do so. Spain says up to 7 people might be infected with the new variant.
+
+The infections -- all in Madrid -- were linked to recent UK travel, the regional deputy health chief said.
+
+France, Denmark, the Netherlands and Italy have also reported cases in the past few days.
+
+The details given a week ago of the new variant in England triggered travel curbs with dozens of countries.
+
+Scientists say the new variant is considerably more transmissible than previous strains but not necessarily any more dangerous for those infected.
+
+Madrid deputy health chief Antonio Zapatero said the confirmed cases involved 3 relatives of a man who flew from the UK on Thursday [24 Dec 2020].
+
+The 4th case concerned another man, who had also travelled from the UK. Mr Zapatero said none of the patients were seriously ill and there was "no need for alarm."
+
+He said there were 3 further suspected cases of the new variant, though test results will not be ready before Tuesday or Wednesday [22-23 Dec 2020].
+
+News of the cases in Spain came just hours after France confirmed its 1st patient known to have the new variant. The French health ministry said the person was a French citizen in the central town of Tours who had arrived from London on 19 Dec 2020.
+
+The ministry said the man, who had been living in the UK, was asymptomatic, and currently self-isolating at home.
+
+France closed its border with the UK after the new variant was confirmed in Britain but ended its ban for EU citizens on Wednesday [23 Dec 2020], providing people tested negative before travelling.
+
+Other countries have also reported cases of the new variant: on Friday [25 Dec 2020], Japan confirmed 5 infections in passengers who had all arrived from the UK, while cases in Denmark, Germany, Italy, the Netherlands and Australia were reported earlier.
+
+Last week, France lifted its national lockdown, but the government said the infection rate had not fallen sufficiently for a further easing.
+
+France has reported more than 2.5 million confirmed Covid-19 infections since the start of the outbreak, with more than 62 000 deaths, the 7th highest total deaths in the world.
+
+The country's 1st batch of Pfizer-BioNTech vaccinations meanwhile were delivered from Belgium to the health system's central pharmacy just outside Paris on Saturday [26 Dec 2020], AFP news agency reports.
+
+The 1st shots are due to be administered to patients at 2 facilities for the elderly -- in Sevran and Dijon -- on Sunday [27 Dec 2020].
+
+The new variant 1st detected in southern England in September 2020 is blamed for sharp rises in levels of positive tests in recent weeks in London, south-east England, and the east of England.
+
+About 2/3rds of people testing positive in these areas could have the new variant, but this is only an estimate, the Office for National Statistics (ONS) says. Flights from the UK were suspended to territories across the world including Spain, India and Hong Kong.
+
+Hundreds of people were stranded for hours as a result of the travel curbs. Saudi Arabia, Oman and Kuwait went even further, closing their borders completely for a week.
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+------
+[1c] Global
+Date: 27 Dec 2020
+Source: BBC News [edited]
+https://www.bbc.com/news/world-europe-55452262
+
+
+Cases of the more contagious variant of Covid-19 1st identified in the UK have been confirmed in several European countries as well as Canada and Japan.
+
+Infections linked to people who arrived from the UK were reported in Spain, Switzerland, Sweden and France.
+
+A couple found infected in Ontario, Canada, had no known travel history or high-risk contacts, officials say.
+
+Japan is to ban most non-resident foreign nationals from entering the country for a month from Monday [28 Dec 2020].
+
+Since reporting infections in 5 passengers who had all arrived from the UK, the country has confirmed 2 more cases, one of which is said to have been domestically transmitted.
+
+News of the new variant triggered travel restrictions around the world last week.
+
+Meanwhile, several EU countries have started to vaccinate people against the virus ahead of a coordinated rollout across the whole bloc on Sunday [27 Dec 2020].
+
+Health workers in northeast Germany said they were not prepared to wait another day to distribute the newly approved Pfizer-BioNTech vaccine. They began by immunising elderly residents of a nursing home in Halberstadt. In Hungary, the state news agency said the 1st recipient of the vaccine was a doctor at Del-Pest Central Hospital. The authorities in Slovakia also said they had begun vaccinating.
+
+Scientists say the new variant of Covid-19 may have been spotted in the UK 1st because of the strength of the country's surveillance system. The new variant is considerably more transmissible than previous strains but not necessarily any more dangerous for those infected, experts say.
+
+Those infected in Canada are a couple from Durham, near Toronto, who are now self-isolating.
+
+In Japan, the 2 new cases are a pilot in his 30s who returned to Japan from London on 16 Dec 2020 and a woman in her 20s, one of his family members with no history of visiting the country, Kyodo News reports.
+
+Under the travel suspension coming in on Mon 28 Dec 2020, Japanese nationals and non-Japanese residents who are abroad will be allowed to return, and some travellers such as businesspeople will be allowed to enter from a small number of mainly Asian countries.
+
+In Spain, 4 cases of the new variant were confirmed in Madrid. None of the patients, all of whom travelled from the UK, were seriously ill.
+
+Switzerland identified 3 cases, 2 of which are known to be British citizens currently in the country. Switzerland is alone in Europe in keeping its ski slopes open to tourism over the Christmas and New Year period, and thousands of tourists from Britain have arrived in the last couple of weeks.
+
+In Sweden, the health agency said a traveller there was ill with the strain but had been self-isolating since he returned from the UK.
+
+France confirmed its 1st case of the new variant, a French citizen in the central town of Tours who had arrived from London on 19 Dec 2020, the health ministry said. The man, who had been living in the UK, was asymptomatic and currently self-isolating at home, the ministry said.
+
+France closed its border with the UK after the new variant was confirmed in Britain but ended its ban for EU citizens on Wednesday [23 Dec 2020], providing people tested negative before travelling.
+
+Thousands of lorry drivers spent Christmas Day in their cabs in Kent waiting to cross the English Channel.
+
+Cases in Denmark, Germany, Italy, the Netherlands and Australia were reported earlier.
+
+The new variant, 1st detected in southern England in September 2020, is blamed for sharp rises in levels of positive tests in recent weeks in London, southeast England and the east of England.
+
+About 2/3rds of people testing positive in these areas could have the new variant, but this is only an estimate, the Office for National Statistics (ONS) says.
+
+Three things are coming together that mean the new variant is attracting attention:
+- It is rapidly replacing other versions of the virus.
+- It has mutations that affect part of the virus likely to be important.
+- Some of those mutations have already been shown in the lab to increase the ability of the virus to infect cells.
+All of these build a case for a virus that can spread more easily, says the BBC's health and science correspondent, James Gallagher.
+
+Experts say the leading vaccines developed in recent months should still work.
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[Just to put things in context, mutations in the spike protein are not "novel" or "new." They obviously can contribute to improved attachment to target receptors and could potentially provide transmission advantage. The spike (S) protein is a heavily glycosylated trimeric protein that mediates entry to host cells via fusion with ACE2. Previous studies of SARS-CoV 1 have shown that the sequential accumulation of mutations in the S protein increased its affinity to ACE2 and likely impacted its transmission and disease severity during the course of outbreaks in 2002-2004 [1-2].
+
+Also, with each mutation resulting in a conformational change, there can be additional mutations to ensure that structure stability is maintained. This has been demonstrated by other researchers in early months of the pandemic when the D614 G mutation was reported in large number of isolates from Europe, such as by Wrapp and colleagues, who identified 9 missense mutations (including D614G) in the spike protein that were thought to be relatively conservative and thus unlikely to affect protein function [3]. Phan et al studied 86 complete SARS-CoV-2 genomes, identifying 42 missense mutations, 8 of which occurred in the S-protein gene [4].
+
+With more countries and continents reporting the new variant, with multiple S protein investigations, we need to keep in context that the pandemic is still ongoing, and the virus continues to evolve. Monitoring the genomic epidemiology of the virus is essential to keep track and to ensure compatibility with available vaccines. It is important that non-pharmaceutical interventions are implemented, vis-a-vis social distancing, masking in public gatherings, and hand washing, and that they stay unchanged and reliable!
+
+References:
+1. Li, W. et al. Receptor and viral determinants of SARS-coronavirus adaptation to human ACE2. EMBO J. 24, 1634-1643 (2005)
+2. He, J. F. et al. Molecular evolution of the SARS coronavirus, during the course of the SARS epidemic in China. Science, 80-303, 1666-1669 (2004).
+3. Wrapp, D. et al. Cryo-EM structure of the 2019-nCoV spike in the prefusion conformation. Science, 80-367, 1260-1263 (2020).
+4. Phan, T. Genetic diversity and evolution of SARS-CoV-2. Infect. Genet. Evol. 81, 104-260 (2020).
+- Mod.UBA]
+
+******
+[2] Hong Kong: 21-Day Quarantine
+Date: 26 Dec 2020
+Source: The Star [edited]
+https://www.thestar.com.my/aseanplus/aseanplus-news/2020/12/26/hong-kong039s-fourth-virus-wave-continues-amid-tightening-restrictions-quarantine-for-visitors-extended-to-21-says
+
+
+Hong Kong reported 57 new cases of the coronavirus on Friday night [25 Dec 2020], including 55 locally transmitted infections, of which 25 had unknown origins, health authorities announced.
+
+Two imported cases and 50 preliminary positives were also reported, according to the Centre for Health Protection. A new case in Kwun Tong Garden Estate's Lotus Towers precipitated another order for mandatory Covid-19 testing for the building's residents.
+
+People who have stayed in places outside China during the 21 days before their arrival have to undergo 21 days of compulsory quarantine.
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+******
+[3] Post exposure Antibody Trials
+Date: 26 Dec 2020
+Source: Science [edited]
+https://www.bbc.com/news/health-55438758
+
+
+Ten people have been given antibodies as a form of emergency protection after being exposed to coronavirus, in the 1st trial of its kind.
+
+The experimental jab is being offered to people who have been in close contact with a confirmed Covid-19 case within the past 8 days. If it proves effective, it could protect vulnerable people who have not yet been, or cannot be, vaccinated. And it could help to contain outbreaks.
+
+The trial, run at University College London Hospitals (UCLH) NHS Trust, is looking at whether an injection of 2 different antibodies could prevent someone who has been exposed to SARS-CoV2 from developing the disease or at least from becoming very ill.
+
+Vaccines take weeks to offer full protection, meaning it's too late for them to be given once someone already has the virus brewing in their system. But this monoclonal antibody treatment, developed by the drug company AstraZeneca, should work to neutralise the virus immediately. And it gives ongoing protection for up to a year.
+
+It could mean that healthcare workers, hospital patients and care home residents could be given the treatment if they have been exposed to a known Covid-19 case.
+
+It could be offered to people with health vulnerabilities by their GPs, and it could be used to prevent one or 2 cases turning into an outbreak in settings like student accommodation.
+
+The team, led by UCLH virologist Dr Catherine Houlihan, wants to recruit 1000 volunteers. They are targeting recruitment at areas where people are likely to have been exposed, including hospitals and student accommodation.
+
+People wanting to take part will have to show their close contact has tested positive.
+
+The jab works by "donating" antibodies, Dr Houlihan said. "It skips out that stage of your body doing the work to make them. We know that this antibody combination can neutralise the virus, so we hope to find that giving this treatment via injection can lead to immediate protection against the development of Covid-19 in people who have been exposed, when it would be too late to offer a vaccine."
+
+She explained that this technique was already used post-exposure for other viruses like rabies and chickenpox in pregnant people.
+
+Another trial already under way at UCLH is looking at whether the same antibody treatment could be used before someone is exposed coronavirus, to prevent them ever catching it. This could be particularly useful for people who have immune deficiencies or who are going through immune-suppressing treatment like chemotherapy.
+
+Infectious diseases consultant Dr Nicky Longley, who is running the pre-exposure trial, said it was being trialed on people with conditions like cancer and HIV, which "may affect the ability of their immune system to respond to a vaccine. We want to reassure anyone for whom a vaccine may not work that we can offer an alternative which is just as protective."
+
+It might also be useful to protect vulnerable people as a stopgap before they can be given a vaccine, Dr Houlihan confirmed. But she said it was not being suggested as an alternative to the vaccine. And it's also likely to cost considerably more, at hundreds of pounds a dose.
+
+Along with UCLH, the antibody treatment will be trialed at multiple sites in the US as well as in Wakefield, Manchester, Southampton and Hull. But only the London site has begun recruiting and jabbing people.
+
+The 1st results for both parts of the trial -- using antibodies before and after exposure to Covid-19 -- are expected in the spring 2021.
+
+[Byline: Rachel Schraer]
+
+--
+Communicated by:
+Mary Marshall
+<mjm2020@googlemail.com>
+
+[Monoclonal antibody (mAb) prophylaxis is generally considered for viruses that have proven refractory to vaccine development (for example, HIV and RSV) or for populations that do not mount strong immune responses to vaccination (for example, infants, the elderly, and immunocompromised individuals) or those who cannot receive vaccines for any reason. An example is the RSV mAb Synagis that has been successfully used for the prevention of severe RSV disease for decades in infants at high risk. Use of monoclonal or polyclonal antibodies is a form of passive prophylaxis which can be used in combination with active vaccination and or therapy.
+
+The spike protein on the SARS-CoV-2 virus is the primary target being explored for potential COVID-19 mAbs. The spike protein is responsible for binding and fusing the virus to the host cell membrane. The aim is that by targeting the spike protein, the antibody will be able to neutralise the effects of the SARS-CoV-2 virus by affecting its capacity to infect healthy cells. There are 3 key areas on the spike protein for which researchers around the world are exploring antibody-based treatments: the receptor binding domain, the N-terminal domain, and the stem.
+
+The above report refers to the AstraZeneca Phase III trial to evaluate whether the long-acting monoclonal antibody cocktail, AZD7442, can prevent COVID-19 in patients who cannot be vaccinated for up to 12 months. The international placebo-controlled trial will assess the safety and effectiveness of AZD7442 in 5000 people across Europe and the US. The trial began on Sat 26 Dec 2020 in the UK, where a total of 1000 participants are expected to be recruited across 9 investigational sites. The prophylactic treatment, AZD7442, contains 2 monoclonal anti-SARS-CoV-2 antibodies (SARS-CoV-2 is the virus that causes COVID-19). The immunocompromised often fail to respond successfully to vaccines because their weakened immune system is either unable to respond to the immune challenge or mounts an insufficient response [https://www.europeanpharmaceuticalreview. com/ news/134179/astrazeneca-starts-covid-19-prevention-trial-for-immunocompromised-patients/].
+
+However, historically, mAbs have shown limited success for therapy, but this is changing, as in the past few years, potent neutralizing antibodies to Ebola and HIV have shown therapeutic efficacy in humans. - Mod.UBA]
+
+******
+[4] WHO: daily new cases reported (as of 26 Dec 2020)
+Date: Sat 26 Dec 2020
+Source: WHO [abridged, edited]
+https://covid19.who.int/table
+
+*Daily case reports as of 26 Dec 2020 15:59 CET
+
+Surveillance
+------------
+WHO region (no. countries/territories):
+Total confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+-------------------------------
+Western Pacific Region (19): 1 051 123 (7932) / 19 478 (81)
+European Region (61): 25 118 109 (195 754) / 551 762 (3457)
+South East Asia Region (10): 11 813 360 (33 506) / 180 231 (565)
+Eastern Mediterranean Region (22): 4 803 191 (22 950) / 118 594 (497)
+Region of the Americas (54): 34 002 757 (120 363) / 834 167 (2396)
+African Region (49): 1 815 247 (20 671) / 39 990 (339)
+Cases on an international conveyance (Diamond Princess): 744 (0) / 13 (0)
+
+Confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+Grand total: 78 390 985 (397 609) / 1 741 080 (7285)
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+******
+[5] Global update: Worldometer accessed 26 Dec 2020 21:59 EST (GMT-5)
+Date: Sat 26 Dec 2020
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at https://promedmail.org/wp-content/uploads/world-pdf/DEC26DATASET_1609062368.pdf.
+
+A 7-day series of cumulative data reported by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/DEC26WORLD7_1609062263.pdf. - Mod.UBA]
+
+Total number of reported deaths: 1 764 563
+Total number of worldwide cases: 80 715 840
+Number of newly confirmed cases in the past 24 hours: 508 663
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[In the past 24 hours, the USA (232 681), UK (34 693), and Russia (29 258) have reported the highest numbers of cases. A global total of 6923 deaths were reported in the past 24 hours (25-26 Dec 2020).
+
+Countries reporting more than 10 000 newly confirmed cases in the past 24 hours (10 countries) include the USA, UK, Russia, India (18 574), Brazil (17 246), Turkey (15 118), South Africa (11 552), Germany (10 432), Italy (10 405), and Colombia (10 196). A large number of countries have not reported, or a lower number of new cases has been reported.
+
+A total of 50 countries reported more than 1000 cases in the past 24 hours; 26 of the 50 countries that reported more than 1000 newly confirmed cases are from the European region, 10 are from the Americas region, 8 are from the Eastern Mediterranean region, 2 are from the South East Asia region, 3 are from the Western Pacific region, and one from the African region. A weekend drop in reporting is being observed.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, case counts have increased by 5.0%, while daily reported deaths have decreased by 9.3%.
+
+Impression: The global daily reported cases continue to increase with over 500 000 newly confirmed infections in the past 24 hours (a considerably lower number of cases reported due to the holiday/weekend effect). Countries in the European and the Americas regions are still showing the largest increases in daily new case counts, followed by the Eastern Mediterranean, South East Asia, and Western Pacific regions. - Mod.UBA]
+See Also
+COVID-19 update (557): animal, Slovenia (SA) ferret, OIE 20201226.8048809
+COVID-19 update (556): Egypt, UAE, Thailand, diabetes, mutations, WHO, global 20201226.8047282
+COVID-19 update (555): USA (CO) animal, black-footed ferret, vaccine 20201225.8046582
+COVID-19 update (554): Nigeria mutation, UK duration of immunity, WHO, global 20201225.8045570
+COVID-19 update (553): variants, immunocompromised, M East/N Africa, WHO, global 20201224.8043651
+COVID-19 update (552): USA, animal, cat, dog, snow leopard, OIE 20201223.8042405
+COVID-19 update (551): animal, pig, research, experimental infection 20201223.8041877
+COVID-19 update (550): mutation, query, Thailand, Taiwan, WHO, global, RFI 20201223.8040292
+COVID-19 update (540): S Africa MIS-C, USA risk factors, Iran serosurvey, WHO global 20201216.8021945
+COVID-19 update (530): animal, mink, research, experimental infection, vaccine 20201210.8009205
+COVID-19 update (520): Denmark, Netherlands, mink, human-animal interface, WHO 20201204.7994061
+COVID-19 update (510): animal, mink, Lithuania, Poland, 1st reports, France, OIE 20201127.7976927
+COVID-19 update (500): frequent rapid tests, vaccine, WHO, global 20201122.7962919
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+Undiagnosed pediatric inflammatory syndrome (05): Europe, USA, COVID-19 assoc 20200518.7340554
+Undiagnosed pediatric inflammatory syndrome (04): USA, UK, PMIS, fatal 20200509.7315405
+Undiagnosed pediatric inflammatory syndrome (03): USA, Europe, COVID-19 susp, RFI 20200505.7299876
+COVID-19 update (150): global, USA state prisons, WHO 20200502.7290671
+COVID-19 update (100): China, S. Korea & high local transmission countries 20200413.7217806
+COVID-19 update (50): China (Hong Kong) animal dog, 2nd case PCR positive, OIE 20200323.7129951
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (41): China, global, clinical pics, asymptomatic trans., WHO 20200210.6976117
+Novel coronavirus (40): animal reservoir, pangolin poss intermediate host, RFI 20200210.6972104
+Novel coronavirus (30): updates, China, Viet Nam, research 20200202.6945658
+Novel coronavirus (20): China, wildlife trade ban 20200127.6922060
+Novel coronavirus (10): China (HU, GD, BJ) 20200119.6898567
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia: China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia: China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+----
+Undiagnosed pneumonia: China (HU): RFI 20191230.6864153
+and other items in the archives
+.................................................sb/uba/msp/jh
+</body>

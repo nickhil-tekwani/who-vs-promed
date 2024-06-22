@@ -1,0 +1,110 @@
+<header id=041607>
+Published Date: 2019-05-24 05:57:34 EDT
+Subject: PRO/EDR> Typhoid fever - Denmark: ex Pakistan, multidrug resistance
+Archive Number: 20190524.6483641
+</header>
+<body id=041607>
+TYPHOID FEVER - DENMARK: ex PAKISTAN, MULTIDRUG RESISTANCE
+**********************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+Date: Thu 23 May 2019
+Source: Eurosurveillance 2019; 24(21) [edited]
+https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2019.24.21.1900289
+
+
+ref: Engsbro AL, Riis Jespersen HS, Goldschmidt MI, et al. Ceftriaxone-resistant _Salmonella enterica_ serotype Typhi in a pregnant traveller returning from Karachi, Pakistan to Denmark, 2019. Euro Surveill. 2019;24(21):pii=1900289.
+--------------------------------------------------------------------------------
+In Denmark, typhoid fever is a rare infection in returning travelers with fewer than 100 cases in our laboratory during the past 20 years. On a global level, the WHO estimates between 11 and 22 million cases with 128 000 to 161 000 deaths annually [1]. Since November 2016, an outbreak of _Salmonella enterica_ serotype Typhi resistant to ampicillin, trimethoprim/sulfamethoxazole, chloramphenicol, fluoroquinolones and ceftriaxone has been ongoing in the Sindh Province in Pakistan, especially in Karachi and Hyderabad [2]. We here describe an imported case of ceftriaxone-resistant _S._ Typhi bacteremia related to travel to Karachi, Pakistan and detected in Denmark in April 2019.
+
+Case description
+----------------
+An otherwise healthy 15-week-pregnant woman in her 30s experienced fever, diarrhea, and abdominal pains while visiting relatives in Karachi, Pakistan during March and April 2019. In Pakistan, she had been treated with oral cefixime for 1 week. Upon return to Denmark, 2 weeks after initial symptoms, she presented to the emergency department but was not admitted as she was afebrile with normal pulse and blood pressure. No blood tests were done. 2 days later, her family doctor admitted her to the Copenhagen University Hospital Hvidovre with fever and abdominal pain. The Figure [see source URL above - Mod.LL] shows the sequence of antimicrobial treatment starting from admission, with corresponding daily level of C-reactive protein (CRP; normal less than 10 mg/L) and body temperature.
+
+The day after admission (day 2), an in-house PCR on a rectal swab was positive for _Salmonella_ spp. Based on this finding and because fever and tachycardia continued, treatment with intravenous (iv) ceftriaxone 2 g once daily was started. On day 4, _Salmonella_ spp. was detected by direct matrix-assisted laser desorption/ionization (MALDI Sepsityper, Bruker, Billerica, United States (US)) in blood cultures drawn on Day 2 (Bactec, BD Diagnostics, New Jersey, US). On day 5, _S._ Typhi was identified by agglutination test (Salmonella Antisera, SSI Diagnostica, Hilleroed, Denmark). Based on the results of antimicrobial susceptibility testing (AST), reported below, treatment was changed to iv mecillinam (1 g 3 times/day), a decision also taken in consideration of the pregnancy since penicillins are generally considered safe during pregnancy. The patient deteriorated on this treatment and on day 8, treatment was changed to azithromycin (500 mg/day iv). Because of continuing fever and further increase in CRP, meropenem (1 g 3 times/day) was added on day 9. Subsequently, clinical improvement with defervescence and decreasing CRP was seen.
+
+After finding the ceftriaxone-resistant _S._ Typhi, carriage of other multiresistant microorganisms was suspected and the patient was screened for fecal carriage of carbapenemase-producing microorganisms. After the detection of an OXA-48 carbapenemase-producing _Escherichia coli_, the patient was isolated to prevent spread.
+
+The patient was discharged on day 15 with oral azithromycin. The fetus remained healthy.
+
+Characterization of the _Salmonella_ Typhi isolate
+--------------------------------------------------
+The AST results, determined by disc diffusion and E-test methods and interpreted according to the European Committee on Antimicrobial Susceptibility Testing (EUCAST) breakpoints (version 9.0) [3], are presented in the Table [see source URL above. The isolate was sensitive also to ceftolozane/tazobactam and ceftazidime/avibactam. - Mod.LL]. They confirmed the ceftriaxone-resistant phenotype of the isolate.
+
+By MiSeq (Illumina) and MinION (Oxford Nanopore Technologies, Oxford, United Kingdom (UK)) sequencing, we assembled and closed the genome (BioProject Accession PRJNA543969) and compared it to the H58 ceftriaxone-resistant _S. _ Typhi reported from Pakistan (22420_1_10_Pak600006_2016, GenBank accession LT882486) [4]. Our isolate had a chromosome of 4 813 117 bp and a plasmid of 84 498 bp length. The chromosome carried resistance genes corresponding to the H58-associated composite transposon antimicrobial resistance (AMR) cassette conferring resistance to the older 1st-line treatments ampicillin, sulfamethoxazole/trimethoprim and chloramphenicol (multidrug-resistant phenotype) and reduced susceptibility of fluoroquinolones (Table). The plasmid was identical to the plasmid identified in the outbreak clone; an IncY plasmid carrying a CTX-M-15 gene and a qnrS1 gene conferring resistance to beta-lactams including ceftriaxone and to ciprofloxacin, respectively. Resistance genes for aminoglycosides other than gentamicin were carried on both chromosome and plasmid. A single nucleotide polymorphism (SNP) analysis showed 0 SNPs difference to the Pakistan outbreak clone. We used the Northern Arizona SNP pipeline (NASP) [5] with _Salmonella enterica_ serovar Typhi CT18 [6] as the reference genome for the SNP analysis.
+
+In a fecal swab, we identified carriage of an OXA-48 carbapenemase-producing _E. coli_ using the GeneXpert Xpert Carba-R (Cepheid, Sunnyvale, US) and an overnight broth with added meropenem in a concentration of 0.25 mg/L with subsequent plating on a chromID CARBA-SMART agar (bioMerieux, Marcy l'Etoile, France).
+
+Discussion
+----------
+An outbreak of extended-spectrum beta-lactamase producing (ESBL), ciprofloxacin-resistant _S._ Typhi is ongoing in Pakistan. Almost 7000 cases have been reported in the outbreak [7], and 1/3 of all _S._ Typhi isolates from blood cultures in Karachi are currently ceftriaxone-resistant [8]. Only one case of ceftriaxone-resistant _S._ Typhi related to travel to Pakistan has previously been described in the UK [4] and recently 5 cases in children visiting relatives in Pakistan were reported from the US [9]. Since quinolone resistance increased, ceftriaxone has been the recommended treatment of suspected typhoid fever in the returning traveler [10]. The occurrence of travel-related cases of ceftriaxone-resistant typhoid fever in Europe emphasises the need to reconsider our empirical choice of antimicrobials for suspected typhoid fever for patients returning from Pakistan.
+
+Our patient deteriorated on mecillinam treatment although the isolate was susceptible to this drug. Poor clinical response despite in vitro susceptibility has previously been described for mecillinam [11-13]. Azithromycin with the addition of meropenem cured our patient. The effect of azithromycin on _S._ Typhi is well documented and comparable to quinolones [14], and azithromycin can be used in pregnancy if necessary. Addition of meropenem rather than piperacillin/tazobactam was chosen because carbapenems are superior in other ESBL-producing Enterobacterales [15]. The carriage of a carbapenemase-producing _E. coli_ was not considered when deciding treatment strategy. Our strategy was informed by the local strategy in Pakistan, where ceftriaxone-resistant _S._ Typhi is treated with azithromycin and carbapenems [2]. Our isolate was in vitro sensitive to the newer drugs ceftolozane/tazobactam and ceftazidime/avibactam, which may represent alternative treatment options if carbapenem resistance dissipates to _S._ Typhi. In general, there was consistency between AST and resistance genes identified in the isolate. For chloramphenicol and aminoglycosides, AST was not performed because these tests are not available at our laboratory.
+
+The only case-control study on typhoid fever in pregnancy is from Pakistan and found no increase in negative pregnancy outcomes [16]. In pregnant women, the mother should be the main focus of treatment and choice of antibiotic should follow the above recommendations. Since fluoroquinolones are contraindicated in the 2nd and 3rd trimester of pregnancy, azithromycin is currently the only available oral treatment for carriers of the ceftriaxone-resistant _S._ Typhi during pregnancy. 3rd- and newer generation cephalosporins and meropenem are discouraged in pregnancy because of lack of data. However, in our case, clinical improvement coincided with the addition of meropenem to the azithromycin treatment. The fetus was followed with ultrasound scans and was found to be healthy.
+
+The plasmid carried by the ceftriaxone-resistant _S._ Typhi has previously been described in _E. coli_ from 4 different continents [4]. The clustering of cases around sewage lines in Hyderabad, Pakistan, suggests that the outbreak can be attributed to drinking water contaminated by sewage [2]. Fecal carriage of resistance genes is prevalent in travelers from South Asia as illustrated by identification of resistance genes in toilet waste from airplanes [17]. Finding a multidrug-resistant _S._ Typhi in a returning traveler indicates exposure to fecally contaminated water or foods, and the clinician must suspect the presence of other multi-resistant gastrointestinal bacteria; as was the case in our patient. Screening for multi-resistant Enterobacterales and hygiene precautions should therefore be considered in hospitalized returning travellers.
+
+Conclusion
+----------
+Ceftriaxone-resistant _S._ Typhi is here described in an imported European case. Ceftriaxone resistance needs to be taken into consideration when choosing empirical treatment for patients returning from Pakistan with suspected typhoid fever. Azithromycin and meropenem had clinical effect, while the patient deteriorated on mecillinam. Isolating a multidrug-resistant _S._ Typhi should raise the concern of carriage of other multi-resistant microorganisms transmitted by the fecal-oral route.
+
+References
+----------
+1. World Health Organization (WHO). Typhoid. Geneva: WHO. [Accessed: 6 May 2019]; https://www.who.int/immunization/diseases/typhoid/en/.
+2. Qamar FN, Yousafzai MT, Khalid M, et al. Outbreak investigation of ceftriaxone-resistant Salmonella enterica serotype Typhi and its risk factors among the general population in Hyderabad, Pakistan: a matched case-control study. Lancet Infect Dis. 2018; 18(12): 1368-76. PMID: 30507460; https://doi.org/10.1016/S1473-3099(18)30483-3.
+3. European Committee on Antimicrobial Susceptibility Testing (EUCAST). Clinical Breakpoints - bacteria (version 9.0). Basel: European Society of Clinical Microbiology and Infectious Diseases. [Accessed: 21 May 2019]; http://www.eucast.org/clinical_breakpoints/.
+4. Klemm EJ, Shakoor S, Page AJ, Qamar FN, Judge K, Saeed DK, et al. Emergence of an extensively drug-resistant _Salmonella enterica_ serovar Typhi clone harboring a promiscuous plasmid encoding resistance to fluoroquinolones and third-generation cephalosporins. MBio. 2018; 9(1): e00105-18. PMID: 29463654; https://doi.org/10.1128/mBio.00105-18.
+5. Sahl JW, Lemmer D, Travis J, Schupp JM, Gillece JD, Aziz M, et al. NASP: an accurate, rapid method for the identification of SNPs in WGS datasets that supports flexible input and output formats. Microb Genom. 2016; 2(8): e000074l. PMID: 28348869; https://doi.org/10.1099/mgen.0.000074.
+6. Parkhill J, Dougan G, James KD, Thomson NR, Pickard D, Wain J, et al. Complete genome sequence of a multiple drug resistant _Salmonella enterica_ serovar Typhi CT18. Nature. 2001; 413(6858): 848-52. PMID: 11677608; https://doi.org/10.1038/35101607.
+7. The World Health Organization Regional Office for the Eastern Mediterranean (WHO Eastern Mediterranean Region). Current outbreaks in the WHO Eastern Mediterranean Region. Cairo: WHO Eastern Mediterranean Region. [Accessed: 6 May 2019]; http://www.emro.who.int/pandemic-epidemic-diseases/outbreaks/index.html.
+8. Cohen J. 'Frightening' typhoid fever outbreak spreads in Pakistan. Science. 2018; 361(6399): 214. PMID: 30026207; https://doi.org/10.1126/science.361.6399.214.
+9. Chatham-Stephens K, Medalla F, Hughes M, Appiah GD, Aubert RD, Caidi H, et al. Emergence of extensively drug-resistant _Salmonella_ Typhi infections among travelers to or from Pakistan - United States, 2016-2018. MMWR Morb Mortal Wkly Rep. 2019; 68(1): 11-3. PMID: 30629573; https://doi.org/10.15585/mmwr.mm6801a3.
+10. Thwaites GE, Day NP. Approach to fever in the returning traveler. N Engl J Med. 2017; 376(6): 548-60. PMID: 28177860; https://doi.org/10.1056/NEJMra1508435.
+11. Fallon RJ, Mandal BK, Mayon-White RT, Scott AC. Assessment of antimicrobial treatment of acute typhoid and paratyphoid fevers in Britain and The Netherlands 1971-1980. J Infect. 1988; 16(2): 129-34. PMID: 3127475; https://doi.org/10.1016/S0163-4453(88)93872-8.
+12. Jones DA, Kudlac H, Edwards IR. Pivmecillinam and relapse of typhoid fever. J Infect Dis. 1982; 145(5): 773. PMID: 6281342; https://doi.org/10.1093/infdis/145.2.773.
+13. Mandal BK, Ironside AG, Brennand J. Mecillinam in enteric fever. BMJ. 1979; 1(6163): 586-7. PMID: 218670; https://doi.org/10.1136/bmj.1.6163.586.
+14. Effa EE, Lassi ZS, Critchley JA, Garner P, Sinclair D, Olliaro PL, et al. Fluoroquinolones for treating typhoid and paratyphoid fever (enteric fever). Cochrane Database Syst Rev. 2011; (10): CD004530. PMID: 21975746; https://doi.org/10.1002/14651858.CD004530.pub4.
+15. Harris PNA, Tambyah PA, Lye DC, Mo Y, Lee TH, Yilmaz M, et al. Effect of piperacillin-tazobactam vs meropenem on 30-day mortality for patients with _E. coli_ or _Klebsiella pneumoniae_ bloodstream infection and ceftriaxone resistance: a randomized clinical trial. JAMA. 2018; 320(10): 984-94. PMID: 30208454; https://doi.org/10.1001/jama.2018.12163.
+16. Sulaiman K, Sarwari AR. Culture-confirmed typhoid fever and pregnancy. Int J Infect Dis. 2007; 11(4): 337-41. PMID: 17321180; https://doi.org/10.1016/j.ijid.2006.09.007.
+17. Nordahl Petersen T, Rasmussen S, Hasman H, Caroe C, Baelum J, Schultz AC, et al. Meta-genomic analysis of toilet waste from long distance flights; a step towards global surveillance of infectious diseases and antimicrobial resistance. Sci Rep. 2015; 5(1): 11444. PMID: 26161690; https://doi.org/10.1038/srep11444.
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[It is likely that more and more cases of XDR typhoid will be exported into Europe and the USA. Prevention of acquisition in travelers depends on appropriate avoidance of potentially contaminated food and water and immunization. - Mod.LL
+
+HealthMap/ProMED-mail maps:
+Pakistan: https://promedmail.org/promed-post?place=6483641,947
+Denmark: https://promedmail.org/promed-post?place=6483641,12054]
+See Also
+Typhoid fever - USA (02): (MA) food worker, imported 20190522.6480973
+Typhoid fever - El Salvador 20190403.6402082
+Typhoid fever - Pakistan (02): (SD) multidrug resistance 20190220.6326968
+Typhoid fever - Pakistan: multidrug resistance 20190212.6313110
+Typhoid fever - Zimbabwe: (HA) 2017-2018 20190118.6265333
+Typhoid fever - USA: ex Pakistan, multidrug resistance, CDC 2018 20190110.6252390
+2018
+----
+Typhoid fever - Pakistan (07): multidrug resistance, WHO 20181228.6226573
+Typhoid fever - Fiji: (NT) 20181207.6191941
+Typhoid fever - India: (TN) 20181008.6077839
+Typhoid fever - Zimbabwe (02): (MI) waterborne 20180814.5964791
+Typhoid fever - Pakistan (06): multidrug resistance, spread, travel alert 20180813.5962991
+Typhoid fever - El Salvador (02) 20180729.5935152
+Typhoid fever - Pakistan (05): multidrug resistance, spread 20180720.5916006
+Typhoid fever - El Salvador 20180618.5860604
+Typhoid fever - Pakistan (04): multidrug resistance 20180415.5747027
+Typhoid fever - Syria: (HA) refugee & IDP camp 20180323.5706324
+Typhoid fever - Pakistan (03): multidrug resistance, fatal 20180223.5646599
+Typhoid fever - Pakistan (02): (SD) multidrug resistance, fatal 20180127.5586255
+Typhoid fever - Pakistan: (SD) multidrug resistance, fatal, RFI 20180124.5582615
+Typhoid fever - Zimbabwe: (HA) 20180118.5569032
+.................................................ll/mj/dk/ml
+</body>

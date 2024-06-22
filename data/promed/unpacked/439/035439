@@ -1,0 +1,277 @@
+<header id=035439>
+Published Date: 2021-03-30 15:09:29 EDT
+Subject: PRO/AH/EDR> COVID-19 update (117): transmission, diagnosis, Philippines, WHO, global
+Archive Number: 20210330.8278600
+</header>
+<body id=035439>
+CORONAVIRUS DISEASE 2019 UPDATE (117): TRANSMISSION,DIAGNOSIS, PHILIPPINES,WHO, GLOBAL
+**************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] Virus transmission
+[2] Diagnosis
+[3] Philippines: lockdown
+[4] WHO: daily new cases reported (as of 29 Mar 2021)
+[5] Global update: Worldometer accessed 29 Mar 2021 21:10 EST (GMT-5)
+
+******
+[1] Virus transmission
+Date: Sat 27 Mar 2021
+Source: DocWire News [abridged, edited]
+https://www.docwirenews.com/abstracts/assessing-asymptomatic-pre-symptomatic-and-symptomatic-transmission-risk-of-sars-cov-2-4/
+
+
+ref: Wu P, Liu F, Chang Z, et al. Assessing asymptomatic, pre-symptomatic and symptomatic transmission risk of SARS-CoV-2, Clinical Infectious Diseases, 2021; ciab271, https://doi.org/10.1093/cid/ciab271
+--------------------------------------------------------------------------------
+Abstract
+--------
+"Background: The relative contributions of asymptomatic, pre-symptomatic and symptomatic transmission of SARS-CoV-2 have not been clearly measured although control measures may differ in response to the risk of spread posed by different types of cases.
+
+"Methods: We collected detailed information on transmission events and symptom status based on laboratory-confirmed patient data and contact tracing data from 4 provinces and one municipality in China. We estimated the variation in risk of transmission over time, and the severity of 2ary infections, by symptomatic status of the infector.
+
+"Results: There were 393 symptomatic index cases with 3136 close contacts and 185 asymptomatic index cases with 1078 close contacts included into the study. The 2ary attack rate among close contacts of symptomatic and asymptomatic index cases were 4.1% (128/3136) and 1.1% (12/1078), respectively, corresponding to a higher transmission risk from symptomatic cases than from asymptomatic cases (OR: 3.79, 95% CI: 2.06, 6.95). Approximately 25% (32/128) and 50% (6/12) of the infected close contacts were asymptomatic from symptomatic and asymptomatic index cases, respectively, while more than one 3rd (38%) of the infections in the close contacts of symptomatic cases were attributable to exposure to the index cases before symptom onset. Infected contacts of asymptomatic index cases were more likely to be asymptomatic and less likely to be severe.
+
+"Conclusions: Asymptomatic and pre-symptomatic transmission play an important role in spreading infection, although asymptomatic cases pose a lower risk of transmission than symptomatic cases. Early case detection and effective test-and-trace measures are important to reduce transmission. Our study illustrated that the risk of transmission varied according to the symptom profile of COVID19 cases. Asymptomatic cases transmitted infection to their close contacts at a lower risk than cases presenting symptoms. Pre-symptomatic transmissions accounted for more than one 3rd of the infections occurred from exposure to symptomatic cases. Risk of transmission was relatively higher within households or through shared dining than other social settings. Active case finding with increased testing capacity could help to reduce transmission from symptomatic and asymptomatic COVID-19 cases. Social distancing measures and facemask wearing might not be sufficient to prevent infection from spreading in settings where these measures could not be maintained."
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[Transmission without symptoms poses challenges for identifying the infectious timeline and potential exposures. [If individuals] do not know they're infected, they may likely mingle with others, promoting virus spread. They may also not adhere to masking, distancing, hand hygiene, and staying at home [Thus the problem of dining, drinking with family, friends. - Mod LK].
+
+Though the prevalence of asymptomatic cases is not accurately reported, early studies showed that these cases accounted for about 30 to 80% of infections. Recent evidence reports a rate of asymptomatic cases between 17 and 30%.
+
+In COVID-19 patients with symptoms, the infectious period starts two days before symptom onset and for several days after. There is also reduced viral shedding within the 1st week of symptom onset. In asymptomatic cases, viral shedding kinetics is not well understood. During early infection, people have similar viral loads, regardless of symptom severity. People without symptoms have reduced titers at peak replication and faster viral clearance, making the infectious period shorter.
+
+Hence, measuring the true impact of asymptomatic spread is crucial, though it can be perplexing. Some studies revealed that symptomless individuals were 42% less likely to transmit the virus and have lower 2ary attack rates. Other studies have noted that despite the shorter infectious period, virus transmissibility is similar for those with presymptomatic or asymptomatic SARS-CoV-2 infection.
+
+"With many contagious people experiencing no symptoms and in the absence of robust surveillance testing for asymptomatic or presymptomatic infections, it is critical to maximizing efforts to reduce transmission risk in the community," the researchers noted in the study.
+
+They added that the lack of testing and isolation of asymptomatic cases could result in surging cases. Governments must impose extensive testing and surveillance to detect even those without symptoms. This way, infected individuals will be isolated appropriately, reducing the risk of viral transmission.
+
+"Until there is widespread implementation of robust surveillance and epidemiological measures that allow us to put out these smokeless fires, the COVID-19 pandemic cannot be fully extinguished," the team added.
+
+Source:
+- COVID-19 Dashboard by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (JHU) https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
+Journal reference:
+- Rasmussen, A. and Popescu, S. (2021). SARS-CoV-2 transmission without symptoms. Science 2021; 371(6535): 1206-1207. doi: 10.1126/science.abf9569. https://science.sciencemag.org/content/371/6535/1206
+
+******
+[2] Diagnosis
+[A] Sanger sequencing
+Date: Sat 27 Mar 2021
+Source: Med Rxiv [edited]
+https://www.medrxiv.org/content/10.1101/2021.03.27.21252266v1
+
+
+ref: Joergensen TS, Blin K, Kuntke F, et al. A rapid, cost efficient and simple method to identify current SARS-CoV-2 variants of concern by Sanger sequencing part of the spike protein gene. [preprint]
+--------------------------------------------------------------------------------
+Abstract
+--------
+In 2020, the novel coronavirus, SARS-CoV-2, caused a pandemic, which is still raging at the time of writing this. Many countries have set up high throughput RT-qPCR based diagnostics for people with COVID-19 symptoms and for the wider population. In addition, with the use of whole genome sequencing (WGS) new lineages of SARS-CoV-2 have been identified that have been associated with increased transmissibility or altered vaccine efficacy, so-called Variants of Concern (VoC). WGS is generally too labor intensive and expensive to be applied to all positive samples from the diagnostic tests, and often has a turnaround time too long to enable VoC focused contact tracing. Here, we propose to use Sanger sequencing for the detection of common variants of concern and key mutations in early 2021, using a single set of the recognized ARTIC Network primers. The proposed setup relies entirely on materials and methods already in use in diagnostic RT-qPCR labs and on existing infrastructure from companies that have specialized in cheap and rapid turnaround Sanger sequencing. In addition, we provide an automated mutation calling software (https://github.com/kblin/covid-spike-classification). We have validated the setup on 195 SARS-CoV-2 positive samples, and we were able to profile over 85% of RT-qPCR positive samples, where the last 15% largely stem from samples with low viral count. At approximately 4 EUR per sample in material cost, with minimal hands-on time, little data handling, and a turnaround time of less than 30 hours, the setup is simple enough to be implemented in any SARS-CoV-2 RT-qPCR diagnostic lab. Our protocol provides results that can be used to focus contact-tracing efforts and it is cheap enough for the tracking and surveillance of all positive samples for emerging variants such as B.1.1.7, B.1.351 and P.1 as of [January 2021].
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+----
+[B] Antigen detecting rapid diagnostic tests
+Date: Sun 28 Mar 2021
+Source: LitCovid [edited]
+https://www.ncbi.nlm.nih.gov/research/coronavirus/publication/33773413
+
+ref: Haage V, Ferreira de Oliveira-Filho E, Moreira-Soto A, et al. Impaired performance of SARS-CoV-2 antigen-detecting rapid diagnostic tests at elevated and low temperatures. J Clin Virol. 2021; 138:104796. <doi: 10.1016/j.jcv.2021.104796>. [Online ahead of print]
+--------------------------------------------------------------------------------
+Abstract
+--------
+Antigen-detecting rapid diagnostic tests (Ag-RDTs) can complement molecular diagnostics for COVID-19. The recommended temperature for storage of SARS-CoV-2 Ag-RDTs ranges between 2-30 deg C. In the global South, mean temperatures can exceed 30 deg C. In the global North, Ag-RDTs are often used in external testing facilities at low ambient temperatures. We assessed analytical sensitivity and specificity of 11 commercially-available SARS-CoV-2 Ag-RDTs using different storage and operational temperatures, including short- or long-term storage and operation at recommended temperatures or at either 2-4 deg C or at 37 deg C. The limits of detection of SARS-CoV-2 Ag-RDTs under recommended conditions ranged from 1.0x10(6)- 5.5x10(7) genome copies/mL of infectious SARS-CoV-2 cell culture supernatant. Despite long-term storage at recommended conditions, 10 min pre-incubation of Ag-RDTs and testing at 37 deg C resulted in about 10-fold reduced sensitivity for 5 out of 11 SARS-CoV-2 Ag-RDTs, including both Ag-RDTs currently listed for emergency use by the World Health Organization. After 3 weeks of storage at 37 deg C, 8 of the 11 SARS-CoV-2 Ag-RDTs exhibited about 10-fold reduced sensitivity. Specificity of SARS-CoV-2 Ag-RDTs using cell culture supernatant from common respiratory viruses was not affected by storage and testing at 37 deg C, whereas false-positive results occurred at outside temperatures of 2-4 deg C for 2 out of 6 tested Ag-RDTs, again including an Ag-RDT recommended by the WHO. In summary, elevated temperatures impair sensitivity, whereas low temperatures impair specificity of SARS-CoV-2 Ag-RDTs. Consequences may include false-negative test results at clinically relevant virus concentrations compatible with transmission and false-positive results entailing unwarranted quarantine assignments. Storage and operation of SARS-CoV-2 Ag-RDTs at recommended conditions is essential for successful usage during the pandemic.
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[The clinical performance of antigen diagnostic tests largely depends on the circumstances in which they are used. Both antigen tests and nucleic acid amplification tests (NAATs) perform best when the person is tested when viral load is generally highest. They also may be informative in diagnostic testing situations in which the person has a known exposure to a person with COVID-19. There are increasing amounts of data to help guide the use of antigen tests as screening tests on asymptomatic persons to detect or exclude COVID-19, or to determine whether a person who previously was diagnosed with COVID-19 remains infectious.
+
+It is important for clinicians and testing personnel to understand the analytic performance characteristics, including sensitivity, specificity, and positive and negative predictive values, of the particular antigen test being used, and to follow the manufacturer's instructions and package insert. The "gold standard" for clinical diagnostic detection of SARS-CoV-2 remains NAATs, such as RT-PCR. Thus, it may be necessary to confirm an antigen test result with a nucleic acid amplification test, especially if the result of the antigen test is inconsistent with the clinical context.
+
+The sensitivity of antigen tests varies but is generally lower than most NAATs. The antigen level in specimens collected either before symptom onset, or late in the course of infection, may be below the limit of detection of virus of the test. This may result in a negative antigen test result, while a more sensitive test, such as most NAATs, may return a positive result.
+
+The specificity of antigen tests is generally as high as most NAATs, which means that false positive test results are unlikely when an antigen test is used according to the manufacturer's instructions. Despite the high specificity of antigen tests, false positive results will occur, especially when used in communities where the prevalence of infection is low - a circumstance that is true for all in vitro diagnostic tests. More information can be sought at https://www.cdc.gov/coronavirus/2019-ncov/lab/resources/antigen-tests-guidelines.html#analytical-performance - Mod.UBA]
+
+******
+[3] Philippines: lockdown
+Date: Mon 29 Mar 2021
+Source: Bloomberg [abridged, edited]
+https://www.bloomberg.com/news/articles/2021-03-29/philippine-capital-returns-into-lockdown-as-vaccinations-lag
+
+
+The Philippines' key economic area plunged back into another lockdown for a week starting [Mon 29 Mar 2021] as the Southeast Asian nation faces its worst coronavirus surge and a slow vaccine rollout.
+
+Metro Manila and the adjacent provinces of Bulacan, Cavite, Laguna and Rizal were placed under enhanced community quarantine or ECQ, the nation's strictest classification of movement curbs, from [29 Mar to 4 Apr 2021]. A curfew from 6pm -- 5am will be imposed during the lockdown.
+
+President Rodrigo Duterte may announce later in the day if the lockdown will be extended, his spokesman Harry Roque said at a briefing [Mon 29 Mar 2021], adding that economic impact will be balanced with further stemming the outbreak. "We can't let more people die of hunger and other reasons in our effort to lower Covid-19 cases," Roque said.
+
+The economic impact of the stay-home order is expected to be minimal as offices and financial markets will be shut on 1 and 2 Apr for the Easter holiday, Roque said on [Sat 27 Mar 2021].
+
+"Our main objective why we're closing down again is to make our healthcare system more manageable," Health Undersecretary Maria Rosario Vergeire said at a virtual briefing [Mon 29 Mar 2021]. "Our emergency rooms and intensive care units are choking."
+
+The government will tap 23 billion pesos (USD 475 million) in unused funds from last year's [2020] relief measure to aid millions affected by the lockdown, Budget Secretary Wendel Avisado said [Mon 29 Mar 2021]. Economic managers will also meet to discuss "ways forward" amid the surge in infections, he said.
+
+Recession
+---------
+Before the lockdown, authorities tightened mobility in the capital and the surrounding provinces for 2 weeks from [22 Mar 2021] but cases continued to spike, hitting a record 10 016 on [Mon 29 Mar 2021]. Daily infections have risen more than 5 times from the start of the year, while the percentage of people testing Covid-19 positive rose to nearly 20% on [Sun 28 Mar 2021] from about 7% in January [2021].
+
+Moody's Investors Service said the spike in coronavirus infections delays the country's economic recovery, it said in a [26 Mar 2021] note. Pandemic containment measures implemented earlier this month [March 2021] are also expected to weigh on prospects of fiscal consolidation and exacerbate income equality and poverty, the rating agency said.
+
+The Philippines, which implemented one of the world's strictest and longest lockdowns last year [2020], suffered its worst-ever recession in 2020, prompting economic managers to push for a sustained reopening and targeted restrictions rather than a hard lockdown.
+
+Infections are rising globally even as countries ramp up vaccinations amid efforts to reopen economies and revive social activities. In the Philippines, less than a 3rd of the 1.7 million health workers had been inoculated as of [23 Mar 2021], while the country has received more than 1.1 million vaccine doses. One million Sinovac Biotech Ltd. vaccines are scheduled to arrive on [Mon 29 Mar 2021], while around 1 million from AstraZeneca Plc are expected to arrive in the coming weeks.
+
+The Philippines is behind its Southeast Asian neighbors like Singapore, Indonesia and Malaysia in inoculations, based on World Bank data. The Philippines has administered 0.2 vaccine doses per 100 people as of mid-[March 2021], compared to Singapore's 13.5 doses.
+
+Stay Home
+---------
+Similar to the strict lockdown imposed a year ago, only essential industries including hospitals and food manufacturers are allowed to operate at full capacity. People must work from home, may only leave for essentials and are barred from holding mass gatherings.
+
+Malls are shut, except for tenants such as pharmacies, hardware stores, supermarkets and businesses engaged in food delivery and takeout. Public transport including trains are allowed to run at limited capacity.
+
+The capital region, with a population of about 13 million, accounts for nearly half of the nation's total virus cases.
+
+[Byline: Clarissa Batino and Andreo Calonzo]
+
+--
+Communicated by:
+Mary Marshall
+<mjm2020@googlemail.com>
+
+******
+[4] WHO: daily new cases reported (as of 29 Mar 2021)
+Date: Mon 29 Mar 2021
+Source: WHO [abridged, edited]
+https://covid19.who.int/table
+
+
+*Daily case reports as of 29 Mar 2021 16:18 CET
+
+Surveillance
+------------
+WHO region (no. countries/territories):
+Total confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+--------------------------------------------------------------------------------
+Western Pacific Region (19): 1 873 386 (13 453) / 31 414 (53)
+European Region (61): 44 368 048 (176 469) / 956 996 (2167)
+South East Asia Region (10): 14 696 415 (76 529) / 218 151 (414)
+Eastern Mediterranean Region (22): 7 436 118 (41 033) / 157 370 (479)
+Region of the Americas (54): 55 447 785 (204 009) / 1 337 130 (5711)
+African Region (49): 3 068 146 (6708) / 77 545 (99)
+Cases on an international conveyance (Diamond Princess): 745 (0) / 13 (0)
+
+Confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+Grand total: 126 890 643 (518 201) / 2 778 619 (8923)
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[Data by country, area, or territory for 29 Mar 2021 can be accessed at https://promedmail.org/wp-content/uploads/world-pdf/2021%20WHO%20Daily%20Tables%20Mar29_1617095657.pdf.
+
+- The Americas region reported 39.3% of daily case numbers and 64% of the daily deaths reported in the past 24 hours and maintained its position as the most severely affected region, having reported more than 55.44 million cases. Brazil reported over 85 000 cases over the last 24 hours followed by the USA with 61 893 cases. A total of 9 additional countries reported more than 1000 cases in the past 24 hours (Colombia, Argentina, Mexico, Peru, Chile, Paraguay, Uruguay, Ecuador, and Canada), and an additional 5 countries (Honduras, Cuba, Bolivia, Guatemala, and Venezuela) reported more than 500 but fewer than 1000 cases.
+
+- The European region reported 34% of daily case numbers and 24.2% of the daily deaths reported in the past 24 hours, and total cumulative cases reported exceed 44.36 million. Many countries not reporting cases in the last 24 hours or longer include Spain, Belgium, Israel, Switzerland, and Kazakhstan, among others. France reported the highest number of cases over the last 24 hours, followed by Turkey, Italy, and Poland, reporting more than 10 000 new cases in the past 24 hours. Another 13 countries reported more than 1000 cases, and an additional 6 countries reported more than 500 but fewer than 1000 cases.
+
+- The Eastern Mediterranean region reported 7.9% of daily case numbers and 5.3% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 7.43 million cases. Iran reported the highest number of cases (8751) over the last 24 hours, followed by Jordan, Iraq, Pakistan, Lebanon, Oman, UAE, Palestinian Authority, and Kuwait, and Bahrain. Saudi Arabia, Libya Qatar, Tunisia, and Egypt, reported more than 500 but fewer than 1000 cases.
+
+- The African region reported 1.2% of daily case numbers and 1.1 % of the deaths reported in the past 24 hours, having reported a cumulative total of more than 3.06 million cases. Ethiopia (1769) reported the highest number of cases over last 24 hours. South Africa, Kenya and Cote d'Ivoire reported more than 500 but fewer than 1000 cases. Cameroon, Ghana, Congo, and Botswanaa among others, did not report any new cases in the past 24 hours.
+
+- The Western Pacific region reported 2.5% of daily case numbers and 0.5% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 1.87 million cases. Philippines reported the highest number of cases over the last 24 hours (over 9400 cases), followed by Japan, Malaysia, South Korea, Mongolia, and Papua New Guinea.
+
+- The South East Asia region reported 14.7% of the daily newly reported cases and 4.6% of reported deaths in the past 24 hours, having reported a cumulative total of more than 14.69 million cases. India is dominant reporting over 64 000 cases, followed by Indonesia (4083 cases), Bangladesh, Sri Lanka, and Maldives.
+
+On the Overview tab at the WHO source URL, the epidemic curve of confirmed COVID-19 cases by WHO region, 30 Dec 2019 through 29 March 2021, is an excellent visual representation of the pandemic. - Mod.UBA]
+
+******
+[5] Global update: Worldometer accessed 29 Mar 2021 21:10 EST (GMT-5)
+Date: Mon 29 Mar 2021
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at:
+https://promedmail.org/wp-content/uploads/world-pdf/2021%20WORLDDATA%20MAR29_1617117435.pdf.
+
+A 7-day series of cumulative data reported by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/2021%20MAR29WORLD7_1617117591.pdf. - Mod.UBA]
+
+Total number of reported deaths: 2 803 991
+Total number of worldwide cases:128 231 094
+Number of newly confirmed cases in the past 24 hours: 466 321
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[In the past 24 hours, Brazil (83 039), the USA (63 659), India (62 631), and France (42 619) have reported the highest numbers of cases. A global total of 7904 deaths were reported in the past 24 hours (late 28 Mar 2021 to late 29 Mar 2021). Countries reporting more than 10 000 newly confirmed cases in the past 24 hours (11 countries) include Brazil, the USA, India, France, Poland (31 770),Turkey (30 021), Italy (23 832), Germany (18 692), Ukraine (17 424), Argentina (10 338) and Hungary (10 167). A total of 55 countries reported more than 1000 cases in the past 24 hours; 31 of the 55 countries are from the European region, 9 are from the Americas region, 6 are from the Eastern Mediterranean region, 3 are from the South East Asia region, 3 are from the Western Pacific region, and 3 from the African region.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, case counts have increased by 11.8%, while daily reported deaths have increased by 9.1%. Similar comparative 7-day averages in the USA show a 0.4% increase in daily reported cases and a 9.6% decrease in reported deaths.
+
+Impression: The global daily reported approximately 450 000 newly confirmed infections in the past 24 hours with over 128.23 million cumulative reported cases and over 2.80 million reported deaths. - Mod.UBA
+
+HealthMap/ProMED map:
+Philippines: https://promedmail.org/promed-post?place=8278600,158]
+See Also
+COVID-19 update (116): Vaccine, Canada, variants, common cold, WHO, global 20210329.8276299
+COVID-19 update (115): CAPA, long COVID, Astra-Zeneca, WHO, global 20210328.8274269
+COVID-19 update (114): vacc COVID survivors vs uninfected, flu shots, India, WHO 20210327.8272957
+COVID-19 update (113): Africa, Yemen, schools, remdesivir, WHO, global 20210326.8271053
+COVID-19 update (112): new double mutation variants, AstraZeneca, WHO, global 20210325.8268682
+COVID-19 update (111): protease inhibitor, long COVID, surge, neut Ab, WHO 20210324.8266393
+COVID-19 update (110): vaccines, neutralizing antibody, P1 variant, WHO, global 20210323.8263780
+COVID-19 update (109): animal, Argentina, Italy, cat, dog, OIE 20210323.8262789
+COVID-19 update (108): vaccines, nanopart., Europe, S Africa, AstraZeneca, WHO 20210322.8262023
+COVID-19 update (107): variants, Olympics, India, WHO, global 20210321.8260135
+COVID-19 update (106): 3rd wave, variants, AstraZeneca, WHO, global 20210320.8258994
+COVID-19 update (105): long COVID, variants, T Cell resp, S Asia, WHO, global 20210319.8256709
+COVID-19 update (104): surge, Europe, variants, vaccines, WHO, global 20210318.8254505
+COVID-19 update (103): variants, Papua New Guinea, WHO, global 20210317.8252208
+COVID-19 update (102): China, origin, farmed wild animals susp. 20210316.8251684
+COVID-19 update (101): animal, USA, UK variant 20210316.8251626
+COVID-19 update (100): antibodies, vaccine, Thailand, Cambodia, WHO, global 20210316.8250009
+COVID-19 update (99): China, animal reservoir, wildlife sale, pork supply impact 20210315.8249619
+COVID-19 update (98): transmission, long COVID, vaccine reactions, WHO, global 20210315.8247668
+COVID-19 update (97): testing, contact tracing, variants, immunity, WHO 20210314.8246696
+COVID-19 update (96): HCWs, child mental health, Africa vaccines, WHO 20210313.8245159
+COVID-19 update (95): vacc reactions, vacc approval, Americas, WHO 20210312.8242839
+COVID-19 update (94): blood donor Abs, self-check, pollen, variant, WHO 20210311.8241172
+COVID-19 update (93): animal, Estonia (HA) cat, OIE 20210310.8239589
+COVID-19 update (92): allergy mRNA vacc, sex-specific risk, WHO 20210310.8238271
+COVID-19 update (91): USA post vacc, vacc passport, WHO 20210309.8236250
+COVID-19 update (90): UK sewage, Viet Nam, Cambodia, WHO 20210308.8233859
+COVID-19 update (80): vaccine, USA variants, comments, WHO, global 20210226.8214650
+COVID-19 update (70): gangrene, challenge trials, immunity, cancer, WHO, global 20210218.8198620
+COVID-19 update (60): animal, SARS-CoV-2-related viruses, pangolin, bat 20210211.8184900
+COVID-19 update (50): UK vaccine study, Brazil reinfection, WHO 20210205.8167161
+COVID-19 update (01): variants, vaccine, Thailand, global, WHO 20210101.8062938
+2020
+----
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+COVID-19 update (562): viral load, UK vacc dose, ECDC, WHO 20201231.8061525
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia: China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia: China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+----
+Undiagnosed pneumonia: China (HU): RFI 20191230.6864153
+and other items in the archives
+.................................................sb/lk/lm/uba/ao/lm
+</body>

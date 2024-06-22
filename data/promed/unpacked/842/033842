@@ -1,0 +1,166 @@
+<header id=033842>
+Published Date: 2007-08-21 18:00:10 EDT
+Subject: PRO/AH> Avian & human influenza viruses: distinguishing features
+Archive Number: 20070821.2738
+</header>
+<body id=033842>
+AVIAN & HUMAN INFLUENZA VIRUSES: DISTINGUISHING FEATURES
+*********************************************************
+A ProMED-mail post
+<http://www.promedmail.org>
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+<http://www.isid.org>
+Date: Mon 20 Aug 2007
+Source: Science Daily, St. Jude Children's Research Hospital [edited]
+<http://www.sciencedaily.com/releases/2007/08/070820161748.htm>
+
+Influenza Survey Uncovers Key Differences Between Bird Flu And Human Flu
+------------------------------------------------------------------------
+Scientists have found key features that distinguish influenza viruses
+found in birds from those that infect humans. Specific mutations
+linked to immune suppression and viral replications differ between
+bird and human flu viruses could be used to monitor emerging pandemics.
+The St. Jude team used a mathematical technique to identify specific
+amino acid building blocks that are statistically more likely to
+appear in avian influenza virus proteins and those that are more
+likely to be in human influenza virus proteins. The differences in
+these amino acids can be used as markers to track changes in H5N1
+avian influenza strains that threaten humans.
+"Influenza mutates rapidly, so that any marker that is not the same
+in bird flu but remains stable in human flu is likely to be
+important," said David Finkelstein, Ph.D., research associate at the
+St. Jude Hartwell Center for Bioinformatics and Biotechnology. "If
+human specific markers start accumulating in bird flu viruses that
+infect humans, that suggests that the bird flu may be adapting to
+humans and could spread."
+The researchers also found that various strains of the H5N1 that have
+infected humans are more likely to contain human markers than are
+H5N1 strains that have not infected humans. Only occasionally have
+H5N1 samples obtained from human patients shown any of these markers,
+and no H5N1 strain has permanently acquired any of them.
+The investigators cautioned that there is no proof yet that the human
+markers in H5N1 and other avian influenza viruses directly contribute
+to the ability of these viruses to cause pandemics among humans; and
+H5N1 is not any more adapted to humans today than in the past.
+However, the fact that the bird viruses accumulate and retain these
+markers after infecting humans suggests that these changes are
+important. Therefore, scientists should monitor avian influenza
+viruses to see if they are acquiring human markers.
+The St. Jude team identified 32 specific locations in proteins where
+a gene mutation caused the existing amino acid to be substituted with
+a different amino acid. What made these 32 changes special was that
+influenza from birds differed from the influenza that was in humans.
+After the avian influenza infected humans, the amino acid changes are
+stable in the proteins and remain stable over time. Therefore, these
+markers can be used to distinguish influenza viruses that infect
+birds from those that infect humans.
+The researchers discovered these markers by computationally surveying
+the sequence of amino acids in 10 671 proteins from avian influenza
+viruses and 13 757 proteins from human influenza viruses. The survey
+identified 32 persistent markers that exist in 5 bird and human virus
+proteins: PA, NP, M1, NS1 and PB2. These markers stand out as obvious
+differences between bird and human viruses, and many appear in
+regions where host protein and viral replication occur. The
+researchers did not determine what functional role the markers play
+in the life of the viruses.
+For example, 26 of the 32 markers discovered are found in NP, PB2 and
+PA, which help to form a complex of proteins critical for the
+replication of virus genes. The other 6 persistent host markers are
+in M1 and NS1 proteins. M1 is known to bind to a protein in cells
+that enhances the replication of viruses; and NS1 plays a role in
+suppressing the host immune response. Therefore, the markers in M1
+and NS1 might represent key mutations needed to improve the ability
+of the virus to suppress the immune system and enhance viral replication.
+The St. Jude team also studied markers in influenza viruses that
+caused pandemics in 1918, 1957 and 1968 -- outbreaks thought to have
+been caused by avian influenza viruses that adapted to humans. The
+study focused on the viruses isolated from humans early in each
+pandemic in order to determine which markers the viruses had recently
+acquired just before they sparked the outbreak. The researchers
+showed that 13 of the 32 markers identified by their survey had
+remained stable in these viruses, and, like the other viruses, these
+markers were distributed among PB2, PA, NP and M1 -- the proteins
+linked to virus replication. "This suggests that these 13 sites are
+required for pandemic influenza to fully function," Finkelstein said.
+The researchers also showed that the H1N1 virus that caused the 1918
+pandemic -- the most deadly pandemic known -- already contained 13 of
+the 32 markers early in the outbreak; and acquired the other 19
+markers within 10 to 20 years, acquiring the preferred human
+influenza amino acids in stages. Eventually, descendents of the
+pandemic virus became the seasonal flu outbreaks rather than deadly pandemics.
+"While we can't directly estimate how long it would take an avian
+virus such as H5N1 to acquire these traits, we can use these markers
+to roughly measure the distance between an avian influenza and a
+pandemic," said Clayton Naeve, Ph.D., St. Jude Hartwell Center
+director and the paper's senior author.
+The current study used data obtained in part from the first
+large-scale study of avian influenza virus genomes, conducted at St.
+Jude's Hartwell Center, which doubled the amount of genetic
+information available on the genes and proteins of these viruses. The
+aim of that project was to enable researchers to gain insights into
+H5N1 and to provide the first fundamental insight into the evolution
+of influenza viruses in nature -- the source of all influenza viruses
+that affect humans, domestic animals and birds.
+A report on this work will appear in the advanced online edition of
+"Journal of Virology" (doi:10.1128/JVI.00921-07).
+The other authors of this paper include Suraj Mukatira, Perdeep
+Mehta, John Obenauer, Xiaoping Su and Robert Webster. This work was
+supported with funding by ALSAC. Note: This story has been adapted
+from a news release issued by St. Jude Children's Research Hospital.
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+[This report advances understanding of the genetic properties of the
+influenza A viruses that differentially infect birds and humans.
+Comparison of the inferred amino acid sequences of 10 671 proteins
+from avian influenza viruses and 13 757 proteins from human influenza
+viruses has revealed 32 distinguishing locations (genetic markers),
+26 of which involve the replication proteins NP, PB2 and PA, and the
+other six the M1 and NS1 proteins involved in replication and host
+response to virus infection. Perhaps a greater degree of complexity
+than previously supposed.
+This analysis defines genetic markers for the systematic
+differentiation of avian and human viruses, but it does not by itself
+predict rates of change in the host range of influenza viruses nor
+directions of change - Mod.CP]
+See Also
+Avian influenza, human (113): pandemic prediction 20070726.2410
+Avian influenza, human (81): factfile 20070519.1602
+2006
+----
+Avian influenza, poultry vs migratory birds (30) 20060621.1711
+Influenza A viruses: genome sequences 20060127.0256
+2005
+----
+Influenza virus: receptor specificities 20051222.3658
+2004
+----
+Avian influenza H5N1, mammals: pathogenicity 20040701.1751
+........................cp/ejp/dk
+*##########################################################*
+************************************************************
+ProMED-mail makes every effort to verify the reports that
+are posted, but the accuracy and completeness of the
+information, and of any statements or opinions based
+thereon, are not guaranteed. The reader assumes all risks in
+using information posted or archived by ProMED-mail. ISID
+and its associated service providers shall not be held
+responsible for errors or omissions or held liable for any
+damages incurred as a result of use or reliance upon posted
+or archived material.
+************************************************************
+Become a ProMED-mail Premium Subscriber at
+<http://www.isid.org/ProMEDMail_Premium.shtml>
+************************************************************
+Visit ProMED-mail's web site at <http://www.promedmail.org>.
+Send all items for posting to: promed@promedmail.org
+(NOT to an individual moderator). If you do not give your
+full name and affiliation, it may not be posted. Send
+commands to subscribe/unsubscribe, get archives, help,
+etc. to: majordomo@promedmail.org. For assistance from a
+human being send mail to: owner-promed@promedmail.org.
+############################################################
+############################################################
+</body>

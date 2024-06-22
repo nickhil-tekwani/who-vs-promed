@@ -1,0 +1,94 @@
+<header id=050154>
+Published Date: 2019-12-14 07:31:16 EST
+Subject: PRO/AH/EDR> Bovine kobuvirus - USA: calves
+Archive Number: 20191214.6840128
+</header>
+<body id=050154>
+BOVINE KOBUVIRUS - USA: CALVES
+******************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+[1]
+Date: Thu 12 Dec 2019
+Source: Science Daily [edited]
+https://www.sciencedaily.com/releases/2019/12/191212122538.htm
+
+
+A virus affecting cattle 1st discovered in Japan in 2003 has made its way to the USA, researchers report in the journal Emerging Infectious Diseases.
+
+Bovine kobuvirus is fairly new to science, so its ill effects are not fully understood. It belongs to a family of viruses known as _Picornaviridae_, which includes _Rhinovirus_, a source of head colds and sinus infections in humans, and _Poliovirus_, which causes polio.
+
+Previous studies conducted elsewhere in the world have found bovine kobuvirus in fecal samples of cattle with diarrhea. The new study confirmed this association by sequencing the microbial DNA in samples from cattle in the USA and analyzing the intestines of 2 calves that died after infection.
+
+"Only bovine kobuvirus was detected in both cases," said University of Illinois veterinary clinical medicine professor Dr. Leyi Wang, who led the new study. "This provides evidence this virus is the causative agent for calf diarrhea."
+
+So far, no other negative associations with bovine infection have been observed. However, since almost no one in North America is looking for the virus in cattle or other species, it remains to be seen how this emerging disease agent influences health, Wang said.
+
+"Continued surveillance of bovine kobuvirus is urgently needed to determine how widespread it is," Wang said. "Scientists have access to only a few genetic sequences of this virus in public databases. We need to be sequencing these viruses to learn more about their genetic diversity and evolution."
+
+Four of 9 samples tested at the University of Illinois Veterinary Diagnostic Laboratory were found to harbor bovine kobuvirus, the team reported. All of the infected cows were from the state of Illinois.
+
+Elsewhere in the world, bovine kobuvirus has been detected in about 10 countries in Asia, Europe, South America and Africa.
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+******
+[2]
+Date: Tue 10 Dec 2019
+Source: CDC Emerging Infectious Diseases [edited]
+https://wwwnc.cdc.gov/eid/article/26/1/19-1227_article
+
+
+Citation: Wang L, Fredrickson R, Duncan M, et al. Bovine kobuvirus in calves with diarrhea, United States. Emerg Infect Dis 2020. https://doi.org/10.3201/eid2601.191227
+
+Abstract: We detected bovine kobuvirus (BKV) in calves with diarrhea in the USA. The strain identified is related genetically to BKVs detected in other countries. Histopathologic findings also confirmed viral infection in 2 BKV cases. Our data show BKV is a potential causative agent for diarrhea in calves.
+
+Bovine kobuvirus (BKV; species _Aichivirus B_, genus _Kobuvirus_, family _Picornaviridae_) was identified initially as a cytopathic contaminant in a culture medium of HeLa cells in Japan in 2003 (1). Since then, BKV has been reported in Thailand, Hungary, the Netherlands, Korea, Italy, Brazil, China, and Egypt (2-9). However, circulation of BKV in North America remains unclear. We report detection of BKV in calves in the USA.
+
+In April 2019, a fecal sample from a 10- to 14-day-old calf was submitted to University of Illinois Veterinary Diagnostic Laboratories (Urbana, IL, USA) for testing for enteric pathogens. Results of tests for rotavirus, coronavirus, cryptosporidium, and _[Escherichia] coli_ were positive; results for _Salmonella_ were negative.
+
+We extracted nucleic acid from the fecal sample and conducted a sequence-independent single-primer amplification and library preparation by using Nextera XT DNA Library Preparation Kit (Illumina, https://www.illumina.com). We conducted sequencing on a MiSeq (Illumina) using MiSeq Reagent Kit V2 (Illumina) at 500 cycles, as previously described (10). We conducted a taxonomic analysis of raw FASTQ files using Kraken version 1 and MiniKraken DB (https://ccb.jhu.edu/software/kraken), which showed 15 582 kobuvirus sequence reads in addition to sequences for _E. coli_, coronavirus, and rotavirus. We assembled the complete genome of BKV IL35164 (GenBank accession no. MN336260) with a genome size of 8337 nt. We used BLAST (https://blast.ncbi.nlm.nih.gov/Blast.cgi) to search the IL35164 genome and found it is closely related to and shares 89% to 91% identities with 4 BKV strains, U-1, EGY-1, SC1, and CHZ. It shares only 77% to 82% identity with sheep and ferret kobuviruses.
+
+Sequence analysis showed that IL35164 has a similar genome organization to other BKVs (Figure, panel A; see source URL) and a 7392-nt open reading frame encoding 2463 amino acids, the same length as U-1, EGY-1, and SC1 strains. IL35164 shares polyprotein identities with 4 other BKV strains, 88.5% to 90.9% identity in the nucleotide level and 94.9% to 96.7% identity in the amino acid level (Appendix Table 1; see source URL). Comparing individual proteins from 4 other BKVs, IL35164 shared only 80.9% to 86.8% nucleotide identity with the leader protein, and shares its highest identity, 95.5% to 98.8%, with the 3B nucleotide in those strains (Appendix Table 1; see source URL). In addition to 3B, IL35164 shows higher nucleotide identities, 92.6% to 95.4%, to other BKVs in 3D, encoding a viral RNA-dependent RNA polymerase.
+
+Phylogenetic analysis of the complete genome confirmed that IL35164 correlates with 4 BKVs in the _Aichivirus B_ species cluster (Figure, panel B; see source URL). On the phylogenetic tree of complete VP1 nucleotide sequences, IL35164 clusters with 2 BKV strains from Brazil, BRA1991 and BRA2016, rather than BKVs U-1, EGY-1, SC1, and CHZ (Appendix Figure 1; see source URL). The relatedness of IL35164 to BRA1991 and BRA2016 in other parts of genome is unclear because complete genomes of the strains from Brazil are unavailable. IL35164 is related distinctly to U-1, EGY-1, SC1, and CHZ on the phylogenetic tree of partial 3D (Appendix Figure 2; see source URL).
+
+To further screen BKV in bovine samples, we designed primers and probes (sequences available upon request) targeting 3D to test 9 additional intestinal samples from necropsied calves. Real-time reverse transcription PCR showed 4 of 9 samples were positive for BKV by cycle thresholds of 23.0 (case IL35146), 29.97 (case IL37122), 32.84 (case IL50179), and 33.61 (case IL34890) but were negative for coronavirus, rotavirus, and bovine viral diarrhea virus (Appendix Table 2; see source URL). Histopathologic observation of small intestines revealed that 2 cases with diarrhea, IL35146 and IL50179, had necrotizing enteritis with villus atrophy and fusion, suggesting a primary viral infection (Appendix Figure 3; see source URL). Two other calves without clinically evident diarrhea died, case IL37122 from jejuno-ileal volvulus and case IL34890 from abomasal rupture; both also were positive for BKV.
+
+Among 3 BKV-positive calves with diarrhea, 2 were less than 1 month of age and 1 was approximately 5 months of age. Previous studies reported high prevalence of BKV infection in young calves with diarrhea; 20.9% (38/182) in calves less than 2 months of age in Brazil and 26.7% (23/86) in calves less than 1 month of age in South Korea (5,9). Our study further supports the hypothesis that BKV causes neonatal diarrhea in calves. In addition, BKV also can be detected from cattle without diarrhea or clinical signs of the virus (1,8).
+
+Since initial identification in 2003 (1), BKV has been detected in cattle from several countries, but only from fecal samples; no natural or experimental studies have reported its pathogenesis. Our histologic examination of necropsied cases clearly indicated viral infection, and only BKV was detected, suggesting BKV was the causative agent for diarrhea. Future studies, including virus isolation and virus challenge to calves, are needed to determine whether BKV fulfills the Koch's postulates as a causative agent for diarrhea in calves.
+
+The prevalence of BKV in the USA remains unknown. Continued surveillance is urgently needed to determine rates and distribution of BKV in North America. Although many partial sequences of 3D and viral protein 1 are available at GenBank, only 4 complete sequences are available, limiting evaluation of BKV. Whole-genome sequencing of both previously and newly discovered BKV isolates is needed to analyze genetic diversity and evolution.
+
+References
+1. Yamashita T, Ito M, Kabashima Y, et al. Isolation and characterization of a new species of kobuvirus associated with cattle. J Gen Virol 2003;84:3069-77.
+2. Barry AF, Ribeiro J, Alfieri AF, et al. First detection of kobuvirus in farm animals in Brazil and the Netherlands. Infect Genet Evol 2011;11:1811-4.
+3. Chang J, Wang Q, Wang F, et al. Prevalence and genetic diversity of bovine kobuvirus in China. Arch Virol 2014;159:1505-10.
+4. Di Martino B, Di Profio F, Di Felice E, et al. Molecular detection of bovine kobuviruses in Italy. Arch Virol 2012;157:2393-6.
+5. Jeoung HY, Lim JA, Jeong W, et al. Three clusters of bovine kobuvirus isolated in Korea, 2008-2010. Virus Genes 2011;42:402-6.
+6. Khamrin P, Maneekarn N, Peerakome S, et al. Bovine kobuviruses from cattle with diarrhea. Emerg Infect Dis 2008;14:985-6.
+7. Mohamed FF, Mansour SMG, Orabi A, et al. Detection and genetic characterization of bovine kobuvirus from calves in Egypt. Arch Virol 2018;163:1439-47.
+8. Reuter G, Egyed L. Bovine kobuvirus in Europe. Emerg Infect Dis 2009;15:822-3.
+9. Ribeiro J, Lorenzetti E, Alfieri AF, Alfieri AA. Kobuvirus (_Aichivirus B_) infection in Brazilian cattle herds. Vet Res Commun 2014;38:177-82.
+10. Wang L, Stuber T, Camp P, et al. Whole-genome sequencing of porcine epidemic diarrhea virus by Illumina MiSeq Platform. In: Wang L, editor. Animal coronaviruses. Totowa (NJ): Humana Press; 2016. p. 201-8.
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The more we look for this disease, the more likely we are to find it. However, because intestines were used, as mentioned in the 1st article, it implies the calves are deceased. So does this virus have the potential to kill calves, or cause such massive diarrhea that the fluid loss and imbalances in young calves is more than they are capable of overcoming? Likely, we have a lot more to learn about this virus, and it is definitely something to keep on the diagnostic radar for ranchers and veterinarians. - Mod.TG
+
+HealthMap/ProMED-mail map:
+United States: https://promedmail.org/promed-post?place=6840128,106]
+
+.................................................sb/tg/rd/dk
+</body>

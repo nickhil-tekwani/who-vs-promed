@@ -1,0 +1,493 @@
+<header id=053341>
+Published Date: 2020-02-10 17:47:49 EST
+Subject: PRO/AH/EDR> Novel coronavirus (41): China, global, clinical pics, asymptomatic trans., WHO
+Archive Number: 20200210.6976117
+</header>
+<body id=053341>
+NOVEL CORONAVIRUS (41): CHINA, GLOBAL, CLINICAL PICTURES, ASYMPTOMATIC TRANSMISSION, WHO
+****************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] China: China National Health Commission 11 Feb 2020
+[2] Global update: Johns Hopkins CSSE [accessed at 7:15 p.m. GMT-5]
+[3] Asymptomatic transmission
+[4] Clinical characteristics of 2019 novel coronavirus infection in China
+[5] False negative NAT tests: comment/query
+[6] Selected media reports of transmission outside of Mainland China
+[7] WHO situation report 21 (as of 10 Feb 2020*)
+
+******
+[1] China: China National Health Commission 11 Feb 2020
+Date: Tue 11 Feb 2020
+Source: China National Health Commission [in Chinese, machine trans., edited]
+http://www.nhc.gov.cn/xcs/yqtb/202002/4a611bc7fa20411f8ba1c8084426c0d4.shtml
+
+
+Update on the epidemic situation of new coronavirus pneumonia as of 24:00 on 10 Feb [2020]
+-------------------------------------------------
+At 04:00 on [10 Feb 2020], 31 provinces (autonomous regions, municipalities) and the Xinjiang Production and Construction Corps reported that 2478 new cases were confirmed (2097 in Hubei), adding 849 severe cases (839 in Hubei). There were 108 deaths (103 cases in Hubei and 1 each in Beijing, Tianjin, Heilongjiang, Anhui, and Henan) and 3536 suspected cases (1814 in Hubei).
+
+On the same day, 716 new cases were cured and discharged (427 cases in Hubei), and 26 724 close contacts were lifted from medical observation.
+
+As of 20:00 on [10 Feb 2020], according to reports from 31 provinces (autonomous regions and municipalities) and the Xinjiang Production and Construction Corps, there were 37 726 confirmed cases (of which 7333 were severe cases), and a total of 3996 discharged patients were cured (1 in Zhejiang province) A total of 1016 deaths were reported; 42 638 confirmed cases were reported (12 cases were subtracted from Zhejiang nuclear, and 1 case was increased from Jiangxi nuclear). There were 21 675 suspected cases. A total of 428 438 close contacts were tracked, and 187 728 close contacts were still in medical observation.
+
+A total of 70 confirmed cases were reported from Hong Kong, Macao, and Taiwan: 42 cases in the Hong Kong Special Administrative Region (1 death), 10 cases in the Macau Special Administrative Region (1 case was cured and discharged), and 18 were in Taiwan (1 case cured and discharged).
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+and
+ProMED-mail Rapporteur Kunihiko Iizuka
+
+[A total of 2478 newly confirmed cases have been reported by China in the past 24 hours, compared with 3062 during the similar time frame [8-9 Feb 2020]. This brings the total number of reported confirmed cases to 42 638. In addition, 108 deaths were reported in this time period, bringing the total number of reported deaths to 1016. In the past 24 hours there have been 10 newly confirmed cases reported from Hong Kong and 1 newly confirmed case reported from Taiwan.
+
+Similar to the period Friday [7 Feb 2020] to Saturday [8 Feb 2020], there was a decrease in the daily reported cases of 19.1%. One hopes this is a harbinger of decreasing transmission, although as previously mentioned, a good epidemic curve by date of onset of illness would be interesting to see, as date of confirmation testing is later than date of onset of illness, not necessarily due to laboratory delays, but related to early mild symptoms not leading to healthcare-seeking behaviors.
+
+A good map of China showing provinces can be found at https://www.chinadiscovery.com/china-maps/china-provincial-map.html and a HealthMap/ProMED-mail map at https://promedmail.org/promed-post?place=6976117,155. - Mod.MPP]
+
+******
+[2] Global update: Johns Hopkins CSSE [accessed at 10:40 p.m. GMT-5]
+Date: Mon 10 Feb 2020
+Source: Johns Hopkins CSSE (Center for Systems Science and Engineering) [edited]
+https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
+
+
+Confirmed cases (2 Feb 2020 / 3 Feb 2020 / 4 Feb 2020 (early) / 4 Feb 2020 (end of day) / 5 Feb 2020 / 6 Feb 2020 / 7 Feb 2020 / 8 Feb 2020 / 9 Feb 2020 early / 9 Feb 2020 late / Country/Region
+17 187 / 19 693 / 20 636 / 23 746 / 27 396 / 30 553 / 34 524 / 37 174 / 37 199 / 40 157 / 42 310 / Mainland China
+20 / 20 / 20 / 22 / 22 / 45 / 25 / 25 / 26 / 26 / 26 / 26 / Japan
+19 / 19 / 19 / 25 / 25 / 25 / 25 / 32 / 32 / 32 / 32 / Thailand
+18 / 18 / 18 / 24 / 28 / 28 / 30 / 40 / 40 / 43 / 45 / Singapore
+15 / 15 / 15 / 17 / 21 / 24 / 26 / 26 / 26 / 36 / 38 / Hong Kong
+15 / 15 / 15 / 16 / 19 / 23 / 24 / 25 / 25 / 27 / 27 / South Korea
+12 / 12 / 12/ 13 / 13 / 14 / 15 / 15 / 15 / 15 / 15 / Australia
+10 / 12 / 12 / 12 / 12 / 12 / 13 / 13 / 15 / 14 / 14 / Germany
+10 / 10 / 10 / 11 / 11 / 16 / 16 / 17 / 17 / 18 / 18 / Taiwan
+11 / 11 / 11 / 11 / 12 / 12 / 12 / 12 / 12 / 12 / 12 / US
+8 / 8 / 10 / 10 / 10 / 10 / 10 / 10 / 10 / 10 / 10 / Macau
+8 / 8 / 10 / 10 / 12 / 12 / 12 / 16 / 16 / 18 / 18 / Malaysia
+6 / 6 / 6 / 6 / 6 / 6 / 6 / 11 / 11 / 11 / 11 / France
+6 / 8 / 8 / 8 / 8 / 10 / 10 / 13 / 13 / 14 / 14 / Viet Nam
+5 / 5 / 5 / 5 / 5 / 5 / 5 / 7 / 7 / 7 / 8 / United Arab Emirates
+4 / 4 / 4 / 4 / 5 / 5 / 7 / 7 / 7 / 7 / 7 / Canada
+2 / 2 / 2 / 2 / 2 / 2 / 3 / 3 / 3 / 3 / 3 / Italy
+2 / 2 / 2 / 2 / 2 / 2 / 2 / 2 / 2 / 2 / 2 / Russia
+2 / 2 / 2 / 2 / 2 / 2 / 3 / 3 / 3 / 3 / 3 / Philippines
+2 / 3 / 3 / 3 / 3 / 3 / 3 / 3 / 3 / 3 / 3 / India
+2 / 2 / 2 / 2 / 2 / 2 / 3 / 3 / 3 / 3 / 8 / UK
+1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / Nepal
+1 / 1 / 1 / 1/ 1 / 1 / 1 / 1 / 1 / 1 / 1 / Cambodia
+1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 2 / 2 / Spain
+1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1/ 1 / Finland
+1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / Sweden
+1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / 1 / Sri Lanka
+0 / 0 / 0 / 1 / 1 / 1 / 1 / 1 / 1/ 1 / 1 / Belgium
+0 / 0 / 0 / 10 / 20 / 41 / 61 / 64 / 64 / 135 / Others
+
+Total reported deaths: 1013
+Hubei Mainland China: 974 deaths
+Guangdong Mainland China: 1 death
+Henan Mainland China: 6 deaths
+Hunan Mainland China: 1 death
+Anhui Mainland China: 3 death
+Jiangxi Mainland China: 1 death
+Chongqing Mainland China: 2 deaths
+Shandong Mainland China: 1 death
+Sichuan Mainland China: 1 death
+Beijing Mainland China: 2 deaths
+Heilongjiang Mainland China: 7 deaths
+Shanghai Mainland China: 1 death
+Hebei Mainland China: 2 deaths
+Guangxi Mainland China: 1 death
+Hainan Mainland China: 3 deaths
+Guizhou Mainland China: 1 death
+Tianjin Mainland China: 1 death
+Gansu Mainland China: 2 deaths
+Jilin Mainland China: 1 death
+Hong Kong Hong Kong: 1 death
+Philippines: 1 death
+
+Data sources: WHO, CDC, ECDC, NHC, and DXY
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[As mentioned previously, this website is constantly updated as new information comes in, so it is likely that when you read this post, the numbers will not match the linked numbers as they will have been updated since the post was prepared.
+
+There are now a total of 376 confirmed cases of 2019-nCoV reported from outside Mainland China. In the past 24 hours, there were a total of 10 + 72 newly confirmed cases were reported from areas outside of Mainland China: Singapore (2), Hong Kong (2), UAE (1) and UK (5). During this period, no new countries were added to the list, nor were new fatalities reported outside China. - Mod.MPP]
+
+******
+[3] Asymptomatic transmission
+Date: Mon 10 Feb 2020
+From: Dr. Camilla Rothe <rothe@lrz.uni-muenchen.de> [edited]
+
+
+2019-nCoV asymptomatic transmission in Germany - interview with Chinese index patient
+--------------------------------------
+During the past days, the press was informed about alleged fraud in association with our letter published in the New England Journal of Medicine on 30 Jan 2020 (Rothe C et al., "Transmission of 2019-nCoV Infection from an Asymptomatic Contact in Germany"). At the center of criticism was the question, if the patient was rightly termed "asymptomatic" or whether she had rather shown some possible prodromal symptoms.
+
+Given the current situation with a rapidly spreading epidemic and an overall lack of solid data, we felt the need to report our observations to the medical world as fast as possible. Our conclusions were therefore chiefly based upon observations of our own patients, who had spent 3 days of intense business meetings and workshops with the Chinese index patient without noticing any clinical signs of a possible respiratory infection. Until the time the letter was published, however, we did not have the chance to talk to the index patient ourselves.
+
+In the meantime, we were granted the opportunity to talk to the index-patient in China on the phone and ask her about possible symptoms she might have had during her visit in Germany. We have published the results of our enquiry as an addendum in NEJM so that the medical world will get an opportunity to judge by themselves if the patient showed any relevant symptoms or not.
+
+According to the personal opinion of the authors, the message of our initial letter still stands.
+
+Link to the new appendix: https://www.nejm.org/doi/suppl/10.1056/NEJMc2001468/suppl_file/nejmc2001468_appendix.pdf
+
+--
+Dr. Camilla Rothe
+<rothe@lrz.uni-muenchen.de>
+LMU Hospital Munich, Div. of Infectious Diseases and Tropical Medicine
+
+[ProMED-mail would like to thank Dr. Rothe for her and her colleagues' contributions.
+
+The supplementary appendix contains the actual interview with the patient.
+
+"Supplementary Material
+To clarify whether the index patient has been correctly described as asymptomatic, a group of the authors spoke with her by telephone on 5 Feb 2020. What follows is her description of the way her symptoms developed.
+
+Sun 19 Jan 2020
+1:35 a.m. local time - Take-off from Shanghai.
+6:30 a.m. local time - Arrival in Munich on a direct flight.
+She noticed that a person was coughing in the rows behind her own row.
+
+Mon 20 Jan 2020
+1st meeting day, Webex conference in the morning, various other business meetings in the afternoon. No symptoms whatsoever during the workday. At midnight she woke up, felt "a little bit warm, but not in a febrile way," took one pill of a Chinese over-the-counter drug called 999 (solution in water), which, according to her, contained acetaminophen. She took it as a "preventive measure to be fit for the following day," when various intense business meetings and workshops were scheduled. This was the only time during her stay in Germany that she reported taking any kind of medication.
+
+Tue 21 Jan 2020
+Felt tired after 3:00 p.m. She ascribed this to the time difference, as this was her bedtime at home in China (10:00 p.m.). She noticed some minor pain "in some muscles and the bones of her chest" when she touched certain trigger points. She did not feel "warm" again, nor did she have any other symptoms.
+
+Wed 22 Jan 2020
+All day meetings until 6:00 p.m. She mentioned that she had felt slightly cold in the morning when wearing light business attire. This ended when she used a shawl. Flight out of Munich at 10:20 p.m.
+
+Thu 23 Jan 2020
+Arrival at 4:00 p.m. local time in Shanghai. Felt tired upon arrival, but otherwise healthy. On the evening of the same day, she reported feeling sick. ("This is the 1st moment I recognized getting sick.") She recorded the temperature at around midnight (approx. 38 deg C [100.4 deg F]); there were some localized chest pains as well.
+
+Fri 24 Jan 2020
+Went to get medicine in the hospital for her sick father and was busy all day. Recorded a temperature of 38.7 deg C [101.7 deg. F] in the evening.
+
+Sat 25 Jan 2020
+Went to see a doctor and was hospitalized.
+
+Sun 26 Jan 2020
+Developed an infrequent dry cough.
+
+Mon 27 Jan 2020
+Transferred to a different hospital.
+
+Tue 28 Jan 2020
+Cough turned productive; it lasted for 3 further days and then subsided.
+
+Wed 5 Feb 2020
+Interview. She was still hospitalized."
+
+While the definition of asymptomatic vs a mild viral prodrome that was missed by other observers and the affected individual may be debated, what is noteworthy is in the revision of the original report, there is mention of follow-up viral load assays of sputum of the index case in Germany after he had recovered and had no further symptoms?: "Follow-up qRT-PCR assay revealed a high viral load of 108 copies per milliliter in his sputum during the following days, with the last available result on [29 Jan 2020]" The authors conclude: "The detection of 2019-nCoV and a high sputum viral load in a convalescent patient (Patient 1) arouse concern about prolonged shedding of 2019-nCoV after recovery. Yet, the viability of 2019-nCoV detected on qRT-PCR in this patient remains to be proved by means of viral culture."
+
+More questions to be answered. - Mod.MPP]
+
+******
+[4] Clinical characteristics of 2019 novel coronavirus infection in China
+Date: Sun 9 Feb 2020
+Source: Medrxiv [edited]
+https://www.medrxiv.org/content/10.1101/2020.02.06.20020974v1.full.pdf
+
+
+Guan WJ, Ni ZY, Hu Y, et.al. Clinical characteristics of 2019 novel coronavirus infection in China. MedRxiv. Posted online 9 Feb 2020. doi http://dx.doi.org/10.1101/2020.02.06.20020974.
+
+Abstract
+Background:
+Since December 2019, acute respiratory disease (ARD) due to 2019 novel coronavirus (2019-nCoV) emerged in Wuhan city and rapidly spread throughout China. We sought to delineate the clinical characteristics of these cases.
+
+Methods:
+We extracted the data on 1099 patients with laboratory-confirmed 2019-nCoV ARD from 552 hospitals in 31 provinces/provincial municipalities through [29 Jan 2020].
+
+Results:
+The median age was 47.0 years, and 41.90% were females. Only 1.18% of patients had a direct contact with wildlife, whereas 31.30% had been to Wuhan and 71.80% had contacted with people from Wuhan. Fever (87.9%) and cough (67.7%) were the most common symptoms. Diarrhea is uncommon. The median incubation period was 3.0 days (range 0 to 24.0 days). On admission, ground-glass opacity was the typical radiological finding on chest computed tomography (50.00%). Significantly more severe cases were diagnosed by symptoms plus reverse-transcriptase polymerase-chain-reaction without abnormal radiological findings than non-severe cases (23.87% vs. 5.20%, P less than 0.001). Lymphopenia was observed in 82.1% of patients. 55 patients (5.00%) were admitted to intensive care unit, and 15 (1.36%) succumbed. Severe pneumonia was independently associated with either the admission to intensive care unit, mechanical ventilation, or death in multivariate competing-risk model (sub-distribution hazards ratio, 9.80; 95% confidence interval, 4.06 to 23.67).
+
+Conclusions:
+The 2019-nCoV epidemic spreads rapidly by human-to-human transmission. Normal radiologic findings are present among some patients with 2019-nCoV infection. The disease severity (including oxygen saturation, respiratory rate, blood leukocyte/lymphocyte count, and chest X-ray/CT manifestations) predict poor clinical outcomes.
+
+--
+Communicated by:
+Mary Marshall
+<mjm2020@googlemail.com>
+
+[Recognizing we are approximately 2 months into the recognition of this outbreak and only one month into laboratory confirmation of suspected cases, the above paper is a good attempt to identify clinical and epidemiologic characteristics of cases drawing from a larger pool of cases throughout China, complemented prior descriptive papers that had smaller patient numbers and were limited to one geographic area.
+
+One of the interesting observations in the full paper, not mentioned in the abstract, is that while fever was the most common symptoms, it was seen in only 43.8% of patients on presentation but developed in 87.9% following hospitalization, debunking the original observation of a febrile respiratory illness on presentation. The authors identified that diarrhea was seen in 3.7% of cases and vomiting in 5.0% of cases.
+
+The tables at the source URL present all of the raw data as well as statistical data delineating the clinical presentations, laboratory and radiographic findings, and epidemiologic data. - Mod.MPP]
+
+******
+[5] False negative NAT tests: comment/query
+Date: Mon 10 Feb 2020
+From: Richard Gould <jrichard.gould@bell.net> [edited]
+
+This is an interesting posting. I'm curious about how the rate of false negatives could be determined without comparison to a "gold standard"? Does such a "gold standard" exist for novel coronavirus infections in order to accurately determine the rates of false positives and negatives? And in the middle of influenza season (a virus with significant morbidity and mortality) when many other respiratory viruses are circulating, wouldn't the determination of false negative rates be challenging if this is based primarily on clinical symptoms?
+
+--
+J Richard Gould MD MHSc FRCPC
+<jrichard.gould@bell.net>
+York Region Public Health
+
+[Dr. Gould raises valid points here. This article was posted to raise the issue of multiple anecdotal reports of false negative tests in the early stages of illness in China. Many of these anecdotal reports were in sensationalist reports, print media, and social media. It merits discussion on the need for formal studies addressing the sensitivity and specificity of the NAT tests being used. -Mod.MPP]
+
+******
+[6] Selected media reports of transmission outside mainland China
+A. Japanese cruise ship
+Date: Tues 11 Feb 2020
+Source: Kyodo News [edited]
+https://english.kyodonews.net/news/2020/02/5e0900bbcd26-65-more-test-positive-for-coronavirus-on-cruise-ship-in-japan.html
+
+
+An additional 65 people on a cruise ship quarantined in Yokohama have tested positive for a new coronavirus, the health ministry said Monday [10 Feb 2020], bringing the number of confirmed cases in Japan -- including 135 on the vessel -- to 161.
+
+U.S. company Princess Cruise Lines Ltd., the operator of the Diamond Princess, had earlier said 66 new cases were confirmed, but the ministry said there could be overlapping in the operator's figure.
+
+As passengers have apparently been under stress during their prolonged isolation on the ship, the government is planning to allow the elderly and those with chronic illnesses to disembark soon, possibly on Tuesday [11 Feb 2020] morning, a source familiar with the matter said.
+
+Approximately 3600 passengers and crew members were scheduled to be isolated aboard the ship through [19 Feb 2020] to prevent the spread of the deadly pneumonia-causing virus in Japan. The ship has been kept in quarantine since a passenger who disembarked in Hong Kong was found to be infected with the virus.
+
+The ship departed Yokohama near Tokyo on [20 Jan 2020] and returned [3 Feb 2020] after visiting Kagoshima prefecture in southwestern Japan, Hong Kong, Vietnam, Taiwan, and Japan's southernmost prefecture of Okinawa. Those confirmed as infected upon arrival have been hospitalized in Japan.
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[Another media report mentioned 5 of the newly confirmed cases of 2019-nCoV infection were crew members, bringing the total number of affected crew members to 10. - Mod.MPP]
+
+---
+B. Singapore
+Date: Mon 10 Feb 2020
+Source: New Straits Times [edited]
+https://www.nst.com.my/world/world/2020/02/564427/2-new-coronavirus-cases-emerge-singapore-tally-rises-45
+
+
+Singapore's Ministry of Health (MOH) confirmed 2 more cases of the novel coronavirus (2019-nCoV) in the republic on Monday [10 Feb 2020] night, bringing the tally to 45.
+
+The 2 cases comprise a 2-year-old Singaporean girl who was evacuated from Wuhan, China, on 30 Jan [2020] and a 37-year-old Singaporean man who works at the Certis Cisco Centre and had been on duty at the Chingay 2020 event.
+
+The MOH added that of the 38 coronavirus patients still in hospital, 7 are in critical condition, while the rest are stable or improving, Bernama reported.
+
+According to the MOH, epidemiological investigations and contact tracing have uncovered 3 infection clusters on the island: the Life Church and Missions Singapore; Chinese health products shop Yong Thai Hang; and the Grand Hyatt Singapore hotel, where a business meeting was held from [20-22 Jan 2020].
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[Local transmission continues in Singapore but hopefully at a slow pace. - Mod.MPP]
+
+---
+C. UK
+Date: Mon 10 Feb 2020
+Source: The Guardian [edited]
+https://www.theguardian.com/world/2020/feb/10/coronavirus-uk-declares-outbreak-serious-threat-to-health
+
+
+Coronavirus: number of confirmed UK cases rises from 4 to 8. News comes after UK declared outbreak was "serious threat" to health
+----------------------------------
+The number of confirmed cases of coronavirus in the UK has doubled from 4 to 8, as the government announced new powers to detain people suspected of having the virus. The 4 new cases -- 3 men and 1 woman -- were transferred from Brighton, where they were diagnosed, to London over the weekend in order to receive specialist care. Public Health England (PHE) later confirmed that 2 of the 4 were healthcare workers. Of those in the UK now diagnosed with the virus, 5 were closely linked to a businessman who was told he had the disease last week in Brighton.
+
+The development came as the UK government declared the coronavirus outbreak a serious and imminent threat to public health, a step that gives authorities additional powers to fight its spread. One of the latest group to be diagnosed is a male doctor who was part of a group skiing in a resort near Chamonix in France with the man at the centre of the Brighton outbreak, the Guardian understands. The other 3 patients were also infected on the skiing trip. The businessman is being treated at St Thomas' hospital in south London, one of the NHS's network of specialist high-consequence infectious diseases (HCID) treatment centres in England.
+
+A GP practice in Brighton, the County Oak Medical Centre, had been closed after a doctor there tested positive for the virus. It said it had closed its doors "because of an urgent operational health and safety reason." People wearing protective full-body suits and gloves were seen cleaning the centre. Staff at the Cornerstone Community Centre in Hove told the area's Argus newspaper that they had been told to self-isolate, as a man with the virus had attended a yoga class there last week.
+
+One of the other 4 confirmed cases is being treated at the HCID unit at the Royal Free hospital in north London, and the 2 Chinese nationals who tested positive for coronavirus in York are being treated at the HCID centre in Newcastle.
+
+Prof Chris Whitty, the chief medical officer for England, said that 8 people had tested positive for coronavirus in the UK out of 1114 tested as of 2 p.m. Monday [10 Feb 2020]. "4 further patients in England have tested positive for novel coronavirus, bringing the total number of cases in the UK to 8," he said.
+
+It also emerged on Monday [10 Feb 2020] that one of those being tested was a student at the University of Sussex, though no result had yet been returned. A spokeswoman for the institution said: "The student had recently returned from overseas. We are following all Public Health England guidance in terms of practical next steps, and we will be keeping our students and staff at the university informed if there are any developments."
+
+The University of Bath also confirmed that a member of its community was being tested for coronavirus "as a precaution and is self-isolating pending the outcome of the test results as advised by Public Health England."
+
+PHE medical director Yvonne Doyle said: "As a result of our contact tracing, we now know the new cases announced today are all closely linked to one another. 2 of these new cases are healthcare workers, and as soon as they were identified, we advised them to self-isolate in order to keep patient contact to a minimum."
+
+"The new cases are all known contacts of a previously confirmed UK case, and the virus was passed on in France. Experts at Public Health England continue to work hard tracing patient contacts from the UK cases. They successfully identified these individuals and ensured the appropriate support was provided. The patients have been transferred to specialist NHS centres at Guy's and St Thomas' and the Royal Free hospitals, and we are now using robust infection control measures to prevent further spread of the virus."
+
+The health secretary, Matt Hancock, said on Monday [10 Feb 2020] that "the incidence or transmission of novel coronavirus constitutes a serious and imminent threat to public health" and designated Arrowe Park hospital in Wirral and Kents Hill Park conference centre in Milton Keynes as official "isolation" facilities. Wuhan and Hubei provinces in China have been labelled an "infected area". Under the measures announced on Monday [10 Feb 2020], the Department of Health said people with coronavirus could now be forcibly detained and sent to isolation if public health professionals believed there was a reasonable risk that they may have the virus. Hancock said the government was taking every possible step to control the outbreak. "NHS staff and others will now be supported with additional legal powers to keep people safe across the country," he said.
+
+"The transmission of coronavirus would constitute a serious threat, so I am taking action to protect the public and isolate those at risk of spreading the virus. Clinical advice has not changed about the risk to the public, which remains moderate." It has been reported that the new powers were introduced in response to one of the Britons who returned from Wuhan in China, the centre of the outbreak, attempting to leave isolation at Arrowe Park hospital on Merseyside.
+
+All those who have been evacuated to the UK have been asked to sign a contract agreeing to remain in quarantine for 14 days, but there were concerns that these contracts were not legally enforceable.
+
+The new designation by the Department of Health follows reports that a British man who caught coronavirus at a business conference in Singapore had been linked to at least 7 other confirmed cases in England, France, and Spain. The middle-aged man visited a ski chalet in the Alpine resort area near Mont Blanc before returning to the UK on an easyJet flight to Gatwick airport from Geneva on [28 Jan 2020]. He was diagnosed with the virus in Brighton and was transferred on Thursday [6 Feb 2020] to St Thomas'.
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+----
+D. Hong Kong
+Date: 11 Feb 2020
+Source: Hong Kong Center for Health Protection Press Release
+https://www.info.gov.hk/gia/general/202002/11/P2020021100063.htm
+
+
+CHP follows up on 2 cases of novel coronavirus infection in Hong Mei House, Cheung Hong Estate
+********************************************************************************
+The Centre for Health Protection (CHP) of the Department of Health (DH) is today ([ 11 Feb 2020]) proactively following up on 2 cases of novel coronavirus infection in Hong Mei House, Cheung Hong Estate in Tsing Yi, and is immediately carrying out active case finding at the 07 units of Hong Mei House to identify if there are undiagnosed cases so as to stop the potential risk of further spread of the virus.
+
+As the 62-year-old female patient of the 42nd case announced yesterday ([10 Feb 2020]) and the 75-year-old male patient of the 12th case confirmed on [30 Jan 2020] both reside at the 07 unit on different floors in Hong Mei House, Cheung Hong Estate, the CHP has proactively followed up to investigate whether the infections of the 2 cases are related.
+
+The CHP has immediately co-ordinated with relevant government departments and organisations to formulate and execute corresponding measures last night. A multi-disciplinary response team has also been activated to investigate and examine if environmental factors were involved in the infection of the 2 cases.
+
+Taking into the opinions from experts, the CHP decided to carry out prudent measures on infection control. Personnel from the CHP have immediately inspected Hong Mei House, Cheung Hong Estate last night and conducted active case finding on residents living at the 07 units of the whole block covering 30 odd floors. Symptomatic residents will be sent to the hospital for isolation while asymptomatic residents will be issued quarantine orders and be transferred to quarantine centre.
+
+The Food and Environmental Hygiene Department and the Housing Department will conduct thorough cleaning and disinfection for the building. The DH will also provide residents with guidelines on professional cleaning and disinfection, such as to maintain drainage pipes properly and regularly pour about half a liter of water into each drain outlet (U-traps) to ensure environmental hygiene, and after using the toilet, to put the toilet lid down before flushing to avoid spreading germs.
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[This press release is reminiscent of the Amoy Gardens, a housing estate in Kowloon. In total, 329 residents in that estate were infected with the SARS-CoV and 33 died. Studies revealed transmission was related to environmental factors. Transmission of the virus was primarily through aerosols. Aerosolized virus in the building plumbing and were drawn into the bathrooms of the apartments through their floor drains. The aerolized particles were then transported by winds into adjacent buildings in the Amoy Gardens estates. Hence, the present day occurrence of 2 cases in a housing estate is leading to an immediate investigation looking for more cases in the estate and most probably there will be environmental studies.
+
+Refs:
+McKinney KR, Gong YY, Lewis TG. Environmental transmission of SARS at Amoy Gardens. J Environ Health. 2006;68(9):26-52.
+
+Hung L. S. (2003). The SARS epidemic in Hong Kong: what lessons have we learned?. Journal of the Royal Society of Medicine, 96(8), 374-378. doi:10.1258/jrsm.96.8.374
+
+- Mod.MPP]
+
+******
+[7] WHO situation report 21 (as of 10 Feb 2020*)
+Date: Mon 10 Feb 2020
+Source: World Health Organization [edited]
+https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200210-sitrep-21-ncov.pdf?sfvrsn=947679ef_2
+
+
+*The situation report includes information provided by national authorities as of 10 a.m. Central European Time
+
+Highlights
+----------
+- No new countries reported cases of 2019-nCoV in the past 24 hours.
+- The WHO R&D Blueprint is a global strategy and preparedness plan that allows the rapid activation of R&D activities during epidemics. On [11-12 Feb 2020], WHO is convening a global research and innovation forum to mobilize international action and enable identification of key knowledge gaps and research priorities to contribute to the control of 2019-nCoV. The forum will include members of the scientific community, researchers from member states' public health agencies, regulatory experts, bioethicists with expertise in research in emergencies, and major funders of research related to 2019- nCoV.
+
+[The figures provided in the report are the figures from the National Health Commission of China from 7 Feb 2020. The 10 Feb 2020 figures are included in Section [1] above. They are posted at approximately 7 p.m. (GMT-5), which is 1 a.m. (GMT+1) in Geneva. - Mod.MPP]
+
+Table 2. Countries, territories or areas with reported confirmed 2019-nCoV cases and deaths. Data as of [10 Feb 2020].
+
+Excerpted to show confirmed cases outside mainland China:
+
+WHO Region:
+Country/Territory/Area: Total confirmed (new cases in past 24 hours)* / Total (new) with travel history to China / Total (new) cases with possible or confirmed transmission outside of China** / Total (new) case with site of transmission under investigation / Total (new) deaths
+
+Western Pacific Region:
+China***: 40 235 (3073) / / / / 903 (97)
+Japan: 26 / 22 / 4 / 0 / 0
+Republic of Korea: 27 /13 / 12 / 2 / 0
+Viet Nam: 14 / 8 / 6 / 0 / 0
+Singapore: 43 (3) / 21 / 22 (3) / 0 / 0
+Australia: 15 / 15 / 0 / 0 / 0
+Malaysia: 18 (1) / 10 (1) / 4 / 4 / 0
+Cambodia: 1 / 1 / 0 / 0 / 0
+Philippines: 3 / 2 / 0 / 1 / 1
+South East Asia Region:
+Thailand: 32 / 22 / 6 / 4 / 0
+Nepal: 1 / 1 / 0 / 0 / 0
+Sri Lanka: 1 / 1 / 0 / 0 / 0
+India: 3 / 3 / 0 / 0 / 0
+Region of the Americas:
+United States of America: 12 / 10 / 2 / 0 / 0
+Canada: 7 / 6 / 0 / 1 / 0
+European Region:
+France: 11 / 5 / 6 / 0 / 0
+Finland: 1 / 1 / 0 / 0 / 0
+Germany: 14 / 2 / 12**** / 0 / 0
+Italy: 3 / 3 / 0 / 0 / 0
+Russian Federation: 2 / 2 / 0 / 0 / 0
+Spain: 2 (1) / 0 / 2****** / 0 / 0
+Sweden: 1 / 1 / 0 / 0 / 0
+United Kingdom: 4 (1) / 1 / 3***** / 0 / 0
+Belgium: 1 / 1 / 0 / 0 / 0
+Eastern Mediterranean Region:
+United Arab Emirates: 7 / 6 / 1 / 0 / 0
+
+Other: Cases on an international conveyance (Japan): 70 (6)******* / 0 / 0 / 70 (6) / 0
+
+*Case classifications are based on WHO case definitions for 2019-nCoV.
+**Location of transmission is classified based on WHO analysis of available official data and may be subject to reclassification as additional data become available.
+*** Confirmed cases in China include cases confirmed in Hong Kong SAR (26 confirmed cases, 1 death), Macao SAR (10 confirmed cases) and Taipei and environs (17 confirmed cases)
+****Modified based on updated information.
+*****The exposure for one of the 2 cases occurred outside the United Kingdom.
+******The exposure occurred in Germany.
+*******Cases identified on a cruise ship currently in Japanese territorial waters.
+
+[There are excellent graphs and a map available at the source URL, as well as strategic objectives and preparedness and response information.
+- Figure 1. Countries, territories or areas with reported confirmed cases of 2019-nCoV, 10 Feb 2020
+- Figure 2: Epidemic curve of 2019-nCoV cases (n=144) identified outside China, by date of onset of symptoms and travel history, 10 Feb 2020 [WHO has a note for Figure 2: [Of the 319 cases reported outside China, 16 were detected while asymptomatic. For the remaining 303 cases, information on date of onset is available only for the 144 cases presented in the epidemiologic curve.]
+- Figure 3: Epidemic curve of 2019-nCoV cases (n=319) identified outside China, by date of reporting and travel history, 10 Feb 2020.
+- Mod.MPP]
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The number of countries reporting confirmed cases of the 2019-nCoV with transmission occurring outside China remains 12 (Japan, Singapore, South Korea, Viet Nam, Malaysia, Thailand, USA, France, Germany, Spain, the UK, and the UAE). - Mod.MPP]
+See Also
+Novel coronavirus (40): animal reservoir, pangolin poss intermediate host, RFI 20200210.6972104
+Novel coronavirus (39): China, global, false negative NAT tests, WHO 20200209.6972103
+Novel coronavirus (38): China, global, local transm, CFR, WHO 20200209.6969995
+Novel coronavirus (37): China, global, cruise, clinical, WHO 20200208.6967526
+Novel coronavirus (36): China, global, incubation, airport screen, WHO 20200207.6963294
+Novel coronavirus (35): China, global, health workers, cruise, WHO, RFI 20200206.6959291
+Novel coronavirus (34): China, global, deaths, WHO 20200205.6955196
+Novel coronavirus (33): China, global, epidemic modeling interactive tool available 20200204.6954575
+Novel coronavirus (32): China, global, management, research 20200204.6950903
+Novel coronavirus (31): China, Global, 20200202.6946685
+Novel coronavirus (30): updates, China, Viet Nam, research 20200202.6945658
+Novel coronavirus (29): updates, China, Philippines, USA, Canada, Spain 20200202.6944056
+Novel coronavirus (28): China (HU) animal reservoir 20200201.6943858
+Novel coronavirus (27): updates, Africa 20200201.6943724
+Novel coronavirus (26): research, research, early spread in Wuhan, China 20200201.6943519
+Novel coronavirus (25): updates, China, Italy, Russia, UK 20200131.6940058
+Novel coronavirus (24): updates, China, PHEIC, India, economy, research 20200131.6937255
+Novel coronavirus (23): updates, China, UAE, Finland, ECDC, research 20200129.6929532
+Novel coronavirus (22): reservoir suggested, bats 20200129.6930718
+Novel coronavirus (21): China, Canada, Sri Lanka ex China 20200127.6918021
+Novel coronavirus (20): China, wildlife trade ban 20200127.6922060
+Novel coronavirus (19): China (HU) transmission dynamics 20200126.6918012
+Novel coronavirus (18): China (HU) animal reservoir 20200125.6915411
+Novel coronavirus (17): China (HU), France, USA ex China, Viet Nam p2p trans. 20200125.6914553
+Novel coronavirus (16): China (HU), Viet Nam, Singapore ex China, IHR committee WHO 20200123.6910685
+Novel coronavirus (15): China (HU) wild animal sources 20200123.6909913
+Novel coronavirus (14): China (HU), Hong Kong, Macau ex China 20200122.6907971
+Novel coronavirus (13): China (HU) USA ex China 20200121.6903878
+Novel coronavirus (12): China (HU) new fatality, healthcare workers, WHO 20200121.6901757
+Novel coronavirus (11): China (HU), South Korea ex China 20200120.6899007
+Novel coronavirus (10): China (HU, GD, BJ) 20200119.6898567
+Novel coronavirus (09): China, 1st diagnostic test 20200119.6897998
+Novel coronavirus (08): China (HU) more cases, Nepal susp, modeling 20200118.6897282
+Novel coronavirus (07): China (HU), Thailand ex China, Japan ex China, WHO 20200117.6895647
+Novel coronavirus (06): China (HU) fatality, Japan ex China, antipyretic use 20200116.6893471
+Novel coronavirus (05): China (HU), Japan ex China 20200115.6891515
+Novel coronavirus (04): China (HU), Thailand ex China, .6889527
+Novel coronavirus (03): China (HU) animal reservoir suggested, RFI 20200114.6887480
+Novel coronavirus (02): Thailand ex China (HU) WHO 20200113.6886644
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia - China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia - China (HU) (09): novel coronavirus, more info, fatality 20200110.6883253
+Undiagnosed pneumonia - China (HU) (08): novel coronavirus, WHO 20200110.6881082
+Undiagnosed pneumonia - China (HU) (07): official confirmation of novel coronavirus 20200108.6878869
+Undiagnosed pneumonia - China (06): (HU) Hong Kong surveillance, USA CDC alert 20200108.6876648
+Undiagnosed pneumonia - China (05): (HU) novel coronavirus identified 20200108.6877694
+Undiagnosed pneumonia - China (04): (HU) Hong Kong surveillance 20200106.6874277
+Undiagnosed pneumonia - China (03): (HU) updates, SARS, MERS ruled out, WHO, RFI 20200105.6872267
+Undiagnosed pneumonia - China (02): (HU) updates, other country responses, RFI 20200103.6869668
+Undiagnosed pneumonia - China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+----
+Undiagnosed pneumonia - China (HU): RFI 20191230.6864153
+.................................................mpp/tw/mpp/
+</body>

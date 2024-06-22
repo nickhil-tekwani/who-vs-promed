@@ -1,0 +1,308 @@
+<header id=025959>
+Published Date: 2020-10-28 09:33:54 EDT
+Subject: PRO/AH/EDR> COVID-19 update (457): air pollution, antibiotic use, WHO, global
+Archive Number: 20201028.7896479
+</header>
+<body id=025959>
+CORONAVIRUS DISEASE 2019 UPDATE (457): AIR POLLUTION IMPACT, INCREASED ANTIBIOTIC USE, WHO, GLOBAL
+**************************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] Air pollution increases transmission and mortality
+[2] USA: increased antibiotic use
+[3] WHO updates (as of 27 Oct 2020)
+[4] Global update: Worldometer accessed 27 Oct 2020 22:20 EDT (GMT-4)
+
+******
+[1] Air pollution increases transmission and mortality
+Date: Mon 26 Oct 2020
+Source: MedRxiv [abridged, edited]
+https://www.medrxiv.org/content/10.1101/2020.10.19.20215236v1.full-text
+
+
+ref: He G, Pan Y, Tanaka T. The causal effect of air pollution on COVID-19 transmission: Evidence from China. medRxiv 2020.10.19.20215236; >
+--------------------------------------------------------------------------------
+Abstract
+--------
+There is increasing concern that ambient air pollution could exacerbate COVID-19 transmission. However, estimating the relationship is challenging because it requires one to account for epidemiological characteristics, to isolate the impact of air pollution from potential confounders, and to capture the dynamic impact. We propose a new econometric framework to address these challenges: we rely on the epidemiological Susceptible-Infectious-Recovered-Deceased (SIRD) model to construct the outcome of interest, the Instrument Variable (IV) model to estimate the causal relationship, and the Flexible-Distributed-Lag (FDL) model to understand the dynamics. Using data covering all prefectural Chinese cities, we find that a 10-point (14.3%) increase in the Air Quality Index would lead to a 2.80 percentage point increase in the daily COVID-19 growth rate with 2 to 13 days of delay (0.14 ~ 0.22 increase in the reproduction number: R0). These results imply that improving air quality can be a powerful tool to contain the spread of COVID-19.
+
+Introduction
+------------
+Ambient air pollution could affect the spread of infections through increasing both exposure and susceptibility to the virus (for details see Supplementary Note 1 at the source URL above). Air pollution can cause a persistent inflammatory response and impair the respiratory and immune systems (9,10), making it more challenging for an individual to resist infection. Besides, recent studies suggest that aerosols in the air may maintain the viability and transmissibility of the virus (11-13). Therefore, degraded air quality, dominated by particulate matter (i.e., aerosols), may extend the survival of the virus in the air, which amplifies the chances of infection. Several previous papers suggest that air pollution may increase the spread of influenza (14,15) and SARS (16); more recently, it has been found that air pollution is correlated with COVID-19 incidence in the U.S. (17,18), Germany (19), the Netherlands (20), Italy (21), the U.K. (22), and China (23).
+
+Discussion
+----------
+Accurately estimating the effect of air pollution on COVID-19 transmission requires researchers to account for the exponentiality in virus growth and to introduce exogenous shocks to local air quality. Based on the SIRD model, we show that a non-model-based framework could produce biased estimates. This finding suggests that many studies linking air pollution to COVID-19 could be problematic (17-23). The same concern also applies to studies that try to assess the impacts of virus containment policies43-45 and weather conditions (46,47) on COVID-19 spread. We also documented that associational analysis based on simple OLS regression models will understate the true impact of air pollution on COVID-19 transmission (17,19,21-23), as is consistent with the previous environmental health literature (24-31).
+
+Our analyses find that a 10-point (14.3%) increase in AQI [air quality index] leads to a 2.80 percentage point increase in the daily growth rate over 2 to 13 days after the pollution exposure. The effect is statistically significant and economically meaningful. For example, holding all else constant, if we were able to bring all the air quality levels to the country's standard (AQI = 100, mean AQI would have been reduced by 13.2%), a back-of-envelope calculation reveals that the cumulative cases of COVID-19 would have been reduced by 25.7%.
+
+Knowing that air pollution can increase the transmission of COVID-19 is particularly relevant to developing countries that rely heavily on manufacturing and coal (such as India, Indonesia, and Pakistan). These countries face significant challenges in controlling COVID-19, in part because of the faster transmission rate caused by high levels of air pollution. Policymakers should thus consider adopting more stringent pollution control policies in their war to combat COVID19.
+
+Our study has 2caveats. First, we use confirmed active infections to create our outcome variables. As is common in any study of infectious disease (39), the number of confirmed cases could be much lower than the actual cases, and confirmed cases might not reflect the real epidemic outbreak. This concern is partially alleviated by our use of the growth rate as the outcome variable because our results will hold as long as under-reporting is constant (for example, if 50% of infected cases are always confirmed) within a city. In addition, our regressions include date fixed effects that can control for nationwide events specific to each date, such as national testing policies or revision of the disease classification. While controlling the variation in testing capacity can partially mitigate the concern about under-reporting, such data are not available at the city-by-day level.
+
+Second, we do not have sufficient statistical power to investigate whether air pollution affects COVID-19 deaths. This is because there have been only a few COVID-19 deaths in most Chinese cities. Outside Wuhan, more than 90% of Chinese cities have recorded only 0 or 1 death. While more than 3000 people died from COVID-19 in Wuhan city, the data were not accurate at the early stage of the outbreak in the city (39). Therefore, we refrain from discussing the relationship between air pollution and the COVID-19 death rate. Nevertheless, we investigate this issue in Supplementary Figure 9 and Supplementary Note 4 [available at the source URL above] and do not find any statistically significant relationship. Future research is warranted on this issue if richer data from other countries become available.
+
+--
+Communicated by:
+Claudinne Miller
+Tulane Outbreak Daily
+<cmiller15@tulane.edu>
+
+[The general conclusion of a number of studies is that COVID-19 pandemic transmission prefers dry and cool environmental conditions, as well as polluted air. Air pollution can facilitate the persistence of the virus in the atmosphere. It was shown that long-term exposure to high-concentration of particulate matter with an aerodynamic diameter less than 2.5 micron (PM2.5) increases the mortality from COVID-19 (https://doi.org/10.1101/2020.04.05.20054502). This study found that an increase of only 1 microg/m3 in PM2.5 is associated with an 8% increase in the COVID-19 death rate (95% confidence interval [CI]: 2%, 15%).
+
+It would be interesting to know how the wild fires in the western US and Australia affected COVID-19 severity and mortality. But certainly, while more studies separating environmental factors from other variables are needed, the results found by numerous investigators are one more reason to support policies that foster clean air. - Mod.LK]
+
+******
+[2] USA: increased antibiotic use
+Date: Sat 24 Oct 2020
+Source: MedPage Today [edited]
+https://www.medpagetoday.com/meetingcoverage/idweek/89315
+
+
+[This post is taken from the ProMED-AMR network (antimicrobial resistance)
+COVID-19 (11): USA, incr. antibiotic use, VA hospitals, 1st 5 months, 2020 20201027.7893630; thanks to Mod.ML]
+
+VA [Veterans Affairs] hospitals used more antibiotics in the 1st 5 months of 2020, which reversed declines in antibiotic use in recent years, a researcher said. Days of therapy per 1000 days-present rose to 631 in January-May 2020, the highest since 2016 when it was 630 days per 1000, reported Matthew Goetz, MD, of VA Greater Los Angeles Healthcare System and David Geffen School of Medicine at the University of California Los Angeles. "We've lost about 3 years of progress," said Goetz at a press conference at the virtual IDWeek. [Goetz MB, et al "Antimicrobial use in the time of COVID-19 -- Data from 84 VA facilities" IDWeek 2020; Abstract 181.]
+
+However, increased use had no correlation with COVID-19 case burden. In fact, Goetz noted "tremendous variation across sites," with some facilities with a large number of COVID-19 cases noting little change, and some with relatively few cases seeing an increase. Goetz attributed the overuse early on in the pandemic to "diagnostic confusion" when a patient presented with respiratory distress or pneumonia.
+
+Given COVID-19 often presents as a respiratory illness, and patients developing pneumonia was reported early in the pandemic, he told MedPage Today that while they did not present the data as broken out by month, the peak antibiotic use was "sometime in March or April" [2020] and "in May, antibiotic use may have been decreasing" as the medical community learned more about the virus. "We didn't have testing available, and didn't have enough information [about] other treatments," he added, speculating that, "as physicians became more comfortable" with diagnosing COVID-19 and had "less reliance on antibiotics, that's why rates came down."
+
+Researchers examined data from 84 VA facilities in the US from [1 Jan to 31 May] for 2015-2020. CDC National Healthcare Safety Network Antimicrobial Use rules determined days of therapy per 1000 days-present. COVID-19 days of care were defined as all acute days of care after laboratory confirmation of infection.
+
+After hitting 605 days of therapy per 1000 in 2019, this number shot up to 631 days of therapy per 1000 in 2020. The largest increases were among community-acquired pneumonia agents and broad-spectrum agents for Gram-resistant negative bacteria. Use of all CDC antibiotic classes rose in 2020, except narrow-spectrum beta-lactams.
+
+Even when facilities in the hardest hit areas of the country -- such as New England, New York, New Jersey, Michigan, Chicago, and New Orleans -- were excluded, there was still an increase in days of therapy per 1000 versus 2019 during that time period (638 vs 611, respectively).
+
+At the press conference, Goetz noted if clinicians had the ability to rapidly diagnose COVID-19, then perhaps they would not have been using "antibacterial therapy, thinking a person might have bacterial pneumonia," given there is actually low incidence of co-infection. "With critically ill persons, we don't want to miss bacterial causes," he said.
+
+Goetz described COVID-19 as a "case study" in the importance of rapid diagnostics. With the availability of rapid testing to quickly diagnose infections "we can apply the principles of precision medicine more thoughtfully to infectious disease, decrease antibiotic use, and preserve the effectiveness of what we currently have," he noted.
+
+[Byline: Molly Walker]
+
+--
+Communicated by:
+ProMED-AMR
+<promed@promedmail.org>
+
+[Viral pneumonia due to influenza is known to be a risk for secondary bacterial pneumonia, most commonly with _Streptococcus pneumoniae_, methicillin-sensitive or methicillin-resistant _Staphylococcus aureus_, and group A _Streptococcus_. Also, ICU patients who are intubated for respiratory support are at risk for ventilator-associated bacterial pneumonia, frequently due to hospital-acquired pathogens, such as methicillin-resistant _S. aureus_, _Pseudomonas aeruginosa_, and _Acinetobacter baumannii_. Early in the COVID-19 pandemic, bacterial co/superinfection was suspected to complicate COVID-19, which prompted empiric use of antibiotics in most hospitalized COVID-19 patients. However, bacterial co/superinfection has been subsequently found to infrequently complicate the course in hospitalized patients with COVID-19.
+
+For example, in a literature review of 3338 patients with COVID-19 evaluated for acute bacterial infection, bacterial co-infection (estimated on presentation) was identified in 3.5% of patients and secondary bacterial infection in 14.3% of patients; the overall proportion of COVID-19 patients with bacterial infection was 6.9% (https://www.clinicalmicrobiologyandinfection.com/article/S1198-743X(20)30423-7/fulltext). Bacterial infection was more common in critically ill patients (8.1%). Nevertheless, the majority of these patients with COVID-19 received antibiotics (71.9%), which tended to be broad-spectrum agents.
+
+In another study from China, of 101 patients with confirmed COVID-19 admitted by [29 Feb 2020] to the Zhijiang Medical Center in Hangzhou, Zhejiang Province, including 36 patients in the ICU, 5 of the ICU patients (5.0% of all 101 patients; 13.9%, of 36 ICU patients) were diagnosed with SARS-CoV-2 and secondary bacterial infection (https://academic.oup.com/ofid/article/7/6/ofaa220/5851927).
+
+WHO has recently released guidance on the clinical management of COVID-19, which recommends not to provide antibiotic therapy or prophylaxis in patients with mild or moderate disease without clinical indication to do so (https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(20)30129-4/fulltext).
+
+Rapid molecular diagnostics that detect a comprehensive spectrum of clinically relevant bacterial pathogens and antibiotic resistance markers are crucial to inform prompt use of an antibiotic treatment regimen for co/secondary bacterial infections to prevent fatal outcomes. - Mod.ML]
+
+******
+[3] WHO updates (as of 27 Oct 2020)
+[A] Weekly epidemiological update 11
+Date: Tue 27 Oct 2020
+Source: WHO [abridged, edited]
+https://www.who.int/publications/m/item/weekly-epidemiological-update---27-october-2020
+
+
+Data as received by WHO from national authorities, as of 10 am CEST [25 Oct 2020]
+
+Global epidemiological situation
+--------------------------------
+In the past week, the highest number of new COVID-19 cases have been reported globally, amounting to over 2 million new cases in the past 7 days (Figure 1), the shortest intervals for this exponential increase since the start of the pandemic, while the number of new deaths is comparable to previous weeks. As of [25 Oct 2020], over 42 million cases and 1.1 million deaths have been reported globally, with over 2.8 million new cases and nearly 40 000 new deaths reported over the past week.
+
+For the 2nd consecutive week, the European Region accounts for the greatest proportion of reported new cases, with over 1.3 million new cases reported this past week -- a 33% increase in cases compared to the previous week -- contributing nearly half of all new cases reported worldwide this week (46%) (Table 1). Similarly, the number of deaths continues to increase in the region with a 35% increase from last week and accounting for nearly one 3rd of all new deaths globally. Although not as substantial, increases in reported new cases were also observed in the Region of the Americas, Eastern Mediterranean, and African regions. Declines in cases and deaths continued to be reported in the South East Asia region while the Western Pacific region has shown a slight decline in new cases and deaths in the past 7 days.
+
+Figure 1: Number of COVID-19 cases reported weekly by WHO Region, and global deaths, [30 Dec 2019] through [25 Oct 2020]
+Table 1: Newly reported and cumulative COVID-19 confirmed cases and deaths, by WHO Region, as of [25 Oct 2020]).
+Figure 2: COVID-19 cases per million population reported in the last 7 days by countries, territories and areas, [19 Oct 2020] through [25 Oct 2020].
+
+Situation by WHO region
+-----------------------
+- African Region
+With 32 000 new cases and 800 new deaths over the past week, the Region accounts for around 1% of new global cases and 2% of new global deaths (Table 1). South Africa, Kenya, and Ethiopia continue to report the highest numbers of new cases. The Region shows a mixed pattern with countries at different epidemic stages and experiencing different outcomes. Despite this, COVID-19 continues to contribute an added burden to public health, strained already stretched health systems, and caused socio-economic pressures.
+
+Cases in Ethiopia have declined from peaks in August [2020] when there were over 10 000 cases a week, to just over 4400 new cases reported in the past week (38 new cases per 1 million population), a 12% decrease compared to the previous 7 days. The number of new cases in Ethiopia is the 3rd highest in the WHO African region. Deaths in the country have increased slightly (6%) in the past week although overall numbers remain low (n=73) and the rate of new deaths is less than one (0.6) per 1 million population. Ethiopia, as well as other countries in the Horn of Africa, are facing a triple threat of floods from unusually heavy rains, desert locust crop destruction, and the impacts of COVID-19-all threatening food security.
+
+With 4594 new cases over the past week (85 new cases per 1 million population), a 51% increase from last week, Kenya is now reporting the 2nd highest numbers of new cases in the Region and has witnessed a dramatic rise since the week of [28 Sep 2020] when there were only 1000 new cases reported. It is just shy of its previous peak at the end of July [2020] when there were 4 700 new cases Although deaths have increased at a much lower rate (9%) and new deaths are just over one per 1 million population (1.3). Oxygen is one of the most essential medicines for saving patients with COVID-19, as well as many other conditions. One of the main barriers to medical oxygen is the high transport costs of the cylinders to the health facilities. In Kenya, a private sector company has positioned oxygen plants near clusters of health facilities and uses a milk delivery system to deliver oxygen to more than 140 clinics. WHO is committed to working in solidarity with all governments, partners, and the private sector to scale up sustainable oxygen supply.
+
+Figure 3: Number of COVID-19 cases and deaths reported weekly by the WHO African Region, as of [25 Oct 2020]
+
+- Region of the Americas
+The Region of the Americas reported 880 000 new cases (31% of the global total) and 17 000 new deaths (43% of the global total) over the past week. The United States, Brazil, and Argentina continue to report the highest number of new cases (78% of regional new cases) and new deaths (67% of regional new deaths) in the Region.
+
+The number of new weekly cases in the United States has risen since the week beginning [7 Sep 2020], when there were 240 000 confirmed cases, to over 400 000 confirmed cases over the past week. Cases are now approaching the previous epidemic peak in July [2020]. At 1318 new cases per million population, the incidence is lower in comparison to several European countries, such as the United Kingdom (2 200 cases per million) and France (3 300 cases per million). According to a US CDC report, the number of deaths from COVID-19 might underestimate the total impact of the pandemic on mortality, with an estimated 300 000 excess deaths occurring from late January [2020] through [3 Oct 2020], of which 200 000 excess deaths can be attributed to COVID-19.
+
+Colombia has reported just over 1 million cumulative cases since the start of the pandemic, with the number of weekly new cases remaining stable with approximately 53 000 new cases (1053 new cases per 1 million population) and 1100 new deaths (23 new deaths per 1 million population) reported this week. Cases in Colombia peaked in the week of [10 Aug 2020] at 77 915 cases, dropping to 43 000 cases in the week of [28 Sep 2020], but have risen in October [2020].
+
+In the week beginning [28 Sept 2020], Canada exceeded its previous peak of roughly 12 000 new cases per week observed in late April [2020]. In October [2020] the number of cases has continued to rise, with over 17 000 new cases in the last week (467 new cases per 1 million population). The number of new deaths per week has also risen in October [2020], with 166 deaths reported for the past week, although these numbers are far lower than they were in April and May [2020] when over 1000 weekly new deaths were reported. Quebec and Ontario, which account for approximately 60% of the population of Canada, account for nearly 80% of cases. There have been reports suggesting that this rise may be partly attributable to social gatherings during Thanksgiving, which was celebrated in Canada on [12 Oct 2020].
+
+Figure 4: Number of COVID-19 cases and deaths reported weekly by the WHO Region of the Americas, as of [25 Oct 2020]
+
+- Eastern Mediterranean Region
+In the past 7 days, there have been 159 000 new cases and 4000 deaths reported in the Eastern Mediterranean region. This represents a 6% increase in cases from last week and there has been a steady increasing trend seen in the region over the past 2 months. While Iran continues to report the highest number of new cases in the region, the highest number of new cases per 1 million population is seen in Jordan, while the highest new deaths and new deaths per 1 million population remain highest in Iran.
+
+Jordan has reported an acceleration of new cases this past week and reached a peak of reported daily new cases in the past 7 days. Bahrain reports the 2nd highest new cases per 1 million population (1413) and the highest cumulative cases of 47 001 per 1 million population. Increased public health and safety measures are seen throughout the country and the Ministry of Health for the Kingdom of Bahrain have recently published 2 new guidance documents, the 1st addressing health requirements to be applied in establishments serving shisha to contain and prevent the spread of the coronavirus (COVID-19) and the other aims to establish health measures to be observed by restaurants and coffee shops to mitigate the spread of COVID-19.
+
+While the number of new cases in Djibouti remains low, there has been an increasing trend in new cases for the past 3 weeks. New cases reported in the country last week showed a 480% increase (from 5 to 29) compared to 3 weeks ago, week beginning [28 Sep 2020]. This week Djibouti reported 78 new cases, a 169% increase from the previous week. These steady increases in new cases are not at previous peaks seen in June [2020], when there were 975 cases in the 1st week of June, but are still of concern. As a result, the Ministry of Health announced they will be closing land borders from 20 October for 15 days.
+
+Figure 5: Number of COVID-19 cases and deaths reported weekly by the WHO Eastern Mediterranean Region, as of [25 Oct 2020]
+
+- European Region
+The number of new cases and deaths reported in the European region are increasing exponentially, with 36% and 37% increase in cases and deaths respectively compared to the previous week, the highest percentage increase reported in a single week in the region. Although the number of deaths is gradually increasing, the proportion of deaths to cases remains relatively low, compared to the early phase of the pandemic in the spring [2020].
+
+Approximately 1.3 million cases and 11 700 deaths were reported in the last 7 days, accounting for 46% and 30% respectively of the total number of cases and deaths reported globally. France accounted for the greatest number of new cases, over 200 000 cases, reported in the past 7 days. In the last week, hospitalizations due to COVID-19 and ICU occupancy increased in 21 countries across the region, compared to the previous week, however, current figures represent about 25% of the numbers reported during the peak level early in the pandemic. Based on surveillance data reported, an estimated 18% of reported COVID-19 cases have been hospitalized, with 7% of hospitalized patients requiring ICU and/or respiratory support.
+
+In the United Kingdom, new cases have increased by 30% in the past week. The number of hospitalizations in Wales has sharply increased in the last week, increasing the pressure on frontline staff. There was also a steep increase in the number of ICU admissions among COVID-19 cases aged over 65 years old in England. Other countries reporting high hospitalization rates include Czechia, where new deaths per 1 million population are currently the highest (67) since the start of the pandemic and hospitals are expected to be at maximum capacity by mid-November [2020] and Italy where hospitals in Milan are stretched to capacity and temporary clinics have been reopened to manage the burden on the health system.
+
+In the last week, Slovenia reported their highest daily increase in the number of new cases, 1964, the rapid rise in cases has resulted in the health care system being stretched to capacity. To reduce transmission, the country was split into "red" and "orange" zones based on reported case numbers and Public Health and Social Measures were implemented accordingly.
+
+Figure 6: Number of COVID-19 cases and deaths reported weekly by the WHO European Region, as of [25 Oct 2020]
+
+- South East Asia Region
+A continued declining trend in new cases and deaths was observed in the South East Asia this week, this decline in new cases and deaths has been a weekly trend for the past 5 weeks with the largest decrease in new cases (decrease of 13%) and deaths (decrease of 16%) seen in the past 7 days. Steady decreases in cases have been seen in the past month in India, Indonesia, Myanmar, Maldives, and Bhutan with other countries in the region continuing to fluctuate.
+
+The only country in the region this week to report a substantial increase in new cases has been Sri Lanka reporting 2046 new cases (96 new cases per 1 million population) compared to 847 new cases (40 new cases per 1 million population) last week. In an effort to decrease the burden at one of its largest hospitals, government authorities have decided to restrict the number of all outpatients patients visiting the Colombo National Hospital. As an alternative a landline and mobile service to obtain medicines at the clinics of the Colombo National Hospital.
+
+While India is still reporting the highest number of new cases and deaths in the region, trends in these numbers for the country continue to decrease. India has reported 370 260 new cases (268 new cases per 1 million population) a decrease of 16% in the past week. 4503 new deaths (3.3 new deaths per 1 million population) were reported this week amounting to a 21% decrease in new deaths compared to the previous 7 days. With upcoming cultural events such as Diwali, the Ministry of Culture issued a detailed standard operating procedure (SOP) for cultural functions to facilitate organization of cultural events during the COVID-19 pandemic.
+
+Sustained declining trends have also been observed in the Maldives, with new cases down 24% from last week and continuing to be seen mostly from Greater Male region. Additionally, nearly all cases belong to known and existing clusters.
+
+Figure 7: Number of COVID-19 cases and deaths reported weekly by the WHO South East Asia Region, as of [25 Oct 2020]
+
+- Western Pacific Region
+Following a 3-week increase in the number of cases reported in the Western Pacific region, the number of weekly new cases decreased by 4% in the last 7 days. The decrease in the number of cases observed was predominantly driven by the decrease reported in Papua New Guinea (94% decrease) and the Philippines (23% decrease). Similarly, the number of deaths reported in the last 7 days decreased by 6%. Approximately 27 000 cases and 430 deaths were reported in the region, accounting for just 1% of the total number of cases and deaths reported globally.
+
+The number of cases and deaths in Malaysia has consistently increased in recent weeks, and in the last 7 days, an average of 873 cases and 6 deaths were reported daily, amounting to 189 new cases and 1.3 new deaths per 1 million population. This resulted in an increase of 35% and 64% of cases and deaths respectively compared with the previous week. The rapid increase in cases and deaths is putting the public health system under immense pressure.
+
+Despite the decrease in cases reported in the Philippines, the country accounted for about 50% of the total number of cases and 75% of the total number of deaths reported in the region in the last 7 days. Relative to the country's population, new cases (123) and new deaths (3) per 1 million population remain low compared to other countries in the region. Heavy flooding, affecting over 35 000 households have been reported in the island of Mindanao, resulting in the evacuation of more than 12 000 people. This could affect COVID-19 response measures in the region as many displaced families are staying in makeshift tents. Mindanao also continues to report new health worker infections and an overall increasing trend in COVID-19 cases.
+
+Figure 8: Number of COVID-19 cases and deaths reported weekly by the WHO Western Pacific Region, data as of [25 Oct 2020]
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+----
+[B] Daily new cases reported (as of 27 Oct 2020)
+Date: Tue 27 Oct 2020
+Source: WHO [abridged, edited]
+https://covid19.who.int/table
+
+
+*Daily case reports as of 27 Oct 2020 15:11 CEST
+
+Surveillance
+------------
+WHO region (no. countries/territories):
+Total confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+------------------------
+Western Pacific Region (19): 715 300 (4142) / 15 314 (89)
+European Region (61): 9 664 042 (177 542) / 270 972 (1765)
+South East Asia Region (10): 8 969 707 (44 867) / 140 827 (658)
+Eastern Mediterranean Region (22): 2 955 552 (20 584) / 75 133 (597)
+Region of the Americas (54): 19 737 794 (107 795) / 625 973 (1429)
+African Region (49): 1 298 315 (2774) / 29 277 (86)
+Cases on an international conveyance (Diamond Princess): 741 (0) / 13 (0)
+
+Confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+Grand total: 43 341 451 (357 704) / 1 157 509 (4624)
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The number of countries and territories reporting confirmed cases of COVID-19 to WHO remains at 217.
+
+Data by country, area, or territory for 26 Oct 2020 can be accessed at https://promedmail.org/wp-content/uploads/world-pdf/WHO%20daily%20tablesOct27_1603840538.pdf.
+
+- The Americas region reported 30.1% of daily case numbers and 30.9% of the daily deaths reported in the past 24 hours, maintaining its position as the most severely affected region, having reported more than 19.7 million cases. The USA maintains its dominance, followed by Brazil, Argentina, Colombia, Mexico, Peru, and Canada. Chile also reported more than 1000 new cases in the past 24 hours. Ecuador and Costa Rica did not report any new cases in the past 24 hours.
+
+- The European region reported 49.6% of daily case numbers and 38.2% of the daily deaths reported in the past 24 hours, and total cumulative cases reported exceed 9.6 million. Countries not reporting cases today (27 Oct 2020) include Spain, Kazakhstan, Sweden, and Bosnia and Herzegovina. France is dominant, followed by the UK, Switzerland, Italy, Russia, Germany, Netherlands, Poland, Czech Republic, Ukraine, Romania, Austria, Portugal, Bulgaria, Turkey, and Hungary. Other countries reporting more than 1000 cases in the past 24 hours include Georgia, Armenia, Slovakia, Slovenia, and Denmark.
+
+- The Eastern Mediterranean region reported 5.8% of daily case numbers and 12.9% of the deaths reported in the past 24 hours, having reported a cumulative total of greater than 2.9 million cases. Iran is dominant, followed by Iraq, Morocco, Jordan, Libya, UAE, and Oman. Lebanon, Pakistan, Kuwait, and Palestine, each reported more than 500 cases but fewer than 1000, while Tunisia, Somalia, and Yemen did not report any cases in the past 24 hours.
+
+- The African region reported 0.78% of daily case numbers and 1.9% of the deaths reported in the past 24 hours and has reported more than 1.29 million cases. South Africa is dominant, followed by Ethiopia, Kenya, Angola, Reunion, Mozambique, Nigeria, and Uganda. While South Africa remains dominant, the 24 hour new case count is markedly reduced.
+
+- The Western Pacific region reported 1.2% of daily case numbers and 1.9% of the deaths reported in the past 24 hours, having reported a cumulative total of 0.71 million cases. As previously, the Philippines maintains its dominance, followed by Malaysia, French Polynesia, Japan, Guam, South Korea, and China. Similar to other regions, while the Philippines remains dominant, the 24 hour new case count is markedly reduced.
+
+- The South East Asia region reported 12.5% of the daily newly reported cases and 14.2% of reported deaths in the past 24 hours, having reported a cumulative total of more than 8.9 million cases. As previously, India remains dominant, followed by Indonesia, Nepal, Bangladesh, Myanmar, Sri Lanka, and the Maldives. While India is dominant, the 24 hour new case count is markedly reduced. Similarly, while India remains dominant, the 24 hour case count is markedly reduced.
+
+Impression: Even though this is still a decreased reporting period ("weekend artifact") and 4 countries with known transmission ongoing that did not report in the European region, there are still 21 countries in the European region that were reporting more than 1000 new cases in 24 hours and 9 countries reporting more than 10 000 cases. The Americas region combined with the European region account for almost 80% of daily reported cases and 69% of the global reported deaths in the past 24 hours.
+
+On the Overview tab at the WHO source URL, the epidemic curve of confirmed COVID-19 cases by WHO region, 30 Dec 2019 through 27 Oct 2020, is an excellent visual representation of the pandemic. - Mod.MPP]
+
+******
+[4] Global update: Worldometer accessed 27 Oct 2020 22:20 EDT (GMT-4)
+Date: Tue 27 Oct 2020
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at https://promedmail.org/wp-content/uploads/world-pdf/OCT27DATASET_1603855275.pdf.
+
+A 7-day series of cumulative data reported by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/OCT27WORLD7_1603856124.pdf. - Mod.MPP]
+
+Total number of reported deaths: 1 171 288
+Total number of worldwide cases: 44 235 263
+Number of newly confirmed cases in the past 24 hours: 458 677
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[A reminder about weekend reporting artifact. Some countries that have not reported cases over the weekend, or have reported significantly fewer cases than expected will have the 1st and/or 2nd report after the weekend reflecting the backlog of unreported cases over the weekend. Countries not reporting any new cases in the past 24 hours include Mexico, Pakistan, Kazakhstan, Honduras, and Tunisia.
+
+In the past 24 hours, the USA (75 247), India (42 965), and France (33 417) have been dominant. A global total of 6773 deaths were reported in the past 24 hours (26-27 Oct 2020), probably still reflecting a decrease related to weekend reporting artifact. It has taken 2 days to go from over 43 million cases to over 44 million cases. The USA has crossed the 9 million milestone cumulative cases and India is approaching the 8 million milestone.
+
+Countries reporting more than 5000 newly confirmed cases in the past 24 hours (19 countries) include the USA, India, France, Brazil (29 353), UK (22 885), Italy (21 989), Spain (18 418), Russia (16 550), Poland (16 300), Czech Republic (15 663), Argentina (14 308), Germany (13 161), Belgium (12 687), Netherlands (10 292), Colombia (8166), Iran (6968), Ukraine (6677), Switzerland (5949), and Sweden (5191). A total of 14 countries reported more than 10 000 cases in the past 24 hours, 10 of which were in the European region. A total of 46 countries have reported more than 1000 cases in the past 24 hours; 26 of the 46 countries reporting more than 1000 newly confirmed cases are from the European region, 8 were from the Americas region, 6 were from the Eastern Mediterranean region, and 4 were from the South East Asia region.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, case counts have increased by 19.8%, while daily reported deaths have increased by 7.8%. In the USA, the 7-day average differences in case counts have increased by 20.4% and daily reported deaths have increased by 12.5%. Iran has had an increase of 34.8% in average daily case counts and 12.9% in daily reported deaths.
+
+Impression: Global daily reported cases continue to increase with countries in the European region and the Americas region showing the largest increases in daily new cases counts, followed by the Eastern Mediterranean and the South East Asia regions. Europe is once again the 2nd region in terms of cumulative case counts, surpassing the South East Asia region once again. - Mod.MPP]
+See Also
+COVID-19 update (456): pre-pandemic serology, airline flight, WHO, global 20201027.7893631
+COVID-19 update (455): convalescent plasma, Europe, China, WHO, global 20201026.7890372
+COVID-19 update (454): vaccine trials, immunity, reinfections, WHO, global 20201025.7889160
+COVID-19 update (453): rapid breath test, excess mortality, masks, WHO, global 20201024.7886686
+COVID-19 update (452): Chile (RM) animal, cat, OIE 20201023.7885452
+COVID-19 update (451): vaccine efficacy, winter, close contact, WHO, global 20201023.7884098
+COVID-19 update (450): animal, cattle, research, experimental infection 20201022.7883213
+COVID-19 update (440): children, RNA vaccines, WHO, global 20201015.7863738
+COVID-19 update (430): animal, USA (UT) mink 20201009.7847704
+COVID-19 update (420): ECMO, USA serosurvey, WHO, global 20200930.7824510
+COVID-19 update (410): ACE inhibitors and ARBs, WHO COVAX plan, WHO, global 20200922.7801717
+COVID-19 update (400): lockdowns, influenza co-infections WHO, global 20200914.7776512
+COVID-19 update (350): USA (TX) animal, cat 20200808.7658191
+COVID-19 update (300): Korea antibodies, China asymptomatic index case, WHO 20200703.7536146
+COVID-19 update (250): selected countries 20200610.7448037
+COVID-19 update (200): global, Yemen, WHO 20200522.7364937
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+Undiagnosed pediatric inflammatory syndrome (05): Europe, USA, COVID-19 assoc 20200518.7340554
+Undiagnosed pediatric inflammatory syndrome (04): USA, UK, PMIS, fatal 20200509.7315405
+Undiagnosed pediatric inflammatory syndrome (03): USA, Europe, COVID-19 susp, RFI 20200505.7299876
+COVID-19 update (150): global, USA state prisons, WHO 20200502.7290671
+COVID-19 update (100): China, S. Korea & high local transmission countries 20200413.7217806
+COVID-19 update (50): China (Hong Kong) animal dog, 2nd case PCR positive, OIE 20200323.7129951
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (41): China, global, clinical pics, asymptomatic trans., WHO 20200210.6976117
+Novel coronavirus (40): animal reservoir, pangolin poss intermediate host, RFI 20200210.6972104
+Novel coronavirus (30): updates, China, Viet Nam, research 20200202.6945658
+Novel coronavirus (20): China, wildlife trade ban 20200127.6922060
+Novel coronavirus (10): China (HU, GD, BJ) 20200119.6898567
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia: China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia: China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+----
+Undiagnosed pneumonia: China (HU): RFI 20191230.6864153
+and other items in the archives
+.................................................sb/lk/ml/mpp/mj/mpp
+</body>

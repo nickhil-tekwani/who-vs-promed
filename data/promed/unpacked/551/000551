@@ -1,0 +1,125 @@
+<header id=000551>
+Published Date: 2015-12-30 16:44:09 EST
+Subject: PRO/AH/EDR> Ebola update (138): WHO, Guinea free, payroll software, S. Africa prevention
+Archive Number: 20151230.3902584
+</header>
+<body id=000551>
+EBOLA UPDATE (138): WHO, GUINEA FREE, PAYROLL SOFTWARE, SOUTH AFRICA PREVENTION
+*******************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] Guinea: End of Ebola transmission
+[2] Sierra Leone: How software developers helped end the Ebola epidemic there
+[3] South Africa: Ebola Project emphasizes education, prevention
+
+******
+[1] Guinea: End of Ebola transmission
+Date: 29 Dec 2015
+Source: WHO Regional Office for Africa [edited]
+http://www.afro.who.int/en/media-centre/pressreleases/item/8252-end-of-ebola-transmission-in-guinea.html
+
+
+Today [29 Dec 2015] the World Health Organization (WHO) declares the end of Ebola virus transmission in the Republic of Guinea; 42 days have passed since the last person confirmed to have Ebola virus disease tested negative for the 2nd time. Guinea now enters a 90-day period of heightened surveillance to ensure that any new cases are identified quickly before they can spread to other people.
+
+"WHO commends the Government of Guinea and its people on the significant achievement of ending its Ebola outbreak. We must render homage to the Government and people of Guinea who, in adversity, have shown extraordinary leadership in fighting the epidemic," says Dr Mohamed Belhocine, WHO Representative in Guinea. "WHO and its partners will continue to support Guinea during the next 90 days of heightened surveillance and in its early efforts to restart and strengthen essential health services throughout 2016."
+
+For more information, please contact:
+Gregory Hartl Communications Officer
+Tel: +41 22 791 44 58
+Mobile: +41 79 203 67 15
+Email: <hartlg@who.int>
+Tarik Jasarevic
+Tel: +41 22 791 5099
+Mobile: +41 793 676 214,
+Email: <jasarevict@who.int>
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[See also WHO booklet "Ebola response Phase 3: Framework for achieving and sustaining a resilient zero" (17pp.) Sep 2015 http://apps.who.int/iris/bitstream/10665/184693/1/ebola_resilientzero_eng.pdf. - Mod.JW]
+
+*******
+[2] Sierra Leone: How software developers helped end the Ebola epidemic there
+Date: Thu 24 Dec 2015 [updated 30 Dec 2015]
+Source: Guardian [edited]
+http://www.theguardian.com/world/2015/dec/30/software-developers-helped-end-ebola-epidemic-sierra-leone
+
+
+A team of open source software developers solved the problem that most urgently needed solving: distributing wages to healthcare workers.
+Little known to the rest of the world, a team of open source software developers played a small but integral part in helping to stop the spread of Ebola in Sierra Leone, solving a payroll crisis that was hindering the fight against the disease. Emerson Tan from NetHope, a consortium of NGOs working in IT and development, told the tale at the Chaos Communications Congress in Hamburg, Germany.
+
+"These guys basically saved their country from complete collapse. I can't overestimate how many lives they saved," he said about his co-presenters, Salton Arthur Massally, Harold Valentine Mac-Saidu and Francis Banguara, who appeared over video link. Tan was dispatched to Sierra Leone in October 2014 with a vague mandate: "Go there and improve things." The problem that most urgently needed solving was distributing wages to healthcare workers on the frontline fighting the epidemic.
+
+"In the old system, nobody gets paid, for months," Tan said, which caused multiple problems. Doctors and nurses were forced to take money from patients, he said, undermining people's confidence in the health system at a vital time. And when healthcare workers went on strike, Ebola patients in hospital quarantines broke out in search of food, exacerbating the spread of the disease.
+
+When millions of dollars began pouring in from international sources, it wasn't clear how to distribute it to the 30 000 healthcare workers needed to tackle the epidemic because until that point, payroll had been handled in cash. Tan said he was sometimes handling "kilograms of money. Sometimes I would just weigh it, because it's easier to weigh a stack of money than to count it." The country's central bank at one point informed him they were going to run out of bank notes. On top of those problems, there were only 8 ATMs in the entire country.
+Time was a pressing concern. A UN official told Tan: "We have a couple of months, or we're going to lose the region." To solve the problem, Massally and his team drew on existing open source software solutions for payroll management, biometrics, logistics and accounting. "None of this would be possible without open source software and frameworks," Tan told the audience at the technology conference. "You could not possibly develop systems this quickly for such low amounts of money without the existence of this huge open source ecosystem."
+
+The team cannibalized Sierra Leone's existing voter registration machines to create a payroll enrollment scheme. They couldn't use fingerprint biometrics because it would have created a cross-contaminating risk, so they used open source facial recognition software called OpenBR to enroll healthcare workers. Then, they developed a mobile money system that substituted cellphone-minutes for cash, and created an automated payment system. They completed the core system in 2 weeks, going without sleep for days at a time, knowing that millions of lives depended on their work. "I still have some health concerns from drinking too much caffeine," said Massally.
+
+"People were paid on time, 100 percent of the time", Tan said, "for the 1st time in Sierra Leone's history." As a result, people's faith in the healthcare system was restored, he said, drawing a direct link between that and the end of the Ebola epidemic. As of 7 Nov 2015, Sierra Leone is considered to be free of Ebola. A total of 3955 people lost their lives in Sierra Leone, more than 1/3rd of the total deaths associated with the 2014-15 west African Ebola outbreak.
+
+[Byline: Bethany Horne]
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[A reminder of the caveat that used to appear at the end of WHO`s table of country Ebola statistics: "Not reported due to the high proportion of probable and suspected cases that are reclassified." - Mod.JW]
+
+*******
+[3] South Africa: Ebola Project emphasizes education, prevention
+http://vaccinenewsdaily.com/stories/510654601-the-ebola-project-emphasizes-education-prevention-in-south-africa
+[The Ebola Project, a collaboration among businesses, schools, online media outlets, and social media activists to educate about Ebola, is underway in South Africa. The Ebola Project is actively seeking all who wish to assist its efforts, whether from an advocacy, media creation, social media outlet or assistance with distributing health care information and facilitating access to care. This initiative, combined with those of existing organizations and providers, moves South Africa toward a future without Ebola.]
+
+[The range of the big 9 in (23 cm) long African straw-colored fruit bat (_Eidolon helvum_) covers the known area of Ebola and extends down into South Africa - see map at "Straw-coloured Fruit Bat area" by IUCN Red List of Threatened Species, species assessors and the authors of the spatial data.. Licensed under CC BY-SA 3.0 via Commons https://commons.wikimedia.org/wiki/File:Straw-coloured_Fruit_Bat_area.png#/media/File:Straw-coloured_Fruit_Bat_area.png. The date of 1792 on the map is correct.
+
+"It is ... locally threatened in parts of its range by severe deforestation, and more generally across West and Central Africa by hunting for food and medicinal use. It is the most heavily harvested bat for bushmeat in West and Central Africa, and one of the most frequently consumed mammals in this region" (Wiki). - Mod.JW]
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[A zoonotic niche map of the countries where cases have occurred in the field or been imported is at http://healthmap.org/ebola.
+Use + tab at bottom left to zoom in until the dots separate. - Mods.LK/JW]
+See Also
+Ebola update (137): WHO, Liberia, prevention, vaccine, research, funding 20151224.3890356
+Ebola update (136): WHO, case definition, epidemiology, prevention, vaccination 20151220.3880578
+Ebola update (135): UN, WHO, susp., prevention, post-Ebola synd., recovery 20151217.3869093
+Ebola update (134) prevention, Liberia, WHO, research, vaccination, funding 20151213.386045
+Ebola update (133): WHO, Liberia source, sexual trans, prevention, funding 20151210.3852972
+Ebola update (132): Sierra Leone free, Liberia, Nigeria, prevention, correction 20151207.3845798
+Ebola update (131): WHO, semen, susp., prevention, blood, vaccine 20151203.3838759
+Ebola update (130): Liberia, susp. NGO, vaccine 20151128.3825753
+Ebola update (120): WHO update, susp, vaccine, research, funding 20151026.3743264
+Ebola update (110): WHO, susp. funding, research 20150923.3666423
+Ebola update (100): WHO, CIDRAP, susp. NGO, technology, funding 20150823.3597408
+Ebola update (90): WHO update, susp. vaccine, research, funding 20150723.3529622
+Ebola update (80): WHO update, susp, vaccine, research, funding 20150621.3453753
+Ebola update (70): WHO update, vaccine, knowledge deficit 20150517.3368569
+Ebola update (60): WHO updates, UNMEER, WHO advises safe sex, susp. 20150415.3300282
+Ebola update (50): Guinea, Sierra Leone Internationals exposed, RFI, susp 20150317.3237401
+Ebola update (40): Guinea, Liberia, Sierra Leone, other 20150223.3187304
+Ebola update (30): Guinea-Bissau, vaccine trials to start, susp. 20150201.3135758
+Ebola update (20): Liberia (Margibi) Guinea schools, vaccines, susp. 20150119.3103778
+Ebola update (10): ending Ebola, sequester, comments, susp, vaccines 20150110.3084110
+Ebola update (09): WHO, suitcase diagnostic laboratory, suspected 20150109.3082431
+Ebola update (08): WHO, Guinea, amiodarone, regional recovery, susp 20150108.3080212
+Ebola update (07): suits, trials, susp, vaccine 20150107.3077773
+Ebola update (06): Guinea pig, orphan, epidemiologist, school, pregnancy, vacc 20150106.3075369
+Ebola update (05): Africa, world, WHO, Sierra Leone, Liberia, Iraq, susp, drugs 20150105.3072587
+Ebola update (04): Africa, world, WHO, funding, transfusion, susp 20150105.3070607
+Ebola update (03): Africa, world, USA, UK, susp, drugs, vaccines 20150103.3069311
+Ebola update (02): Africa, world, WHO, IV therapy, USA, outbreaks, susp 20150102.3068060
+Ebola update (01): Africa, world, HCW cases, susp 20150101.3066740
+.................................................jw/pg/jw
+</body>

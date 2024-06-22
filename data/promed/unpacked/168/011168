@@ -1,0 +1,172 @@
+<header id=011168>
+Published Date: 2001-08-22 19:50:00 EDT
+Subject: PRO/AH> Foot & mouth disease - UK (62)
+Archive Number: 20010822.1975
+</header>
+<body id=011168>
+FOOT & MOUTH DISEASE - UK (62)
+******************************
+A ProMED-mail post
+<http://www.promedmail.org>
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+<http://www.isid.org>
+See Also
+Foot & mouth disease - UK (61) 20010811.1902
+Foot & mouth disease - UK (60): formal inquiries 20010810.1889
+Foot & mouth disease - UK (59) 20010808.1866
+Date: Tue 21 Aug 2001 23:13:16 +1200
+From: Professor Roger Morris <R.S.Morris@massey.ac.nz>
+
+Foot and mouth disease modelling work - response to comments received
+--------------------------------------------------
+[When I posted Paul Sutmoller's critique of the Morris model [RS Morris et
+al. Predictive spatial modelling of alternative control strategies for the
+foot-and-mouth disease epidemic in Great Britain. Vet Rec 2001; 149(5):
+137-44. <http://www.vetrecord.co.uk/abs481.htm>, I simultaneously copied
+the critique to Roger Morris and John Wilesmith. Their response is as
+follows. - Mod.MHJ
+The comments we have received through ProMED-mail and other sources on our
+analysis of control options for the foot and mouth disease (FMD) epidemic
+in Britain (ProMED-mail V 2001, #183) have focused largely on the merits of
+vaccination, and the way in which we used vaccination in the model. The
+correspondents raise some useful issues, but miss the point of what we are
+reporting in the paper.
+The analyses were conducted over a relatively short period in late March
+and repeated with an enhanced farms database in early April. They have been
+reported exactly as they were conducted at the time, as a record of
+predictions made early in the epidemic, not with any later adjustment for
+the wisdom of hindsight. It was then a month into the epidemic, and
+considerable controversy was raging about the feasibility and merits of
+different control strategies. Our goal was to predict the scale and
+duration of the epidemic under various control strategies that were under
+consideration and others that were being promoted as superior alternatives
+by various commentators.
+At the time, it was apparent that the geographical distribution and scale
+of the epidemic were both quite uncertain. With the hindsight provided by
+epidemiological records of the epidemic, we now know that on March 27 the
+number of known infected farms diagnosed as of that date in the epidemic
+was 707. However, subsequent evidence shows that on that same date there
+were 342 infected premises that had not yet been detected -- the highest
+figure this indicator reached. Thus, any control strategies evaluated had
+to take account of this uncertainty. The reality, as we now know (and as
+"InterSpread" predicted), was that over half of all farms infected in the
+epidemic by late August were already infected at the time the simulations
+were run, and the expected benefit of control strategies at that date was
+influenced within InterSpread by the evolution of the epidemic to that
+point. Simulations were run for 200 days, because that was a reasonable
+planning horizon at that stage of the epidemic, and realistic control
+strategies achieved eradication within that time period.
+Given what was known at the time, InterSpread predicted that, with the
+control policy being applied, the epidemic would be about 1800 to 1900
+farms and would be eradicated between July and October, with a low
+probability of extending longer. Its predictions both at the national scale
+and in later finer-scale analyses have proved to be remarkably close to
+field reality. We intend to report some of these later results in future
+papers.
+Given the extremely wide spread of infected farms in late March and the
+expectation that there were more yet to be discovered, classical ring
+vaccination was not a feasible option. With the amount of vaccine and
+number of vaccinators available for immediate use, a joint stamping
+out/vaccination policy was evaluated in the 3 areas with the highest
+concentration of infected farms, to damp down the epidemic in those areas
+and prevent further outward spread. Because cattle were at the time still
+indoors, and there was concern about the risk of transmission to cattle
+from sheep when the cattle were put out to pasture, the decision was made
+to evaluate cattle vaccination as a cost effective way of reducing further
+transmission during the stamping-out process. The model predicted that this
+would reduce the scale of the epidemic by under 100 premises. Vaccinating
+sheep as well would have reduced this somewhat further. However, it was not
+considered feasible at the time to provide sufficient vaccine and
+vaccinators to achieve this quickly; and at best it could have had a modest
+additional effect, for a very large effort.
+There was considerable enthusiasm in some quarters at the time for
+abandoning stamping out and simply vaccinating to control the disease. This
+would have greatly lengthened the time before eradication could be
+achieved; moreover it was considered that vaccination alone was not a
+realistic control option. However, it was decided to include vaccination in
+order to answer those who saw it as a panacea. The problem then was how to
+allocate vaccine on the scale realistically achievable in the short term,
+if stamping out was to be abandoned. The decision was made to use it to
+shield the main uninfected areas from the known foci, so that if possible
+the disease would not spread through the whole country. The vaccination
+bands were therefore drawn up to protect what were then free areas, and to
+focus the available vaccine on cattle, given that the country was under a
+movement standstill and the benefit per dose should be higher from
+investing it on cattle. The bands were approximately 20 km wide, so they
+were significant barriers. They were certainly equivalent to the diameter
+of the mandatory surveillance zones that form the basis for delineating the
+formal "infected areas".
+Many different "vaccination only" scenarios were possible, but we would
+challenge the critics to come up with a strategy that would be
+substantially better than the one tested, with the scale of vaccination we
+believed at the time was feasible immediately. Our experience elsewhere in
+the world would certainly endorse the merits of blanket vaccination and
+extension to other species, but that was seen as impractical at the time,
+and as greatly extending the expected time to achieve FMD-free status
+again, compared with stamping out. It is believed that the modelling work
+done was a valuable guide to the relative merits of the options then
+available and being discussed, and the InterSpread model has certainly
+proved very usefully predictive then and since.
+Finally, we stress that we are not opposed to vaccination, but were trying
+to identify epidemiologically sound strategies to deal with an
+exceptionally diffused epidemic. Vaccination is clearly a valuable element
+of many FMD control strategies, but it is not a panacea, and the debate on
+this issue in the context of the current British epidemic needs to take
+full account of the facts of the situation in late March, when options were
+being evaluated.
+--
+Roger Morris and John Wilesmith for the authors of the Veterinary Record paper
+Roger S Morris MVSc, PhD, FAmerCE, FACVSc, FRSNZ
+Gilruth Professor of Animal Health
+Director, Massey University EpiCentre
+Institute of Veterinary, Animal and Biomedical Sciences
+Massey University, Palmerston North, NEW ZEALAND
+Ph +64 (0)6 350 5031 Fax +64 (0)6 350 5716
+Email: <R.S.Morris@massey.ac.nz>
+Meet us on the Web: <http://epicentre.massey.ac.nz>
+[We are grateful to Roger and his coauthors for their reply. An informed
+colleague working in the field in the UK made the following comment to me:
+Whilst Dr Sutmoller's comments may well be correct in the different
+possible vaccination strategies, it should be pointed out that evidence to
+date does not indicate either "smoldering" infection in the national sheep
+flock or infection in deer. All tests of deer to date are reported as
+negative. It seems most likely that early reports of mortality in deer were
+describing malignant catarrhal fever. In Wales it seems most probable that
+the infection got onto the Brecon Beacons from neighbouring lowland sheep;
+this is certainly the case in the few cases where sheep on common land have
+been found with infection in Cumbria. There have been quite a number of
+blood tests of fell sheep in Cumbria from the beginning of the outbreak,
+and all have been negative, except where the sheep had either been brought
+in close to the farm buildings recently [and therefore in proximity to
+other stock, or where disease has run up against the common land in
+lowland cattle or sheep. The implication in Dr Sutmoller's e-mail that the
+disease is running through sheep and spilling over into cattle from there
+is not currently the case in the area I am working in; most transmission
+has been cattle-to-cattle with significant sheep involvement only when the
+disease has reached predominantly sheep areas. Clearly this predominantly
+ovine FMD epidemic is teaching us many new facts about an old disease, for
+which the collective experience has been very largely with bovine and
+porcine FMD. - Mod.MHJ
+......................mhj/pg/sh
+*##########################################################*
+ProMED-mail makes every effort to verify the reports that
+are posted, but the accuracy and completeness of the
+information, and of any statements or opinions based
+thereon, are not guaranteed. The reader assumes all risks in
+using information posted or archived by ProMED-mail. ISID
+and its associated service providers shall not be held
+responsible for errors or omissions or held liable for any
+damages incurred as a result of use or reliance upon posted
+or archived material.
+************************************************************
+Visit ProMED-mail's web site at <http://www.promedmail.org>.
+Send all items for posting to: promed@promedmail.org
+(NOT to an individual moderator). If you do not give your
+full name and affiliation, it may not be posted. Send
+commands to subscribe/unsubscribe, get archives, help,
+etc. to: majordomo@promedmail.org. For assistance from a
+human being send mail to: owner-majordomo@promedmail.org.
+############################################################
+############################################################
+</body>

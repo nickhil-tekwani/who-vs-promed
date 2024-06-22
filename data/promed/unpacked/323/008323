@@ -1,0 +1,406 @@
+<header id=008323>
+Published Date: 2020-03-29 07:42:43 EDT
+Subject: PRO/AH/EDR> COVID-19 update (60): global, cruise ships, lessons learned, WHO
+Archive Number: 20200329.7156949
+</header>
+<body id=008323>
+CORONAVIRUS DISEASE 2019 UPDATE (60): GLOBAL, CRUISE SHIPS, LESSONS LEARNED, WHO
+********************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+[In an attempt to make each of the updates more readable, we are trying a new approach and splitting the updates to a global overview, and a separate one focused on selected countries. We hope this will be easier on the reader. - Mod.MPP]
+
+In this update:
+[1] Global update: Worldometer 28 Mar 2020 11:30 pm GMT-4
+[2] Commentary: super-spreaders and viral load
+[3] Cruise ships
+[4] WHO situation report 68 (as of 28 Mar 2020)
+
+[For the past week I have had help compiling all of the data presented in the tables and preparing spreadsheets, and want to publicly thank Coleman Shaefer for his amazing assistance -- a formidable task to say the least. - Mod.MPP]
+
+******
+[1] Global update: Worldometer
+Date: Sat 28 Mar 2020 [accessed 11:30 pm GMT-4]
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+Confirmed cases Start of data recording: 1st data / ... / 1 Mar 2020 / ... / 22 Mar 2020 / 23 Mar 2020 / 24 Mar 2020 / 25 Mar 2020 / 26 Mar 2020 / 27 Mar 2020 / 28 Mar 2020 / Country
+
+Countries with marked decreases in daily newly confirmed cases post major activity
+--------------------------------------------------------------------------------
+2 Feb 2020: 17 187 / ... / 80 024 / ... / 81 093 / 81 171 / 81 218 / 81 285 / 81 340 / 81 394 / 81 439 / Mainland China
+2 Feb 2020: 15 / ... / 3726 / ... / 8961 / 9037 / 9137 / 9241 / 9332 / 9478 / 9583 / South Korea
+
+Countries with major activity (more than 1000 cases with community spread)
+-------------------------------------------------------------------------
+2 Feb 2020: 11 / ... / 76 / ... / 33 546 / 46 145 / 54 867 / 68 421 / 85 594 / 104 142 / 123 750 / USA
+2 Feb 2020: 2 / ... / 1694 / ... / 59 138 / 63 927 / 69 176 / 74 386 / 80 589 / 86 498 / 92 472 / Italy
+2 Feb 2020: 1 / ... / 84 / ... / 28 768 / 35 136 / 42 058 / 49 515 / 57 786 / 65 719 / 73 235 / Spain
+2 Feb 2020: 10 / ... / 130 / ... / 24 873 / 29 056 / 32 991 / 37 323 / 43 938 / 50 871 / 57 695 / Germany
+2 Feb 2020: 6 / ... / 130 / ... / 16 018 / 19 856 / 22 304 / 25 233 / 29 155 / 32 964 / 37 575 / France
+19 Feb 2020: 2 / ... / 978 / ... / 21 638 / 23 049 / 24 811 / 27 017 / 29 406 / 32 332 / 35 408 / Iran
+2 Feb 2020: 2 / ... / 36 / ... / 5683 / 6650 / 8077 / 9529 / 11 658 / 14 543 / 17 089 / UK
+25 Feb 2020: 1 / ... / 27 / ... / 7474 / 8795 / 9877 / 10 897 / 11 811 / 12 928 / 14 076 / Switzerland
+27 Feb 2020: 1 / ... / 10 / ... / 4204 / 4749 / 5560 / 6412 / 7431 / 8603 / 9762 / Netherlands
+4 Feb 2020: 1 / ... / 2 / ... / 3401 / 3743 / 4269 / 4937 / 6235 / 7284 / 9134 / Belgium
+25 Feb 2020: 2 / ... / 14 / ... / 3582 / 4474 / 5283 / 5588 / 6909 / 7697 / 8271 / Austria
+11 Mar 2020: 1 / ... / 1236 / 1529 / 1872 / 2433 / 3629 / 5698 / 7402 / Turkey
+2 Feb 2020: 4 / ... / 24 / ... / 1470 / 2091 / 2792 / 3409 / 4043 / 4757 / 5655 / Canada
+2 Mar 2020: 2 / ... / 1600 / 2060 / 2362 / 2995 / 3544 / 4268 / 5170 / Portugal
+26 Feb 2020: 1 / ... / 19 / ... / 2385 / 2625 / 2866 / 3084 / 3372 / 3771 / 4032 / Norway
+26 Feb 2020: 1 / ... / 2 / ... / 1546 / 1924 / 2247 / 2554 / 2985 / 3417 / 3904 / Brazil
+2 Feb 2020: 12 / ... / 27 / ... / 1609 / 1887 / 2317 / 2728 / 3050 / 3378 / 3809 / Australia
+21 Feb 2020: 1 / ... / 10 / ... / 1071 / 1442 / 1930 / 2369 / 2693 / 3035 / 3619 / Israel
+2 Feb 2020: 1 / ... / 14 / ... / 1934 / 2046 / 2299 / 2526 / 2840 / 3069 / 3447 / Sweden
+1 Mar 2020: 3 / ... / 1120 / 1236 / 1394 / 1654 / 1925 / 2279 / 2631 / Czech Republic
+29 Feb 2020: 1 / 1 / ... / 906 / 1125 / 1329 / 1564 / 1819 / 2121 / 2415 / Ireland
+2 Feb 2020: 8 / ... / 29 / ... / 1306 / 1518 / 1624 / 1796 / 2031 / 2161 / 2320 / Malaysia
+27 Feb 2020: 1 / ... / 4 / ... / 1395 / 1460 / 1591 / 1724 / 1877 / 2046 / 2201 / Denmark
+3 Mar 2020: 1 / ... / 632 / 746 / 922 / 1142 / 1306 / 1610 / 1909 / Chile
+1 Mar 2020: 1 / ... / 798 / 875 / 1099 / 1333 / 1453 / 1605 / 1831 / Luxembourg
+29 Feb 2020: 1/ 6 / ... / 532 / 981 / 1082 / 1211 / 1403 / 1627 / 1823 / Ecuador
+2 Feb 2020: 20 / ... / 256 / ... / 1101 / 1128 / 1193 / 1307 / 1387 / 1499 / 1693 / Japan
+4 Mar 2020: 1 / 634 / 749 / 901 / 1051 / 1221 / 1389 / 1638 / Poland
+26 Feb 2020: 2 / ... / 4 / ... / 776 / 875 / 972 / 1063 / 1201 / 1373 / 1495 / Pakistan
+26 Feb 2020: 1 / ... / 3 / ... / 433 / 576 / 794 / 906 / 1029 / 1292 / 1452 / Romania
+2 Feb 2020: 2 / ... / 2 / ... / 367 / 438 / 495 / 658 / 840 / 1036 / 1264 / Russia
+2 Feb 2020: 19 / ... / 42 / ... / 599 / 721 / 827 / 934 / 1045 / 1136 / 1245 / Thailand
+2 Mar 2020: 1 / ... / 511 / 562 / 767 / 900 / 1012 / 1104 / 1203 / Saudi Arabia
+5 Mar 2020: 1 / ... / 274 / 402 / 554 / 709 / 927 / 1170 / 1187 / South Africa
+2 Feb 2020: 1 / ... / 6 / ... / 626 / 700 / 792 / 880 / 958 / 1041 / 1167 / Finland
+2 Mar 2020: 2/ ... / 514 / 579 / 686 / 686 / 893 / 1046 / 1155 / Indonesia
+2 Feb 2020: 2 / ... / 3 / ... / 380 / 501 / 552 / 636 / 707 / 803 / 1075 / Philippines
+26 Feb 2020: 1 / ... / 7 / ... / 624 / 695 / 743 / 821 / 892 / 966 / 1061 / Greece
+
+Countries and territories with more than 500 cases:
+India, Iceland, Panama, Singapore, Argentina, Dominican Republic, Mexico, Slovenia, Peru, Serbia, Croatia, Estonia, Colombia, Qatar, Egypt, Hong Kong, New Zealand, Iraq
+
+Countries with notable overnight changes or escalating reports to keep an eye on:
+Afghanistan, Algeria, New Zealand, Peru, Mexico, Rwanda, Kyrgyzstan, Montenegro, Cote d'Ivoire, Reunion, Mauritius, Kazakhstan, Lithuania, Mali, Uganda, Serbia, Ukraine, United Arab Emirates
+
+Total number of reported deaths: 30 857
+Deaths outside mainland China: 37 562 [including 7 from the Diamond Princess cruise ship]
+
+Total number of worldwide cases: 663 079
+Total number of cases reported outside of China: 581 685
+Number of newly confirmed cases in past 24 hours: 66 767
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[According to the data on the Worldometer website, the total number of cases of COVID-19 worldwide is now 663 740 with 81 439 cases reported by China. There are now a total of 582 301 confirmed cases of COVID-19 reported from 202 countries/locations outside mainland China, representing an increase of 67 071 cases when compared with the data on 28 Mar 2020, with the USA accounting for 19 608 (29.2%) cases, Italy accounting for 5974 (8.9%) cases, Spain for 7516 (11.2%) and Germany for 6824 (10.2%) of the newly confirmed cases. The total number of confirmed cases reported from outside of China now represents 87.7% of the total number of reported cases. The epicenter has shifted outside of China to Western Europe and the USA. The USA now represents 18.6% of the global cases of COVID-19. The USA and Italy have surpassed China in total number of cases. A global total of 30 879 deaths have been reported, 27 579 (89.3%) outside mainland China.
+
+It is now clear that while China has the largest population in the world, and was the original location where the COVID-19 outbreak started, it has markedly reduced transmission to a manageable level, now monitoring all arrivals in the country from outside. South Korea has slowly decreased daily new case counts hovering around 100 in recent days. The USA is now number one outside of China for numbers of confirmed cases of COVID-19 and Italy is now number 2. Iran has slowed down in growth rate and Spain has been accelerating. To get an understanding of how rapidly things increase, look at the last entry to the "greater than 1000 cases list -- South Africa reported its 1st imported case on 5 Mar 2020 and now, 3 weeks later, has surpassed 1000 newly confirmed cases. Another country of concern is Turkey. The 1st confirmed case was reported on 11 Mar 2020 and in 17 days the country has confirmed 7402 cases. - Mod.MPP]
+
+******
+[2] Commentary: super-spreaders and viral load
+Date: Thu 26 Mar 2020
+https://www.researchgate.net/publication/340227854
+
+
+ref: Beldomenico PM. Do superspreaders generate new superspreaders? a hypothesis to explain the propagation pattern of COVID-19. ResearchGate 2020. doi10.13140/RG.2.2.28660.50568
+
+Abstract
+--------
+The current global propagation of COVID-19 is heterogeneous, with slow transmission continuing in many countries, and exponential propagation in others, in which the time that took to begin this explosive spread varies greatly. It is proposed that this could be explained by cascading superspreading events, and not simply by independent superspreaders due to individual variation. The mechanism proposed for this is exposure to differential viral loads. Exposure to high viral loads is likely to determine an infection of high intensity, and thus the new case may be highly infectious. This notion is supported by experimental veterinary research.
+
+---
+The patterns of propagation of the SARS [severe acute respiratory syndrome] outbreak of 2003 were not explained by conventional epidemic models that assumed homogeneity of infectiousness. Instead, the existing datasets were best matched by models that used negative binomial distributions in which a small proportion of cases were highly infectious (1-3). Data and modelling supported the existence of 'superspreaders' which played a crucial role in propagating the disease by being very efficient at transmitting SARS-CoV, such that in the absence of superspreading events most cases infected few, if any, secondary contacts (4). Explanations of this superspreader status included poor immunocompetence, underlying diseases, co-infection or social behaviour (1-3,5). Almost a decade later emerged MERS-CoV, with similar infection dynamics involving superspreading events (6).
+
+The propagation of SARS-CoV-2 has shown to be heterogeneous at a global scale. After the virus started to be reported outside of China, cases were infecting fewer people than expected, compared to the rate of spread in China. Early modelling suggested that a small proportion of cases were responsible for most transmission, which is evidence that most cases were caused by superspreaders (7). By the end of February [2020], over 50 countries outside China had confirmed the infection, 3 of which, South Korea, Italy, and Iran, presented notable transmission. In South Korea the transmission was very gradual for 4 weeks, and in Italy during the 1st 3 weeks after the 1st report there were only 3 imported cases, but after this tranquil period the virus propagated exponentially in both countries. Apparently, there was no calm period in Iran, where the 1st 2 reported cases were fatal, 2 weeks later there were 1500 cases, and after one month there were over 17 000 reported infections. A few weeks later, other countries, mostly European and the USA, underwent a similar exponential growth, despite many of them taking drastic measures. In contrast, in several other countries the infection has been propagating at a slow pace (Thailand, Singapore, India, Egypt, Russia, Finland, Canada, Japan, among others), even though some of them being among the 1st to report the virus outside of China. In general, there have been also contrasts in the apparent case-fatality rate (deaths/reported) depending on the speed of propagation, being much lower in countries with slow propagation (such as 0.1% in Thailand, 0.2% in Finland, 0.4 % in Singapore) compared with those where the transmission was notably high (9% in Italy, 8% in Iran, 7% in Spain). This difference might be too large to be explained solely by detection bias.
+
+Independent superspreading events due to individual variation cannot explain this large-scale heterogeneous pattern of transmission. It is proposed that infections caused by contact with superspreaders are more likely to result in new superspreaders than those caused by transmission from a less infectious individual. The mechanism by which this would be possible is by exposure to differential viral load. The primary mode of transmission of SARS-CoV-2 appears to be through exposure to respiratory droplets and direct contact with infected individuals and their contaminated environment (8). Droplets may contain a few or a million viral particles, and this differential load determines how much the environment is contaminated and the infective dose a susceptible person is exposed to. A case with a high intensity of infection has the potential of being a superspreader due to high viral shedding. Susceptible people exposed to this hypothetical superspreader would be exposed to a high viral dose. Infections resulting from exposure to high loads of virus are expected to be more severe, resulting in a new potential superspreader. This hypothesis has support from veterinary research. For example, in a recent study calves were experimentally infected by bovine viral diarrhoea virus (an RNA _Pestivirus_ that is transmitted via droplets) at 3 different viral doses (9). The outcome of infection was dose dependent with animals given a higher dose developing severe disease and more pronounced viral replication and shedding. Moreover, sentinel calves housed with the low-dose-infected group did not become infected, despite viral shedding being confirmed. Other experimental infections also found that viral dose correlated positively with disease severity and viral shedding in other virus-domestic animal systems, such as feline viral rhinotracheitis in cats (10), low pathogenic avian influenza virus in chicken (11), and equine influenza in ponies (12).
+
+The patterns observed in the 1st 3 countries to show an exponential spread trend outside of China are in agreement with the notion of cascading superspreading events. In South Korea, during the 1st month of viral propagation there were only 2 to 3 reports of new infections per day. However, the rapid spread began after one case was linked to 3900 secondary cases in Daegu. Thereafter, the major driving force of the epidemic in that country was limited to 4 clusters (13). In Italy, the rapid surge of cases began in a cluster in Lombardy after an infected man was hospitalised without precautionary measures and infected other patients (mostly elder people) and health workers. In Iran, the 2 1st reported were severe cases with fatal outcome, suggesting that people in contact with them could have been exposed to high viral loads. It was found that in MERS [Middle East respiratory syndrome] patients the severity of the disease was positively correlated with viral loads (14). Taking into account the evolution of the epidemic curves in the other countries, with slow transmission continuing in several, and exponential propagation in others, it appears that within a country/region SARS-CoV-2 spreads gradually until a cascade of superspreading events is triggered.
+
+Under the hypothesis posited here, cases with low-to-moderate intensity of infection would mainly yield new infections of low-moderate severity and viral shedding in people who are not in risk groups. Occurrence of cases of high-intensity infection could result in new cases that are of high viral replication (and perhaps severity), generating a 'domino effect'. Of special concern would be individuals with high infection intensities who do not develop severe disease (that is, tolerant individuals), as they may remain mobile and get in contact with other people after infection.
+
+Disease is traditionally studied as a binary outcome, infected or non-infected. The concepts presented here alert us to the value of studying disease as a continuous variable (that is, infection intensity) (15). Measuring the intensity of an infection is crucial because it may be related to the virulence as well as the infectiousness. There are many studies of different viral diseases in which the length of viral shedding is recorded, yet very few produced data on the viral shedding load. The hypothesis posited here needs to be tested by empirical and theoretical studies, but this requires that data on viral load (viraemia and shedding) are urgently collected. If superspreaders generate new superspreaders by exposing susceptible people to large viral loads, this mechanism should be immediately acknowledged and considered in the responses being undertaken. In particular, emphasis should be placed on the isolation or strict distancing of people of risk groups, as they would not only have more chances of developing a more severe disease (with the potential of overwhelming the health system), but they could also be source of high viral loads.
+
+References
+----------
+1. Lloyd-Smith JO, Schreiber SJ, Kopp PE, Getz WM. Superspreading and the effect of individual variation on disease emergence. Nature. 2005; 438:355-9
+2. McDonald LC, Simor AE, Su IJ, Maloney S, Ofner M, Chen KT, et al. SARS in healthcare facilities, Toronto and Taiwan. Emerg Infect Dis. 2004;10:777-81
+3. Shen Z, Ning F, Zhou W, He X, Lin C, Chin DP, et al. Superspreading SARS events, Beijing, 2003. Emerg Infect Dis. 2004;10:256-60
+4. Stein RA. Superspreaders in infectious diseases. Int J Inf Dis. 2011; 15:510-3
+5. Bassetti S, Bischoff WE, Sheretz RJ. Are SARS superspreaders cloud adults? Emerg Inf Dis. 2005; 11:637-8
+6. Hui DS. Super-spreading events of MERS-CoV infection. Lancet. 2016; 388:942-943
+7. MacKenzie D. Is it superspreading? New Scientist. 2020; 245: 5
+8. Ling L, Lu L, Cao W, Li T. Hypothesis for potential pathogenesis of SARS-CoV-2 infection -- a review of immune changes in patients with viral pneumonia
+9. Strong R, La Rocca SA, Paton D, Sandvik T, Davis L. Viral Dose and Immunosuppression Modulate the Progression of Acute BVDV-1 Infection in Calves: Evidence of Long Term Persistence after Intra-Nasal Infection. PLoS One. 2015;
+10: e124689 10. Gaskell RM, Povey RC. The dose response of cats to experimental infection with Feline Viral Rhinotracheitis virus. J Comp Pathol. 89:179-91
+11. Zarkov IS, Bochev IV. Influence of inoculation dose of avian H6N2 influenza A virus on virus shedding and humoral immune response of chickens after artificial experimental intravenous infection
+12. Mumford JA, Hannat A, Jessett DM. Experimental infection of ponies with equine influenza (H3N8) viruses by intranasal inoculation or exposure to aerosols. Eq Vet J. 1990; 22: 93-98
+13. Shim E, Tariq A, Choi, Lee Y, Chowell G. Transmission potential and severity of COVID-19 in South Korea. Int J Inf Dis. 2020; S1201-9712(20)30150-8
+14. Min CK, Cheon S, Ha NH, Sohn KM, Kim Y, Aigerim A. Comparative and kinetic analysis of viral shedding and immunological responses in MERS patients representing a broad spectrum of disease severity. Sci Rep. 2016; 6: 25359.
+15. Beldomenico PM, Begon M. Disease spread, susceptibility and infection intensity: vicious circles? Trends Ecol Evol. 2010; 25:21-7
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[Pablo is the wildlife moderator for ProMED-mail (Mod.PMB). Given the high volume rapid spread of this virus, the concept of multiple super-spreading events is very real and probably does explain the "speeding train" of the transmission being observed in many countries.- Mod.MPP]
+
+******
+[3] Cruise ships
+A. Holland America MS Zaandam cruise ship
+Date: Sun 29 Mar 2020 02.59 BST
+Source: The Guardian [edited]
+https://www.theguardian.com/world/2020/mar/29/coronavirus-panama-to-allow-cruise-liner-zaandam-through-canal
+
+
+A luxury cruise ship battling a COVID-19 outbreak would be allowed to pass through the Panama canal, the country's government confirmed, although it remained unclear where it would be allowed to dock.
+
+So far, 4 passengers have died and dozens have fallen ill on the Zaandam, which was stranded off the coast of Panama after several Latin America countries refused to let it into port. On Saturday evening [28 Mar 2020] the Panamanian government for "humanitarian reasons" reversed a decision to stop it passing through the canal, allowing it to proceed to Fort Lauderdale, Florida as its owners, Holland America Line, had originally planned.
+
+On Saturday evening [28 Mar 2020] representatives for Fort Lauderdale would not confirm to the Guardian that the ship would be allowed to dock. It still had hundreds of elderly passengers from the UK, US, and Australia onboard. "I haven't gotten anything," said Broward county commissioner Michael Udine, who had voiced strong concerns about the ship coming into south Florida. "That's something that would have to go through Unified Command at the port first," referencing a group that includes the US Centers for Disease Control, the coast guard and Florida health department. "I'm still very concerned," he said. "If this ship arrives here, it's going to put a lot of pressure on our local health system."
+
+Panama's health ministry said it would make a humanitarian exemption to new rules about the global pandemic and allow the cruise ship to pass, adding that canal staff boarding the ship would be given biosafety gear. Canal staff must navigate ships through and the ministry had previously said that doing so would endanger staff. Dozens of symptom-free passengers were moved across from the Zaandam to its sister ship, the Rotterdam. Holland America Line said on Saturday night [28 Mar 2020]: "We are aware of reported permission for both Zaandam and Rotterdam to transit the Panama Canal in the near future. We greatly appreciate this consideration in the humanitarian interest of our guests and crew. This remains a dynamic situation, and we continue to work with the Panamanian authorities to finalise details."
+
+[Byline: Patrick Greenfield, Erin McCormick]
+
+----
+B. Artania (off Western Australia Coast)
+Date: Sun 29 Mar 2020 12:30 AWST
+Source: The West Australian [abridged, edited]
+https://thewest.com.au/news/coronavirus/coronavirus-crisis-live-blog-all-the-latest-news-on-covid-19-in-wa-and-beyond-ng-b881502843z
+
+
+Cruise ships were again the centre of attention in WA [Western Australia] yesterday when it emerged the Artania in Fremantle had 46 confirmed cases of COVID-19 on board.
+
+It came on a day of drama as private hospitals were readied for passengers with 12 cruise-goers having already been evacuated due to medical emergencies.
+
+Of those, 11 have since tested positive to coronavirus.
+
+----
+C. Ruby Princess
+Date: Sun 29 Mar 2020 3:24 AM AEST
+Source: 7News [abridged, edited]
+https://7news.com.au/lifestyle/health-wellbeing/coronavirus-death-as-75-year-old-cruise-ship-passenger-dies-in-queensland-hospital-c-769548
+
+
+A 75-year-old woman is Australia's 16th coronavirus fatality. She died in Caboolture hospital, north of Brisbane, on Saturday night [28 Mar 2020]. The woman was a passenger aboard the Ruby Princess cruise ship, which was allowed to dock in Sydney Harbour on 2 occasions earlier in March [2020].
+
+Passengers freely disembarked after the cruise was deemed "low risk" by NSW Health. However, 3 passengers and a crew member initially tested positive to the virus -- and that number has since ballooned. At least 171 cases in NSW and 122 interstate can be traced to the ship.
+
+[Byline: Alex Chapman]
+
+[In addition there are cases in New Zealand also related to the ship. https://www.nzherald.co.nz/hawkes-bay-today/news/article.cfm?c_id=1503462&objectid=12320678 - Mod. MPP]
+
+
+----
+D. 20 ships in search of port
+Date: Fri 27 Mar 2020 12:26 PM
+Source: The Mercury News, CNN report [edited]
+https://www.mercurynews.com/2020/03/27/coronavirus-several-cruise-ships-scramble-to-find-welcoming-port/
+
+
+More than a dozen cruise ships remain stranded at sea right now, as ports deny entry and passengers panic about returning home. On [13 Mar 2020], in light of mounting fears over onboard COVID-19 outbreaks, the Cruise Lines International Association (CLIA) made the decision to suspend operations from US ports of call for 30 days. 2 weeks later, thousands of passengers and crew members remain aboard at least 20 ships across the world. Industry group CLIA encompasses 38 cruise companies, with a total of 277 ships.
+
+The organization confirmed to CNN on Friday [27 Mar 2020] that about 5.4% of the total fleet are currently at sea completing journeys. Here are details on the cruise ships still in limbo that we know about.
+
+Cruise ships with passengers
+Zaandam -- Holland America
+--------------------------
+Status: sailing to Fort Lauderdale, Florida
+The Zaandam was sailing a South American voyage that departed Buenos Aires, Argentina, on [7 Mar 2020] and was originally supposed to conclude in San Antonio, Chile, on [21 Mar 2020]. Influenza-like symptoms have been reported by 138 people on board -- 53 guests and 85 crew members.
+To date, 4 guests on board Zaandam have passed away, the cruise line confirmed on Friday [27 Mar 2020]. Holland America did not immediately provide the cause of death. Separately, the cruise line said that 2 individuals on board experiencing respiratory symptoms have tested positive for COVID-19.
+No one has got off the ship since it stopped in Punta Arenas, Chile, on [14 Mar 2020].
+
+Arcadia -- P&O Cruises UK
+-------------------------
+Status: sailing to Southampton, England
+Cruise ship Arcadia embarked on a 100-day, round-trip World Cruise back in January [2020], in a very different cruising landscape. Now, the ship is making its way back to Southampton, in the UK. It's due to arrival on [12 Apr 2020], on schedule. The ship is skipping all stops after it was turned away from Cape Town.
+"As South African authorities are enforcing additional entry and travel restrictions because of the Coronavirus COVID-19 pandemic, all guests are remaining on board until Southampton, where Arcadia is due to arrive on Sunday [12 Apr 2020] as per the original itinerary," said P&O Cruises in a statement. There are no reported cases of COVID-19 on board.
+
+Maasdam -- Holland America
+--------------------------
+Status: berthed in San Diego, California
+Maasdam arrived in San Diego, California, on [26 Mar 2020]. Passenger disembarkation is set to begin [27 Mar 2020] and be completed by [28 Mar 2020]. There are 842 guests on board and 542 crew, with no reported cases of COVID-19.
+The ship set off on [1 Mar 2020], from Auckland and was originally set to terminate in San Diego on [3 Apr 2020] "Guests will remain on board until their flights and be taken to the airport from the ship," Holland America told CNN Travel via email
+
+Coral Princess -- Princess Cruises
+----------------------------------
+Status: sailing to Fort Lauderdale, Florida
+The Coral Princess departed Santiago, Chile, on [5 Mar 2020]. Princess Cruises announced operations were halting one week later. Princess Cruises tried to negotiate disembarkation in Brazil for guests on board the Coral Princess. Anvisa, the Brazilian Health Regulatory Agency, denied the disembarkation of Coral Princess guests, including those with confirmed outbound flights. The ship is now traveling directly to Fort Lauderdale, Florida. There are no known cases of COVID-19 on board.
+
+Pacific Princess -- Princess Cruises
+------------------------------------
+Status: sailing to Los Angeles, California
+The Pacific Princess docked in Australia on Saturday [21 Mar 2020], with the majority of passengers disembarking and leaving on flights scheduled for [22 Mar 2020] or [23 Mar 2020]. Those who couldn't fly due to medical reasons remained on board the ship, which is now traveling towards Los Angeles.
+There are 75 passengers on board and no known cases of COVID-19. The Pacific Princess is due to arrive in Los Angeles on [24 Apr 2020].
+
+Queen Victoria -- Cunard
+------------------------
+Status: sailing to Southampton, England
+The Queen Victoria departed on an 82-day, round-trip South America Discovery voyage from Hamburg on [8 Jan 2020]. The ship is now on its way back to Southampton, set to arrive this weekend. All guests will be disembarked. No one is believed to be unwell.
+
+Queen Mary 2 -- Cunard
+----------------------
+Status: sailing to Southampton, England
+The Queen Mary 2 set off on a 113-day New York to New York voyage on [3 Jan 2020]. "Queen Mary 2's World Voyage was canceled and the ship is currently en route to Southampton from Australia," says a Cunard spokesperson. Most guests disembarked in Perth and flew back home from there. "The only guests who remain on board are those who are unable to fly due to medical reasons," said Cunard in a statement. There are no known cases of COVID-19 on board.
+
+MSC Magnifica -- MSC Cruises
+----------------------------
+Status: sailing to Europe
+MSC Magnifica disembarked on a world voyage on [4 Jan 2020]. The ship's passengers were not allowed to disembark when the ship docked in Fremantle, Australia, on [24 Mar 2020]. The Magnifica says there are no sick passengers on board. An MSC spokesperson told CNN Travel: "MSC Magnifica, currently sailing a world cruise, is en route from Australia to Europe."
+
+Celebrity Eclipse -- Celebrity Cruises
+--------------------------------------
+Status: sailing to San Diego, California
+Celebrity Eclipse embarked on [1 Mar 2020] from Buenos Aires in Argentina. The ship was later refused permission to disembark in Chile and is now on its way to San Diego, California. There are no known cases of COVID-19 on board.
+
+Azamara Pursuit -- Azamara
+--------------------------
+Status: sailing to Miami, Florida
+The Azamara Pursuit set sail from Buenos Aires, Argentina, on [2 Mar 2020]. As coronavirus fears ramped up and ports closed, the ship was refused entry in Chile. There are not believed to be any cases of the virus on board. The ship is now expecting to arrive in Miami, Florida, between [30 Mar 2020] and [2 Apr 2020].
+
+Costa Victoria -- Costa Cruises
+-------------------------------
+Status: berthed in Civitavecchia, Italy
+The Costa Victoria cruise ship arrived in Civitavecchia, in Italy, on [25 Mar 2020]. Earlier in the voyage a passenger tested positive for coronavirus and was disembarked in Greece. The disembarkation process in Italy is ongoing.
+
+Columbus -- Cruise & Maritime Voyages
+-------------------------------------
+Status: sailing to Tilbury, England
+Last week [18 Mar 2020], 2 Cruise & Maritime Voyages ships, Columbus and Vasco da Gama, met at sea 12 nautical miles off the coast of Phuket, Thailand, to undertake what the cruise line called "a unique passenger transfer and repatriation operation." This decision was made to help get passengers on both vessels home as quickly as possible. Some 239 passengers were transferred between the ships. British nationals transferred onto the Columbus, which is heading to the UK, while Australians and New Zealanders are now on board the Vasco da Gama. There are no confirmed cases of COVID-19 on either ship. The Columbus is set to arrive in Tilbury on [13 Apr 2020].
+
+Vasco da Gama -- Cruise & Maritime Voyages
+------------------------------------------
+Status: in Western Australia
+The Vasco da Gama cruise ship arrived in Fremantle, Australia, on [27 Mar 2020]. The original plan was to disembark passengers on [27 Mar 2020], but Cruise & Maritime Voyages [CMV] said passengers will now be disembarked on [30 Mar 2020] instead. There are 798 Australians and 108 New Zealanders on board the vessel. "At this stage, CMV understands that on Monday [20 Mar 0202], all Western Australians will be transferred to Rottnest Island to spend 14 days in self-isolation before being allowed to continue with their onwards journey," said a spokesperson in a statement.
+
+The cruise line said they understand that Western Australian Premier Mark McGowan is awaiting notice from other states and territories regarding transport arrangements for other Australian guests. It's understood that New Zealand guests will stay on board the ship until they can travel directly to New Zealand. There are no suspected cases of COVID-19 on board.
+
+Artania -- Phoenix
+------------------
+Status: in Western Australia
+The Artania cruise ship embarked on an 140-day world cruise from Hamburg, Germany, to Bremerhaven, Germany, on [21 Dec 2019]. The ship has now docked in Western Australia. One passenger, who has since disembarked, tested positive for coronavirus. A further 7 passengers tested positive for COVID-19 on [25 Mar 2020], following a check from Australian health officials.
+
+In a statement, cruise line Phoenix Reisen said these 7 passengers were subsequently disembarked and quarantined in local hospitals. The remaining passengers are staying on board the ship until their repatriation flights, which are due to take place on [29 Mar 2020]. The majority of passengers are German. Those from elsewhere in Europe will also be able to travel back to Frankfurt, as long as their onward journey is guaranteed.
+
+Cruise ships without passengers
+-------------------------------
+- Costa Magica -- Costa Cruises
+The Costa Magica is docked near Miami, Florida. This week, 6 crew members with respiratory symptoms were evacuated from the ship, and then transported to a hospital on shore by Miami-Dade Fire, according to a tweet from Miami-Dade County Emergency Management. The vessel does not have permission to enter the Port of Miami. The ship previously docked in Guadeloupe and all passengers disembarked to get on flights.
+
+- Costa Favolosa -- Costa Cruises
+Also docked near Miami is another Costa cruise ship, Favolosa. 7 ill crew members were evacuated from this ship along with the sick passengers who had been on board Costa Magica. Like Costa Magica, the ship previously docked in Guadeloupe, and passengers disembarked there.
+
+- Azura -- P&O Cruises UK
+Azura is sailing back to Southampton with no guests on board. It is due to dock [31 Mar 2020].
+
+- Hanseatic Nature -- Hapag-Lloyd Cruises
+The Hanseatic Nature is traveling from Central America to Hamburg, Germany, scheduled to arrive [5 Apr 2020]. According to Hapag-Lloyd Cruises press team, crew members on board this ship have challenged themselves to walk and jog the track around the ship to keep busy and exercise during the crossing. "They are hoping the entire crew of 138 do 28 laps a day, for the 27 day trip; if every crew member does the 28 laps a day it will equal the distance they are crossing, 7700 nautical miles = 8861.01 miles," says a Hapag-Lloyd Cruises spokesperson.
+
+- Hanseatic Inspiration -- Hapag-Lloyd Cruises
+This ship is traveling from Brazil to Barbados, scheduled to arrive this weekend [28-29 Mar 2020].
+
+- Europa -- Hapag-Lloyd Cruises
+This ship is on course to Barbados, scheduled to arrive [3 Apr 2020]
+
+[Byline: Francesca Street]
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The challenges of the cruise industry and the challenges now of docking to disembark passengers, many of whom may in fact be incubating the SARS-CoV-2. The drama of the Diamond Princess now appears to have been a prelude to the current situation. - Mod.MPP]
+
+******
+[4] WHO situation report 68 (as of 28 Mar 2020)
+Date: Sat 28 Mar 2020
+Source: WHO [edited]
+https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200328-sitrep-68-covid-19.pdf?sfvrsn=384bc74c_2
+
+
+*The situation report includes information provided by national authorities as of 10:00 CET
+
+Highlights
+----------
+- No new countries/territories/areas reported cases of COVID-19 in the past 24 hours.
+
+- The WHO Director-General highlighted in his media briefing yesterday [27 Mar 2020] that the chronic global shortage of personal protective equipment (PPE) is one of the most urgent threats to our collective ability to save lives. To date, WHO has shipped almost 2 million individual items of PPE to 74 countries and is preparing to send a similar amount to a further 60 countries. The Director General's opening remarks at the media briefing can be found at https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---27-march-2020.
+
+- Today [28 Mar 2020], WHO published the 1st edition of the practical manual to set up and manage a severe acute respiratory infection (SARI) treatment centre and a SARI screening facility in healthcare facilities. The document has been developed to meet the operational needs emerging with the COVID-19 pandemic. For more details, please see the document at https://www.who.int/publications-detail/severe-acute-respiratory-infections-treatment-centre.
+
+These data come from Table 1: Countries, territories or areas with reported laboratory-confirmed COVID-19 cases and deaths. Data as of [10:00 AM 28 Mar 2020], available at the source URL above. I am presenting the regional case totals without the addition of China for consistency in following trends in the regions. - Mod.MPP]
+
+WHO region (no. countries/territories): Total confirmed cases (new) / Total deaths (new) / Transmission classification [no. countries] local / no. countries imported / no. countries under investigation
+
+Western Pacific Region (17): 19 232 (1292) / 291 (22) / Local (15) / Imported (2) [does not include China] / Under investigation (0)
+European Region (60): 324 343 (37 646) / 18 740 (2635) / Local (56) / Imported (2) / Under investigation (2)
+Southeast Asia Region (10): 3085 (153) / 114 (9) / Local (6) / Imported (4) / Under investigation (0)
+Eastern Mediterranean Region (21): 38 931 (3682) / 2508 (172) / Local (17) / Imported (4) / Under investigation (0)
+Region of the Americas (51): 100 314 (19 177) / 1485 (309) / Local (30) / Imported (19) / Under investigation (2)
+Africa (41): 2831 (412) / 48 (9) / Local (16) / Imported (25) / Under investigation (0)
+
+Other:
+Cases on an international conveyance (Diamond Princess): 712 (0) / 7 (0) / Local / 0
+
+Confirmed cases (new conf cases) / Total deaths (new deaths)
+Sub-total: 488 736 (62 362) / 23 186 (3156) (excluding China and Diamond Princess)
+Grand total (including China and Diamond Princess): 571 678 (62 514) / 26 494 (3159)
+
+Terms:
+- Community transmission is evidenced by chains of transmission for a large number of cases, or by increasing positive tests through routine screening of samples.
+- Local transmission indicates locations where the source of infection is within the reporting location.
+- Imported cases only indicates locations where all cases have been acquired outside the location of reporting.
+- Under investigation indicates locations where type of transmission has not been determined for any cases.
+- Interrupted transmission indicates locations where interruption of transmission has been demonstrated (details to be determined).
+
+[There are excellent graphs and a map available at the source URL, as well as strategic objectives and preparedness and response information
+- Figure 1: Countries, territories, or areas with reported confirmed cases of COVID-19, 28 Mar 2020.
+- Figure 2: Epidemic curve of confirmed COVID-19 cases by date of report and WHO region through 28 Mar 2020. - Mod.MPP]
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The number of countries and territories reporting confirmed cases of COVID-19 outside China continues to grow and now totals 200. This includes 17 countries (including 3 territories) from the Western Pacific region, 60 countries (including 7 territories) from the European region, 10 from the Southeast Asia region, 21 countries (including 1 territory) from the Eastern Mediterranean region, 51 countries (including 16 territories) from the Americas region, and 41 countries (including 2 territories) from the African region.
+
+The Americas region is reporting 19 177 new cases in the past 24 hours of which 88.1% were reported by the USA, followed by Brazil (2.5%) and Canada (2.4%). Given my speculation there was under-reporting in yesterday's [27 Mar 2020] report, it is possible some of this is delayed reporting from 26 Mar 2020. The European region continues with rapid transmission, having confirmed 37 646 (60.4%) new cases and 2635 (83.5%) deaths in the 24 hours since the last WHO update, with Italy accounting for 15.8 % of newly confirmed cases, Spain for 20.9% of newly confirmed cases, German for 16.7% of newly confirmed cases, and France for 10.0% of newly confirmed cases (bringing the total of these 4 countries accounting for 63.4% of newly confirmed cases in Europe, up from 52.6% yesterday (27 Mar 2020). In the Eastern Mediterranean region, Iran reported 2926 new cases representing 79.5% of the regional newly reported cases. Pakistan and Saudi Arabia represent 4.8% and 2.5% respectively. In the African region, South Africa's newly reported cases represent 59% of the regional total. In the Western Pacific region, Australia represents 50.3% of the regional total. In South East Asia, Indonesia was the only country reporting new cases in the 24 hour period.
+
+Figure 2. Epidemic curve of confirmed COVID-19 cases reported outside of China, by date of report and WHO region through [28 Mar 2020], at the source URL above, is an excellent representation of the epidemic starting in the Western Pacific, transitioning to multiregional activity as the virus travelled. One sees the contribution of the ongoing epidemics in Europe and now the increasing cases in the Americas region, fueled by the USA but other countries are following suit. I keep repeating that it would be very nice to see an epidemic curve based on the date of onset of illness.
+
+A somewhat repetitive but necessary reminder: it is clear that the number of reported confirmed cases differs from different reporting websites and is somewhat a function of time of day the website is updated. For example, I note the time we've accessed the Worldometer website, but by the time the post is actually finished with the editing process, those numbers have at times significantly changed. Case counting is clearly a moving target, and, depending upon when the website updates, the numbers may be different. I try to start each post with the latest figures for the calendar day (the Worldometer table) and close with the figures from the start of the calendar day (the WHO tables), defining the calendar day as DST (now GMT-4). - Mod.MPP]
+See Also
+COVID-19 update (59): global, cruise ship, more countries, WHO 20200328.7153651
+COVID-19 update (58): Belgium, cat, clinical case, RFI 20200327.7151215
+COVID-19 update (57): global, re-using PPE, DR Congo, more countries, WHO 20200327.7149046
+COVID-19 update (56): China (Hong Kong) animal, dog, final serology positive 20200326.7146438
+COVID-19 update (55): global, cruise ships, Congo DR, ECDC, more countries, WHO 20200326.7143838
+COVID-19 update (54): global, Italy vs UK, more countries, WHO 20200325.7138573
+COVID-19 update (53): research updates 20200324.7135811
+COVID-19 update (52): global, comorbidities, advice, cruises, more countries, WHO 20200324.7133464
+COVID-19 update (51): global, more countries, WHO 20200323.7131569
+COVID-19 update (50): China (Hong Kong) dog, 2nd case PCR positive, OIE 20200323.7129951
+COVID-19 update (40): global, Europe epicenter, lockdown, phone tracking, WHO 20200315.7092618
+COVID-19 update (30): China (Hong Kong) dog, susp, serology pending 20200306.7057595
+COVID-19 update (20): China, global, Italy, Iran, Nigeria, imported cases, WHO 20200228.7032761
+COVID-19 update (10): China, global, Iran, WHO 20200219.7005749
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (41): China, global, clinical pics, asymptomatic trans., WHO 20200210.6976117
+Novel coronavirus (40): animal reservoir, pangolin poss intermediate host, RFI 20200210.6972104
+Novel coronavirus (30): updates, China, Viet Nam, research 20200202.6945658
+Novel coronavirus (20): China, wildlife trade ban 20200127.6922060
+Novel coronavirus (10): China (HU, GD, BJ) 20200119.6898567
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia - China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia - China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+----
+Undiagnosed pneumonia - China (HU): RFI 20191230.6864153
+.................................................sb/pmb/mpp/mj/lxl
+</body>

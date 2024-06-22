@@ -1,0 +1,68 @@
+<header id=004107>
+Published Date: 2019-09-22 07:37:18 EDT
+Subject: PRO/AH/EDR> Salmonellosis, st Typhimurium - Congo DR: multidrug resistance, invasiveness
+Archive Number: 20190922.6685882
+</header>
+<body id=004107>
+SALMONELLOSIS, SEROTYPE TYPHIMURIUM - CONGO DR: MULTIDRUG RESISTANCE, INVASIVENESS
+**********************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+Date: Thu 19 Sep 2019
+Source: Wellcome Trust Sanger Institute [edited]
+https://eurekalert.org/pub_releases/2019-09/wtsi-scb091919.php
+
+
+The 1st extensively drug-resistant (XDR) strains of _Salmonella_ Typhimurium, a pathogen which is responsible for millions of bloodstream infections per year in sub-Saharan Africa, have been identified in the Democratic Republic of Congo (DRC). Drug-resistance has increased in successive groups of _S._ Typhimurium over time. These new strains are resistant to all but one of the commonly available drugs in the DRC, with one sample showing reduced susceptibility to this final antimicrobial.
+
+The study, published today (19 Sep 2019) in Nature Communications, was conducted by researchers from the Institute of Tropical Medicine (ITM) in Antwerp, the Institut National de Recherche Biomedicale (INRB) in the DRC, the Wellcome Sanger Institute, the University of Cambridge and their collaborators. The findings suggest that _S._ Typhimurium has evolved in sub-Saharan Africa in the past decades and continues to do so. A multifaceted approach will be needed to track and control the spread of XDR _Salmonella_, including further microbiological and genomic surveillance.
+
+Most _Salmonella_ infections result in symptoms associated with food poisoning. While unpleasant, symptoms are not life-threatening in the vast majority of cases. But in sub-Saharan Africa, _Salmonella_ such as _S._ Typhimurium can cause infections of the blood, known as invasive non-typhoidal _Salmonella_ (iNTS) infections. Every year, iNTS infections are estimated to affect 3.4 million people and result in 681 316 deaths globally*, of which the majority are caused by _S._ Typhimurium. The containment and treatment of iNTS infections in places like the DRC is complicated by limited access to healthcare, infrastructure challenges and weakened immunity, with children under 5 years of age particularly at risk.
+
+It is known that iNTS infections in sub-Saharan Africa are dominated by a type of _S._ Typhimurium known as ST313, which is associated with antimicrobial resistance. Two groups of ST313 (named lineage I and II) split off independently and subsequently spread over the African continent. Antimicrobial resistance has been growing over time, with lineage II now the primary cause of iNTS infections.
+
+Now a global research partnership is working to understand how _Salmonella_ ST313 continues to evolve and develop drug resistance. Working on blood samples collected in DRC hospitals from people with suspected bloodstream infections, researchers from the INRB and ITM observed antimicrobial resistance levels never seen before in _S._ Typhimurium causing bloodstream infections, including resistance to the antimicrobial azithromycin, a drug normally held in reserve in case others prove ineffective**.
+
+To better understand these findings, these strains were genome sequenced and analyzed, including bioinformatics analyses and laboratory experiments at ITM and the Wellcome Sanger Institute, and machine learning analyzes at the Centre for Genomic Pathogen Surveillance (CGPS). Analysis of these _S._ Typhimurium genomes identified a new sub-group that is branching off from ST313, named lineage II.1. Estimated to have emerged in 2004, this new group exhibits extensive drug resistance (XDR).
+
+Dr Sandra Van Puyvelde, 1st author of the study from the Institute of Tropical Medicine and Visiting Scientist at the Wellcome Sanger Institute, said: "All antibiotic resistance genes contributing to XDR are present on the same plasmid. This is worrying because a plasmid is a mobile genetic element that could be transferred to other bacteria. While accumulating more antibiotic resistance, we discovered that the novel _Salmonella _ Typhimurium line is also showing further genetic and behavioral changes, which suggest ongoing evolution of the bacteria towards bloodstream infections."
+
+The researchers also studied the way _S._ Typhimurium is adapting to an invasive lifestyle, moving away from the forms of _Salmonella_ that cause gastrointestinal illness towards the types that cause dangerous invasive bloodstream infections in sub-Saharan Africa. In addition to lab experiments, the samples were tested with a machine learning algorithm designed to look for characteristic patterns in the DNA of _Salmonella_ that indicate the potential to cause dangerous invasive infections.
+
+Dr Nicole Wheeler, a bioinformatician at the Centre for Genomic Pathogen Surveillance, based at the Wellcome Sanger Institute, said: "In the lab, we've observed changes in this new group of _Salmonella_ Typhimurium_ that we've seen in other invasive salmonella. What's interesting as a bioinformatician is that we've been able to pick up these changes using machine learning. The hope is that in the near future, we'll be able to deploy machine learning in a more predictive role to help control the emergence and spread of drug-resistant strains of bacteria such as _S._ Typhimurium."
+
+INRB and ITM have established bloodstream infection surveillance in the past 10 years which has been pivotal in the early detection of the XDR _S._ Typhimurium. Professor Octavie Lunguya of INRB in the DRC, said: "We isolated the organism from patients in hospitals across the Democratic Republic of Congo during our bloodstream infection surveillance activities. It is now crucial that we closely monitor the bacteria and their progression."
+
+Professor Gordon Dougan, from the University of Cambridge, said: "Studies like this are unique, as we are making the bridge between the most important health issues observed in hospitals across the world with in-depth biological research for which we apply cutting edge technologies. Collaborations like this are key and will be important in the future to gain further insights on emerging diseases."
+
+--
+Communicated by:
+ProMED-mail from HealthMap Alerts
+<promed@promedmail.org>
+
+[The publication discussed is:
+Van Puyvelde S, Pickard D, Vandelannoote K, Et al: An African Salmonella Typhimurium ST313 sublineage with extensive drug-resistance and signatures of host adaptation. Nat Commun. 2019 Sep 19;10(1):4280. doi: 10.1038/s41467-019-11844-z.
+
+Abstract:
+Bloodstream infections by Salmonella enterica serovar Typhimurium constitute a major health burden in sub-Saharan Africa (SSA). These invasive non-typhoidal (iNTS) infections are dominated by isolates of the antibiotic resistance-associated sequence type (ST) 313. Here, we report emergence of ST313 sublineage II.1 in the Democratic Republic of the Congo. Sublineage II.1 exhibits extensive drug resistance, involving a combination of multidrug resistance, extended spectrum B-lactamase production and azithromycin resistance. ST313 lineage II.1 isolates harbour an IncHI2 plasmid we name pSTm-ST313-II.1, with one isolate also exhibiting decreased ciprofloxacin susceptibility. Whole genome sequencing reveals that ST313 II.1 isolates have accumulated genetic signatures potentially associated with altered pathogenicity and host adaptation, related to changes observed in biofilm formation and metabolic capacity. Sublineage II.1 emerged at the beginning of the 21st century and is involved in on-going outbreaks. Our data provide evidence of further evolution within the ST313 clade associated with iNTS in SSA.
+
+The combination of an extensively drug resistance phenotype with increased invasiveness is a very problematic combination. - Mod.LL
+
+HealthMap/ProMED map available at:
+DR Congo: https://promedmail.org/promed-post?place=6685882,194]
+See Also
+2018
+----
+Salmonellosis, st Typhimurium - Africa: ST313, virulence 20180228.5656532
+2017
+---
+Salmonellosis, st. Typhimurium - Brazil: ST313 20170730.5215415
+2012
+---
+Salmonellosis, serotype Typhimurium - Africa: invasive strain, HIV 20121001.1317973
+.................................................sb/ll/msp/lxl
+</body>

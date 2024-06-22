@@ -1,0 +1,102 @@
+<header id=006159>
+Published Date: 1999-10-13 19:50:00 EDT
+Subject: PRO/AH> West Nile-like virus: PCR primers & protocols
+Archive Number: 19991013.1826
+</header>
+<body id=006159>
+WEST NILE-LIKE VIRUS: PCR PRIMERS & PROTOCOLS
+************************************************
+<http://www.healthnet.org/programs/promed.html>
+Date: Mon, 11 Oct 1999 17:58:19 -0700
+From: Ian Lipkin <ilipkin@uci.edu>
+
+Several groups have written requesting sequences of primers and
+protocols suitable for RT-PCR amplification of the flavivirus recently
+implicated in the New York city encephalitis outbreak (see Briese et al.
+Identification of a Kunjin/West Nile-like flavivirus in brains of patients
+with New York Encephalitis Lancet 354, 1261). ProMED has graciously
+agreed to help disseminate this information.
+The primers and protocols we employ have been tested independently
+by several investigators using various clinical materials. These
+protocols are a work in progress; thus, in the event you have difficulties
+or wish to suggest modifications please feel free to contact either
+Thomas Briese (tbriese@uci.edu) or Ian Lipkin (tbriese@uci.edu).
+Protocol:
+1) RT: SuperScript II RNase-minus Reverse Transcriptase (Life
+technologies Cat # 18064-014) with 4 ug total RNA/ 20 ul assay and
+random hexamers at 14 pmol/ul final conc. We recommend using the
+Gibco protocol. RNA is incubated together with hexamer primer for 70
+C for 10 min and quick chilled on ice before addition of reaction mix
+(buffer, dNTP, DTT, and RT). The RT reaction is performed for 10 min
+at 25 C and then 50 min at 42 C. The reaction is stopped at 70 C for 15
+min. Thereafter RNase H is added and incubated for 10 min at 37 C.
+2) PCR: We use a 25 ul assay volume containing 1.5 ul of the cDNA
+reaction, primers at 1.5 uM final conc., 2 mM MgCl2 final conc., and
+Promega Taq Cat# M166A in the supplied reaction buffer. PCR is
+performed on a MJ PTC 200 thermocycler - 3 min. 94 C, then 40 cycles
+of 1 min 94 C, 1 min. 50 C, 1 min. 72 C, final extension for 10 min. at
+72 C.
+Some investigators have found additional amplification products using
+the method described above. This may be obviated by annealing at 56
+C (instead of 50C).
+Primer set B (NS3, approx. 470bp product)
+Fla-U5004
+5' - GGA ACD TCM GGH TCN CCH AT-20-mer
+Fla-L5457
+5' - GTG AAR TGD GCY TCR TCC AT-20-mer
+Primer set C (5' NS5, approx. 200bp product):
+Fla-U9093
+5' - AGY MGR GCH ATH TGG TWY ATG TGG-24-mer
+Fla-L9279
+5' - TCC CAV CCD GCK GTR TCA TC-20-mer
+Primer set D (3' NS5, approx. 170bp product):
+Fla-U9954
+5' - GSS AAA KCH TAY GCN CAV ATG TGG-24-mer
+Fla-L10098
+5' - AGC ATR TCT TCH GTN GTC ATC CA-23-mer
+Primer set E (3' untranslated region, approx. 670/750 bp products):
+Fla-U10098
+5' - TGG ATG ACN ACD GAA GAY ATG CT-23-mer
+Fla-L10750
+5' - GGG GTC TCC TMT AAC CWC TAG-21-mer
+Note: Primer Set "A" does not work for the New York isolate.
+A Taqman system has also been established; however, specificity
+analyses have not been completed because we lack cDNAs with which
+to generate NS3 and NS5 transcripts of St. Louis encephalitis, West Nile
+and Kunjin viruses. We would be most grateful for access to such
+cDNAs for use in calibrating and assessing specificity, and would be
+pleased to acknowledge the contributions of these reagents.
+--
+Ian Lipkin
+tbriese@uci.edu
+Thomas Briese
+tbriese@uci.edu
+Emerging Diseases Laboratory
+3101 Gillespie Neuroscience Facility
+University of California
+Irvine, CA 92697-4292
+phone (949) 824-6193
+fax (949) 824-1229
+......................................jw
+--
+*##########################################################*
+ProMED-mail makes every effort to verify the reports that
+are posted, but the accuracy and completeness of the
+information, and of any statements or opinions based
+thereon, are not guaranteed. The reader assumes all risks in
+using information posted or archived by ProMED-mail. ISID
+and its associated service providers shall not be held
+responsible for errors or omissions or held liable for any
+damages incurred as a result of use or reliance upon posted
+or archived material.
+************************************************************
+Visit ProMED-mail's web site at <http://www.promedmail.org>.
+Send all items for posting to: promed@promedmail.org
+(NOT to an individual moderator). If you do not give your
+full name and affiliation, it may not be posted. Send
+commands to subscribe/unsubscribe, get archives, help,
+etc. to: majordomo@promedmail.org. For assistance from a
+human being send mail to: owner-promed@promedmail.org.
+############################################################
+############################################################
+</body>

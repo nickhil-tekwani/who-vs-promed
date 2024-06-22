@@ -1,0 +1,9 @@
+cd /work/k.church/Scarpino/WHO/0072
+egrep 'href.*emergencies/disease-outbreak-news/item' 1999 | cut -f4 -d'"'
+
+cd /work/k.church/Scarpino/WHO
+for dir in /work/k.church/Scarpino/WHO/[0-9][0-9][0-9][0-9]
+do
+echo `date` working on $dir
+sh get_related.sh $dir
+done

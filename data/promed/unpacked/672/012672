@@ -1,0 +1,66 @@
+<header id=012672>
+Published Date: 2014-05-12 09:45:15 EDT
+Subject: PRO> E. coli, xenogenetic
+Archive Number: 20140512.2465507
+</header>
+<body id=012672>
+E. COLI, XENOGENETIC
+********************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+Date: Wed 7 May 2014
+Date: The New York Times [edited]
+http://www.nytimes.com/2014/05/08/business/researchers-report-breakthrough-in-creating-artificial-genetic-code.html
+
+
+Scientists reported Wed 7 May 2014, that they had taken a significant step toward altering the fundamental alphabet of life, creating an organism with an expanded artificial genetic code in its DNA. The accomplishment might eventually lead to organisms that can make medicines or industrial products that cells with only the natural genetic code cannot. The work gives some support to the concept that life can exist elsewhere in the universe using genetics different from those on Earth.
+
+"This is the 1st time that you have had a living cell manage an alien genetic alphabet," said Steven A Benner, a researcher in the field at the Foundation for Applied Molecular Evolution in Gainesville, Florida, who was not involved in the new work. But the research, published online by the journal Nature, is bound to raise safety concerns and questions about whether humans are playing God. The new paper could intensify calls for greater regulation of the budding field known as synthetic biology, which involves the creation of biological systems intended for specific purposes.
+
+"The arrival of this unprecedented 'alien' life form could in time have far-reaching ethical, legal and regulatory implications," Jim Thomas of the ETC Group, a Canadian advocacy organization, said in an email. "While synthetic biologists invent new ways to monkey with the fundamentals of life, governments haven't even been able to cobble together the basics of oversight, assessment, or regulation for this surging field."
+
+Despite the great diversity of life on Earth, all species, from simple bacteria to human beings, use the same genetic code. It consists of 4 chemical units in DNA, sometimes called nucleotides or bases, that are usually represented by the letters A, C, G, and T. The sequence of these chemical units determines what proteins the cell makes. Those proteins in turn do most of the work in cells and are required for the structure, function, and regulation of the body's tissues and organs.
+
+The Scripps researchers chemically created 2 new nucleotides, which they called X and Y. They inserted an X-Y pair into the common bacterium _E. coli_. The bacterium was able to reproduce normally, though a bit more slowly than usual, replicating the X and Y along with the natural nucleotides.
+
+In effect, the bacteria have a genetic code of 6 letters rather than 4, perhaps allowing them to make novel proteins that could function in a completely different way from those created naturally. "If you have a language that has a certain number of letters, you want to add letters so you can write more words and tell more stories," said Floyd E Romesberg, a chemist at Scripps who led the work. Dr Romesberg dismissed concern that novel organisms would run amok and cause harm, saying the technique was safe because the synthetic nucleotides were fed to the bacteria. Should the bacteria escape into the environment or enter someone's body, they would not be able to obtain the needed synthetic material and would either die or revert to using only natural DNA.
+
+"This could never infect something," he said. That is one reason the company he co-founded, Synthorx, is looking at using the technique to grow viruses or bacteria to be used as live vaccines. Once in the bloodstream, they would conceivably induce an immune response but not be able to reproduce.
+
+One possible use of an expanded genetic alphabet is to allow cells to make new types of proteins. Combinations of 3 nucleotides in DNA specify particular amino acids, which are strung together to make proteins. The cell, following those instructions, strings amino acids together to form proteins. With rare exceptions, living things use only 20 amino acids. But there are many amino acids that could possibly be used in proteins, potentially adding new functions. Ambrx, a San Diego company that has filed to go public, is incorporating novel amino acids into certain proteins that are used as drugs in an effort to make the drugs more potent in killing tumors or make treatments last longer in the bloodstream. Proteins with novel amino acids might also be better tracked to research how cells work, or isolated for use in diagnostic testing.
+
+Work on artificial DNA has been underway for more than 20 years. Man-made nucleotides have functioned in test tubes and are even used in some diagnostic tests. But until now it has not been possible to get them to function in a living cell. Dr Romesberg said he and his colleagues created 300 variants before coming up with nucleotides that would be stable enough and would be replicated as easily as the natural ones when the cells divide. The X nucleotide pairs with Y, just as A pairs with T and C pairs with G, allowing the DNA to be accurately replicated.
+
+The _E. coli_ described in the Nature article each contained only a single X-Y pair. It is not yet known whether a cell would function if it contained many such pairs. It is also not clear how long the bacteria would survive and retain the foreign code. The article mentions growing them for only about 24 replications over 15 hours. Most important, the researchers have not yet demonstrated that the artificial nucleotides can actually be used by the cell to make proteins. That will require more genetic engineering of the bacteria, though work by others has suggested how it might be done.
+
+Dr Benner in Florida is trying to engineer cells genetically so they can make their own non-natural nucleotides. That would allow the cells to survive on their own and be more useful, he said. But Dr Romesberg and colleagues took a shortcut of sorts. Chloroplasts in plants have the ability to import nucleotides from the surrounding tissue, and other researchers have figured out what genes are responsible for this. The Scripps researchers spliced an algal gene into _E. coli_, giving the bacteria the ability to take up the X and Y nucleotides from the medium in which they grew.
+
+"It took some clever problem-solving to get where they got," said Eric T Kool, a professor of chemistry at Stanford who is also doing research in the area. "It is clear that the day is coming that we'll have stably replicating unnatural genetic structures."
+
+Besides any possible practical applications, the research into the field, which is sometimes called xenobiology, could shed light on why living things evolved to have 4 nucleotides. It could be that 4 is the most efficient number, in which case organisms with expanded genetic codes might not function very well.
+
+[Byline: Andrew Pollack]
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The citation and abstract of this remarkable publication are reproduced below:
+
+Malyshev DA, Dhami K, Lavergne T, et al: A semi-synthetic organism with an expanded genetic alphabet. Nature. doi:10.1038/nature13314 http://www.nature.com/nature/journal/vaop/ncurrent/full/nature13314.html
+
+"Abstract
+---------
+Organisms are defined by the information encoded in their genomes, and since the origin of life this information has been encoded using a two-base-pair genetic alphabet (A-T and G-C). In vitro, the alphabet has been expanded to include several unnatural base pairs (UBPs). We have developed a class of UBPs formed between nucleotides bearing hydrophobic nucleobases, exemplified by the pair formed between d5SICS and dNaM (d5SICS-dNaM), which is efficiently PCR-amplified and transcribed in vitro, and whose unique mechanism of replication has been characterized. However, expansion of an organism's genetic alphabet presents new and unprecedented challenges: the unnatural nucleoside triphosphates must be available inside the cell; endogenous polymerases must be able to use the unnatural triphosphates to faithfully replicate DNA containing the UBP within the complex cellular milieu; and finally, the UBP must be stable in the presence of pathways that maintain the integrity of DNA. Here we show that an exogenously expressed algal nucleotide triphosphate transporter efficiently imports the triphosphates of both d5SICS and dNaM (d5SICSTP and dNaMTP) into _Escherichia coli_, and that the endogenous replication machinery uses them to accurately replicate a plasmid containing d5SICS-dNaM. Neither the presence of the unnatural triphosphates nor the replication of the UBP introduces a notable growth burden. Lastly, we find that the UBP is not efficiently excised by DNA repair pathways. Thus, the resulting bacterium is the 1st organism to propagate stably an expanded genetic alphabet."
+
+Only one "unnatural base pair" was placed into the _E. coli_ genome with the assistance of an algal nucleotide triphosphate transporter in an area of the genome replicated by _E. coli_ DNA polymerase I and a majority of the bacterial genome is replicated using _E. coli_ DNA polymerase III. No adverse effects to the organism seemed noted and indeed an elimination of a growth lag was noted. The xenogenomic DNA was replicated with excellent fidelity comparable to eugenomic DNA and this unique synthetic base pair was not clearly removed by restriction DNA repair pathways.
+
+Whether Romesberg's lab at Scripps Research Institute has created the 1st step in the genomic equivalent of the ultimate in artificial intelligence where the eventual product cannot be controlled by its hosts (us), is a way long way from being considered. However, given the welcome that genetically manipulated organisms (GMOs) have been given, there will be (no doubt) claims that monster organisms will be on our lab steps, and soon at our doorsteps, before next St Swithin's Day. - Mod.LL]
+
+.................................................ll/mj/lm
+</body>

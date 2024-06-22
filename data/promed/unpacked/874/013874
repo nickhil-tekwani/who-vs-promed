@@ -1,0 +1,193 @@
+<header id=013874>
+Published Date: 2020-01-19 12:18:37 EST
+Subject: PRO/AH/EDR> Novel coronavirus (09): China, 1st diagnostic test
+Archive Number: 20200119.6897998
+</header>
+<body id=013874>
+NOVEL CORONAVIRUS (09): CHINA, FIRST DIAGNOSTIC TEST
+****************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] Subscriber query re: laboratory testing
+[2] Laboratory testing available - media report
+[3] WHO Interim Guidance on Laboratory testing for 2019 novel coronavirus (2019-nCoV) in suspected human cases
+[4] Diagnostic detection of Wuhan coronavirus 2019 by real-time RT-PCR
+[5] Japan: Detection of WN-Human1 sequence from clinical specimen.
+
+******
+[1] Subscriber query re: laboratory testing
+Date: 17 Jan 2020 8:34 PM
+From: J Richard Gould MD <Richard.Gould@york.ca> [edited]
+
+
+Would it be possible to provide more information on the tests being performed to confirm cases? Whatever techniques are being used seem to have been developed very quickly. That can be extremely valuable and helpful. However, what information is available about the sensitivity and specificity of these tests, especially the latter?
+
+--
+J Richard Gould MD MHSc FRCPC
+Associate Medical Officer of Health
+York Region Public Health
+<Richard.Gould@york.ca>
+
+[Good request. See below for information on the laboratory testing. - Mod.MPP]
+
+******
+[2] Laboratory testing available - media report
+Date: 19 Jan 2020
+Source: Live Mint [edited]
+https://www.livemint.com/
+
+
+The Chinese virus, which 1st emerged in Wuhan, and can cause severe pneumonia, can now be detected in the laboratory. The test will help scientists to understand whether the new virus is capable of spreading from human to human.
+
+Researchers have developed the 1st diagnostic test to detect the novel Chinese coronavirus, which is likely to spread globally.
+
+The assay protocol has now been published by the World Health Organization (WHO) as a guideline for diagnostic detection. The new method also enables suspected cases to be tested quickly.
+
+The virus, which 1st emerged in Wuhan, China and can cause severe pneumonia, can now be detected in the laboratory.
+
+"Now that this diagnostic test is widely available, I expect that it won't be long before we are able to reliably diagnose suspected cases," said study researcher Christian Drosten, Director of the Institute of Virology on Campus Charite Mitte in Germany.
+
+"This will also help scientists understand whether the virus is capable of spreading from human to human; this is an important step in our fight against this new virus," Drosten added.
+
+Developed by researchers from the German Centre for Infection Research, the world's 1st diagnostic test for the coronavirus has now been made publicly available.
+
+Following its online publication by the WHO, the test protocol will now serve as a guideline for laboratories. An international consortium is currently conducting a joint evaluation study.
+
+The Union Ministry of Health and Family Welfare on Friday [17 Jan 2020] issued an advisory for travellers visiting China in the wake of the novel coronavirus outbreak in the neighbouring country.
+
+As of [11 Jan 2020], 41 novel coronavirus confirmed infection cases have been reported from China, of which one has died. One travel related case each has been reported in Thailand and Japan.
+
+The clinical signs and symptoms are mainly fever with a few patients having difficulty in breathing. The mode of transmission is unclear as of now. However, so far, there is little evidence of significant human-to-human transmission.
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+******
+[3] WHO Interim Guidance on Laboratory testing for 2019 novel coronavirus (2019-nCoV) in suspected human cases
+Date: 17 Jan 2020
+Source: WHO/2019-nCoV/laboratory/2020.3 [edited]
+https://www.who.int/docs/default-source/coronaviruse/20200117-interim-laboratory-guidance-version-final.pdf?sfvrsn=cd45dc4b_2&download=true
+
+
+This document is entitled: Laboratory testing for 2019 novel coronavirus (2019-nCoV) in suspected human cases; Interim guidance [17 Jan 2020].
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[See below for specifics on real-time RT-PCR testing. - Mods.MPP/UBA]
+
+******
+[4] Diagnostic detection of Wuhan coronavirus 2019 by real-time RT-PCR
+Date: 13 Jan 2020
+Source: WHO [abridged, edited]
+https://www.who.int/docs/default-source/coronaviruse/wuhan-virus-assay-v1991527e5122341d99287a1b17c111902.pdf?sfvrsn=d381fc88_2
+
+
+Abbreviations and taxonomy related to the Wuhan virus are not used in any systematic way, i.e., there are multiple different designations and abbreviations for the "Wuhan virus" in this document. We use the term "SARS-related coronavirus" to include the SARS virus as well as the clade of betacoronaviruses known to be associated with (mainly) rhinolophid bats across the Palearctic.
+
+The latest taxonomy classifies these viruses in a subgenus termed Sarbecovirus.
+
+"HCoV229E (VR740) and MERS-CoV (EMC) could be used as positive control for pan coronavirus primer set, but there was no positive control for WN-human1 specific primers. Water only was used as negative control."
+
+Background
+------
+We used known SARS-and SARS-related coronaviruses (bat viruses from our own studies as well as literature sources) to generate a non-redundant alignment (excerpts shown in Annex). We designed candidate diagnostic RT-PCR assays before release of the 1st sequence of the Wuhan virus. Upon sequence release, 3 assays were selected based on their matching to the Wuhan virus as per inspection of the sequence alignment. All assays can use SARS-CoV genomic RNA as positive control.
+
+Synthetic control RNA for Wuhan virus will be provided shortly.
+1st line screening assay: E gene assay
+Confirmatory assay: RdRp gene assay
+Additional confirmatory assay: N gene assay
+
+Materials and assay formulation
+-----------------------
+Clinical samples and CoV cell culture supernatants
+Respiratory samples were obtained during 2019 from patients hospitalized at Charite medical center and tested by the NxTAG Respiratory Pathogen Panel (Luminex) or in cases of MERS-CoV by the MERS-CoV upE assay as published before (1). Cell culture super-natants from typed coronaviruses were available at our research and clinical laboratories. The typed avian influenza virus RNA (H5N1) was obtained from the German Society for Promotion of Quality Assurance in Medical Laboratories (INSTAND) proficiency testing panels. RNA was extracted from clinical samples by using the MagNA Pure 96 system (Roche) and from cell culture super-natants by the viral RNA mini kit (Qiagen).
+
+Assay design: For oligonucleotide design and in-silico evaluation, we downloaded all complete and partial (if over 400 nucleotides) SARS-related virus sequences available at GenBank by 1 Jan 2020. The list (n=729 entries) was manually checked and artificial sequences (lab-derived, Berlin, 13.01.2020 synthetic etc.) as well as sequence duplicates removed, resulting in a final list of 375 sequences. These sequences were aligned and the alignment used for assay design. The alignment was later complemented by sequences released from the Wuhan cluster. All presently released sequences match the amplicons.
+
+Real-time reverse-transcription polymerase chain reaction
+-------------------------------------
+All assays used the same conditions. Primer and probe sequences, as well as optimized concentrations are shown in Table 1. A 25-ul reaction was set up containing 5 ul of RNA, 12.5 ul of 2 X reaction buffer provided with the Superscript III one step RT-PCR system with Platinum Taq Polymerase (Invitrogen; containing 0.4 mM of each deoxyribonucleotide triphosphates (dNTP) and 3.2 mM magnesium sulfate), 1 ul of reverse transcriptase/Taq mixture from the kit, 0.4 ul of a 50 mM magnesium sulfate solution (Invitrogen -not provided with the kit), and 1 ug of non-acetylated bovine serum albumin (Roche). All oligonucleotides were synthesized and provided by Tib-Molbiol, Berlin. Thermal cycling was performed at 55 C for 10 min for reverse transcription, followed by 95 C for 3 min and then 45 cycles of 95 C for 15 s, 58 C for 30 s.....
+
+Specificity testing
+-------------
+1. Chemical stability
+To exclude non-specific reactivity of oligonucleotides among each other, all assays were tested 40 times in parallel with water and no other nucleic acid except the provided oligonucleotides. In none of these reactions was any positive signal detected.
+2. Cross-reactivity with other coronaviruses: Cell culture super-natants containing human coronaviruses (HCoV)-229E, -NL63, -OC43, and -HKU1 as well as MERS-CoV were tested in all 3 assays (Table 2). For the non-cultivable HCoV-HKU1, super-natant from human airway culture was used. Virus RNA concentration in all samples was determined by specific real-time RT-PCRs and in-vitro transcribed RNA standards designed for absolute viral load quantification.
+3. Tests of human clinical samples previously tested to contain respiratory viruses. All tests returned negative results.
+
+Document Authors
+-----------------
+-Victor Corman, Tobias Bleicker, Sebastian Brunink, Christian Drosten Charite Virology, Berlin, Germany Olfert Landt, Tib-Molbiol, Berlin, Germany
+Marion Koopmans Erasmus MC, Rotterdam, The Netherlands
+Maria Zambon Public Health England, London
+Additional advice by Malik Peiris, University of Hong Kong
+Contact: <christian.drosten@charite.dehttps://virologie-ccm.charite.de/en/>
+Positive control material is available from Charite, Berlin, viaEVAg (https://www.european-virus-archive.com/).
+
+We acknowledge the originators of sequences in GISAID (http://www.gisaid.org):
+National Institute for Viral Disease Control and Prevention, China, Institute of Pathogen Biology, Chinese Academy of Medical Sciences, Peking Union Medical College, China, and Wuhan Jinyintan Hospital Wuhan Institute of Virology, Chinese Academy of Sciences, China).
+
+We acknowledge Professor Yong-Zhen Zhang, Shanghai Public Health Clinical Center & School of Public Health, Fudan University, Shanghai, China for release of another sequence (MN908947).
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The complete protocol can be accessed at the URL above. In laboratories that have validated broad coronavirus RT-PCR assays, it is advised to check the primers against the published 2019-nCoV sequence and check whether primers are overlapping and have the capacity to detect the 2019-nCoV. On a positive result, sequencing should be performed to determine the precise virus detected (e.g. on an amplicon of a non-conserved region), or refer for confirmation to a national, regional or global reference laboratory. - Mod.UBA]
+
+******
+[5] Japan: Detection of WN-Human1 sequence from clinical specimen.
+Date: 17 Jan 2020
+Source: NIID webpage [edited]
+https://www.niid.go.jp/niid/images/epi/corona/Method_NIID_20200114_Na.pdf
+
+
+Detection of WN-Human1 sequence from clinical specimen. Naganori Nao, Kazuya Shirato, Shutoku Matsuyama, and Makoto Takeda. Laboratory of Acute Viral Respiratory Infections and Cytokines, Department of Virology III, National Institute of Infectious Diseases, 4-7-1 Gakuen, Musashimurayama, 208-0011 Tokyo, Japan.
+
+--
+Communicated by:
+ProMED-mail Rapporteur Kunihiko Iizuka
+
+[Rapid collection and testing of appropriate specimens from suspected cases is a priority. However, extensive testing is still needed to confirm the 2019-nCoV, and the role of mixed infection has not been verified; multiple tests may need to be performed, and sampling sufficient clinical material is recommended.
+
+Furthermore, in view of the latest WHO guidance, all labs must assure that appropriate Standard Operating Procedures (SOPs) are available and that the appropriate staff are trained and available for appropriate collection, specimen storage, packaging and transport. There is still limited information on the risk posed by the reported coronavirus found in Wuhan, but it would appear that samples prepared for molecular testing could be handled as would samples of suspected human influenza. However, attempts to culture the virus may require heightened biosafety control measures (see https://www.who.int/docs/default-source/coronaviruse/20200117-interim-laboratory-guidance-version-final.pdf?sfvrsn=cd45dc4b_2&download=true). - Mod.UBA]
+
+[There is also the need to develop serologic tests. To get a better understanding of whether there has been significant person-to-person transmission, serologic testing of close contacts, especially those who tested negative for the virus by RT-PCR, would be helpful. But a caution reminder is that studies in Saudi Arabia on the MERS-CoV have demonstrated loss of antibodies within 3-6 months following infection, especially in those individuals with a mild clinical presentation when infected with the MERS-CoV. - Mod.MPP
+
+HealthMap/ProMED map available at:
+China: https://promedmail.org/promed-post?place=6897998,155]
+See Also
+Novel coronavirus (08): China (HU) more cases, Nepal susp, modeling 20200118.6897282
+Novel coronavirus (07): China (HU), Thailand ex China, Japan ex China, WHO 20200117.6895647
+Novel coronavirus (06): China (HU) fatality, Japan ex China, antipyretic use 20200116.6893471
+Novel coronavirus (05): China (HU), Japan ex China 20200115.6891515
+Novel coronavirus (04): China (HU), Thailand ex China, WHO 20200114.6889527
+Novel coronavirus (03): China (HU) animal reservoir suggested, RFI 20200114.6887480
+Novel coronavirus (02): Thailand ex China (HU) WHO 20200113.6886644
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia - China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia - China (HU) (09): novel coronavirus, more info, fatality 20200110.6883253
+Undiagnosed pneumonia - China (HU) (08): novel coronavirus, WHO 20200110.6881082
+Undiagnosed pneumonia - China (HU) (07): official confirmation of novel coronavirus 20200108.6878869
+Undiagnosed pneumonia - China (06): (HU) Hong Kong surveillance, USA CDC alert 20200108.6876648
+Undiagnosed pneumonia - China (05): (HU) novel coronavirus identified 20200108.6877694
+Undiagnosed pneumonia - China (04): (HU) Hong Kong surveillance 20200106.6874277
+Undiagnosed pneumonia - China (03): (HU) updates, SARS, MERS ruled out, WHO, RFI 20200105.6872267
+Undiagnosed pneumonia - China (02): (HU) updates, other country responses, RFI 20200103.6869668
+Undiagnosed pneumonia - China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+----
+Undiagnosed pneumonia - China: (HU) RFI 20191230.6864153
+.................................................mpp/uba/mpp/msp/jh
+</body>

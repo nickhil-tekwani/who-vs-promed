@@ -1,0 +1,254 @@
+<header id=029513>
+Published Date: 2021-10-22 14:21:22 EDT
+Subject: PRO/AH/EDR> COVID-19 update (359): genetic resistance, pregnancy & vaccination, WHO, global
+Archive Number: 20211022.8699203
+</header>
+<body id=029513>
+CORONAVIRUS DISEASE 2019 UPDATE (359): GENETIC RESISTANCE, PREGNANCY & VACCINATION, WHO, GLOBAL
+***********************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] Genetic resistance to COVID-19
+[2] Pregnancy and vaccination
+[A] Safety of COVID vaccines during pregnancy
+[B] No increased risk of miscarriage
+[3] WHO: daily new cases reported (as of 21 Oct 2021)
+[4] Global update: Worldometer accessed 21 Oct 2021 21:44 EST (GMT-5)
+
+******
+[1] Genetic resistance to COVID-19
+Date: Mon 18 Oct 2021 16:15 BST
+Source: IFLScience [edited]
+https://www.iflscience.com/health-and-medicine/some-people-may-be-born-with-resistance-to-covid19/
+
+
+Genetic resistance to COVID-19 could present a previously untapped resource in the fight against the virus, international experts say in a new report. Genes conferring natural resistance have been identified in other infections, including HIV and norovirus, and could provide an opportunity to better understand COVID-19 and develop improved treatments and vaccines.
+
+Published today [18 Oct 2021] in Nature Immunology (https://www.nature.com/articles/s41590-021-01030-z), the perspective draws on the wealth of knowledge already out there to consider factors that could influence an individual's susceptibility to severe outcomes, as well as factors that could give rise to inborn resistance. The team present several targets for future research and provide a comprehensive strategy detailing how this research be conducted.
+
+As has become apparent in the 22 months since the COVID-19 pandemic began, infections are incredibly variable, ranging from asymptomatic to life-threatening, with all the varying degrees in between. Some suffer mildly, some are hospitalized, and some continue to suffer for months after infection. Secondary attack rates -- the probability that an infection occurs among susceptible people within a specific group -- can reach up to 70% in some households, and there are numerous reports of individuals resisting infection despite the rest of their families succumbing. This is not, however, the result of a malevolent virus cherry-picking its targets -- the authors of this new study suggest that, perhaps, the clinical variability of COVID-19 could be explained by genetic factors.
+
+"Our study pertains to the intriguing enigma of humans who have not been infected with SARS-CoV-2 despite repeated and intense exposure to the virus. We propose that these cases are 'genetic' and explain how we intend to crack this enigma by means of human genetics," study author Dr Andras N. Spaan told IFLScience.
+
+The 1st of these "genetic" causes that the team considers relates to innate susceptibility to the virus. A deficiency of type I interferons (IFNs), for example, has been linked to around 20% of critical COVID-19 cases. Type I IFNs are proteins that play an integral role in the body's antiviral immune response, so perhaps unsurprisingly, inborn errors in their genes have been linked to severe COVID-19. Errors at 8 locations in 2 type I IFN genes were reported in 23 critically ill people by the COVID Human Genetic Effort. Subsequent studies have found that more than 10% of people with severe COVID-19 have pre-existing autoantibodies against type I IFNs, further suggesting that a lack of the proteins could increase one's susceptibility to infection.
+
+As for innate resistance, only 3 known examples currently exist -- _Plasmodium vivax_, HIV-1, and norovirus infections. All these mechanisms are deficiencies of receptors or coreceptors, which are exploited by the pathogen to enter host cells. Following this line of research, the authors suggest that those with O-type blood groups may be slightly more resistant. ABO blood groups may play a direct role in infection by serving as coreceptors for SARS-CoV-2.
+
+Further candidate SARS-CoV-2 resistance genes that the team suggest include those for the ACE2 receptor, which the virus uses for cell entry. A rare mutation was found to safeguard against infection, possibly by reducing ACE2 expression, while different forms of the receptor are known to bind the virus's spike protein with different affinities.
+
+Another protein, TMEM41B, which is required for viral entry in flaviviruses -- a viral family that includes the dengue, yellow fever, and Zika viruses -- could be of interest, the authors say. Its impact on SARS-CoV-2 infection is yet to be established, but it has been identified as a requirement for permissive infection with the virus. In flavivirus studies, an allele common in East and South Asians has been linked with a lower capacity to support flavivirus infection.
+
+In order to test these potential resistance targets, the authors suggest a 4-step strategy, which begins by focusing on uninfected individuals in the same household as people with symptomatic COVID-19. Next up are individuals exposed to the virus without personal protection equipment, followed by those with negative PCR and serological tests following exposure. Finally, T cell -- a type of immune cell -- response in "resistant" individuals are to be compared with those of the infected. In fact, the team are currently recruiting for a dedicated resistance study. So far, 400 individuals are enrolled.
+
+The results of this study, the team hopes, could lead to the development of new COVID therapies; "Our study has the potential to pave the way for the development of rationally novel drugs blocking infection with SARS-CoV-2," Spaan added to IFLScience.
+
+[Byline: Maddy Chapman]
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[Citation for the original article covered in the above report: Andreakos E, Abel L, Vinh DC, et al. A global effort to dissect the human genetic basis of resistance to SARS-CoV-2 infection. Nat Immunol. 2021; https://doi.org/10.1038/s41590-021-01030-z
+
+This report is not a completed basic or clinical research study, but rather a review of potential genetic factors in COVID disease and a proposed strategy for identifying such factors by genetically analyzing individuals who do not get infected despite high-risk exposure to other people with proven COVID-19 infection. This may prove to be an intriguing hypothesis-generating exercise that may illuminate the pathogenesis of COVID infection, even if it does not lead to novel therapeutic agents.
+
+To be clear, a distinction should be made between genetic resistance to infection per se, versus "resistance" to getting clinically significant or severe disease. As the authors point out, true resistance to an infectious agent is typically due to an inborn deficiency or mutation of the actual host receptor for that agent. We have few examples of this mechanism in humans, but they include _Plasmodium vivax_, which binds to Duffy antigen chemokine receptor, and HIV, which binds the CCR5 chemokine receptor. This resistance mechanism is analogous to pesticide resistance in insects, for which numerous pesticide targets have been discovered using the fruit fly _Drosophila_, wherein high-level resistance is almost always due to mutations in the target receptor itself. However, developing a clinically useful therapeutic (whether a small molecule or a monoclonal antibody) that blocks infection from the outset is very challenging, no doubt in part because one is concurrently blocking an endogenous receptor for a native ligand (such as a chemokine) that has evolved to serve an important physiological role in the human host. Maraviroc, which binds to the CCR5 co-receptor for HIV, was approved in 2007 for treating HIV, but its use is limited to certain HIV patients who have failed other antiretroviral therapies.
+
+On the other hand, using a genetic approach to identify disease-modifying factors (as opposed to blocking the SARS-CoV-2 cell receptor, which has already been identified as ACE2, very early on in the pandemic) may yield new therapeutic insights and potential drugs. Examples of such factors or pathways could be those that promote acute ARDS-type lung inflammation, hypercoagulability and thromboembolism, or late-stage pulmonary fibrosis. The beauty of this approach is that it could identify drugs that are already in our pharmacopeia as candidates to ameliorate the severity of COVID disease. The utility of corticosteroids in the treatment of COVID was established only by large-scale retrospective analyses of variously treated patient populations. What if an unbiased hypothesis-generating genetic approach to disease susceptibility could yield existing drugs that could then be studied in rapid smaller-scale clinical trials of COVID patients? - Mod.LXL]
+
+******
+[2] Pregnancy and vaccination
+[A] Safety of COVID vaccines during pregnancy
+Date: Tue 19 Oct 2021
+Source: Al Jazeera [abridged, edited]
+https://www.aljazeera.com/features/2021/10/19/does-getting-the-flu-with-covid-double-your-risk-of-death
+
+
+It is well established now that the mRNA COVID-19 vaccines (Pfizer or Moderna) are indeed safe for pregnant women to take, and the risk of getting the virus outweighs any potential risks from the vaccines. In 827 pregnant women who had completed pregnancies and received one or 2 doses of mRNA vaccines, a recent study reports no increased rates of miscarriage and stillbirths, compared with pre-COVID rates (https://newsdaylight.com/2021/10/19/does-getting-the-flu-with-covid-double-your-risk-of-death/). There were no increases in preterm labour or negative effects on newborns, including congenital abnormalities.
+
+Still, there remain high levels of hesitation among pregnant women and those planning to get pregnant when it comes to taking up the COVID vaccine. A large part of that is due to misinformation circulating online about the effects of the vaccines on developing babies. But we must also hold our hands up to the fact that there was a delay in approving the vaccines for pregnant women at the start of the rollout, leading to inconsistent messaging and confusion.
+
+Pregnant and breastfeeding women are often excluded from clinical trials on ethical grounds. But the delay in getting this safety data for the COVID vaccines meant the pregnant women or those planning a pregnancy were told they could not have the vaccine. It was not until later that the safety data came in and the advice changed. There is no doubt in my mind this has contributed to vaccine hesitancy in this group, and it highlights the need to include this often high-risk group of people in trials so they too can benefit from emerging and new treatments.
+
+The focus now must be on repeatedly reminding unvaccinated pregnant women that the vaccines are safe and effective. Although COVID restrictions are easing worldwide, this virus is still very much out there and vulnerable groups, such as pregnant women, remain at high risk.
+
+[Byline: Dr Amir Khan]
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+----
+[B] No increased risk of miscarriage
+Date: Wed 20 Oct 2021
+Source: The New England Journal of Medicine [abridged, edited]
+https://www.nejm.org/doi/full/10.1056/NEJMc2114466
+
+
+Pregnant women with coronavirus disease 2019 (COVID-19) are at increased risk for adverse outcomes, and COVID-19 vaccination is recommended during pregnancy. However, safety data on COVID-19 vaccination during pregnancy remain limited.
+
+We performed a case-control study with data from Norwegian registries on 1st-trimester pregnancies, COVID-19 vaccination, background characteristics, and underlying health conditions. We identified all women who were registered between 15 Feb and 15 Aug 2021, as having had a miscarriage before 14 weeks of gestation (case patients) and those with a primary care-based confirmation of ongoing pregnancy in the 1st trimester (controls).
+
+Among 13 956 women with ongoing pregnancies (of whom 5.5% were vaccinated) and 4521 women with miscarriages (of whom 5.1% were vaccinated), the median number of days between vaccination and miscarriage or confirmation of ongoing pregnancy was 19. Among women with miscarriages, the adjusted odds ratios for COVID-19 vaccination were 0.91 for vaccination in the previous 3 weeks and 0.81 for vaccination in the previous 5 weeks.
+
+Our study found no evidence of an increased risk for early pregnancy loss after COVID-19 vaccination and adds to the findings from other reports supporting COVID-19 vaccination during pregnancy.
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[The citation for the article cited in [A], referring to 862 pregnant women who had received mRNA COVID vaccines: Shimabukuro TT, Kim SY, Myers TR, et al. Preliminary findings of mRNA COVID-19 vaccine safety in pregnant persons. N Engl J Med. 2021; 384: 2273-82; https://www.nejm.org/doi/full/10.1056/NEJMoa2104983
+
+A recently published follow-up study by the same US CDC v-safe COVID-19 Pregnancy Registry Team showed that pregnant women who had received the mRNA vaccines had no higher risk of spontaneous abortion when compared with 2 pre-COVID era historical cohorts (https://www.nejm.org/doi/full/10.1056/NEJMc2113891).
+
+The article in section [B] is a just-published large-scale case-control study from Norway that not only included subjects who had received either of the approved mRNA vaccines but also those who had received the AstraZeneca vaccine. This study provides further evidence that COVID vaccines are safe in pregnancy, without increased risk of miscarriage. Coupled with the abundant evidence that pregnant women are at increased risk for severe disease and preterm births should they become infected with SARS-CoV-2, pregnant women should be urged to get vaccinated and, if possible, to enroll in ongoing vaccine clinical trials. In the United States, people who have received COVID-19 vaccination during the periconception period or during pregnancy should be encouraged to enroll in the CDC v-safe COVID-19 Pregnancy Registry. As of 18 Oct 2021, more than 168 000 participants have enrolled (https://www.cdc.gov/coronavirus/2019-ncov/vaccines/safety/vsafepregnancyregistry.html). - Mod.LXL]
+
+******
+[3] WHO: daily new cases reported (as of 21 Oct 2021)
+Date: Thu 21 Oct 2021
+Source: WHO [abridged, edited]
+https://covid19.who.int/table
+
+
+*Daily case reports as of 21 Oct 2021 16:48 CET
+
+Surveillance
+------------
+WHO region (no. countries/territories):
+Total confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+--------------------------------------------------------------------------------
+Western Pacific Region (19): 9 164 520 (22 398) / 125 359 (229)
+European Region (61): 74 193 807 (257 355) / 1 391 471 (3250)
+South East Asia Region (10): 43 694 966 (30 213) / 685 987 (315)
+Eastern Mediterranean Region (22): 16 185 147 (18 575) / 297 764 (341)
+Region of the Americas (54): 92 524 668 (106 748) / 2 269 616 (2892)
+African Region (49): 6 122 763 (3395) / 149 545 (162)
+Cases on an international conveyance (Diamond Princess): 712 (0) / 13 (0)
+
+Confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+Grand total: 241 886 635 (438 684) / 4 919 755 (7189)
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[Data by country, area, or territory for 21 Oct 2021 can be accessed at https://promedmail.org/wp-content/uploads/world-pdf/2021%20WHO%20Daily%20Tables%20OCT21_1634930478.pdf.
+
+- The Americas region reported 24.3% of daily case numbers and 40.2% of the daily deaths in the past 24 hours and maintained its position as the most severely affected region, having reported more than 92.52 million cases. The USA reported the highest number of cases (over 75 000), followed by Brazil (12 969); 6 countries reported more than 1000 cases in the past 24 hours, and an additional 5 countries reported more than 500 but fewer than 1000 cases.
+
+- The European region reported 58.6% of daily case numbers and 45.2% of the daily deaths reported in the past 24 hours, and total cumulative cases reported exceed 74.19 million cases. Some countries not reporting cases in the last 24 hours or longer include Belgium (7 cases) and Switzerland (4 cases), among others; 36 countries reported more than 1000 cases in the past 24 hours, and an additional 5 countries reported more than 500 but fewer than 1000 cases.
+
+- The Eastern Mediterranean region reported 4.2% of daily case numbers and 4.7% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 16.18 million cases. Iran (11 770) reported the highest number of cases over the last 24 hours, followed by Iraq and Jordan. Pakistan, Egypt, and Libya reported more than 500 but fewer than 1000 cases.
+
+- The African region reported 0.77% of daily case numbers and 2.2% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 6.12 million cases. Ethiopia (622) reported the highest number of cases over the last 24 hours, followed by South Africa, both with fewer than 500 cases. Many countries, including Botswana, Cameroon, Ghana, Senegal, and Madagascar, among others, did not report cases over the last 24 hours.
+
+- The Western Pacific region reported 5.1% of daily case numbers and 3.1% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 9.16 million cases. Malaysia reported the highest number of cases over the last 24 hours (over 6000 cases), followed by Philippines, Singapore, Viet Nam, Australia, South Korea, and Papua New Guinea.
+
+- The South East Asia region reported 6.8% of the daily newly reported cases and 4.3% of reported deaths in the past 24 hours, having reported a cumulative total of more than 43.69 million cases. India is dominant, reporting over 18 000 cases over the last 24 hours, followed by Thailand (9727), Myanmar (683), Indonesia (633), and Nepal (470).
+
+On the Overview tab at the WHO source URL, the epidemic curve of confirmed COVID-19 cases by WHO region, 30 Dec 2019 through 21 Oct 2021, is an excellent visual representation of the pandemic. - Mod.UBA]
+
+******
+[4] Global update: Worldometer accessed 21 Oct 2021 21:44 EST (GMT-5)
+Date: Thu 21 Oct 2021
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at https://promedmail.org/wp-content/uploads/world-pdf/2021%20WORLDDATA%20OCT21_1634930698.pdf.
+
+A 7-day series of cumulative data reported by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/2021%20OCT21WORLD7_1634930734.pdf. - Mod.UBA]
+
+Total number of reported deaths: 4 945 287
+Total number of worldwide cases: 243 273 627
+Number of newly confirmed cases in the past 24 hours: 464 519
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[In the past 24 hours, 10 countries, including the USA (80 835), UK (48 964), Russia (36 339), Turkey (28 465), Ukraine (22 415), Germany (17 838), Brazil (16 852), Romania (16 110), India (15 759), and Iran (11 788), have reported the highest numbers of cases, all reporting more than 10 000 newly confirmed cases in the past 24 hours. A global total of 7638 deaths were reported in the past 24 hours (late 19 Oct 2021 to late 20 Oct 2021). A total of 53 countries reported more than 1000 cases in the past 24 hours; 31 of the 53 countries are from the European region, 7 are from the Americas region, 4 are from the Eastern Mediterranean region, 3 are from the South East Asia region, 6 are from the Western Pacific region, and 2 from the African region.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, case counts have increased by 1.8%, while daily reported deaths have decreased by 2.1%. Similar comparative 7-day averages in the USA show a 14.2% decrease in daily reported cases and a 4.1% decrease in reported deaths.
+
+Impression: The global daily reported over 450 000 newly confirmed infections in the past 24 hours with over 243.27 million cumulative reported cases and over 4.94 million reported deaths. - Mod.UBA]
+See Also
+COVID-19 update (358): Russia, delta variant AY4.2, Japan, WHO 20211021.8699184
+COVID-19 update (357): mix & match vaccines, ivermectin misuse, interferon, WHO 20211020.8699167
+COVID-19 update (356): immunity and breakthrough infections, vaccine effectiveness, WHO 20211019.8699145
+COVID-19 update (355): Molnupiravir, new delta variant AY4, global 20211018.8699127
+COVID-19 update (353): ivermectin, police, WHO 20211017.8699110
+COVID-19 update (352): J&J booster, India, air travel, vaccines, South Asia, WHO 20211016.8699094
+COVID-19 update (351): Moderna booster, variant reservoirs, obesity, WHO, global 20211016.8699071
+COVID-19 update (350): boosters, deaths, cases, vaccines, WHO 20211014.8699041
+COVID-19 update (349): hospitalization, severity prediction, ProMED-ESP, WHO 20211013.8699021
+COVID-19 update (348): animal, USA, zoo, snow leopard, fatal, susp 20211013.8699020
+COVID-19 update (347): vacc. effectiveness US, France, transmission, WHO, global 20211012.8699007
+COVID-19 update (346): Molnupiravir, WHO, global 20211011.8698985
+COVID-19 update (345): animal, mink, Finland, preventive vaccination 20211011.8698981
+COVID-19 update (344): immune memory, summer camp, chilblains, WHO 20211010.8698962
+COVID-19 update (343): post-hospital, adolescents, vacc status, WHO 20211009.8698947
+COVID-19 update (342): animal, Myanmar, dog, OIE 20211009.8698934
+COVID-19 update (341): myocarditis, vacc target, Pfizer in children, WHO 20211008.8698929
+COVID-19 update (340): long COVID, Israel, WHO 20211007.8698909
+COVID-19 update (339): variants, plasma, ethnicity and death, Africa, Pfizer, WHO 20211006.8698889
+COVID-19 update (338): vacc booster, Portugal, USA death toll, WHO 20211005.8698870
+COVID-19 update (337): vaccine requirement, immunity, Israel booster impact, WHO 20211004.8698846
+COVID-19 update (336): USA (CA), variant B.1.620, WHO, global 20211003.8698836
+COVID-19 update (335): Denmark, CIDRAP, antiviral pill, South Asia, WHO, global 20211002.8698827
+COVID-19 update (334): USA, ECMO patients, Scotland, vaccine certificates, WHO 20211001.8698816
+COVID-19 update (333): predictive symptoms, diabetes, pancreas, WHO 20210930.8698800
+COVID-19 update (332): long COVID, Pfizer data, biomarkers, WHO, global 20210929.8698786
+COVID-19 update (331): anticoag, hospitaliz, restriction, Remdisivir, brain, WHO 20210928.8698763
+COVID-19 update (330): variants, Novavax, Monoclonal antib, Uruguay, Spain, WHO 20210927.8698746
+COVID-19 update (329): boosters, timing, policy, WHO 20210926.8698728
+COVID-19 update (328): boosters, testing, MIS-A, South Asia, WHO, global 20210925.8698706
+COVID-19 update (327): Pfizer booster, Israel, R.1 variant in USA, WHO, global 20210924.8698681
+COVID-19 update (326): new symptoms, hospital outbreak, WHO 20210923.8698006
+COVID-19 update (325): pediatric cases, J&J booster, UN General Assembly, WHO 20210922.8695118
+COVID-19 update (324): ivermectin overdose, toxicity, efficacy, WHO 20210921.8692189
+COVID-19 update (323): Pfizer vaccine in children, vaccine diplomacy, WHO 20210920.8689484
+COVID-19 update (322): SARS-CoV-2-like virus origins, Laos, spillover rate, WHO 20210919.8687395
+COVID-19 update (321): variants review, FDA booster approval, South Asia, WHO 20210918.8685750
+COVID-19 update (320): spillover events, long COVID, mandatory vaccines, WHO 20210917.8679439
+COVID-19 update (319): Israel booster doses, WHO 20210916.8674485
+COVID-19 update (318): animal, Spain (GA) mink, OIE 20210915.8670441
+COVID-19 update (317): COVID & flu dual threat, children, autoantibodies, WHO 20210915.8670656
+COVID-19 update (316): nursing home infections, boosters, non-COVID deaths, WHO 20210914.8668802
+COVID-19 update (315): animal, Mongolia, beaver, delta variant, 1st rep 20210914.8668125
+COVID-19 update (314): vaccines vs variants, updates, seniors, WHO 20210913.8666135
+COVID-19 update (313): animal, USA, zoo, gorilla 20210913.8665151
+COVID-19 update (312): kidney disease, vent.-assoc. spread, USA (FL) deaths, WHO 20210912.8663533
+COVID-19 update (311): vaccines, nursing homes, long COVID, eating disorders 20210911.8662043
+COVID-19 update (310): impact on women & children, Africa, mRNA vaccines, Israel 20210910.8660335
+COVID-19 update (300): Norway, myocarditis, schools, new variant C.1.2, WHO 20210901.8638460
+COVID-19 update (290): breakthrough infections, USA early deaths, boosters, WHO 20210823.8616260
+COVID-19 update (280): new variant B.1.621, Canada, regional, WHO 20210814.8595594
+COVID-19 update (270): myocarditis, pericarditis, Australia, WHO 20210806.8575370
+COVID-19 update (260): animal, USA, wild deer, exposure, RFI 20210729.8554149
+COVID-19 update (250): caregiver loss, school buses, mRNA vaccines, WHO 20210722.8538296
+COVID-19 update (200): animal, China, origin 20210608.8433657
+COVID-19 update (100): antibodies, vaccine, Thailand, Cambodia, WHO, global 20210316.8250009
+COVID-19 update (50): UK vaccine study, Brazil reinfection, WHO 20210205.8167161
+COVID-19 update (01): variants, vaccine, Thailand, global, WHO 20210101.80629382020
+2020
+----
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+COVID-19 update (562): viral load, UK vacc dose, ECDC, WHO 20201231.8061525
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia: China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia: China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+.................................................lk/lxl/uba/rd
+</body>

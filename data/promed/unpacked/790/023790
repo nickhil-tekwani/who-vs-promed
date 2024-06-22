@@ -1,0 +1,318 @@
+<header id=023790>
+Published Date: 2015-01-17 04:27:49 EST
+Subject: PRO/AH/EDR> Ebola update (16): vaccine, models, slowing, transmission, nurse, malaria, susp
+Archive Number: 20150117.3098295
+</header>
+<body id=023790>
+EBOLA UPDATE (16): VACCINE, MODELS, SLOWING DOWN, TRANSMISSION, NURSE, MALARIA, SUSPECTED
+*****************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] Vaccine comments
+[2] Models
+[3] Cases slowing down
+[4] Sexual transmission concerns
+[5] Australian nurse
+[6] Malaria treatment
+[7] Suspected, monitored, quarantined, prevention
+
+******
+[1] Vaccine comments
+Date: Sat 17 Jan 2015
+Source: The Lancet, Comment [edited]
+http://www.thelancet.com/pdfs/journals/lancet/PIIS0140-6736(14)62398-9.pdf
+
+
+Is the world ready for an Ebola vaccine?
+-----------------------------------------------------
+Abstract
+-----------
+The west African Ebola epidemic has motivated efforts to bring an Ebola vaccine to the market as soon as possible. If a candidate vaccine successfully moves through clinical development, a product could be on the market in the next 1-2 years. Developing an efficacious vaccine will be only part of the process. Post-licensure challenges could impede and even derail an Ebola immunisation programme. We propose 7 key challenges to be considered early in Ebola vaccine development that will help stakeholders prepare and allow developers to adjust vaccine characteristics accordingly.
+
+[Lee BY, Moss WJ, Privor-Dumm L, Constenla DO, Knoll MD, O'Brien KL. 2015. Is the world ready for an Ebola vaccine? Lancet. 385 (9964): 203-204]
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[This complements the CIDRAP/Wellcome Trust Roadmap published 12 Jan 2015 -- see ProMED Ebola update (13): vaccine, Guinea cases, susp. treatment 20150113.3090483.
+
+We welcome the Roadmap for its approach to running forth-coming Ebola vaccination trials in West Africa. But we have the following concerns, which do not appear to have been addressed in their 1st draft.
+
+Background serologic data
+------------------------------------
+A new problem is about to appear concerning the use of serologic data. With Ebola vaccines reaching the stage for field evaluation of effectiveness, serologic surveys will be needed to define who is already protected, that is, who already has antibodies. In at least one of the earlier Ebola outbreaks, serologic surveys suggested that Ebola infections without illness had occurred (1). Will there be a pre-vaccination serosurvey of candidate vaccinees, to measure baseline immunity levels to be able to know who is antibody negative at time of vaccination? A 2006 serosurvey in Sierra Leone (2) found significant levels of Ebola-Zaire plaque reduction neutralizing antibody in 7/220 acute sera from hemorrhagic fever patients sampled between 2006-2008. What the current proportion with antibody is in the general population has apparently not yet been determined by a random survey. Would it not be a good idea to know this for the people who will receive the 1st vaccine in West Africa?
+
+Illness after vaccination
+-------------------------------
+If the trials are conducted in countries involved in the epidemic, a few of the vaccinees may be incubating Ebola at the time of -- or a few days after -- vaccination, and may subsequently fall ill. Such a circumstance, if not anticipated, could result in suspension of the trial and an in-depth investigation. It is important to prepare for this possible contingency. Since the number of days post-vaccination necessary for the vaccine to give protection is unknown, this situation presents a problem for vaccine evaluation. Perhaps a baseline serology, with a one-week follow-up serum, would reduce this confounder, but it is labor intensive and time consuming, and might involve vaccinees (hundreds) having to be followed at home.
+
+Priority for vaccine use
+------------------------------
+As proposed, priorities may be established to determine who receives the vaccine. But it is likely this may not be wholeheartedly accepted by everyone, particularly those who do not wish to stand aside while health workers (especially international health workers) or politicians receive preferential vaccination. This may mean that vaccine supplies will require protection against theft and peddling of fake vaccine, and vaccinators may need police protection. On 14 Jan 2015, a mob killed 2 men accused of bringing Ebola to their village in Guinea and burned their bodies (http://www.news24.com/Africa/News/Guinea-mob-kills-Ebola-men-20150114).
+
+Everyone is looking to mass vaccination to rapidly end the epidemic in West Africa, and prevent future outbreaks of this magnitude from occurring. But an explanation of how the serological information needed to prove vaccine efficacy will be obtained, and what steps are planned to cope with post-vaccination Ebola infection should be provided. It will be hard to convince the population that there is no live virus in the vaccine(s) if a vaccinee were to die of confirmed Ebola infection.
+
+We encourage those concerned to consider these important issues before commencing the vaccination trials.
+
+(1) Becquart P, Wauquier N, Mahlakõiv T, et al. High prevalence of both humoral and cellular immunity to Zaire ebolavirus among rural populations in Gabon after 4 epidemics from 1994-2002. PLoS One. 2010 Feb 9;5(2):e9126. doi: 10.1371/journal.pone.0009126.
+Erratum in: PLoS One. 2010;5(2)on.
+(2) Schoepp RJ, Rossi CA, Khan SH, Goba A, Fair JN Undiagnosed acute viral febrile illnesses, Sierra Leone.. Emerg Infect Dis. 2014 Jul;20(7):1176-82. doi: 10.3201/eid2007.131265
+
+--
+Signed:
+Jack Woodall PhD, formerly CDC, WHO (retired), ProMED Mod.JW <jackwoodall13@gmail.com>
+Roger Feldman MD, formerly CDC, Professor, London Hospital Medical College, University of London, UK (retired) <promedrf@gmail.com>]
+
+[Also see ProMED post Ebola update (13): vaccine, Guinea cases, susp. treatment 20150113.3090483 part [1] for a discussion of the vaccine plan. - Mod. LK]
+
+******
+[2] Models
+Date: Thu 15 Jan 2015
+Source: Spectrum [edited]
+http://spectrum.ieee.org/tech-talk/computing/software/fighting-ebola-with-simulations-and-algorithms
+
+
+Fighting Ebola with Simulations and Algorithms
+----------------------------------------------
+Researchers are working to improve public health responses to Ebola outbreaks by enhancing computational models of the disease's spread. A team led by researchers at Arizona State University received 2 grants from the National Science Foundation -- one for USD 120 000 awarded in December [2014] and one for USD 500 000 awarded in 2013 -- to make it happen.
+
+The research team aims to improve disease models by making them more specific to Ebola epidemics. They will use a combination of analytical tools and algorithms to sift through tens of thousands of simulations of an Ebola epidemic to determine which parameters provide the key patterns of the virus's transmission. They will combine that with real mobility data -- observations of social behaviors, interventions, and ground and air traffic patterns collected during the current Ebola epidemic in West Africa.
+
+The researchers say they hope that their improved model will help decision makers make better-informed choices in future outbreaks. "We don't know if it will be applicable to the current outbreak," since the epidemic's trajectory has, fortunately, slowed, says Kasim Selcuk Candan, a team leader and computer scientist specializing in data management and analysis at Arizona State University in Tempe, in an interview with Spectrum. Candan says he hopes to have a model ready by spring [2015].
+
+The current Ebola virus outbreak has infected more than 21 000 people worldwide, and killed more than 8400, according to the latest numbers from the World Health Organization. Scientists are developing experimental drugs, vaccines and even gold nanostars to combat the virus.
+
+Ebola's spread is tough to predict because when an outbreak occurs, people's behavior changes. They go places they normally don't go. They flee or avoid an affected area or head to a region where they can get treatment. They respond to education campaigns on how to avoid contracting the virus. Air traffic and local ground traffic changes.
+
+Intervention efforts of local decision makers can also bring about changes both good and bad, depending on how they are implemented. A local official may decide to isolate a group of people, and instead of complying, people flee. An official decides to close a school and that affects local ground traffic and social interaction patterns. A treatment center is set up and it becomes an incubator of the disease, rather than a stopping point. Burial practices change. The list goes on.
+
+Not only do changes in social interaction occur, but those changes tend to be a moving target as a disease progresses. That's what makes predicting the spread of Ebola so difficult. And without the information from models, decisions made about interventions often aren't well-informed.
+
+"It's extremely hard to make a global model that is effective," says Candan. To make such a model, one has to understand complex mobility patterns across multiple countries with different policies and intervention strategies -- all of which may change as the disease progresses, he says. "There are lots of unknowns," he says.
+
+There are large-scale models for simulating the spread of disease, including The Global Epidemic and Mobility Model (GLEAM) and the Spatiotemporal Epidemiological Modeler (STEM). The simulators work like this: punch in the disease characteristics (infection rate, recovery rate, etc.), some social components (assumptions about local and global interactions and mobility patterns), plus intervention steps (such as vaccinations, school closures and quarantine), along with a starting point (metro area versus rural village), and the model will tell you how the disease will evolve over time.
+
+But these simulators were designed for highly communicable diseases such as influenza, rather than Ebola, which is transmitted through close contact. And there's a bigger problem: If the models are going to be effective, they have to be continuously revised to reflect the evolution of an epidemic, and that's hard to do. "Doing one simulation is good if you know all the parameters and you want to test one intervention," says Candan. "But when you want to understand a complex disease like Ebola ... you need to run many of these simulations -- tens of thousands of them -- and each simulation gives a potentially different view of the disease," he says. "The question is can we sift through all of these simulations to understand what are the critical parameters and critical decisions being made, and which one of these seems to match what you observe on the ground the best?"
+
+Sifting through the thousands of simulations and interpreting them is the heart of Candan's team's project. To address that, the team is developing novel algorithms in what it calls an "epidemic data management system" or EpiDMS. They plan to combine that with the use of novel data mining and analysis tools. The team includes Gerardo Chowell-Puente, a mathematical epidemiologist at Georgia State University in Atlanta, and Maria Luisa Sapino, a data analysis expert at the University of Torino in Italy.
+
+The observational data on interventions and behaviors will come from the team's contacts in West Africa and at Columbia University, who collected the data in West Africa during the epidemic. They will also use epidemiological data of the epidemic's trajectory that has been made publicly available by the World Health Organization. Candan's team also plans to buy air traffic data that details activity during certain time periods before and during the epidemic to calibrate the model on patterns of international spread.
+
+Spectrum asked Candan: What if geopolitical and social practices are completely different when the next Ebola outbreak hits -- will the data and models we generate now be applicable? "The past is not a perfect predictor of the future," Candan replied. "There might be a civil war" that changes everything. What the improved models can tell us is the reaction to specific intervention choices. Says Candan: "What we can say is: 'You don't want to take this action because it results in X."
+
+[Byline: Emily Waltz]
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[I hate to have to keep saying this, but the authors do not address the sad fact that case and death numbers are totally unreliable to start with, so all attempts at modelling are unreliable. - Mod.JW]
+
+******
+[3] Cases slowing down
+Date: Thu 15 Jan 2015
+Source: Reuters [edited]
+http://www.reuters.com/article/2015/01/15/health-ebola-un-idUSL1N0UU2QF20150115
+
+
+Ebola outbreak in West Africa appears to be slowing down -- UN
+--------------------------------------------------------------------------------------
+An outbreak of Ebola that has claimed more than 8400 lives in West Africa appears to be slowing down, though the battle to contain the disease is not over, the UN special envoy on Ebola said on Thursday [15 Jan 2015]. "The change in behavior that we've been hoping for, working for, anticipating, is now happening everywhere," Dr. David Nabarro told Reuters in an interview.
+
+"The facilities to treat people are available everywhere," he said. "Safe burial teams are providing safe and dignified burial services everywhere and the result is that we're seeing the beginnings of the outbreak slowing down."
+
+Nabarro declined to predict when the outbreak of the virus could be definitively over.
+
+The hemorrhagic fever is spread through contact with bodily fluids of infected people or the highly contagious body of someone who has died of the virus. Nabarro said burial practices that involved people touching and cleaning bodies of Ebola victims had helped fuel the outbreak.
+
+Liberia, Sierra Leone and Guinea now have capacity to quickly set up mobile centers to handle localized outbreaks. "Those who are involved in the response have worked out that they can organize rapid mobile responses in case there's a flare up anywhere, so they can set up small temporary treatment facilities wherever they are needed," Nabarro said.
+
+He said the US, British and French military, which built treatment centers, had played a crucial role. "This external help was absolutely vital in bolstering and supporting the capacity of the people in the country to make the changes," Nabarro said, adding that "much of the external help came from within Africa." ... -- more
+
+[Byline: Louis Charbonneau and Michelle Nichols]
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[Cautious optimism, bearing in mind the unpredictability of this disease. Also see
+http://news.yahoo.com/un-ebola-czar-says-epidemic-passed-tipping-point-224205404.html. - Mod.LK]
+
+******
+[4] Sexual transmission concerns
+Date: Thu 15 Jan 2015
+Source: Ebola Deeply [edited]
+http://www.eboladeeply.org/articles/2015/01/7153/sierra-leone-sexual-transmission-ebola-threatens-undermine-progress/
+
+
+In Sierra Leone, Sexual Transmission of Ebola Threatens to Undermine Progress
+------------------------------------------------------------------------------------------------------------
+Authorities in Sierra Leone have raised concerns about the sexual transmission of Ebola, in the period after male survivors of the disease have been discharged from treatment centers. Medical experts say the virus can remain in men's semen for up to 3 months. During this period, male survivors are strongly advised to either abstain or use condoms during sex. Female survivors are advised not to breastfeed, as the virus can linger in breast milk after recovery. But reports from northern and western Sierra Leone suggest that the advice is not being followed.
+
+Raymond Kabia is the coordinator of the Port Loko District Ebola Response Center. He said there has been an "alarming" increase in sexual transmission of the Ebola virus. New patients are often asked how they believe they may have contracted the disease. "This is worrisome, and a threat that has the tendency to reverse the gains made so far in breaking the chain of transmission in the district," Kabia [said].
+
+Chief Medical Officer of Port Loko District, Dr. Adikalie Kamara, agreed, adding that 2 women, believed to have been infected by their husbands, are currently receiving treatment at one of the centers in the district. "We provide the male survivors with condoms and advise mothers not to breastfeed their children after recovering from Ebola, but unfortunately when they resettle they sometimes do otherwise and we can't monitor them," Dr. Kamara said.
+
+In Bombali district in northern Sierra Leone, Dr. Emmanuel Conteh, coordinator of the District Ebola Response Center, said similar incidents have been reported. "Two male survivors who infected their wives were detained as a result," he said. "We are working relentlessly to attain a zero new infection rate and we don't want our efforts to be in vain."
+
+An awareness-raising program is planned in Bombali. Sierra Leone's president, Ernest Bai Koroma, has said the government won't be afraid to "hold responsible" those who do not respect the 90-day period of sexual caution. And some experts are even suggesting that male survivors of Ebola be quarantined for 3 months after their recovery. But Abbas Kamara, a front-line health worker who survived Ebola, says male survivors simply need to be more considerate about the health of their partners.
+
+"When we were being discharged we were warned not to have sex with our partners until after 90 days or we can use condoms to do so, if we can't manage the urge to respond to nature," he said. "I tried very hard to go by such guides because I love my woman and I don't want to infect her with an evil disease like Ebola. She already suffered a lot when I was infected. So I am happy that I did not pass on the virus to her.
+
+"However, some men find it really hard to resist sex," Kamara added. "And women are vulnerable because traditionally they are expected to respond to the man's desire. Another thing is that some of these men do not have enough education on condom use, so they don't like to use them at all. They look at them as a filthy way of having sex. What I did was to not even have sex with my woman during those 90 days, because I also feel the condom is risky. It may get broken in the process, so I abstained from sex until my 90-day period had expired, and I even added 2 weeks on top of that."
+
+Over 2000 people have survived Ebola in Sierra Leone. The country's Ministry of Social Welfare is working with the Sierra Leone Association of Ebola Survivors to get the message to as many male survivors as possible. The group's president, Yusuf Kabbah, told Ebola Deeply that the association is reaching out to communities, helping survivors to understand that they have a responsibility toward keeping others safe.
+
+"We want to help, and we can understand survivors better because we went through the same suffering," Kabbah said. "Losing a loved one to Ebola is a sad chapter that no one should be allowed to go through."
+
+[Byline: Amadu Lamrana Bah, Cinnatus Dumbaya and Aruna Turay]
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+& Roger Feldman <promedrf@gmail.com>
+
+[See: 26 Nov 2014 Ebola virus in semen of men who have recovered from Ebola virus disease http://www.who.int/reproductivehealth/topics/rtis/ebola-virus-semen/en/ for a summary of the results of studies published 1999-2007. - Mod.LK]
+
+******
+[5] Australian nurse
+Date: Fri 16 Jan 2015
+Source: The Guardian [edited]
+http://www.theguardian.com/world/2015/jan/16/australian-nurse-treating-ebola-patients-in-west-africa-airlifted-to-uk
+
+
+Australian nurse treating Ebola patients in Sierra Leone airlifted to UK
+------------------------------------------------------------------------
+An Australian nurse has been airlifted to the UK after a low-risk incident while treating Ebola patients at a treatment centre funded by the Australian government in Sierra Leone. Although not diagnosed with Ebola, she was transferred from Sierra Leone as a precautionary measure. Australia's foreign affairs minister, Julie Bishop, said the nurse would now undergo a 21-day observation period in the UK. "The nurse was transferred to the UK consistent with the guarantees secured by the Australian government as a condition to establishing the treatment centre," she said. ... -- more
+
+[Byline: Daniel Hurst]
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+& Roger Feldman <promedrf@gmail.com>
+
+******
+[6] Malaria treatment
+Date: Fri 16 Jan 2015
+Source: eTurboNews [edited]
+http://www.eturbonews.com/54560/ebola-second-phase-largest-ever-antimalaria-distribution-sierra-
+
+
+Ebola: 2nd phase of largest-ever antimalaria distribution in Sierra Leone
+------------------------------------------------------------------------------------------------
+Medecins Sans Frontieres/Doctors Without Borders (MSF) will start the 2nd phase of the largest-ever mass distribution of antimalarials in Sierra Leone.
+
+Sierra Leone has the 5th highest prevalence of malaria in the world, and the disease is the biggest killer of children under 5 [years old] in the country. Malaria symptoms also mimic those of Ebola, so fighting the disease is a vital part of the ongoing emergency response in west Africa.
+
+"Many more people will fall ill and potentially die from malaria than Ebola," says Jonathan Caplan, MSF coordinator for the distribution. "If MSF can provide added support to reduce the burden of malaria on the healthcare system, this will not only save many lives but also allow for a more focused and effective Ebola response."
+
+The door-to-door distribution will go on for 4 days (16-19 Jan 2015). Teams aim to deliver 1.8 million antimalarial treatments as part of a larger campaign, along with the Ministry of Health and UNICEF, to reach 2.5 million people in Sierra Leone. ... -- more
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[Focusing on malaria and Ebola in tandem is an effective approach for both diseases. - Mod.LK]
+
+******
+[7] Suspected, monitored, quarantined, prevention
+
+14 Jan 2015 China: Ebola relief -- 4th shipment of supplies heads to West Africa
+http://bob-b.com/china-ebola-relief-4th-shipment-of-supplies-heads-to-west-africa/
+
+16 Jan 2015 Guinea: will reopen its schools [and universities] that were closed because of the Ebola outbreak
+http://theweek.com/speedreads/534039/guinea-reopen-schools-that-closed-because-ebola-outbreak
+
+15 Jan 2015 Spain: Madrid Ebola survivor withdraws accusations against her family doctor [out-of-court settlement]
+http://spanishnewstoday.com/madrid-ebola-survivor-withdraws-accusations-against-her-family-doctor_20820-a.html
+
+16 Jan 2015 UK: 2 volunteers [ex West Africa] with potential Ebola exposure flown to Britain
+http://www.lse.co.uk/macroeconomicNews.asp?code=gk4j7qs2&headline=Two_volunteers_with_potential_Ebola_exposure_flown_to_Britain
+
+16 Jan 2015 UK: Edinburgh hospital woman tests negative for Ebola
+http://www.scotsman.com/news/health/edinburgh-hospital-woman-tests-negative-for-ebola-1-3662909
+
+USA
+------
+16 Jan 2015 USA (Minnesota): Ebola scare prompts quarantine bill at Legislature [mandatory quarantine would be protected against losing their homes, having their cars repossessed or getting their pay cut]
+http://www.postbulletin.com/news/politics/ebola-scare-prompts-quarantine-bill-at-legislature/article_6cec6c4a-3ae3-5aec-98f6-a834944d5f51.html
+
+16 Jan 2015 USA (New Jersey): If you're quarantined for Ebola, you'll get paid, proposed NJ bill says [health care and emergency workers]
+http://www.nj.com/politics/index.ssf/2015/01/following_ebola_scare_nj_assembly_panel_approves_b.html
+
+15 Jan 2015 USA (Washington, DC): Don't categorically refuse CPR to Ebola patients [Bioethics Research Library, Georgetown University]
+https://bioethics.georgetown.edu/dont-categorically-refuse-cpr-to-ebola-patients/
+
+Region
+------
+15 Jan 2015: What Africa really needs to fight Ebola and other emerging diseases: anti-corruption efforts
+http://thebulletin.org/what-africa-really-needs-fight-ebola-and-other-emerging-diseases-anti-corruption-efforts7928
+
+16 Jan 2015 United Nations: At least 50 Ebola hotspots remain, but new cases falling
+http://www.themonitor.com/news/us_news/un-at-least-ebola-hotspots-remain-but-new-cases-falling/article_13f939db-4c47-5014-9975-4803a31d00b2.html
+
+[Compiled by Celeste Whitlow <whitlow.celeste@gmail.com>]
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[HealthMap/ProMED-mail maps can be accessed at: https://promedmail.org/promed-post?place=3098295,45, https://promedmail.org/promed-post?place=3098295,46, and https://promedmail.org/promed-post?place=3098295,54. - Mod.LK]
+See Also
+Ebola update (15): predictions, research, susp 20150115.3095580
+Ebola update (14): WHO, burials, Afcon, food, susp. 20150114.3092967
+Ebola update (13): vaccine, Guinea cases, susp. treatment 20150113.3090483
+Ebola update (12): WHO, lessons, vaccine, nanobiophysics, susp. 20150112.3087776
+Ebola update (11): suspected cases 20150111.3085501
+Ebola update (10): ending Ebola, sequester, comments, susp, vaccines 20150110.3084110
+Ebola update (09): WHO, suitcase diagnostic laboratory, suspected 20150109.3082431
+Ebola update (08): WHO, Guinea, amiodarone, regional recovery, susp 20150108.3080212
+Ebola update (07): suits, trials, susp, vaccine 20150107.3077773
+Ebola update (06): Guinea pig, orphan, epidemiologist, school, pregnancy, vacc 20150106.3075369
+Ebola update (05): Africa, world, WHO, Sierra Leone, Liberia, Iraq, susp, drugs 20150105.3072587
+Ebola update (04): Africa, world, WHO, funding, transfusion, susp 20150105.3070607
+Ebola update (03): Africa, world, USA, UK, susp, drugs, vaccines 20150103.3069311
+Ebola update (02): Africa, world, WHO, IV therapy, USA, outbreaks, susp 20150102.3068060
+Ebola update (01): Africa, world, HCW cases, susp 20150101.3066740
+2014
+----
+Ebola virus disease - West Africa (236): WHO, Liberia, Sierra Leone, bats, susp. 20141230.3063314
+Ebola virus disease - West Africa (235): mortality, vaccine, Liberia, S.Leone 20141229.3059148
+Ebola virus disease - West Africa (234): WHO, Guinea, Liberia, S Leone, region 20141227.3056699
+Ebola virus disease - West Africa (233): WHO, S Leone, Liberia, susp 20141225.3053835
+Ebola virus disease - West Africa (232): WHO, Sierra Leone, seq, region, susp 20141223.3049556
+Ebola virus disease - West Africa (231): WHO 20141220.3045658
+Ebola virus disease - West Africa (230): Sierra Leone medic dies, Guinea, susp 20141218.3042755
+Ebola virus disease - West Africa (220): WHO, Mali imam, MSF, World Bank economy 20141203.3009934
+Ebola virus disease - West Africa (210): Mali, Liberia, WHO 20141114.2955997
+Ebola virus disease - West Africa (200): Mali, Liberia, cremation, case numbers 20141031.2920082
+and older items in the archives
+---
+Ebola virus disease - ex Africa (59): cost of outbreak, IMF, susp. cases 20141231.3065139
+Ebola virus disease - ex Africa (58): UK case, Roche test, global threat, susp. 20141229.3060974
+Ebola virus disease - ex Africa (57): Kazakhstan, Myanmar, PAHO, lessons 20141228.3058006
+Ebola virus disease - ex Africa (56): Australia, UK, USA 20141226.3055196
+Ebola virus disease - ex Africa (55): UK travel ban for NHS returnees, susp. 20141221.3047302
+Ebola virus disease - ex Africa (50): nurse medevaced to USA, vaccine, UK, susp 20141212.3030624
+Ebola virus disease - ex Africa (40): USA ZMapp, cost, UK, India prevention 20141119.2972218
+Ebola virus disease - ex Africa (30): USA scares, hospital preparedness 20141104.2929706
+Ebola virus disease - ex Africa (20): Spain negative, India, USA, China 20141019.2880692
+Ebola virus disease - ex Africa (10): WHO, UN, Liberia, medevac, S. Leone, USA 20141010.2851248
+Ebola virus disease - ex Africa (02): USA ex Liberia, prevention, false alarms 20141002.2827166
+Ebola virus disease - ex Africa: USA ex Liberia, WHO 20141001.2823539
+.................................................lk/je/jw/lm
+</body>

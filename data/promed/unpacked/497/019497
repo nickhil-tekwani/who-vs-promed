@@ -1,0 +1,348 @@
+<header id=019497>
+Published Date: 2020-10-30 07:44:06 EDT
+Subject: PRO/AH/EDR> COVID-19 update (460): variant 20A.EU1, Thailand, Sri Lanka, Yemen WHO, global
+Archive Number: 20201030.7902223
+</header>
+<body id=019497>
+CORONAVIRUS DISEASE 2019 UPDATE (460): EUROPE VARIANT 20A.EU1, THAILAND, SRI LANKA, YEMEN MORTALITY, WHO, GLOBAL
+****************************************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] Europe: variant 20A.EU1
+[2] From ProMED regional networks: Mekong Basin/South East Asia (MBDS) and South Asia (SoAs)
+[3] Yemen: excess mortality
+[4] WHO: daily new cases reported (as of 29 Oct 2020)
+[5] Global update: Worldometer accessed 29 Oct 2020 21:44 EDT (GMT-4)
+
+******
+[1] Europe: variant 20A.EU1
+Date: Wed 28 Oct 2020
+Source: medRxiv [abridged, edited]
+https://www.medrxiv.org/content/10.1101/2020.10.25.20219063v1.full.pdf
+
+
+ref: Hodcroft EB, Zuber M, Nadeau S et al. Emergence and spread of a SARS-CoV-2 variant through Europe in the summer of 2020. medRxiv 2020.10.25.20219063
+--------------------------------------------------------------------------------
+Abstract
+--------
+A variant of SARS-CoV-2 emerged in early summer 2020, presumably in Spain, and has since spread to multiple European countries. The variant was first observed in Spain in June [2020] and has been at frequencies above 40% since July [2020]. Outside of Spain, the frequency of this variant has increased from very low values prior to [15 Jul 2020] to 40-70% in Switzerland, Ireland, and the United Kingdom in September [2020]. It is also prevalent in Norway, Latvia, the Netherlands, and France. Little can be said about other European countries because few recent sequences are available. Sequences in this cluster (20A.EU1) differ from ancestral sequences at 6 or more positions, including the mutation A222V in the spike protein and A220V in the nucleoprotein. We show that this variant was exported from Spain to other European countries multiple times and that much of the diversity of this cluster in Spain is observed across Europe. It is currently unclear whether this variant is spreading because of a transmission advantage of the virus or whether high incidence in Spain followed by dissemination through tourists is sufficient to explain the rapid rise in multiple countries.
+
+Caveats
+-------
+- This variant rose in frequency in multiple countries, but we have no direct evidence that it spreads faster. The rise in frequency could also be due to epidemiological factors.
+- There are currently no data to evaluate whether this variant affects the severity of the disease.
+- While dominant in some countries, 20A.EU1 has not taken over everywhere and diverse variants of SARS-CoV-2 continue to circulate across Europe.
+
+Introduction
+------------
+Following its emergence in Wuhan in late 2019 (WHO Emergency Committee, 2020; Zhu et al, 2020), SARS-CoV-2 has caused a global pandemic resulting in unprecedented efforts to reduce transmission and develop therapies and vaccines. The spread of the virus across the world has been tracked with phylogenetic analysis of viral genome sequences (Worobey et al, 2020; Hadfield et al, 2018; Pybus et al, 2020) which were and still are generated at a rate far greater than for any other pathogen. More than 157 000 full genomes are available in GISAID as of October 2020 (Shu and McCauley, 2017). In addition to tracking the viral spread, these genome sequences have been used to monitor mutations which might change the transmission, pathogenesis, or antigenic properties of the virus. One mutation, in particular, D614G in the spike protein, has received much attention. This variant (Nextstrain clade 20A) seeded large outbreaks in Europe in early 2020 and subsequently dominated the outbreaks in the Americas, thereby largely replacing previously circulating lineages. This rapid rise has led to the suggestion that this variant is more transmissible (Korber et al, 2020; Volz et al, 2020). While the virus spread globally in early 2020 before borders were closed and viral variants circulating were distributed across the world, intercontinental travel remained suppressed through the summer of 2020. The paucity of intercontinental travel allowed continent-specific variants to emerge. Within Europe, however, travel resumed in the summer of 2020. Here we report on a novel SARS-CoV-2 variant 20A.EU1 (S:A222V) that emerged in early summer 2020, presumably in Spain, and subsequently spread to multiple locations in Europe. Over the summer, it rose in frequency in parallel in multiple countries. As we report here, this variant, 20A.EU1, and a 2nd variant 20A.EU2 with mutation S:S477N in the spike protein account for the majority of recent sequences in Europe. It is unclear at present whether the rapid spread of either variant is due to association with particular demographics, properties of the virus, or chance but the dynamics of both should be carefully monitored.
+
+Discussion
+----------
+In addition to the 20A.EU1 cluster we describe here, an additional variant (20A.EU2) with several amino acid substitutions, including S:S477N and mutations in the nucleocapsid protein, has become common in some European countries (see Fig. 1 and Fig. S3 [at the source URL above]). The S:S477N substitution has arisen multiple times independently, for example in a variant in clade 20B that has dominated the recent outbreak in Oceania. The position 477 is close to the receptor binding site, and deep mutational scanning studies indicate that S:S477N slightly increases the receptor binding domain's affinity for ACE2 (Starr et al, 2020). Thus, the spread of this variant should also be closely monitored. The rapid rise of these variants in Europe highlights the importance of genomic surveillance of the SARS-CoV-2 pandemic. If 20A.EU1 and/or the 20A.EU2 variant do increase the transmissibility of the virus, previously effective infection control measures might no longer be sufficient.
+
+Along similar lines, it is imperative to understand whether novel variants impact the severity of the disease. So far, we have no evidence for any such effect: The low mortality over the summer in Europe was predominantly explained by a marked shift in the age distribution of confirmed cases and this variant was not yet prevalent enough in July and August to have had a big effect. As sequences and clinical outcomes for patients infected with this variant become available, it will be possible to better infer whether this lineage has any impact on disease prognosis.
+
+It is only through multi-country genomic surveillance that it has been possible to detect and track this cluster. However, the absence of consistent and uniform sequencing across Europe has still limited our efforts: we do not know the role this cluster may be playing in many countries' outbreaks because no or very few sequences have been shared. This work underscores the importance of a coordinated and regular sequencing effort, particularly in closely-associated communities like Europe, in order to detect, track, and analyze emerging SARS-CoV-2 variants.
+
+Finally, our analysis highlights that countries should carefully consider their approach to travellers from areas with high SARS-CoV-2 incidence when travel resumes across Europe. Whether the 20A.EU1 cluster identified here has rapidly spread due to a transmission advantage or due to epidemiological factors alone, its observed introduction and rise in prevalence in multiple countries implies that the summer travel guidelines and restrictions were generally not sufficient to prevent onward transmission of introductions. While long-term travel restrictions and border closures are not tenable or desirable, identifying better ways to reduce the risk of introducing variants, and ensuring that those which are introduced do not go on to spread widely, will help countries maintain often hard-won low levels of SARS-CoV-2 transmission.
+
+--
+Communicated by:
+ProMED rapporteur Kunihiko Iizuka
+and
+Sabine Zentis
+<CVLonghorns@aol.com>
+and
+Mary Marshall
+<mjm2020@googlemail.com>
+
+[This paper is recommended reading to see the full text as well as the many informative figures and references. Real-time sequencing has become an invaluable epidemiolocal tool to follow the spread of a pathogen through the mutations that accumulate in the genome. Because RNA viruses mutate readily due to their error-prone polymerase, many mutations are lethal or of little significance, while others are able to increase fitness of the pathogen, giving it a competitive edge, possibly allowing more efficient transmission, or enhanced speed of replication increasing severity of infection, or they facilitate adaptation to a new host or environment. But it is difficult in the expansion stage of an outbreak to distinguish which features are contributing most to the spread of the pathogen, in this case the virus. The authors observed a "consistent and rapid growth of this variant (20A.EU1) in multiple countries and its frequency is above 50% in some localities. In countries where more than one introduction has occurred, it appears that multiple introductions have expanded. Notably, case numbers across Europe started to rise rapidly around the same time the 20A.EU1 variant started to dominate in Spain, Switzerland, and the UK (limited sequence data are available for other countries and we cannot draw clear conclusions), see Fig. S2. However, this acceleration of transmission also coincided with the arrival of fall and seasonal factors are an alternative or compounding explanation." More sequences are needed, especially from the countries where data are limited. But this study demonstrates how informative it is to analyze the molecular epidemiology of an emerging virus. It would be good to conduct studies to evaluate the biological significance of the mutations observed. -Mod.LK]
+
+******
+[2] From ProMED regional networks: Mekong Basin/South East Asia (MBDS) and South Asia (SoAs)
+[A] Mekong Basin/South East Asia (ProMED-MBDS)
+COVID-19 update (136): Thailand (Samut Prakan) quarantine facility 20201028.7896834
+[A1] Date: Wed 28 Oct 2020 07:00
+Source: Bangkok Post [edited]
+https://www.bangkokpost.com/thailand/general/2009319/asq-under-investigation-after-samui-covid-case
+
+
+The Department of Disease Control has begun urgently investigating whether a French woman patient who tested positive for COVID-19 was allowed to pass on the infection to 2 others staying in the same quarantine facility as her. The department on Tuesday [27 Oct 2020] revealed it is testing to see if there is a match between the strains contracted by the 57-year-old French native and those found in an Asian and a European male shortly afterward at the alternative state quarantine facility (ASQ) at Siam Mandarina Hotel in Samut Prakan province.
+
+The French national left the ASQ facility at the [hotel] on [15 Oct 2020] and returned to her home on Koh Samui [island], where she developed a fever on [17 Oct 2020]. Laboratory tests confirmed her infection 3 days later. The 2 infected male patients tested positive on [15 and 19 Oct 2020] respectively. One of them had stayed in the next room to hers.
+
+"Fortunately, all of them are now in the hospital at the same time and that can help us examine the virus genetics. The results will help us come closer to answering how the French lady became infected with the disease. We need a few days to carry out the genetic testing," Dr Opas Karnkawinpong, acting chief of the Department of Disease Control (DDC) told media on Tuesday [27 Oct 2020]. Dr Opas said the fitness room where the strain of novel coronavirus had been detected was not the place of transmission as the French patient had not used it during her stay.
+
+The department announced on Tuesday [27 Oct 2020] that Siam Mandarina Hotel would no longer be used to house returnees, although those currently in quarantine there would complete their 14-day term and then be asked to self-isolate at home for a further 7 days. Dr Tanarak Plipat, the department's deputy chief, said that the case has shown that the hotel could not follow the department's guidelines. "Arrivals from high-risk countries must stay in their room only. They should not have been allowed for outside activity," he said.
+
+[The hotel] has served as a government ASQ since June [2020] with 8 people, including the 2 recent male cases, having tested positive for COVID-19 during the period. Dr Tanarak said all 67 staff at the hotel had tested negative following the case of the French woman.
+
+There have also already been 126 tests carried out on others who may have come into contact with her after her release, and all of those tests had come back negative too, he added.
+
+[Byline: Apinya Wipatayotin]
+
+--
+Communicated by:
+ProMED-MBDS
+<promed-mbds@promedmail.org>
+
+----
+[A2]
+Date: Wed 28 Oct 2020
+Source: ThaiVisa, Thai PBS report [edited]
+https://forum.thaivisa.com/topic/1189427-two-quarantined-foreigners-in-hotel-with-infected-french-woman-have-covid-19/
+
+
+Two foreigners, in quarantine at a hotel in Samut Prakan province where a 57-year French woman was found to be infected with COVID-19, developed symptoms and tested positive for the disease on [15 Oct 2020], according to Dr Sophon Iamsirithavorn, Director of the General Communicable Diseases Division today [27 Oct 2020]. He admitted, however, that health investigators are still unable to determine whether the 3 cases are linked or how and where they became infected, adding that the hotel, which is used as an alternative state quarantine facility, may not be up to the required standard.
+
+The French woman developed coronavirus-related symptoms when she arrived on Samui Island with her husband and son, after she had completed her quarantine at a hotel in Samut Prakan. The 3 patients have now been admitted to hospitals.
+
+Health officials have disinfected areas at the hotel, including a gym where the COVID-19 virus was found on some of the equipment, while results of DNA tests on the 3 infected patients are still pending. Meanwhile, Dr Opas Karnkavinpong, Director-General of the Disease Control Department, said that he has discussed, with health officials in Samut Prakan province, about suspending the use of the hotel in question as a quarantine facility and the possibility of keeping other people in the same facility from leaving after completion of their 14 days of isolation or requiring them to install a tracing app on their smart phone.
+
+--
+Communicated by:
+ProMED-MBDS
+<promed-mbds@promedmail.org>
+
+[Another 2 local cases were identified following the case reported on 24 Oct 2020 (see prior ProMED-MBDS posting COVID-19 update (135): Thailand, local case 20201024.7887391). Although the 3 local cases stayed in the same alternative quarantine hotel, the possible epidemiological link among the 3 cases is still under investigation.
+
+On 28 Oct 2020, the national Centre for COVID-19 Situation Administration announced 13 imported cases identified from the state quarantine, with total 3759 cases and 59 deaths confirmed (https://www.bangkokpost.com/thailand/general/2009763/13-new-covid-19-cases). - Mod.YMA
+
+Maps of Thailand: https://legacy.lib.utexas.edu/maps/middle_east_and_asia/thailand_admin-2013.jpg and https://promedmail.org/promed-post?place=7902223,5089]
+
+----
+[B] South Asia (ProMED-SoAs)
+COVID-19 update (148): Sri Lanka 20201029.7896738
+[B1]
+Date: Wed 28 Oct 2020 09:04 IST
+Source: Daily Mirror Online [edited]
+http://www.dailymirror.lk/breaking_news/15-police-officers-test-positive-for-Covid-19-in-WP/108-198832
+
+
+[A total of 15] police officers attached to several police stations in the Western province have tested positive for COVID-19 yesterday [27 Oct 2020], health officials said. Accordingly, 96 police officers have been sent to quarantine centres while 708 police officers have been placed under self-quarantine.
+
+--
+Communicated by:
+ProMED-SoAs
+<promed-SoAs@promedmail.org>
+
+----
+[B2]
+Date: Tue 27 Mar 2020 06:16 PM IST
+Source: Daily Mirror Online [edited]
+http://www.dailymirror.lk/breaking_news/Covid-19-cases-of-Peliyagoda-Minuwangoda-cluster-exceed-5-000/108-198777
+
+
+A total of 293 COVID-19 patients were detected a short while ago surging the total positive cases of Peliyagoda-Minuwangoda [Western province] cluster to 5232. The Government Information Department said among the cases, 291 are close contacts of the Peliyagoda Fish Market while 2 cases were reported from the quarantine centres.
+
+Meanwhile, according to the National Operations Centre for the Prevention of COVID-19, out of the cases reported yesterday [26 Oct 2020], a majority of 304 patients were reported from the Gampaha district while 191 positive cases were detected from the Colombo district [Western province].
+
+In addition, one case each was reported from Kegalle [Sabaragamuwa province], Kandy [Central], Badulla [Uva], and Puttalam [North Western] districts.
+
+A total of 42 persons undergoing quarantine also tested positive.
+
+Accordingly, the new cases detected yesterday [26 Oct 2020] surpassed the 8000 mark of the total confirmed cases reported so far from Sri Lanka.
+
+The total confirmed positive cases stand at 8706 as of this evening [27 Oct 2020].
+
+Meanwhile, the number of patients recovered from COVID-19 increased to 4043 with 110 recoveries reported today [27 Oct 2020]
+
+[Byline: Sheain Fernandopulle]
+
+--
+Communicated by:
+ProMED-SoAs
+<promed-SoAs@promedmail.org>
+
+[A Live Situational Analysis Dashboard on COVID-19 in Sri Lanka can be accessed at https://hpb.health.gov.lk/covid19-dashboard/. According to data provided, there are 8870 laboratory-confirmed cases in the country as of today (28 Oct 2020 at 07:36:27). There was a sudden peak of cases starting the 1st week this month (October 2020). As of 4 Oct 2020, the total number of COVID-19 cases in the country was 3400; within the next 3 weeks, the total number has more than doubled. This temporal surge seems to be still related to increase of cases in several spatial clusters, as hinted in news item [2] above. - Mod.PKB
+
+Maps of Sri Lanka: http://www.mapsopensource.com/images/sri-lanka-districts-map.gif and https://promedmail.org/promed-post?place=7902223,144]
+
+[Our regional networks are covering the COVID-19 activities in the countries of their regions in much greater detail than we do on the general list. I highly recommend our readers to visit the various networks we have to follow more closely countries of interest. - Mod.MPP]
+
+******
+[3] Yemen: excess mortality
+Date: Wed 28 Oct 2020
+Source: London School of Hygiene and Tropical Medicine [edited]
+https://www.lshtm.ac.uk/newsevents/news/2020/satellite-images-suggest-deaths-more-doubled-aden-yemen-during-intense-covid
+
+
+The true death toll of the COVID-19 pandemic in Yemen remains unknown but according to new research highlighted in a pre-print study [see reference below], there is a consensus that the pandemic has had a considerable impact on the health system.
+
+The research, which is not yet peer-reviewed, was led by the London School of Hygiene & Tropical Medicine [LSHTM] in partnership with the technology and innovation company the Satellite Applications Catapult, which has expertise in geospatial analysis. Using very high-resolution satellite imagery the team quantified burial activity across all identifiable cemeteries within Aden governorate, Yemen, to generate estimates on excess deaths in the region.
+
+Between April and September [2020], a period temporally coinciding with COVID-19 transmission in Aden governorate, they estimated about 2100 excess deaths, against an expected baseline of about 1300 deaths. This total is best interpreted as the net sum of deaths due to COVID-19 infection and deaths indirectly attributable to the pandemic (for example because of disruptions to health services) or control measures (for example problems accessing food).
+
+To the researchers' knowledge, this is the 1st instance of satellite imagery being used for population mortality estimation.
+
+Professor Francesco Checchi, principal investigator of the study from the London School of Hygiene & Tropical Medicine, said: "Having an accurate picture of the impact of COVID-19 is vital for effective government and humanitarian responses. Unfortunately, in low-income and crisis settings, this can be very challenging as it is often difficult to access ground locations. By estimating excess mortality, we aimed to develop a more accurate estimate of the toll of COVID-19 in Yemen."
+
+The COVID-19 pandemic's impact on Yemen was expected to be severe, despite its comparatively young population. The country's 5-year protracted crisis has resulted in disrupted health services, overcrowding due to internal displacement, food insecurity, and shrinking humanitarian aid.
+
+Yemen recorded its 1st laboratory-confirmed coronavirus disease on [10 Apr 2020]. The epidemic was expected to peak earliest and more dramatically in Aden governorate due to overcrowding and limited mitigation measures.
+
+In May 2020, videos posted on social media and information from key informants reported high numbers of fresh graves, suggesting a spike in burial activity. The use of mechanical excavators in place of human gravediggers suggested that demand exceeded routine capacity, while, during the same period, Médecins sans Frontières reported a peak in hospital admissions, with a very high case-fatality ratio. Media also reported that a shortage of personal protective equipment forced several hospitals to close or reject patients exhibiting COVID-19 like symptoms.
+
+However, as of [25 Oct 2020], Yemen had reported 2064 confirmed SARS-CoV-2 infections with 600 deaths, but the reliability of these official numbers is undermined by low testing capability.
+
+Emilie Koum Besson, lead author from the London School of Hygiene & Tropical Medicine, said: "Given limited testing capacity and locally different approaches to defining and recording direct COVID-19 deaths, excess mortality may be the only measure that allows to draw comparison across different geographical settings. Though our method cannot distinguish direct from indirect virus deaths, estimating excess mortality attributable to the COVID-19 pandemic in humanitarian setting captures the whole system impact of the pandemic. It can inform our understanding of how different factors, national strategies, and policies have affected the spread and severity of the pandemic."
+
+For example, study findings indicate that the peak death rate in Aden (about 650% according to Civil Registry data, or about 250% based on satellite imagery compared to baseline) was similar to those recorded in London and New York (respectively 200% and 600% the baseline) despite significantly different containment measures.
+
+Professor Checchi said: "We believe this is the 1st-time satellite imaging has been used to help model the impact of infectious disease outbreaks. This new technique is very exciting for global health. Remote analysis could pave the way for the development of accurate health data in areas where this is currently not possible, providing organisations and policymakers with new evidence to make potentially life-saving decisions."
+
+Andy Norris, co-author from the Satellite Applications Catapult, said: "'The applications of satellite data to provide information on humanitarian crises are vast. Together with LSHTM, for the 1st time, we have combined satellite imagery with cutting-edge modelling techniques to provide information that was simply not otherwise available, and which can inform the response from the international community. It is a piece of transformational work for the satellite industry and the people of Yemen."
+
+The authors acknowledge limitations of their work, including that the temporal association of SARS-CoV-2 transmission and excess mortality is not conclusive evidence that the pandemic caused the observed increase in burials. The analysis would not have been able to capture a family's preference to bury their members in their origin locality (villages) in other governorates and difference in local burial practices such as cremation.
+
+The team are now replicating the study in Mogadishu, Somalia. Both studies are funded by UK aid from the UK Government, however, the findings and views expressed on them, do not necessarily reflect that of official UK Government policy.
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[ref: Koum-Besson E, Norris A, Bin Ghouth AS, et al. Excess mortality during the COVID-19 pandemic in Aden governorate, Yemen: a geospatial and statistical analysis. LSHTM 2020. https://reliefweb.int/sites/reliefweb.int/files/resources/41866.pdf
+--------------------------------------------------------------------------------
+Abstract
+--------
+"Background
+"The burden of COVID-19 in low-income and conflict-affected countries is still unclear, largely reflecting low testing rates. In parts of Yemen, reports indicated a peak in hospital admissions and burials during May-June 2020. To estimate excess mortality during the epidemic period, we quantified activity across all identifiable cemeteries within Aden governorate in Yemen (population approximately one million) by analysing very high-resolution satellite imagery, and compared estimates to Civil Registry office records from the city.
+
+"Methods
+"After identifying active cemeteries through remote and ground information, we applied geospatial analysis techniques to manually identify new grave plots and measure changes in burial surface area over a period from July 2016 to September 2020. After imputing missing grave counts using surface area data, we used alternative approaches, including simple interpolation and a generalised additive mixed growth model, to predict both actual and counterfactual (no epidemic) burial rates by cemetery and across the governorate during the most likely period of COVID-19 excess mortality (from 1 Apr 2020), and thereby compute excess burials. We also analysed death notifications to the Civil Registry office during April-July 2020 and in previous years.
+
+"Results
+"We collected 78 observations from 11 cemeteries, of which 10 required imputation from burial surface area. Cemeteries ranged in starting size from 0 to 6866 graves. In all but one, a peak in daily burial rates was evident from April to July 2020. Interpolation and mixed model methods estimated approximately 1500 excess burials up to [6 Jul 2020], and 2120 up to [19 Sep 2020], corresponding to a peak weekly increase of 230% from the counterfactual. Satellite imagery estimates were generally lower than Civil Registry data, which indicated a peak of 1823 deaths in May alone. However, both sources suggested the epidemic had waned by September 2020.
+
+"Discussion
+"To our knowledge, this is the 1st instance of satellite imagery being used for population mortality estimation. Findings suggest a substantial, under-ascertained impact of COVID-19 in this urban Yemeni governorate, and are broadly in line with previous mathematical modelling predictions, though our method cannot distinguish direct from indirect virus deaths. Satellite imagery burial analysis appears a promising novel approach for monitoring epidemics and other crisis impacts, particularly where ground data are difficult to collect."
+
+Fascinating work. Remembering that in the initial stages of the pandemic in severely impacted countries media reports carried pictures of new cemetery plots -- most notably in Sao Paulo, Brazil (May 2020: https://www.cnn.com/2020/05/22/americas/gallery/brazil-coronavirus/index.html the 1st and 8th pictures) and Teheran, Iran (May 2020 https://www.washingtonpost.com/graphics/2020/world/iran-coronavirus-outbreak-graves/). While counts weren't available the focus was on excess mortality both direct and indirect. It's curious that the satellite imaging undercounted deaths during the period when compared with civil records. The authors speculate they may have missed newer cemeteries and burial locations, but suggests that baseline data on mortality rates are available in Aden governorate. Again, a fascinating approach to estimate excess mortality in a resource poor country. But still in relatively early stages of development of the methodology. - Mod.MPP]
+
+******
+[4] WHO: daily new cases reported (as of 29 Oct 2020)
+Date: Thu 29 Oct 2020
+Source: WHO [abridged, edited]
+https://covid19.who.int/table
+
+
+*Daily case reports as of 29 Oct 2020 17:15 CEST
+
+Surveillance
+------------
+WHO region (no. countries/territories):
+Total confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+------------------------
+Western Pacific Region (19): 723 120 (4592) / 15 416 (80)
+European Region (61): 10 229 790 (239 085) / 276 834 (2482)
+South East Asia Region (10): 9 080 126 (59 127) / 142 174 (676)
+Eastern Mediterranean Region (22): 3 010 758 (28 161) / 76 558 (825)
+Region of the Americas (54): 19 998 930 (143 411) / 630 769 (2952)
+African Region (49): 1 308 041 (5041) / 29 491 (111)
+Cases on an international conveyance (Diamond Princess): 741 (0) / 13 (0)
+
+Confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+Grand total: 44 351 506 (479 417) / 1 171 255 (7126)
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The number of countries and territories reporting confirmed cases of COVID-19 to WHO is now at 218 with the addition of the Marshall Islands.
+
+Data by country, area, or territory for 29 Oct 2020 can be accessed at https://promedmail.org/wp-content/uploads/world-pdf/WHO%20daily%20tablesOct29_1604006886.pdf.
+
+- The Americas region reported 29.9% of daily case numbers and 41.4% of the daily deaths reported in the past 24 hours, maintaining its position as the most severely affected region, having reported more than 19.9 million cases. The USA maintains its dominance, followed by Brazil, Argentina, Colombia, Mexico, Canada, and Peru. Ecuador and Chile also reported more than 1000 new cases in the past 24 hours.
+
+- The European region reported 49.9% of daily case numbers and 34.8% of the daily deaths reported in the past 24 hours, and total cumulative cases reported exceed 10.2 million. Countries not reporting cases today (29 Oct 2020) include Israel, Kazakhstan, Sweden, and Bosnia and Herzegovina. France is dominant, followed by Italy, UK, Poland, Netherlands, Russia, Germany, Czech Republic, Spain, Switzerland, Ukraine, Romania, Austria, Portugal, Slovakia, Bulgaria, Slovenia, Armenia, Croatia, Turkey, and Hungary. Other countries reporting more than 1000 cases in the past 24 hours include Georgia, Greece, Serbia, and Denmark.
+
+- The Eastern Mediterranean region reported 5.9% of daily case numbers and 11.6% of the deaths reported in the past 24 hours, having reported a cumulative total of greater than 3.0 million cases. Iran is dominant, followed by Iraq, Morocco, Jordan, Tunisia, Lebanon, and UAE. Libya, Pakistan, Kuwait, and Oman each reported more than 500 cases but fewer than 1000, while Sudan and Somalia did not report any cases in the past 24 hours.
+
+- The African region reported 1.1% of daily case numbers and 1.6% of the deaths reported in the past 24 hours and has reported more than 1.3 million cases. South Africa is dominant, followed by Kenya, Ethiopia, Algeria, Angola, Nigeria, Uganda, Mozambique, and Reunion. While South Africa remains dominant, the 24 hour new case count is markedly reduced.
+
+- The Western Pacific region reported 0.96% of daily case numbers and 1.1% of the deaths reported in the past 24 hours, having reported a cumulative total of 0.72 million cases. As previously, the Philippines maintains its dominance, followed by Malaysia, French Polynesia, Japan, South Korea, China, and Guam. The Marshall Islands have reported cases (2) for the 1st time.
+
+- The South East Asia region reported 12.3% of the daily newly reported cases and 9.5% of reported deaths in the past 24 hours, having reported a cumulative total of more than 9.0 million cases. As previously, India remains dominant, followed by Indonesia, Nepal, Bangladesh, Myanmar, Sri Lanka, and the Maldives. While India is dominant, the 24 hour new case count is markedly reduced.
+
+Impression: The Americas region combined with the European region account for almost 80% of daily reported cases and 75% of the global reported deaths in the past 24 hours. Cases have somewhat reduced in the South East Asian region while overall case numbers remain below 5000 from the Western Pacific and African regions
+
+On the Overview tab at the WHO source URL, the epidemic curve of confirmed COVID-19 cases by WHO region, 30 Dec 2019 through 29 Oct 2020, is an excellent visual representation of the pandemic. - Mod.MPP]
+
+******
+[5] Global update: Worldometer accessed 29 Oct 2020 21:44 EDT (GMT-4)
+Date: Thu 29 Oct 2020
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at https://promedmail.org/wp-content/uploads/world-pdf/OCT29DATASET_1604025676.pdf.
+
+A 7-day series of cumulative data reported by countries, territories, and reporting entities can be found at < https://promedmail.org/wp-content/uploads/world-pdf/OCT29WORLD7_1604025742.pdf>. - Mod.MPP]
+
+Total number of reported deaths: 1 185 734
+Total number of worldwide cases: 45 313 114
+Number of newly confirmed cases in the past 24 hours: 564 269
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[In the past 24 hours, the USA (92 016), India (49 281), France (47 637), and Spain (44 241) have been dominant. A global total of 6672 deaths were reported in the past 24 hours (28-29 Oct 2020), Globally the world has reported 1 million cases in the past 2 days with daily reports over half a million new cases each day so there are now over 45 million confirmed cumulative cases.
+
+Countries reporting more than 10 000 newly confirmed cases in the past 24 hours (15 countries) include the USA, India, France, Spain, Italy (26 829), Brazil (26 647), UK (23 065), Belgium (21 048), Poland (20 156), Germany (18 732), Russia (17 717), Argentina (13 267), Czech Republic (13 055), Colombia (11 187), and Netherlands (10 264). A total of 50 countries reported more than 1000 cases in the past 24 hours; 28 of the 50 countries reporting more than 1000 newly confirmed cases are from the European region, 9 are from the Americas region, 6 are from the Eastern Mediterranean region, and 5 are from the South East Asia region.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, case counts have increased by 18.6%, while daily reported deaths have increased by 8.2%. The USA has increased daily reported cases by 23.8% and deaths by 2.3%. Iran has increased daily case reports by 40.3% and deaths by 16.6%.
+
+Impression: Global daily reported cases continue to increase with countries in the European region and the Americas region showing the largest increases in daily new cases counts, followed by the Eastern Mediterranean and the South East Asia regions. Europe is once again the 2nd region in terms of cumulative case counts, surpassing the South East Asia region once again. - Mod.MPP]
+See Also
+COVID-19 update (459): aerosol transmission, lockdowns, masking, WHO, global 20201029.7900761
+COVID-19 update (458): animal, Italy, mink, RFI 20201028.7897986
+COVID-19 update (457): air pollution, antibiotic use, WHO, global 20201028.7896479
+COVID-19 update (456): pre-pandemic serology, airline flight, WHO, global 20201027.7893631
+COVID-19 update (455): convalescent plasma, Europe, China, WHO, global 20201026.7890372
+COVID-19 update (454): vaccine trials, immunity, reinfections, WHO, global 20201025.7889160
+COVID-19 update (453): rapid breath test, excess mortality, masks, WHO, global 20201024.7886686
+COVID-19 update (452): Chile (RM) animal, cat, OIE 20201023.7885452
+COVID-19 update (451): vaccine efficacy, winter, close contact, WHO, global 20201023.7884098
+COVID-19 update (450): animal, cattle, research, experimental infection 20201022.7883213
+COVID-19 update (440): children, RNA vaccines, WHO, global 20201015.7863738
+COVID-19 update (430): animal, USA (UT) mink 20201009.7847704
+COVID-19 update (420): ECMO, USA serosurvey, WHO, global 20200930.7824510
+COVID-19 update (410): ACE inhibitors and ARBs, WHO COVAX plan, WHO, global 20200922.7801717
+COVID-19 update (400): lockdowns, influenza co-infections WHO, global 20200914.7776512
+COVID-19 update (350): USA (TX) animal, cat 20200808.7658191
+COVID-19 update (300): Korea antibodies, China asymptomatic index case, WHO 20200703.7536146
+COVID-19 update (250): selected countries 20200610.7448037
+COVID-19 update (200): global, Yemen, WHO 20200522.7364937
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+Undiagnosed pediatric inflammatory syndrome (05): Europe, USA, COVID-19 assoc 20200518.7340554
+Undiagnosed pediatric inflammatory syndrome (04): USA, UK, PMIS, fatal 20200509.7315405
+Undiagnosed pediatric inflammatory syndrome (03): USA, Europe, COVID-19 susp, RFI 20200505.7299876
+COVID-19 update (150): global, USA state prisons, WHO 20200502.7290671
+COVID-19 update (100): China, S. Korea & high local transmission countries 20200413.7217806
+COVID-19 update (50): China (Hong Kong) animal dog, 2nd case PCR positive, OIE 20200323.7129951
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (41): China, global, clinical pics, asymptomatic trans., WHO 20200210.6976117
+Novel coronavirus (40): animal reservoir, pangolin poss intermediate host, RFI 20200210.6972104
+Novel coronavirus (30): updates, China, Viet Nam, research 20200202.6945658
+Novel coronavirus (20): China, wildlife trade ban 20200127.6922060
+Novel coronavirus (10): China (HU, GD, BJ) 20200119.6898567
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia: China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia: China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+----
+Undiagnosed pneumonia: China (HU): RFI 20191230.6864153
+and other items in the archives
+.................................................sb/mpp/lk/mpp/mj/mpp
+</body>

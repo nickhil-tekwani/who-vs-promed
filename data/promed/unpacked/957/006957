@@ -1,0 +1,101 @@
+<header id=006957>
+Published Date: 2020-08-25 13:22:13 EDT
+Subject: PRO/AH/EDR> COVID-19 update (374): animal, ferret, research, epidemiology
+Archive Number: 20200825.7715862
+</header>
+<body id=006957>
+CORONAVIRUS DISEASE-19 UPDATE (374): ANIMAL, FERRET, RESEARCH, EPIDEMIOLOGY
+***************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+Date: Mon 24 Aug 2020
+Source: News - Medical.net [abridged, edited]
+https://www.news-medical.net/news/20200824/Ferrets-not-susceptible-SARS-CoV-2-infection.aspx
+
+
+A recent study by scientists at the Cummings School of Veterinary Medicine at Tufts University has revealed that ferrets are not susceptible to severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection even if they are directly exposed to symptomatic coronavirus disease 2019 (COVID-19) patients for a prolonged time. The study is currently available on the bioRxiv* preprint server.
+
+Analysis of angiotensin-converting enzyme-2 (ACE2), which is responsible for viral entry to host cells, has shown that amino acid residues responsible for viral binding are moderately conserved between humans and domestic animals, and reverse-zoonosis (human to animal transmission) has been noticed in case of SARS-CoV-2 infection. So far, human to animal transmission of SARS-CoV-2 has been observed in European mink, resulting in outbreaks in several mink farms in the United States and European countries.
+
+Current study design
+--------------------
+In the current study, the researchers selected ferrets as an animal model to study SARS-CoV-2 transmission, because these domestic mammals are widely used in laboratories to study experimental infection and clinical outcomes of human diseases caused by respiratory viruses.
+
+During the initial period of COVID-19 pandemic in the New England area (March 2020), the researchers performed a rapid response study to evaluate possibilities of human to animal spillover and onward transmission in many domestic, farm, and wild animals. Their main aim was to understand the possible nature of SARS-CoV-2 transmission at these interfaces to refine public health guidelines as well as assess possible animal or human health risks related to spillover. They also aimed at investigating whether infected animals can potentially act as endemic reservoirs.
+
+The researchers conducted the experiments with 29 ferrets living in one household with 2 human participants suffering from symptomatic (fever, fatigue, sore throat, anosmia, and migraine) COVID-19. Both individuals cared for the ferrets throughout their course of infection.
+
+Absence of natural human to ferret transmission of SARS-CoV-2
+-------------------------------------------------------------
+To check whether there is human to animal transmission, oral swabs were collected from each ferret over 2 weeks using home sampling kits. All collected samples were tested for active SARS-CoV-2 infection via polymerase chain reaction (PCR) and enzyme-linked immunosorbent assay (ELISA). Surprisingly, the researchers found that all ferrets tested negative for active or recent SARS-CoV-2 infection. Moreover, they found that none of the experimental ferrets developed antibodies against the receptor-binding domain of SARS-CoV-2, indicating the absence of seroconversion.
+
+Identification of 3 mutations in the surface glycoprotein of mustelid-derived SARS-CoV-2
+---------------------------
+Because previous studies have shown that ferrets are susceptible to experimentally executed SARS-CoV-2 infection [see commentary], the researchers hypothesized that there might be certain factors that protect ferrets from natural SARS-CoV-2 infection. To confirm their hypothesis, the researchers analyzed available genetic sequences of SARS-CoV-2 that are known to naturally infect European minks and then experimentally infect ferrets. Three mutations (N501T, D614G, and S686G) in the viral spike protein were identified. Of these mutations, N501T was in the receptor-binding domain of the viral spike protein, which interacts with host ACE2 at Y41, K353, G354, and D355. Mustelids and humans differ from each other only at ACE2 G354R. Because both N501T and G354R are present in minks and ferrets, ACE2 is expected to provide a certain level of protection against SARS-CoV-2 infection. According to the researchers, ACE2 provides only a weak host barrier against viral entry to mustelids, given the fact that SARS-CoV-2 without N501T mutation has been known to infect minks initially. As described by the researchers, N501T mutation may have increased viral pathogenicity in mustelids; however, this mutation is not required for species to species transmission.
+
+Because D614G mutation has become highly prevalent in humans, the researchers concluded that the observed D614G mutation in ferrets may be due to variation in human donors and is not related to ferret infection.
+
+Interestingly, the researchers observed that S686G mutation, which was present only in ferrets, is located directly adjacent to the novel S1/S2 polybasic cleavage site that is associated with virulence. Using computational prediction analysis, the researchers found that this specific mutation is predicted to reduce furin activity, which in turn may reduce viral transmission and pathogenicity. These findings suggest that S686G mutation may provide a strong host barrier, specifically to ferrets. As described by the researchers, the current study findings indicate that natural infection in ferrets is limited by virus and host genetic barriers, which can only be overcome by experimental infections using concentrated viral preparations obtained from humans.
+
+[bioRxiv publishes preliminary scientific reports that are not peer-reviewed and, therefore, should not be regarded as conclusive, guide clinical practice/health-related behavior, or be treated as established information.]
+
+Journal reference:
+bioRxiv preprint server. 2020. Sawatzki K. Ferrets not infected by SARS-CoV-2 in a high-exposure domestic setting. https://www.biorxiv.org/content/10.1101/2020.08.21.254995v1
+
+[byline: Sanchari Sinha Dutta]
+
+--
+communicated by:
+Sukie Crandall
+<sukie@me.com>
+
+[When minks were found, for the 1st time, susceptible to SARS-CoV-2 infection in the province North Brabant, Netherlands, they were viewed as the 2nd species of the Mustelid family shown to be susceptible to SARS-CoV-2. Earlier, ferrets had been found susceptible in experimental infection trials performed in Chinese and German laboratories. (commentary in 'COVID-19 update (146): Netherlands (NB) animal, farmed mink, epidemiology. 20200501.7286113).
+
+The Chinese paper (20200402.7173286), eventually published in Science, stated that SARS-CoV-2 "replicates poorly in dogs, pigs, chickens, and ducks, but efficiently in ferrets and cats" (ref 1).
+
+The German trial was presented in ProMED-mail (COVID-19 update (88): Germany, animal, research, pig, chicken, bat, ferret. 20200407.7196506). It concluded: "Most efficient virus replication was observed in ferrets, with high yields of viral RNA in nasal washing fluids from 8 of 9 animals from 2 days post infection (dpi) to 8 dpi."
+
+The current, Tufts' paper, reference above, underlined a discrepancy in experimental and natural infection in ferrets. The authors concluded that host factors interacting with the novel S1/S2 cleavage site are a barrier in ferret SARS-CoV-2 susceptibility, hence domestic ferrets are at low risk of natural infection. On the other hand, the German FLI team presented the following observation: "Interestingly, all 3 non-inoculated contact ferrets became infected and viral RNA was present in nasal washing fluids starting at 12 dpi. Screening of organ samples revealed prominent viral RNA loads only in the upper respiratory tract as confirmed by positive immunohistochemistry and in situ-hybridization in the nasal cavity. SARS-CoV-2 reactive antibodies were detected from day 8 in the inoculated ferrets and in one contact ferret on day 21 dpi."
+
+While minks are farmed, we are not aware of ferrets being farmed (subscribers are welcome to correct this statement if appropriate). These mustelids are better known as pets. So far no information of 'natural' infection of ferrets has become available.
+
+In the meantime, the total number of infected mink farms in the Netherlands has risen to 40, about 38% of all mink farms maintained in the country. The SARS-CoV-2 infection on the 40th farm was detected due to clinical signs in the animals (official press release at
+https://www.rijksoverheid.nl/onderwerpen/coronavirus-covid-19/nieuws/2020/08/24/bevestiging-van-besmetting-covid-19-bij-nertsenbedrijf; in Dutch). - Mod.AS
+
+Reference
+1. Shi J, Wen Z, Zhong G, et al. Susceptibility of ferrets, cats, dogs, and other domesticated animals to SARS-coronavirus 2. Science 2020; 368 (29 May): 1016-1020. DOI: 10.1126/science.abb7015. https://science.sciencemag.org/content/368/6494/1016]
+See Also
+COVID-19 update (366): animal, USA (UT) mink 20200818.7692815
+COVID-19 update (365): Germany case data, countries, WHO, global 20200818.7690696
+COVID-19 update (364): USA (NC,NY) animal, dog, comment 20200818.7689234
+COVID-19 update (363): animal, Denmark (ND) Netherlands (NB,LI) mink, spread 20200817.7687830
+COVID-19 update (360): USA (NC, NY) animal, dog, comment 20200815.7681907
+COVID-19 update (340): animal, China, envir monitoring, Netherlands (NB), mink 20200801.7635820
+COVID-19 update (334): animal, Netherlands, mink, spread, UK, cat, 1st rep, OIE 20200727.7617582
+COVID-19 update (324): Netherlands (NB) animal, farmed mink, spread 20200719.7591013
+COVID-19 update (317): Netherlands (NB) animal, farmed mink, spread 20200716.7578453
+COVID-19 update (307): Netherlands (NB), Denmark (ND) farmed mink, spread, control 20200708.7553067
+COVID-19 update (301): Denmark (ND) Netherlands (NB) farmed mink, spread, control 20200703.7536980
+COVID-19 update (284): Denmark (ND) animal, farmed mink, spread, dog 20200624.7506728
+COVID-19 update (281): Netherlands (NB, LI) farmed mink, spread, animal, global 20200623.7502849
+COVID-19 update (266): Denmark (ND) animal, farmed mink, 1st rep 20200617.7479510
+COVID-19 update (251): Netherlands (NB, LI) animal, farmed mink, spread, culling 20200610.7453845
+COVID-19 update (248): Netherlands (NB, LI) animal, mink, spread, culling, cat 20200609.7446478
+COVID-19 update (236): Netherlands (NB, LI) animal, farmed mink, spread, culling 20200604.7427849
+COVID-19 update (230): Netherlands (NB, LI) animal, farmed mink, spread, control 20200602.7420433
+COVID-19 update (215): Netherlands (NB) animal, mink-to-human, epidem., control 20200527.7385049
+COVID-19 update (209): Netherlands (NB) farmed mink, animal-to-human, cat, epid 20200525.7375359
+COVID-19 update (198): Netherlands (NB) farmed mink, animal-to-human infect susp 20200520.7359976
+COVID-19 update (189): Netherlands (NB) animal, farmed mink, research, cat, dog 20200517.7344274
+COVID-19 update (177): Netherlands (NB) animal, farmed mink, Spain (CT) cat susp 20200512.7328587
+COVID-19 update (174): Netherlands (NB) animal, farmed mink, comment 20200511.7323845
+COVID-19 update (169): Netherlands (NB) animal, farmed mink, spread, rabbit susp 20200509.7316646
+COVID-19 update (154): Netherlands (NB) animal, farmed mink, research 20200503.7294846
+COVID-19 update (146): Netherlands (NB) animal, farmed mink, epidemiology 20200501.7286113
+COVID-19 update (135): Netherlands (NB) animal, farmed mink 20200427.7272289
+.................................................arn/ao/sh
+</body>

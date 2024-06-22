@@ -1,0 +1,291 @@
+<header id=015033>
+Published Date: 2020-08-24 08:51:40 EDT
+Subject: PRO/AH/EDR> COVID-19 update (372): microRNAs, genetics, selected countries, WHO, global
+Archive Number: 20200824.7710502
+</header>
+<body id=015033>
+CORONAVIRUS DISEASE 2019 UPDATE (372): MICRORNAS, GENETICS, SELECTED COUNTRIES, WHO, GLOBAL
+*******************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] Effect of SARS-CoV2 on microRNAs
+[2] Epidemiological models for prediction and intervention
+[3] Impact of deletion mutation on viral pathogenicity
+[4] Selected countries: 23 Aug 2020 case and death updates
+[5] WHO: daily new cases reported (as of 23 Aug 2020)
+[6] Global update: Worldometer accessed 23 Aug 2020 22:19 EDT (GMT-4)
+
+******
+[1] Effect of SARS-CoV2 on microRNAs
+Date: Sat 22 Aug 2020
+Source: Medical News Today [edited]
+https://www.medicalnewstoday.com/articles/is-covid-19-more-dangerous-because-sars-cov-2-reduces-specific-micrornas#Conclusions
+
+
+A team of researchers from the University of Alabama at Birmingham and various institutions in Poland proposes that the SARS-CoV-2 virus acts as a microRNA "sponge" to reduce microRNA levels in ways that assist viral replication and block the host immune response. New research suggests that SARS-CoV-2 may be more dangerous than other coronaviruses because it reduces specific microRNAs.
+
+The perspective appears in the American Journal of Physiology-Lung Cellular and Molecular Physiology. Coronaviruses (CoVs) are single-stranded RNA viruses that experts originally considered to be relatively mild. They include the viruses that cause the common cold.However, researchers have stopped thinking of these viruses as mild after the outbreaks of severe acute respiratory coronavirus (SARS-CoV) in 2002, Middle East respiratory syndrome (MERS-CoV) in 2012, and the current global COVID-19 pandemic, for which the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is responsible.
+
+Neither the SARS nor the MERS virus had the high infectivity of the novel coronavirus, but both were dangerous, resulting in 774 and 866 deaths, respectively. Although there are similarities in their RNA sequences, they differ significantly in their methods of infection.
+
+MicroRNAs are key players in the body's immune defense against viruses
+--------------------------------------------------------------
+Currently, there is no vaccine available for SARS-CoV-2. Research has focused on understanding virus pathogenicity and, importantly, on restoring and enhancing patients' immunity. Researchers are now considering innovative approaches, such as the use of human microRNAs (miRNAs).
+
+MiRNAs are vital players in the body's immune defense against viruses. They are short, noncoding RNAs that regulate gene expression through their complementary pairing with specific messenger RNAs of the cell. By latching onto and cutting the viral RNA, miRNAs control the cell's response to create an antiviral effect. However, viruses also have the capability to maneuver the host miRNA networks according to their own rules. When microRNAs are inhibited or low in abundance, the virus can more freely replicate, avoid immune responses, and increase disease severity.
+
+SARS-CoV-2 may inhibit microRNAs, making it a more dangerous virus
+------------------------------------------------------------------
+In the current study, the researchers aimed to answer why these viruses are so different from the typically harmless cold viruses. They hypothesized that the virus that causes COVID-19 has binding sites for select miRNAs that are different [from] the binding sites for miRNAs on coronaviruses that cause the common cold.
+
+The more pathogenic SARS-CoV-2 virus may specifically serve as a miRNA sponge, reducing cellular miRNA levels to make it a more hazardous human coronavirus.
+
+By analyzing the current literature and using computer-aided bioinformatic techniques, the team evaluated the potential miRNA interactions with the SARS-CoV-2 genome and looked for possible miRNA target sites for 896 human miRNA sequences on seven different coronavirus genomes. The genomes included those of the 3 pathogenic coronaviruses -- SARS-CoV-2, MERS-CoV, and SARS-CoV -- and 4 nonpathogenic coronaviruses. The analysis revealed that the number of microRNA target sites was higher in the pathogenic viruses than in the nonpathogenic viruses.
+
+Also, the sets of microRNAs that the pathogenic coronaviruses targeted were different [from] those that the nonpathogenic coronaviruses targeted. Specifically, the researchers discovered a set of 28 miRNAs that are unique to SARS-CoV-2, as well as sets of another 21 and 24 miRNAs that are unique to SARS-CoV and MERS-CoV, respectively.
+
+Specific miRNAs for SARS-CoV-2 are common in other lung diseases
+----------------------------------------------------------------
+Further analysis of the 28 unique miRNAs for COVID-19 revealed that most of these miRNAs are significantly expressed in bronchial epithelial cells. Researchers have studied their dysregulation in human lung diseases, such as tuberculosis, cystic fibrosis, chronic obstructive pulmonary disease (COPD), and lung cancer.
+
+As an immune defense mechanism, these miRNAs are programmed to make cells kill themselves if they become mutated, infected, or stressed. Furthermore, 9 of these microRNAs that SARS-CoV-2 potentially "sponges" may help the virus achieve viral loads. "Hence, the COVID-19 virus -- by its potential reduction of the host's miRNA pool -- may promote infected cell survival and thus continuity of its replication cycle," explain the authors.
+
+Conclusions
+-----------
+The authors went on to detail how the virus replicates inside an infected cell, the molecular pathways involved, and the cellular responses to it.
+
+The researchers' findings "further [support] the hypothesis that pathogenic human coronaviruses -- including the COVID-19 virus -- utilize the host miRNAs to adjust cellular processes in order to facilitate their viral protein production."
+
+--
+communicated by:
+ProMED-mail from Google Alerts
+<promed@promedmail.org>
+
+[The reference for the study discussed above: Bartoszewski R, Dabrowski M, Jakiela B, et al. SARS-CoV-2 may regulate cellular responses through depletion of specific host miRNAs [published online ahead of print, 2020 Aug 5]. Am J Physiol Lung Cell Mol Physiol. 2020; 10.1152/ajplung.00252.2020. doi:10.1152/ajplung.00252.2020; https://journals.physiology.org/doi/abs/10.1152/ajplung.00252.2020
+--------------------------------------------------------------------
+Abstract
+--------
+"Cold viruses have generally been considered fairly innocuous until the appearance of the severe acute respiratory coronavirus 2 (SARS-CoV-2) in 2019 which caused the coronavirus disease 2019 (COVID-19) global pandemic. 2 previous viruses foreshadowed that a coronavirus could potentially have devastating consequences -- in 2002 (severe acute respiratory coronavirus (SARS-CoV)) and in 2012 (Middle East respiratory syndrome coronavirus (MERS-CoV)). The question that arises is why these viruses are so different from the relatively harmless cold viruses. Based on an analysis of the current literature and using bioinformatic approaches, we examined the potential human miRNA interactions with the SARS-CoV-2's genom, and compared the miRNA target sites in seven coronavirus genomes that include SARS-CoV-2, MERS-CoV, SARS-CoV, and four non-pathogenic coronaviruses. Here, we discuss the possibility that pathogenic HCoVs [human coronaviruses] including SARS-CoV-2 could modulate host miRNA levels by acting as miRNA sponges to facilitate viral replication and/or to avoid immune responses."
+
+MicroRNAs (miRNAs) are a class of small noncoding RNAs of 18-25nt in length which are involved in the regulation of gene expression at the posttranscriptional level by degrading their target mRNAs and/or inhibiting their translation. The study above is important since miRNAs may prove to be useful in the treatment of COVID-19, and in addition, the research might shed light on immunopathogenesis. - Mod.LK]
+
+******
+[2] Epidemiological models for prediction and intervention
+Date: Sat 22 Aug 2020
+Source: Journal of Evaluation in Clinical Practice [edited]
+https://onlinelibrary.wiley.com/doi/full/10.1111/jep.13459
+
+
+ref: Maziarz M, Zach M. Agent-based modelling for SARS-CoV-2 epidemic prediction and intervention assessment: A methodological appraisal [published online ahead of print, 2020 Aug 21]. J Eval Clin Pract. 2020; 10.1111/jep.13459
+----------------------------------------------
+Abstract
+--------
+Background. Our purpose is to assess epidemiological agent‐based models -- or ABMs -- of the SARS‐CoV‐2 pandemic methodologically. The rapid spread of the outbreak requires fast‐paced decision‐making regarding mitigation measures. However, the evidence for the efficacy of non‐pharmaceutical interventions such as imposed social distancing and school or workplace closures is scarce: few observational studies use quasi‐experimental research designs, and conducting randomized controlled trials seems infeasible. Additionally, evidence from the previous coronavirus outbreaks of SARS and MERS lacks external validity, given the significant differences in contagiousness of those pathogens relative to SARS‐CoV‐2. To address the pressing policy questions that have emerged as a result of COVID‐19, epidemiologists have produced numerous models that range from simple compartmental models to highly advanced agent‐based models. These models have been criticized for involving simplifications and lacking empirical support for their assumptions.
+
+Methods. To address these voices and methodologically appraise epidemiological ABMs, we consider AceMod (the model of the COVID‐19 epidemic in Australia) as a case study of the modelling practice.
+
+Results. Our example shows that, although epidemiological ABMs involve simplifications of various sorts, the key characteristics of social interactions and the spread of SARS‐CoV‐2 are represented sufficiently accurately. This is the case because these modellers treat empirical results as inputs for constructing modelling assumptions and rules that the agents follow; and they use calibration to assert the adequacy to benchmark variables.
+
+Conclusions. Given this, we claim that the best epidemiological ABMs are models of actual mechanisms and deliver both mechanistic and difference‐making evidence. Consequently, they may also adequately describe the effects of possible interventions. Finally, we discuss the limitations of ABMs and put forward policy recommendations.
+
+--
+communicated by:
+ProMED-mail from Google Alerts
+<promed@promedmail.org>
+
+[All models must work from assumptions since so much about SARS-CoV-2 transmission is unknown. This lends uncertainty to their conclusions but highlights areas where more research is needed. Decisions regarding closures and openings of schools, businesses, workplaces in response to the level of SARS-CoV-2 activity must have a scientific basis. Good models can guide policy and assist with understanding the implications of policy decisions. - Mod.LK]
+
+******
+[3] Impact of deletion mutation on viral pathogenicity
+Date: Sat 22 Aug 2020
+Source: The Lancet [edited]
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31757-8/fulltext/
+
+
+ref: Young BE, Fong SW, Chan YH, et al. Effects of a major deletion in the SARS-CoV-2 genome on the severity of infection and the inflammatory response: an observational cohort study [published online ahead of print, 2020 Aug 18]. Lancet. 2020; S0140-6736(20)31757-8.
+------------------------------------------------------------------
+Abstract
+--------
+Background. Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) variants with a 382-nucleotide deletion (∆382) in the open reading frame 8 (ORF8) region of the genome have been detected in Singapore and other countries. We investigated the effect of this deletion on the clinical features of infection.
+
+Methods. We retrospectively identified patients who had been screened for the delta382 variant and recruited to the PROTECT study-a prospective observational cohort study conducted at seven public hospitals in Singapore. We collected clinical, laboratory, and radiological data from patients' electronic medical records and serial blood and respiratory samples taken during hospitalisation and after discharge. Individuals infected with the ∆382 variant were compared with those infected with wild-type SARS-CoV-2. Exact logistic regression was used to examine the association between the infection groups and the development of hypoxia requiring supplemental oxygen (an indicator of severe COVID-19, the primary endpoint). Follow-up for the study's primary endpoint is completed.
+
+Findings. Between [22 Jan and 21 Mar 2020], 278 patients with PCR-confirmed SARS-CoV-2 infection were screened for the ∆382 deletion and 131 were enrolled onto the study, of whom 92 (70%) were infected with the wild-type virus, 10 (8%) had a mix of wild-type and ∆382-variant viruses, and 29 (22%) had only the ∆382 variant. Development of hypoxia requiring supplemental oxygen was less frequent in the ∆382 variant group (0 [0%] of 29 patients) than in the wild-type only group (26 [28%] of 92; absolute difference 28% [95% CI 14-28]). After adjusting for age and presence of comorbidities, infection with the ∆382 variant only was associated with lower odds of developing hypoxia requiring supplemental oxygen (adjusted odds ratio 0.07 [95% CI 0.00-0.48]) compared with infection with wild-type virus only.
+
+Interpretation: The ∆382 variant of SARS-CoV-2 seems to be associated with a milder infection. The observed clinical effects of deletions in ORF8 could have implications for the development of treatments and vaccines.
+
+--
+communicated by:
+ProMED-mail from Google Alerts
+<promed@promedmail.org>
+
+[Evaluating the biological implications of mutations in SARS-CoV-2 genomes of patients with well characterized infections is important for vaccine development, as well as prognosis and treatment of the patient if discovered early in infection. - Mod.LK]
+
+******
+[4] Selected countries: 23 Aug 2020 case and death updates
+[Details for this section have been eliminated. - Mod.UBA]
+
+[A] China: National Health Commission, 84 967 total cases, 4634 deaths (16 new cases -- all imported; 25 new cases in Hong Kong)
+http://en.nhc.gov.cn/2020-08/24/c_81464.htm
+
+[B] South Korea: 17 665 confirmed cases, 309 deaths (266 new cases -- 8 imported, 258 locally transmitted)
+http://ncov.mohw.go.kr/en/bdBoardList.do?brdId=16&brdGubun=162&dataGubun=&ncvContSeq=&contSeq=&board_id=
+
+[The 11th consecutive day with greater than 100 newly confirmed cases. Notices 513 and 514 at https://www.cdc.go.kr/board.es?mid=a30402000000&bid=0030 provide details on clusters as of 22 Aug 2020. These involve multiple clusters, some faith-based, some school-based, and other areas of work or communal gatherings. Faith-based congregations are the predominant groups with cases. Of the locally transmitted cases, 97 are in Seoul and 84 are in neighboring Gyeonggi province; 15 of 17 provinces have reported locally transmitted cases. Level 2 restrictions are being implemented, with no indoor dining and no in-person church services. The KCDC requested people cancel or postpone outings, social gatherings, events, or travel plans and stay home this weekend. - Mod.UBA]
+
+[C] Italy: 259 345 total cases, 35 437 deaths [comparative 7-day averages have gone up by 140.1% from the preceding 7 days]
+https://www.albengacorsara.it/doc/dpc-covid19-ita-scheda-regioni-2020-08-23.pdf
+
+[The 7-day average comparison continues to show an increase in confirmed cases consistent with increasing transmission of the virus. - Mod.UBA]
+
+[D] Iran: 361 150 total cases, 20 776 deaths
+https://ifpnews.com/irans-covid-19-cases-exceed-360000-ministry
+
+[E] USA: 5 874 146 total cases, 180 604 deaths [comparative 7-day averages have gone down by 15.8% for daily case count and up by 3.0% for reported deaths]
+https://promedmail.org/wp-content/uploads/usa-pdf/AUG23DATASET%20US_1598272591.pdf accessed at 22:15 EDT (GMT-4) and
+https://promedmail.org/wp-content/uploads/usa-pdf/AUG23US7_1598272625.pdf
+
+[With the greater availability of antigen testing for quick results, many states are not counting those individuals as confirmed cases. Hospital-based reporting has been removed from the Centers for Disease Control and Prevention, leading to data collection and analysis irregularities. Those data are being returned to CDC moving forward so there may be changes in previous reports beginning next week. - Mod.UBA]
+
+[F] Spain: 386 054 cases, 28 838 deaths [14-day population-based rate: 149.75/100 000 -- up from 7.74 on 25 Jun 2020]
+https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Actualizacion_190_COVID-19.pdf
+
+[The 14-day average population-based rates reported by the Ministry continue to rise, consistent with the increasing daily newly confirmed cases reported by Spain. No update was posted on the Ministry of Health webpage or in Worldometer for the last 48 hours. - Mod.UBA]
+
+--
+communicated by:
+ProMED-mail
+<promed@promedmail.org>
+and
+ProMED-mail rapporteur Kunihiko Iizuka
+
+[These countries were selected on account of having had significant surges of SARS-CoV-2 infections but having responded differently. In some cases, transmission was almost interrupted, but resurgences have occurred, and countries have handled them differently. One observation is that lifting of restrictions has led to major resurgences in some areas; in others, early new threats seem to be importations, but community spread does recur. Good contact tracing has helped to shorten the time with new clusters, and temporary new restrictions have had an impact. Countries not implementing restrictions have done more poorly, with major resurgences and more widespread community-based transmission.
+
+In South Korea, it looks like major transmission is continuing. Previously, when there were major events, time-limited increased restrictions were implemented, and as of 21 Aug 2020, they are being implemented again. A key takeaway message is that the virus is still circulating globally, and relaxing of the guard (eliminating simple measures of social distancing, face masks, hand washing, and large gatherings) is an open invitation for the virus to re-enter with clusters of cases and ultimately community transmission. - Mods.MPP/UBA]
+
+******
+[5] WHO: daily new cases reported (as of 23 Aug 2020)
+Date: Sun 23 Aug 2020
+Source: WHO [abridged, edited]
+https://covid19.who.int/table
+
+
+*Daily case reports as of 23 Aug 2020
+
+Surveillance
+------------
+WHO region (no. countries/territories):
+Total confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+------------------------
+Western Pacific Region (19): 451 311 (6647) / 9870 (26)
+European Region (61): 3 970 890 (22 479) / 216 478 (273)
+South East Asia Region (10): 3 533 807 (74 368) / 67 455 (1063)
+Eastern Mediterranean Region (22): 1 816 207 (12 847) / 48 193 (332)
+Region of the Americas (54): 12 283 953 (119 269) / 438 576 (3845)
+African Region (49): 1 000 379 (8613) / 20 321 (211)
+Cases on an international conveyance (Diamond Princess): 712 (0) / 13 (0)
+
+Confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+Grand total: 23 057 288 (244 223) / 800 906 (5772)
+
+--
+communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The number of countries and territories reporting confirmed cases of COVID-19 to WHO remains at 215.
+
+Data by country, area, or territory can be accessed at https://promedmail.org/wp-content/uploads/world-pdf/WHO%20daily%20tablesAug23_1598272438.pdf.
+
+- The Americas region reported 48.8% of daily case numbers and 66.6% of the daily deaths reported in the past 24 hours, maintaining its dominance as the most severely affected region, having reported more than 12.2 million cases. USA and Brazil continue to dominate, followed by Peru, Colombia, Argentina, and Mexico.
+
+- The European region reported 9.2% of daily case numbers and 4.7% of the daily deaths reported in the past 24 hours and total cumulative cases reported exceed 3.9 million. Spain is the dominant country and is followed by Russia, France, Ukraine, Israel, Turkey, Romania, and Poland.
+
+- The Eastern Mediterranean region reported 5.3% of daily case numbers and 5.7% of the deaths reported in the past 24 hours, having reported a cumulative total of greater than 1.8 million cases. Iraq continues to dominate, followed by Iran, Morocco, Saudi Arabia, Pakistan, Kuwait, and Lebanon.
+
+- The African region reported 3.5% of daily case numbers and 3.6% of the deaths reported in the past 24 hours and crossed the 1 million cases landmark. South Africa continues to dominate followed by Ethiopia, Nigeria, Kenya, and Algeria.
+
+- The Western Pacific region reported 2.7% of daily case numbers and 0.45% of the deaths reported in the past 24 hours, having reported a cumulative total of 0.45 million cases. The Philippines continues to dominate, followed by Japan, South Korea, and Australia. Viet Nam and New Zealand continue to report newly confirmed cases (5 and 3, respectively) following the new outbreaks identified in the past few weeks.
+
+- The South East Asia region reported 30.4% of the daily newly reported cases and 18.4% of reported deaths in the past 24 hours, having reported a cumulative total of more than 3.5 million cases. India continues to be the driving force of the dominance of this region, followed by Bangladesh and Indonesia.
+
+Impression: The overall picture is basically the same. The ordering of the regions has the Americas having the highest disease load and newly confirmed cases on a daily basis followed by the South East Asia region, then Europe followed by the Eastern Mediterranean, followed by the Africa region, and the Western Pacific region representing the lowest daily caseload of all the regions. While regional proportions may not reflect this, most of the regions have countries with resurgences associated with lifting of restrictions.
+
+On the overview tab at the WHO source URL, the epidemic curve of confirmed COVID-19 cases by WHO region, 30 Dec 2019 through 23 Aug 2020, is the same epidemic curve included in the previous situation updates and is an excellent visual representation of the epidemic as described in the text above. - Mod.UBA]
+
+******
+[6] Global update: Worldometer accessed 23 Aug 2020 21:59 EDT (GMT-4)
+Date: Sun 23 Aug 2020
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at https://promedmail.org/wp-content/uploads/world-pdf/AUG23WORLDDATASET_1598272512.pdf
+
+A 7-day series of cumulative reported by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/AUG23WORLD7_1598272551.pdf. - Mod.UBA]
+
+Total number of reported deaths: 812 487
+Total number of worldwide cases: 23 582 985
+Number of newly confirmed cases in the past 24 hours: 205 179
+
+--
+communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The USA, Brazil, and India are still the most severely affected countries in terms of cumulative case counts and daily new case confirmations. In the past 24 hours, these 3 countries -- India (61 749), followed by the USA (32 718), and Brazil (23 085) -- account for over half of all confirmed cases globally (56.8%). There were 5349 deaths reported in the past 24 hours (22-23 Aug 2020).
+
+In descending rank order, India is number one for the number of newly confirmed in the past 24 hours, followed by the USA, Brazil, Peru, Colombia, Mexico, Argentina, France, Russia, Iraq, South Africa, Philippines, and Iran. The range in the top 10 daily newly confirmed goes from 2113 to 61 749. Other hotspots are seen in the countries numbered 11-20 in this list: Indonesia, Ukraine, Bangladesh, Chile, Ethiopia, Morocco, Panama, Turkey, and Italy; and their range of reported new cases is 1209 to 2037. A total of 28 countries have reported more than 1000 newly confirmed cases in the past 24 hours.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, there is very little change in the average number of daily reported cases (a decrease of 0.98%), while daily reported deaths have increased by 2.3%. The key question remains as to whether transmission is in fact slowing down or whether these figures reflect reporting artifact seen surrounding weekends. Time will tell, but following the data reports showing major surges in countries that had been showing successes makes one wonder what is driving these reporting variances (We haven't changed our minds! -- We feel like a broken record here...).
+
+Impression: Basically unchanged from previous discussions -- the SARS-CoV-2 is still actively being transmitted in all regions of the world, and many countries are showing increases in their daily newly confirmed case counts and mortality, while the global 7-day averages seem to reflect a slowing down of reporting confirmed cases; however, I still wonder whether this is real or reflects a changing pattern with decreased testing or case reporting. For example, the USA reported data suggest a slowing down of transmission over the past 2 weeks as seen by the comparative 7-day averages in reported new cases (see section [4E] above), but if one looks at the percentage of positive PCR tests, in the past 3 weeks the positivity rate has been stable at 9%, consistent with significant ongoing transmission that is not abating (see https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/testing-in-us.html). The most severely affected region is the Americas, with increasing daily case counts, even though the comparative 7-day average suggests things may be slowing down (or reporting is slowing down). India also drives the next most affected region -- South East Asia -- with persistent high daily case reports. - Mod.UBA]
+See Also
+COVID-19 update (371): remdesivir vs standard care, countries, WHO, global 20200823.7707596
+COVID-19 update (370): USA severe illness risk, saliva vs DNS vs ANS, WHO, global 20200822.7704511
+COVID-19 update (369): India CHWs face shields, social distancing, WHO, global 20200821.7700947
+COVID-19 update (368): testing, countries, WHO, global 20200820.7698002
+COVID-19 update (367): UK type 1 diabetes, age distributions, WHO, global 20200819.7693354
+COVID-19 update (366): animal, USA (UT) mink 20200818.7692815
+COVID-19 update (365): Germany case data, countries, WHO, global 20200818.7690696
+COVID-19 update (364): USA (NC, NY) animal, dog, comment 20200818.7689234
+COVID-19 update (363): animal, Denmark (ND) Netherlands (NB, LI) mink, spread 20200817.7687830
+COVID-19 update (362): immunity duration, UK serosurvey, WHO, global 20200817.7685469
+COVID-19 update (361): tuberculosis, pandemics, selected countries, WHO, global 20200816.7683792
+COVID-19 update (360): USA (NC, NY) animal, dog, comment 20200815.7681907
+COVID-19 update (350): USA (TX) animal, cat 20200808.7658191
+COVID-19 update (340): animal, China, envir monitoring, Netherlands (NB), mink 20200801.7635820
+COVID-19 update (330): China (Hong Kong) animal, cat, OIE 20200724.7609215
+COVID-19 update (320): Africa, selected countries, WHO, global 20200717.7583377
+COVID-19 update (310): Kazakhstan pneumonia, selected countries, WHO, global, RFI 20200710.7560034
+COVID-19 update (300): Korea antibodies, China asymptomatic index case, WHO 20200703.7536146
+COVID-19 update (250): selected countries 20200610.7448037
+COVID-19 update (200): global, Yemen, WHO 20200522.7364937
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+Undiagnosed pediatric inflammatory syndrome (05): Europe, USA, COVID-19 assoc 20200518.7340554
+Undiagnosed pediatric inflammatory syndrome (04): USA, UK, PMIS, fatal 20200509.7315405
+Undiagnosed pediatric inflammatory syndrome (03): USA, Europe, COVID-19 susp, RFI 20200505.7299876
+COVID-19 update (150): global, USA state prisons, WHO 20200502.7290671
+COVID-19 update (100): China, S. Korea & high local transmission countries 20200413.7217806
+COVID-19 update (50): China (Hong Kong) animal dog, 2nd case PCR positive, OIE 20200323.7129951
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (41): China, global, clinical pics, asymptomatic trans., WHO 20200210.6976117
+Novel coronavirus (40): animal reservoir, pangolin poss intermediate host, RFI 20200210.6972104
+Novel coronavirus (30): updates, China, Viet Nam, research 20200202.6945658
+Novel coronavirus (20): China, wildlife trade ban 20200127.6922060
+Novel coronavirus (10): China (HU, GD, BJ) 20200119.6898567
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia: China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia: China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+---
+Undiagnosed pneumonia: China (HU): RFI 20191230.6864153
+and other items in the archives
+.................................................sb/lk/uba/mj/sh
+</body>

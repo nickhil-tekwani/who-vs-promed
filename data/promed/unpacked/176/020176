@@ -1,0 +1,162 @@
+<header id=020176>
+Published Date: 2020-01-25 09:52:26 EST
+Subject: PRO/AH/EDR> Novel coronavirus (18): China (HU) animal reservoir
+Archive Number: 20200125.6915411
+</header>
+<body id=020176>
+NOVEL CORONAVIRUS (18): CHINA (HUBEI) ANIMAL RESERVOIR
+******************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this posting:
+[1] Research: bats considered as primary reservoir of 2019-nCoV
+[2] 2019-nCoV genome, origins and mutations discussed
+[3] EcoHealth Alliance's president interviewed
+
+******
+[1] Research: bats considered as primary reservoir of 2019-nCoV
+Date: Thu 23 Jan 2020
+Source: bioRxiv preprint [edited]
+https://www.biorxiv.org/content/10.1101/2020.01.22.914952v2.full.pdf
+
+
+Citation: Zhou P, Yang X-L, Wang X-G, et al. Discovery of a novel coronavirus associated with the recent pneumonia outbreak in 2 humans and its potential bat origin. bioRxiv [23 Jan 2020]. https://doi.org/10.1101/2020.01.22.914952
+
+Abstract
+--------
+Since the SARS outbreak 18 years ago, a large number of severe acute respiratory syndrome-related coronaviruses (SARSr-CoV) have been discovered in their natural reservoir host, bats. Previous studies indicated that some of those bat SARSr-CoVs have the potential to infect humans. Here we report the identification and characterization of a novel coronavirus (2019-nCoV) that caused an epidemic of acute respiratory syndrome in humans in Wuhan, China. The epidemic, started from 12 Dec 2019, has caused 198 laboratory-confirmed infections with 3 fatal cases by 20 Jan 2020. Full-length genome sequences were obtained from 5 patients at the early stage of the outbreak. They are almost identical to each other and share 79.5% sequence identify to SARS-CoV. Furthermore, it was found that 2019-nCoV is 96% identical at the whole genome level to a bat coronavirus. The pairwise protein sequence analysis of 7 conserved non-structural proteins show that this virus belongs to the species of SARSr-CoV. The 2019-nCoV virus was then isolated from the bronchoalveolar lavage fluid of a critically ill patient, which can be neutralized by sera from several patients. Importantly, we have confirmed that this novel CoV uses the same cell entry receptor, ACE2, as SARS-CoV.
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The above research has been performed by the Center of Emerging Infectious Diseases at the Wuhan Institute of Virology (WIV), Chinese Academy of Sciences (CAS). For some background on the Center and its previous research of coronavirus in China's bats, see commentary in 20200123.6909913. - Mod.AS]
+
+******
+[2] 2019-nCoV genome, origins and mutations discussed
+Date: Fri 24 Jan 2020
+Source: STAT News [abridged, edited]
+https://www.statnews.com/2020/01/24/dna-sleuths-read-coronavirus-genome-tracing-origins-and-mutations/
+
+
+Since the sequencing of the 1st 2019-nCoV sample, from an early patient, scientists have completed nearly 2 dozen more, said Andrew Rambaut of the University of Edinburgh, an expert on viral evolution. That pace is "unprecedented and completely unbelievable," said Andersen [molecular biologist Kristian Andersen of Scripps Research, an expert on viral genomes], who worked on sequencing the Ebola genome during the 2014 outbreak. "It's just insane."
+
+The genome of the Wuhan virus is 29 903 bases long, one of many clues that have led scientists to believe it is very similar to SARS.
+
+By comparing the 2 dozen genomes, scientists can address the "when did this start" question. The 24 available samples, including from Thailand and Shenzhen as well as Wuhan, show "very limited genetic variation," Rambaut concluded on an online discussion forum where virologists have been sharing data and analyses. "This is indicative of a relatively recent common ancestor for all these viruses."
+
+Given what's known about the pace at which viral genomes mutate, if nCoV had been circulating in humans since significantly before the 1st case was reported on 8 Dec 2019, the 24 genomes would differ more. Applying ballpark rates of viral evolution, Rambaut estimates that the Adam (or Eve) virus from which all others are descended 1st appeared no earlier than 30 Oct 2019, and no later than 29 Nov 2019.
+
+The progenitor virus itself was almost certainly one that circulates harmlessly in bats (as SARS does) but has an "intermediate reservoir" in one or more animals that come into contact with people, Andersen said. Presumably, that reservoir is one of the species of animals at the Wuhan market thought to be ground zero for the outbreak. The ancestor of 2019-nCoV existed in that species for some unknown time, never infecting people, until by chance a single virus acquired a mutation that made it capable of jumping into and infecting humans.
+
+The genome sequences suggest that was a one-time-only jump. "The genomes [from the 24 samples] are very uniform," Andersen said. "If there had been multiple introductions," including from many different animals, "there would be more genomic diversity. This was a single introduction."
+
+That means that what's sustaining the spread is human-to-human transmission (suggesting that closing Wuhan's animal market is very much an after-the-horse-has-fled-the-barn reaction).
+
+Unfortunately, genetic analysis can't identify what animal species the coronavirus jumped from into humans. But an analysis by a team from the Wuhan Institute of Virology, posted to the preprint server bioRxiv [see item 1], determined that the genome of this coronavirus (the 7th known to infect humans) is 96% identical to that of a bat coronavirus, suggesting that species is the original source. (Writing in the New England Journal of Medicine on Friday [24 Jan 2020], another team of scientists in China reported that the new coronavirus is 86.9% identical to the bat SARS-like coronavirus.) [reference below].
+
+[Byline: Sharon Begley]
+
+--
+Communicated by:
+Mary Marshall
+<mjm2020@googlemail.com>
+
+[NEJM citation: Zhu N, Zhang D, Wang W, et al. A novel coronavirus from patients with pneumonia in China, 2019. N Engl J Med [Epub 24 Jan 2020] https://www.nejm.org/doi/full/10.1056/NEJMoa2001017]
+
+******
+[3] EcoHealth Alliance's president interviewed
+Date: Fri 24 Jan 2020
+Source: The Scientist [abridged, edited]
+https://www.the-scientist.com/news-opinion/where-coronaviruses-come-from-67011
+
+
+The Scientist spoke with Peter Daszak, the president of the nonprofit EcoHealth Alliance and an infectious disease researcher who's done extensive research on emerging viruses in China and elsewhere. He talked with us about how 2019-nCoV fits in with other coronaviruses, including the virus that causes SARS, and how future events might be prevented.
+
+The Scientist (TS): Can you give me an overview of what is known generally on the evolution of coronaviruses and how they manage to make the leap to a new species?
+
+Peter Daszak (PD): There's a lot being done on how coronaviruses infect people from animals because we've had a few events where they've jumped from animals into people, including from livestock. So for MERS, we know the real key is to know what the host cell receptor is -- that's the protein on the surface of cells that viruses bind to and invade. So if we share the same cell surface receptor that the virus uses in bats or in camels or in pigs, then there's a risk of that virus invading us.
+
+For SARS coronavirus, the cell surface receptor is called ACE2, angiotensin converting enzyme 2. We share that with bats, and [the virus] uses the same receptor [in bats and humans]. And because this paper just came out from the Wuhan [Institute of Virology] group, we now know that the new virus also uses that same surface receptor. [Editor's note: Daszak regularly collaborates with 2 of the main authors of the paper but was not involved in that study.]
+
+So there's a few clues as to why this virus jumped, but that's the biochemical basis for its ability to get into people.
+
+There is a very big diversity of these [corona]viruses in the wild. We've been looking at bats ever since the SARS outbreak because we're the group that found bats are the real reservoir for SARS, not civets, that was originally thought. And what we found is there's this big diversity: We've found over 50 SARS-related coronaviruses in bats.
+
+The worrying thing is some of [the viruses] you can treat with vaccines and therapies that have been developed against SARS and it works, but [with] other viruses from bats, those therapeutics don't work. So we've been saying for a while now that there are groups of viruses in bats that could be a risk, and in fact, one of them, we developed an antibody test and we went to communities in Yunnan Province [in] rural southwest China, and [tested] people who live near bat colonies where we'd found these viruses. We found a 3% prevalence of exposure to bat viruses, suggesting that all the time across the region, bat viruses are getting into people and either infecting them with a mild infection [with] no clinical signs or causing respiratory illness that never gets diagnosed properly. So this outbreak is probably just one of a number of spillover events that have happened in south China.
+
+TS: Is it known what factors determine whether a spillover event will become much bigger, like what's happened in Wuhan?
+
+PD: There's a virological side to it, and then there's a human dimension to it as well -- a population-level dimension. [On] the virology side, it's pretty clear that some of these viruses don't bind very well and have trouble developing a raging infection. And some of them do and it's difficult to predict that.
+
+From a human population side, I think the real issue is if one of these viruses gets into a wildlife market where the chance of one animal infecting multiple people is much higher, that's where the risk is highest. If you think about a bat cave in Yunnan, people don't go into the cave much. The bats fly out of the cave and eat food, they eat insects in the surrounding villages. So the interface expands to a few thousand people. But still, it's a low probability of the virus getting in, because it [requires] exposure to feces -- in bats, these viruses are within the intestine. But if you start hunting bats in the cave, and then you bring them into a market live, then the bats are shedding feces in the market. And then you can infect things like civets and pigs and people. Or if a bat starts foraging for insects around a farm like a pig farm, and pigs get infected, or some of the other animals in the farm, [like] civets and bamboo rats, then suddenly you've got 100 animals infected, [and] you can infect a lot more people. I wouldn't be surprised if we find out somewhere in the next few weeks that actually the initial exposure was from another animal -- it's bats, then to another animal, then to people.
+
+TS: How does the finding that this new virus is related to SARS figure into efforts to contain it?
+
+PD: To my mind, what this work [the phylogeny of 2019-nCoV] shows is that the new virus is not as dramatically different as we thought it might be. It's part of a cluster of viruses from bats. Within that cluster, we had a previous pandemic strain, which is SARS, and we've now got a new pandemic strain, which is Wuhan novel coronavirus. I expect within that cluster there are other viruses that can cause pandemics, and that's the big lesson: We've got clear and present danger. We've known about it for 15 years. We should be focused on this group like a laser, looking at every possible way these viruses can get into people and trying to do work to prevent that spillover. Because the big threat here is that we don't yet have good vaccines or good drugs that will beat SARS, let alone a relative of SARS that is slightly different.
+
+The other big lesson is that there are simple ways we can reduce risk, and you don't have to close the markets. What you've got to do is do better surveillance within the markets. We've got to find all these viruses in bats, get the sequences in the labs, get the viruses in the lab, and start working on new drugs -- and deal with sanitation conditions. Wearing of gloves, washing of hands for people who work in markets and handle these animals, and people who live near bat colonies.
+
+TS: You're suggesting that we should be working on developing drugs for things that haven't infected people yet but that we think have the potential to?
+
+PD: Absolutely. We've been saying that for a few years now. If we really believe that pandemics are going to emerge again, and we've got good evidence for that, we're not saying spend billions of dollars creating a new drug for [a specific] virus; what we're saying is, look at the drugs we're developing against SARS. And instead of just focusing on that one virus, let's treat this whole clade as a threat, and let's make sure those drugs work against this whole clade. And that might mean tweaking some of those monoclonal antibody therapies or tweaking those vaccines a little bit to make them broader. It doesn't mean completely changing track. I just think that if we spend a few hundred million dollars creating a SARS vaccine and find it doesn't work on the next virus to emerge, we've just wasted a few hundred million dollars and we will lose lives because of that. So to me, that's just common sense and a no brainer.
+
+TS: Is there anything you'd like to add?
+
+PD: The big picture to us is, we should treat these pandemics as a public health problem. When we think about heart disease, we know the cause of heart disease. And the answer to heart disease is not to wait until you get it and then treat it. The answer is to change your habits before [you] get it. And I think we need to treat pandemics the same way on a global scale. We need to think about the underlying drivers, whether that's wildlife for food or deforestation or road building into the tropics, mines in the middle of the forest. These are the things that lead to new outbreaks. And they're the things we need to focus intently on and say, let's change our behavior around them. We don't need to stop doing them. We need to do them in a safer, smarter way.
+
+The Scientist Editor's note: This interview has been edited for length and clarity.
+
+[Byline: Shawna Williams]
+
+--
+Communicated by:
+Mary Marshall
+<mjm2020@googlemail.com>
+
+[The animal-related aspects of 2019-nCoV are yet to be fully clarified. This has been conveniently summarised in the editorial of the recent NEJM issue:
+
+"Given the close similarity [of 2019-nCoV] to bat coronaviruses, it is likely that bats are the primary reservoir for the virus. SARS-CoV was transmitted to humans from exotic animals in wet markets, whereas MERS-CoV is transmitted from camels to humans. In both cases, the ancestral hosts were probably bats. Whether 2019-nCoV is transmitted directly from bats or by means of intermediate hosts is important to understand and will help define zoonotic transmission patterns" (https://tinyurl.com/uurzljt).
+
+A One Health approach is necessary for the achievement of that goal. - Mod.AS
+
+HealthMap/ProMED-mail map:
+Hubei Province, China: https://promedmail.org/promed-post?place=6915411,340]
+See Also
+Novel coronavirus (17): China (HU), France, USA ex China, Viet Nam p2p trans. 20200125.6914553
+Novel coronavirus (16): China (HU) Viet Nam, Singapore ex China, IHR committee WHO 20200123.6910685
+Novel coronavirus (15): China (HU) wild animal sources 20200123.6909913
+Novel coronavirus (14): China (HU), Hong Kong, Macau ex China 20200122.6907971
+Novel coronavirus (13): China (HU) USA ex China 20200121.6903878
+Novel coronavirus (12): China (HU) new fatality, healthcare workers, WHO 20200121.6901757
+Novel coronavirus (11): China (HU), South Korea ex China 20200120.6899007
+Novel coronavirus (10): China (HU, GD, BJ) 20200119.6898567
+Novel coronavirus (09): China, 1st diagnostic test 20200119.6897998
+Novel coronavirus (08): China (HU) more cases, Nepal susp, modeling 20200118.6897282
+Novel coronavirus (07): China (HU), Thailand ex China, Japan ex China, WHO 20200117.6895647
+Novel coronavirus (06): China (HU) fatality, Japan ex China, antipyretic use 20200116.6893471
+Novel coronavirus (05): China (HU), Japan ex China 20200115.6891515
+Novel coronavirus (04): China (HU), Thailand ex China, WHO 20200114.6889527
+Novel coronavirus (03): China (HU) animal reservoir suggested, RFI 20200114.6887480
+Novel coronavirus (02): Thailand ex China (HU) WHO 20200113.6886644
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia - China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia - China (HU) (09): novel coronavirus, more info, fatality 20200110.6883253
+Undiagnosed pneumonia - China (HU) (08): novel coronavirus, WHO 20200110.6881082
+Undiagnosed pneumonia - China (HU) (07): official confirmation of novel coronavirus 20200108.6878869
+Undiagnosed pneumonia - China (06): (HU) Hong Kong surveillance, USA CDC alert 20200108.6876648
+Undiagnosed pneumonia - China (05): (HU) novel coronavirus identified 20200108.6877694
+Undiagnosed pneumonia - China (04): (HU) Hong Kong surveillance 20200106.6874277
+Undiagnosed pneumonia - China (03): (HU) updates, SARS, MERS ruled out, WHO, RFI 20200105.6872267
+Undiagnosed pneumonia - China (02): (HU) updates, other country responses, RFI 20200103.6869668
+Undiagnosed pneumonia - China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+----
+Undiagnosed pneumonia - China: (HU) RFI 20191230.6864153
+.................................................arn/rd/lxl
+</body>

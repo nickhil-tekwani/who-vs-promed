@@ -1,0 +1,251 @@
+<header id=033018>
+Published Date: 2022-04-03 12:08:24 EDT
+Subject: PRO/AH/EDR> COVID-19 update (88): children, Sweden, diabetes risk, WHO, global
+Archive Number: 20220403.8702366
+</header>
+<body id=033018>
+CORONAVIRUS DISEASE 2019 UPDATE (88): CHILDREN, SWEDEN, DIABETES RISK, WHO, GLOBAL
+**********************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] Children under 5 years
+[2] Sweden: natural infection
+[3] Diabetes risk
+[4] WHO: daily new cases reported (as of 1 Apr 2022)
+[5] Global update: Worldometer accessed 1 Apr 2022 19:22 EST (GMT-5)
+
+******
+[1] Children under 5 years
+Date: Fri 1 Apr 2022
+Source: JAMA Network [abridged, edited]
+<tinyurl.com/3szzrbu3>
+
+
+Citation: Wang L, Berger NA, Kaelber DC, et al. Incidence rates and clinical outcomes of SARS-CoV-2 infection with the omicron and delta variants in children younger than 5 years in the US. JAMA Pediatr. 2022; doi:10.1001/jamapediatrics.2022.0945
+--------------------------------------------------------------------------------
+
+With the omicron variant (B.1.1.529), SARS-CoV-2 infections and hospitalizations reached record levels (1 [see source URL for complete references, tables and figures]). Children younger than 5 years may be especially vulnerable because they are not eligible for COVID-19 vaccination (2). We examined incidence rates and clinical outcomes of omicron infection before and after micron became the predominant variant in the United States.
+
+Results
+-------
+This cohort study included a total of 651 640 children younger than 5 years: [1] omicron cohort, 22 772 children; [2] delta cohort, 66 692 children; and [3] delta2 cohort, 10 496 children. The monthly incidence rate of SARS-CoV-2 infections was mostly stable (1.0-1.5 cases per 1000 persons per day) between September and November 2021 (delta-predominant period) but rapidly increased to 2.4 to 5.6 cases per 1000 persons per day in December 2021, coincident with the emergence of omicron variant. Monthly incidence rate of SARS-CoV-2 infections peaked at 8.6 cases per 1000 persons per day in the 1st half of January 2022 (omicron-predominant period) and 8.2 in the 2nd half of January 2022. Incidence rate of omicron infection was higher in children aged 0 to 2 years than in those aged 3 to 4 years. Omicron cohort was younger and with fewer comorbidities than delta cohort, but differences were eliminated after matching (Table). Risks for severe clinical outcomes in children infected with omicron variant were significantly lower than those in the matched delta cohort (Figure, A), whereas the risks for severe clinical outcomes in delta2 cohort did not differ from those in delta cohort (Figure, B). There were fewer than 10 deaths in all cohorts.
+
+Discussion
+----------
+Results of this cohort study suggest that the incidence rate of SARS-CoV-2 infection with omicron variant was 6 to 8 times that of delta variant in children younger than 5 years, but severe clinical outcomes were less frequent than with delta variant. Study limitations include potential biases introduced by the observational and retrospective analyses of electronic health records and the need for validation of the results from other data. Study findings may inform risk-benefit considerations about in-person school attendance, mask use, and vaccination implementation for young children.
+
+--
+Communicated by:
+ProMED
+
+******
+[2] Sweden: natural immunity
+Date: Thu 31 Mar 2022
+Source: Lancet Infectious Disease [edited]
+https://bit.ly/3u1XsH1
+
+
+Citation: Nordström P, Ballin M, Nordström A. Risk of SARS-CoV-2 reinfection and COVID-19 hospitalisation in individuals with natural and hybrid immunity: a retrospective, total population cohort study in Sweden. Lancet Infect Dis. 2022; https://doi.org/10.1016/S1473-3099(22)00143-8
+--------------------------------------------------------------------------------
+
+Summary
+------
+Background: Real-world evidence supporting vaccination against COVID-19 in individuals who have recovered from a previous SARS-CoV-2 infection is sparse. We aimed to investigate the long-term protection from a previous infection (natural immunity) and whether natural immunity plus vaccination (hybrid immunity) was associated with additional protection.
+
+Methods: In this retrospective cohort study, we formed 3 cohorts using Swedish nationwide registers managed by the Public Health Agency of Sweden, the National Board of Health and Welfare, and Statistics Sweden. Cohort 1 included unvaccinated individuals with natural immunity matched pairwise on birth year and sex to unvaccinated individuals without natural immunity at baseline. Cohort 2 and cohort 3 included individuals vaccinated with one dose (one-dose hybrid immunity) or 2 doses (2-dose hybrid immunity) of a COVID-19 vaccine, respectively, after a previous infection, matched pairwise on birth year and sex to individuals with natural immunity at baseline. Outcomes of this study were documented SARS-CoV-2 infection from 20 Mar 2020 until 4 Oct 2021, and inpatient hospitalisation with COVID-19 as main diagnosis from 30 Mar 2020 until 5 Sep 2021.
+
+Findings: Cohort 1 comprised 2 039 106 individuals; cohort 2, 962 318 individuals; and cohort 2 and 3, 567 810 individuals. During a mean follow-up of 164 days (SD 100), 34 090 individuals with natural immunity in cohort 1 were registered as having had a SARS-CoV-2 reinfection compared with 99 168 infections in non-immune individuals; the numbers of hospitalisations were 3195 and 1976, respectively. After the first 3 months, natural immunity was associated with a 95% lower risk of SARS-CoV-2 infection (adjusted hazard ratio [aHR] 0.05 [95% CI 0.05-0.05] p < 0.001) and an 87% (0.13 [0.11-0.16]; p < 0.001) lower risk of COVID-19 hospitalisation for up to 20 months of follow-up. During a mean follow-up of 52 days (SD 38) in cohort 2, 639 individuals with one-dose hybrid immunity were registered with a SARS-CoV-2 reinfection compared with 1662 individuals with natural immunity (numbers of hospitalisations were 8 and 113, respectively). One-dose hybrid immunity was associated with a 58% lower risk of SARS-CoV-2 reinfection (aHR 0.42 [95% CI 0.38-0.47]; p < 0.001) than natural immunity up to the first 2 months, with evidence of attenuation thereafter up to 9 months (p < 0.001) of follow-up. During a mean follow-up of 66 days (SD 53) in cohort 3, 438 individuals with 2-dose hybrid immunity were registered as having had a SARS-CoV-2 reinfection compared with 808 individuals with natural immunity (numbers of hospitalisations were 6 and 40, respectively). Two-dose hybrid immunity was associated with a 66% lower risk of SARS-CoV-2 reinfection (aHR 0.34 [95% CI 0.31-0.39]; p < 0.001) than natural immunity, with no significant attenuation up to 9 months (p = 0.07). To prevent one reinfection in the natural immunity cohort during follow-up, 767 individuals needed to be vaccinated with 2 doses. Both one-dose (HR adjusted for age and baseline date 0.06 [95% CI 0.03-0.12]; p < 0.001) and 2-dose (HR adjusted for age and baseline date 0.10 [0.04-0.22]; p < 0.001) hybrid immunity were associated with a lower risk of COVID-19 hospitalisation than natural immunity.
+
+Interpretation: The risk of SARS-CoV-2 reinfection and COVID-19 hospitalisation in individuals who have survived and recovered from a previous infection remained low for up to 20 months. Vaccination seemed to further decrease the risk of both outcomes for up to 9 months, although the differences in absolute numbers, especially in hospitalisations, were small. These findings suggest that if passports are used for societal restrictions, they should acknowledge either a previous infection or vaccination as proof of immunity, as opposed to vaccination only.
+
+--
+Communicated by:
+ProMED
+
+******
+[3] Diabetes risk
+Date: Thu 31 Mar 2022
+Source: Nature [edited]
+https://www.nature.com/articles/d41586-022-00912-y
+
+
+People who get COVID-19 have a greater risk of developing diabetes up to a year later, even after a mild SARS-CoV-2 infection, compared with those who never had the disease, a massive study (1) of almost 200 000 people shows. The research, published in The Lancet Diabetes & Endocrinology earlier this month [March 2022], is one of a growing number of studies (2) showing that COVID-19 can increase a person's risk of diabetes, months after infection.
+
+"When this whole pandemic recedes, we're going to be left with the legacy of this pandemic -- a legacy of chronic disease" for which healthcare systems are unprepared, says study co-author Ziyad Al-Aly, chief researcher for the Veterans Affairs (VA) St Louis Healthcare System in Missouri.
+
+Al-Aly and Yan Xie, an epidemiologist also at the VA St Louis Healthcare System, looked at the medical records of more than 180 000 people who had survived for longer than a month after catching COVID-19. They compared these with records from 2 groups, each of which comprised around 4 million people without SARS-CoV-2 infection who had used the VA healthcare system, either before or during the pandemic. The pair previously used a similar method to show that COVID-19 increases the risk of kidney disease (3), heart failure and stroke (4).
+
+The latest analysis found that people who had had COVID-19 were about 40% more likely to develop diabetes up to a year later than were veterans in the control groups. That meant that for every 1000 people studied in each group, roughly 13 more individuals in the COVID-19 group were diagnosed with diabetes. Almost all cases detected were type 2 diabetes, in which the body becomes resistant to or doesn't produce enough insulin.
+
+The chance of developing diabetes rose with increasing severity of COVID-19. People who were hospitalized or admitted to intensive care had roughly triple the risk compared with control individuals who did not have COVID-19.
+
+Even people who had mild infections and no previous risk factors for diabetes had increased odds of developing the chronic condition, says Al-Aly. Of the people with COVID-19 who avoided hospitalization, an extra 8 people out of every 1000 studied had developed diabetes a year later compared with people who were not infected. People with a high body-mass index, a measure of obesity -- and a considerable risk factor for type 2 diabetes -- had more than double the risk of developing diabetes after a SARS-CoV-2 infection.
+
+Given the extraordinary number of COVID-19 cases globally -- 480 million confirmed cases and counting -- the modest increase in diabetes risk could correspond to a drastic rise in the number of people diagnosed with the disease worldwide, if the observed trends hold true, says Jonathan Shaw, an epidemiologist at the Baker Heart and Diabetes Institute in Melbourne, Australia.
+
+But the findings might not translate to other groups of people. The US veterans in the study were mostly older, white men, many of whom had elevated blood pressure and were overweight, putting them at high risk of developing diabetes, says Gideon Meyerowitz-Katz, an epidemiologist studying diabetes at the University of Wollongong in Australia. But that risk is much lower in younger people, he says, and higher in some other ethnic groups.
+
+And it's possible that some people in the control group had undetected mild or asymptomatic COVID-19 but were never tested, potentially skewing the data, Al-Aly adds.
+
+Other factors might also be contributing to the apparent rise in diabetes among people who recovered from COVID-19, says Shaw. Existing cases of diabetes might have gone undetected until people sought medical care for COVID-19.
+
+Early in the pandemic, researchers raised concerns based on anecdotal reports in young people and children that SARS-CoV-2, like other viruses, might damage cells in the pancreas that produce insulin, triggering type 1 diabetes.
+
+But data on a link between SARS-CoV-2 infection and newly diagnosed cases of type 1 diabetes remain mixed. Several studies (5-7) have found no evidence that the disease is causing the uptick in cases of type 1 diabetes in younger adults or children. And a laboratory study published in February [2022] also challenged the idea that SARS-COV-2 destroys insulin-producing pancreatic cells (8).
+
+A lingering question is whether the metabolic changes observed in people who had COVID-19 persist after one year. More research is needed to clarify long-term trends in new-onset diabetes at a population level and to tease apart what might be causing them, says Shaw.
+
+[Byline: Clare Watson]
+
+--
+Communicated by:
+ProMED
+
+[The citation of the above-mentioned study:
+Xie Y, Al-Aly Z. Risks and burdens of incident diabetes in long COVID: a cohort study. Lancet Diabetes Endocrinol. 2022; https://doi.org/10.1016/S2213-8587(22)00044-4 (2022)
+
+This study and others suggest following acute COVID, patients and their doctors should be on the alert for symptoms of diabetes, even though there is some controversy as to whether this sequela is COVID-induced. Other long-term effects that seem to be associated with long COVID also need to be followed closely. Individuals should be informed to pay attention to their general health after recovering from acute infection.
+
+See the source publication for complete reference citations. - Mod.LK]
+
+******
+[4] WHO: daily new cases reported (as of 1 Apr 2022)
+Date: Fri 1 Apr 2022
+Source: WHO [abridged, edited]
+https://covid19.who.int/table
+
+
+*Daily case reports as of 1 Apr 2022 16:48 CET
+
+Surveillance
+------------
+WHO region (no. countries/territories):
+Total confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+--------------------------------------------------------------------------------
+Western Pacific Region (19): 46 071 142 (527 512) / 211 262 (826)
+European Region (61): 202 693 049 (718 203) / 1 940 630 (1450)
+South-East Asia Region (10): 57 130 457 (33 699) / 778 986 (220)
+Eastern Mediterranean Region (22): 21 576 432 (3789) / 340 628 (62)
+Region of the Americas (54): 150 709 372 (105 798) / 2 700 130 (1785)
+African Region (49): 8 580 381 (2812) / 171 086 (24)
+Cases on an international conveyance: 764 (0) / 13 (0)
+
+Confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+Grand total: 486 761 597 (1 391 813) / 6 142 735 (4367)
+
+--
+Communicated by:
+ProMED
+
+[Data by country, area, or territory for 1 Apr 2022 can be accessed at https://promedmail.org/wp-content/uploads/world-pdf/2022%20WHO%20Data%20Tables%20APR1_1648929003.pdf.
+
+- The Americas region reported 7.6% of cases and 40.8% of deaths during the past 24 hours, having reported more than 150.70 million cases, 2nd to the European region as the most severely affected region. The USA reported 50 317 cases in the last 24 hours, followed by Brazil. A total of 5 countries reported more than 1000 cases (Chile, Canada , Uruguay, Martinique, and Guatemala). Additionally, Cuba, Peru, and Costa Rica reported more than 500 but fewer than 1000 cases. Argentina, Ecuador, Bolivia, and Paraguay, among others, did not report any cases over the last 24 hours.
+
+- The European region reported 51.6% of cases and 33.2% of deaths over the last 24 hours, as the most affected region, with cumulative cases exceeding 202.69 million. Some countries reporting few or no cases in the last 24 hours or longer include Spain, Belgium (21), Switzerland (21), and Tajikistan, among others. A total of 31 countries reported more than 1000 cases in the past 24 hours, with 2 countries reporting more than 100 000 cases, 9 reporting more than 10 000, and 20 reporting over 1000 cases, while 2 countries reported more than 500 but fewer than 1000 cases.
+
+- The Eastern Mediterranean region reported 0.27% of daily case numbers and 1.4% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 21.57 million cases. Iran (2487) reported the highest number of cases over the last 24 hours. Many countries did not report cases over the last 24 hours.
+
+- The African region reported 0.20% of daily cases and 0.54% of deaths during the past 24 hours, having reported a cumulative total of more than 8.58 million cases. South Africa (1886) reported the highest number of cases over the last 24 hours, followed by Zambia. Most of remaining countries reported around 100 or 50 cases. A total of 22 countries did not report any cases over the last 24 hours.
+
+- The Western Pacific region reported 37.9% of daily case numbers and 18.9% of deaths in the past 24 hours, having reported a cumulative total of more than 46.07 million cases. South Korea (320 743) reported the highest number of cases over the last 24 hours, followed by Viet Nam, Australia, Japan, Malaysia, New Zealand, China, Laos and Brunei.
+
+- The South-East Asia region reported 2.4% of the daily newly reported cases and 5.0% of reported deaths in the past 24 hours, having reported a cumulative total of more than 57.13 million cases. Thailand (28 379) reported the highest number of cases, followed by Indonesia (2930), India (1335), and Bhutan (1038). Myanmar, Sri Lanka, Bangladesh, and Maldives did not report any cases over the last 24 hours.
+
+On the Overview tab at the WHO source URL, the epidemic curve of confirmed COVID-19 cases by WHO region, 30 Dec 2019 through 1 Apr 2022, is an excellent visual representation of the pandemic. - Mod.UBA]
+
+******
+[5] Global update: Worldometer accessed 1 Apr 2022 19:22 EST (GMT-5)
+Date: Fri 1 Apr 2022
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at https://promedmail.org/wp-content/uploads/world-pdf/2022%20WORLDDATA%20APR1_1648929020.pdf.
+
+A 7-day series of cumulative data reported by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/2022%20APR1WORLD7_1648929034.pdf. - Mod.UBA]
+
+Total number of reported deaths: 6 171 238
+Total number of worldwide cases: 490 043 267
+Number of newly confirmed cases in the past 24 hours: 1 364 842
+
+--
+Communicated by:
+ProMED
+
+[In the past 24 hours, 23 countries, including South Korea (264 097), Germany (231 910), France (148 629), Japan (100 812), Viet Nam (86 054), Italy (77 040), Portugal (70 111), UK (69 449), Belgium (43 601), Spain (43 265), Australia (41 373), USA (33 012), Thailand (28 029), Brazil (27 270), Austria (23 357), Netherlands (21 737), Greece (21 102), Russia (19 164), Malaysia (17 476), Turkey (13 367), Israel (13 927), New Zealand (13 537), and Canada (12 587), reported the highest numbers of cases, all reporting more than 10 000 newly confirmed cases. A global total of 4054 deaths were reported in the preceding 24 hours (late 30 Mar 2022 to late 31 Mar 2022).
+
+A total of 51 countries reported more than 1000 cases in the past 24 hours; 28 of the 51 countries are from the European region, 7 are from the Americas region, 2 are from the Eastern Mediterranean region, 9 are from the Western Pacific region, 3 are from the South-East Asia region, and 2 are from the African region.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, case counts have decreased by 13.7%, while daily reported deaths have decreased by 42.9%. Similar comparative 7-day averages in the USA show a 6.8% decrease in daily reported cases and a 20.9% decrease in reported deaths. There is an overall global trend of decreasing cases and reported deaths.
+
+Impression: The global daily report registered over 1.36 million newly confirmed infections in the past 24 hours with over 490.04 million cumulative reported cases and more than 6.17 million reported deaths. - Mod.UBA
+
+ProMED map:
+Worldwide: https://promedmail.org/promed-post?place=8702366,8854]
+See Also
+COVID-19 update (87): convalescent plasma, placentitis, South Asia, WHO, global 20220401.8702350
+COVID-19 update (86): lung damage, taste loss, cases, vacc. comparison, WHO 20220401.8702327
+COVID-19 update (85): racial disparities, long COVID, China, 2nd booster, WHO 20220331.8702308
+COVID-19 update (84): ophthalmologic eff., immunity, cont. tracing, booster, WHO 20220330.8702291
+COVID-19 update (83): animal, USA, mule deer 20220329.8702286
+COVID-19 update (82): pregnancy, variants & long COVID, UK, co-infection, WHO 20220326.8702244
+COVID-19 update (81): omicron, Ab response, infectivity, aspirin, WHO 20220325.8702228
+COVID-19 update (80): animal, USA, deer, transmission 20220325.8702212
+COVID-19 update (79): vacc post-infection, child Ab, WHO 20220325.8702199
+COVID-19 update (78): pregnancy outcome, Asia, USA, partner violence, WHO 20220323.8702182
+COVID-19 update (77): preparedness, cancer survival, alcohol, repeat RAT, WHO 20220323.8702160
+COVID-19 update (76): South Korea, vaccines, Asia, boosters, WHO, global 20220320.8702091
+COVID-19 update (75): cognitive seq., USA, Israel, matern. transm., long COVID 20220320.8702083
+COVID-19 update (74): postpartum and long-term depression, China, tinnitus, WHO 20220318.8702053
+COVID-19 update (73): China, global, Pfizer, WHO 20220317.8702037
+COVID-19 update (72): France mask restrictions, deltacron, US prisons, WHO 20220316.8702014
+COVID-19 update (71): mortality, China, Pfizer, WHO 20220313.8701952
+COVID-19 update (70): case count, UK, BA.2, USA, WHO, global 20220312.8701940
+COVID-19 update (69): blood grp., host genetic var., mental decline, dexam., WHO 20220311.8701920
+COVID-19 update (68): brain changes, boosters, hotspots, USA, WHO, global 20220309.8701903
+COVID-19 update (67): Hong Kong, China, new normal, social determ. health, WHO 20220309.8701882
+COVID-19 update (66): post-COVID cardiovascular risks, N. Zealand, variants, WHO 20220306.8701826
+COVID-19 update (65): Ukraine, Eurosurveillance, blood types, WHO, global 20220304.8701798
+COVID-19 update (64): long COVID, IHCA, Ivermectin, India, WHO 20220303.8701774
+COVID-19 update (63): animal, Canada, wild deer 20220303.8701773
+COVID-19 update (62): Pfizer, children, CDC, vulnerable populations, WHO, global 20220303.8701755
+COVID-19 update (61): masks, bact. meta-transcriptomics, variants, ECMO, WHO 20220301.8701730
+COVID-19 update (60): animal, China, origin, research 20220227
+COVID-19 update (50): Hong Kong, estrogen risk, maternal vaccine benefits, WHO 20220217.8701501
+COVID-19 update (40): Denmark, rosemary, pregnancy, stroke, WHO 20220205.8701276
+COVID-19 update (30): variants in immuno-comp., stability, endemic, WHO 20220126.8701074
+COVID-19 update (20): Africa vacc., Taiwan, waning immunity, persistence, global 20220117.8700915
+COVID-19 update (10): animal, omicron origin statement, OIE 20220110.8700763
+COVID-19 update (01): omicron severity & changes, Germany, T-cell reactivity 20220101.8700616
+2021
+----
+COVID-19 update (452): rapid test, omicron, Ab neutralization, school, WHO 20211230.8700597
+COVID-19 update (451): animal, USA, wild deer 20211230.8700589
+COVID-19 update (450): maternal Abs, CDC isolation guidance, WHO 20211230.8700575
+COVID-19 update (400): animal, sheep, research, experimental infection 20211121.8699806
+COVID-19 update (350): boosters, deaths, cases, vaccines, WHO 20211014.8699041
+COVID-19 update (300): Norway, myocarditis, schools, new variant C.1.2, WHO 20210901.8638460
+COVID-19 update (200): animal, China, origin 20210608.8433657
+COVID-19 update (100): antibodies, vaccine, Thailand, Cambodia, WHO, global 20210316.8250009
+COVID-19 update (50): UK vaccine study, Brazil reinfection, WHO 20210205.8167161
+COVID-19 update (01): variants, vaccine, Thailand, global, WHO 20210101.80629382020
+2020
+----
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+COVID-19 update (562): viral load, UK vacc dose, ECDC, WHO 20201231.8061525
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia: China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia: China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+----
+Undiagnosed pneumonia: China (HU): RFI 20191230.6864153
+and other items in the archives
+.................................................sb/lk/mpp/uba/rd/may/jh
+</body>

@@ -1,0 +1,93 @@
+<header id=012944>
+Published Date: 2013-12-01 13:28:18 EST
+Subject: PRO> Avian influenza, human (146): mathematical risk model
+Archive Number: 20131201.2085241
+</header>
+<body id=012944>
+AVIAN INFLUENZA, HUMAN (146): MATHEMATICAL RISK MODEL
+*****************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+[1]
+Date: 29 Nov 2013
+Source: MedicalXpress.com [edited]
+http://medicalxpress.com/news/2013-11-potential-pandemic.html
+
+
+In 2011, scientists successfully engineered a lethal avian flu virus to be transmissible between birds as well as mammals and possibly humans. The novel virus, a genetically engineered variation of H5N1 avian influenza, sparked an enormous debate among both the research community and the public about how to manage such research and whether it should even be carried out at all.
+
+That's where Northeastern stepped in. "We thought it was important to provide some hard numbers to the debate," said Alessandro Vespignani, a world-renowned statistical physicist and the Sternberg Family Distinguished University Professor.
+
+In a paper released Thursday [28 Nov 2013] in the journal BMC Medicine, Vespignani and his collaborators provide those hard numbers, and they aren't terribly reassuring.
+
+"This study provides a very accurate modeling approach to assess the probability of containment in the case of accidental escape," explained Vespignani, who holds joint appointments in the College of Science, College of Computer and Information Science, and Bouve College of Health Sciences. "Unfortunately, there are large chances that the outbreak will not be contained."
+
+Vespignani and his research team used census data from the city of Rotterdam in the Netherlands to create a computational model that tracked how an experimental virus would spread if it were accidentally released from a facility operating at a biosafety level of 3 or 4. These labs carry out the most health-hazardous biological research in the world and are often located in populous urban areas.
+
+The team, which includes collaborators at the Bruno Kessler Foundation in Trento, Italy, looked at the effectiveness of several non-pharmaceutical interventions following a release: isolation of the laboratory; household quarantine of the infected worker; and quarantine of individuals who came into contact with the infected worker.
+
+They examined these containment scenarios in the context of different viruses, ranging in transmissibility from a mild seasonal influenza to one similar to the Spanish flu, which killed nearly 5 percent of the world's population in 1918.
+
+The results of the simulation suggest a 5-15 percent chance that an accidental escape would not be detected, especially in the case of very transmissible viruses and those where symptoms are not immediately spotted. In addition, they found that containment would depend on the structure and density of the local population surrounding a facility.
+
+"Most BSL labs are in big urban areas," Vespignani explained. "In those areas, we show that the probability of not containing the outbreak is 3-5 times larger than what it would be in isolated areas."
+
+While the probability of accidental release is extremely low -- there's only 0.3 percent chance of a virus escaping one of these labs each year -- even a single event can translate into a vast public health emergency, said Stefano Merler, one of the researchers who is based at the Kessler Foundation. Moreover, the number of BSL3 and 4 laboratories is increasing, creating a greater combined risk the world over.
+
+As such, this type of research could prove extremely useful for policymakers deciding where to build facilities, Vespignani said. "It's also useful in weighting the opportunity of authorizing experiments and in defining protocols for containment," he added.
+
+[Byline: Angela Herring]
+
+--
+Communicated by:
+ProMED-mail Rapporteur Mary Marshall
+
+******
+[2]
+Date: 28 Nov 2013
+Source: MBC Medicine [edited]
+http://www.biomedcentral.com/1741-7015/11/252/abstract
+
+
+Containing the accidental laboratory escape of potential pandemic influenza viruses. Stefano Merler, Marco Ajelli, Laura Fumanelli and Alessandro Vespignani. BMC Medicine 2013, 11:252 doi:10.1186/1741-7015-11-252.
+
+Abstract (provisional)
+
+Background
+The recent work on the modified H5N1 has stirred an intense debate on the risk associated with the accidental release from a biosafety laboratory of potential pandemic pathogens. Here, we assess the risk that the accidental escape of a novel transmissible influenza strain would not be contained in the local community.
+
+Methods
+We develop here a detailed agent-based model that specifically considers laboratory workers and their contacts in micro-simulations of the epidemic onset. We consider the following non-pharmaceutical interventions: isolation of the laboratory, laboratory workers' household quarantine, contact tracing of cases and subsequent household quarantine of identified secondary cases, and school and workplace closure, both preventive and reactive.
+
+Results
+Model simulations suggest that there is a non-negligible probability (5-15 percent), strongly dependent on reproduction number and probability of developing clinical symptoms, that the escape event is not detected at all. We find that the containment depends on the timely implementation of non-pharmaceutical interventions and contact tracing, and it may be effective (over 90 percent probability per event) only for pathogens with moderate transmissibility (reproductive number no larger than R0=1.5). Containment depends on population density and structure as well, with a probability of giving rise to a global event that is 3-5 times lower in rural areas.
+
+Conclusions
+Results suggest that controllability of escape events is not guaranteed, and, given the rapid increase of biosafety laboratories worldwide, this poses a serious threat to human health. Our findings may be relevant to policy makers when designing adequate preparedness plans and may have important implications for determining the location of new biosafety laboratories worldwide.
+
+The complete article is available as a provisional PDF. The fully formatted PDF and HTML versions are in production.
+
+--
+Communicated by:
+ProMED-mail Rapporteur Mary Marshall
+
+[Mathematical models are only as useful as their ability to be validated and their criteria challenged. Otherwise, they are a training exercise. And we know from problems at Ft. Detrick, College Station, and Pirbright that dangerous pathogens can evade their otherwise effective biosecurity.
+
+Speaking as a professional skeptic, the global experience to date with this group of viruses in a wide variety of institutes has not been one of frequent spills into, for example, just the institutional professional staff, the group at immediate risk. Maybe a better model would be a public health laboratory during the flu season, if one could differentiate laboratory cross infections from familial infections.
+
+It all comes down to laboratory discipline and oversight. We can all recite stories from our individual experience and/or the literature of things going badly wrong. Anyone who has worked with brucella has war stories, believe me. So we need to take the warning from this study seriously, independently of whether "the sky is falling!" - Mod.MHJ]
+See Also
+2006
+----
+Avian influenza, human - worldwide (31): China, WHO plan 20060323.0898
+Avian influenza, poultry vs migratory birds (02) 20060218.0536
+2005
+----
+Avian influenza, human - East Asia (111): pandemic preparedness 20050804.2264
+Avian influenza, human - East Asia (88): Viet Nam 20050616.1696
+.................................................jw/mhj/msp/jw
+</body>

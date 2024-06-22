@@ -1,0 +1,85 @@
+<header id=055036>
+Published Date: 2014-04-02 10:42:28 EDT
+Subject: PRO/EDR> Melioidosis - Worldwide: western hemisphere cases
+Archive Number: 20140402.2370033
+</header>
+<body id=055036>
+MELIOIDOSIS - WORLDWIDE: WESTERN HEMISPHERE CASES
+*************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+Date: Mon 31 Mar 2014
+Source: Emerging Infectious Diseases 2014;20: 862-864 [edited]
+http://wwwnc.cdc.gov/eid/article/20/4/13-0960_article.htm
+
+
+_Burkholderia pseudomallei_ is the causative agent of the disease melioidosis. Melioidosis is considered endemic to Southeast Asia and northern Australia. However, sporadic cases do occur elsewhere in the world, especially in tropical areas (1). The predominant method of molecular subtyping of _B. pseudomallei_ is multilocus sequence typing (MLST), which is based on a comparison of the alleles of 7 housekeeping genes to generate a sequence type (ST) (2). These data can then be analyzed by using tools such as eBURST, which is used to infer phylogenetic patterns (3).
+
+As of 30 May 2013, a total of 3028 _B. pseudomallei_ isolates were listed in the MLST database (http://www.mlst.net); these isolates are predominantly from Southeast Asia (1036 isolates) and Australia (1776). Some entries are from other Pacific areas (e.g., New Caledonia [9 isolates] and Hong Kong [39]) and other parts of the world (e.g., Africa [8], Europe [15], and the Western Hemisphere [30]) or of unknown origin (32).
+
+For a population study, Pearson et al. analyzed the STs in the _B. pseudomallei_ MLST database along with other data, such as single-nucleotide polymorphisms from whole-genome sequencing data (4). Their study indicated some population structures associated with geographic origin, in particular, clades associated with isolates from Southeast Asia or northern Australia. The data were used to support a hypothesis that _B. pseudomallei_ originated on the Australian continent, spread to Southeast Asia, and from there spread throughout the world (4).
+
+For an isolate of unknown origin, however, MLST alone may not provide information about geographic origin. For example, isolates from the Western Hemisphere have yielded STs unique to that hemisphere, but when these isolates were analyzed by eBURST or other methods, no distinct clade was found. In the clusters in which these STs appear, STs are intermixed with those from regions in which melioidosis is traditionally endemic, such as Southeast Asia (2,4). Therefore, a method for determining whether an isolate of unknown origin is from the Western Hemisphere is desirable.
+
+Recently, Ligouri et al. developed a typing scheme by measuring the length polymorphisms in the 16S-23S internal transcribed spacer (ITS) of _Burkholderia_ spp. (5). The typing scheme consists of 10 types: A, B, C, D, E, F, G, CE, GE, and GC. Ligouri et al. found that some types are unique to a given _Burkholderia_ species (i.e., A = _B. thailandensis_, B = _B. humptydooensis_, D = _B. oklahomensis_, and F = _B. cepacia_). They also determined that type C could be found in _B. mallei_ and in _B. pseudomallei_. The remaining 5 types were exclusive to _B. pseudomallei_ (5). Ligouri et al. determined that types C, E, GE, and CE were the predominant types for isolates from northern Australia and Southeast Asia and that type G was rare in Australia (4 isolates) and Southeast Asia (3). They noted, on the basis of a limited number of strains from these regions, that type G was overrepresented in isolates from other parts of the world: Madagascar (1 isolate), Ecuador (2), Puerto Rico (2), Venezuela (1), and Kenya (1). They hypothesized that a genetic bottleneck occurred during the dispersal of type G to regions outside of Southeast Asia and Australia (5).
+
+ITS typing of _B. pseudomallei_ might be a powerful tool for linking cases of melioidosis to regions outside of those in which melioidosis is highly endemic, such as Southeast Asia and northern Australia. To further investigate this trend, we assessed the ITS types of _B. pseudomallei_ from the Western Hemisphere.
+
+The Study
+All tested Western Hemisphere isolates from our collection were ITS type G (Table [For table, see original URL. - Mod. LL]). In addition to those isolates tested, we performed in silico analysis of whole-genome sequencing data from other _B. pseudomallei_ isolates in our collection or publicly available data with origins in the Western Hemisphere and found them to also be ITS type G (Table). As expected, eBURST analysis of the STs from the type G strains that originated in the Western Hemisphere did not yield a discrete clade. These STs are interspersed with other STs that are predominantly from Southeast Asia (Figure [For figure, see original URL. - Mod. LL]). Our results support the findings of Ligouri et al. (5). The predominance of type G in isolates in our panel of isolates from the Western Hemisphere is consistent with a hypothesis that these isolates are derived from a bottleneck that occurred during dispersal to the rest of the world from Southeast Asia.
+
+Other supporting evidence is provided by testing for the Yersinia-like fimbrial (YLF) gene by YLF PCR. The presence of the YLF gene is associated with _B. pseudomallei_ isolates from Southeast Asia (6). For those strains tested, all were positive for YLF, or the YLF gene was present according to in silico analysis of whole-genome sequencing data when available (Table).
+
+Conclusions
+In melioidosis cases for which the origin is unclear, such as for patients with unknown exposure histories or histories of travel to multiple regions to which melioidosis is endemic, ITS typing along with other molecular epidemiologic tools might be useful for assessing the _B. pseudomallei_ origins. More insight into the relationship of Western Hemisphere isolates to isolates from regions to which melioidosis is highly endemic might come from whole-genome sequencing. As more isolates are analyzed, such studies might enable higher confidence in the geographic origin of isolates.
+
+References
+--------------
+1. Wiersinga WJ, Currie BJ, Peacock SJ. Melioidosis. N Engl J Med. 2012;367:1035-44 . DOIPubMed
+2. Godoy D, Randle G, Simpson AJ, Aanensen DM, Pitt TL, Kinoshita R, Multilocus sequence typing and evolutionary relationships among the causative agents of melioidosis and glanders, _Burkholderia pseudomallei_ and _Burkholderia mallei_. J Clin Microbiol. 2003;41:2068-79. DOIPubMed
+3. Feil EJ, Li BC, Aanensen DM, Hanage WP, Spratt BG. eBURST: inferring patterns of evolutionary descent among clusters of related bacterial genotypes from multilocus sequence typing data. J Bacteriol. 2004;186:1518-30. DOIPubMed
+4. Pearson T, Giffard P, Beckstrom-Sternberg S, Auerbach R, Hornstra H, Tuanyok A, Phylogeographic reconstruction of a bacterial species with high levels of lateral gene transfer. BMC Biol. 2009;7:78 . DOIPubMed
+5. Liguori AP, Warrington SD, Ginther JL, Pearson T, Bowers J, Glass MB, Diversity of 16S-23S rDNA internal transcribed spacer (ITS) reveals phylogenetic relationships in _Burkholderia pseudomallei_ and its near-neighbors. PLoS ONE. 2011;6:e29323. DOIPubMed
+6. Tuanyok A, Auerbach RK, Brettin TS, Bruce DC, Munk AC, Detter JC, A horizontal gene transfer event defines two distinct groups within _Burkholderia pseudomallei_ that have dissimilar geographic distributions. J Bacteriol. 2007;189:9044-9. DOIPubMed
+
+[Authors: Gee JE, Allender CJ, Tuanyok A, et al]
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[This just-published Emerging Infectious Diseases article helps characterize isolates of the bacilli of melioidosis. It is interesting that it appears that they all seem to be ITS G but otherwise were not in the same clade. The clade analysis, as discussed, had previously suggested that _B. pseudomallei_ originated in the Northern Territory of Australia and spread to southeast Asia. - Mod.LL]
+See Also
+Melioidosis, 2011 - Thailand: drinking water source 20140112.2164773
+2013
+----
+Melioidosis - Bangladesh: (DA) 1st soil isolate 20130811.1874373
+Melioidosis - Malaysia: (Borneo) 20130102.1477973
+2012
+----
+Melioidosis - Belgium ex Thailand (02): cutaneous, travel-assoc. 20121016.1345407
+Melioidosis: travel-associated, background 20121009.1331658
+Melioidosis: Belgium ex Thailand: cutaneous, travel-assoc. 20121007.1329106
+Melioidosis: Australia (04): (NT) cases increase 20120814.1243818
+Melioidosis: Australia (03): (NT) 20120612.1165498
+Melioidosis: Australia (02): (NT) 20120214.1041303
+Melioidosis: Australia: (NT) 20120121.1017731
+2011
+----
+Melioidosis, fatal: Taiwan: (KH, PT) 20110916.2822
+Melioidosis: Australia (02): (NT) 20110412.1155
+Melioidosis: Australia: (QL) 20110127.0319
+2009
+----
+Melioidosis: Spain ex Gambia (03) 20091024.3662
+Melioidosis: Spain ex Gambia 20091024.3662
+2006
+----
+Melioidosis 2005: USA (FL) ex Honduras 20060820.2334
+.................................................ll/msp/dk
+</body>

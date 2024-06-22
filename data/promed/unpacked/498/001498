@@ -1,0 +1,230 @@
+<header id=001498>
+Published Date: 2020-09-17 09:44:48 EDT
+Subject: PRO/AH/EDR> COVID-19 update (404): US FDA, genome analysis, WHO, global
+Archive Number: 20200917.7789628
+</header>
+<body id=001498>
+CORONAVIRUS DISEASE 2019 UPDATE (404): US FDA, GENOME ANALYSIS, WHO, GLOBAL
+***************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] US FDA-authorized COVID-19 molecular diagnostic tests: comparative performance data
+[2] COVID-19 molecular diagnostic testing: lessons learned
+[3] CoV-Seq: SARS-CoV-2 genome analysis and visualization
+[4] WHO: daily new cases reported (as of 16 Sep 2020)
+[5] Global update: Worldometer accessed 16 Sep 2020 21:47 EDT (GMT-4)
+
+******
+[1] US FDA-authorized COVID-19 molecular diagnostic tests: comparative performance data
+Date: Tue 15 Sep 2020
+Source: US Food and Drug Administration (FDA) [edited]
+https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-publishes-comparative-performance-data-covid-19-molecular-diagnostic
+
+
+Today [15 Sep 2020], the US Food and Drug Administration published comparative performance data for some authorized COVID-19 molecular diagnostic tests. The tables show the Limit of Detection (LOD) of more than 55 authorized molecular diagnostic COVID-19 tests against a standardized sample panel provided by the FDA. The FDA provided these standardized samples, known as a reference panel, to test developers who are required to assess their test's performance against this panel (or other FDA-recommended reference materials) as a condition of their Emergency Use Authorization (EUA).
+
+"By providing this panel to both commercial and laboratory test developers and evaluating the data we receive, we are able to gain valuable insight into the comparative performance of different authorized molecular diagnostic tests under the same conditions," said Jeff Shuren, MD, JD, director of FDA's Center for Devices and Radiological Health. "Reference panels can be used in many ways to support test development and authorization, but most importantly, they are a powerful tool in monitoring test performance and ensuring that Americans have access to diagnostics they can trust."
+
+The FDA began distributing the reference panel of samples in May [2020] and has provided it to more than 150 developers as a resource in the development and validation of accurate and reliable diagnostic tests. In order to ensure the accuracy of test results using the reference panel, the FDA did not disclose the amount of viral material in the samples, resulting in a blind test for developers.
+
+In the data published today [15 Sep 20202], a lower LOD represents a test's ability to detect a smaller amount of viral material in a given sample, signaling a more sensitive test. However, the data does not indicate how sensitive a particular test is, and, therefore, cannot be used by itself to determine whether to authorize a test or other regulatory action. Instead, the data gives laboratories, healthcare providers, and patients a new resource on the relative performance of available tests to better inform which tests they choose to use. The FDA will continue to update the table as it receives additional results.
+
+The FDA, an agency within the US Department of Health and Human Services, protects the public health by assuring the safety, effectiveness, and security of human and veterinary drugs, vaccines, and other biological products for human use, and medical devices. The agency also is responsible for the safety and security of our nation's food supply, cosmetics, dietary supplements, products that give off electronic radiation, and for regulating tobacco products.
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The tables available at https://www.fda.gov/medical-devices/coronavirus-covid-19-and-medical-devices/sars-cov-2-reference-panel-comparative-data show the Limit of Detection (LoD) of more than 55 authorized molecular diagnostic COVID-19 tests against a standardized sample panel provided by the FDA. The FDA provided these standardized samples, known as a reference panel, to test developers who are required to assess their test's performance against this panel (or other FDA-recommended reference materials) as a condition of their Emergency Use Authorization (EUA). As of 16 Sep 2020, 249 tests are authorized by FDA under EUAs; these include 198 molecular tests, 47 antibody tests, and 4 antigen tests.
+
+Based on the report information, the data does not indicate how sensitive a particular test is, and, therefore, cannot be used alone to help determine whether to authorize a test or other regulatory action. However, the data gives laboratories, healthcare providers, and patients a new resource on the relative performance of available tests to better inform which tests they choose to use. - Mod.UBA]
+
+******
+[2] COVID-19 molecular diagnostic testing: lessons learned
+Date: Wed 9 Sep 2020
+Source: New England Journal of Medicine (NEJM) [edited]
+https://www.nejm.org/doi/full/10.1056/NEJMp2023830
+
+
+ref: Shuren, J, and Stenzel, T. Covid-19 Molecular Diagnostic Testing -- Lessons Learned. 2020/09/09. New England Journal of Medicine. DOI: 10.1056/NEJMp2023830. https://www.nejm.org/doi/full/10.1056/NEJMp2023830.
+
+On [4 Feb 2020], the US secretary of health and human services declared that emergency use of diagnostics for SARS-CoV-2 was justified, triggering emergency authority for the Food and Drug Administration (FDA) to grant an emergency use authorization (EUA) for a device if it reasonably believes that it may be effective, rather than waiting to grant full approval when it has reasonable assurance that the device is safe and effective. This mechanism expedites access to accurate diagnostic tests during emergencies, when information gaps and false results may adversely affect patient care and public health decision making.
+
+The EUA process enabled molecular diagnostic tests to be developed, validated, and deployed within weeks rather than several months to over a year, as traditionally required. In January [2020], the agency had begun engaging with commercial manufacturers of diagnostic test kits and laboratories to help foster test development. To streamline submissions, the agency developed an EUA template with recommendations on validating a molecular diagnostic test for SARS-CoV-2 and outlined the required information. By [31 Jul 2020], the FDA had authorized 163 COVID-19 diagnostic tests.
+
+The EUA template also streamlined submission paperwork. A typical submission seeking full FDA approval for a test is about 1000 pages for laboratories and about 2000 pages for commercial manufacturers that distribute tests. The template reduced commercial manufacturers' EUA submissions to 100 to 200 pages and laboratory submissions to about 40 pages, of which only about half were generated solely to meet FDA requirements and most of those consisted of data rather than text.
+
+Submissions for full approval and those for EUAs differ primarily in the extent and type of evidence required. For a COVID-19 EUA, the FDA initially permitted test performance to be demonstrated by a computer analysis indicating the percentage of identity matches with publicly available SARS-CoV-2 sequences that could be detected by the proposed molecular assay and cross-reactivity with other respiratory pathogens and by testing contrived samples. Developers could "spike" human specimens, such as sputum, with different amounts of extracted SARS-CoV-2 RNA or live or inactivated virus to assess viral detection, rather than using patient specimens. Validation could thus be completed rapidly once viral RNA or virus became available. However, this approach was less likely than the use of patient specimens to accurately characterize test performance.
+
+As positive patient samples became more readily available, the FDA transitioned to requiring the use of samples of known SARS-CoV-2 status. Once it became feasible to do so, we began requiring post-authorization validation using samples containing levels of virus ranging from low to high, to harmonize assessment and better establish true performance. Though ideally a standard set of patient samples would be used to establish relative performance among tests, implementing such a scheme is challenging because of the limited amount of sample obtained from each patient. We, therefore, developed a reference panel of samples with different amounts of inactivated virus and samples whose SARS-CoV-2 status is unknown to developers. We are distributing this panel to makers of EUA-authorized molecular assays to allow determination of relative limits of detection (LODs). Once an international reference standard is finalized, the panel can be anchored to it and assessments can be updated to represent absolute LOD.
+
+We believe that this approach provides a workable solution for assessing tests' comparative performance. The requirement to assess authorized tests with FDA-sanctioned reference panels has been a condition of authorization for all SARS-CoV-2 tests to date. In addition, the Reagan-Udall Foundation for the FDA, in collaboration with Friends of Cancer Research, has started the COVID-19 Diagnostics Evidence Accelerator, which will leverage real-world data to elucidate the performance of diagnostic tests.
+
+Although some COVID-19 test laboratories and kit developers had experience with previous emergencies, some developers and healthcare professionals were unfamiliar with the EUA process, which created misunderstandings and confusion. During the week of [24 Feb 2020], several laboratory groups sought permission to use laboratory-developed tests (LDTs) for patient care without obtaining an EUA. They cited unmet needs due to challenges with the rollout of the test from the Centers for Disease Control and Prevention (CDC) and the lack of alternative tests. Some labs suggested that they would not pursue test development, believing that EUA validation was too burdensome; others were unaware that the EUA pathway was available.
+
+Recognizing the continued need for rapid expansion of testing capabilities, the FDA issued a policy on [29 Feb 2020] indicating that we would not enforce certain requirements for qualified laboratories that had commenced testing after validating a test, provided that the lab notified the FDA of its intention to test patient samples and submitted the validation data in an EUA request within 15 business days. We thus put labs developing their own COVID-19 tests on the honor system and prioritized early access over independent confirmation of accuracy.
+
+Although this approach resulted in earlier test availability, the EUA's less-rigorous evidence standard, coupled with delayed FDA review, allowed the use of several LDTs that ultimately proved to have performance problems or to be poorly validated. In analyzing 125 EUA requests from laboratories, we identified 82 with design or validation problems, and several have been denied authorization. In the majority of cases, the FDA worked with the laboratories to correct the issues and permit continued testing. Similar problems were seen with commercial manufacturers.
+
+The process also revealed that some clinicians have a limited understanding of test performance. No test is 100% accurate, and performance can vary within populations. COVID-19 diagnostic tests may be less accurate in asymptomatic or low-risk populations and in persons who shed little virus or are early or late in the course of illness. Even if a test were 98% sensitive and 99% specific, it would still produce a false negative result in 2 of every 100 people infected. If we test 5 million Americans daily and only 1% of them have COVID-19, a total of 1000 positive cases will be missed, which increases the risk of spread, and another 49 500 people will receive false positive results. False positive results can be burdensome to public health officials who are tasked with contact tracing and other public health activities, and many people may be unnecessarily quarantined. An understanding of the positive and negative predictive value of a test should be factored into clinical decision making and patient counseling. To mitigate the impact of false results, all COVID-19 tests authorized to date have been made available only by prescription, so that clinicians can interpret results for patients. However, several nonprescription tests are currently under development.
+
+As we have adapted our policies to changing circumstances, we have learned lessons that should inform our response to future outbreaks. First, we believe that the US government should work with international partners to establish a plan for sharing clinical specimens as soon as a public health threat emerges. This effort could be aided by having appropriate international agreements in place in advance.
+
+Second, when a public health threat warrants large-scale testing, it would be more effective to authorize a small number of well-designed, well-developed, and validated tests run on common high-throughput platforms, followed by a few point-of-care tests, all of which are manufactured in large quantities, than to simultaneously develop and authorize scores of diagnostics. Such diffuse efforts are an inefficient use of resources.
+
+A handful of test designs could be developed or identified by the US government alone or in collaboration with the testing community, then manufactured by the CDC, preset contract manufacturers, commercial manufacturers, and laboratories, which would speed up development, validation, authorization, production, launch, and testing. Use of contract manufacturers at the outset can greatly increase test availability. The FDA could proactively create validation protocols in collaboration with the test-developer community for commonly anticipated pathogen and sample types before an outbreak and modify them as necessary once an outbreak occurred. This approach would permit faster validation.
+
+Third, we need common approaches to validating test design and performance, regardless of whether there is an emergency. Our experience with COVID-19 highlights the need for a common legislative framework to ensure that all clinical tests are accurate and reliable.
+
+Fourth, the clinical community should understand test performance and how to use that information in patient care. Tests should be accompanied by clear, standardized, comprehensible information on performance for clinicians and patients. Training and continuing education can enhance physicians' understanding of test performance, selection, interpretation, and clinical usefulness.
+
+As we continue to address COVID-19, it is important to reflect on what we've learned to better prepare ourselves for current and future epidemics.
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+******
+[3] CoV-Seq: SARS-CoV-2 genome analysis and visualization
+Date: Wed 16 Sep 2020
+Source: Lit COVID, NIH NLM [edited]
+https://www.ncbi.nlm.nih.gov/research/coronavirus/publication/32931441
+
+
+ref: Liu B, Liu K, Zhang H, et al. CoV-Seq: SARS-CoV-2 genome analysis and visualization [published online ahead of print, 2020 Sep 3]. J Med Internet Res. 2020; 10.2196/22299. doi:10.2196/22299
+--------------------------------------------------------------------------------
+Abstract
+--------
+Background. COVID-19 has become a global pandemic not long after its inception in late 2019. SARS-CoV-2 genomes are being sequenced and shared on public repositories at a fast pace. To keep up with these updates, scientists need to frequently refresh and reclean datasets, which is ad hoc and labor-intensive. Further, scientists with limited bioinformatics or programming knowledge may find it difficult to analyze SARS-CoV-2 genomes. Objective: To address these challenges, we developed CoV-Seq, an integrated webserver to enable simple and rapid analysis of SARS-CoV-2 genomes.
+
+Methods. Given a new sequence, CoV-Seq automatically predicts gene boundaries and identifies genetic variants, which are displayed in an interactive genome visualizer and are downloadable for further analysis. A command-line interface is also available for high-throughput processing. Also, we aggregate all publicly available SARS-CoV-2 sequences from GISAID, NCBI, ENA, and CNGB, and extract genetic variants from these sequences for download and downstream analysis. The CoV-Seq database is updated weekly.
+
+Results. CoV-Seq is implemented in Python and JavaScript. The web server is available at http://covseq.baidu.com/ and the source code is available from https://github.com/boxiangliu/covseq.
+
+Conclusions. We have developed CoV-Seq, an integrated web service for fast and easy analysis of custom SARS-CoV-2 sequences. The web server provides an interactive module for the analysis of custom sequences and weekly updated database of genetic variants from all publicly accessible SARS-CoV-2 sequences. We hope CoV-Seq will help improve our understanding of the genetic underpinnings of COVID-19.
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+******
+[4] WHO: daily new cases reported (as of 16 Sep 2020)
+Date: Wed 16 Sep 2020
+Source: WHO [abridged, edited]
+https://covid19.who.int/table
+
+
+*Daily case reports as of 16 Sep 2020 1:52 pm CEST
+
+Surveillance
+------------
+WHO region (no. countries/territories):
+Total confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+---------------------------
+Western Pacific Region (19): 560 287 (4317) / 12 309 (48)
+European Region (61): 4 957 361 (49 048) / 227 207 (602)
+South East Asia Region (10): 5 663 231 (97 254) / 96 347 (1476)
+Eastern Mediterranean Region (22): 2 148 615 (16 232) / 56 084 (371)
+Region of the Americas (54): 14 986 799 (81 938) / 515 067 (1806)
+African Region (49): 1 127 164 (3891) / 24 294 (217)
+Cases on an international conveyance (Diamond Princess): 712 (0) / 13 (0)
+
+Confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+Grand total: 29 444 198 (252 680) / 931 321 (4520)
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The number of countries and territories reporting confirmed cases of COVID-19 to WHO remains at 215.
+
+Data by country, area, or territory for 16 Sep 2020 can be accessed at https://promedmail.org/wp-content/uploads/world-pdf/WHO%20daily%20tablesSept16_1600339148.pdf.
+
+- The Americas region reported 32.4% of daily case numbers and 40.0% of the daily deaths reported in the past 24 hours, maintaining its position as the most severely affected region, having reported more than 14.9 million cases. The USA and Brazil remain dominant, followed by Argentina, Colombia, Peru, and Mexico.
+
+- The European region reported 19.4% of daily case numbers and 13.3% of the daily deaths reported in the past 24 hours, and total cumulative cases reported exceed 4.9 million. Countries not reporting to WHO today (13 Sep 2020) include Israel, Sweden, and Belgium. The dominant country is Israel, followed by France, Russia, the UK, Spain, Ukraine, Turkey, Germany, Romania, and the Czech Republic.
+
+- The Eastern Mediterranean region reported 6.4% of daily case numbers and 8.2% of the deaths reported in the past 24 hours, having reported a cumulative total of greater than 2.1 million cases. Iraq remains the dominant country, followed by Iran, Morocco, Kuwait, the UAE, Bahrain, Saudi Arabia, Pakistan, and Lebanon.
+
+- The African region reported 1.5% of daily case numbers and 4.8% of the deaths reported in the past 24 hours and has reported more than 1.1 million cases. South Africa is again the dominant country, followed by Ethiopia, Algeria, Ghana, Senegal, Zambia, and Namibia.
+
+- The Western Pacific region reported 1.7% of daily case numbers and 1.1% of the deaths reported in the past 24 hours, having reported a cumulative total of 0.56 million cases. The Philippines continues to dominate, followed by Japan and South Korea.
+
+- The South East Asia region reported 38.4% of the daily newly reported cases and 32.6% of reported deaths in the past 24 hours, having reported a cumulative total of more than 5.6 million cases. India continues to dominate followed by Indonesia, Bangladesh, and Nepal.
+
+Europe, while experiencing resurgences in many countries related to loosening restrictions and the summer vacation period, is overshadowed by the major transmission ongoing in South East Asia, specifically India, with record-breaking daily case reports.
+
+On the Overview tab at the WHO source URL, the epidemic curve of confirmed COVID-19 cases by WHO region, 30 Dec 2019 through 16 Sep 2020 is an excellent visual representation of the epidemic. - Mod.UBA]
+
+******
+[5] Global update: Worldometer accessed 16 Sep 2020 21:47 EDT (GMT-4)
+Date: Wed 16 Sep 2020
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at https://promedmail.org/wp-content/uploads/world-pdf/SEPT16DATASET_1600339245.pdf.
+
+A 7-day series of cumulative data reported by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/SEPT16WORLD7_ 1600339289.pdf. - Mod.UBA]
+
+Total number of reported deaths: 945 051
+Total number of worldwide cases: 30 030 911
+Number of newly confirmed cases in the past 24 hours: 308 298
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The USA, India, and Brazil are still the most severely affected countries in terms of cumulative case counts and daily new case confirmations, with India now in the 2nd position followed by Brazil. In the past 24 hours, these 3 countries -- India (97 859), followed by the USA (40 154) and Brazil (37 387) -- account for over half of all confirmed cases globally (54.4%) and 57.2% of all newly confirmed cases in the past 24 hours. A global total of 6232 deaths were reported in the past 24 hours (15-16 Sep 2020).
+
+Countries reporting more than 5000 newly confirmed cases in the past 24 hours include India, USA, Brazil, Argentina (11 674), Spain (11 193), France (9784), Colombia (7787), Peru (6380), Israel (6063), and Russia (5670), and 31 countries have reported more than 1000 cases in the past 24 hours. Five of the top 10 countries reporting the highest daily newly confirmed cases are from the Americas region.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, there is a decrease in case counts by 9.10%, while daily reported deaths have decreased by 8.60%.
+
+Impression: Cases are increasing globally, with Europe showing major increasing transmission in many countries. - Mod.UBA]
+See Also
+COVID-19 update (403): vaccine trial, transmission data needs, WHO, global 20200916.7783581
+COVID-19 update (402): countries, nose, WHO, global 20200915.7779377
+COVID-19 update (401): animal, Netherlands (NB), Denmark, farmed mink, spread 2 02009114.7777661
+COVID-19 update (400): lockdowns, influenza co-infections WHO, global 20200914.7776512
+COVID-19 update (390): Russia vaccine trial, vaping risk factor, WHO, global 20200905.7748995
+COVID-19 update (380): excess mortality, 2nd infect, pediatric shedding, WHO 20200829.7727737
+COVID-19 update (370): USA severe illness risk, saliva vs DNS vs ANS, WHO, global 20200822.7704511
+COVID-19 update (360): USA (NC, NY) animal, dog, comment 20200815.7681907
+COVID-19 update (350): USA (TX) animal, cat 20200808.7658191
+COVID-19 update (300): Korea antibodies, China asymptomatic index case, WHO 20200703.7536146
+COVID-19 update (250): selected countries 20200610.7448037
+COVID-19 update (200): global, Yemen, WHO 20200522.7364937
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+Undiagnosed pediatric inflammatory syndrome (05): Europe, USA, COVID-19 assoc 20200518.7340554
+Undiagnosed pediatric inflammatory syndrome (04): USA, UK, PMIS, fatal 20200509.7315405
+Undiagnosed pediatric inflammatory syndrome (03): USA, Europe, COVID-19 susp, RFI 20200505.7299876
+COVID-19 update (150): global, USA state prisons, WHO 20200502.7290671
+COVID-19 update (100): China, S. Korea & high local transmission countries 20200413.7217806
+COVID-19 update (50): China (Hong Kong) animal dog, 2nd case PCR positive, OIE 20200323.7129951
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (41): China, global, clinical pics, asymptomatic trans., WHO 20200210.6976117
+Novel coronavirus (40): animal reservoir, pangolin poss intermediate host, RFI 20200210.6972104
+Novel coronavirus (30): updates, China, Viet Nam, research 20200202.6945658
+Novel coronavirus (20): China, wildlife trade ban 20200127.6922060
+Novel coronavirus (10): China (HU, GD, BJ) 20200119.6898567
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia: China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia: China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+----
+Undiagnosed pneumonia: China (HU): RFI 20191230.6864153
+and other items in the archives
+.................................................sb/uba/mj/jh
+</body>

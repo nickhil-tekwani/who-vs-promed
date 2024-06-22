@@ -1,0 +1,219 @@
+<header id=019650>
+Published Date: 2015-01-18 17:53:32 EST
+Subject: PRO/AH/EDR> Ebola update (18): treatment, UK costs, Mali, modeling, susp.
+Archive Number: 20150118.3101409
+</header>
+<body id=019650>
+EBOLA UPDATE (18): TREATMENT, UK COSTS, MALI, MODELING, SUSPECTED
+*****************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] Liberia: Antiviral treatment
+[2] UK costs spiraling
+[3] Mali Ebola-free
+[4] Modeling comment
+[5] Suspected, monitored, quarantined, prevention
+
+******
+[1] Liberia: Antiviral treatment
+Date: Sat 17 Jan 2015
+Source: Cherwell.org [edited]
+http://www.cherwell.org/news/oxford/2015/01/16/ebola-treatment-begins-trials-in-liberia
+
+
+An Oxford University team of researchers has begun a trial of a potential treatment for Ebola infection. The team is investigating brincidofovir, developed by private American healthcare company Chimerix. The trial, run by volunteers from Doctors Without Borders [MSF] and the University of Oxford, and funded by the Wellcome Trust, will test the effectiveness of the drug by comparing the fatality rate of 140 patients in Monrovia with previous Ebola fatality rates in the hospitalized Ebola patients in Monrovia, Liberia.
+
+The 1st Ebola patient received the study drug on 2 Jan 2015. If this ongoing trial is considered successful, there will be a 2nd, larger trial in one of the 3 countries most affected by the epidemic, Guinea, Liberia, or Sierra Leone. If that also has positive results, brincidofovir will be released on a wider scale. ... - more
+
+[Byline: Jack Doyle]
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+&
+Roger Feldman <promedrf@gmail.com>
+
+******
+[2] UK costs spiraling
+Date: 18 Jan 2015
+Source: The Independent [edited]
+http://www.independent.co.uk/news/uk/politics/ebola-outbreak-britains-bill-for-tackling-virus-in-sierra-leone-spirals-to-330m-due-to-cuts-in-aid-9985776.html
+
+
+Britain's bill for tackling the Ebola crisis in Sierra Leone has spiralled by at least GBP 100 million, to GBP 330 million [USD 151-500 million].
+
+The Government expects to spend nearly 50 per cent more than the GBP 230 million previously allocated, which will go towards treatment centres and safe burials and "urgent needs." More expenditure is expected to follow, officials admit, as more NHS staff are deployed to the country.
+
+Critics partly blame the growing bill on the coalition slashing the amount of aid allocated to Sierra Leonean health projects in recent years, leaving the country ill-prepared, with an acute shortage of doctors. Without an effective health system, Sierra Leone was easily overwhelmed by the outbreak.
+
+The UK is Sierra Leone's biggest donor, but, while increasing the overall aid budget to the West African country, the Department for International Development (DfID) reduced dedicated health aid from GBP 22 m in 2010-11 to GBP 12 m, GBP 16 m and GBP 14 m over the following 3 years.
+
+MPs from both the Labour and Conservative benches argue that the cuts were financially counterproductive. The UK will spend hundreds of millions of pounds on expensive emergency measures to subdue an outbreak which has already killed more than 3000 people in Sierra Leone and thousands more in Guinea and Liberia. ... - more
+
+[Byline: Mark Leftly]
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[Certainly, responding to a health care emergency at a late stage is going to be more expensive than establishing the infrastructure and appropriate public health measures that will prevent a major outbreak from occurring and growing out of control. - Mod.LK]
+
+******
+[3] Mali: Ebola-free
+Date: Sun 18 Jan 2015
+Source: Reuters [edited]
+http://uk.reuters.com/article/2015/01/18/uk-health-ebola-mali-idUKKBN0KR0XM20150118
+
+
+Mali's health minister declared the West African nation free of Ebola on Sun [18 Jan 2015] following a 42-day period without a new case of the deadly virus. Mali recorded 6 deaths from Ebola. Mali's last infected patient recovered and left hospital early last month [December 2014]. At one point health officials had been monitoring more than 300 contact cases.
+
+Mali became the 6th West African country to record a case of Ebola when a 2-year-old girl from Guinea died in October 2014. It was close to being declared Ebola free in November [2014] before a 2nd wave of infections.
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[That is good news. Congratulations are due to Mali and its health care workers! - Mod.LK]
+
+******
+[4] Modeling comment
+Date: 17 Jan 2015
+From: Gregory Kelly <gka25@sfu.ca> [excerpted, edited]
+
+
+Regarding ProMED post "Ebola update (16): vaccine, models, slowing, transmission, nurse, malaria, susp 20150117.3098295, I very respectfully disagree with Mod.JW's comments about the futility of modeling Ebola due to inaccurate data. True, there is a lot of basis for "garbage in, garbage out," but mathematical and computational modeling is more than just predictions and numbers. What modeling can reveal are patterns and relationships within the system well in advance of statistical analysis done after the fact.
+
+One key element in mathematical models known as "compartmental models" (also known as "S-I-R" models) is the ability to calculate algebraically the location of the "transcritical bifurcation," or tipping point from where the "disease-free equilibrium" is no longer stable and an epidemic would likely occur with the introduction of an infected host into the community. This algebraic point does not need absolute numbers but rather variables that reflect parameters in the model. This allows us to examine in advance the influence of the individual parameters, which may occur non-linearly, something that often troubles statistical analysis based on linear regression. This tipping point is usually the square of R0 (the number of secondary infections from a single infection introduced into an entirely susceptible community), which means we can directly calculate R0 if we do have accurate numbers, and if we don't, we can feed in a range of parameter values to get some expectation of how bad the epidemic might be... From what I can tell, the data on HCW [health care workers] illnesses and outcomes are likely to be the most accurate; the rest can be modeled over a range of possibilities...
+
+Another aspect of compartmental models is that with some effort, we can get numerical solutions for how the system is likely to decay back to the disease-free equilibrium... There are some challenges to compartmental models; they are deterministic, they can have biases that might not reflect the true dynamics of the system, and in order to make them manageable mathematically, they may contain simplifications that diminish their accuracy (biases and simplifications are not the same thing)... Over tens of thousands or even millions of simulated runs, patterns can emerge that can help inform resource allocation.
+
+I would not dispute that some of the Ebola projections now seem overly pessimistic, but we have to keep in mind that those projections were based on a fairly static system - i.e., what would have happened if nothing was done. Mathematical and computational modeling can help disprove the negative in policy decision-making (if we had done nothing, it wouldn't have been bad anyways, so allocating resources for prevention is a waste of money)...
+
+[Gregory (Tim) Kelly is a PhD student at Simon Fraser University in Burnaby, British Columbia (Canada) studying mathematical models of diseases and a sponsored member of the Interdisciplinary Research in the Mathematical and Computational Sciences Centre founded by the mathematician Dr. Peter Borwein, who is one of Gregory's committee members.]
+
+--
+Gregory (Tim) Kelly
+<gka25@sfu.ca>
+
+[I encourage interested readers to contact Tim to receive his letter in full.
+
+But: "If we don't (have accurate numbers), we can feed in a range of parameter values..." And come up with what? guesses? We won't even be able to put confidence intervals on the results, or they would be so wide as to be meaningless. - Mod.JW]
+
+******
+[5] Suspected, monitored, quarantined, prevention
+
+17 Jan 2015 MoH says suspected Ebola patient died of malaria: The Ministry of Health confirmed that laboratory test results of an Ethiopian patient suspected to have been suffering from Ebola and who died on Wed [14 Jan 2015] was not infected by [Ebola]. The latest test was carried out by the South Africa-based National Institute for Communicable Disease (NICD). ...-more
+http://www.ethiosports.com/2015/01/17/moh-says-suspected-ebola-patient-died-of-malaria/
+
+18 Jan 2015: German hospital monitoring South Korean [ex Sierra Leone] with possible Ebola infection [needle-stick injury treating a "particularly ill patient"]
+https://www.youtube.com/watch?v=PJoXQqbVIEU
+
+18 Jan 2015: Japanese woman from Sierra Leone hospitalized over Ebola infection fears
+http://www.japantimes.co.jp/news/2015/01/18/national/science-health/japanese-woman-sierra-leone-hospitalized-ebola-infection-fears/#.VLwhkCzLLnk
+
+18 Jan 2015: Liberia: Schools shuttered by Ebola set to reopen [on 2 Feb 2015]; [3 feet between desks, long sleeves during sporting events, isolation wards, "chlorine buckets everywhere"]
+https://news.vice.com/article/progress-in-liberia-schools-shuttered-by-ebola-set-to-reopen
+
+18 Jan 2015 Pakistan: Infectious waste--plan to tighten noose around erring hospitals
+http://tribune.com.pk/story/823581/infectious-waste-plan-to-tighten-noose-around-erring-hospitals/
+
+17 Jan 2015: Qatar "ready to meet threats from Ebola, MERS"
+http://www.gulf-times.com/qatar/178/details/423599/qatar-%E2%80%98ready-to-meet-threats-from-ebola,-mers%E2%80%99
+
+17 Jan 2015: Russia opens Ebola center in Guinea
+http://rbth.com/news/2015/01/17/russia_opens_ebola_center_in_guinea_42952.html
+
+17 Jan 2015 St. Vincent and the Grenadines discontinues use of Ebola questionnaire [at ports of entry]
+http://www.iwnsvg.com/2015/01/17/svg-discontinues-use-of-ebola-questionnaire/
+
+17 Jan 2015 UK: Ebola aid worker monitored at Surrey hospital [no symptoms, low risk, will be monitored for 21 days]
+http://www.itv.com/news/meridian/story/2015-01-17/ebola-aid-worker-monitored-at-east-surrey-hospital/
+
+18 Jan 2015 UK: Ebola outbreak--Britain's bill for tackling virus in Sierra Leone spirals to GBP 330m [USD 500 million, EU 432 million] due to cuts in aid
+http://www.independent.co.uk/news/uk/politics/ebola-outbreak-britains-bill-for-tackling-virus-in-sierra-leone-spirals-to-330m-due-to-cuts-in-aid-9985776.html
+
+USA
+---
+18 Jan 2015 USA: Washington warns "perfect storm" of conditions leaves ISIS-controlled Iraq and Syria vulnerable to outbreaks of infectious disease
+http://www.iraqoilreport.com/daily-brief/washington-warns-perfect-storm-conditions-leaves-isis-controlled-iraq-syria-vulnerable-outbreaks-infectious-disease-13940/
+
+17 Jan 2015 USA (California): No strike: Kaiser, nurses reach tentative pact with 14 percent raise
+http://www.mercurynews.com/health/ci_27341824/no-strike-kaiser-nurses-reach-tentative-pact-14
+
+Non-governmental organizations
+----------------------
+18 Jan 2015 United Nations warns of "micro-outbreaks" of Ebola [spread pattern has become more "nuanced and complex"]
+http://www.themalaymailonline.com/world/article/un-warns-of-micro-outbreaks-of-ebola
+
+Region
+-----
+16 Jan 2015 West Africa: Many Ebola survivors are yet to be traced
+http://www.newctzen.com/index.php/15-editoral/1751-many-ebola-survivors-are-yet-to-be-traced
+
+16 Jan 2015 West Africa: The financial response to Ebola: Are there links between funding flows to countries and the number of cases?
+http://devinit.org/financial-response-ebola-links-funding-flows-countries-number-cases/
+
+[Compiled by Celeste Whitlow <whitlow.celeste@gmail.com>]
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[HealthMap/ProMED-mail maps can be accessed at: https://promedmail.org/promed-post?place=3101409,45, https://promedmail.org/promed-post?place=3101409,46, and https://promedmail.org/promed-post?place=3101409,54. A map of the UK can be accessed at https://www.google.co.uk/maps. - Mod.LK
+
+A HealthMap/ProMED-mail map can be accessed at: https://promedmail.org/promed-post?place=3101409,50.]
+See Also
+Ebola update (17): supportive care, children, model, susp 20150117.3099840
+Ebola update (16): vaccine, models, slowing, transmission, nurse, malaria, susp 20150117.3098295
+Ebola update (15): predictions, research, susp 20150115.3095580
+Ebola update (14): WHO, burials, Afcon, food, susp. 20150114.3092967
+Ebola update (13): vaccine, Guinea cases, susp. treatment 20150113.3090483
+Ebola update (12): WHO, lessons, vaccine, nanobiophysics, susp. 20150112.3087776
+Ebola update (11): suspected cases 20150111.3085501
+Ebola update (10): ending Ebola, sequester, comments, susp, vaccines 20150110.3084110
+Ebola update (09): WHO, suitcase diagnostic laboratory, suspected 20150109.3082431
+Ebola update (08): WHO, Guinea, amiodarone, regional recovery, susp 20150108.3080212
+Ebola update (07): suits, trials, susp, vaccine 20150107.3077773
+Ebola update (06): Guinea pig, orphan, epidemiologist, school, pregnancy, vacc 20150106.3075369
+Ebola update (05): Africa, world, WHO, Sierra Leone, Liberia, Iraq, susp, drugs 20150105.3072587
+Ebola update (04): Africa, world, WHO, funding, transfusion, susp 20150105.3070607
+Ebola update (03): Africa, world, USA, UK, susp, drugs, vaccines 20150103.3069311
+Ebola update (02): Africa, world, WHO, IV therapy, USA, outbreaks, susp 20150102.3068060
+Ebola update (01): Africa, world, HCW cases, susp 20150101.3066740
+2014
+----
+Ebola virus disease - West Africa (236): WHO, Liberia, Sierra Leone, bats, susp. 20141230.3063314
+Ebola virus disease - West Africa (235): mortality, vaccine, Liberia, S.Leone 20141229.3059148
+Ebola virus disease - West Africa (234): WHO, Guinea, Liberia, S Leone, region 20141227.3056699
+Ebola virus disease - West Africa (233): WHO, S Leone, Liberia, susp 20141225.3053835
+Ebola virus disease - West Africa (232): WHO, Sierra Leone, seq, region, susp 20141223.3049556
+Ebola virus disease - West Africa (231): WHO 20141220.3045658
+Ebola virus disease - West Africa (230): Sierra Leone medic dies, Guinea, susp 20141218.3042755
+Ebola virus disease - West Africa (220): WHO, Mali imam, MSF, World Bank economy 20141203.3009934
+Ebola virus disease - West Africa (210): Mali, Liberia, WHO 20141114.2955997
+Ebola virus disease - West Africa (200): Mali, Liberia, cremation, case numbers 20141031.2920082
+and older items in the archives
+----
+Ebola virus disease - ex Africa (59): cost of outbreak, IMF, susp. cases 20141231.3065139
+Ebola virus disease - ex Africa (58): UK case, Roche test, global threat, susp. 20141229.3060974
+Ebola virus disease - ex Africa (57): Kazakhstan, Myanmar, PAHO, lessons 20141228.3058006
+Ebola virus disease - ex Africa (56): Australia, UK, USA 20141226.3055196
+Ebola virus disease - ex Africa (55): UK travel ban for NHS returnees, susp. 20141221.3047302
+Ebola virus disease - ex Africa (50): nurse medevaced to USA, vaccine, UK, susp 20141212.3030624
+Ebola virus disease - ex Africa (40): USA ZMapp, cost, UK, India prevention 20141119.2972218
+Ebola virus disease - ex Africa (30): USA scares, hospital preparedness 20141104.2929706
+Ebola virus disease - ex Africa (20): Spain negative, India, USA, China 20141019.2880692
+Ebola virus disease - ex Africa (10): WHO, UN, Liberia, medevac, S. Leone, USA 20141010.2851248
+Ebola virus disease - ex Africa (02): USA ex Liberia, prevention, false alarms 20141002.2827166
+Ebola virus disease - ex Africa: USA ex Liberia, WHO 20141001.2823539
+.................................................sb/lk/msp/lm
+</body>

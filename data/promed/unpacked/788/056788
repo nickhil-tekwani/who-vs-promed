@@ -1,0 +1,383 @@
+<header id=056788>
+Published Date: 2021-01-20 11:57:12 EST
+Subject: PRO/AH/EDR> COVID-19 update (25): long COVID, mask wearing, Brazil, WHO, global
+Archive Number: 20210120.8119004
+</header>
+<body id=056788>
+CORONAVIRUS DISEASE 2019 UPDATE (25): LONG COVID, MASK-WEARING, BRAZIL, WHO, GLOBAL
+***********************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] Long COVID
+[2] USA: mask wearing and transmission control - The Lancet
+[3] Brazil (Amazonas)
+[4] WHO updates (as of 19 Jan 2021)
+[5] Global update: Worldometer accessed 19 Jan 2021 22:08 EST (GMT-5)
+
+******
+[1] Long COVID
+Date: Sat 19 Dec 2020
+Source: medRxiv [abridged, edited]
+https://www.medrxiv.org/content/10.1101/2020.10.19.20214494v2
+
+
+ref: Sudre CH, Murray B, Varsavsky T, et al. Attributes and predictors of Long-COVID: analysis of COVID cases and their symptoms collected by the COVID Symptoms Study App. medRxiv 2020.10.19.20214494; doi: 10.1101/2020.10.19.20214494
+--------------------------------------------------------------------------------
+Abstract
+--------
+Reports of "Long-COVID", are rising but little is known about prevalence, risk factors, or whether it is possible to predict a protracted course early in the disease. We analysed data from 4182 incident cases of COVID-19 who logged their symptoms prospectively in the COVID Symptom Study app. 558 (13.3%) had symptoms lasting 28 days or longer, 189 (4.5%) for 8 weeks or longer and 95 (2.3%) for 12 weeks or longer. Long-COVID was characterised by symptoms of fatigue, headache, dyspnoea, and anosmia and was more likely with increasing age, BMI [body mass index], and female sex. Experiencing more than 5 symptoms during the 1st week of illness was associated with long-COVID, OR [odds ratio]=3.53 [2.76;4.50]. A simple model to distinguish between short and long-COVID at 7 days, which gained a ROC-AUC of 76%, was replicated in an independent sample of 2472 antibody positive individuals. This model could be used to identify individuals for clinical trials to reduce long-term symptoms and target education and rehabilitation services.
+
+We found early disease features were predictive of duration. With only 3 features -- number of symptoms in the 1st week, age, and sex, we were able to accurately distinguish individuals with LC28 [COVID symptoms persisting more than 28 days] from those with short duration. Importantly, the model generalised well to the population reporting antibody testing. This important information could feature in highly needed targeted education material for both patients and healthcare providers and we present typical nomograms for use in clinical settings in Supplementary Figure 7. Moreover, the method could help determine at-risk groups and could be used to target early intervention trials and clinical service developments to support rehabilitation in primary and specialist care(14) to alleviate Long-COVID and facilitate timely recovery to feeling normal.
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[The full study is available at the source URL above. It is a good attempt at trying to sort out who is most likely to have continuing COVID symptoms over a long period of time, that is more than 28 days, as compared with those whose symptoms last less than 10 days. Such information would be useful to the patient to prepare them mentally for what to expect in terms of recovery time until they once again feel healthy. The study is limited by its test group, that is, only those who were app users, which was disproportionately female and under-70 years old. - Mod.LK]
+
+******
+[2] USA: mask wearing and transmission control - The Lancet
+Date: Tue 19 Jan 2021
+Source: The Lancet [edited]
+https://www.thelancet.com/journals/landig/article/PIIS2589-7500(20)30293-4/fulltext
+
+
+ref: Rader B, White LF, Burns MR, Chen J, Brilliant J et al. Mask-wearing and control of SARS-CoV-2 transmission in the USA: a cross-sectional study. Lancet Digit Health 2021 19 Jan; doi: 10.1016/S2589-7500(20)30293-4
+--------------------------------------------------------------------------------
+Summary
+-------
+Background
+Face masks have become commonplace across the USA because of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) epidemic. Although evidence suggests that masks help to curb the spread of the disease, there is little empirical research at the population level. We investigate the association between self-reported mask-wearing, physical distancing, and SARS-CoV-2 transmission in the USA, along with the effect of statewide mandates on mask uptake.
+
+Methods
+Serial cross-sectional surveys were administered via a web platform to randomly surveyed US individuals aged 13 years and older, to query self-reports of face mask-wearing. Survey responses were combined with instantaneous reproductive number (Rt) estimates from 2 publicly available sources, the outcome of interest. Measures of physical distancing, community demographics, and other potential sources of confounding (from publicly available sources) were also assessed. We fitted multivariate logistic regression models to estimate the association between mask-wearing and community transmission control (Rt [reproductive number] less than 1). Additionally, mask-wearing in 12 states was evaluated 2 weeks before and after statewide mandates.
+
+Findings
+378 207 individuals responded to the survey between [3 Jun 2020] and [27 Jul 2020], of which 4186 were excluded for missing data. We observed an increasing trend in reported mask usage across the USA, although uptake varied by geography. A logistic model controlling for physical distancing, population demographics, and other variables found that a 10% increase in self-reported mask-wearing was associated with an increased odds of transmission control (odds ratio 3.53, 95% CI [confidence interval] 2.03-6.43). We found that communities with high reported mask-wearing and physical distancing had the highest predicted probability of transmission control. Segmented regression analysis of reported mask-wearing showed no statistically significant change in the slope after mandates were introduced; however, the upward trend in reported mask-wearing was preserved.
+
+Interpretation
+The widespread reported use of face masks combined with physical distancing increases the odds of SARS-CoV-2 transmission control. Self-reported mask-wearing increased separately from government mask mandates, suggesting that supplemental public health interventions are needed to maximise adoption and help to curb the ongoing epidemic.
+
+Funding
+Flu Lab, Google.org (via the Tides Foundation), National Institutes for Health, National Science Foundation, Morris-Singer Foundation, MOOD, Branco Weiss Fellowship, Ending Pandemics, Centers for Disease Control and Prevention (USA).
+
+Introduction
+------------
+Despite widespread implementation, the effectiveness of various non-pharmaceutical interventions has been debated,/4 resulting in substantial heterogeneity in the acceptance of these interventions at the individual and community level, /5 including the use of face masks and respirators./6
+
+Cloth face coverings and surgical masks (collectively known as face masks) have been recommended as an alternative for the general public./8 Following the initial spread of the virus in the USA, many local and state jurisdictions have mandated the use of face masks in public settings./3 These masks are intended to serve as a mechanical barrier that prevents the spread of virus-laden droplets expelled by the user. /9 Therefore, their purpose is to reduce transmission events by the individual, rather than to protect the individual from infection. Accordingly, face masks are advocated as a source of collective benefit that is most successful with high amounts of adoption./10
+
+Research in context
+-------------------
+Evidence before this study
+We searched PubMed and medRxiv for all articles posted between [1 Jan 2020] and [24 Aug 2020], with the terms: "mask", "reproductive number", "social distancing", and "SARS-CoV-2", or "COVID-19". We combined this list with known publications that did not meet the specified search criteria. We excluded studies where the results were estimated from mathematical models or presented as hypotheticals, as well as those that did not directly estimate the association of face masks with transmission. We found two case reports and one non-peer reviewed observational study that met our criteria. Although each study made use of different endpoints, all found significantly lower disease measures with higher rates of mask-wearing. We also found a study that established mask mandates as a proxy for mask-wearing, but there was no statistical association between mandates and a lower rate of transmission. Despite little observational and experimental research on masks, physical distancing, and severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), evidence from other respiratory pathogens and bench science indicates the effectiveness of masks at reducing disease spread.
+
+Added value of this study
+To understand the effectiveness of face masks as a non-pharmaceutical intervention, we directly examined mask-wearing instead of using mask mandates as a proxy. We supplemented case studies by using a large sample representative of the population across the USA, combined with community estimates of SARS-CoV-2 transmission. We showed that states with higher rates of mask-wearing had estimated instantaneous reproductive numbers that were lower than the crucial threshold needed to maintain disease transmission. We also showed that mask mandates alone might not be sufficient to increase mask-wearing rates and, therefore, highlight why studies analysing mask mandate interventions might not find a statistical effect, despite the positive effect of masks.
+
+Implications of all the available evidence
+In combination with previous research, this study shows that the community adoption of face masks might be an important non-pharmaceutical intervention for the reduction of SARS-CoV-2. Beyond mask mandates, innovative strategies to increase the use of face masks should be explored.
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[For the skeptics who don't think mask-wearing makes a difference this is another study with solid data demonstrating the impact of mask-wearing on disease transmission. - Mod.MPP]
+
+******
+[3] Brazil (Amazonas)
+[A] Manaus
+Date: Thu 14 Jan 2021
+Source: The Guardian [abridged, edited]
+https://www.theguardian.com/world/2021/jan/14/brazil-manaus-amazonas-covid-coronavirus
+
+
+Health workers in Brazil's largest state [Amazonas] are begging for help and oxygen supplies after an explosion of COVID deaths and infections that one official compared to a tsunami and said could be linked to a new variant. Amazonas, and particularly its riverside capital Manaus, were pummeled by the epidemic's 1st wave last April [2020]. But at a press conference on Thursday [14 Jan 2021], the state governor, Wilson Lima, admitted the situation was now even more dramatic and declared an immediate 7 pm to 6 am curfew to slow the outbreak.
+
+"We are facing the most critical moment of the pandemic, something unprecedented in the state of Amazonas," Lima told reporters as he announced the restriction. As he spoke, horrific details were emerging of a breakdown in Manaus's public health system, with reports of many patients dying after public hospitals and emergency care units ran out of oxygen. More than 206,000 people have now died across Brazil, the 2nd highest total in the world after the US.
+
+"This is an unprecedented calamity," said Jesem Orellana, a local epidemiologist from the Fiocruz public health research centre. "In the coming hours Manaus is going to be the protagonist of one of the saddest chapters of the COVID-19 epidemic in the world. There is no [oxygen]," added Orellana, who has been calling for a local lockdown since September [2020]. "Colleagues of ours -- nurses, doctors, and even social workers - are being called in to perform manual ventilation on people. A single human being is only capable of performing manual ventilation for about 20 minutes, so if you want to save one life without oxygen you are going to need at least 3 or 4 people per patient."
+
+The director of one of Manaus's most important public hospitals sent health workers a WhatsApp message pleading for their help. "The Getulio Vargas hospital has no oxygen and all patients are being ambuzados (manually ventilated). If anyone can help rotate the ventilation of the patients in the ICU on the 5th floor, please, we need you," he told them. "This is the situation. It is critical. Let's fight. If you can help, please do."
+
+Speaking alongside the governor at Thursday's press conference, local health official Tatiana Amorim said the R value in Amazonas state was now 1.3. "This means that for every 100 people 130 are being infected each 7 days. This speed was seen in April [2020] and May [2020] (at the height of the 1st wave). This means that we are truly again experiencing a tsunami."
+
+Amorim said there were 3 possible explanations for the sudden surge in infections: the relaxation of containment measures, increased transmission during Christmas and end-of-year festivities, and the chance that a new coronavirus variant was circulating in Amazonas.
+
+State authorities took action on [26 Dec 2020], ordering shops to close for 15 days, before backing away from those measures after street protests from local business people and workers. "Politics kills," the Getulio Vargas hospital health worker said on Thursday [14 Jan 2021].
+
+[Byline: Tom Phillips]
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[There a short report from Al Jazeera about the shortage of oxygen in Amazonas state in COVID-19 update (18): vaccine, SIREN study, snippets, China, WHO, global 20210115.8104986 (https://www.aljazeera.com/news/2021/1/15/brazils-amazonas-state-running-out-of-oxygen-as-covid-19-surges). - Sr.Tech.Ed.MJ/Mod.MPP]
+
+----
+[B] Vaccination
+Date: Wed 20 Jan 2021
+Source: Al Jazeera, Reuters report [edited]
+https://www.aljazeera.com/news/2021/1/20/covid-vaccinations-begin-in-amazonas-state
+
+
+The Brazilian city of Manaus [Amazonas state] has begun administering vaccinations against COVID-19, providing some hope as the local health system is under severe strain amid a surge in infections and dwindling oxygen supplies. The Amazonas state government on Tuesday [19 Jan 2021] started distributing vaccine doses to municipalities, where the priority in the 1st phase of inoculations will be health workers, elderly people above age 80 and Indigenous people in about 265 villages.
+
+Governor Wilson Lima led a ceremony that kicked off the vaccination campaign on Monday night [18 Jan 2021] in Manaus, home to about 2.2 million people and the capital of Amazonas, which received 256 000 initial doses of COVID-19 vaccines.
+
+[A 33-year old female], member of the Witoto ethnicity and a nurse technician, received the 1st dose of CoronaVac, the vaccine developed by Sinovac.
+
+More Brazilian states administered their 1st COVID-19 inoculations on Tuesday [19 Jan 2021], as the government distributed about 6 million ready doses of the vaccine from China's Sinovac after its approval on Sunday [17 Jan 2021] for emergency use. The country also approved Britain's AstraZeneca vaccine.
+
+Brazil has reported more than 211 000 deaths linked to the novel coronavirus since the pandemic began -- the 2nd-highest tally in the world after the United States -- and more than 8.57 million COVID-19 cases, according to Johns Hopkins University. The country's Amazonas state has been particularly hard hit by a recent surge in infections.
+
+Brazilian Health Minister Eduardo Pazuello said last week [14 Jan 2021] that the hospital system in Manaus was collapsing, as health facilities were short-staffed and quickly running out of oxygen. Amazonas has recorded at least 232 000 cases of COVID-19 since the start of the pandemic, according to official figures.
+
+Hospitals in Manaus have admitted few new COVID-19 patients, causing many to suffer from the disease at home and some to die. Many doctors have had to choose which COVID-19 patients will get oxygen, while desperate family members searched for oxygen tanks for their loved-ones.
+
+The city is receiving an average of 4 Brazilian air force flights per day to bolster oxygen stocks, along with one shipment per day from the city of Belem near the mouth of the Amazon river, according to officials.
+
+Brazil also is battling bureaucracy in China to free up exports of active ingredients for vaccines developed by AstraZeneca and Sinovac Biotech, 3 people familiar with talks told the Reuters news agency on Tuesday [19 Jan 2021]. The issue could slow the country's vaccination drive. The sources, who spoke anonymously due to diplomatic sensitivities, said red tape in China was holding back supplies needed for Brazil to finish and distribute millions more doses from its own biomedical facilities.
+
+"It's a new situation, and there's a bureaucratic problem. The Chinese are still defining procedures, which takes time," one source said. "There's also a relative scarcity of supplies." Brazil's federally funded biomedical centre Fiocruz said it would not be able to deliver finished doses of the AstraZeneca shot until March [2021] as it waits for the 1st shipment of active ingredients from China. The institute had been aiming for one million doses by mid-February [2021].
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[Manaus is not the only city to be overwhelmed with an explosion of cases. The statement that "3 possible explanations for the sudden surge in infections: the relaxation of containment measures, increased transmission during Christmas and end-of-year festivities, and the chance that a new coronavirus variant was circulating in Amazonas." Is an accurate statement... while there has been a new variant identified in Amazonas (see COVID-19 update (12): viral load, variants, Thailand, China, WHO, global 20210111.8091330), the common theme of increased transmission during holiday periods combined with a relaxation of containment methods is shared by many countries that have not been impacted as yet by new variants.
+
+As for the increased mortality being seen, a study published today (19 Jan 2021) highlights the impact of overloaded/overwhelmed medical services. Bravata DM, Perkins AJ, Myers LJ, et al. Association of intensive care unit patient load and demand with mortality rates in US Department of Veterans Affairs hospitals during the COVID-19 pandemic. JAMA Netw Open. 2021; 4(1): e2034266. doi:10.1001/jamanetworkopen.2020.34266; https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2775236
+--------------------------------------------------------------------------------
+"Key points
+-----------
+"Question
+Is greater coronavirus disease 2019 (COVID-19) intensive care unit (ICU) strain associated with increased COVID-19 mortality?
+"Findings
+In this cohort study of 8516 patients with COVID-19 admitted to 88 US Veterans Affairs hospitals, strains on critical care capacity were associated with increased COVID-19 mortality. Among patients with COVID-19, those treated in the ICU during periods of peak COVID-19 ICU demand had a nearly 2-fold increased risk of mortality compared with those treated during periods of low demand.
+
+"Meaning
+These findings suggest that public health officials and hospital administrators should consider interventions that reduce COVID-19 ICU demand to improve survival among patients with COVID-19 in the ICU.
+
+"Abstract
+---------
+"Importance
+Although strain on hospital capacity has been associated with increased mortality in nonpandemic settings, studies are needed to examine the association between coronavirus disease 2019 (COVID-19) critical care capacity and mortality.
+
+"Objective
+To examine whether COVID-19 mortality was associated with COVID-19 intensive care unit (ICU) strain.
+
+"Design, setting, and participants
+This cohort study was conducted among veterans with COVID-19, as confirmed by polymerase chain reaction or antigen testing in the laboratory from March through August 2020, cared for at any Department of Veterans Affairs (VA) hospital with 10 or more patients with COVID-19 in the ICU. The follow-up period was through November 2020. Data were analyzed from March to November 2020.
+
+"Exposures
+Receiving treatment for COVID-19 in the ICU during a period of increased COVID-19 ICU load, with load defined as mean number of patients with COVID-19 in the ICU during the patient's hospital stay divided by the number of ICU beds at that facility, or increased COVID-19 ICU demand, with demand defined as mean number of patients with COVID-19 in the ICU during the patient's stay divided by the maximum number of patients with COVID-19 in the ICU.
+
+"Main outcomes and measures
+All-cause mortality was recorded through 30 days after discharge from the hospital.
+
+"Results
+Among 8516 patients with COVID-19 admitted to 88 VA hospitals, 8014 (94.1%) were men and mean (SD) age was 67.9 (14.2) years. Mortality varied over time, with 218 of 954 patients (22.9%) dying in March, 399 of 1594 patients (25.0%) dying in April, 143 of 920 patients (15.5%) dying in May, 179 of 1314 patients (13.6%) dying in June, 297 of 2373 patients (12.5%) dying in July, and 174 of 1361 (12.8%) patients dying in August (P less than .001). Patients with COVID-19 who were treated in the ICU during periods of increased COVID-19 ICU demand had increased risk of mortality compared with patients treated during periods of low COVID-19 ICU demand (that is, demand of 25% or less); the adjusted hazard ratio for all-cause mortality was 0.99 (95% CI, 0.81-1.22; P = .93) for patients treated when COVID-19 ICU demand was more than 25% to 50%, 1.19 (95% CI, 0.95-1.48; P = .13) when COVID-19 ICU demand was more than 50% to 75%, and 1.94 (95% CI, 1.46-2.59; P less than .001) when COVID-19 ICU demand was more than 75% to 100%. No association between COVID-19 ICU demand and mortality was observed for patients with COVID-19 not in the ICU. The association between COVID-19 ICU load and mortality was not consistent over time (that is, early vs late in the pandemic).
+
+"Conclusions and relevance
+This cohort study found that although facilities augmented ICU capacity during the pandemic, strains on critical care capacity were associated with increased COVID-19 ICU mortality. Tracking COVID-19 ICU demand may be useful to hospital administrators and health officials as they coordinate COVID-19 admissions across hospitals to optimize outcomes for patients with this illness."
+
+The challenges ahead for local production of vaccines are disconcerting. It is as though the race was to claim victory of having produced an effective vaccine, but production and distribution weren't completely planned for. - Mod.MPP]
+
+******
+[4] WHO updates (as of 19 Jan 2021)
+[A] Weekly epidemiological update
+Date: Tue 19 Jan 2021
+Source: WHO Emergency Situational Updates [abridged, edited]
+https://www.who.int/publications/m/item/weekly-epidemiological-update---19-january-2021
+
+
+Data as received by WHO from national authorities, as of [17 Jan 2021], 10 am CET.
+
+Global epidemiological situation
+--------------------------------
+Globally, 4.7 million new cases were reported in the past week, a decline of 6% from last week (Figure 1). At the same time, the number of new deaths has climbed to a record high at 93 000, a 9% increase from last week. Over 2 million people have now lost their lives to COVID-19. The Americas, Europe, and South East Asia regions showed declines in new cases, with Europe showing a 15% decline and the Americas and South-East Asia regions showing more moderate declines of 2% and 1% respectively (Table 1). On the other hand, the Eastern Mediterranean, African, and Western Pacific regions reported increases in new cases, with the Western Pacific showing the largest increase (14%). All regions reported increases in new deaths; case incidence continues to be one of the primary drivers of mortality - where increases in the number of COVID-19 related hospitalizations and deaths follow large numbers of cases after a short time lag.
+
+In the past week, the 5 countries reporting the highest number of cases were the United States of America (1 583 237 cases, an 11% decrease), Brazil (379 784 cases, a 21% increase), the United Kingdom of Great Britain and Northern Ireland (339 952 cases, a 19% decrease), the Russian Federation (166 255 cases, 1% increase) and France (125 279 cases, a 2% increase).
+
+Figure 1: COVID-19 cases reported weekly by WHO Region, and global deaths, as of [17 Jan 2021]
+Figure 2: COVID-19 cases per 100 000 population reported in the last 7 days by countries, territories, and areas, [11 Jan 2021] through [17 Jan 2021]
+Table 1: Newly reported and cumulative COVID-19 confirmed cases and deaths, by WHO Region, as of [17 Jan 2021]
+Table 2: COVID-19 confirmed cases and deaths reported in the last 7 days by countries, territories and areas, and WHO Region, as of [17 Jan 2021]
+
+Special focus: children, COVID-19, and transmission in schools
+--------------------------------------------------------------
+One of the most concerning questions has been the extent to which COVID-19 affects children and adolescents and the role of schools in community transmission. As WHO Director-General Dr Tedros said in a press conference, "understanding how COVID-19 affects children has been a priority issue. We all want to see children back at school and we all want to make sure schools are the safe and supportive learning environments they should be."/1 Research is ongoing into the factors that may put children and adolescents at risk, long-term health effects in those who have been infected, and importantly the impact of new variants of SARS-CoV-2. Here we present a number of lessons learned in 2020:
+- Of all COVID-19 cases reported by countries, children and adolescents under 18 have represented only around 8% of cases in 2020, despite comprising 29% of the global population. Mild infections may have been underreported.
+- Children and adolescents are more likely to present with a mild or asymptomatic infection and are much less likely than adults to be hospitalized or have fatal outcomes./2 Only 0.2% of deaths were reported in people under the age of 20 years./3
+- Studies suggest that children under 10 years are less susceptible and less infectious than older ones/4. A study/5 in Norway from August to November 2020 found very low child-to-child and child-to-adult transmission in primary schools (children aged 5-13 years) that had infection prevention and control measures in place. Viral load studies suggest that children with symptoms carry as much virus in the nose, mouth, and throat as adults, but for shorter periods with peak respiratory viral load early after symptom onset, followed by a rapid decline.
+- Adolescents, 16-18 years of age transmit the virus as often as adults and more readily than younger children and more outbreaks were reported in secondary/high schools than in primary/elementary schools./6
+- Data from the United Kingdom of Great Britain and Northern Ireland suggest that staff-to-staff transmission in schools was most common; among staff and students less common; and that student-to-student transmission was even less frequent./7
+- However, little evidence exists suggesting school staff are at a higher risk of infection when they are at school than the general adult population. In fact, national surveillance data from the United Kingdom found that school staff are at lower risk of infection in school settings when compared to the general adult population. Another study, focusing on 57 000 caregivers at childcare facilities in the United States of America, found that there was no increased risk of infection for the caregivers./8
+- The evidence for closing schools to reduce community transmission was mixed. The arrival in late in 2020 of new more transmissible variants of SARS-CoV-2 requires additional analysis by sex and age to measure how and if the new variants impact children differently. If it is found that children are more affected, public health social measures may need to be adapted.
+- Several studies showed that school re-openings have not been associated with significant increases in community transmission or spikes./9,/10,/11,/12. The return to school of many children in mid-August [2020], following periods of lower community transmission in many countries, appears to have contributed toward the rises seen in October [2020]. However, a United Kingdom government report/13 found that when schools reopened in England and Wales in the summer [2020], the infection rates among students did not increase over the existing population rate. A study in the Republic of Korea/12 found that there was not an increase in COVID-19 cases in the 2 months following the resumption of classes in May [2020] and that in most COVID-19 cases in children, the infection had been acquired from family members, not at school.
+- Schools have not been identified as superspreading settings except in a few examples where mitigation measures were not well enforced. An outbreak occurred at a high school in Israel in May [2020]/14 where teenagers sat in airconditioned rooms with over 30 classmates and without wearing masks. This led to 153 students and 25 staff infected.
+- The longer vulnerable children are out of school, the less likely they are to return. Children from the poorest households are already almost 5 times more likely to be out of primary school than those from the richest. Being out of school also increases the risk of teenage pregnancy, sexual exploitation, child marriage, violence, and other threats/15. Further, prolonged closures disrupt essential school-based services such as immunization, school feeding, and mental health and psychosocial support, and can cause stress and anxiety due to the loss of peer interaction and disrupted routines. These negative impacts will be significantly higher for vulnerable children, such as those living in countries affected by conflict and other protracted crises, migrants, refugees and the forcibly displaced, minorities, children living with disabilities, and children in institutions./16
+- School closures affect children negatively in many ways besides their education, including equity, child health (both physical and mental health), and development, and can affect the ability of parents to work, introducing other risks./17/18. Audrey Azoulay, UNESCO Director-General, has warned that "The longer schools remain closed, the more damaging the consequences, especially for children from more disadvantaged backgrounds ... therefore, supporting safe schools must be a priority for us all"./19 Henrietta Fore, the United Nations Children's Fund (UNICEF) Executive Director stated, "As we enter the 2nd year of the COVID-19 pandemic, and as cases continue to soar around the world, no effort should be spared to keep schools open or prioritize them in reopening plans... [c]losing schools must be a measure of last resort after all other options have been considered."/20
+
+[See source URL above for references, conclusions, and recommendations]
+
+Special focus: update on SARS-CoV-2 variants of concern
+-------------------------------------------------------
+WHO, in collaboration with national authorities, institutions and researchers, is closely monitoring the public health events associated with SARS-CoV-2 variants and will continue providing updates as new information becomes available. This includes routine assessment of SARS-CoV-2 variants to establish if they have altered transmissibility, clinical presentation, and severity, or if they may respond differently to countermeasures, including diagnostics, therapeutics, and vaccines. Further information on the background of variants of concern (VOC) is available in Disease Outbreak News and the Weekly Epidemiological Updates published on [5 Jan 2021] and [11 Jan 2021].
+
+Since the last update on [12 Jan 2020], VOC 202012/01 has been detected in 10 additional countries, territories, and areas (hereafter countries). To date, 60 countries across all 6 WHO regions have reported either imported cases or community transmission of this variant (Figure 3). Several reports of ongoing studies evaluating transmission and severity have been made available by Public Health England. Concurrently, variant 501Y.V2 has been reported from 3 additional countries -- now totaling 23 countries across 4 of the 6 WHO regions.
+
+Since our last update, a new variant (named the P.1 variant) has been reported from Brazil (Manaus, Amazonas State), which belongs to Nextstrain clade 20B, GISAID clade GR, and Pangolin lineage B.1.1.28. This variant includes mutations N501Y, E484K, K417T, and deletion in ORF1b (del11288-11296) in the spike protein. In addition to the P.1 variant, another variant within the lineage B.1.1.28 with the E484K mutation (but none of the other mutations) has been reported from Brazil. There is currently little available information to assess if there are changes in transmissibility or severity as a result of these new variants; however, given similar amino acid changes observed in VOC 202012/01 and 501Y.V2, which have shown increased transmissibility and potential impacts on antibody neutralization, further investigations are needed and are underway.
+
+On [14 Jan 2021], WHO Director-General convened the 6th meeting of the Emergency Committee on COVID-19, which included discussions on the impact of the emerging variants of SARS-CoV-2 and additional travel restrictions that many countries are imposing. The WHO secretariat presented a Risk Monitoring Framework to identify, monitor, and assess SARS-CoV-2 mutations, variants of interest and variants of concern. The Emergency Committee supported the call for a global effort to sequence and share data to monitor the virus evolution and collaborate scientifically to increase global understanding of variants and their effects on vaccine, therapeutics, and diagnostic efficacy. The Committee advised WHO to develop a standardized nomenclature and definitions of SARS-CoV-2 virus variants that are geographically neutral, an area WHO has already begun work in.
+
+On [12 Jan 2021] and [15 Jan 2021], WHO convened 2 global virtual meetings of scientific experts and partners, to identify and discuss critical knowledge gaps and research priorities for emerging variants of SARS-CoV-2, and vaccines developed for SARS-CoV-2. The participants of both meetings emphasized the importance of coordinated research to detect and understand early the potential impact of emerging variants on diagnostics, treatments, the efficacy of vaccines, the impact of vaccines on transmission of infection, and the need to develop the next generation of vaccine platforms. WHO will work to ensure that critical research is coordinated across all partners. The meeting concluded with agreement to establish a WHO-hosted platform for global sharing and coordination of emerging vaccine research information on efficacy and safety. The forum would enable scientists to share and discuss unpublished and published data and research protocols to further our collective understanding of SARS-CoV-2 vaccines.
+
+Figure 3: Countries, territories, and areas reporting SARS-CoV-2 VOC 202012/01 and SARS-CoV-2 501Y.V2 variant as of [19 Jan 2021])
+
+Situation by WHO Region
+-----------------------
+- African Region
+In the past week, the African Region reported over 177 000 cases and 5000 deaths, a 1% increase in cases and 16% increase in deaths compared to the previous week. Cases in the Region continue to increase since mid-September 2020; however, the increase this week has been slight when compared to steeper increases in recent months. The highest numbers of new cases were reported in South Africa (111 483 new cases; 188 new cases per 100 000 population; an 11% decrease), Nigeria (11 465 new cases; 5.6 new cases per 100 000; a 38% increase) and Zambia (9507 new cases; 51.7 new cases per 100 000; a 78% increase). The countries reporting the highest number of new deaths in the past week were South Africa (4027 new deaths; 6.8 new deaths per 100 000; a 10% increase), Zimbabwe (200 new deaths; 1.3 new deaths per 100 000; an 89% increase), and Malawi (80 new deaths; 0.4 new deaths per 100 000; a 186% increase).
+
+- Region of the Americas
+Over 2.4 million new cases and over 43 000 new deaths were reported in the Region of the Americas this week, a decrease of 2% and an increase of 15% respectively compared to the previous week. For the past 4 weeks, the highest numbers of new cases continue to be reported from the United States of America (1 583 237 new cases; 478.3 new cases per 100 000 population; [an] 11% decrease), Brazil (379 784 new cases; 178.7 new cases per 100 000; a 21% increase) and Colombia (114 611 new cases; 225.2 new cases per 100 000; a 14% increase). The highest numbers of deaths were reported from the United States of America (23 198 new deaths; 7.0 new deaths per 100 000; a 12% increase), Mexico (6953 new deaths; 5.4 new deaths per 100 000; a 25% increase), and Brazil (6786 new deaths; 3.2 new deaths per 100 000; a 12% increase).
+
+- Eastern Mediterranean Region
+In the past week, the Eastern Mediterranean Region reported over 183 000 new cases, an increase of 7% compared to last week. The region reported 2846 new deaths, an increase of 2% after a sustained decrease in deaths from [23 Nov 2020] through the week of [11 Jan 2021]. The 3 countries reporting the highest numbers of new cases continue to be Iran (43 957 new cases, 52.3 new cases per 100 000 population, a 2% increase), Lebanon (33 605 new cases, 492.3 new cases per 100 000, 15% increase) and United Arab Emirates (22 106 new cases, 223.5 new cases per 100 000, 38 % increase). These 3 countries accounted for almost half (54%) of the new weekly cases in the Region. The highest numbers of new deaths were reported in Iran (617 new deaths, 0.7 new death per 100 000 population, 7% decrease) followed by Tunisia (463 new deaths, 3.9 new death per 100 000, 19% increase) and Egypt (385 new deaths, 0.4 new death per 100 000, a 4 % decrease). These countries accounted for almost 52% of deaths reported in the Region.
+
+- European Region
+The European Region continues to report a substantial number of cases with over 1.6 million new cases and over 37 000 new deaths, a decrease of 15% and an increase of 2% respectively when compared to the previous week. The 3 countries reporting the highest numbers of new cases were the United Kingdom (339 952 new cases; 500.8 new cases per 100 000, 19% decrease), the Russian Federation (166 255 new cases, 113.9 new cases per 100 000, 1% increase) and France (125 279 new cases, 191.9 new cases per 100 000, 2% increase). These 3 countries accounted for almost 40% of all cases reported in the region with the United Kingdom accounting for 21% of all new cases. The highest numbers of deaths were reported from the United Kingdom (7722 new deaths; 11.4 new deaths per 100 000, 23% increase), Germany (6076 new deaths; 7.3 new deaths per 100 000, similar to the previous week), and the Russian Federation (3729 new deaths; 2.6 new deaths per 100 000, a 12% increase).
+
+- South East Asia Region
+The South East Asia Region continues to report falling numbers of new cases and deaths, a decline observed since September 2020. Just over 200 000 new cases and over 3400 new deaths were reported in the past week, a 1% decrease and 4% increase respectively, compared to the previous week. The 3 countries reporting the highest numbers of new cases and new deaths were India (107 701 new cases; 7.8 new cases per 100 000, a 15% decrease), Indonesia (78 256 new cases; 28.6 new cases per 100 000; a 31% increase) and Bangladesh (5681 new cases; 3.4 new cases per 100 000; an 8% decrease). The 3 countries reporting the highest numbers of new deaths this week were India (1275 new deaths; 0.1 new death per 100 000, an 18% decrease), Indonesia (1820 new deaths; 0.7 new death per 100 000, a 31% decrease) and Bangladesh (127 new deaths; 0.1 new death per 100 000; a 19% decrease).
+
+- Western Pacific Region
+The Western Pacific Region reported an increase in the number of new cases by 14% (over 81 000) and new deaths by 35% (over 1100) in the past week compared to the previous week. The upward trend in new weekly cases and deaths has continued since October 2020. The 3 countries reporting the highest numbers of new cases this week were Japan (41 521 new cases; 32.8 new cases per 100 000, a 4% increase), Malaysia (21 536 new cases; 66.5 new cases per 100 000, a 33% increase), and the Philippines (12 894 new cases; 11.8 new cases per 100 000, a 45% increase). The 3 countries reporting the highest numbers of new deaths this week were the Philippines (486 new deaths; 0.4 new deaths per 100 000, a 235% increase), Japan (450 new deaths; 0.4 new deaths per 100 000, similar to previous week), and the Republic of Korea (124 new deaths; 0.2 new deaths per 100 000, a 24% decrease).
+
+[Epidemic curves are available at the source URL following each regional update]
+
+----
+[B] Daily new cases reported (as of 19 Jan 2021)
+Date: Tue 19 Jan 2021
+Source: WHO [abridged, edited]
+https://covid19.who.int/table
+
+*Daily case reports as of 19 Jan 2021 18:44 CET
+
+Surveillance
+------------
+WHO region (no. countries/territories):
+Total confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+----------------------------------
+Western Pacific Region (19): 1 290 493 (12 220) / 22 420 (87)
+European Region (61): 30 809 189 (142 090) / 674 202 (4793)
+South East Asia Region (10): 12 511 441 (21 575) / 192 088 (478)
+Eastern Mediterranean Region (22): 5 382 718 (22 214) / 128 644 (417)
+Region of the Americas (54): 41 776 035 (95 262) / 963 290 (2009)
+African Region (49): 2 353 991 (18 841) / 53 870 (532)
+Cases on an international conveyance (Diamond Princess): 745 (0) / 13 (0)
+
+Confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+Grand total: 94 124 612 (312 202) / 2 034 527 (8316)
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[The number of countries and territories reporting confirmed cases of COVID-19 to WHO remains 219.
+
+Data by country, area, or territory for 18 Jan 2021 can be accessed at https://promedmail.org/wp-content/uploads/world-pdf/2021%20WHO%20Daily%20Tables%20Jan%2019_1611091830.pdf.
+
+The USA did not report new cases or deaths to WHO in the past 24 hours so percentage assessments and analyses are artificially skewed -- I have left them in to highlight the effect when almost 1/3 of daily reports from a single country are not reported.
+
+- The Americas region reported 30.5% of daily case numbers and 24.2% of the daily deaths reported in the past 24 hours and maintained its position as the most severely affected region, having reported more than 41.77 million cases. Brazil is the most heavily affected after the USA, followed by Colombia, and Mexico. 7 additional countries reported more than 1000 cases in the past 24 hours (Argentina, Canada, Peru, Chile, Dominican Republic, Panama, and Bolivia) and an additional 7 countries (Cuba, Ecuador, Uruguay, El Salvador, Honduras, Puerto Rico, and Paraguay) reported more than 500 but fewer than 1000 cases. These decreases in reported cases are consistent with the previously observed weekend reporting artifacts.
+
+- The European region reported 45.5% of daily case numbers and 57.6% of the daily deaths reported in the past 24 hours, and total cumulative cases reported exceed 30.80 million. Countries not reporting cases include Spain, Belgium, Sweden, and Kazakhstan, among others. The UK maintains its dominance (albeit reduced), followed by Russia, and Germany (reporting more than 10 000 cases). Another 16 countries reported more than 1000 cases, and an additional 7 countries reported more than 500 but fewer than 1000 cases.
+
+- The Eastern Mediterranean region reported 7.1% of daily case numbers and 5.0% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 5.38 million cases. Iran maintains its dominance, reporting just over 5800 cases, followed by UAE, Lebanon, Pakistan, Tunisia, and Jordan. Egypt, Iraq, Libya, and the Palestinian Authority reported more than 500 but fewer than 1000 cases.
+
+- The African region reported 6.0% of daily case numbers and 6.4% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 2.35 million cases. South Africa maintains its dominance, with over 9000 cases (a 25% reduction from yesterday, 18 Jan 2021), followed by Botswana and Nigeria. Mozambique, Zimbabwe, Zambia, and Malawi, reported more than 500 but fewer than 1000 cases.
+
+- The Western Pacific region reported 3.9% of daily case numbers and 1.0% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 1.29 million cases. Japan maintains its dominance, reporting just over 6000 cases, followed by Malaysia, Philippines, South Korea, and China.
+
+- The South East Asia region reported 6.9% of the daily newly reported cases and 5.7% of reported deaths in the past 24 hours, having reported a cumulative total of more than 12.51 million cases. India maintained dominance at almost 10 100 cases followed by Indonesia at almost 9100 cases, Bangladesh, Sri Lanka, Myanmar, Nepal, and Thailand.
+
+On the Overview tab at the WHO source URL, the epidemic curve of confirmed COVID-19 cases by WHO region, 30 Dec 2019 through 19 Jan 2021, is an excellent visual representation of the pandemic. - Mod.MPP]
+
+******
+[5] Global update: Worldometer accessed 18 Jan 2021 22:08 EST (GMT-5)
+Date: Tue 19 Jan 2021
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at https://promedmail.org/wp-content/uploads/world-pdf/2021%20WORLDDATAJAN19_1611118148.pdf.
+
+A 7-day series of cumulative data reported by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/2021%20JAN19WORLD7_1611175289.pdff. - Mod.MPP]
+
+Total number of reported deaths: 2 065 624
+Total number of worldwide cases: 96 621 459
+Number of newly confirmed cases in the past 24 hours: 617 338
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[In the past 24 hours, the USA (180 588), Brazil (63 504), Spain (34 291), and the UK (33 355), have reported the highest numbers of cases. A global total of 16 392 deaths were reported in the past 24 hours (late 18 Jan to late 19 Jan 2021).
+
+Countries reporting more than 10 000 newly confirmed cases in the past 24 hours (14 countries) include the USA, Brazil, Spain, UK, France (23 608), Russia (21 734), Mexico (18 894), Colombia (15 939), India (13 795), Germany (12 159), Argentina (12 141), Italy (10 497), Portugal (10 455) and Indonesia (10 365). A total of 51 countries reported more than 1000 cases in the past 24 hours; 23 of the 51 countries that reported more than 1000 newly confirmed cases are from the European region, 13 are from the Americas region, 6 are from the Eastern Mediterranean region, 3 are from the South East Asia region, 3 are from the Western Pacific region, and 3 from the African region.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, case counts have decreased by 10.8%, while daily reported deaths have increased by 1.1%. Similar comparative 7-day averages in the United States show a 19.6% decrease in daily reported cases and an 8.7% decrease in reported deaths.
+
+Impression: The global daily reported cases are over 600 000 newly confirmed infections daily in the past 24 hours and over 96.6 million cumulative reported cases with over 2.04 million reported deaths. Countries in the European and the Americas regions are still showing the largest increases in daily new case counts, even in the face of decreasing reports. China has been reporting over 100 new cases per day for 9 out of the last 10 days. It is too early to tell whether the major lockdowns in Europe and the Americas are impacting transmission. - Mod.MPP]
+See Also
+COVID-19 update (24): vaccine, new variant, WHO, global 20210119.8115933
+COVID-19 update (23): USA (CA) new variant, South Asia, WHO, global 20210118.8112752
+COVID-19 update (22): Russia (LN) St. Petersburg, animal, cat 20210117.8111937
+COVID-19 update (21): health systems, vaccines, variants, skin, WHO, global 20210117.8111215
+COVID-19 update (20): animal, deer, experimental infection 20210116.8108967
+COVID-19 update (10): IgA, IL-6 receptor agonists, China, WHO, global 20210109.8086465
+COVID-19 update (01): variants, vaccine, Thailand, global, WHO 20210101.8062938
+2020
+----
+COVID-19 update (562): viral load, UK vacc dose, ECDC, WHO 20201231.8061525
+COVID-19 update (561): variants, China serosurvey, psychosis, WHO 20201230.8057135
+COVID-19 update (560): variants, Thailand, viral shedding, WHO 20201229.8054081
+COVID-19 update (550): mutation, query, Thailand, Taiwan, WHO, global, RFI 20201223.8040292
+COVID-19 update (500): frequent rapid tests, vaccine, WHO, global 20201122.7962919
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+Undiagnosed pediatric inflammatory syndrome (05): Europe, USA, COVID-19 assoc 20200518.7340554
+Undiagnosed pediatric inflammatory syndrome (04): USA, UK, PMIS, fatal 20200509.7315405
+Undiagnosed pediatric inflammatory syndrome (03): USA, Europe, COVID-19 susp, RFI 20200505.7299876
+COVID-19 update (150): global, USA state prisons, WHO 20200502.7290671
+COVID-19 update (100): China, S. Korea & high local transmission countries 20200413.7217806
+COVID-19 update (50): China (Hong Kong) animal dog, 2nd case PCR positive, OIE 20200323.7129951
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (41): China, global, clinical pics, asymptomatic trans., WHO 20200210.6976117
+Novel coronavirus (40): animal reservoir, pangolin poss intermediate host, RFI 20200210.6972104
+Novel coronavirus (30): updates, China, Viet Nam, research 20200202.6945658
+Novel coronavirus (20): China, wildlife trade ban 20200127.6922060
+Novel coronavirus (10): China (HU, GD, BJ) 20200119.6898567
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia: China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia: China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+----
+Undiagnosed pneumonia: China (HU): RFI 20191230.6864153
+and other items in the archives
+.................................................sb/mpp/lk/mpp/mj/mpp
+</body>

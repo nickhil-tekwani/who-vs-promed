@@ -1,0 +1,177 @@
+<header id=000914>
+Published Date: 2001-07-30 19:50:00 EDT
+Subject: PRO/AH> Foot & mouth disease, aerial transmission
+Archive Number: 20010730.1489
+</header>
+<body id=000914>
+FOOT & MOUTH DISEASE, AERIAL TRANSMISSION
+************************************************
+A ProMED-mail post
+<http://www.promedmail.org>
+ProMED-mail, a program of the
+International Society for Infectious Diseases
+<http://www.isid.org>
+See Also
+Foot & mouth disease - UK (54) 20010718.1397
+Foot & mouth disease - UK (55) 20010727.1466
+
+[1
+Date: 28 Jul 2001
+From: Dr. A. Dekker <a.dekker@id.dlo.nl> [edited
+
+
+Dr. Ian Hancock posted 2 questions about the aerial transmission
+model [ref. (55) above.
+
+We have the old English Foot and Mouth Disease (FMD) gaussian
+dispersion model in our institute, and I have checked the Fortran code
+10 years ago when we bought the program. I cannot remember
+[whether the model takes viral decay into account. The model only
+calculates spread over 10 km distance with a normal wind speed of e.g.
+3 Beaufort (= 4.5 m/s); it travels more than 16 km in one hour.
+
+There have been publications on this issue:
+
+1. Donaldson, AI 1976 "The survival of some air-borne animal viruses
+in relation to relative humidity." Vet. Microbiol.1, 413-420,
+
+2. Ferris NP 1975 "The survival of foot and mouth disease virus in
+open air conditions." J Hyg Lond. Jun; 74(3): 409 16.
+
+The information from these articles has been used in the model.
+According to the last publication, virus inactivation due to open-air
+factor was slight. Similarly, the effect of daylight on the survival
+of virus was not marked. The model certainly takes relative humidity
+into account, although very crudely: no survival at relative humidity
+(RH) below 60 percent, complete survival at RH above 60 percent.
+
+For the second question, I do not think the anxiety of the animals is
+very important at the time of killing, but the anxiety of the people
+killing them [is important. As a veterinarian I always learned that
+we had to clean before we disinfect.
+
+In such a case, we move the contaminated material somewhere and
+make sure that the area we have to disinfect is clean and the disinfectant
+works very well. When you are cleaning a slaughterhouse, that is not a
+problem; just wash your contaminated material down the sewage,
+aerosolize it and blow it away by the ventilator. But in case of an
+outbreak of a notifiable disease this is completely wrong. High
+pressure cleaners should be abandoned and cleaning should be done in
+presence of the disinfectant, using brushes and hard labor.
+
+The OIE in its animal health code states this very clearly (although I
+never have understood why the outside of vehicles can be cleaned with
+high pressure, but all other material should be cleaned by careful
+brushing).
+
+From Article 3.6.1.1. OIE Animal Health Code:
+
+"e) no matter what substances are used, disinfection techniques should
+comprise the following:
+
+i) thorough soaking of bedding and litter as well as fecal matter with
+the disinfectant;
+
+ii) washing and cleaning by careful brushing and scrubbing of the
+ground, floors and walls;
+
+iii) then further washing with the disinfectant;
+
+iv) washing and disinfecting the outside of vehicles; these procedures
+will be carried out, if possible, with liquids applied under pressure
+and the washing, disinfecting or destroying of articles used for tying
+up the animals (ropes, reins, etc.) should not be omitted."
+
+So if we are looking for differences between this epidemic and
+previous ones, I think we especially have to look at the way the
+epidemic is handled (e.g., high-pressure cleaning was not as common in
+1967 as it is nowadays) and you do not have to look for differences in
+the virus (although the absence of lamb mortality is somehow different
+from what I have seen in textbooks).
+
+­­
+Aldo Dekker
+Head Laboratory vesicular diseases
+Institute for Animal Science and Health, ID-Lelystad
+Department of Mammalian Virology
+82OO AB The Netherlands
+<A.Dekker@id.wag-ur.nl>
+
+
+******
+[2
+Date: Mon, 30 Jul 2001 09:03:29 +1200
+From: Robert Sanson <SansonR@agriquality.co.nz> [edited
+Subject: Re: PRO/AH/EDR> Foot & mouth disease - UK (55)
+
+
+In response to Ian Hancock's questions:
+
+a) Direct sunlight killing of FMD virus is not directly taken into
+account in the airborne spread models, however, there it is
+indirectly.
+
+1. Bright sunlight and cloud-free conditions cause unstable
+atmospheric conditions due to thermals etc., hence plumes are
+dispersed, causing reduced plume concentrations downwind.
+
+2. Relative humidity below 60 percent, more likely in bright clear
+conditions, is assumed to cause desiccation and death of virus.
+
+b) Virus excretion estimation work has used experimental animals at
+Pirbright (e.g., see Sellers and Parker, J. of Hygiene, Cambridge 67,
+671-677, 1969) . I don't know whether these animals would be
+considered "stressed." In the dispersion models, the total numbers of
+animals likely to be excreting virus off the farm at the time is used.
+Generally a point source representing where the animals are housed or
+culled is used.
+
+c) [In response to "To what extent are virus particles aerosolized
+during disinfectant spraying, and how efficient is virus killing in
+this state?, I don't know.
+
+--
+Robert Sanson, BVSc, MACVSc, PhD
+AgriQuality New Zealand
+PO Box 585
+Palmerston North
+NEW ZEALAND
+<sansonr@agriquality.co.nz>
+
+[The gaussian model Ian Hancock mentions is really very old now. It
+is hard to guess which model exactly , but it may well be Gloster's
+model of the late 1970s/1980, as he states it is in Fortran. Better models
+use the movement of bodies of air, "puff" models; gaussian models are
+useful but very out of date.
+
+Stress in animals awaiting slaughter, especially given the confusion and
+inefficiencies reported in the UK press and the potential impacts on
+virus production, should not be ignored.
+
+As to any possible aerosols produced during farm cleaning and
+disinfection, this is not a matter for discussion and legal statements, but
+measurement. Mod.MJH/TG/JW
+................................mhj/tg/pg/jw
+*##########################################################*
+ProMED-mail makes every effort to verify the reports that
+are posted, but the accuracy and completeness of the
+information, and of any statements or opinions based
+thereon, are not guaranteed. The reader assumes all risks in
+using information posted or archived by ProMED-mail. ISID
+and its associated service providers shall not be held
+responsible for errors or omissions or held liable for any
+damages incurred as a result of use or reliance upon posted
+or archived material.
+************************************************************
+Visit ProMED-mail's web site at <http://www.promedmail.org>.
+Send all items for posting to: promed@promedmail.org
+
+(NOT to an individual moderator). If you do not give your
+full name and affiliation, it may not be posted. Send
+commands to subscribe/unsubscribe, get archives, help,
+etc. to: majordomo@promedmail.org. For assistance from a
+human being send mail to: owner-majordomo@promedmail.org.
+
+############################################################
+############################################################
+</body>

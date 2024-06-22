@@ -1,0 +1,277 @@
+<header id=024447>
+Published Date: 1997-04-14 19:50:00 EDT
+Subject: PRO/AH> CJD and various tissues (02)
+Archive Number: 19970414.0789
+</header>
+<body id=024447>
+CJD AND VARIOUS TISSUES (02)
+============================
+[see
+CJD and various tissues 970407193955]
+[1]
+Date: Thu, 10 Apr 1997 20:45:50 -0500 (CDT)
+From: alouder@ix.netcom.com (Allan Louderback)
+Here's the reference for the fact the cornea can be infectious .. shown
+experimentally.
+Manuelidis, EE et al. Experimental CJD transmitted via the eye with
+infected cornea. New Engl. J. Med. 296: 1334-1336, 1977.
+This information was asked for by <amurata@surg2.med.osaka-u.ac.jp> on Mon.
+Apr 7, 1997.
+---
+Alan Louderback
+***
+[2]
+Date: Wed, 02 Apr 1997 18:57:38 -0800
+From: Jeffrey Gumprecht <JPGUMPRECHT@pol.net>
+I was musing zoonoses and interspecies transmisiion of infectious agents, it
+occured to me to wonder if anyone has examined beef and pork insulin for
+evidence of transmissible agents like BSE ?
+[This was passed to Tom Pringle for comment. MHJ]
+Date: Thu, 3 Apr 1997 12:11:30 -0800
+To: Martin Hugh-Jones <mehj2020@vt8200.vetmed.lsu.edu>
+From: tom@cyber-dyne.com (tom pringle)
+I'm slow to get back to you -- too many things going on.
+On the one hand, pancreas is probably not in the same league as pituitary in
+terms of intrinisic starting TSE titre. Also, insulin is a small soluble
+peptide that they are hopefully crystallizing to get to pharmaceutical grade.
+On the other hand, it has always been a mystery to me how they could purify
+gonadotrophin and growth hormone to some reasonable state and still have
+enough insoluble CJD titre to infect someone through ordinary injection.
+Pooled products are evidently very much dangerous than, say, a unit from a
+single individual. With pigs and cattle, there is an opportunity for the
+double whammy of pre-amplification and then pooling. I wouldn't be surprised
+if every batch of 10,000 included a pituitary from someone with incipient
+CJD. It doesn't particularly help to screen out people or animals with
+symptoms if they are just the tip of the iceberg. I don't see a solution
+until there is a very sensitive assay.
+---
+Tom Pringle
+www.mad-cow.org
+***
+[Apropos his last comment ... MHJ]
+[3]
+Date: Thu, 10 Apr 1997 22:58:54 -0700
+Via: Bovine Spongiform Encephalopathy <BSE-L@RZ.UNI-KARLSRUHE.DE>
+From: tom pringle <tom@cyber-dyne.com>
+Subject: growth hormone: a test for quantitating cjd transmission?
+I came across a couple of interesting items reading the thoughtful review of
+Ridley and Baker, Dec 96 J.Gen Virology 77 2895-2904 (no online presence):
+pg 2896: 75 cases of CJD so far from intra-muscular injection to short
+children of cadaver-derived pooled human pituitaries. 2.5% of recipients in
+France [34 infected, 974 received contaminated batch], mean incubation of 8
+years; 1% British, mean incubation 12 years; 0.2% Americans, mean incubation
+18 years [6284 recipients, 7 infected from 700 before 1970]. [I have spliced
+in some data from abstracts.]
+"This suggests that incubation periods are related to dose of infectivity.
+The difference in incubation period between countries would be compatible
+with ech manufacturing method producing a different but uniiform degeee of
+contamination throughout the growth hormone product." [based on P. Brown J
+Neural Transm Suppl 47: 219-229 (1996) --- not online, abstract meager]
+Now it seems to me that we are caught between a rock and a hard place by
+these data:
+Suppose that 1 pituitary in a batch of 10,000 had CJD [assume one per
+million per year incidence, allow for older age of cadavers, and infectious
+but asymptomatic cases].
+Suppose further that a 1000 fold purification of growth hormone relative to
+infectious prion is obtained. I would actually expect better than this with
+the methods of the 1960's [Sephadex columns, SDS, ultra-centrafuges, etc]
+given the disparity in chemical properties of the two proteins [polarity,
+molecular weight, hydrophobicity: run the HGH sequence yourself, given
+below, at SwissTools http://expasy.hcuge.ch/cgi-bin/protscale.pl].
+While there is a major tradeoff between final purity and yield, it's hard to
+believe some crude homogenate would be injected given all the other hormones
+in pituitaries. Just a centrifuge step would give a huge purification. We're
+not talking here about 1000 fold relative to all initial protein, but
+relative to a particular one with seemingly highly unfavorable properties
+for copurification.
+The pre-1970 US patients had 41 months of injections -- I don't know how
+many pituitary-equivalents this works out to. The French codon 129
+heterozygotes have not been affected at this point in time.
+This brings us to a 10,000,000 to 1 dilution injected intra-muscularly with
+rather rapid onset in what may turn out to be a rather high percentage of
+participants. Somehow it was still a whopping dose. Transfer by surgical
+instrument is undiluted and delivered cerebrally -- yet how many picograms
+of rogue prion are left after cleaning? I don't represent the HGH
+calculation to be more than a back of the envelope estimate and I could have
+overlooked some factors or made an error.
+But I am left thinking that either we are way off on the incidence of CJD,
+or way off on how many rogue prion molecules it takes to constitute a lethal
+inoculum, or way off on the susceptibility of young people, or some mix of
+these. I don't find the implictions for blood transfusion very reassuring
+either, especially pooled products.
+If some portion of these batches are still around, it might be very valuable
+to assay their titre with modern methods, see how contaminated they really
+were and what sort of cumulative dose was delivered. Anybody know?
+---
+Tom Pringle
+***
+[4]
+Date: Fri, 11 Apr 1997 09:00:53 -0400
+Via: Bovine Spongiform Encephalopathy <BSE-L@RZ.UNI-KARLSRUHE.DE>
+From: "Robert A. LaBudde" <ral@lcfltd.com>
+Subject: Re: growth hormone: a test for quantitating cjd transmission?
+With respect to the children and the pituitary hormone injections:
+[Pardon all the numbered points: I know it seems pedantic, but it helps me
+organize my thoughts.]
+1. The situation is somewhat similar to hemophiliacs and blood transfusions.
+The pituitary extracts are pooled across hosts, with a possibly large number
+of hosts involved (100+). This greatly multiplies the chances of an
+infectious agent by a similar factor. Couple this to 40+ months of
+injections (how many times per month?) with each injection coming from
+possibly a different batch of hormone, and the combined exposure factor
+reaches 4,000+ times more.
+2. People seem to be making the presumption the dose is cumulative. This may
+not be true. It may be a simple situation of "Russian roulette". The more
+exposures, the greater chance of the right combination of circumstances
+resulting in infection.
+3. The differences between countries may relate simply to the size of dose,
+the number of doses or the degree of pooling in different countries.
+4. Your centrifugation argument could be taken as support for an infectious
+agent other than a prion protein.
+5. Don't forget surgical instruments are heavily sterilized. Consequently
+any agent present would be at least partially deactivated.
+6. Pituitaries of older people may be more infectious than is first
+apparent. The aging process (time) would amplify any infectious agent beyond
+initial exposure. Even though asymptomatic, tissues of elderly people may be
+much more dangerous.
+I agree with Tom that the pattern of data is starting to indicate a
+reservoir in the population which is much larger than would seem apparent
+from the number of actual cases, and the agent is extremely virulent.
+What do we know for sure?
+1. The disease occurs widely at 0.5-1.5 / 1,000,000 population PER YEAR.
+These natural cases are diagnosed in people 50+, so the rate per LIFETIME
+would be increased by the 50 -> 75 yr period to 12.5-37.5/1,000,000
+population PER LIFETIME.
+2. ALL forms of CJD are EXTREMELY infectious (very low dose, with very high
+certainty). Otherwise there would be no iatrogenic cases from surgical
+instruments.
+3. The infectious agent is EXTREMELY difficult to deactivate, judging again
+by the sterilization of surgical instruments and the BSE-rendering experience.
+4. The disease has an apparently long incubation period, 50+ yrs in the
+sporadic CJD, 8-12 years in the pituitary injections, 6+ yrs in cattle, etc.
+Suppose the following simple model:
+1. The disease starts immediately with the initial infectious dose.
+2. The progression of the disease is proportional to the amount of
+infectious agent present, initially minute. [This is a strong argument for
+the prion hypothesis vs. the virino hypothesis.]
+3. The conversion of tissue to the infected form would most simply take a
+first-order rate process form of
+dI / dt = + k I I = amount of infected material
+4. This would result in a curve of the form
+I = Io exp { + k t } Io = initial infectious dose
+5. Consequently the amount of infection would be proportional to initial
+dose and exponential with time. The reported "incubation periods" would be
+simply the time to I > Threshold to symptomatic conditions. Therefore the
+"incubation period" should be considered more like a "half-life".
+6. This simple model presupposes the body has no defense against the
+infection. If it does, then the rate equation could be modified to
+dI / dt = + k1 I - J where J = body disinfection rate
+This would primarily have the effect of increasing the half-life and,
+depending on the model for "J", shallowing the initial growth.
+If a model of this type is valid, then:
+1. A significant part of the human or animal population could be infected,
+although asymptomatic as yet.
+2. The sporadic rate may indicate the spontaneous generation of an
+infectious agent over time (e.g., prion agent through defective aging, like
+cancer generation).
+3. ALL older animals should be considered more dangerous than young animals.
+All things considered,
+1. I believe hemophiliacs may have a slight problem with CJD and blood
+transfusions. However, older people (50+) are probably not the largest
+blood-donors. And what else can a hemophiliac do? And if a person is
+asymptomatic, how do you screen the blood supply, absent a sensitive
+biochemical test?
+2. There may very well be a larger "carrier" reservoir out there amongst the
+human and animal populations. However the risks associated with this seem to
+be limited at present to certain rare and promiscuous populations (hormone
+injections, hemophiliacs). It certainly bears watching.
+3. We REALLY need a sensitive test for the infectious agents of TSEs before
+we can do anything more productive.
+4. Does anyone have any information about the infection rate in morticians
+and medical-examiners? Since they both remove brains (with saws), they may
+have an enhanced rate. Particularly morticians who are not infrequently
+splattered with blood and other body tissues.
+---
+Robert A. LaBudde, PhD, PAS e-mail: ral@lcfltd.com
+Least Cost Formulations, Ltd. URL: http://lcfltd.com/
+824 Timberlake Drive Tel: 757-467-0954
+Virginia Beach, VA 23464-3239 Fax: 757-467-2947
+***
+[This is not a theoretical subject. See the next report. MHJ]
+[5]
+Date: Sun, 13 Apr 1997 23:24:13 -0700
+Via: Bovine Spongiform Encephalopathy <BSE-L@RZ.UNI-KARLSRUHE.DE>
+From: tom pringle <tom@cyber-dyne.com>
+Subject: pituitary gonadotrophin CJD epidemic in Australia
+There is an active CJD Support Group Network in Australia that deals with
+their very tragic and gratuitous epidemic. HPG from pituitaries was used to
+treat infertility in women in addition to HGH on short children. In some
+ways, they are at a point right now that England might be in in a few years.
+I have reprinted portions of their Web site below -- it is well worth an
+extended visit for a glimpse of the human side of this disease and the issue
+of accountability.
+Tom
+-----------------------------
+http://www.hyper.net.au/cjdsupport/
+This is the home page of the Australian CJD Support Group Network Inc (CJDSGNI).
+Two thousand one hundred Australians were treated with human pituitary
+hormones under the Australian Human Pituitary Hormone Program (AHPHP) which
+ran in Australia from 1967 until 1985.
+Unlike similar programs undertaken in a number of overseas countries at
+around the same time, the AHPHP concentrated on the treatment of infertile
+women with human pituitary gonadotrophin (hPG) with around six hundred
+children treated with human growth hormone (hGH) for stunted growth.
+Five Australians so far have developed and died from iatrogenic
+Creutzfeldt-Jakob disease (CJD) as a result of receiving pituitary hormone
+products. The program was suspended in 1985 following hGH related CJD deaths
+in the United States. All those treated under the program are at risk of
+developing CJD, because the manufacturing protocols allowed cross-infection
+of production batches.
+The AHPHP was run under the auspices of the Commonwealth Department of
+Health. The hormones were manufactured by the then government owned
+Commonwealth Serum Laboratory in Melbourne. The AHPHP was conceived and
+operated by the Human Pituitary Advisory
+Committee (HPAC) until its activities ceased in 1985. The committee was
+finally disbanded.
+Intense media and politically pressure followed as the families of the
+victims called for an explanation. There was growing evidence of a cover up.
+The then Minister for Health, Senator Graham Richardson, ordered an
+Independent Inquiry into the use of human pituitary hormones and CJD.
+Professor Margaret Allars conducted the Inquiry for over 12 months reporting
+in June 1994. The Inquiry made a number of recommendations concerning the
+care of recipients, future medical ethical behaviour and the establishment
+of a ministerial advisory council.
+The Inquiry also found that HPAC had seriously breached both Federal and
+State laws, it breached its own guidelines and engaged in human
+experimentation. The report was damning. Commentators described the program
+as the worst case of medical negligence in Australia's history. It was not
+in the Inquiry's terms of reference to draw conclusions regarding issues of
+professional or criminal misconduct and unlawful negligence.
+The recipients and their families caught up in this disaster meanwhile have
+to live with the stress and anxiety of living the rest of their lives with
+the threat of contracting a disease which can lay dormant for decades and
+for which there is no recognised diagnostic test, no treatment and certainly
+no cure.
+...............................................mhj
+--
+*##########################################################*
+ProMED-mail makes every effort to verify the reports that
+are posted, but the accuracy and completeness of the
+information, and of any statements or opinions based
+thereon, are not guaranteed. The reader assumes all risks in
+using information posted or archived by ProMED-mail. ISID
+and its associated service providers shall not be held
+responsible for errors or omissions or held liable for any
+damages incurred as a result of use or reliance upon posted
+or archived material.
+************************************************************
+Visit ProMED-mail's web site at <http://www.promedmail.org>.
+Send all items for posting to: promed@promedmail.org
+(NOT to an individual moderator). If you do not give your
+full name and affiliation, it may not be posted. Send
+commands to subscribe/unsubscribe, get archives, help,
+etc. to: majordomo@promedmail.org. For assistance from a
+human being send mail to: owner-promed@promedmail.org.
+############################################################
+############################################################
+</body>

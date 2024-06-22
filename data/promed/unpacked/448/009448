@@ -1,0 +1,315 @@
+<header id=009448>
+Published Date: 2021-03-15 07:09:38 EDT
+Subject: PRO/AH/EDR> COVID-19 update (98): transmission, long COVID, vaccine reactions, WHO, global
+Archive Number: 20210315.8247668
+</header>
+<body id=009448>
+CORONAVIRUS DISEASE 2019 UPDATE (98): TRANSMISSION, LONG COVID, VACCINE REACTIONS, WHO, GLOBAL
+**********************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] Transmission: residence halls
+[2] Long COVID
+[3] Vaccine reactions: clotting
+[4] WHO: daily new cases reported (as of 13 Mar 2021)
+[5] Global update: Worldometer accessed 13 Mar 2021 21:10 EST (GMT-5)
+
+******
+[1] Transmission: residence halls
+Date: Tue 9 Mar 2021
+Source: medRxiv [abridged, edited]
+https://www.medrxiv.org/content/10.1101/2021.03.09.21253147v1.full.pdf
+
+
+ref: Bjorkman KK, Saldi TK, Lasda E, et al. Higher viral load drives infrequent SARS-CoV-2 transmission between asymptomatic residence hall roommates. medRxiv preprint doi: https://doi.org/10.1101/2021.03.09.21253147
+--------------------------------------------------------------------------------
+Abstract
+--------
+In 2019-2020, the COVID-19 pandemic spread to over 200 countries in less than 6 months. To understand the basis of this aggressive spread, it is essential to determine the transmission rate and define the factors that increase the risk of transmission. One complication is the large fraction of asymptomatic cases, particularly in young populations: these individuals have viral loads indistinguishable from symptomatic people and do transmit the SARS-CoV-2 virus, but they often go undetected. As university students living in residence halls commonly share a small living space with roommates, some schools established regular, high density testing programs to mitigate on-campus spread. In this study, we analyzed longitudinal testing data of residence hall students at the University of Colorado Boulder [USA]. We observed that students in single rooms were infected at a lower rate than students in multiple occupancy rooms. However, this was not due to high rates of transmission between roommates, which only occurred approximately 20% of the time. Since these cases were usually asymptomatic at the time of diagnosis, this provides further evidence for asymptomatic transmission. Notably, individuals who likely transmitted to their roommates had an average viral load [approximately] 6.5 times higher than individuals who did not. Although students were moved to separate isolation rooms after diagnosis, there was no difference in time to isolation between these cases with or without transmission. This analysis argues that inter-roommate transmission occurs in a minority of cases in university residence halls and provides strong correlative evidence that viral load can be proportional to the probability of transmission.
+
+Some important points:
+Asymptomatic infected individuals still transmit the virus and show no difference in peak viral load compared to symptomatic individuals, and they are also expected to be more mobile because they are not experiencing illness.
+
+We observed a 2-fold higher positivity amongst students with roommates than those who live alone. However, this difference cannot be explained solely by transmission between roommates, since we estimate such transmission only occurred in 20% of these multiple occupancy rooms. Interestingly, behavioral studies have shown that people who live alone have less frequent social contact than people who live in households and that roommates can exert peer effects with risky behaviors (Eisenberg et al, 2014; Hefner and Eisenberg, 2009). Therefore, it may be that students living with roommates are at a higher risk of infection due to both higher levels of social contact outside the home and moderate levels of inter-roommate transmission within the home.
+
+We observed that students who transmitted SARS-CoV-2 to their roommates had, on average, 6.5-fold higher viral loads than students who did not transmit the virus to their roommates (Figure 4 [available at the source URL above]).
+
+In contrast to the importance of viral load, we did not observe a significant difference in isolation speed between the group that experienced transmission and the group that did not. This does not mean that isolation has no effect on preventing transmission. By comparison to the 20% secondary attack rate we saw among roommates, the secondary attack rate within households is reported to be 38% between spouses but 18% between non-spouse household members (Madewell et al, 2020). The reasons for this difference are unknown, but spouses likely spend more time in close contact with each other, including sleeping in the same room. Because roommates in residence halls also share sleeping quarters, this suggests that transmission could have been higher in the absence of off-site isolation.
+
+--
+Communicated by:
+Mary Marshall
+<mjm2020@googlemail.com>
+
+[The findings of this study of the consequences of sharing a living space with another individual, as in a dorm, are at first surprising, but as one considers it further, it makes sense. Since most individuals in college dorms are young, they are more likely to be asymptomatic following infection, and as such, they feel well enough to socialize outside their rooms. This also is the case for barracks (not part of the study). Individuals who choose to live alone are likely to be less sociable, as suggested by the authors. Family living situations in homes may be different as there are more intimate interactions between the parents than roommates would have. Indeed, it was found that "the secondary attack rate within households is reported to be 38% between spouses but 18% between non-spouse household members (Madewell et al, 2020)", lending further support to the findings of the study. - Mod.LK]
+
+******
+[2] Long COVID
+[A] Predictors
+Date: Wed 10 Mar 2021
+Source: Nature Medicine [abridged, edited]
+https://www.nature.com/articles/s41591-021-01292-y
+
+
+ref: Sudre CH, Murray B, Varsavsky T, et al. Attributes and predictors of long COVID. Nat Med. 2021 Mar 10. doi: 10.1038/s41591-021-01292-y. Epub ahead of print. PMID: 33692530
+--------------------------------------------------------------------------------
+Abstract
+--------
+Reports of long-lasting coronavirus disease 2019 (COVID-19) symptoms, the so-called 'long COVID', are rising but little is known about prevalence, risk factors, or whether it is possible to predict a protracted course early in the disease. We analyzed data from 4182 incident cases of COVID-19 in which individuals self-reported their symptoms prospectively in the COVID Symptom Study app (1). A total of 558 (13.3%) participants reported symptoms lasting ≥28 days, 189 (4.5%) for ≥8 weeks, and 95 (2.3%) for ≥12 weeks. Long COVID was characterized by symptoms of fatigue, headache, dyspnea, and anosmia and was more likely with increasing age and body mass index and female sex. Experiencing more than 5 symptoms during the 1st week of illness was associated with long COVID (odds ratio = 3.53 (2.76-4.50)). A simple model to distinguish between short COVID and long COVID at 7 days (total sample size, n= 2149) showed an area under the curve of the receiver operating characteristic curve of 76%, with replication in an independent sample of 2472 individuals who were positive for severe acute respiratory syndrome coronavirus 2. This model could be used to identify individuals at risk of long COVID for trials of prevention or treatment and to plan education and rehabilitation services.
+
+----
+We found that early disease features were predictive of duration. With only 3 features -- the number of symptoms in the 1st week, age, and sex -- we built a model designed to separate short (<10d) and long ≥28d) duration of COVID-19. Moreover, this method could help determine at-risk groups and be used to target early intervention trials and clinical service developments to support rehabilitation in primary and specialist care (12) to alleviate long COVID and facilitate timely recovery.
+
+--
+Communicated by:
+Mary Marshall
+
+[See full publication for references and more. The ability to predict who is most likely to suffer from persisting symptoms following acute infection would be helpful to both patient and doctor. These patients then would be more prepared psychologically for a longer term illness than they anticipated. Doctors may be able to experiment with alternative therapies to support these patients before the symptoms have gone on for too long, as nonspecific symptoms may not be clearly due to long COVID. - Mod.LK]
+
+----
+[B] Vaccination
+Date: Thu 11 Mar 2021
+Source: medRxiv [abridged, edited]
+https://www.medrxiv.org/content/10.1101/2021.03.11.21253225v3
+
+
+ref: Arnold DT, Milne A, Stadon L, et al. Are vaccines safe in patients with long COVID? A prospective observational study. medRxiv 2021.03.11.21253225; doi: https://doi.org/10.1101/2021.03.11.21253225
+--------------------------------------------------------------------------------
+Abstract
+--------
+Introduction
+Although the efficacy of SARS-CoV-2 vaccination to prevent symptomatic COVID-19 is well established, there are no published studies on the impact on symptoms in patients with long COVID. Anecdotal reports have suggested both a potential benefit and worsening of symptoms post vaccination with the uncertainty leading to some vaccine hesitancy amongst affected individuals.
+
+Methods
+Patients initially hospitalised with COVID-19 were prospectively recruited to an observational study with clinical follow-up at 3 months (June-July 2020) and 8 months (December 2020-January 2021) post-admission. Participants who received the Pfizer-BioNTech (BNT162b2) or Oxford-AstraZeneca (ChAdOx1 nCoV-19) vaccine between January to February 2021 were identified and matched 2:1 (in terms of 8-month symptoms) with participants from the same cohort who were unvaccinated. All were re-assessed at 1 month post vaccination (or matched timepoint for unvaccinated cohort). Validated quality of life (SF-36), mental wellbeing (WEMWBS) and ongoing symptoms were assessed at all timepoints. Formal statistical analysis compared the effect of vaccination on recent quality of life using baseline symptoms, age, and gender in linear regression.
+
+Results
+44 vaccinated participants were assessed at a median of 32 days (IQR [interquartile range] 20-41) post vaccination with 22 matched unvaccinated participants. Most were highly symptomatic of long COVID at 8 months (82% in both groups had at least 1 persistent symptom), with fatigue (61%), breathlessness (50%), and insomnia (38%) predominating. There was no significant worsening in quality-of-life or mental wellbeing metrics pre versus post vaccination. Nearly 2/3 (n=27) reported transient (<72hr duration) systemic effects (including fever, myalgia, and headache). When compared to matched unvaccinated participants from the same cohort, those who had received a vaccine had a small overall improvement in long Covid symptoms, with a decrease in worsening symptoms (5.6% vaccinated vs 14.2% unvaccinated) and an increase in symptom resolution (23.2% vaccinated vs 15.4% unvaccinated) (p=0.035). No difference in response was identified between Pfizer-BioNTech or Oxford-AstraZeneca vaccines.
+
+Conclusions
+Receipt of vaccination with either an mRNA or adenoviral vector vaccine was not associated with a worsening of long Covid symptoms, quality of life, or mental wellbeing. Individuals with prolonged COVID-19 symptoms should receive vaccinations as suggested by national guidance.
+
+Discussion
+When compared to matched unvaccinated participants from the same cohort, those who had received a vaccine actually reported an overall improvement in long COVID symptoms. Although the sample size is small to make firm conclusions for this observation it is of interest and raises further questions about the etiology of these symptoms. Individuals with prolonged COVID-19 symptoms should receive vaccinations as suggested by national guidance.
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[In spite of the small sample size, this study and others suggest that vaccination, rather than exacerbating symptoms, may slightly improve the condition of individuals suffering from persistent symptoms following the acute stage of infection with SARs-CoV-2 (aka long COVID or long haulers). Most of the earlier evidence has been anecdotal, so this more controlled observational study is helpful.
+
+"There are plausible biological reasons vaccination could help people with long COVID, says Akiko Iwasaki, an immunologist at Yale University. Scientists still don't know for sure why some people have chronic symptoms, but one theory is that the virus or fragments of the virus stick around in their bodies. They're not contagious, but the leftovers continue to irritate the immune system. Vaccination could clear those out. "Potentially, those remnants are removed because you're generating a lot of antibodies."
+
+Another theory is that, for some people, COVID-19 triggers long-lasting changes in the immune system, and it could turn on healthy cells and tissues. In that case, the vaccine might help by giving a jolt to the immune system. "It can reset some of those existing responses," Iwasaki says. In that case, symptom improvement would probably be short-lived and only last as long as the vaccine's kick does." (from https://www.theverge.com/2021/3/2/22308965/covid-vaccine-shots-symptoms-improve-chronic-long-haulers). - Mod.LK]
+
+******
+[3] Vaccine reactions: clotting
+[A] Hong Kong: impact of reports on vaccination efforts
+Date: Thu 11 Mar 2021 7:03 AM GMT+1
+Source: Bloomberg [edited]
+https://www.bloomberg.com/news/articles/2021-03-11/hong-kong-s-vaccine-no-show-rate-rises-after-side-effect-reports
+
+
+Fewer Hong Kong residents are showing up to get vaccines from Chinese maker Sinovac Biotech Ltd. amid reports of side effects, even as demand was strong for shots developed by Pfizer Inc.-BioNTech SE on the day of their debut. The number of people who received their scheduled Sinovac immunizations at community vaccination centers fell to 72% on Wednesday [10 Mar 2021], down from a high of more than 90% last week. More than one-third of those who signed up for the vaccine, 36%[9 Mar 2021], were no-shows on Tuesday [9 Mar 2021].
+
+The Pfizer-BioNTech vaccine, brought into the city by Shanghai Fosun Pharmaceutical Co, was administered to 91% of those signed up to get it on Wednesday [10 Mar 2021], the 1st day it was available.
+
+The skipping of Sinovac vaccine appointments comes after the city reported 3 deaths and three critical illnesses among the more than 130 000 people inoculated to date. While none has been linked to the Sinovac vaccines, hesitancy around getting the shots has risen among residents. Authorities preliminarily ruled out a tie between the vaccines and the 1st 2 deaths and 2 critical cases, while they are still analyzing the more recent reports.
+
+"It's understandable some residents are worried about the latest serious adverse events and even deaths following vaccination," Secretary for the Civil Service Patrick Nip said on Tuesday. All of the serious side effects will be reviewed closely by an expert committee, as is common procedure, he said.
+
+The health department is expected to issue new guidelines shortly recommending that some high-risk people, including those with uncontrolled diabetes, heart disease and high blood pressure, should delay getting vaccinated, according to a report from The Standard.
+
+India and mainland China also had sluggish starts to their vaccination efforts, due at least in part to distrust and concern over the recently-released COVID-19 vaccines.
+
+Hong Kong began its public vaccination campaign on [26 Feb 2021], prioritizing people age 60 and older, healthcare staff, and other essential workers. Starting Tuesday [9 Mar 2021], it expanded its priority groups to cover 3.7 million people, about half of its population, adding those in high-risk contact positions like teachers, public transportation drivers, and restaurant workers.
+
+Other countries also have reported fatalities among people who have received inoculations, though the numbers have been small and nearly all cases involved underlying conditions. None of the deaths or serious complications have been tied to the shots.
+
+[Byline: Jinshan Hong]
+
+--
+Communicated by:
+ProMED Rapporteur Kunihiko Iizuka
+
+[Media reports and social media reports are key influencers when it comes to vaccine hesitancy. In the situation above, while health officials are saying there is no problem with the vaccine, there is a mixed message when they say high risk individuals should not receive the vaccine, when high risk individuals were targeted for early vaccination. This confuses the general population eliciting fear of the vaccine. In a 9 Mar 2021 Global Times report there is mention that the deaths were within the expected background range of deaths in the age group. (https://www.globaltimes.cn/page/202103/1217762.shtml). - Mod.MPP]
+
+----
+[B] Norway
+Date: Sun 14 Mar 2021
+Source: Outbreak News Today [edited]
+http://outbreaknewstoday.com/norway-reports-blood-clots-in-young-people-with-the-astrazeneca-vaccine-25584/
+
+
+The Norwegian Medicines Agency has received several adverse reaction reports about younger vaccinated people who have had skin hemorrhages (small-spotted skin hemorrhages and/or larger or smaller blue spots) after the AstraZeneca COVID-19 vaccination. This is serious and can be a sign of decreased platelet count.
+
+Health officials were informed yesterday [12 Mar 2021] of a report from Tynset about an unexpected death as a result of a brain hemorrhage after vaccination with COVID-19 Vaccine AstraZeneca.
+
+Today, [13 Mar 2021], we received 3 more reports of severe cases of blood clots or cerebral hemorrhages in younger people who have received the AstraZeneca vaccine. These are now receiving treatment in hospitals.
+
+Common to these patients is that they have had a reduced number of platelets in the blood. Blood clots and subsequent cerebral hemorrhage are a rare condition.
+
+The Norwegian Institute of Public Health, or Folkehelseinstituttet (FHI), has put the AstraZeneca vaccine on pause. FHI and the Norwegian Medicines Agency have initiated studies to investigate the connection between the vaccine and various forms of blood clots, such as stroke and blood clots in the lungs. These analyzes will take time.
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[Adding more details to the reactions post AstraZeneca vaccine, putting its use on a hold as this is investigated. The official statement from the Department of Health can be found at https://twitter.com/roinnslainte/status/1371027418438307840. See COVID-19 update (95): vacc reactions, vacc approval, Americas, WHO 20210312.8242839 for more details on this event (or series of events). - Mod.MPP]
+
+----
+[C] Belgium
+Date: Sun 14 Mar 2021
+Source: Archyde [edited]
+https://www.archyde.com/thrombosis-due-to-vaccination-in-liege-catherine-30-lost-her-right-eye-hours-after-receiving-the-astrazeneca-vaccine/
+
+
+While a dozen European countries have already decided to suspend the AstraZeneca vaccine for further studies following suspected cases of thrombosis, Belgium has only heard of 2 such cases and has therefore reported that it was continuing to administer this vaccine. However, a highly suspect case has been taking place for 10 days in Liege.
+
+A nurse by profession, [C] (30) went to the Bierset vaccination center on [1 Mar 2021] to receive the 1st dose of the AstraZeneca vaccine. A few hours later, she wakes up in the middle of the night and realizes that she no longer sees with her right eye. At the Sart Tilman University Hospital, doctors diagnosed [her] with thrombosis of vascular origin. "They reassure me by saying that it is momentary and that my sight will return in the next few days," explains [C]. But 3 days later, I still couldn't see. She returned to the hospital and further examinations then indicated a thrombosis of "arterial" origin.
+
+--
+Communicated by:
+Roland Hübner
+Superior Health Council
+Brussels, Belgium
+<roland.hubner@sante.belgique.be>
+
+[Other countries halting vaccinations with the AstraZeneca vaccine include the Netherlands (https://www.livemint.com/news/world/netherlands-suspends-rollout-of-astrazeneca-jab-11615771841414.html), Ireland (https://www.thetimes.co.uk/article/blood-clots-cause-concern-over-oxford-coronavirus-vaccine-svl0zgz2l), Italy-Piedmont region https://www.reuters.com/article/us-health-coronavirus-italy-astrazeneca/italys-piedmont-region-stops-use-of-astrazeneca-vaccine-batch-idUKKBN2B60E0). - Mod.MPP]
+
+----
+[D] Comment
+Date: Sun 14 Mar 2021
+From: T Jacob John <tjacobjohn@yahoo.co.in> [edited]
+
+
+Re: ProMED COVID-19 update (95): vacc reactions, vacc approval, Americas, WHO 20210312.8242839
+--------------------------------------------------------------------------------
+Stray reports have appeared in the media in India, about death due to 'heart attack' within a week to 10 days after vaccination against COVID-19. Every time the concerned local medical officer declares that it was not related to the vaccine since a cause of death was detected. Intravascular clotting as a suspected adverse reaction in a few European countries demands our special attention on heart attacks since heart attack is due to coronary thrombosis, another manifestation of intravascular blood clotting. Having been declared unrelated to vaccination, there are no statistics on heart attacks in the public domain, in spite of it being a cluster of serious adverse reaction -- hence to be taken very seriously.
+
+I have a speculation regarding pathogenesis. Unlike other vaccine constructs, vector-based vaccines infect target cells bearing adenovirus receptors. The SARS-CoV-2 spike protein is synthesised in them and displayed on the cell membrane. Antigen presenting cells react to initiate immune responses. What will happen if ACE-2 bearing cells meet with such cells? Could not the cascade of events that follows the binding of virus to ACE-2 be triggered, although at very low frequency and magnitude?
+
+Quantitative and qualitative differences of both the display of spike protein and the nature and distribution of cells bearing them could spell the apparent differences between specific vaccines -- mRNA and vectored vaccines.
+
+We must expect the unexpected with new vaccines and be diligent in follow up. Rotashield is a live vaccine against rotavirus disease. Wild rotavirus is not a cause of intussusception, but the vaccine triggered it at a very low frequency.
+
+Those who are investigating post-COVID-vaccination blood clotting must look for heart attacks also, and explore if the speculation above has any plausibility.
+
+--
+T Jacob John
+Former Professor of Clinical Virology,
+Christian Medical College,
+Vellore, India
+<tjacobjohn@yahoo.co.in>
+
+[ProMED thanks Dr T Jacob John for his insightful comment and reminder that the anecdotal reports of myocardial infarctions may potentially be caused by the vaccine as one of the increased clotting reactions currently under investigation. We await further information on the results of these investigations. - Mod.MPP
+
+******
+[4] WHO: daily new cases reported (as of 13 Mar 2021)
+Date: Sun 14 Mar 2021
+Source: WHO [abridged, edited]
+https://covid19.who.int/table
+
+*Daily case reports as of 14 Mar 2021 17:13 CET
+
+Surveillance
+------------
+WHO region (no. countries/territories):
+Total confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+----------------------------
+Western Pacific Region (19): 1 711 455 (8507) / 30 357 (129)
+European Region (61): 41 039 452 (176 241) / 906 797 (2226)
+South East Asia Region (10): 13 884 388 (31 601) / 212 355 (276)
+Eastern Mediterranean Region (22): 6 860 421 (30 443) / 150 180 (409)
+Region of the Americas (54): 52 775 904 (205 572) / 1 268 438 (5165)
+African Region (49): 2 948 316 (8779) / 74 686 (214)
+Cases on an international conveyance (Diamond Princess): 745 (0) / 13 (0)
+
+Confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+Grand total: 119 220 681 (461 143) / 2 642 826 (8419)
+
+--
+communicated by:
+ProMED
+<promed@promedmail.org>
+
+[Data by country, area, or territory for 14 Mar 2021 can be accessed at https://promedmail.org/wp-content/uploads/world-pdf/WHO%20update%2014%20Mar%202021_1615750246.pdf.
+
+- The Americas region reported 44.6% of daily case numbers and 61.3% of the daily deaths reported in the past 24 hours and maintained its position as the most severely affected region, having reported more than 52.77 million cases. Brazil reported 85 663 cases over the last 24 hours followed by the USA with 62 840 cases, and Haiti having doubled its cumulative cases in the past 24 hours, reporting 12 498 cases (presumed backlog reporting). 10 additional countries reported more than 1000 cases in the past 24 hours (Peru, Mexico, Argentina, Chile, Colombia, Canada, Paraguay, Ecuador, Uruguay, and Bolivia), and a further 4 countries (Cuba, Honduras, Bolivia, and Dominican Republic) reported more than 500 but fewer than 1000 cases.
+
+- The European region reported 38.2% of daily case numbers and 26.4% of the daily deaths reported in the past 24 hours, and total cumulative cases reported exceed 41.03 million. Countries not reporting cases include Spain, Israel, Belgium, Sweden, Switzerland, and Kazakhstan, among others. France is the most heavily affected, reporting 29 256 cases in the last 24 hours, followed by Italy, Poland, Turkey, Germany, and Russia, reporting more than 10 000 new cases in the past 24 hours. Another 15 countries reported more than 1000 cases, and an additional 8 countries reported more than 500 but fewer than 1000 cases.
+
+- The Eastern Mediterranean region reported 6.6% of daily case numbers and 4.9% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 6.86 million cases. Iran reported the highest number of cases (7802) over the last 24 hours, followed by Jordan (4144), Iraq (4054), Lebanon, Pakistan, UAE, Palestinian Authority, and Kuwait. Egypt, Tunisia, and Bahrain reported more than 500 but fewer than 1000 cases.
+
+- The African region reported 1.9% of daily case numbers and 2.5% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 2.94 million cases. South Africa reported 1541 cases followed by Ethiopia (1483 cases), Madagascar, and Ghana. Kenya reported more than 500 but fewer than 1000 cases in the last 24 hours. Countries including Uganda, Cameroon, and Botswana among others, did not report any new cases in the past 24 hours.
+
+- The Western Pacific region reported 1.8% of daily case numbers and 1.5% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 1.71 million cases. Philippines reported the highest number of cases over the last 24 hours (4993 cases), followed by Malaysia, Japan, South Korea, and Mongolia.
+
+- The South East Asia region reported 6.9% of the daily newly reported cases and 3.3% of reported deaths in the past 24 hours, having reported a cumulative total of more than 13.88 million cases. India is dominant, reporting 25 320 cases, followed by Indonesia (4607) cases), Bangladesh, Sri Lanka, Thailand, and Maldives.
+
+On the Overview tab at the WHO source URL, the epidemic curve of confirmed COVID-19 cases by WHO region, 30 Dec 2019 through 14 Mar 2021, is an excellent visual representation of the pandemic. - Mod.MPP]
+
+******
+[5] Global update: Worldometer accessed 13 Mar 2021 21:10 EST (GMT-5)
+Date: Sun 14 Mar 2021
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at
+https://promedmail.org/wp-content/uploads/world-pdf/2021%20WORLDDATA%20MAR14_1615778083.pdf.
+
+A 7-day series of cumulative data reported by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/2021%20MAR14WORLD7_1615778172.pdf. - Mod.MPP]
+
+Total number of reported deaths: 2 664 801
+Total number of worldwide cases: 120 403 087
+Number of newly confirmed cases in the past 24 hours: 360 990
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+
+[As expected, there is significant weekend artifact. Countries not reporting cases include Spain, Peru, Sweden, and Switzerland, among others, and other countries have markedly reduced reported 24-hour case reports.
+
+In the past 24 hours, Brazil (44 120), the USA (37 995), India (26 514), and France (26 343), have reported the highest numbers of cases. A global total of 5683 deaths were reported in the past 24 hours (late 13 Mar 2021 to late 14 Mar 2021). Countries reporting more than 10 000 newly confirmed cases in the past 24 hours (8 countries) include Brazil, the USA, India, France, Italy (21 304), Poland (17 272), Turkey (13 378), and Russia (10 083). A total of 45 countries reported more than 1000 cases in the past 24 hours; 18 of the 45 countries are from the European region, 9 are from the Americas region, 10 are from the Eastern Mediterranean region, 3 are from the South East Asia region, 3 are from the Western Pacific region, and 2 from the African region.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, case counts have increased by 8.1%, while daily reported deaths have decreased by 2.6%. Similar comparative 7-day averages in the USA show a 12.6% decrease in daily reported cases and a 22.1% increase in reported deaths.
+
+Impression: The global daily reported cases totaled 361 000 newly confirmed infections in the past 24 hours with over 120.40 million cumulative reported cases and over 2.66 million reported deaths. - Mod.MPP]
+See Also
+COVID-19 update (97): testing, contact tracing, variants, immunity, WHO 20210314.8246696
+COVID-19 update (96): HCWs, child mental health, Africa vaccines, WHO 20210313.8245159
+COVID-19 update (95): vacc reactions, vacc approval, Americas, WHO 20210312.8242839
+COVID-19 update (94): blood donor Abs, self-check, pollen, variant, WHO 20210311.8241172
+COVID-19 update (93): animal, Estonia (HA) cat, OIE 20210310.8239589
+COVID-19 update (92): allergy mRNA vacc, sex-specific risk, WHO 20210310.8238271
+COVID-19 update (91): USA post vacc, vacc passport, WHO 20210309.8236250
+COVID-19 update (90): UK sewage, Viet Nam, Cambodia, WHO 20210308.8233859
+COVID-19 update (80): vaccine, USA variants, comments, WHO, global 20210226.8214650
+COVID-19 update (70): gangrene, challenge trials, immunity, cancer, WHO, global 20210218.8198620
+COVID-19 update (60): animal, SARS-CoV-2-related viruses, pangolin, bat 20210211.8184900
+COVID-19 update (50): UK vaccine study, Brazil reinfection, WHO 20210205.8167161
+COVID-19 update (01): variants, vaccine, Thailand, global, WHO 20210101.8062938
+2020
+---
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+COVID-19 update (562): viral load, UK vacc dose, ECDC, WHO 20201231.8061525
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia: China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia: China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+---
+Undiagnosed pneumonia: China (HU): RFI 20191230.6864153
+and other items in the archives
+.................................................sb/sh/lk/mpp/mj/lxl
+</body>

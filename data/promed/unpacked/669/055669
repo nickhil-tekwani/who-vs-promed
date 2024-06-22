@@ -1,0 +1,136 @@
+<header id=055669>
+Published Date: 2015-04-12 18:32:38 EDT
+Subject: PRO/AH> Avian influenza, human (91): CDC modeling H7N9 emergency
+Archive Number: 20150412.3293317
+</header>
+<body id=055669>
+AVIAN INFLUENZA, HUMAN (91): CDC MODELING H7N9 EMERGENCY
+********************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+Date: 1 May 2015
+Source: Clinical Infectious Diseases [edited]
+http://cid.oxfordjournals.org/content/60/suppl_1.toc
+
+
+CDC Modeling Efforts in Response to a Potential Public Health Emergency: Influenza A(H7N9) as an Example.
+----------------------------------------------------------------------
+1. Meltzer MI, Gambhir M, Atkins CY, Swerdlow DL: Standardizing Scenarios to Assess the Need to Respond to an Influenza Pandemic. Clin Infect Dis. (2015) 60 (suppl 1): S1-S8 doi:10.1093/cid/civ088
+
+Abstract
+--------
+An outbreak of human infections with an avian influenza A(H7N9) virus was first reported in eastern China by the World Health Organization on 1 Apr 2013. This novel influenza virus was fatal in approximately 1/3 of the 135 confirmed cases detected in the 4 months following its initial identification, and limited human-to-human H7N9 virus transmission could not be excluded in some Chinese clusters of cases. There was, and still is, the possibility that the virus would mutate to the point where there would be sustained human-to-human transmission. Given that most of the human population has no prior immunity (either due to natural challenge or vaccine induced), such a strain presents the danger of starting an influenza pandemic.
+
+In response to such a threat, the Joint Modeling Unit at the Centers for Disease Control and Prevention (CDC) was asked to conduct a rapid assessment of both the potential burden of unmitigated disease and the possible impacts of different mitigation measures. We were tasked to evaluate the 6 following interventions: invasive mechanical ventilators, influenza antiviral drugs for treatment (but not large-scale prophylaxis), influenza vaccines, respiratory protective devices for healthcare workers and surgical face masks for patients, school closings to reduce transmission, and airport-based screening to identify those ill with novel influenza virus entering the United States. This supplement presents reports on the methods and estimates for the first 5 listed interventions, and in this introduction we outline the general approach and standardized epidemiological assumptions used in all the articles. ... -- more
+
+2. Rasmussen SA, Redd SC: Using Results From Infectious Disease Modeling to Improve the Response to a Potential H7N9 Influenza Pandemic. Clin Infect Dis (2015) 60 (suppl 1): S9-S10. doi: 10.1093/cid/civ090
+Abstract
+--------
+As the Centers for Disease Control and Prevention (CDC) and other government agencies prepared for a possible H7N9 pandemic, many questions arose about the virus's expected burden and the effectiveness of key interventions. Public health decision makers need information to compare interventions so that efforts can be focused on interventions most likely to have the greatest impact on morbidity and mortality. To guide decision making, CDC's pandemic response leadership turned to experts in modeling for assistance. H7N9 modeling results provided a quantitative estimate of the impact of different interventions and emphasized the importance of key assumptions. In addition, these H7N9 modeling efforts highlighted the need for modelers to work closely with investigators collecting data so that model assumptions can be adjusted as new information becomes available and with decision makers to ensure that the results of modeling impact policy decisions.
+
+3. Gambhir M, Bozio C, O'Hagan JJ, et al: Infectious Disease Modeling Methods as Tools for Informing Response to Novel Influenza Viruses of Unknown Pandemic Potential. Clin Infect Dis. (2015) 60 (suppl 1): S11-S19 doi:10.1093/cid/civ083
+Abstract
+--------
+The rising importance of infectious disease modeling makes this an appropriate time for a guide for public health practitioners tasked with preparing for, and responding to, an influenza pandemic. We list several questions that public health practitioners commonly ask about pandemic influenza and match these with analytical methods, giving details on when during a pandemic the methods can be used, how long it might take to implement them, and what data are required. Although software to perform these tasks is available, care needs to be taken to understand: (1) the type of data needed, (2) the implementation of the methods, and (3) the interpretation of results in terms of model uncertainty and sensitivity. Public health leaders can use this article to evaluate the modeling literature, determine which methods can provide appropriate evidence for decision-making, and to help them request modeling work from in-house teams or academic groups.
+
+4. Biggerstaff M, Reed C, Swerdlow DL, et al: Estimating the Potential Effects of a Vaccine Program Against an Emerging Influenza Pandemic -- United States. Clin Infect Dis. (2015) 60 (suppl 1): S20-S29 doi:10.1093/cid/ciu1175
+Abstract
+--------
+Background. Human illness from influenza A(H7N9) was identified in March 2013, and candidate vaccine viruses were soon developed. To understand factors that may impact influenza vaccination programs, we developed a model to evaluate hospitalizations and deaths averted considering various scenarios.
+
+Methods. We utilized a model incorporating epidemic curves with clinical attack rates of 20 percent or 30 percent in a single wave of illness, case hospitalization ratios of 0.5 percent or 4.2 percent, and case fatality ratios of 0.08 percent or 0.53 percent. We considered scenarios that achieved 80 percent vaccination coverage, various starts of vaccination programs (16 or 8 weeks before, the same week of, or 8 or 16 weeks after start of pandemic), an administration rate of 10 or 30 million doses per week (the latter rate is an untested assumption), and 2 levels of vaccine effectiveness (2 doses of vaccine required; either 62 percent or 80 percent effective for persons aged less than 60 years, and either 43 percent or 60 percent effective for persons aged 60 years or older).
+
+Results. The start date of vaccination campaigns most influenced impact; 141 000-2 200 000 hospitalizations and 11 000-281 000 deaths were averted when campaigns started before a pandemic, and less than 100-1 300 000 hospitalizations and 0-165 000 deaths were averted for programs beginning the same time as or after the introduction of the pandemic virus. The rate of vaccine administration and vaccine effectiveness did not influence campaign impact as much as timing of the start of campaign.
+
+Conclusions. Our findings suggest that efforts to improve the timeliness of vaccine production will provide the greatest impacts for future pandemic vaccination programs.
+
+5. O'Hagan JJ, Wong KK, Campbell AP, et al: Estimating the United States Demand for Influenza Antivirals and the Effect on Severe Influenza Disease During a Potential Pandemic. Clin Infect Dis. (2015) 60 (suppl 1): S30-S41 doi:10.1093/cid/civ084
+Abstract
+--------
+Following the detection of a novel influenza strain A(H7N9), we modeled the use of antiviral treatment in the United States to mitigate severe disease across a range of hypothetical pandemic scenarios. Our outcomes were total demand for antiviral (neuraminidase inhibitor) treatment and the number of hospitalizations and deaths averted. The model included estimates of attack rate, healthcare-seeking behavior, prescription rates, adherence, disease severity, and the potential effect of antivirals on the risks of hospitalization and death. Based on these inputs, the total antiviral regimens estimated to be available in the United States (as of April 2013) were sufficient to meet treatment needs for the scenarios considered. However, distribution logistics were not examined and should be addressed in future work. Treatment was estimated to avert many severe outcomes (5200-248 000 deaths; 4800-504 000 hospitalizations); however, large numbers remained (25 000-425 000 deaths; 580 000-3 700 000 hospitalizations), suggesting that the impact of combinations of interventions should be examined.
+
+6. Carias C, Rainisch G, Shankar M, et al: Potential Demand for Respirators and Surgical Masks During a Hypothetical Influenza Pandemic in the United States. Clin Infect Dis. (2015) 60 (suppl 1): S42-S51 doi:10.1093/cid/civ141
+Abstract
+--------
+Background. To inform planning for an influenza pandemic, we estimated US demand for N95 filtering facepiece respirators (respirators) by healthcare and emergency services personnel and need for surgical masks by pandemic patients seeking care.
+
+Methods. We used a spreadsheet-based model to estimate demand for 3 scenarios of respirator use: base case (usage approximately follows epidemic curve), intermediate demand (usage rises to epidemic peak and then remains constant), and maximum demand (all healthcare workers use respirators from pandemic onset).We assumed that in the base case scenario, up to 16 respirators would be required per day per intensive care unit patient and 8 per day per general ward patient. Outpatient healthcare workers and emergency services personnel would require 4 respirators per day. Patients would require 1.2 surgical masks per day.
+
+Results and Conclusions. Assuming that 20% to 30% of the population would become ill, 1.7 to 3.5 billion respirators would be needed in the base case scenario, 2.6 to 4.3 billion in the intermediate demand scenario, and up to 7.3 billion in the maximum demand scenario (for all scenarios, between 0.1 and 0.4 billion surgical masks would be required for patients). For pandemics with a lower attack rate and fewer cases (such as, 2009-like pandemic), the number of respirators needed would be higher because the pandemic would have longer duration. Providing these numbers of respirators and surgical masks represents a logistic challenge for US public health agencies. Public health officials must urgently consider alternative use strategies for respirators and surgical masks during a pandemic that may vary
+from current practices.
+
+7. Meltzer MI, Patel A, Ajao A, et al: Estimates of the Demand for Mechanical Ventilation in the United States During an Influenza Pandemic. Clin Infect Dis. (2015) 60 (suppl 1): S52-S57 doi:10.1093/cid/civ089
+Abstract
+------
+An outbreak in China in April 2013 of human illnesses due to avian influenza A(H7N9) virus provided reason for US public health officials to revisit existing national pandemic response plans. We built a spreadsheet model to examine the potential demand for invasive mechanical ventilation (excluding "rescue therapy" ventilation). We considered scenarios of either 20 percent or 30 percent gross influenza clinical attack rate (CAR), with a "low severity" scenario with case fatality rates (CFR) of 0.05 percent-0.1 percent or a "high severity" scenario (CFR: 0.25 percent-0.5 percent). We used rates-of-influenza-related illness to calculate the numbers of potential clinical cases, hospitalizations, admissions to intensive care units, and need for mechanical ventilation. We assumed 10 days ventilator use per ventilated patient, 13 percent of total ventilator demand will occur at peak, and a 33.7 percent weighted average mortality risk while on a ventilator. At peak, for a 20 percent CAR, low severity scenario, an additional 7000 to 11 000 ventilators will be needed, averting a pandemic total of 35 000 to 55 000 deaths. A 30 percent CAR, high severity scenario, will need approximately 35 000 to 60 500 additional ventilators, averting a pandemic total 178 000 to 308 000 deaths. Estimates of deaths averted may not be realized because successful ventilation also depends on sufficient numbers of suitably trained staff, needed supplies (such as, drugs, reliable oxygen sources, suction apparatus, circuits, and monitoring equipment) and timely ability to match access to ventilators with critically ill cases. There is a clear challenge to plan and prepare to meet demands for mechanical ventilators for a future severe pandemic.
+
+8. Chun-Hai Fung I, Gambhir M, Glasser JW, et al: Modeling the Effect of School Closures in a Pandemic Scenario: Exploring Two Different Contact Matrices
+Clin Infect Dis. (2015) 60 (suppl 1): S58-S63 doi:10.1093/cid/civ086
+Abstract
+--------
+Background. School closures may delay the epidemic peak of the next influenza pandemic, but whether school closure can delay the peak until pandemic vaccine is ready to be deployed is uncertain.
+
+Methods. To study the effect of school closures on the timing of epidemic peaks, we built a deterministic susceptible infected-recovered model of influenza transmission. We stratified the U.S. population into 4 age groups (0-4, 5-19, 20-64, and 65 years or older), and used contact matrices to model the average number of potentially disease transmitting, nonphysical contacts.
+
+Results. For every week of school closure at day 5 of introduction and a 30 percent clinical attack rate scenario, epidemic peak would be delayed by approximately 5 days. For a 15 percent clinical attack rate scenario, 1 week closure would delay the peak by 9 days. Closing schools for less than 84 days (12 weeks) would not, however, reduce the estimated total number of cases.
+
+Conclusions. Unless vaccine is available early, school closure alone may not be able to delay the peak until vaccine is ready to be deployed. Conversely, if vaccination begins quickly, school closure may be helpful in providing the time to vaccinate school-aged children before the pandemic peaks.
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[Influenza viruses with pandemic potential include avian influenza A (H5N1)(http://www.cdc.gov/flu/avianflu/h5n1-people.htm) and avian influenza A (H7N9) (http://www.cdc.gov/flu/avianflu/h7n9-virus.htm), both of which are "bird flu" viruses. Because they basically circulate among birds, humans become infected incidentally. Consequently, humans have no immunity to these viruses. For this reason, if either if these viruses were to mutate or reassort in such a manner as to permit human-to-human transmission, an influenza pandemic could potentially occur. With the increased level of activity being detected in birds, concern is merited due to increased contact of humans with infected birds, and increased opportunity for the viruses to change genetically.
+
+In response to this, CDC updated its guidance on 1) the use of antiviral medications for treatment of human infections with novel influenza A viruses associated with severe human disease and 2) management of contacts of cases (see ProMED mail Avian influenza, human (90): CDC guidance, China, H7N9 20150410.3290332). And now a special supplement has been published by the Clinical Infectious Diseases journal presenting models for an influenza pandemic, studies that are well worth reading. In the set of papers, H7N9 is used as a model virus. This is a good approach since H7N9 cases have been increasing since the reassortant virus was first detected in China in Spring 2013.
+
+Infections with avian influenza viruses generally have been associated with contact with infected poultry or contaminated environments (such as poultry markets), but in some rare cases human-to-human transmission cannot be ruled out confidently. There is also evidence H7N9 has been imported to Canada in infected humans (see discussion in ProMED mail Avian influenza, human (90): CDC guidance, China, H7N9 20150410.3290332), providing a warning of the possibility of import into other countries and thus the need for preparedness. - Mod.LK]
+See Also
+Avian influenza, human (90): CDC guidance, China, H7N9 20150410.3290332
+Avian influenza, human (89): WHO update, Egypt, H5N1 20150409.3287821
+Avian influenza, human (88): Egypt H5N1 20150409.3285745
+Avian influenza, human (87): China (ZJ) H7N9, China (HK) alert status 20150408.3285269
+Avian influenza, human (86): China (SH) H7N9 20150407.3282288
+Avian influenza, human (85): Viet Nam (NA) not H5N6 20150406.3280005
+Avian influenza, human (84): China (SH) H7N9 20150405.3278791
+Avian influenza, human (83): Avian influenza, human (83): Viet Nam (NA) H5N6 20150405.3278754
+Avian influenza, human (82): China (YN) H5N1 20150403.3275831
+Avian influenza, human (81): genetic changes H5N1 20150402.3274191
+Avian influenza, human (80): transmission potential H7N9 20150401.3271231
+Avian influenza, human (79: Egypt FAO update, Indonesia (BT) H5N1 20150330.3265901
+Avian influenza, human (78): Indonesia (BT) RFI, Egypt (SJ) H5N1 20150329.3263924
+Avian influenza, human (77): China report week 12, H5N1, Viet Nam, Egypt 20150326.3255017
+Avian influenza, human (76): Egypt (MF) H5N1 20150324.3252696
+Avian influenza, human (75): China (YN), Egypt (KS) H5N1 20150323.3249966
+Avian influenza, human (74): China, recommendations RFI 20150323.3247717
+Avian influenza, human (73): Egypt, H5N1 cases 20150317.3236648
+Avian influenza, human (72): China H10N8, H6N1 20150315.3232207
+Avian influenza, human (71): Egypt, ECDC update, H5N1 20150314.3230812
+Avian influenza, human (70): China (SC) H5N1 20150313.3228528
+Avian influenza, human (69): China H7N9 20150312.3225992
+Avian influenza, human (68): WHO case count, H5N1 20150311.3222415
+Avian influenza, human (67): Egypt (MF,SQ,QH) H5N1 20150309.3217941
+Avian influenza, human (66): China (mainland) H7N9 20150309.3217857
+Avian influenza, human (65): Egypt (MF,SQ) H5N1 20150308.3216173
+Avian influenza, human (64): China (GD) H7N9 2150307.3214917
+Avian influenza, human (63): China (AH) H7N9 case, death 20150306.3213303
+Avian influenza, human (62): China (AH) H7N9 20150306.3211323
+Avian influenza, human (61): Egypt (QH,SQ,BH) H5N1 20150304.3207921
+Avian influenza, human (60): China (AH,GD) H7N9 20150304.3205885
+Avian influenza, human (10): China (GD) H7N9 20150112.3087792
+Avian influenza, human (09): Egypt, H5N1, mutations, comment 20150110.3084116
+Avian influenza, human (08): Egypt, H5N1, mutations 20150109.3082553
+Avian influenza, human (07): China (GD) H7N9 20150109.3080184
+Avian influenza, human (06): Egypt H5N1, China (GD) H7N9 20150107.3077378
+Avian influenza, human (05): China (SZ, GD) H7N9 20150106.3075021
+Avian influenza, human (04): Egypt (MF, GZ) fatal, China (HK) 20150105.3072586
+Avian influenza, human (03): Egypt (AN, Cairo, MF) fatal, H5N1 20150103.3069160
+Avian influenza, human (02): China (HK,GD) LPAI H7N9, poultry, control, OIE 20150102.3067796
+Avian influenza, human (01): Libya, fatal, H5N1 susp, RFI 20150101.3061029
+.................................................lk/mj
+</body>

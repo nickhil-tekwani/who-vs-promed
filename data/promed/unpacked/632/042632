@@ -1,0 +1,385 @@
+<header id=042632>
+Published Date: 2021-02-15 09:41:30 EST
+Subject: PRO/AH/EDR> COVID-19 update (66): dual CoV infections, lockdowns, post-COVID, WHO, global
+Archive Number: 20210215.8192061
+</header>
+<body id=042632>
+CORONAVIRUS DISEASE 2019 UPDATE (66): DUAL COV INFECTIONS, STATUS UPDATES, LOCKDOWNS, POST-COVID SYNDROME, WHO, GLOBAL
+**********************************************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] Dual coronavirus infections
+[2] Summary of status updates
+[3] New Zealand (Auckland): lockdown
+[4] Post-COVID symptoms
+[5] WHO: daily new cases reported (as of 14 Feb 2021)
+[6] Global update: Worldometer accessed 14 Feb 2021 17:52 EST (GMT-5)
+
+******
+[1] Dual coronavirus infections
+Date: Wed 10 Feb 2021
+Source: America Society for Microbiology, mSphere [abridged, edited]
+https://msphere.asm.org/content/6/1/e00819-20
+
+
+ref: Lau SKP, Lung DC, Wong EYM, et al. Molecular evolution of human coronavirus 229e in Hong Kong and a fatal COVID-19 case involving coinfection with a novel human coronavirus 229E genogroup. mSphere. 2021 Feb 10; 6(1): e00819-20. doi: 10.1128/mSphere.00819-20. PMID: 33568452
+--------------------------------------------------------------------------------
+Abstract
+--------
+Compared to other human coronaviruses, the genetic diversity and evolution of human coronavirus 229E (HCoV-229E) are relatively understudied. We report a fatal case of COVID-19 pneumonia coinfected with HCoV-229E in Hong Kong. Genome sequencing of SARS-CoV-2 and HCoV-229E from a nasopharyngeal sample of the patient showed that the SARS-CoV-2 strain HK13 was most closely related to SARS-CoV-2 type strain Wuhan-Hu-1 (99.99% nucleotide identity), compatible with his recent history of travel to Wuhan. The HCoV-229E strain HK20-42 was most closely related to HCoV-229E strain SC0865 from the United States (99.86% nucleotide identity). To investigate if it may represent a newly emerged HCoV-229E genotype in Hong Kong, we retrieved 41 archived respiratory samples that tested positive for HCoV-229E from 2004 to 2019. Pneumonia and exacerbations of chronic airway diseases were common among infected patients. Complete RdRp, S, and N gene sequencing of the 41 HCoV-229E strains revealed that our contemporary HCoV-229E strains have undergone significant genetic drift with clustering of strains in chronological order. 2 novel genogroups were identified, in addition to previously described genogroups 1 to 4, with recent circulating strains including strain HK20-42 belonging to novel genogroup 6. Positive selection was detected in the spike protein and receptor-binding domain, which may be important for viral evolution at the receptor-binding interphase. Molecular dating analysis showed that HCoV-229E shared the most recent common ancestor with bat and camel/alpaca 229E-related viruses at approximately 1884, while camel/alpaca viruses had a relatively recent common ancestor at approximately 1999. Further studies are required to ascertain the evolutionary origin and path of HCoV-229E.
+
+Importance
+Since its 1st appearance in the 1960s, the genetic diversity and evolution of human coronavirus 229E (HCoV-229E) have been relatively understudied. In this study, we report a fatal case of COVID-19 coinfected with HCoV-229E in Hong Kong. Genome sequencing revealed that our SARS-CoV-2 strain is highly identical to the SARS-CoV-2 strain from Wuhan, compatible with the patient's recent travel history, whereas our HCoV-229E strain in this study is highly identical to a recent strain in the United States. We also retrieved 41 archived HCoV-229E strains from 2004 to 2019 in Hong Kong for sequence analysis. Pneumonia and exacerbations of chronic airway diseases were common diagnoses among the 41 patients. The results showed that HCoV-229E was evolving in chronological order. 2 novel genogroups were identified in addition to the 4 preexisting HCoV-229E genogroups, with recent circulating strains belonging to novel genogroup 6. Molecular clock analysis dated bat-to-human and bat-to-camelid transmission to as early as 1884.
+
+Introduction
+------------
+Human coronaviruses (CoVs) were historically considered of low virulence, with their clinical and public health impact largely ignored. CoVs are classified into 4 genera, Alphacoronavirus, Betacoronavirus, Gammacoronavirus, and Deltacoronavirus. Before the severe acute respiratory syndrome (SARS) epidemic in 2003, only 2 human CoVs, HCoV-229E (alphacoronavirus) and HCoV-OC43 (betacoronavirus), were recognized, which were mainly associated with common colds. Since the discovery of SARS-CoV (betacoronavirus) and its animal origins, numerous CoVs have been discovered, including two additional human coronaviruses, HCoV-NL63 (alphacoronavirus) and HCoV-HKU1 (betacoronavirus). The emergence of Middle East respiratory syndrome CoV (MERS-CoV) in 2012 and SARS-CoV-2 recently (both betacoronaviruses) showed that CoVs are important human pathogens.
+
+Compared to other human CoVs, relatively little is known about the genetic diversity and evolution of HCoV-229E. Since the 1st isolation of HCoV-229E in 1965 as a novel common cold virus from organ culture, only 24 complete genome sequences of HCoV-229E have been available in GenBank, including one from the cDNA clone Inf-1 of the laboratory-adapted strain VR-740 and 23 from clinical isolates in the United States, Italy, Netherlands, Germany, and Haiti. In one early study, sequencing of the spike genes of 3 geographically and chronologically distinct HCoV-229E strains showed rather limited variations. However, a subsequent study demonstrated genetic drift in the spike and nucleoprotein genes between 25 chronologically distinct HCoV-229E strains circulating in Australia between 1979 and 2004, which were clustered into 4 groups, group 1 to 4.
+
+In this study, we report a fatal case of coronavirus disease 2019 (COVID-19) coinfected with HCoV-229E. To investigate if the HCoV-229E strain may represent a newly emerged genotype, we also retrieved archived respiratory samples that tested positive for HCoV-229E in Hong Kong and performed complete RdRp, S, and N gene sequencing. The clinical characteristics of patients were analyzed in relation to molecular epidemiology data. Molecular dating was performed to understand the evolution of HCoV-229E.
+
+Discussion
+----------
+In this study, we showed that the contemporary HCoV-229E strains from Hong Kong have undergone significant genetic drift. Phylogenetic analysis of the S gene showed that HCoV-229E has continued to evolve with time to generate new genogroups, with clustering of strains in chronological order.
+
+The present study revealed the estimation of divergence times for human- and animal-associated 229E viruses. Similarly to SARS-CoV, HCoV-229E may have also originated from bats. A previous study has reported CoVs closely related to HCoV-229E in bats of the genus _Hipposideros_ in Africa (34,35). CoVs [close] to HCoV-229E have been identified in alpacas in the United States and dromedary camels in Africa and the Arabian Peninsula (15,36). However, it remains to be determined if dromedaries or related animals have served as an intermediate host for bat-to-human transmission, or if both humans and dromedaries have acquired 229E-related CoVs independently from a common ancestor.
+
+--
+Communicated by:
+Mary Marshall
+<mjm2020@googlemail.com>
+
+[The complete article including figures and references is available at the source URL above.
+
+Since the human coronaviruses are so common, it is important to understand the impact of co-infection with these viruses and SARS-CoV-2. This report looks at HCoV-229E strains, one of which led to a fatal case when SARS-CoV-2 was also present. - Mod.LK]
+
+******
+[2] Summary of status updates
+Date: Mon 15 Feb 2021 10:58 AM
+Source: BloombergQuint [abridged, edited]
+https://www.bloombergquint.com/onweb/u-s-infection-rate-eases-to-lowest-since-october-virus-update
+
+
+The pace of the coronavirus outbreak in the US continued to ease as the country's week-to-week average fell to its lowest in almost 4 months. A top Biden administration health official warned Americans not to get complacent as the potentially more lethal variant [B.1.1.7], first found in the UK spreads across the country.
+
+California's positive test rate fell to its lowest since November [2020], and New York state's hospitalizations, stuck among the nation's highest, dropped by more than 1000 over the last week. Ohio reported the fewest cases since October [2020].
+
+The UK affirmed its plan for schools to reopen early next month [March 2022] as the nation's vaccine program meets its 1st target.
+
+The Czech government prolonged its lockdown as the country struggles to contain one of Europe's worst outbreaks.
+
+Key developments
+----------------
+- Global tracker: cases exceed 108.7 million; deaths pass 2.3 million (https://coronavirus.jhu.edu/map.html)
+- Vaccine tracker: more than 172 million shots given worldwide (https://www.bloomberg.com/graphics/covid-vaccine-tracker-global-distribution/)
+- New Zealand gets pandemic reality check as Auckland locked down [see next report]
+- COVID'S puzzling decline sparks a shopping spree in India (https://www.bloomberg.com/news/articles/2021-02-14/covid-s-puzzling-decline-sparks-a-shopping-spree-in-india)
+- Rise of variants sparks push for all-in-one COVID vaccines (https://www.bloomberg.com/news/articles/2021-01-18/what-to-know-about-vaccine-related-deaths-allergies-quicktake)
+
+Kentucky doing 'better and better,' governor says (4:36 p.m. NY)
+Kentucky Governor Andy Beshear infections have declined for 5 straight weeks, which he said was the longest stretch since the start of the pandemic. "We are doing better and better," he said in a video message. "So keep it up." The state reported 10 deaths, the lowest since December. Kentucky has administered almost 650 000 vaccinations, according to the Bloomberg vaccine tracker.
+
+Ex-FDA head Gottlieb calls for tailored vaccine solutions (NY)
+The Biden administration should consider tailored solutions to get the vaccine into "underserved communities," including mobile vans and grass-roots outreach to community groups instead of mass vaccination sites, former FDA Commissioner Scott Gottlieb said.
+
+"I'd be marshaling federal resources toward that kind of a mission and letting Walmart work off the easy demand," Gottlieb said Sun [14 Feb 2021] on "Face the Nation."
+
+"People who can go online, register, drive to Dodger Stadium, wait in line, take a half a day off from work to get vaccinated -- those are people who could be serviced by Walmart, CVS, Rite Aid."
+
+France worries about regional spread of variants
+France reported 16 546 new infections on Sunday [14 Feb 2021] amid worries about variants of the coronavirus that are spreading in some northern and eastern parts of the country. Deaths rose by 167 to 81 814.
+
+Ohio reports fewest cases in 4 months
+Ohio reported 1809 cases, the fewest since October [2020]. Cases and hospitalizations have been on a steady decline for more than a month after Governor Mike DeWine imposed restrictions, including a recently-lifted curfew. Deaths remain at a plateau, and the state just completed logging more than 4000 unreported fatalities. Total deaths are now 16 346. Ohio has given 1.6 million vaccinations, just below the national average for all states, according the Bloomberg Vaccine Tracker.
+
+California's positive rate falls to 3-month low
+California's 14-day positive test rate dropped to 4.6% yesterday [14 Feb 2021], the lowest since [15 Nov 2020], according to the health department's website. The state also reported fewer new cases and fatalities than its 14-day rolling average. There were 8842 new COVID-19 cases, below the average of 11 181, and 408 deaths, fewer than the 439 average. California has administered 5.98 million vaccinations to date.
+
+Italy extends ban on ski resorts
+Italy extended its ban on ski resorts, set to expire on Monday [15 Feb 2021], until [5 Mar 2021], Ansa reported. The action was taken by Health Minister Roberto Speranza after warnings from a senior aide as well as Italy's Scientific Committee that the spread of new coronavirus variants made the reopening of resorts too risky, despite the overall easing of outbreak in Italy and a loosening of other restrictions. Resorts were a source of infection in last year's [2020] deadly surge in Italy.
+
+Mexico hopes to work with Cuba on vaccine trial
+Mexico is in talks with Cuba to host part of a trial on a COVID-19 vaccine in an effort to draw more supplies from international laboratories as doses run short in the country and the death tally grows.
+
+So far, just 0.5% of Mexico's population has received at least one vaccine against the coronavirus, compared with 11.5% in the US, according to the Bloomberg vaccine tracker.
+
+Czechs extend lockdown
+The Czech government prolonged its pandemic lockdown measures, escalating its conflict with lawmakers opposed to the extension even as the country struggles to contain one of the worst outbreaks in Europe. The cabinet of Prime Minister Andrej Babis on Sunday agreed to maintain the state of emergency for 2 more weeks, keeping the legal framework allowing it to shut shops and services, curb movement of people and impose a nighttime curfew. Babis's rivals said the move violated the constitution.
+
+UK confirms vaccine target reached
+UK Prime Minister Boris Johnson confirmed his government had met its target of immunizing everyone over the age of 70, along with people who live or work in nurse homes, health service workers, and those who are most vulnerable to COVID-19. Johnson is due to announce his "road map" to unlock the country gradually over the months ahead on [22 Feb 2021]. "In England, I can tell you we have now offered jabs to everyone in the 1st 4 priority groups, the people most likely to be seriously ill from coronavirus, hitting the 1st target we set ourselves," he said in a video posted to his Twitter account. "This country has achieved an extraordinary feat -- administering a total of 15 million jabs into the arms of some of the most vulnerable people in the country."
+
+Earlier Sunday [14 Feb 2021], British Foreign Minister Dominic Raab signaled that schools in England will be allowed to reopen from early next month [March 2021]. The UK reported another 10 972 cases on Sunday [14 Feb 2021], the fewest since [2 Oct 2021]. Daily infections have been below 20 000 for 10 days in a row after peaking over 68 000 in early [January 2021]. Fatalities are also the lowest this year, though reporting often lags on weekends. Another 258 people died within 28 days of a positive test.
+
+Rite Aid chief sees vaccine role for private sector
+[US] State and local governments struggling to get people swiftly registered for vaccinations could find help from the private sector, said Rite Aid Corp. Chief Executive Heyward Donigan. "The governors are doing a wonderful job, as best they can," including by putting their own call centers together, Donigan said on CBS's "Face the Nation." "But demand is so high that I do think the private sector can play a role here."
+
+State and county officials nationwide have reported long wait times amid a crush of eligible residents seeking to schedule appointments for COVID-19 vaccinations. The drugstore chain is set to distribute 100 doses of COVID-19 vaccines per week at participating stores in California, Michigan, New Jersey, New York, Ohio, and Pennsylvania.
+
+NY hospitalizations continue to drop (11:50 a.m. NY)
+New York state hospitalizations fell by more than 1000 to 6593 over the last week, Governor Andrew Cuomo said in a statement. That compares with more than 9000 almost a month ago at the peak of the state's post-holiday virus surge. Cuomo reported 8316 new cases, a daily decline in line with the lower pace of infection that has prompted him to ease some restrictions, including allowing limited indoor dining in New York City. The positive test rate was steady at 3.54%. Another 107 people died of COVID-19.
+
+Sanofi says both shots could be ready this year [2021]
+Sanofi's 2 COVID-19 vaccines are entering new phases of trials in coming weeks and both could be available by the end of the year, said Thomas Triomphe, head of Sanofi Pasteur. Sanofi's more advanced vaccine candidate, being jointly developed with GlaxoSmithKline Plc, will enter another Phase II trial later this month [February 2021], and there have been no problems with getting the right formulations, Triomphe said in a phone interview. His comments came in response to an earlier report in French weekly Journal du Dimanche, questioning whether they would be ready.
+
+Don't let down guard on virus, CDC head warns
+Americans should not get complacent about rapidly falling coronavirus cases as a potentially more lethal variant spreads in the US, according to Rochelle Walensky, head of the Centers for Disease Control and Prevention.
+
+The US has seen more than 1000 cases of the strain [B.1.1.7] first identified in the UK, with infections across at least 39 states, Walensky said on NBC's "Meet the Press," one of 3 scheduled interviews on Sunday [14 Feb 2021]. It is around 40%-50% more transmissible and early data "have suggested there might in fact be increased morbidity and mortality." Even with more than 52 million vaccines administered in the US, the country continues to see close to 100 000 cases per day -- although infections, hospitalizations and deaths have declined steadily from January peaks.
+
+US infection rate lowest since October [2020]
+New US cases of COVID-19 declined to about 84 000 on Saturday [13 Feb 2021], compared with an average 97 240 for the 7 days ended Friday [12 Feb 2021] -- the country's lowest week-to-week average since late October [2020], according to data compiled by Johns Hopkins University and Bloomberg.
+
+While testing has declined slightly nationwide, the positive-test rate has fallen from more than 13% early this year [2021] to less than 6%, according to JHU [Johns Hopkins University] data. Even so, the US added 3433 deaths on Saturday [13 Feb 2021], compared with an average 3058 over the preceding 7 days. The latest death toll is likely to have been inflated by revised numbers in Ohio following an earlier undercount.
+
+Denmark readies for regular testing, long-term border controls
+Denmark must prepare to deal with COVID-19 for a long period of time, Prime Minister Mette Frederiksen said in an interview with the newspaper Berlingske. Frederiksen suggested a "massive testing strategy" to keep society open. This model would require Danes to get used to getting tested several times a week. She also referred to longer-term border controls to prevent new mutations from spreading.
+
+Swiss business group calls for virus reopening
+Influential Swiss business lobby group Economiesuisse called for the easing of some coronavirus restrictions beginning in March [2021], putting pressure on Switzerland's government. Economiesuisse and the association of Swiss employers said the Swiss federal government should reopen non-essential shops, allow outdoor gatherings of more than 5 people and permit restaurants to have outdoor dining, beginning next month [March 2021]. The easing of restrictions would reduce harm to Switzerland's economy, the groups said in a statement Sunday [14 Feb 2021]. Health Minister Alain Berset is expected to announce the government's plan to potentially reduce restrictions on [24 Feb 2021]. The Swiss government has closed restaurants, banned outdoor gatherings of more than 5 people, urged people who can, to work from home, and closed non-essential shops to stop the spread of the virus.
+
+Serbia delivers vaccines to North Macedonia
+A shortage of shots prompted one ex-Yugoslav republic to donate 4680 Pfizer-BioNTech vaccines to another member of the former federation, in an atypical instance of Balkan solidarity. Serbia's President Aleksandar Vucic delivered the vaccines to North Macedonia's Premier Zoran Zaev at the mutual border on Sunday [14 Feb 2021], the 1st part of 8000 vaccines for the southern neighbor. Both states aspire to join the European Union though haven't received any vaccines from the bloc. Serbia has managed to buy more than 1.8 million shots directly from drug makers, and has shared some with neighboring Bosnia-Herzegovina and North Macedonia.
+
+--
+Communicated by:
+Mary Marshall
+<mjm2020@googlemail.com>
+
+[This is a brief summary of COVID-19 activity around the world. The tone is optimistic with decreasing number of cases in most countries.]
+
+******
+[3] New Zealand (Auckland): lockdown
+Date: Sun 14 Feb 2021
+Source: The Associated Press (AP) [abridged, edited]
+https://apnews.com/article/auckland-airlines-wellington-new-zealand-coronavirus-pandemic-a7891dd3aad7f61951c288a9ae897c79
+
+
+New Zealand's largest city of Auckland will go into a 3-day lockdown beginning just before midnight Sunday [14 Feb 2021] following the discovery of 3 unexplained coronavirus cases in the community.
+
+Prime Minister Jacinda Ardern announced the move after an urgent meeting with other top lawmakers in the Cabinet. She said they decided to take a cautious approach until they find out more about the outbreak, including whether the infections are of the more contagious variants.
+
+The lockdown is the 1st in New Zealand in 6 months and represents a significant setback in the nation's largely successful efforts to control the virus. It will also force a delay in the America's Cup sailing regatta.
+
+New Zealand had successfully stamped out community spread, and many people elsewhere in the world looked on in envy as New Zealanders went back to work and began attending concerts and sporting events without the need to wear masks or take other precautions.
+
+Indeed, Ardern on Sunday [14 Feb 2021] had planned to attend the Big Gay Out, an Auckland festival that celebrates the rainbow community and attracts tens of thousands of people. She ended up canceling those plans and returning to Wellington to manage the outbreak.
+
+"I'm asking New Zealanders to continue to be strong and to be kind," Ardern said at a hastily arranged press conference. "I know we all feel the same way when this happens. We all get that sense of 'Not again.' But remember, we have been here before and that means we know how to get out of this again, and that is together."
+
+New Zealand's greatest vulnerability has been at the border.
+
+New cases are regularly caught among returning travelers, all of whom are required to spend 2 weeks in quarantine. Despite precautions, there have been several times when the virus has leaked out from the border before being controlled again, and officials are trying to determine whether that's happened again.
+
+In the latest case, an Auckland mother, father, and daughter caught the disease. Officials said the mother works at a catering company that does laundry for airlines, and officials are investigating whether there is a link to infected passengers. Officials said the woman hadn't been going aboard the planes herself.
+
+Officials said the rest of New Zealand outside of Auckland will also be placed under heightened restrictions, although will not go into lockdown.
+
+"We are gathering all of the facts as quickly as we can, and the system that served us so well in the past is really gearing up to do so again," said COVID-19 Response Minister Chris Hipkins.
+
+He described the cases as new and active. He said scientists are carrying out genome sequencing to see whether they are variants, and also to see whether they match with any infected passengers.
+
+"New Zealand has kept COVID-19 contained better than almost any other country," Hipkins said. "But as we have kept saying, there is no such thing as no risk."
+
+New Zealand, with a population of 5 million, has reported a total of just over 2300 cases and 25 deaths since the pandemic started.
+
+The country has been hosting the America's Cup sailing regatta. Racing was due to continue on Wednesday [17 Feb 2021] in the Prada Cup challenger series, but organizers have announced that a postponement will be necessary.
+
+[Byline Nick Perry]
+
+--
+Communicated by:
+ProMED rapporteur Kunihiko Iizuka
+
+
+[Auckland is a large metropolitan city in the North Island of New Zealand. The most populous urban area in the country, Auckland has an urban population of about 1 470 100 (June 2020). It is located in the Auckland Region -- the area governed by Auckland Council -- which includes outlying rural areas and the islands of the Hauraki Gulf, resulting in a total population of 1 717 500.
+(https://en.wikipedia.org/wiki/Auckland)
+
+If rapid testing were done at the border, that would likely prevent the occasional case from leaking across. But one would think the 2-week quarantine would prevent most undetected infected cases from being infectious upon release. - Mod.LK]
+
+******
+[4] Post-COVID symptoms
+Date: Sun 14 Feb 2021 11:12 AM
+Source: Voice of America (VOA) News [abridged, edited]
+https://www.voanews.com/covid-19-pandemic/post-covid-symptoms-will-have-profound-impact-global-health
+
+
+Post-COVID symptoms will have profound impact on global health, WHO
+-------------------------------------------------------------------
+The World Health Organization says debilitating post-COVID-19 symptoms in patients will have an impact on global health because of the magnitude of the pandemic.
+
+The World Health Organization is conducting research into why many people who are infected with COVID-19 continue to suffer from various disabling conditions for up to 6 months after they have had the illness.
+
+The team lead of WHO's Health Care Readiness Division, Janet Diaz, says some people with post-COVID-19 conditions, also known as "long COVID" have not been able to go back to work. She says their incapacitating symptoms prolong their recovery period.
+
+"Some of the more common symptoms of the post-COVID-19 condition can be fatigue, exertional malaise, and cognitive dysfunction. Sometimes you may be hearing patients describing that as 'brain fog.' These are real," she said. Other complications include shortness of breath, cough, and mental health and neurological complications.
+
+Diaz says it is not clear which patients are most at risk of long COVID. She says they range from patients who have been hospitalized and required intensive care treatment to those with mild illnesses who were treated in ambulatory outpatient settings.
+
+She says researchers do not know why this is happening and are working hard to get the answers to the many questions surrounding this disease, caused by the SARS-CoV-2 virus.
+
+"We are concerned, obviously, with the numbers of patients infected with SARS-CoV-2 virus.
+
+We do not know how common it is or how uncommon it is. But the numbers, just by the magnitude of the pandemic will impact health systems. Again, the main message from us is prevent infection with SARS-CoV-2. So, the public health measures are the no. 1 intervention right now that we know will prevent this," she said.
+
+These measures include observing physical distancing, wearing a mask, and handwashing.
+
+WHO is calling for a coordinated global research response and the collection of as much standardized clinical data as possible to better understand the condition and learn how to better treat those afflicted with this complication.
+
+[Byline: Lisa Schlein]
+
+--
+Communicated by:
+Mary Marshall
+<mjm2020@googlemail.org>
+
+[Good clinical data on patients experiencing long term COVID-19 symptoms compared with age- and sex-matched controls who do not, would be helpful to elucidate the cause(s) of this problem.
+
+"Although COVID-19 is seen as a disease that primarily affects the lungs, it can damage many other organs as well. This organ damage may increase the risk of long-term health problems. Organs that may be affected by COVID-19 include:
+
+"- Heart. Imaging tests taken months after recovery from COVID-19 have shown lasting damage to the heart muscle, even in people who experienced only mild COVID-19 symptoms. This may increase the risk of heart failure or other heart complications in the future.
+"- Lungs. The type of pneumonia often associated with COVID-19 can cause long-standing damage to the tiny air sacs (alveoli) in the lungs. The resulting scar tissue can lead to long-term breathing problems.
+"- Brain. Even in young people, COVID-19 can cause strokes, seizures, and Guillain-Barre syndrome -- a condition that causes temporary paralysis. COVID-19 may also increase the risk of developing Parkinson's disease and Alzheimer's disease.
+
+"Blood clots and blood vessel problem
+"COVID-19 can make blood cells more likely to clump up and form clots. While large clots can cause heart attacks and strokes, much of the heart damage caused by COVID-19 is believed to stem from very small clots that block tiny blood vessels (capillaries) in the heart muscle. Other parts of the body affected by blood clots include the lungs, legs, liver, and kidneys. COVID-19 can also weaken blood vessels and cause them to leak, which contributes to potentially long-lasting problems with the liver and kidneys.
+
+"Problems with mood and fatigue.
+"People who have severe symptoms of COVID-19 often have to be treated in a hospital's intensive care unit, with mechanical assistance such as ventilators to breathe. Simply surviving this experience can make a person more likely to later develop post-traumatic stress syndrome, depression and anxiety.
+
+Because it's difficult to predict long-term outcomes from the new COVID-19 virus, scientists are looking at the long-term effects seen in related viruses, such as the virus that causes severe acute respiratory syndrome (SARS).
+
+Many people who have recovered from SARS have gone on to develop chronic fatigue syndrome, a complex disorder characterized by extreme fatigue that worsens with physical or mental activity, but doesn't improve with rest. The same may be true for people who have had COVID-19."
+(Excerpted from the Mayo Clinic https://www.mayoclinic.org/diseases-conditions/coronavirus/in-depth/coronavirus-long-term-effects/art-20490351). -Mod.LK
+
+******
+[5] WHO: daily new cases reported (as of 14 Feb 2021)
+Date: Sun 14 Feb 2021
+Source: WHO [abridged, edited]
+https://covid19.who.int/table
+
+
+*Daily case reports as of 14 Feb 2021 19:11 CET
+
+Surveillance
+------------
+WHO region (no. countries/territories):
+Total confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+--------------------------------------------------------------------------------
+Western Pacific Region (19): 1 531 366 (7237) / 27 019 (89)
+European Region (61): 36 573 613 (122 528) / 812 370 (2808)
+South East Asia Region (10): 13 188 211 (22 599) / 202 607 (385)
+Eastern Mediterranean Region (22): 5 998 998 (22 938) / 139 468 (339)
+Region of the Americas (54): 48 137 377 (115 652) / 1 131 524 (3904)
+African Region (49): 2 723 431 (9576) / 68 294 (251)
+Cases on an international conveyance (Diamond Princess): 745 (0) / 13 (0)
+
+Confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+Grand total: 108 153 741 (300 530) / 2 381 295 (7776)
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[The number of countries and territories reporting confirmed cases of COVID-19 to WHO remains 219.
+
+Data by country, area, or territory for 14 Feb 2021 can be accessed at https://promedmail.org/wp-content/uploads/world-pdf/2021%20WHO%20Daily%20Tables%20Feb14_1613401040.pdf.
+
+- The Americas region reported 38.5% of daily case numbers and 50.2% of the daily deaths reported in the past 24 hours and maintained its position as the most severely affected region, having reported more than 48.13 million cases. The USA remains the most heavily affected country, and reported just over 64 000 cases followed by Brazil and Mexico (reporting more than 10 000 cases in the past 24 hours); 8 additional countries reported more than 1000 cases in the past 24 hours (Colombia, Argentina, Peru, Chile, Bolivia, Dominican Republic, Ecuador, and Canada), and an additional 5 countries (Panama, Guatemala, Paraguay, Honduras, and Cuba, reported more than 500 but fewer than 1000 cases.
+
+- The European region reported 40.7% of daily case numbers and 36.1% of the daily deaths reported in the past 24 hours, and total cumulative cases reported exceed 36.57 million. Countries not reporting cases include Spain, Israel, Belgium, Switzerland, and Kazakhstan, among others. France is the most heavily affected, followed by Russia, the UK, and Italy, reporting more than 10 000 cases in the last 24 hours. Another 18 countries reported more than 1000 cases, and an additional 4 countries reported more than 500 but fewer than 1000 cases.
+
+- The Eastern Mediterranean region reported 7.6% of daily case numbers and 4.3% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 5.99 million cases. Iran maintains its dominance, reporting just over 7100 cases, followed by UAE, Lebanon, Iraq, Jordan, Pakistan, and Kuwait. Palestinian Authority, Bahrain, Tunisia, Libya, and Egypt reported more than 500 but fewer than 1000 cases.
+
+- The African region reported 3.1% of daily case numbers and 3.2% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 2.72 million cases. South Africa maintains its dominance, with over 2400 cases, followed by Zambia and Nigeria. Ethiopia, and Ghana, reported more than 500 but fewer than 1000 cases. Cameroon, Mozambique, Madagascar, and Mauritania, among others, did not report any newly confirmed cases in the preceding 24 hours.
+
+- The Western Pacific region reported 2.4% of daily case numbers and 1.1% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 1.53 million cases. Malaysia reported the highest number of cases over the last 24 hours (over 3400 cases), followed by Japan, Philippines, South Korea, and China.
+
+- The South East Asia region reported 7.5% of the daily newly reported cases and 4.9% of reported deaths in the past 24 hours, having reported a cumulative total of more than 13.18 million cases. India dominant with over 12 000 cases, followed by Indonesia having reported over 9000 cases, Sri Lanka, Bangladesh, Thailand, Nepal, and Maldives.
+
+On the Overview tab at the WHO source URL, the epidemic curve of confirmed COVID-19 cases by WHO region, 30 Dec 2019 through 14s Feb 2021, is an excellent visual representation of the pandemic. - Mod.UBA]
+
+******
+[6] Global update: Worldometer accessed 14 Feb 2021 17:52 EST (GMT-5)
+Date: Sun 14 Feb 2021
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at https://promedmail.org/wp-content/uploads/world-pdf/2021%20WORLDDATA%20FEB14_1613401134.pdf.
+
+A 7-day series of cumulative data reported by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/2021%20FEB14WORLD7_1613401238.pdf. - Mod.UBA]
+
+Total number of reported deaths: 2 411 436
+Total number of worldwide cases: 109 386 228
+Number of newly confirmed cases in the past 24 hours: 294 902
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[In the past 24 hours, the USA (64 506), Brazil (23 258), and France (16 546) have reported the highest numbers of cases. A global total of 7262 deaths were reported in the past 24 hours (late 13 Feb 2021 to late 14 Feb 2021). Countries reporting more than 10 000 newly confirmed cases in the past 24 hours (8 countries) include the USA, Brazil, France, Russia (14 185), Mexico (13 840), India (11 434), Italy (11 060), and the UK (10 972). A total of 42 countries reported more than 1000 cases in the past 24 hours; 19 of the 42 countries are from the European region, 9 are from the Americas region, 6 are from the Eastern Mediterranean region, 2 are from the South East Asia region, 3 are from the Western Pacific region, and 3 are from the African region.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, case counts have decreased by 14.3%, while daily reported deaths have decreased by 6.5%. Similar comparative 7-day averages in the USA show a 22.9% decrease in daily reported cases and 5.5% decrease in reported deaths.
+
+Impression: The global daily reported cases over 290 000 newly confirmed infections daily in the past 24 hours with over 109.38 million cumulative reported cases and with over 2.41 million reported deaths. Countries in the European and the Americas regions are still showing the largest increases in daily new case counts, even in the face of overall decreasing reports. The Eastern Mediterranean countries have been demonstrating decreasing case counts while the Western Pacific and African countries are increasing in reported cases. - Mod.UBA]
+See Also
+COVID-19 update (65): animal, China, origin, WHO mission, Huanan market 20210214.8190188
+COVID-19 update (64): vaccine, reinfect. France, plasma, viral load, WHO, global 20210214.8190239
+COVID-19 update (63): children, China, nebulizer-associated spread, WHO, global 20210213.8189122
+COVID-19 update (62): Latvia (RA) animal, cat, OIE 20210212.8187389
+COVID-19 update (61): meat facility, S Korea, T lymphocytes, S Asia, WHO, global 20210212.8187538
+COVID-19 update (60): animal, SARS-CoV-2-related viruses, pangolin, bat 20210211.8184900
+COVID-19 update (59): dementia risk, UK REACT, mutation, mAb therapy, WHO, global 20210211.8184805
+COVID-19 update (58): animal, China, origin, WHO mission 20210210.8183343
+COVID-19 update (57): China (Hong Kong) animal, dog, OIE 20210210.8182259
+COVID-19 update (56): meat facility outbreak, vacc 2nd dose, routes, WHO, global 20210210.8181892
+COVID-19 update (55): vaccines, variants, WHO, global 20210209.8178387
+COVID-19 update (54): post-COVID syndrome, reinfection, variants, WHO, global 20210208.8175253
+COVID-19 update (53): animal, mink, Denmark, zoonotic aspects 20210207.8173294
+COVID-19 update (52): immunity, recomb, passport, reinfect, WHO 20210207.8172609
+COVID-19 update (51): variant mortality, frailty, USA variants, WHO 20210206.8170027
+COVID-19 update (50): UK vaccine study, Brazil reinfection, WHO 20210205.8167161
+COVID-19 update (40): vaccines, Thailand, Viet Nam, WHO, global 20210130.8149707
+COVID-19 update (30): vaccination impact, immune escape, variant, WHO, global 20210123.8129255
+COVID-19 update (20): animal, deer, experimental infection 20210116.8108967
+COVID-19 update (10): IgA, IL-6 receptor agonists, China, WHO, global 20210109.8086465
+COVID-19 update (01): variants, vaccine, Thailand, global, WHO 20210101.8062938
+2020
+----
+COVID-19 update (562): viral load, UK vacc dose, ECDC, WHO 20201231.8061525
+COVID-19 update (561): variants, China serosurvey, psychosis, WHO 20201230.8057135
+COVID-19 update (560): variants, Thailand, viral shedding, WHO 20201229.8054081
+COVID-19 update (550): mutation, query, Thailand, Taiwan, WHO, global, RFI 20201223.8040292
+COVID-19 update (500): frequent rapid tests, vaccine, WHO, global 20201122.7962919
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+Undiagnosed pediatric inflammatory syndrome (05): Europe, USA, COVID-19 assoc 20200518.7340554
+Undiagnosed pediatric inflammatory syndrome (04): USA, UK, PMIS, fatal 20200509.7315405
+Undiagnosed pediatric inflammatory syndrome (03): USA, Europe, COVID-19 susp, RFI 20200505.7299876
+COVID-19 update (150): global, USA state prisons, WHO 20200502.7290671
+COVID-19 update (100): China, S. Korea & high local transmission countries 20200413.7217806
+COVID-19 update (50): China (Hong Kong) animal dog, 2nd case PCR positive, OIE 20200323.7129951
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (41): China, global, clinical pics, asymptomatic trans., WHO 20200210.6976117
+Novel coronavirus (40): animal reservoir, pangolin poss intermediate host, RFI 20200210.6972104
+Novel coronavirus (30): updates, China, Viet Nam, research 20200202.6945658
+Novel coronavirus (20): China, wildlife trade ban 20200127.6922060
+Novel coronavirus (10): China (HU, GD, BJ) 20200119.6898567
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia: China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia: China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+----
+Undiagnosed pneumonia: China (HU): RFI 20191230.6864153
+and other items in the archives
+.................................................sb/lk/uba/mj/jh
+</body>

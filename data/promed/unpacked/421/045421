@@ -1,0 +1,463 @@
+<header id=045421>
+Published Date: 2021-12-16 19:25:23 EST
+Subject: PRO/AH/EDR> COVID-19 update (434): ECDC risk assessment, Australia, China, boosters, WHO
+Archive Number: 20211217.8700320
+</header>
+<body id=045421>
+CORONAVIRUS DISEASE 2019 UPDATE (434): ECDC RISK ASSESSMENT, AUSTRALIA, CHINA, BOOSTERS, WHO
+********************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] ECDC
+[A] New risk assessment
+[B] Risk to public health
+[2] Australia: vaccine production
+[3] China: prolonged incubation period
+[4] Boosters
+[5] Recommended reading
+[6] WHO: Daily new cases reported (as of 15 Dec 2021)
+[7] Global update: Worldometer accessed 15 Dec 2021 22:50 EST (GMT-5)
+
+******
+[1] ECDC
+[A] New risk assessment
+Date: Wed 15 Dec 2021
+Source: ECDC [edited]
+https://www.ecdc.europa.eu/en/news-events/ecdc-publishes-new-risk-assessment-further-emergence-omicron-variant
+
+
+ECDC has published the 18th update of its rapid risk assessment (RRA). This RRA extends the assessment on the circulation of the delta variant of concern (VOC) and projections for the festive period that was published on [24 Nov 2021], including the emergence and spread of the omicron VOC. The inclusion of updated forecasts developed for this risk assessment are informed by the latest evidence on omicron VOC epidemiology, transmissibility, severity, and immune escape.
+
+Statement of ECDC Director Dr. Andrea Ammon
+-------------------------------------------
+"Since I last addressed you, the emergence of the omicron variant has raised serious concerns due to preliminary reports of clusters of cases, including among people who had been fully vaccinated. There are indications that community transmission is already ongoing in EU/EEA countries and based on modelling predictions a further rapid increase in omicron cases is imminent.
+
+We assess the probability of further spread of the omicron variant in the EU/EEA as very high, and it is considered very likely to cause additional hospitalisations and fatalities, further to those already expected from previous forecasts that consider only the delta variant.
+
+The effectiveness of vaccines against severe outcomes caused by delta remains high, therefore vaccination remains a key component in reducing the impact of omicron and addressing the circulation of delta. According to surveillance data, nearly half a million lives have been saved by vaccines so far. Countries should ramp up efforts to increase full vaccination in people not yet vaccinated or only partially vaccinated, as well as to administer booster doses to all eligible as soon as possible.
+
+In the current situation, vaccination alone will not allow us to prevent the impact of the omicron variant, because there will be no time to address the vaccination gaps that still exist. It is urgent that strong action is taken to reduce transmission and alleviate the heavy burden on health care systems and protect the most vulnerable in the coming months. Countries have several options for response ahead of the festive season in the current situation.
+
+As we have said before, a rapid reintroduction and strengthening of non-pharmaceutical interventions is necessary to reduce the ongoing delta transmission, slow down the spread of the omicron variant of concern and keep the COVID-19-related burden manageable.
+
+It remains a priority to use face masks appropriately, telework, prevent crowding in public spaces, reduce crowding on public transport, stay home when ill, maintain hand and respiratory hygiene measures and ensure adequate ventilation in closed spaces. Countries may expect a strong resurgence of cases if they lift these interventions.
+
+For probable or confirmed cases of omicron infection, contact tracing should be prioritised, regardless of vaccination status. Testing remains an important tool, and people with symptoms should be tested regardless of their vaccination status, together with isolation of positive persons, to limit the spread of the virus and to reduce the burden on healthcare systems. Genomic surveillance remains of high importance and genome sequencing should be performed to confirm infection with a specific variant.
+
+These measures will not only help keep us healthy but will also protect those around us. By acting together, we can overcome the difficult situation that the pandemic has caused. As the festive season comes closer, we need solidarity more than ever before."
+--
+Communicated by:
+ProMED Rapporteur Kunihiko Iizuka
+
+----
+[B] Risk to public health
+Date: Wed 15 Dec 2021
+Source: ECDC (European Centre for Disease Prevention and Control) [abridged, edited]
+https://www.ecdc.europa.eu/en/publications-data/covid-19-assessment-further-emergence-omicron-18th-risk-assessment
+
+
+Citation: European Centre for Disease Prevention and Control. Assessment of the further emergence and potential impact of the SARS-CoV-2 omicron variant of concern in the context of ongoing transmission of the delta variant of concern in the EU/EEA, 18th update - 15 Dec 2021. ECDC: Stockholm; 2021.
+
+The risk to public health posed by the spread of the omicron VOC in the context of ongoing delta VOC transmission in the EU/EEA is assessed in this update. The delta VOC remains the most prevalent variant, but community-associated spread of the omicron VOC is occurring in the EU/EEA and the omicron VOC will probably become dominant in early 2022, based on mathematical modelling predictions. We therefore assess the probability of further spread of the omicron variant in the EU/EEA as VERY HIGH.
+
+Executive summary
+-----------------
+Emergence of the omicron variant of concern (VOC) raises serious concerns due to preliminary reports of a significant growth advantage and potential immune escape compared to the delta variant. Although the omicron VOC cases initially reported in the EU/EEA were linked to travel, an increasing number of cases are now recorded as having been acquired within the EU/EEA, including as parts of clusters and outbreaks. Cases are also being detected through representative sampling in routine surveillance systems. This indicates that community transmission is already ongoing in EU/EEA countries and that further rapid increase in the number of omicron VOC cases is expected in the next 2 months.
+
+The overall epidemiological situation in the EU/EEA is still characterised by a high case notification rate and a low, but slowly increasing death rate, driven by the ongoing transmission of the delta VOC. The delta VOC remains currently the most prevalent variant. However, based on modelling predictions, and depending on the growth advantage and level of immune escape, the omicron VOC is likely to become the dominant variant in the EU/EEA within the first 2 months of 2022. Data are currently too limited to assess the severity of disease caused by the omicron VOC in the EU/EEA population with sufficient confidence. However, even if the severity of disease caused by the omicron VOC is equal to or lower than the severity of the delta VOC, the increased transmissibility and resulting exponential growth of cases will rapidly outweigh any benefits of a potentially reduced severity. It is therefore considered very likely that the omicron VOC will cause additional hospitalisations and fatalities, in addition to those already expected in previous forecasts that only take into accq1ount the delta VOC.
+
+Effectiveness of vaccines against severe outcomes caused by the delta VOC remains high. As of [Thu 9 Dec 2021], the cumulative full COVID-19 vaccine uptake in the total population of the EU/EEA is 66.8%. A slow increase in vaccine uptake has been reported in recent weeks and in the adult population the administration of booster doses, as a supplement to the full primary course, has been accelerating. Overall, progress in uptake remains uneven across countries, with 4 EU/EEA countries still reporting less than 50% full vaccine uptake in their total populations. Early evidence from in vitro neutralisation studies, not yet peer-reviewed, shows a reduced neutralisation capacity of sera from vaccine recipients and convalescent sera against the omicron VOC compared to other SARS-CoV-2 variants, although large uncertainties persist. In addition, there is still insufficient real-life data on the effectiveness of the vaccines authorised in the EU against the omicron VOC. According to the evidence currently available, for severe outcomes caused by the delta VOC and potentially the omicron VOC, booster doses will increase protection, with the population impact expected to be higher if the booster dose is given to most of the adult population within a short interval. Data currently available support safe and effective administration of a booster dose as early as 3 months from completion of the primary vaccination. Shortening the administration interval to 3 months may require adaptation of national vaccine deployment plans.
+
+The mathematical modelling results, presented in detail below [see URL], demonstrate that strong and immediate reductions in contact rates are also required to avoid a high spike in cases caused by the omicron VOC and to keep the COVID-19-related health and mortality burden manageable in the short term, even with an immediate acceleration of vaccine roll-out. In response to high incidence of the delta VOC, non-pharmaceutical interventions (NPIs) should continue to be implemented by all countries and given the impending probable dominance of the omicron VOC, these need to be further strengthened without delay. The immediate reinforcement of NPIs will slow the spread of the omicron VOC, to allow countries to gain time for further vaccination roll-out, including booster doses, and to prevent a sudden high impact from the spread of this variant. Without reduction of contact rates through the implementation of NPIs and increased booster vaccination, levels of transmission could rapidly overwhelm EU/EEA healthcare systems.
+
+Risk assessed
+-------------
+The risk to public health posed by the spread of the omicron VOC in the context of ongoing delta VOC transmission in the EU/EEA is assessed in this update. The delta VOC remains the most prevalent variant, but community-associated spread of the omicron VOC is occurring in the EU/EEA and the omicron VOC will probably become dominant in early 2022, based on mathematical modelling predictions. We therefore assess the probability of further spread of the omicron variant in the EU/EEA as VERY HIGH.
+
+Although current data on the severity of the infection associated with the omicron VOC remain limited, evidence to date raises concern that the omicron VOC may be associated with a significant reduction in vaccine effectiveness against SARS-CoV-2 infection. Even in the case of lower infection/disease severity with the omicron VOC, a steep, exponential increase in cases caused by the omicron VOC will result in a growing number of cases with severe disease. As EU/EEA countries are still facing the severe impact of the delta VOC wave, a further rise in hospitalisations could quickly overwhelm healthcare systems. We therefore assess the impact of the spread of the omicron VOC as VERY HIGH.
+
+Based on the limited evidence currently available, and given the high level of uncertainty, the overall level of risk to public health associated with the further emergence and spread of the SARS-CoV-2 omicron VOC in the EU/EEA is assessed as VERY HIGH.
+
+--
+Communicated by:
+ProMED Rapporteur Kunihiko Iizuka
+
+[The delta and omicron variants pose a serious threat that needs to be considered over this season of holiday gatherings. People need to keep in mind the virus is spread by aerosol. Thus they need to get vaccinated and boosted if they have not already done so, wear masks when in the presence of others, especially indoors, maintain physical distance where possible, and wash hands regularly. Once an individual knows s/he is infected, s/he must separate from others and alert contacts to check their temperature, note coughs and shortness of breath, and get tested. - Mod.LK]
+
+******
+[2] Australia: vaccine production
+Date: Tue 14 Dec 2021
+Source: Star Tribune [edited]
+https://www.startribune.com/new-australian-plant-could-make-100-million-vaccines-a-year/600126815/
+
+
+Australia's government said on Tuesday [14 Dec 2021] it plans to start making mRNA vaccines at home with a new plant that could produce up to 100 million doses each year.
+
+The announcement came as coronavirus cases in Sydney and surrounding areas jumped, driven in part by the omicron variant.
+
+The new factory would be built in Victoria state in a partnership between vaccine manufacturer Moderna and the federal and state governments. It is expected to open by 2024.
+
+Australian Prime Minister Scott Morrison said it was in the country's national interest to produce vaccines locally.
+
+"The mRNA vaccines have proven to be, I'd argue, the biggest scientific discovery over the course of this pandemic," Morrison said. "And that means that they are a massive part of the future of vaccines, not just here in this country but all around the world."
+
+Morrison said the plant would produce vaccines for potential future pandemics and as well as seasonal health issues such as the flu. He said the locally produced vaccines could help not only Australia but also the Pacific region, which Australia has already been supplying.
+
+"It's with a great sense of pride that when I meet with Pacific leaders in particular, that we have been able to be their family in a time of crisis, that we have been able to provide those vaccines to them," Morrison said.
+
+Australian Medical Association President Omar Khorshid said the locally made vaccines would be a significant addition to the world's stocks during a future pandemic.
+
+"It is great news, not just for the management of this pandemic, but for the enormous horizons that mRNA technology has in terms of treating other diseases we wouldn't have thought could be treated by vaccines, such as cancers," he told the Nine Network.
+
+Meanwhile, New South Wales state, where Sydney is located, on Tuesday [14 Dec 2021] reported more than 800 new virus cases, the highest daily total in more than 2 months. Health authorities have identified dozens of omicron cases recently and expect the number to rise as they complete more testing.
+
+The spike in infections comes just a day before certain virus restrictions are due to be eased, with unvaccinated people allowed back in pubs, cafes, gyms and shops.
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[One has to assume that with the spike in cases, Australia will reconsider its planned easing of virus restrictions, with unvaccinated people being allowed back in pubs, cafes, gyms and shops. - Mod.LK]
+
+******
+[3] China: prolonged incubation period
+Date: Mon 13 Dec 2021
+Source: CIDRAP (Center for Infectious Disease Research and Policy) [edited]
+https://www.cidrap.umn.edu/news-perspective/2021/12/news-scan-dec-13-2021
+
+
+A modeling study of COVID-19 patients in China in 2020 published late last week in BMC Public Health estimates that 10% had incubation periods longer than 14 days. The incubation period is the time between infection and symptom onset or diagnosis.
+
+A team led by researchers at Fudan University in Shanghai determined that, of 11 425 patients who tested positive from COVID-19 from [January to August 2020], 268 (10.2%) had incubation periods longer than 14 days.
+
+These patients were at lower risk for severe disease (adjusted odds ratio [aOR], 0.39) and were less likely to transmit the virus to others (aOR, 50.4) than those with shorter incubation periods.
+
+Most patients with prolonged incubation times were older than 60 years and were exposed to the virus in public places (median, 7.1 days) or workplaces (6.7 days) than at home (5.5 days). Imported COVID-19 cases also had longer incubation times than local cases (6.9 vs 6.4 days).
+
+Patients 60 years and older and those diagnosed as having diabetes, however, were at greater risk for severe illness, and the former group was also more likely than those 45 and younger to spread the virus.
+
+Patients whose time from symptom onset to hospital release was longer than 3 weeks had a shorter incubation than those with an interval of less than 3 weeks (median incubation, 5.6 vs 7.3 days).
+
+The study authors noted that most previous studies had estimated COVID-19 incubation periods at 2 to 12 days. In December [2020], the US Centers for Disease Control and Prevention shortened the recommended quarantine after COVID-19 exposure from 14 to 7 to 10 days.
+
+"Isolation and medical quarantine policies of 2 weeks currently in place may miss the patients with longer incubation period," the authors wrote.
+
+--
+Communicated by:
+Mary Marshall
+<mjm2020@googlemail.com>
+
+[Citation: Zhang, ZJ., Che, TL., Wang, T. et al. Epidemiological features of COVID-19 patients with prolonged incubation period and its implications for controlling the epidemics in China. BMC Public Health 21, 2239 (2021). https://doi.org/10.1186/s12889-021-12337-9
+
+"Abstract
+--------
+"Background: COVID-19 patients with long incubation period were reported in clinical practice and tracing of close contacts, but their epidemiological or clinical features remained vague.
+
+"Methods: We analyzed 11 425 COVID-19 cases reported between (January-August 2020) in China. The accelerated failure time model, Logistic and modified Poisson regression models were used to investigate the determinants of prolonged incubation period, as well as their association with clinical severity and transmissibility, respectively.
+
+"Result: Among local cases, 268 (10.2%) had a prolonged incubation period of > 14 days, which was more frequently seen among elderly patients, those residing in South China, with disease onset after Level I response measures administration, or being exposed in public places. Patients with prolonged incubation period had lower risk of severe illness (ORadjusted = 0.386, 95% CI: 0.203--0.677). A reduced transmissibility was observed for the primary patients with prolonged incubation period (50.4, 95% CI: 32.3--78.6%) than those with an incubation period of ≤14 days.
+
+"Conclusions: The study provides evidence supporting a prolonged incubation period that exceeded 2 weeks in over 10% for COVID-19. Longer monitoring periods than 14 days for quarantine or persons potentially exposed to SARS-CoV-2 should be justified in extreme cases, especially for those elderly.
+
+"Background
+----------
+"The novel coronavirus disease (COVID-19), caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), has spread rapidly across the world and caused a global pandemic (1). By (1 Nov 2021), 246 594 191 confirmed cases and 4 998 784 deaths were reported in 223 countries, areas, or territories globally (1). It is difficult to predict how long the coronavirus pandemic will last, due to the unequal distribution of vaccines and the changing effect of the new crown vaccines on the constantly emerging variant strains (2,3,4,5).
+
+"Non-pharmaceutical approaches including case isolation, contact tracing, and quarantine and social distancing are still and will be the main interventions for the control of this pandemic (6,7,8). An accurate estimation of the length of the incubation period is crucial for highly efficient non-pharmaceutical interventions.
+
+"So far, the estimation of the median incubation period and the corresponding 95% confidence interval has been inconsistent, largely due to the heterogeneity of populations and epidemic phases that had been studied (9, 10). Although most cases were reported with a median or mean incubation between 2 and 12 days, studies showing prolonged incubation period over 2 weeks, with an extreme incubation period of 38 days ever reported (9,10,11,12,13). However, almost all previous researches were based on limited sample sizes, mostly from case reports or single case cluster that were recorded at early epidemic phase. No studies have ever focused on case series with prolonged incubation period > 14 days, to investigate their epidemiological features or to explore the association with clinical severity and transmissibility. This had raised a concern that beyond the required quarantine duration, which kind of patients were likely to transmit the disease. These need to be addressed in developing prevention and control strategies for containing the disease spread.
+
+"Here we extensively reviewed the available data of patients with known dates of exposure and symptom onset in the Chinese mainland to explore the features of patients with prolonged incubation period. The determinants for longer incubation period and the resultant impacts on the clinical severity and transmissibility of COVID-19 were evaluated for the first time as well.
+
+"Discussion
+----------
+"Based on the largest individual-level dataset with detailed epidemiological information, we determined over 10% of COVID-19 patients had a prolonged incubation period of > 14 days. The longer incubation periods seen in our patients might occur for a variety of reasons, but with older age and less severe disease more frequently seen, no matter local cases or imported cases were estimated.
+
+"A higher proportion of patients with prolonged incubation period was observed in Southern and Central China than other parts of the country, which might be influenced by meteorological factors, e.g., temperature (30,31,32). The function of the human immune system could be weakened in a comparatively colder environment such as in Northern China, which may raise the risk of being infected and lead to a short incubation period (31). This was also supported by laboratory findings indicating that lower environment temperature might decrease the infection capacity and viral loads of SARS-COV-2 (32).
+
+"The lower transmissibility for those patients with longer incubation periods was also proposed to be related to lower viral loads, that might be decreased during intergenerational transmission.
+
+T"he incubation period of COVID-19 also depended on how the disease has been acquired. The cases with a longer incubation period were more likely to be infected through the contact in public and working places compared to those with a household contact. Understandably that public and working places have wider or open space, which was related to a lower exposure intensity than household contact which more likely occurred under closed settings". ...-more - Mod.LK]
+
+******
+[4] Boosters
+Date: Wed 15 Dec 2021
+Source: STAT News [edited]
+https://www.statnews.com/2021/12/15/will-we-always-need-covid-19-boosters-experts-have-theories/
+
+
+With the world facing the latest in a seemingly endless stream of coronavirus variants -- and with bullish talk from manufacturers about a need for even more vaccine shots -- you wouldn't be alone if you were wondering: Are COVID boosters always going to be a fixture in our future?
+
+The simple truth is that, at this point, there's no definitive answer to that question.
+
+But virologists, immunologists, and vaccinologists have opinions that are anchored in an understanding of how the immune system works and in emerging data on how COVID vaccines engage with this complicated enterprise that has evolved to help humans fend off disease threats.
+
+STAT asked a number of these experts whether they think we face a future of endless COVID boosting. In the main, their answers were more reassuring than we expected.
+
+Some said they think 3 doses of vaccine may protect many people for some time against the worst of COVID's potential ravages. Many said they think the benefit of the 3rd shot, given after a 6-month interval, will turbocharge immune responses.
+
+Interestingly, a number said they think that even if we end up needing more boosters down the line, the messenger RNA vaccines -- the Pfizer and Moderna vaccines that have been the cornerstone of the U.S. vaccine effort to date -- may not be the vaccines we use for that purpose. Vaccines that cause fewer side effects may be needed if public health authorities want to persuade people to get regular or even sporadic boosters.
+
+Here are some observations and informed theories from 9 leading experts in this field.
+
+The immune response to these vaccines is impressive
+---------------------------------------------------
+Ali Ellebedy, an associate professor of pathology and immunology at Washington University School of Medicine in St. Louis, studies what happens in the lymph nodes and bone marrow of people who have been vaccinated against COVID-19. He's been amazed at how long the first two doses of mRNA vaccine act on the immune system; half a year after the 2nd shot, the response is still maturing. He wouldn't have predicted that, Ellebedy admitted.
+
+"There is an ongoing reaction in our lymph nodes that's going for 6 months. And that reaction, we are showing, that it is actually enhancing the potency of the antibodies," he said. "Even before the 3rd dose."
+
+The maturation of the immune response -- which would be accelerated by a 3rd dose, given after a longer interval -- brings big benefits. The antibodies we make improve in quality through a process called affinity maturation. They become more capable of recognizing their viral target, even if that target has made changes to its appearance, in the way variants have done.
+
+"If you wait 6 months or more between a priming and boost, what you see is not just a boosting of the immunity that you got from the 1st vaccine, but you see a broadening of the immune response so that it recognizes other viruses or other variants. Your immune response becomes much more cross-protective," said David Topham, an immunologist at the University of Rochester Medical Center and director of the New York Influenza Center of Excellence.
+
+Florian Krammer, a professor of vaccinology at the Icahn School of Medicine at Mount Sinai Hospital in New York, had been reluctant to get a booster shot, figuring he had solid protection from the 2 doses of Pfizer he received earlier this year [2021]. Better to allocate scarce doses to low-income countries that have had limited access to date to vaccine, he thought.
+
+The emergence of the highly mutated omicron variant has changed his thinking on the advisability of giving booster shots. But Krammer is not sure what the long-term impact of the 3rd dose will be. "We see that you get your booster and you get up to 2 times, 3 times the [antibody] level that you had after the 2nd dose. But the question is: How long does it last? How far will it fall? Will the set point be the same?" he asked.
+
+"Even with booster doses... there might be breakthrough infections at some point," said Krammer. "And I think the real goal is to get so much immunity in the population that the virus is annoying but not problematic."
+
+Third doses may get us to that spot
+-----------------------------------
+Barney Graham has long thought that a delayed 3rd dose would be needed to complete a COVID-19 vaccine series.
+
+An immunologist who was deputy director of the National Institutes of Health's Vaccine Research Center until his retirement at the end of August [2021], Graham led the NIH team that worked on the prototype of the COVID spike protein that many vaccine manufacturers used in their vaccines.
+
+The antibodies induced by delayed 3rd doses will be of higher quality, generating a broader immune response that can more reliably recognize even mutated viruses, such as new variants, he said.
+
+"Once you give the [antibody-producing] B cells a chance to mature and then boost them later ... that type of response tends to make immunity across all these different variants more similar," he said.
+
+Graham also believes as we go forward, our immunity against SARS-CoV-2 may be naturally topped up by occasional exposures to the virus; that's called anamnestic boosting. Neutralizing antibodies will probably decline after the 3rd dose, as they did after the 2nd, so we may get infected by SARS-2 from time to time. But the other facets of the immune response will kick in to stop the virus from descending into the lungs, where it can do serious damage.
+
+"So I think that the whole question about durability of immunity is going to have to be determined by 3 years from now, are people still getting sick or are they relatively well-protected against severe disease -- regardless of whatever their antibody level is in serum. Because that may wane, but you still have a lot of memory B cells that can rapidly respond," Graham said.
+
+Anthony Fauci, Graham's former boss, agreed, though he didn't rule out the possibility of another booster down the road.
+
+"What I think could ultimately happen is that by a prime, 2nd, and then a 3rd boost and who knows, maybe a 4th boost, you get a level of protection that would sort of transform all of this to overwhelmingly an asymptomatic or mildly symptomatic infection. So that it starts to drift much, much more towards the common cold coronaviruses," said Fauci, director of the National Institute of Allergy and Infectious Disease.
+
+Marion Pepper and her laboratory at the University of Washington have been working to come up with real world evidence on how well the immunity we've been acquiring protects against SARS-2. They have been following a cohort of people who were vaccinated or who were infected -- and in some cases were both infected and then vaccinated. Among those vaccinated, some have received 2 shots; some have received a 3rd. It is an observational study; they did not randomly assign the people they are following to these groups.
+
+Pepper said from what her group is seeing, she expects boosters to give "an important window of enhanced protection." But she doesn't think there is limitless benefit from boosting again and again, using the same vaccine strain. She and her team saw, for instance, that people who had been infected, vaccinated, and then boosted did not get much additional benefit from the 3rd dose of vaccine.
+
+"I think there is a misconception that the immune system can constantly be repetitively elevated such that you don't go back to that same starting point," she said. "And in some people, maybe if they didn't have a good first immune response, it will enhance their cell numbers. But for the large majority you end up hitting a set point of memory that doesn't just keep getting bigger every single time you get the same boost."
+
+She suggested vaccinating with another strain of the virus -- something like the omicron version, for example -- might draw new immune cells into the fray and broaden the scope of the protection the vaccine offers. There are, however, many weighty factors to consider in making a decision to change the COVID vaccine.
+
+The omicron wildcard
+--------------------
+Other experts have concerns about whether we're as far along as Graham and some others hope. Paul Bieniasz, head of the laboratory of retrovirology at Rockefeller University, said the work he and his team have done suggests there is still room to top up immunity in vaccinated people -- and unfortunately plenty of unvaccinated people who still need protection.
+
+Bieniasz had thought, like some of the others cited here, that with booster doses people would start to get the upper hand on the virus. But the emergence of omicron has shaken his faith that our immune systems are going to take the lead in what he called "a genetic arms race."
+
+"I was much more confident a couple of weeks ago that the antibodies would have the edge in being able to outstrip the evolutionary capacity of SARS-CoV-2. But I don't think that's completely clear now," he said.
+
+Topham too thinks viral evolution may dictate whether we have future dates with booster shots.
+
+"If next week we see the emergence of a variant that can escape the current vaccine, then yes, we're going to have to get another shot of an improved vaccine as soon as they can make it," he said.
+
+People likely won't agree to take mRNA vaccines indefinitely
+------------------------------------------------------------
+The Pfizer-BioNTech and Moderna vaccines have been game-changers in this pandemic, proving that new vaccines can be designed, tested, and mass-produced within a hitherto unthinkable time. The first syringes containing the Pfizer vaccine began to slide into arms in the United Kingdom and the U.S. about 11 months to the day from when a Chinese scientist posted the genetic sequence of the SARS-CoV-2 virus on internationally accessible databases.
+
+The vaccines are extraordinarily protective. They're also reactogenic; they can come with a real kick. Some people experience no side effects of note while others have only a sore arm. But a significant portion of people experience headache, fatigue, and malaise; others spike fevers, experience muscle aches, and are wracked with chills. And of course, there is an elevated rate of myocarditis and pericarditis -- inflammation of heart muscle or tissue around the heart, respectively -- in some males in their teens and early 20s who get vaccinated with these shots.
+
+In the throes of the pandemic, people have seen these vaccines as the best hedge against a potentially fatal encounter with COVID-19. But as our immunity against the new virus rises, experts like Ellebedy don't think folks will be willing to put up with potentially feeling lousy for a day or 2 after getting a booster.
+
+"People in a pandemic can accept things, but I think if you're talking about a regular vaccine that's not really needed because of a pandemic, I'm not sure if people would be more accepting of that," he said.
+
+John Wherry, director of the Institute for Immunology at the University of Pennsylvania, agreed. "I don't think we're going to see just a yearly wild-type spike mRNA vaccine every year ad infinitum," he said, suggesting people will likely be drawn to other types of vaccines as boosters down the road, if we need them.
+
+Currently in the U.S. the only other vaccine option is the one manufactured by Johnson and Johnson, which has not been a popular draw. Less than 4% of vaccine doses administered in the country have been J&J's vaccine. But it is conceivable other vaccines with fewer side effects will become available here.
+
+Novavax and the partnership of Sanofi and GSK are both producing recombinant protein vaccines that are thought to be highly promising. Novavax, which has struggled to produce vaccine at commercial scale, has been given an emergency use authorization by Indonesia and other countries are expected to follow suit. Novavax has filed with regulatory authorities in Canada and the European Union, among others, and has said it expects to file for an EUA from the Food and Drug Administration. The Sanofi-GSK vaccine is still in Phase 3 testing.
+
+Recombinant protein vaccines are generally not as reactogenic as mRNA vaccines.
+
+"If you get 2 vaccines and both work and one you know makes you feel sick for a day, and the other one doesn't, you know who wins, right?" Krammer said of the prospects for another type of vaccine to make inroads in the U.S. booster shot market.
+
+Akiko Iwasaki, an immunologist at Yale University, thinks we will likely need vaccines that are administered differently if we want to prevent COVID infections. She and colleagues last week published a paper in Science on pre-clinical study of an intranasally administered vaccine. [See ProMED PRO/AH/EDR> COVID-19 update (428): infec in vaccinated, nasal vacc, 3 doses, booster, global 20211212.8700233 item [2] report on Oh J E, Song E, Moriyama M, et al. Intranasal priming induces local lung-resident B cell populations that secrete protective mucosal antiviral IgA. Science Immunology. 10 Dec 2021; 6(66); doi: 10.1126/sciimmunol.abj5129. - Mod.LK]
+
+"Early data from Israel is showing that the 3rd dose, even though it provides a very effective protection, it also does wane," Iwasaki said. "So it's not like the 3rd dose will fix antibody response forever. That's kind of hard to ask any vaccine to do that."
+
+Developing a vaccine that aims to arm the mucosal tissues of the upper respiratory tract with immune protection would stop SARS-2 at its point of entry, not after it is rampaging through our cells. "It's really like putting the guard outside the door as opposed to inside the door," she said.
+
+One last thought about the COVID-19 vaccines
+--------------------------------------------
+The early estimates of the efficacy of the mRNA vaccines to prevent infections -- in the 95% range -- created unrealistic expectations about what COVID-19 vaccines would be able to do over the long-term in blocking all infections. As months pass from vaccination, we've seen declines in neutralizing antibody levels and an increase in breakthrough infections among the vaccinated -- a phenomenon that seems to be accelerating with the spread of the omicron variant.
+
+But make no mistake. The vaccines are working. In the vaccinated, hospitalizations and deaths triggered by COVID-19 infections have plummeted. Those are the performance metrics we need to be keeping our eyes on, said Wherry.
+
+"We are currently hyper-aware of infections. And the reaction to these infections in at least vaccinated people is disproportionate with their consequences right now," he told STAT. "To me, it's the wrong mindset."
+
+Wherry said he knows people who have been vaccinated and have later become infected. "I'm walking the dogs and they complain to me, 'Great vaccine.' And I just turn and say... 'When did you have COVID?' And they said '2 days ago.'"
+
+His response? "Really? Yeah, it's a great vaccine."
+
+[Byline: Helen Branswell]
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[People are willing to get vaccinated against flu every year. It might be a good approach to combine the annual flu shot with a modified COVID vaccine adjusted to the most prevalent variant, or a more broadly reacting vaccine effective against all variants. - Mod.LK]
+
+******
+[5] Recommended reading
+Date: Wed 15 Dec 2020
+Source: Nature [edited]
+https://www.nature.com/immersive/d41586-021-03621-0/index.html
+
+
+Nature's 10: Ten people who helped shape science in 2021
+--------------------------------------------------------
+An omicron investigator, a Mars explorer and an AI ethics pioneer are some of the people behind the year's big research stories.
+
+The Nature's 10 list explores key developments in science this year [2021] and some of the people who played important parts in these milestones. Along with their colleagues, these individuals helped to make amazing discoveries and brought attention to crucial issues. Nature's 10 is not an award or a ranking. The selection is compiled by Nature's editors to highlight key events in science through the compelling stories of those involved.
+
+[All the profiles are extremely interesting to read. Of note is the piece reported below. - Mod.LK]
+
+Tulio de Oliveira: Variant tracker.
+------------------------------------
+A bioinformatician in South Africa helped to identify troubling variants of the coronavirus SARS-CoV-2.
+
+On [25 Nov 2021], Tulio de Oliveira announced the discovery of a new variant of SARS-CoV-2. Omicron, detected in samples from Botswana, South Africa and Hong Kong, had a Swiss Army knife of mutations that de Oliveira and other leading scientists feared might help it to evade immunity from previous infection or vaccinations.
+
+For de Oliveira, director of South Africa's KwaZulu-Natal Research Innovation and Sequencing Platform (KRISP), it was eerily reminiscent of the previous year, when his team had discovered another SARS-CoV-2 variant of concern in South African samples. Beta, as that variant became known, led foreign governments to curb travel to and from South Africa many months after its discovery. Both variants were spotted after doctors and laboratory workers flagged unexpected rises in infections in areas that had already been hit hard by COVID-19.
+
+De Oliveira knew that by reporting yet another concerning variant, he ran the risk of incurring fresh sanctions, which would economically penalize countries in southern Africa. But he also knew it was the right thing to do. "The way that one stops a pandemic is by quick action," says the Brazilian-born bioinformatician. "Wait and see has not been a good option."
+
+The rapid identification of both beta and omicron in southern Africa reinforces the importance of having disease surveillance spread evenly around the world, says Jeremy Farrar, director of the biomedical research charity Wellcome, based in London. "If an imbalance continues, then where disease surveillance is limited, we risk new variants of COVID-19 -- or even new diseases entirely -- cropping up and spreading unchecked," he says.
+
+The COVID-19 pandemic isn't the first time that genomic sequencing has been used to trace outbreaks in Africa; scientists used it in the Ebola outbreak in West Africa from 2014-2016. KRISP, created in 2017 with de Oliveira at the helm, has tracked pathogens behind diseases including dengue and Zika, and more common scourges such as AIDS and tuberculosis. But never before have so many different samples of the same virus been sequenced in such a short period of time -- both in Africa and around the world.
+
+De Oliveira's work has also influenced policymaking. KRISP's way of working combines cutting-edge molecular technology with close links to doctors and nurses on the front line, to inform policy in real time. For example, their mapping of an early hospital outbreak of COVID-19 resulted in guidelines for ward layouts to prevent the virus from spreading in hospitals. "Tulio has done an incredible job pioneering a new way of science responding to epidemics," says Christian Happi, a molecular biologist who heads the African Centre of Excellence for Genomics of Infectious Diseases at Redeemer's University in Ede, Nigeria.
+
+In December [2021], de Oliveira moved permanently to Stellenbosch, outside Cape Town, South Africa, where he has been setting up the Centre for Epidemic Research, Response and Innovation (CERI) since July [2021] (he will keep his position at KRISP). The centre will work to control epidemics in Africa and the global south, and will house Africa's largest sequencing facility. The coronavirus pandemic has fuelled these investments, but the momentum is already spilling over into surveillance on other diseases, says de Oliveira. "The main thing we have shown the world is that these things can be done in developing countries."
+
+Not that those countries have been rewarded for it -- quite the opposite. De Oliveira says he was extremely disappointed when rich countries imposed travel bans on South Africa simply because the country had the scientific skill to discover new variants. The scapegoating of South Africa "was almost a smokescreen for the vaccine hoarding, and for rich countries losing control of the pandemic", says de Oliveira. "Of course I expected more."
+
+De Oliveira's role in announcing 2 variants of concern has given him a reputation for delivering bad news. When the omicron announcement brought fresh travel bans, some South Africans, including politicians, queried de Oliveira's right to make such pronouncements. Some people even view the genomic-surveillance community as the enemy. But, he says: "We are not the enemies, we are the opposite."
+
+[Byline: Linda Nordling]
+
+--
+Communicated by:
+Mary Marshall
+<mjm2020@googlemail.com>
+
+[It is wonderful to see scientists recognized for their efforts, especially in these times of anti-science. We owe a debt of gratitude to all scientists laboring on COVID and the other critical issues facing mankind. Congratulations to these 10 scientists and their colleagues for their accomplishments! - Mod.LK]
+
+******
+[6] WHO: Daily new cases reported (as of 15 Dec 2021)
+Date: Wed 15 Dec 2021
+Source: WHO [abridged, edited]
+https://covid19.who.int/table
+
+
+*Daily case reports as of 15 Dec 2021 16:48 CET
+
+Surveillance
+------------
+WHO region (no. countries/territories):
+Total confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+--------------------------------------------------------------------------------
+Western Pacific Region (19): 10 572 762 (31 982) / 148 879 (397)
+European Region (61): 92 707 507 (391 613) / 1 610 835 (4396)
+South East Asia Region (10): 44 773 186 (11 108) / 715 184 (295)
+Eastern Mediterranean Region (22): 16 970 719 (10 564) / 312 896 (188)
+Region of the Americas (54): 99 035 536 (228 226) / 2 376 410 (1665)
+African Region (49): 6 631 499 (40 098) / 153 979 (84)
+Cases on an international conveyance: 764 (0) / 13 (0)
+
+Confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+Grand total: 270 691 973 (713 591) / 5 318 196 (7025)
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[Data by country, area, or territory for 15 Dec 2021 can be accessed at https://promedmail.org/wp-content/uploads/world-pdf/2021%20WHO%20Daily%20Tables%20DEC15_1639680510.pdf.
+
+- The Americas region reported 31.9% of cases and 23.7% of deaths in the past 24 hours and maintained its position as the most severely affected region, having reported more than 99.03 million cases. The USA reported 202 422 cases over the last 24 hours. An additional 4 countries reported more than 1000 cases in the past 24 hours (Argentina, Colombia, Canada, and Bolivia), and 2 countries (Peru and Chile) reported more than 500 but fewer than 1000 cases.
+
+- The European region reported 54.8% of daily case numbers and 62.5% of the daily deaths reported in the past 24 hours, and total cumulative cases reported exceed 92.70 million cases. Some countries not reporting cases in the last 24 hours or longer include Belgium (5 cases) and Switzerland (13 cases), among others. A total of 28 countries reported more than 1000 cases in the past 24 hours, with 10 reporting more than 10 000, 18 reporting over 1000 cases, and an additional 8 countries reported more than 500 but fewer than 1000 cases.
+
+- The Eastern Mediterranean region reported 1.4% of daily case numbers and 2.6% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 16.97 million cases. Jordan (4402) reported the highest number of cases over the last 24 hours followed by Iran (2784). Libya and Egypt reported more than 500 but fewer than 1000 cases. Somalia and Djibouti, among others, did not report cases over the last many days.
+
+- The African region reported 5.6% of daily case numbers and 1.1% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 6.63 million cases. South Africa (23 857) reported the highest number over the last 24 hours followed by Zimbabwe (5678), DRC (2081), and Eswatini (1222). Madagascar, Mozambique, and Nigeria reported more than 500, but less than 1000 cases over the last 24 hours. A total of 14 countries/territories, did not report cases over the last 24 hours.
+
+- The Western Pacific region reported 4.4% of daily case numbers and 5.6% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 10.57 million cases. Viet Nam reported the highest number of cases over the last 24 hours (over 15 220 cases), followed by South Korea, Malaysia, Australia, Lao PDR, Singapore, and Philippines.
+
+- The South East Asia region reported 1.5% of the daily newly reported cases and 4.2% of reported deaths in the past 24 hours, having reported a cumulative total of more than 44.77 million cases. India is dominant, reporting 6984 cases during the last 24 hours, followed by Thailand (3370). Bangladesh (297), Nepal (252), and Indonesia (205) all reported less than 500 cases over the last 24 hours. Myanmar, Maldives, and Sri Lanka, among others, did not report cases over the last many days.
+
+On the Overview tab at the WHO source URL, the epidemic curve of confirmed COVID-19 cases by WHO region, 30 Dec 2019 through 15 Dec 2021, is an excellent visual representation of the pandemic. - Mod.UBA]
+
+******
+[7] Global update: Worldometer accessed 15 Dec 2021 22:50 EST (GMT-5)
+Date: Wed 15 Dec 2021
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at https://promedmail.org/wp-content/uploads/world-pdf/2021%20WORLDDATA%20DEC15_1639680524.pdf.
+
+A 7-day series of cumulative data reported by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/2021%20DEC15WORLD7_1639680538.pdf. - Mod.UBA]
+
+Total number of reported deaths: 5 346 184
+Total number of worldwide cases: 272 499 702
+Number of newly confirmed cases in the past 24 hours: 760 020
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[In the past 24 hours, 13 countries including the USA (136 590), UK (78 339), France(65 713), Germany (56 650), Russia (28 363), Spain (27 140), South Africa (26 389), Poland (24 265), Italy (23 190), Turkey (19 872), Czech Republic (16 696), Vietnam (15 527), and the Netherlands (13 469) reported the highest numbers of cases, all reporting more than 10 000 newly confirmed cases. A global total of 9954 deaths were reported in the preceding 24 hours (late 13 Dec 2021 to late 14 Dec 2021). A total of 54 countries reported more than 1000 cases in the past 24 hours; 32 of the 54 countries are from the European region, 7 are from the Americas region, 6 are from the Western Pacific region, 3 are from the Eastern Mediterranean region, 2 are from the South East Asia region, and 4 are from the African region.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, case counts have increased by 1.5%, while daily reported deaths have decreased by 2.5%. Similar comparative 7-day averages in the USA show a 2.2% increase in daily reported cases and a 6.5% increase in reported deaths.
+
+Impression: The global daily reported over 750 000 newly confirmed infections in the past 24 hours with over 272.49 million cumulative reported cases and over 5.34 million reported deaths. - Mod.UBA]
+See Also
+COVID-19 update (433): animal, Colombia (AT) zoo, lion, OIE 20211216.8700315
+COVID-19 update (432): omicron spread, modeling, cardiac effects, China, WHO 20211215.8700298
+COVID-19 update (431): breakthrough infections, China, Trinidad Tobago, DRC, WHO 20211215.8700273
+COVID-19 update (430): animal, USA, Russia, Finland, vaccines 20211214.8700260
+COVID-19 update (429): immune escape, travel bans, global 20211213.8700256
+COVID-19 update (428): infec in vaccinated, nasal vacc, 3 doses, booster, global 20211212.8700233
+COVID-19 update (427): animal, Poland (ZP) mink, OIE 20211212.8700213
+COVID-19 update (426): USA, Denmark, rapid saliva test, vaccines, WHO, global 20211212.8700212
+COVID-19 update (425): Pfizer booster, AstraZeneca, omicron, Zimbabwe, mortality 20211211.8700188
+COVID-19 update (424): cross protec., omicron Kuwait ex Africa, South Korea, WHO 20211209.8700165
+COVID-19 update (423): animal, Denmark (SL) zoo, tiger, OIE 20211209.8700158
+COVID-19 update (422): omicron, neglected tropical diseases, Uganda, WHO, global 20211208.8700145
+COVID-19 update (421): omicron US, PPE issues, South Africa, WHO 20211207.8700131
+COVID-19 update (420): animal, Poland (KP) mink, OIE 20211207.8700127
+COVID-19 update (410): omicron, WHO update, impact, patience, global 20211130.8699966
+COVID-19 update (400): animal, sheep, research, experimental infection 20211121.8699806
+COVID-19 update (350): boosters, deaths, cases, vaccines, WHO 20211014.8699041
+COVID-19 update (300): Norway, myocarditis, schools, new variant C.1.2, WHO 20210901.8638460
+COVID-19 update (200): animal, China, origin 20210608.8433657
+COVID-19 update (100): antibodies, vaccine, Thailand, Cambodia, WHO, global 20210316.8250009
+COVID-19 update (50): UK vaccine study, Brazil reinfection, WHO 20210205.8167161
+COVID-19 update (01): variants, vaccine, Thailand, global, WHO 20210101.80629382020
+2020
+----
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+COVID-19 update (562): viral load, UK vacc dose, ECDC, WHO 20201231.8061525
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia: China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia: China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+----
+Undiagnosed pneumonia: China (HU): RFI 20191230.6864153
+.................................................sb/lk/uba/ao/may/mpp
+</body>

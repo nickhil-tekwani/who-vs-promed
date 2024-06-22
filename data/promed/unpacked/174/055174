@@ -1,0 +1,369 @@
+<header id=055174>
+Published Date: 2020-07-23 13:05:15 EDT
+Subject: PRO/EDR> COVID-19 update (328): vaccine, scaling up testing, WHO, global
+Archive Number: 20200723.7604441
+</header>
+<body id=055174>
+CORONAVIRUS DISEASE 2019 UPDATE (328): VACCINE, SCALING UP TESTING, SELECTED COUNTRIES, WHO, GLOBAL
+***************************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] COVID-19 vaccine trails: early results
+[2] USA: The NIH RADx Initiative for scaling up COVID testing
+[3] Selected countries
+[4] WHO situation report 184 (as of 22 Jul 2020)
+[5] Global update: Worldometer accessed 22 Jul 2020 17:58 GMT
+
+******
+[1] COVID-19 vaccine trails: early results
+Date: Mon 20 Jul 2020
+Source: The Lancet [abridged, edited]
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31611-1/fulltext
+
+
+ref: Bar-Zeev N, Moss WJ. Encouraging results from phase 1/2 COVID-19 vaccine trials. Lancet. 2020; S0140-6736(20)31611-1. doi:10.1016/S0140-6736(20)31611-1 [online ahead of print]
+--------------------------------------------------------------------------------
+As COVID-19 vaccine trials progress rapidly and with much expectation, 2 such achievements are published in The Lancet.
+
+The results of 2 early phase COVID-19 vaccine trials are reported, one from investigators at the Jenner Institute at Oxford University (Oxford, UK), with support from AstraZeneca, and the 2nd from investigators supported by CanSino Biologics in Wuhan, China. Both groups used an adenoviral vector, and both report the vaccine achieving humoral responses to the SARS-CoV-2 spike glycoprotein receptor binding domain by day 28 as well as T-cell responses. Both report local and systemic mild adverse events such as fever, fatigue, and injection site pain. In neither trial was a severe adverse event reported.
+
+Andrew Pollard and colleagues report their phase 1/2 randomised trial of one injection of chimpanzee adenovirus-vectored COVID-19 vaccine. Vaccine formulation at one concentration was tested against a comparator quadrivalent conjugate meningococcal vaccine among 1077 healthy adults (50% male, 90.9% white) aged 18-55 years (median 35 years, IQR 28-44), recruited from 5 centres in the UK and followed up for 28 days. Local and systemic adverse events such as fatigue, headache, and local tenderness occurred commonly in COVID-19 vaccinees, but were tolerable and mostly ameliorated by paracetamol. No serious adverse events occurred. Neutralising antibodies were generated in more than 90% of participants across different assays. Responses were sustained up to 56 days of observation. A small non-randomly selected, 2nd-dose boosted subset showed strong neutralising responses, and few mild adverse events. Importantly, T-cell responses were induced in all participants.
+
+Wei Chen and colleagues report results from a phase 2 randomised trial of one injection of non-replicating adenovirus-vectored COVID-19 vaccine. Vaccine formulation at 2 concentrations (ie, 1 x 10E11 or 5 x10E10 viral particles per mL) were tested against placebo among 508 healthy COVID-19 unexposed adults (50% male) aged 18-83 years (mean 39.7 years) recruited from one centre in Wuhan, China, and followed up for 28 days. Adverse events such as fever, fatigue, headache, or local site pain occurred by day 28 in 294 (77%) of 382 vaccinees and 61 (48%) of 126 placebo recipients. Male sex was associated with lower occurrence of fever post-vaccination. No serious adverse events occurred. Seroconversion occurred in more than 96% of participants, and neutralising antibodies were generated in about 85%. More than 90% had T-cell responses. People older than 55 years of age had somewhat lower humoral responses (although still higher than placebo), as did people with previous vector immunity, but these factors did not affect T-cell responses. Immunogenicity did not differ by sex.
+
+These trial reports are hugely anticipated. The results of both studies augur well for phase 3 trials, where the vaccines must be tested on much larger populations of participants to assess their efficacy and safety. Overall, the results of both trials are broadly similar and promising, notwithstanding differences in the vector, in the geographical locations of the populations studied, and the neutralisation assays used. Without drawing causal inference, the exploration of associations of age and sex with adverse events and immunogenicity reported by Chen and colleagues, and of longevity of response by Pollard and colleagues, are welcomed, given the differential burden of severe outcomes in older adults, and the emerging science around differential sex-specific vaccine effects.
+
+These COVID-19 vaccine trials are small so inferential caution is warranted, but the explorations are laudable. Ethnic diversity in both these trials was very limited.
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+******
+[2] USA: The NIH RADx Initiative for scaling up COVID testing
+Date: Wed 22 Jul 2020
+Source: The New England Journal of Medicine [abridged, edited]
+https://www.nejm.org/doi/full/10.1056/NEJMsr2022263
+
+
+ref: Tromberg BJ, Schwetz TA, Perez-Stable EJ, et al. Rapid scaling up of COVID-19 diagnostic testing in the United States -- The NIH RADx initiative. N Engl J Med 2020; 382(21): e73.doi: 10.1056/NEJMsr2022263
+--------------------------------------------------------------------------------
+In this article, we describe the additional role of the NIH in the effort to increase the range and availability of diagnostic tests for the causative virus, SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2).
+
+We begin with a review of current and projected testing capacity needs and review different types of diagnostic tests. We then describe the Rapid Acceleration of Diagnostics (RADx) program, its goals, and its focus on underserved populations. As will become clear, this program represents a dramatic extension of the usual NIH mode of supporting research. RADx was established in just a few days; it covers the entire life cycle of the target technologies; it is tightly focused on timelines and outcomes; it receives applications primarily from small companies; it is partnering with other agencies such as the Office of the Assistant Secretary for Health, the Biomedical Advanced Research and Development Authority (BARDA), and the Department of Defense; and it is expressly focused on health disparities. We describe here the 4 components of RADx and their goals, and we end with a review of the challenges ahead.
+
+On [24 Apr 2020], Congress appropriated $1.5 billion, from the $25 billion provided in the Paycheck Protection Program and Health Care Enhancement Act for SARS-CoV-2 testing, to the NIH. Within 5 days after the legislation was signed into law, the NIH launched RADx to support the development, production scale-up, and deployment of accurate, rapid tests across the country. From a timing perspective, the RADx initiative was conceived by Congress to provide near-term solutions to increase the number of tests available by the fall of 2020, as schools and universities evaluate the safety of in-person classes and as the annual influenza season begins. In the slightly longer term, RADx also aims to support the development and production of innovative diagnostic technologies as well as strategies for making testing available to diverse, vulnerable, and underserved populations through 2021. One of the goals of the RADx initiative is to expand capacity so that by December 2020, approximately 2% of the U.S. population (6 million persons) can be tested per day, with more tests ready for rapid deployment in proportion to national demand.
+
+Current Testing Capacity
+------------------------
+In the week leading up to [13 Jul 2020], daily diagnostic testing capacity in the United States was fluctuating between 520 000 and 823 000 tests. Models that provide robust estimates of the number of tests needed per day vary widely. Some experts estimated that 900 000 tests per day would be needed in May [2020]. Others forecasted the need for 5 million tests per day by June [2020], increasing to 20 million tests per day by July [2020].
+
+Test performance (the limit of detection, sensitivity, specificity, and the positive predictive value), turnaround time, cost, accessibility, and acceptance are critical factors in a successful testing strategy that can meet the needs of individual persons and communities across the country.
+
+RADx-tech program
+-----------------
+The RADx-tech program offers extensive expertise and support to bring the diagnostic technologies that require additional clinical, regulatory, and commercialization assistance from development to deployment. The RADx-tech program uses a rigorous, rapid-review process that provides independent evaluation of the technology and the potential to scale. The program leverages the long-standing Point-of-Care Technology Research Network (POCTRN), which is run by the National Institute of Biomedical Imaging and Bioengineering. In a process based on an "innovation funnel," applications move rapidly through multiple review gates that involve increasing selection pressure.
+
+Challenges
+----------
+We anticipate that challenges to the RADx program are likely to arise on several fronts. First, on the technical side, many promising prototypes under consideration are in the early proof-of-concept stage. It is likely that many will fail along the way. Much effort will be needed to conduct clinical validation rapidly and to obtain regulatory authorizations and approvals. Another challenge will be to identify digital health platforms that provide connectivity among test results, electronic health records, and public health organizations. Data should be able to be transmitted to the patient and health care provider and to state and local public health authorities with the use of national interoperability standards and common data elements to collect key demographic, test result, and clinical outcome information.
+
+Second, on the manufacturing side, scaling up of production is a complex enterprise that involves a wide range of factors, from ensuring sufficient supplies of swabs, raw materials, reagents, and equipment to establishing new production lines and manufacturing facilities within aggressive timelines. These are likely to be logistic feats that will require rapid access to capital, equipment, and skilled staff.
+
+Third, on the distribution side, once increased testing capacity is available, managing the distribution and implementation of tests into the appropriate venues and geographic localities will be critical.
+
+All these challenges are being addressed with unprecedented levels of coordination and collaboration across academia, government, industry, and nonprofit foundations. We anticipate that these interactions will substantially affect traditional barriers and facilitate the 1st burst of increased testing capacity by the fall of 2020.
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[A very detailed description of the full RADx program and its various components can be read in the article. If followed through, it can serve as a benchmark on emergency detection and response networks, with unique methods of literally getting the testing to the patients. - Mod.UBA]
+
+******
+[3] Selected countries
+[A] China: National Health Commission, 83 729 total cases, 4634 deaths
+[B] South Korea: 13 938 confirmed cases, 297 deaths
+[C] Italy: 245 032 total cases, 35 082 deaths
+[D] Iran: 281 413 total cases, 14 853 deaths
+[E] USA: 4 100 085 total cases, 146 183 deaths
+
+[These countries have been selected based on having had significant surges with SARS-CoV-2 infections, but different responses. In some cases, transmission was almost interrupted, but resurgences have occurred, and countries have handled them differently. One observation is that lifting of restrictions has led to major resurgences in some areas; in others, early new threats seem to be importations, but community spread does recur. Good contact tracing has helped to shorten the time with new clusters and temporary new restrictions have impacted. Countries not implementing restrictions have done more poorly with major resurgences. - Mod.UBA]
+
+----
+[A] China: National Health Commission, 83 729 total cases, 4634 deaths
+Date: Wed 22 Jul 2020
+Source: China National Health Commission [abridged, edited]
+http://en.nhc.gov.cn/2020-07/23/c_81163.htm
+
+
+On 22 Jul 2020 (as of midnight 23 Jul 2020):
+- 22 new cases of confirmed infections (3 imported cases, 1 in Shanghai municipality, 1 in Guangdong province and 1 in Shaanxi province; 19 indigenous cases, 18 in Xinjiang Uygur autonomous region and 1 in Liaoning province), 3 new cases of suspected infections (2 imported cases in Shanghai and 1 indigenous case in Liaoning), and no deaths.
+- A total of 2023 imported cases have been reported.
+- 83 729 confirmed cases and 4634 deaths; 78 855 recovered and discharged from hospital; 773 412 close contacts with infected patients; and 7218 are under medical observation.
+- 31 new asymptomatic cases (including 7 imported); 16 asymptomatic, imported case confirmed as symptomatic; 176 asymptomatic cases under medical observation (including 89 imported cases).
+- 2131 cases in Hong Kong [an increase of 113 cases since 20 Jul 2020], and 46 in Macau, 455 in Taiwan.
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+and
+ProMED-mail Rapporteur Kunihiko Iizuka
+
+[There were 22 new confirmed cases in the past 24 hours; 3 were imported, and 19 were locally acquired -- 18 in Xinjiang Uygur autonomous region and 1 in Liaoning province. It is now 17 days with no new cases reported from Beijing [outbreak considered over after 2 incubation periods without a new case - 28 days).
+
+There were 31 newly confirmed infections in asymptomatic individuals (7 imported) and 3 new conversions from asymptomatic to symptomatic in the past 24 hours. Since 18 May 2020, China has reported 42 cases of conversion from asymptomatic to symptomatic infection.
+
+Hong Kong reported 61 new cases (according to the CHP release). The official government site in Hong Kong mentions a total of 2031 cases (confirmed) and 1 probable. The newly reported cases announced involve 47 males and 66 females aged between 11 months and 92 years. Among them, 11 had travel history during the incubation period. (https://www.info.gov.hk/gia/general/202007/22/P2020072300023.htm).
+
+Takeaway message: China continues to have importations of infected individuals with SARS-CoV-2 and has occasional cluster flare-ups (see comments in the section on South Korea below). Hong Kong is dealing with increased local transmission associated with the lifting of restrictions; new severe restrictions have been announced. Cases are primarily locally transmitted although there are importations.
+
+A map of China showing provinces can be seen at https://sacu.org/wp-content/uploads/2019/01/provmap.png and a HealthMap/ProMED map at https://promedmail.org/promed-post?place=7604441,155. - Mod.UBA]
+
+----
+[B] South Korea: 13 938 confirmed cases, 297 deaths
+Date: Thu 23 Jul 2020
+Source: Ministry of Health and Welfare [in English, abridged, edited]
+http://ncov.mohw.go.kr/en/bdBoardList.do?brdId=16&brdGubun=162&dataGubun=&ncvContSeq=&contSeq=&board_id=
+
+
+[Please note that while the data go through 00:00 23 Jul 2020, in actuality, they cover all newly reported cases and deaths occurring on 22 Jul 2020.
+
+Also, South Korea has changed its reporting format so that to find the daily case count with cases that involved local transmission and importation, by provinces, required multiple webpages. I have had to use multiple webpages to replicate the data as we have been presenting it. - Mod.UBA]
+
+22 Jul 2020 0:00 AM KT 13 879 confirmed cases, 297 deaths
+23 Jul 2020 0:00 AM KT 13 938 confirmed cases, 297 deaths
+
+Change: 59 newly confirmed infections; 0 new deaths
+
+[The table with distribution by provinces is available at the source URL above. - Mod.UBA]
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[In the past 24 hours, according to the report at the source URL, the tally of confirmed cases of COVID-19 in South Korea has increased by 59 cases with 0 new deaths, compared with 63 cases and 1 new death in the previous day (21 Jul 2020). The daily newly confirmed case count has been at or below 100 for 98 consecutive days. There were 39 locally transmitted cases: Gyeonggi (17), Seoul (11), Gwangju (9), and Incheon (2); and 20 imported cases: Gyeonggi (11), airport quarantine (5), Busan (2), Incheon (1), and Seoul (1). 12 provinces reported no newly confirmed cases (compared with 9 provinces yesterday, 21 Jul 2020). Information on the locally acquired cases was not available at the time of preparation of this update. Notices 451 and 452 at https://www.cdc.go.kr/board.es?mid=a30402000000&bid=0030 provide details on the cases confirmed yesterday (21 Jul 2020).
+
+The overall impression hasn't changed. Lifting of measures was accompanied by increases in locally acquired infections through increasing clusters related to gatherings of people at employment (bringing it outside employment to contacts) and in houses of worship, and bars and clubs. Contact tracing and isolation seem to have had an impact. New importations are playing a major role in the country as well. Looking at both China and South Korea, I suspect that importations may result in the occasional silent spread from asymptomatic infections which may be missed through the testing (false negatives). A superspreading event may result, leading to a recognized cluster, which can ultimately be interrupted until the next cycle occurs. The increase in cases in the past few days has been paralleled by increases in reported deaths.
+
+A map of South Korea showing provinces can be seen at https://www.nationsonline.org/oneworld/map/korea-south-administrative-map.htm and a HealthMap/ProMED map at https://promedmail.org/promed-post?place=7604441,195. - Mod.UBA]
+
+----
+[C] Italy: 245 032 total cases, 35 082 deaths
+Date: Wed 22 Jul 2020
+Source: Italian Government Health Ministry [edited]
+http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=english&id=5367&area=nuovoCoronavirus&menu=vuoto
+
+
+Health monitoring data on the spread of the new coronavirus released on 22 Jul 2020. [These figures come from the table published for the day, recognizing that there have been adjustments in some of the data from previous tables. - Mod.UBA]:
+
+- 245 032 cumulative cases (+280)
+- 12 322 people are currently positive for the virus (+74);
+- 197 628 people have recovered (+197);
+- 724 patients are hospitalized with symptoms (-8), 48 in intensive care (-1), and 11 550 (+33) are in home isolation;
+- 35 082 deaths have been reported (+9).
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The tally of confirmed cases of COVID-19 in Italy is up by +280 cases and +9 deaths in the past 24 hours. The previous day's (21 Jul 2020) 24-hour change was +129 cases and +15 deaths. The hospitalized cases and cases in intensive care units are still in a slow decline.
+
+Cases still continue to be concentrated in Lombardy, Veneto and Emilia-Romagna, the main provinces at the original epicenter of the outbreak (https://promedmail.org/wp-content/uploads/world-pdf/dpc-covid19-ita-scheda-regioni-latest-22%20JULY)_1595514512.pdf). The provinces reporting the largest numbers of newly confirmed cases in the 24-hour period are Emilia-Romagna (57), Lombardy (51), Veneto (36), Basilica (36), Trento (20), Campania (19), Lazio (16), and Piedmont (13), are the provinces reporting 10 or more cases. Two provinces reported more than 50 cases. A total of 13 provinces reported fewer than 10 newly confirmed cases (3 provinces reported no new cases). Italy is now 77 days post phase 2 initial opening up and 61 days post 2nd stage of phase 2 opening up.
+
+Interpretation: It looks like there is now reasonable control, even with lifting of restrictions.
+
+A map of Italy showing regions can be seen at https://www.mapsofworld.com/italy/regions.html and a HealthMap/ProMED map at https://promedmail.org/promed-post?place=7604441,75. - Mod.MPP]
+
+----
+[D] Iran: 281 413 total cases, 14 853 deaths
+Date: Wed 22 Jul 2020
+Source: Trend [edited]
+https://en.trend.az/iran/society/3273472.html
+
+
+As many as 2586 people have been infected with the coronavirus (COVID-19) in the past 24 hours in Iran, said Sima Sadat Lari, spokesperson for Iran's Ministry of Health and Medical Education, Trend reports citing the ministry.
+
+According to Sadat Lari, 219 more people have died from the coronavirus over the past day. Sadat Lari added that the condition of 3609 people is critical.
+
+The official said that Iran's Fars, East Azerbaijan, West Azerbaijan, Razavi Khorasan, Alborz, Khuzestan, Lorestan, Golestan, Kerman, Zanjan, and Ilam provinces are red zones. So far, more than 2.22 million tests have been conducted in Iran for the diagnosis of coronavirus.
+
+Iran continues to monitor the coronavirus situation in the country. According to recent reports from the Iranian officials, over 281,400 people have been infected and 14,853 people have already died. Meanwhile, over 244,800 have reportedly recovered from the disease.
+
+The country continues to apply strict measures to contain the further spread. Reportedly, the disease was brought to Iran by a businessman from Iran's Qom city, who went on a business trip to China, despite official warnings. The man died later from the disease.
+
+The Islamic Republic only announced its 1st infections and deaths from the coronavirus on Feb. 19.
+
+[Byline: Elnur Baghishov]
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[As of 22 Jul 2020, the total number of cases of COVID-19 confirmed in Iran is 281 413, including 14 853 deaths, an increase of 2586 cases and 219 deaths since 21 Jul 2020. The daily new case count has been in the 2000-2500 range and newly reported deaths hovering around 200 plus.
+
+A map of Iran showing provinces can be seen at https://www.mapsofworld.com/iran/iran-political-map.html and a HealthMap/ProMED map at https://promedmail.org/promed-post?place=7604441,128. - Mod.UBA]
+
+----
+[E] USA: 4 100 085 total cases, 146 183 deaths
+Date: Wed 22 Jul 2020
+Source: Worldometer [accessed 19:19 EDT (GMT-4)] [edited]
+https://www.worldometers.info/coronavirus/country/us/
+
+
+[For those who are interested, a pdf snapshot of the full data Worldometer table at the time we accessed it is available at https://promedmail.org/wp-content/uploads/usa-pdf/JULY22USDATASET_1595514609.pdf.
+
+A 7-day series of cumulative reported cases by states, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/usa-pdf/JULY22US7_1595514546.pdf. - Mod.UBA]
+
+All USA total: 4 100 085 / 67 140 newly confirmed cases
+Total deaths: 146 183
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The total number of confirmed cases in the USA and territories is now 4 100 085 including 146 183 deaths, an increase from 4 028 569 cases and 144 953 deaths in the past 24 hours. New York City had a cumulative total of 219 128 cases as of 13:00 EDT (GMT-4) on 22 Jul 2020 (+90 since 21 Jul 2020 compared with +552 in the preceding 24 hours) including 18 803 (+3 since 21 Jul 2020) confirmed deaths and an additional 4625 probable deaths (https://www1.nyc.gov/site/doh/covid/covid-19-data.page).
+
+The top 10 states in terms of daily reported cases in descending order are California, Texas, Florida, Georgia, Louisiana, Tennessee, North Carolina, Arizona, South Carolina, Maryland, and Ohio. Note that 5 of the 10 states are located in the south east region of the country. This list includes states that are showing major increases in daily cases reported beginning with the lifting of restrictions around the end of May 2020. All of the top 10 states reported more than 1500 newly confirmed cases in the past 24 hours, with the range being 1514 to 12 137. The last time California reported over 10 000 cases a day was 7 Jul 2020. In terms of cumulative case reports, the order is unchanged from previous days with New York as number one, followed by California, Florida, Texas, New Jersey, Illinois, Georgia, Arizona, Massachusetts, and Pennsylvania. A total of 45 states and entities have reported more than 10 000 cumulative cases each.
+
+The 7-day average of newly confirmed cases for the past 7 days is 7.9% higher than the 7-day average for the preceding 7 days, compared with 12.4% yesterday (21 Jul 2020) consistent with the ongoing pandemic in the country, but gradually slowing down, the major drop in the past 24 hours is hard to reconcile other than a drop of 10 000 cases per day on 18 Jul 2020 that is persisting. Perhaps a change in reporting criteria of several states. Multiple media reports suggest reporting has decreased in the states, but the increasing testing positive rate of 10% does not support a slowing down of the pandemic in the USA.
+
+The Centers for Disease Control and Prevention website (https://www.cdc.gov/coronavirus/2019-ncov/covid-data/covidview/index.html) has data on cases, hospitalization, testing, and epidemiologic variables such as age, race, ILI (influenza-like illness), surveillance, and emergency room visits, which are definitely worth reviewing, as a welcome series of analyses. According to the CDC data, as of 22 Jul 2020, the percentage of laboratory specimens testing positive for SARS-CoV-2 with a molecular assay remained at 10% out of 51 680 022 tests performed as of 22 Jul 2020, consistent with the ongoing, not-yet-under-control pandemic in the country (https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/testing-in-us.html).
+
+A map of the United States can be seen at http://www.mapsofworld.com/usa/ and a HealthMap/ProMED map at https://promedmail.org/promed-post?place=7604441,106. - Mod.MPP]
+
+******
+[4] WHO situation report 184 (as of 22 Jul 2020)
+Date: Wed 22 Jul 2020
+Source: WHO [abridged, edited]
+https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200722-covid-19-sitrep-184.pdf
+
+
+*The situation report includes information provided by national authorities as of 10:00 CEST, 22 Jul 2020.
+
+Highlights
+----------
+- Approximately one 3rd of people in the Americas are at increased risk of developing severe COVID-19 illness due to underlying health conditions. To help confront this, the WHO Regional Office of the Americas/PAHO, in partnership with the London School of Hygiene and Tropical Medicine, have developed a new data model that provides a more accurate picture of the prevalence of underlying health conditions in the Americas.
+- WHO works with the Ministry of Health and Medical Education to serve the people of Islamic Republic of Iran to deliver vital equipment and medicines, train health workers and raise awareness in communities across the country. Computed Tomography (CT) scanning is a key component of clinical diagnosis of COVID-19 patients. WHO has delivered 16 CT scan machines to strengthen the Islamic Republic of Iran's emergency response to COVID-19.
+- WHO has chronicled the experience of Dr Altynai Karakhoishiyeva, an obstetrician-gynecologist working in Municipal Maternity Hospital No. 1 in Almaty, Kazakhstan. She has worked at this hospital throughout the pandemic, when it became a place of quarantine for pregnant women suspected of having COVID-19.
+- WHO is helping redesign hospitals to ensure and optimise mitigation measures against COVID-19. In Italy, WHO is providing advice on how to create alternative routes in hospitals for confirmed and suspected cases of COVID-19 as well as how to ensure better spacing in waiting rooms and improve ventilation in order to minimise spread of the virus in health care settings.
+
+[Links to all documents mentioned are available at the source URL above. - Mod.UBA]
+
+Surveillance
+------------
+[The following data come from the "Situation in numbers" section. The regional case totals are inclusive of China. - Mod.UBA]
+
+WHO region (no. countries/territories): Total confirmed cases (new) / Total deaths (new)
+Western Pacific Region (19): 269 594 (3 404) / 8 087 (10)
+European Region (61): 3 124 701 (21 047) / 208 469 (524)
+South East Asia Region (10): 1 520 780 (42 639) / 35 891 (770)
+Eastern Mediterranean Region (22): 1 414 462 (13 918) / 35 628 (483)
+Region of the Americas (54): 7 811 127 (109 052) / 313 809 (2 240)
+African Region (49): 623 851 (12 666) / 10 157 (259)
+Cases on an international conveyance (Diamond Princess): 712 (0) / 13 (0)
+
+Confirmed cases (new conf cases) / Total deaths (new deaths)
+Grand total: 14 765 256 (202 726) / 612 054 (4 286)
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The number of countries and territories reporting confirmed cases of COVID-19 to WHO remains at 215.
+
+In the 24 hours since the last WHO update:
+
+- The Americas region reported 53.7% of the global newly reported cases and 52.2% of newly reported deaths for this 24-hour period, maintaining its dominance as the most severely affected region, having reported more than 7.5 million cases. The USA reported 52.5% (57 276) cases, Brazil 18.5% (20 257), Colombia 6.2% (6727), Mexico 4.7% (5172), Peru 3.7% (4091), Argentina 3.6% (4019), and Chile 1.5% (1654).
+
+- The European region reported 10.4% of the global newly reported cases and 12.2% of the newly confirmed deaths globally. Russia reported 27.8% (5862) of the regional newly confirmed cases, followed by Israel 8.9% (1888), Kazakhstan 8.0% (1685), Spain 6.5% (1358), Kyrgyzstan 5.3% (1108), Romania 4.7% (994), Turkey 4.4% (928), Ukraine 3.9% (829), Uzbekistan 2.7% (581), France and Germany 2.2 % (454) each, and the UK 2.1% (445). Spain's 14 day population based incidence rate has gone from a low of 7.74 per 100 000 population on 25 Jun 2020 to 30.88 today (22 Jul 2020) (daily spreadsheet we maintain with data from https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Actualizacion_168_COVID-19.pdf).
+
+- The Eastern Mediterranean region reported 6.8% of the global newly reported cases and 11.2% of global newly reported fatalities. Iran reported 18.8% (2625) of the regional newly reported cases, followed by Saudi Arabia 17.7% (2476), Iraq 17.7% (2466), Oman 10.6% (1487), Pakistan 9.5% (1332), Egypt 4.8% (676), Kuwait 4.8% (671), Palestinian Authority 2.8% (403), Qatar 2.8% (393), and Bahrain 2.7% (380). Pakistan is decreasing its daily case count steadily during the month of July 2020, while at the same time cases are increasing in Iraq and Oman. This region remains highly active, with multiple countries still in a surge mode.
+
+- The African region reported 6.3% of the global newly reported cases and 6.0% of newly reported fatalities. South Africa reported 64.5% (8170) of the newly reported cases in the region in the past 24 hours, followed by Algeria 4.6% (587), Nigeria 4.5% (576), Ethiopia 4.4% (561), Ghana 4.4% (559), Kenya 3.1% (397), and Madagascar 3.1% (395). Since the beginning of July 2020, South Africa has reported daily new case counts of greater than 10 000 13 of the 22 days. It merits watching to see if there is a decreasing trend beginning [slight decrease on 22 Jul with 8000 cases].
+
+- The Western Pacific region reported 1.6% of the global newly reported cases and 0.23% of global deaths. The Philippines reported 54.8% (1866) of the newly reported cases in the region, followed by Japan 16.6% (567), Singapore 11.6% (398), Australia 10.5% (359), China 2.2% (74), and South Korea 1.8% (63).
+
+- The South East Asia region reported 21.0% of the global newly reported cases and 17.9% of global deaths. India reported 88.4% (37 724) of newly reported cases in the region, followed by Bangladesh 7.2% (3057) and Indonesia 3.8% (1655). India continues to be the driving force of the dominance of this region.
+
+Impression: The overall picture is basically the same. The ordering of the regions has the Americas having the highest disease load and newly confirmed cases on a daily basis followed by the South East Asia region, then Europe followed by the Eastern Mediterranean, followed by the Africa region and the Western Pacific representing the lowest daily caseload of all the regions. The progression has been the initial "surge" in the Western Pacific region, followed by the surge in the European region and its decline; the entry and surging of the Americas region without any decrease, and the gradual and persistent increase in the South East Asia region; the increase then plateauing of the Eastern Mediterranean region, the slow but steady increase in the Africa region, and a slight increase in the Western Pacific region. It appears as though Russia has peaked and is now declining slowly but steadily.
+
+Figure 2. The epidemic curve of confirmed COVID-19 cases by date of report and WHO region, 30 Dec 2019 through 22 Jul 2020, at the source URL above is an excellent visual representation of the epidemic as described in the above text. - Mod.UBA]
+
+******
+[5] Global update: Worldometer accessed 22 Jul 2020 17:58 GMT
+Date: Wed 22 Jul 2020
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/
+
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at https://promedmail.org/wp-content/uploads/world-pdf/JULY22DATASET_1595514415.pdf.
+
+A 7-day series of cumulative reported cases by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/JULY22WORLD7_1595514461.pdf. - Mod.UBA]
+
+Total number of reported deaths: 629 358
+Total number of worldwide cases: 15 365 714
+Number of newly confirmed cases in the past 24 hours: 280 157
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[According to the data on the Worldometer website, the total number of reported cases of COVID-19 worldwide is now 15 365 714, with reports of cases by 217 countries and territories worldwide. The global case count rose by 1.6% in the past 24 hours. The USA and Brazil are still the most severely affected countries in terms of cumulative case counts, although India has been rapidly increasing, with daily case counts around 70 000.
+
+In the past 24 hours, the USA reported the most newly confirmed cases (71 967) followed by Brazil (65 339) and India (45 599). The total cumulative case counts for the top 5 countries (USA, Brazil, India, Russia, South Africa) represent over half of the total cases reported globally (57.0%). A global total of 629 358 deaths, an increase of 9948 deaths in the past 24 hours.
+
+In descending rank order, the USA is number one for the number of newly confirmed cases in the past 24 hours, followed by Brazil, India, South Africa, Colombia, Mexico, Russia, Argentina Peru, and Bangladesh. All these countries are currently experiencing major community-based transmission and considered global hot spots. The range in the top 10 daily newly confirmed cases goes from 2744 to 71 967.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, there is an increase of 8.8%.
+
+Impression: The SARS-CoV-2 is still actively being transmitted in all regions of the world, and many countries are showing increases in their daily newly confirmed case counts. That being said, the most severely affected region is the Americas with cases increasing on a daily basis, even though the comparative 7-day average suggests things may be slowing down (or reporting is slowing down). - Mod.UBA]
+See Also
+COVID-19 update (327): risk activities, USA prevalence studies, WHO, global 20200722.7599780
+COVID-19 update (326): mosquito non-transm, selected countries, WHO, global 20200721.7595820
+COVID-19 update (325): reinfection, child transm, selected countries, WHO, global 20200720.7592025
+COVID-19 update (324): Netherlands (NB) animal, farmed mink, spread 20200719.7591013
+COVID-19 update (323): serial infection, Japan, selected countries, WHO, global 20200719.7589922
+COVID-19 update (322): USA (SC) animal, dog 20200719.7588843
+COVID-19 update (321): airborne transmission & air conditioning, WHO, global 20200718.7587301
+COVID-19 update (320): Africa, selected countries, WHO, global 20200717.7583377
+COVID-19 update (310): Kazakhstan pneumonia, selected countries, WHO, global, RFI 20200710.7560034
+COVID-19 update (300): Korea antibodies, China asymptomatic index case, WHO 20200703.7536146
+COVID-19 update (250): selected countries 20200610.7448037
+COVID-19 update (200): global, Yemen, WHO 20200522.7364937
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+Undiagnosed pediatric inflammatory syndrome (05): Europe, USA, COVID-19 assoc 20200518.7340554
+Undiagnosed pediatric inflammatory syndrome (04): USA, UK, PMIS, fatal 20200509.7315405
+Undiagnosed pediatric inflammatory syndrome (03): USA, Europe, COVID-19 susp, RFI 20200505.7299876
+COVID-19 update (150): global, USA state prisons, WHO 20200502.7290671
+COVID-19 update (100): China, S. Korea & high local transmission countries 20200413.7217806
+COVID-19 update (50): China (Hong Kong) animal dog, 2nd case PCR positive, OIE 20200323.7129951
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (41): China, global, clinical pics, asymptomatic trans., WHO 20200210.6976117
+Novel coronavirus (40): animal reservoir, pangolin poss intermediate host, RFI 20200210.6972104
+Novel coronavirus (30): updates, China, Viet Nam, research 20200202.6945658
+Novel coronavirus (20): China, wildlife trade ban 20200127.6922060
+Novel coronavirus (10): China (HU, GD, BJ) 20200119.6898567
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia - China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia - China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+----
+Undiagnosed pneumonia - China (HU): RFI 20191230.6864153
+.................................................sb/uba/ao/lm/mj
+</body>

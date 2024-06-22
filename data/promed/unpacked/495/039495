@@ -1,0 +1,90 @@
+<header id=039495>
+Published Date: 1997-11-08 18:50:00 EST
+Subject: PRO/PL> European Plant Protection Organization: registration
+Archive Number: 19971108.2266
+</header>
+<body id=039495>
+EUROPEAN PLANT PROTECTION ORGANIZATION: NEW SERVER
+**************************************************
+A ProMED-mail post
+Date: Fri, 31 Oct 1997 18:29:30 -0500
+From: Anne-Sophie Roy [Roy@eppo.fr]
+
+[Please remind your subscribers that they may register] to the new EPPO
+electronic
+documentation service (eppo_docs@eppo.fr) which replaces the previous
+mail-server (mail-server@eppo.fr). I hope that [they] find it easy to use.
+It is now possible to obtain directly the EPPO Reporting Service files.
+I visited the ProMED-plant web site
+<http://www.agnic.org/pmp/1996/eed9606.html> and noted that one page
+referred in fact to the old EPPO mail-server which does not function any
+more. As it is a good idea to have a reference to the EPPO electronic
+documentation service, would it be possible to update this web page and
+make a reference to the new service. I have summarized below the
+instructions for the users, in case you may wish to use them.
+New EPPO Electronic Documentation Service.
+The EPPO Electronic Documentation Service is a mail system (not a Web site)
+with which you can obtain EPPO files, by sending very simple e-mail
+messages at the following address: <eppo_docs@eppo.fr>
+How to access the EPPO Electronic Documentation Service.
+1. Register as a user.
+EPPO files have been separated into five directories according to the topic
+concerned:
+PPPstandards (EPPO standards on plant protection products)
+PQstandards (EPPO standards on plant quarantine)
+Regulations (EPPO summaries of phytosanitary regulations and original texts)
+Reporting (EPPO Reporting Service)
+Publications (various EPPO publications, e.g. data sheets)
+To receive the EPPO files, you have first to register as a user of the
+directory(ies) you are interested in (as many as you want), by sending the
+following e-mail message to <eppo_docs@eppo.fr>: Join (name of the
+directory you want)
+Example : Join Reporting
+You will receive in return two messages. One is a transaction report which
+tells you that you successfully joined the chosen directory and the second
+gives full explanation on how to obtain the contents of the directory, and
+then the files.
+2. Obtain the contents.
+Send the following e-mail message to <eppo_docs@eppo.fr>: Dir (name of the
+directory you want)
+Example : Dir Reporting
+You will again receive in return two messages. One is a transaction report
+which tells you that the command was completed and the second will be
+entitled (for example) "directory for the list Reporting", and will list
+all the file names.
+3. Get the files
+Send the following e-mail message to <eppo_docs@eppo.fr>: Get (name of the
+directory name of the file).
+Example : Get Reporting rse-9701.doc
+You will again receive in return two messages. One is a transaction report
+which tells you that the command was completed and the second will contain
+the requested file as an attachment.
+You can obtain several files with a single request.
+Example : Get Reporting rse-9701.doc
+Get Reporting rse-9702.doc
+--
+Anne-Sophie Roy
+Information Officer, EPPO
+......................................pa/es
+--
+*##########################################################*
+ProMED-mail makes every effort to verify the reports that
+are posted, but the accuracy and completeness of the
+information, and of any statements or opinions based
+thereon, are not guaranteed. The reader assumes all risks in
+using information posted or archived by ProMED-mail. ISID
+and its associated service providers shall not be held
+responsible for errors or omissions or held liable for any
+damages incurred as a result of use or reliance upon posted
+or archived material.
+************************************************************
+Visit ProMED-mail's web site at <http://www.promedmail.org>.
+Send all items for posting to: promed@promedmail.org
+(NOT to an individual moderator). If you do not give your
+full name and affiliation, it may not be posted. Send
+commands to subscribe/unsubscribe, get archives, help,
+etc. to: majordomo@promedmail.org. For assistance from a
+human being send mail to: owner-promed@promedmail.org.
+############################################################
+############################################################
+</body>

@@ -1,0 +1,228 @@
+
+# unpack_WHO reads the json file and writes out some text files
+cd /work/k.church/Scarpino/WHO
+python unpack_WHO.py
+
+# /work/k.church/Scarpino/WHO/for_BERT contains
+
+# The files in /work/k.church/Scarpino/promed/todo have 1000 lines with
+# two columns per line.  The first column is an id and the second column is a text string
+
+# The following will input one of those files and output two files: 
+#    1) ../done/$f.kwc.nodes.i 
+#    2) ../done/$f.kwc.edges.f
+
+# ../done/$f.kwc.nodes.i is 1000 ints (the ids in column 1)
+# ../done/$f.kwc.nodes.f is 1000 vectors of 768 floats (specter embeddings of the text column)
+
+cd /work/k.church/Scarpino/promed/todo
+for f in x.?????
+do
+if [ ! -s ../done/$f.kwc.nodes.i ]
+then
+echo working on $f
+sbatch -p short -t 1439 /work/k.church/semantic_scholar/extracted_citing_sentences_to_embedding.py -i $f -o ../done/$f
+fi
+done
+
+# This combines the *.i and *.f files above into big ones
+# It skips over a few pieces that weren't done
+
+cd /work/k.church/Scarpino/promed/done
+cat `ls *i | awk -F. '$2 == 0 || $2 >= 4'` > x.kwc.nodes.i
+cat `ls *f | awk -F. '$2 == 0 || $2 >= 4'` > x.kwc.edges.f
+
+# N=530412, K=768
+# x.kwc.edges.f consists of N*K 4-byte floats (an embedding)
+# x.kwc.nodes.i consists of N 4-byte ints
+
+# This creates index files of the form x.kwc.edges.f.simple.seed??.K768.B6.idx.??.i
+# as well as inverses of them: x.kwc.edges.f.simple.seed??.K768.B6.idx.??.i.inv
+# The --array arg specifies both ??s
+# That is, all of these indexes are the same except for the random seed
+# All of these files are N 8-byte longs
+
+# The *.inv files are inverse permutations.
+# That is, if PI is a permutation, then the corresponding .inv file is PI^{-1}
+
+# The indexes (and their inverses) are permutations of 0:(N-1)
+# The index is intended to order the vectors in the embedding so that
+# floats that are near one another should have large cosines
+
+# How do we compute the indexes (permutations)?
+# First, we map the NxK floats (embedding) to NxB bytes
+# Then the index (permutation) is the order of the N bytes (argsort)
+
+# How do we map a vector of K floats, V, to B bytes?
+# We compute 8*B random vectors of length K.  Let R be a 
+# Then the i-th bit in the 8*B bits is the sign of the dot product of V and R[i,:]
+
+# Need to show that hamming distances on B bytes is negatively correlated with cosines on K floats.
+# Then it follows that vectors that are near one anther in the index have smaller hamming distences
+# than a baseline (vectors chosen at random), and similarly for cosines.  That is, vectors that are near
+# one another in the index have large cosines.
+
+cd /work/k.church/Scarpino/promed/done
+ffile=x.kwc.edges.f
+B=6
+K=768
+sbatch -p short -t 1209 --array 50-99 $src/C/floats_to_idx.sh $K $ffile $B
+
+# For approximate nearest neighbors, we start with a query
+# Find candidates, ids that are close to the query in one of the indexes.
+# Increase the candidate set by using more indexes.
+# For each candidate, compute the cosine of the query and the candidate
+# Sort candidates by cosines
+# Return the N-best
+
+# Need to show that more indexes improves results (quickly)
+# approximate nearest neighbors code is here:
+# /work/k.church/Scarpino/promed/done/Scarpino_todo.sh
+
+# Here is how I call that
+
+mkdir -p /work/k.church/Scarpino/WHO/done3
+cd /work/k.church/Scarpino/WHO/done3
+for f in /work/k.church/Scarpino/WHO/todo/x.* /work/k.church/Scarpino/promed/todo/x.* 
+do
+outf=/work/k.church/Scarpino/WHO/done3/`basename $f`
+if [ ! -s $outf ]
+then
+echo working on $f
+sbatch -i $f -o $outf -p debug,short /work/k.church/Scarpino/promed/done/Scarpino_todo.sh
+fi
+done
+
+mkdir -p /work/k.church/Scarpino/WHO/done3_best
+cd /work/k.church/Scarpino/WHO/done3_best
+for f in /work/k.church/Scarpino/WHO/todo/x.* /work/k.church/Scarpino/promed/todo/x.* 
+do
+outf=`basename $f`
+if [ ! -s $outf ]
+then
+echo working on $f
+sbatch -i $f -o $outf -p debug,express,short /work/k.church/Scarpino/promed/done/Scarpino_todo_best.sh
+fi
+done
+
+# This shows how often the n-th index improves the estimate of the nearest neighbor
+cd /work/k.church/Scarpino/WHO/done3_best
+cat * | awk 'NF >= 8 {print $8}' | sort -n | uniq -c
+
+cat * | awk 'BEGIN {query=best="NA"};
+       $1 == "Query:" {print query, best; best = "NA"; query=$2; next};
+      	     NF >= 8 {best = $8}' OFS="\t" | cut -f2 | sort -n | uniq -c
+
+cd /work/k.church/Scarpino/WHO/done
+ffile=x.kwc.edges.f
+B=6
+K=768
+seed=51
+idx=/work/k.church/Scarpino/WHO/done/x.kwc.edges.f.simple.seed$seed.K$K.B$B.idx.$seed.i
+randombytes=$ffile.random_bytes.K$K.$B$B.seed$seed
+# floats_to_random_bytes $K $B $seed < $ffile > $randombytes
+/work/k.church/semantic_scholar/citations/graphs/src/C/calibrate_random_bytes_index $randombytes $idx $B $ffile $K --ascii > $randombytes.calibration
+
+
+
+python
+import numpy as np
+x = np.random.choice(530412, 2000000)
+x = np.random.choice(530412, 2000000)
+np.savetxt('/tmp/x', x, fmt='%d')
+quit()
+cat /tmp/x | /work/k.church/semantic_scholar/citations/graphs/src/C/calibrate_random_bytes  768  6 $ffile $randombytes > $randombytes.baseline
+
+# using the index
+awk '{x[$2] += $3; n[$2]++}; END {for(i in n) printf "%d\t%0.3f\t%d\n", i, x[i]/n[i], n[i]}' "$randombytes"*cal*  | sort -n
+hamming cos    N
+0	0.986	245277
+1	0.925	36590
+2	0.893	37459
+3	0.865	37306
+4	0.840	35855
+5	0.818	32184
+6	0.796	27423
+7	0.776	22319
+8	0.757	17681
+9	0.738	13138
+10	0.718	9578
+11	0.699	6515
+12	0.675	4394
+13	0.660	2904
+14	0.642	1873
+15	0.623	1103
+16	0.613	658
+17	0.598	365
+18	0.579	241
+19	0.578	138
+20	0.563	79
+21	0.537	55
+22	0.560	33
+23	0.524	14
+24	0.524	5
+25	0.487	3
+26	0.519	1
+27	0.491	2
+30	0.493	1
+
+# Random control
+
+awk '{x[$4] += $3; n[$4]++}; END {for(i in n) printf "%d\t%0.3f\t%d\n",  i, x[i]/n[i], n[i]}' "$randombytes"*base*  | sort -n
+hamming cos    N
+0	0.999	3955
+1	0.967	879
+2	0.938	1647
+3	0.912	2239
+4	0.891	5401
+5	0.883	5853
+6	0.852	9606
+7	0.826	14087
+8	0.804	22566
+9	0.782	35174
+10	0.765	52552
+11	0.749	71789
+12	0.724	87812
+13	0.707	102582
+14	0.689	110534
+15	0.673	110958
+16	0.658	101357
+17	0.644	84681
+18	0.631	65036
+19	0.618	45868
+20	0.606	29659
+21	0.595	17818
+22	0.583	9523
+23	0.572	4838
+24	0.564	2188
+25	0.551	850
+26	0.539	354
+27	0.536	139
+28	0.519	36
+29	0.499	14
+30	0.524	3
+31	0.485	2
+
+pwd
+/work/k.church/Scarpino/promed/unpacked/summaries
+cut -f4 ids | cut -f2- -d '>' | sed 's/Subject://g' | sed 's/PROMED://g' | sed 's/ [\-] /	/g' | tr '():' '\t' | cut -f1 | sort | uniq -c | sort -nr | sed 20q
+   2254  Avian influenza 
+   1397  Avian influenza, human 
+   1334  Foot & mouth disease
+   1186  COVID-19 update 
+   1170  Anthrax
+    916  Yellow fever
+    786  African swine fever
+    746  Rabies
+    672  Ebola update 
+    661  Avian influenza
+    586  Influenza 
+    564  MERS-CoV 
+    538  Cholera, diarrhea & dysentery update 
+    515  E. coli EHEC
+    510  Crimean-Congo hem. fever
+    507  Hepatitis A
+    503  Measles update 
+    476  Malaria
+    476  Legionellosis
+    474  Chikungunya 

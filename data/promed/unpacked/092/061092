@@ -1,0 +1,244 @@
+<header id=061092>
+Published Date: 2020-11-15 23:45:26 EST
+Subject: PRO/AH/EDR> COVID-19 update (492): nosocomial transmission, HCW infections, WHO, global
+Archive Number: 20201116.7946129
+</header>
+<body id=061092>
+CORONAVIRUS DISEASE 2019 UPDATE (492): SOUTH AFRICA NOSOCOMIAL TRANSMISSION, UK HEALTHCARE WORKER INFECTIONS WHO, GLOBAL
+************************************************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] Nosocomial outbreak: lessons learned
+[2] UK (Scotland): HCW infections
+[3] WHO: daily new cases reported (as of 15 Nov 2020)
+[4] Global update: Worldometer accessed 15 Nov 2020 21:59 EST (GMT-5)
+
+******
+[1] Nosocomial outbreak: lessons learned
+Date: Fri 13 Nov 2020
+Source: JAMA [edited]
+https://jamanetwork.com/journals/jama/fullarticle/2773128
+
+
+ref: Richterman A, Meyerowitz EA, Cevik M. Hospital-acquired SARS-CoV-2 infection: lessons for public health. JAMA. Published online 13 Nov 2020. doi:10.1001/jama.2020.21399
+----------------------------------------------------------------
+From the outset of the coronavirus disease 2019 (COVID-19) pandemic, it was clear that hospitals were an important setting for viral transmission. A review of 2 early case series in China estimated that 44% of 179 severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infections were hospital acquired. [1] An illustrative example of the devastating potential for healthcare transmission of SARS-CoV-2 came from St Augustine's Hospital in Durban, South Africa, a facility with 469 beds, including 18 wards, 6 intensive care units, and 735 clinical staff. [2] Through a detailed epidemiologic study supplemented by phylogenetic analyses, investigators documented how a single unsuspected case of SARS-CoV-2 led to 6 major clusters involving 5 hospital wards and an outside nursing home and dialysis unit, with infection ultimately confirmed among 80 staff members and 39 patients, 15 of whom died. [2]
+
+Patients and healthcare workers around the world became concerned about the risk of providing routine care for patients with COVID-19, especially given the uncertainties about routes of transmission of SARS-CoV-2. Many settings intentionally limited or decreased elective visits and procedures during surging cases to reduce healthcare load and potential exposure. In addition, there have been substantial reductions in presentations for urgent or emergency illnesses, including myocardial infarction, tuberculosis, stroke, and hyperglycemic episodes. The consequences of these reductions are likely to contribute to excess mortality associated with the COVID-19 pandemic, considering that these conditions result in hundreds of thousands of deaths each year in the US.
+
+Simultaneously, mounting evidence supports the effectiveness of a relatively simple intervention in reducing hospital transmission of SARS-CoV-2: universal use of surgical masks by healthcare workers and patients. This intervention appears to be effective, despite a relative inability to completely physically distance within the hospital. A study of 21 000 healthcare workers found that nosocomial-acquired SARS-CoV-2 infections decreased significantly after implementation of a universal masking policy, whereas community-acquired cases continued to increase, consistent with the overall community incidence. [3]
+
+Another study of healthcare workers at 12 hospitals with more than 75 000 employees found that the SARS-CoV-2 test positivity rate among healthcare workers decreased linearly from 14.65% to 11.46% during a 3 week period after implementation of universal masking. [4] A detailed contact tracing study of 226 patients exposed to healthcare workers with confirmed COVID-19 during the surge in Boston found only 1 possible transmission, and this was in the context of a 30 minute encounter during which both patient and healthcare worker were unmasked. [5] In a complementary analysis of the same hospital system, researchers found no convincing cases of in-hospital transmission among more than 9000 admitted patients after implementation of universal masking for staff and patients. [6]
+
+Together, these findings suggest that overall hospital transmission of SARS-CoV-2 in the setting of universal masking is likely rare, even during periods of high community prevalence. This has at least 2 important implications. First, it is imperative for the public to understand that hospitals with well-implemented universal masking policies are overwhelmingly safe, and public health messaging should emphasize that avoidance or delay of needed and urgent healthcare is not necessary. Second, despite the politicization of masking, this is an important and compelling proof of concept for the broader use of universal masking in crowded indoor settings, even with good ventilation. High-quality studies in other contexts can inform the extent to which efficacy differs with cloth masks or face coverings more typically used outside of hospital settings relative to surgical masks (and in some cases, especially during aerosol-generating procedures, use of N95 respirators) in hospitals. Masking will become even more important as the COVID-19 crisis continues into the upcoming influenza season in the northern hemisphere.
+
+However, the World Health Organization recently suggested that healthcare workers account for up to 1 in 7 cases of COVID-19 worldwide. An analysis of more than 2 million community members and nearly 100 000 frontline healthcare workers in the US and the UK found an increased risk of having a positive SARS-CoV-2 test result among healthcare workers compared with community members, with rates of 2747 and 242 cases per 100 000 people, respectively, and a hazard ratio for a positive test result of 3.40 after adjusting for a wide variety of measurable factors. [7] If hospital transmission with universal masking is so rare, what is the explanation for ongoing reports that healthcare workers account for a large proportion of cases worldwide?
+
+The available data that suggest increased risk among healthcare workers must be interpreted with caution for several important reasons. First, many of these cases occurred either before the institution of universal masking protocols or in settings in which access or adherence to masks has been limited. Second, studies that have suggested higher risk of infection in healthcare workers have largely not been able to differentiate between community and hospital acquisition of infection. Healthcare workers may differ from the general public in their social exposure patterns outside the hospital. Third, healthcare workers are more likely to be tested than community members, and, even in studies that attempt to adjust for this differential in testing, estimates of risk of infection among healthcare workers relative to the community are almost certainly biased upward.
+
+With these caveats in mind, detailed investigations of hospital outbreaks in the context of universal masking may be highly informative in identifying residual systemic weaknesses that allow transmission clusters to occur despite masking policies. These investigations, during which exhaustive contact tracing is routinely performed, could provide lessons that also could be applied to indoor settings outside the hospital, in which the specific nature of exposures is not as frequently available.
+
+In the few outbreaks that have been reported in hospital settings during universal masking, several recurrent features have emerged. Duke Health in North Carolina found that "unmasked exposure to another [healthcare worker] rather than exposure to known infected patients resulted in the most [SARS-CoV-2] cases among staff after implementation [of universal masking]." [8] Transmission leading to a cluster of at least 55 infections at Baystate Medical Center in Massachusetts in July 2020 was traced back to "staff who convened in a breakroom and removed their masks." [9] In an outbreak at Brigham and Women's Hospital in Boston in September 2020 that was associated with infections in 42 healthcare workers and 15 patients, hospital epidemiologists identified a number of important contributing factors, including that "many patients were not masked during clinical care" and "[that there was a] lack of physical distancing among staff while unmasked while eating." [10] This pattern is unsurprising, especially given what is now known about the timing of infectiousness peaking at approximately symptom onset or just before; most patients with SARS-CoV-2 who require hospitalization are admitted at least 5 to 7 days after symptom onset, by which point they are probably minimally or noninfectious.
+
+What is clear is that these hospital-based outbreaks have not revealed a failure of universal masking, but rather challenges in systems such as inadequate support to maintain masking adherence and basic human nature, in which individuals tire of masking. In particular, breakdowns have occurred in small workrooms and during mealtime in facilities that were not designed to allow adequate physical distancing during a respiratory pandemic. Although many in healthcare have focused on preventing transmission from patients with known SARS-CoV-2, these examples emphasize that residual transmission with universal masking appears to primarily occur after breaches in now-routine preventive measures. Lessons from the experiences of the millions of dedicated healthcare workers continuing to work during the COVID-19 crisis should be heeded by hospital systems and society in general to improve transmission prevention in all settings.
+
+Hospital systems (and other indoor facilities) should focus on a number of provisions in addition to distributing a sufficient supply of masks to all staff and patients. Adequate, well-ventilated, and ideally dedicated space must be provided for breaks from daily work activities and mealtimes for healthcare workers, with processes in place to ensure that these are staggered to minimize contact and conversation during these higher-risk periods. Shared patient rooms should be avoided when possible, especially when local prevalence of infection is high, because of the possibility that patients might be admitted during the SARS-CoV-2 incubation period and because they must remove their masks to eat. The marginal benefit of universal eye protection should be evaluated, particularly during clinical encounters. Regular, flexible, and convenient testing with short turnaround times and adequate and statutory sick leave should be made available to all healthcare workers, with systems in place to ensure progression of training for medical trainees. Through these measures, transmission could be further minimized (and perhaps even eliminated), and emerging evidence could continue to direct policies designed to maintain safety in the hospital setting.
+
+[References available at the source URL above.]
+
+--
+communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[While provision of adequate PPE (personal protective equipment), a noted failure during the initial stages of the pandemic, has been mostly resolved at the hospital level, adherence to NPIs (non-pharmaceutical interventions) such as mask wearing and social distancing, avoidance of enclosed crowded environments is still an issue for HCWs (healthcare workers) during down time away from direct patient care and during direct patient care as demonstrated by the authors. Experience with other CoVs (SARS-CoV-1 and MERS-CoV) demonstrated that in healthcare facilities have served as a nidus for transmission when there were lapses in infection control procedures, as illustrated above. The viewpoint article above is a call for learning of lessons from the cited experiences. And it is a natural accompanying article to the BMJ article in section [2] below. - Mod.MPP]
+
+******
+[2] UK (Scotland): HCW infections
+Date: 28 Oct 2020
+Source: BMJ (British Medical Journal) [edited]
+https://www.bmj.com/content/371/bmj.m3582
+
+
+ref: Shah ASV, Wood R, Gribben C, et al. Risk of hospital admission with coronavirus disease 2019 in healthcare workers and their households: nationwide linkage cohort study. BMJ. 2020 Oct 28;371:m3582. doi: 10.1136/bmj.m3582. PMID: 33115726; PMCID: PMC7591828.
+------------------------------------------------------------------
+Abstract
+--------
+Objective
+To assess the risk of hospital admission for coronavirus disease 2019 (COVID-19) among patient facing and non-patient facing healthcare workers and their household members.
+
+Design
+Nationwide linkage cohort study.
+
+Setting
+Scotland, UK, [1 Mar 2020] to [6 Jun 2020].
+
+Participants
+Healthcare workers aged 18-65 years, their households, and other members of the general population.
+
+Main outcome measure
+Admission to hospital with COVID-19.
+
+Results
+The cohort comprised 158 445 healthcare workers, most of them (90 733; 57.3%) being patient facing, and 229 905 household members. Of all hospital admissions for COVID-19 in the working age population (18-65 year olds), 17.2% (360/2097) were in healthcare workers or their households. After adjustment for age, sex, ethnicity, socioeconomic deprivation, and comorbidity, the risk of admission due to COVID-19 in non-patient facing healthcare workers and their households was similar to the risk in the general population (hazard ratio 0.81 (95% confidence interval 0.52 to 1.26) and 0.86 (0.49 to 1.51), respectively). In models adjusting for the same covariates, however, patient facing healthcare workers, compared with non-patient facing healthcare workers, were at higher risk (hazard ratio 3.30, 2.13 to 5.13), as were household members of patient facing healthcare workers (1.79, 1.10 to 2.91). After sub-division of patient facing healthcare workers into those who worked in "front door", intensive care, and non-intensive care aerosol generating settings and other, those in front door roles were at higher risk (hazard ratio 2.09, 1.49 to 2.94). For most patient facing healthcare workers and their households, the estimated absolute risk of hospital admission with COVID-19 was less than 0.5%, but it was 1% and above in older men with comorbidity.
+
+Conclusions
+Healthcare workers and their households contributed a 6th of COVID-19 cases admitted to hospital. Although the absolute risk of admission was low overall, patient facing healthcare workers and their household members had 3-fold and 2-fold increased risks of admission with COVID-19.
+
+[The full article including references, graphics, and tables, is available at the source URL above. - Mod.MPP]
+
+--
+communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[In the discussion section of this article, the authors mention that most prior studies focused on healthcare worker infection rates were small, single center, and cross sectional whereas this study was a large, multicentered HCW study that demonstrated "strong evidence that patient facing healthcare workers are at moderately increased risk of experiencing a sufficiently severe form of COVID-19 to need hospital admission". They also "provide further evidence that within patient facing healthcare workers, those categorised as working in "front door" specialties are at the highest risk of admission with covid-19, probably reflecting the higher seroprevalence rates of SARS-CoV-2 in this population".
+
+They also mention, "In moderate risk settings, where patients may have only suspected, or even unsuspected, COVID-19, the use of more resource intensive and burdensome personal protective equipment of the kind deployed in high risk settings is very challenging. One proposed alternative, or additional, measure to improve safety is therefore to redeploy healthcare workers from patient facing to non-patient facing roles if they or their households are more susceptible to severe disease. Our findings suggest that this may be a feasible policy for 2 reasons. Firstly, non-patient facing healthcare workers and their households had similar risks of hospital admission to the general population. Secondly, the proportion of patient facing healthcare workers who themselves, or whose households, were at increased risk of admission (up to 1%) was low at around one in 20."
+
+In a linked editorial (Karlsson U, Fraenkel C-J. COVID-19: risks to healthcare workers and their families. BMJ 2020; 371:m3944; available at https://www.bmj.com/content/371/bmj.m3944), the authors start their comment with a title "Mistakes made in the 1st wave must not be repeated in the 2nd". They note that "during the 1st 3 months of the pandemic patient facing healthcare workers were 3 times more likely to be admitted with COVID-19 than non-patient facing healthcare workers. Risk was doubled among household members of front facing workers.
+
+"During the 1st wave of the pandemic, overstretched healthcare systems left health workers in hard hit countries struggling with long working hours, fatigue, and extreme psychological stress. Rapidly vanishing supplies, national lockdowns, and a feeding frenzy on the open market for personal protective equipment (PPE) led to shortages. [7] Healthcare workers often had to care for patients with suspected or confirmed COVID-19 infection without proper training or adequate PPE. This contributed to an increased risk to healthcare workers during the initial phase of the pandemic.
+
+"Superspreading events, a hallmark of previous coronavirus outbreaks, contribute substantially to community transmission of covid-19 and to work related clusters. Most countries struggled with insufficient testing capacity in the 1st months of the pandemic, which hampered early detection of emerging outbreaks and implementation of infection control measures. Increasing experience now suggests that every suspected healthcare associated infection should trigger a bundle of immediate infection control measures, including extensive screening for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), quarantining of all patients on the affected ward, physical distancing between personnel, and use of reinforced PPE during all contact with patients on the affected ward, in order to prevent larger outbreaks.
+
+"Most, but not all, studies report increased risks for health workers caring for patients with covid-19. Working in intensive care units is not associated with an increased risk of infection, possibly owing to the protection afforded by high level PPE or to the decrease in infectivity that occurs in the later stages of the illness, even among critically ill patients. The greatest risk to healthcare workers may be their own colleagues or patients in the early stages of unsuspected infections when viral loads are high.
+
+"High quality prospective studies evaluating new prevention and control practices will be important to guide improvements in our approach to protecting healthcare workers and their families, including those from ethnic minority communities who have the highest risks of infection and poor outcomes, widening workplace inequality."
+
+The complete editorial including references is available at the URL above.
+
+Clearly lessons have been learned following the 1st wave, but given the exponential growth in this current 2nd (and 3rd wave in some countries) will these lessons carry over? - Mod.MPP]
+
+******
+[3] WHO: daily new cases reported (as of 15 Nov 2020)
+Date: Sun 15 Nov 2020
+Source: WHO [abridged, edited]
+https://covid19.who.int/table
+
+
+*Daily case reports as of 15 Nov 2020 16:35 CET
+
+Surveillance
+------------
+WHO region (no. countries/territories):
+Total confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+--------------------------------------------
+Western Pacific Region (19): 798 170 (4733) / 16 377 (45)
+European Region (61): 15 047 248 (246 603) / 341 488 (3534)
+South East Asia Region (10): 10 015 731 (51 506) / 153 860 (617)
+Eastern Mediterranean Region (22): 3 545 801 (33 343) /90 052 (800)
+Region of the Americas (54): 22 960 102 (252 672) / 675 735 (3126)
+African Region (49): 1 398 935 (5143) / 31 450 (90)
+Cases on an international conveyance (Diamond Princess): 741 (0) / 13 (0)
+
+Confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+Grand total: 53 766 728 (594 000) / 1 308 975 (8212)
+
+--
+communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The number of countries and territories reporting confirmed cases of COVID-19 to WHO remains at 218. A note of caution re: weekend reporting artifact. During the weekend period, some countries do not submit reports to WHO (or elsewhere) or some reporting units within countries do not submit reports so it appears as though transmission may be slowing down when it is reporting that is slowing down.
+
+Data by country, area, or territory for 15 Nov 2020 can be accessed at https://promedmail.org/wp-content/uploads/world-pdf/WHO%20daily%20tablesNov15_1605478318.pdf.
+
+- The Americas region reported 42.5% of daily case numbers and 38.1% of the daily deaths reported in the past 24 hours, maintaining its position as the most severely affected region, having reported more than 22.9 million cases. The USA continues to dominate, followed by Brazil, Argentina, Colombia, Mexico, Canada, and Peru. Other countries/territories reporting more than 1000 cases include Chile, Costa Rica, and Panama. Countries reporting more than 500 cases but fewer than 1000 in the past 24 hours include Ecuador, Paraguay, Dominican Republic, Puerto Rico, Honduras, and Guatemala.
+
+- The European region reported 41.5% of daily case numbers and 43.0% of the daily deaths reported in the past 24 hours, and total cumulative cases reported exceed 15.0 million. Countries not reporting cases today (15 Nov 2020) include Spain, Israel, Switzerland, Sweden, and Kazakhstan, among others. Countries reporting more than 10 000 cases in the past 24 hours include Italy, France, UK, Poland, Russia, Germany, and Ukraine. Countries reporting 5000-9999 cases include Romania, Austria, Portugal, and Netherlands. An additional 18 countries reported between 1000 and 4999 cases.
+
+- The Eastern Mediterranean region reported 5.6% of daily case numbers and 9.7% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 3.54 million cases. Iran is dominant, with continuing record-breaking highs, followed by Morocco, Jordan, Iraq, Pakistan, Tunisia, Lebanon, and UAE. Kuwait and Palestinian Authority each reported more than 500 cases but fewer than 1000, while Oman, Libya, Sudan, Somalia, and Yemen did not report any cases in the past 24 hours.
+
+- The African region reported 0.87% of daily case numbers and 1.1% of the deaths reported in the past 24 hours and has reported more than 1.39 million cases. South Africa maintains its dominance, followed by Kenya, Ethiopia, Uganda, Angola, Mozambique, and Nigeria. Countries not reporting any new cases include Algeria, Ghana, Cameroon, Madagascar, Gabon, Botswana, and Mauritania, among others.
+
+- The Western Pacific region reported 0.80% of daily case numbers and 0.55% of the deaths reported in the past 24 hours, having reported a cumulative total of 0.79 million cases. Japan is dominant, followed by the Philippines, Malaysia, South Korea, Guam, and China.
+
+- The South East Asia region reported 8.7% of the daily newly reported cases and 7.5% of reported deaths in the past 24 hours, having reported a cumulative total of more than 10.0 million cases. As previously, India remains dominant, followed by Indonesia, Nepal, Bangladesh, Myanmar, Sri Lanka, and the Maldives. Bhutan has reported 6 cases.
+
+Impression: There is a continued dominance of Europe and the Americas region with combined reports from these 2 regions representing over 82% of both newly confirmed cases and newly reported deaths in the past 24 hours.
+
+On the Overview tab at the WHO source URL, the epidemic curve of confirmed COVID-19 cases by WHO region, 30 Dec 2019 through 14 Nov 2020, is an excellent visual representation of the pandemic. - Mod.MPP]
+
+******
+[4] Global update: Worldometer accessed 15 Nov 2020 21:59 EST (GMT-5)
+Date: Sun 15 Nov 2020
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at https://promedmail.org/wp-content/uploads/world-pdf/NOV15DATASET_1605498928.pdf.
+
+A 7-day series of cumulative data reported by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/NOV15WORLD7_1605499062.pdf. - Mod.MPP]
+
+Total number of reported deaths: 1 324 320
+Total number of worldwide cases: 54 810 316
+Number of newly confirmed cases in the past 24 hours: 491 475
+
+--
+communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[A caution re weekend reporting artifact. Reporting has markedly dropped with a 15.4% reduction in reported cases in the past 24 hours and a 29.5% reduction in reported deaths in the past 24 hours. Countries with recognized significant ongoing transmission not reporting new cases in the past 24 hours include Spain, Switzerland, Sweden, and Costa Rica.
+
+In the past 24 hours, the USA (140 341), Italy (33 977), and India (30 715), have been dominant. A global total of 6276 deaths were reported in the past 24 hours (14-15 Nov 2020).
+
+Countries reporting more than 10 000 newly confirmed cases in the past 24 hours (10 countries) include the USA, India, Italy, France (27 228), UK (24 962), Russia (22 572), Poland (21 854), Brazil (14 134), Germany (14 045), Iran (12 543), and Ukraine (10 681). A total of 53 countries reported more than 1000 cases in the past 24 hours; 27 of the 53 countries reporting more than 1000 newly confirmed cases are from the European region, 10 are from the Americas region, 8 are from the Eastern Mediterranean region, 4 are from the South East Asia region, 3 are from the Western Pacific region, and 1 is from the African region. Noteworthy is that Mexico has reported more than 1 million cases and the USA now more than 11 million cases.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, case counts have increased by 4.0%, while daily reported deaths have increased by 9.8%. Looking at the same comparisons in the USA (which reported 28.6% of all newly reported cases in the past 24 hours), as the dominant country worldwide with clearly uncontrolled transmission, the 7-day change in daily reported cases is 32.3% and in reported deaths is 10.5%. In Italy, the dominant country in the European region, the 7-day change in daily reported cases is 7.8% and in reported deaths is 49.3%. And in Iran, the dominant country in the Eastern Mediterranean region, the 7-day change in daily reported cases is 28.4% and in reported deaths is 6.5%.
+
+Impression: The global daily reported cases continue to increase. This appears to have slowed down with reduced reporting over the weekend. Countries in the European and the Americas regions are still showing the largest increases in daily new case counts, followed by the Eastern Mediterranean and the South East Asia regions. The USA continues to show uncontrolled transmission. - Mod.MPP]
+See Also
+COVID-19 update (491): super spread, immunization, mutations, WHO, global 20201115.7944801
+COVID-19 update (490): animal, Greece (EM) mink, 1st report, OIE, assessment 20201115.7944705
+COVID-19 update (489): convalescent plasma, South Asia, WHO, global 20201114.7942790
+COVID-19 update (488): mobility models, crossover immunity, WHO, global 20201113.7940073
+COVID-19 update (487): Denmark, animal, mink, zoonotic, risk assessment ECDC 20201112.7939110
+COVID-19 update (486): mental health, mink, WHO, global 20201112.7937412
+COVID-19 update (485): animal, Italy, dog 20201111.7934864
+COVID-19 update (484): nasal antiviral, frozen food, reinfection, WHO, global 20201111.7933896
+COVID-19 update (483): vaccine efficacy, Americas region, WHO, global 20201110.7930703
+COVID-19 update (482): animal, Denmark, mink, zoonotic, eradication, discussed 20201109.7929573
+COVID-19 update (481): cytokine storm, test refusals, WHO, global 20201109.7927259
+COVID-19 update (480): animal, USA (WI) mink 20201108.7923387
+COVID-19 update (470): USA contact tracing, sewage, WHO, global 20201104.7915703
+COVID-19 update (460): variant 20A.EU1, Thailand, Sri Lanka, Yemen WHO, global 20201030.7902223
+COVID-19 update (450): animal, cattle, research, experimental infection 20201022.7883213
+COVID-19 update (440): children, RNA vaccines, WHO, global 20201015.7863738
+COVID-19 update (430): animal, USA (UT) mink 20201009.7847704
+COVID-19 update (420): ECMO, USA serosurvey, WHO, global 20200930.7824510
+COVID-19 update (410): ACE inhibitors and ARBs, WHO COVAX plan, WHO, global 20200922.7801717
+COVID-19 update (400): lockdowns, influenza co-infections WHO, global 20200914.7776512
+COVID-19 update (350): USA (TX) animal, cat 20200808.7658191
+COVID-19 update (300): Korea antibodies, China asymptomatic index case, WHO 20200703.7536146
+COVID-19 update (250): selected countries 20200610.7448037
+COVID-19 update (200): global, Yemen, WHO 20200522.7364937
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+Undiagnosed pediatric inflammatory syndrome (05): Europe, USA, COVID-19 assoc 20200518.7340554
+Undiagnosed pediatric inflammatory syndrome (04): USA, UK, PMIS, fatal 20200509.7315405
+Undiagnosed pediatric inflammatory syndrome (03): USA, Europe, COVID-19 susp, RFI 20200505.7299876
+COVID-19 update (150): global, USA state prisons, WHO 20200502.7290671
+COVID-19 update (100): China, S. Korea & high local transmission countries 20200413.7217806
+COVID-19 update (50): China (Hong Kong) animal dog, 2nd case PCR positive, OIE 20200323.7129951
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (41): China, global, clinical pics, asymptomatic trans., WHO 20200210.6976117
+Novel coronavirus (40): animal reservoir, pangolin poss intermediate host, RFI 20200210.6972104
+Novel coronavirus (30): updates, China, Viet Nam, research 20200202.6945658
+Novel coronavirus (20): China, wildlife trade ban 20200127.6922060
+Novel coronavirus (10): China (HU, GD, BJ) 20200119.6898567
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia: China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia: China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+---
+Undiagnosed pneumonia: China (HU): RFI 20191230.6864153
+and other items in the archives
+.................................................sb/mpp/mj/sh
+</body>

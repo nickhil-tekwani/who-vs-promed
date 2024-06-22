@@ -1,0 +1,228 @@
+<header id=015096>
+Published Date: 2020-11-13 04:32:04 EST
+Subject: PRO/AH/EDR> COVID-19 update (488): mobility models, crossover immunity, WHO, global
+Archive Number: 20201113.7940073
+</header>
+<body id=015096>
+CORONAVIRUS DISEASE 2019 UPDATE (488): MOBILITY MODELS, CROSSOVER IMMUNITY WHO, GLOBAL
+**************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] Mobility network models with recommendations on re-opening
+[2] Crossover immunity
+[3] WHO: daily new cases reported (as of 12 Nov 2020)
+[4] Global update: Worldometer accessed 12 Nov 2020 22:08 EST (GMT-5)
+
+******
+[1] Mobility network models with recommendations on re-opening
+Date: Tue 10 Nov 2020
+Source: Nature [edited]
+https://www.nature.com/articles/s41586-020-2923-3
+
+
+ref: Chang S, Pierson E, Koh PW, et al. Mobility network models of COVID-19 explain inequities and inform reopening. Nature. 2020; doi: 10.1038/s41586-020-2923-3. Epub ahead of print. PMID: 33171481.
+--------------------------------------------------------------------------------
+Abstract
+--------
+The COVID-19 pandemic dramatically changed human mobility patterns, necessitating epidemiological models which capture the effects of changes in mobility on virus spread1. We introduce a metapopulation SEIR [susceptible-exposure-infective-recovered] model that integrates fine-grained, dynamic mobility networks to simulate the spread of SARS-CoV-2 in 10 of the largest US metropolitan statistical areas. Derived from cell phone data, our mobility networks map the hourly movements of 98 million people from neighborhoods (census block groups, or CBGs) to points of interest (POIs) such as restaurants and religious establishments, connecting 57k CBGs to 553k POIs with 5.4 billion hourly edges. We show that by integrating these networks, a relatively simple SEIR model can accurately fit the real case trajectory, despite substantial changes in population behavior over time. Our model predicts that a small minority of "superspreader" POIs account for a large majority of infections and that restricting maximum occupancy at each POI is more effective than uniformly reducing mobility. Our model also correctly predicts higher infection rates among disadvantaged racial and socioeconomic groups2-8 solely from differences in mobility: we find that disadvantaged groups have not been able to reduce mobility as sharply, and that the POIs they visit are more crowded and therefore higher-risk. By capturing who is infected at which locations, our model supports detailed analyses that can inform more effective and equitable policy responses to COVID-19.
+
+----
+[Selected excerpts from the article (tables, figures, and references available at the source URL above)]:
+"A minority of POIs account for a majority of predicted infections We next investigated if how we reduce mobility -- that is, to which POIs -- matters. We computed the number of infections that occurred at each POI in our simulations from [1 Mar-2 May 2020], and found that a majority of predicted infections occurred at a small fraction of "superspreader" POIs; such as, in the Chicago metro area, 10% of POIs accounted for 85% (95% CI, 83%-87%) of the predicted infections at POIs (Figure 2b, Figure S10). Certain categories of POIs also contributed far more to infections (such as, full-service restaurants, hotels), although our model predicted time-dependent variation in how much each category contributed (ED Figure 2). For example, restaurants and fitness centers contributed less to predicted infections over time, likely due to lockdown orders closing these POIs, while grocery stores remained steady or even grew in their contribution, which concords with their status as essential businesses.
+
+"Reopening with reduced maximum occupancy
+"If a minority of POIs produce the majority of infections, then reopening strategies that specifically target high-risk POIs should be especially effective. To test one such strategy, we simulated reopening on [1 May 2020], and modeled the effects of reducing maximum occupancy in which the numbers of hourly visits to each POI returned to their "normal" levels from the 1stweek of March [2020] but were capped if they exceeded a fraction of the POI's maximum occupancy. Full reopening without reducing maximum occupancy produced a spike in predicted infections: in the Chicago metro area, our models projected that an additional 32% (95% CI, 25%-35%) of the population would be infected by the end of May (Figure 2c). However, reducing maximum occupancy substantially reduced risk without sharply reducing overall mobility: capping at 20% maximum occupancy in the Chicago metro area cut down predicted new infections by more than 80% but only lost 42% of overall visits, and we observed similar trends across other metro areas (ED Figure 3). This highlights the non-linearity of predicted infections as a function of visits: one can achieve a disproportionately large reduction in infections with a small reduction in visits. Furthermore, compared to another reopening strategy that uniformly reduced visits to each POI from their levels in early March, reducing maximum occupancy always resulted in fewer predicted infections for the same number of total visits (Figure 2c and ED Figure 4). This is because reduced maximum occupancy takes advantage of the time-varying visit density within each POI, disproportionately reducing visits to the POI during the most risky high-density periods, but leaving visit counts unchanged during less risky periods. These results support earlier findings that precise interventions, like reducing maximum occupancy, may be more effective than less targeted measures, while incurring substantially lower economic costs.
+
+"Relative risk of reopening different categories of POIs
+"Because we found that certain POI categories contributed far more to predicted infections in March (ED Figure 2), we also expected that reopening some POI categories would be riskier than reopening others. To assess this, we simulated reopening each category in turn on May 1 (by returning its mobility patterns to early March levels, as before), while keeping all other POIs at their reduced mobility levels from the end of April. We found large variation in predicted reopening risks: on average across metro areas, full-service restaurants, gyms, hotels, cafes, religious organizations, and limited-service restaurants produced the largest predicted increases in infections when reopened (ED Figure 5d). Reopening full-service restaurants was particularly risky: in the Chicago metro area, we predicted an additional 596k (95% CI, 434k-686k) infections by the end of May, more than triple the next riskiest POI category (Figure 2d). These risks are summed over all POIs in the category, but the relative risks after normalizing by the number of POIs were broadly similar (ED Figure 5c). These categories were predicted to more be dangerous because, in the mobility data, their POIs tended to have higher visit densities and/or visitors stayed there longer (Figures S15-S24).
+
+"Predicting disparities from mobility data
+"Despite only having access to mobility data and no demographic information, our models correctly predicted higher risks of infection among disadvantaged racial and socioeconomic groups2-8 . Across all metro areas, individuals from CBGs in the bottom decile for income were substantially likelier to have been infected by the end of the simulation, even though all individuals began with equal likelihoods of infection (Figure 3a). This predicted disparity was driven primarily by a few POI categories (such as full-service restaurants), which infected far larger proportions of lower-income CBGs than higher-income CBGs (Figure 3c and S2). We similarly found that CBGs with fewer white residents had higher predicted risks of infection, although results were more variable across metro areas (Figure 3b). In SI Discussion, we confirm that the magnitude of the disparities our model predicts are generally consistent with real-world disparities and further explore the large predicted disparities in Philadelphia, which stem from substantial differences in the POIs that are frequented by higher- versus lower-income CBGs. In the analysis below, we discuss two mechanisms producing higher predicted infection rates among lower-income CBGs, and we show in ED Figure 6 and ED Table 4 that similar results hold for racial disparities as well.
+
+"However, the predictive accuracy of our model suggests that it broadly captures the relationship between mobility and transmission, and we thus expect our broad conclusions -- such as, that people from lower-income CBGs have higher infection rates in part because they tend to visit denser POIs and because they have not reduced mobility by as much (likely because they cannot as easily work from home) -- to hold robustly. Our fine-grained network modeling approach naturally extends to other mobility datasets and models which capture more aspects of real-world transmission, and these represent interesting directions for future work. Our results can guide policymakers seeking to assess competing approaches to reopening. Despite growing concern about racial and socioeconomic disparities in infections and deaths, it has been difficult for policymakers to act on those concerns; they are currently operating without much evidence on the disparate impacts of reopening policies, prompting calls for research that both identifies the causes of observed disparities and suggests policy approaches to mitigate them. Our fine-grained mobility modeling addresses both these needs. Our results suggest that infection disparities are not the unavoidable consequence of factors that are difficult to address in the short term, like differences in preexisting conditions; on the contrary, short-term policy decisions can substantially affect infection outcomes by altering the overall amount of mobility allowed and the types of POIs reopened. Considering the disparate impact of reopening plans may lead policymakers to adopt policies that can drive down infection densities in disadvantaged neighborhoods by supporting, such as (1) more stringent caps on POI occupancies, (2) emergency food distribution centers to reduce densities in high-risk stores, (3) free and widely available testing in neighborhoods predicted to be high risk (especially given known disparities in access to tests), (4) improved paid leave policy or income supports that allow essential workers to curtail mobility when sick, and (5) improved workplace infection prevention for essential workers, such as high-quality PPE, good ventilation, and distancing when possible. As reopening policies continue to be debated, it is critical to build tools that can assess the effectiveness and equity of different approaches. We hope that our model, by capturing heterogeneity across POIs, demographic groups, and cities, helps address this need.
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[Cities included in this study are Atlanta, Chicago, Dallas, Houston, Los Angeles, Miami, New York, Philadelphia, San Francisco, and Washington, DC. A key observation was the relationship with restaurant dining and illness (SARS-CoV-2 transmission. And the increased in transmission in lower socioeconomic areas where mobility was increased and people spent more time in stores. Basically providing more data supporting the need to reduce capacities of indoor locations, better indoor "crowd control" and reconsider what venues should be targeted for temporary closures to reduce increasing transmission. - Mod.MPP]
+
+******
+[2] Crossover immunity
+Date: Tue 10 Nov 2020
+Source: The New York Times [edited][
+https://www.nytimes.com/2020/11/10/health/coronavirus-children.html
+
+
+It's been a big puzzle of the pandemic: Why are children so much less likely than adults to become infected with the new coronavirus and, if infected, less likely to become ill? A possible reason may be that many children already have antibodies to other coronaviruses, according to researchers at the Francis Crick Institute in London. About 1 in 5 of the colds that plague children are caused by viruses in this family. Antibodies to those viruses may also block SARS-CoV-2, the new coronavirus causing the pandemic.
+
+In a study published Friday [6 Nov 2020] in Science [see reference below], the group, led by George Kassiotis, who heads the Retroviral Immunology Laboratory at the institute, reports that on average only 5 percent of adults had these antibodies, but 43 percent of children did.
+
+Researchers who did not participate in the study were intrigued by the finding. H. Benjamin Larman, an immunologist at Johns Hopkins School of Medicine, called it a "well-done study that puts forward a compelling theory which is supported by their data."
+
+Stephen J Elledge, a genetics professor at Harvard Medical School and Brigham and Women's Hospital, had a similar response. He and others have found many people have antibodies to common colds caused by other coronaviruses; in laboratory studies, these antibodies also block the new coronavirus.
+
+In March [2020], as the pandemic was just beginning, Dr Kassiotis and his colleagues decided to develop a highly sensitive antibody test. To assess it, they examined blood samples taken before the pandemic from over 300 adults and 48 children and adolescents, comparing them with samples from more than 170 people who had been infected with the new coronavirus. The scientists expected samples taken before the pandemic to have no antibodies that attacked the new coronavirus. Those were to be the controls for the test the scientists were developing.
+
+Instead, they found that many children, and some adults, carried one antibody in particular that can prevent coronaviruses, including the new one, from entering cells. This antibody attaches itself to a spike that pokes out of coronaviruses. While the tip of the spike is unique to the new coronavirus, the base is found in all coronaviruses, Dr Kassiotis said. In lab tests, antibodies to the base of the spike prevented the new coronavirus from entering cells in order to reproduce.
+
+Now the researchers are planning to expand their study to monitor thousands of children and adults. Some have antibodies that can block the new coronavirus in lab tests. Others do not. "If they have the pandemic strain, are they protected?" Dr. Kassiotis asked. Will they get sick, he wondered, or will the infection be all but undetectable?
+
+Dr Elledge and his colleagues at Harvard developed their own highly specific, sensitive and exhaustive antibody test, VirScan. It is able to detect a diverse collection of antibodies that are directed at any of more than 800 places on the new coronavirus, including the antibody that Dr Kassiotis and his colleagues studied. After examining blood taken from 190 people before the pandemic emerged, Dr Elledge and his colleagues concluded that many already had antibodies, including the one targeting the base of the spike -- presumably from infections with related coronaviruses that cause colds.
+
+But while adults might get 1 or 2 colds a year, Dr Elledge said, children may get up to a dozen. As a result, many develop floods of coronavirus antibodies that are present almost continuously; they may lessen cold symptoms, or even leave children with colds that are symptomless but still infectious. While adults may not have detectable coronavirus antibodies, many may be able to quickly make antibodies if they are infected with a coronavirus.
+
+In typical viral infections, the immune system pours out antibodies to fight the virus. When the infection is quelled, the antibodies, no longer needed, diminish in number. But the body is left with so-called memory cells that allow antibody production to soar rapidly if the virus tries to invade again.
+
+Then why do we have a pandemic? Shouldn't most of us be protected by memory cells left by other coronavirus infections? "It is quite possible that you lose your memory over time," Dr Elledge said. He suspects that the new coronavirus may interfere with the activation of the memory cells able to respond to the infection. An infection "might give you a hazy memory that fades over time," he said. If so, a very recent infection with a common cold coronavirus would be needed to protect against the new coronavirus, and even then the protection might last only for a limited time.
+
+The new coronavirus would have hobbled the production of antibodies that specifically attack it. That might explain why children, with their seemingly continuous colds, are much better off than adults. Dr Elledge said that if he is right about the loss of memory cells, that bodes well for vaccines. A vaccine boosts antibody production without the presence of a virus. So the virus "is not in the background, messing up memory cell formation," he said.
+
+Another possibility is that most adults actually are protected by memory cells from previous infections with the common cold. Although few have enough antibodies in their blood to protect them at any given time, they may be able to quickly make antibodies to lessen the impact of the new coronavirus. That might explain why many adults who are infected recover quickly. "We focus on those who get really sick, but 95 to 98 percent of those who get the virus don't have to go to the hospital," Dr Elledge said. "There are a lot of people who do get better."
+
+That happened to Dr Larman and his family of 5. 4 of them got sick with COVID-19, the illness caused by the new coronavirus, in July [2020]. None were seriously ill, and his 4-year-old son was spared altogether. "My son was not isolated from us and therefore heavily exposed," Dr Larman said. "He tested negative twice, and so we certainly suspect that he had some form of pre-existing immunity."
+
+[Byline: Gina Kolata]
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[Reference
+----------
+Ng KW, Faulkner N, Cornish GH, et al. Preexisting and de novo humoral immunity to SARS-CoV-2 in humans. Preexisting and de novo humoral immunity to SARS-CoV-2 in humans. Science. 2020 Nov 6:eabe1107. doi: 10.1126/science.abe1107. Epub ahead of print. PMID: 33159009; https://science.sciencemag.org/content/early/2020/11/05/science.abe1107
+--------------------------------------------------------------------------------
+"Abstract
+---------
+"Zoonotic introduction of novel coronaviruses may encounter preexisting immunity in humans. Using diverse assays for antibodies recognizing SARS-CoV-2 proteins, we detect preexisting humoral immunity. SARS-CoV-2 spike glycoprotein (S)-reactive antibodies were detectable by a flow cytometry-based method in SARS-CoV-2-uninfected individuals and were particularly prevalent in children and adolescents. They were predominantly of the IgG class and targeted the S2 subunit. By contrast, SARS-CoV-2 infection induced higher titers of SARS-CoV-2 S-reactive IgG antibodies, targeting both the S1 and S2 subunits, and concomitant IgM and IgA antibodies, lasting throughout the observation period. Notably, SARS-CoV-2-uninfected donor sera exhibited specific neutralizing activity against SARS-CoV-2 and SARS-CoV-2 S pseudotypes. Distinguishing preexisting and de novo immunity will be critical for our understanding of susceptibility to and the natural course of SARS-CoV-2 infection."
+
+The observation and antibody study are convincing data. It may very well explain why there is a high proportion of asymptomatic and mild infections, but doesn't explain why there are superspreading events related to asymptomatic infections. A conundrum. Do individuals protected from serious disease with infection with the SARS-CoV-2 due to cross-over immunity have high viral titers and shed large amounts of virus into the environment? A key question to be addressed with implications for vaccine related protection.- Mod.MPP]
+
+******
+[3] WHO: daily new cases reported (as of 12 Nov 2020)
+Date: Thu 12 Nov 2020
+Source: WHO [abridged, edited]
+https://covid19.who.int/table
+
+
+*Daily case reports as of 12 Nov 2020 16:41 CET
+
+Surveillance
+------------
+WHO region (no. countries/territories):
+Total confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+------------------------
+Western Pacific Region (19): 783 547 (4734) / 16 251 (61)
+European Region (61): 14 184 665 (277 555) / 328 200 (4487)
+South East Asia Region (10): 9 855 189 (57 223) / 151 880 (689)
+Eastern Mediterranean Region (22): 3 440 152 (36 122) / 87 608 (867)
+Region of the Americas (54): 22 203 792 (197 747) / 665 827 (3432)
+African Region (49): 1 380 175 (5872) / 31 089 (132)
+Cases on an international conveyance (Diamond Princess): 741 (0) / 13 (0)
+
+Confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+Grand total: 51 848 261 (579 253) / 1 280 868 (9668)
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The number of countries and territories reporting confirmed cases of COVID-19 to WHO remains at 218.
+
+Data by country, area, or territory for 12 Nov 2020 can be accessed at https://promedmail.org/wp-content/uploads/world-pdf/WHO%20daily%20tablesNov12_1605224579.pdf.
+
+- The Americas region reported 34.1% of daily case numbers and 35.5% of the daily deaths reported in the past 24 hours, maintaining its position as the most severely affected region, having reported more than 22.2 million cases. The USA is dominant, followed by Brazil, Argentina, Colombia, Mexico, Canada, and Peru. Countries reporting more than 500 cases but less than 1000 in the past 24 hours include Costa Rica, Panama, Ecuador, Guatemala, Paraguay, and Martinique.
+
+- The European region reported 47.9% of daily case numbers and 46.4% of the daily deaths reported in the past 24 hours, and total cumulative cases reported exceed 14.1 million. Countries not reporting cases today (11 Nov 2020) include Israel, Sweden, Kazakhstan, and Bosnia and Herzegovina, among others. Countries reporting more than 10 000 cases in the past 24 hours include France, Italy, Poland, UK, Germany, Russia, Spain, and Ukraine. 21 additional countries reported more than 1000 new cases in the past 24 hours and 5 additional countries reported more than 550 but less than 1000 new cases.
+
+- The Eastern Mediterranean region reported 6.2% of daily case numbers and 9.0% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 3.44 million cases. Iran is dominant, with continuing record-breaking highs, followed by Morocco, Jordan, Iraq, Lebanon, Pakistan, Tunisia, and UAE. Libya, Kuwait, and Palestinian Authority each reported more than 500 cases but fewer than 1000, while Sudan, Somalia and Yemen have not reported any cases in the past 72 hours.
+
+- The African region reported 1.0% of daily case numbers and 1.4% of the deaths reported in the past 24 hours and has reported more than 1.38 million cases. South Africa is dominant, followed by Kenya, Algeria, Ethiopia, Uganda, Nigeria, Reunion, and Angola. Countries not reporting any new cases include Ghana, Cameroon, Madagascar, Botswana, and Mayotte among others.
+
+- The Western Pacific region reported 0.82% of daily case numbers and 0.63% of the deaths reported in the past 24 hours, having reported a cumulative total of 0.78 million cases. The Philippines is dominant followed by Japan, Malaysia, French Polynesia, South Korea, Guam, and China. Viet Nam reported 26 new cases/ 25 were Vietnamese citizens returning from Romania, the 26th returning from the USA (https://e.vnexpress.net/news/news/vietnam-confirms-26-new-imported-covid-19-cases-4190410.html)
+
+- The South East Asia region reported 9.9% of the daily newly reported cases and 7.1% of reported deaths in the past 24 hours, having reported a cumulative total of more than 9.8 million cases. As previously, India remains dominant, followed by Indonesia, Nepal, Bangladesh, Myanmar, and the Maldives. Sri Lanka did not report any new cases in the past 24 hours.
+
+Impression: There is a continued dominance of Europe and the Americas region with combined reports from these 2 regions representing 82% of both newly confirmed cases and newly reported deaths in the past 24 hours.
+
+On the Overview tab at the WHO source URL, the epidemic curve of confirmed COVID-19 cases by WHO region, 30 Dec 2019 through 12 Nov 2020, is an excellent visual representation of the pandemic. - Mod.MPP]
+
+******
+[4] Global update: Worldometer accessed 12 Nov 2020 22:08 EST (GMT-5)
+Date: Thu 12 Nov 2020
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at https://promedmail.org/wp-content/uploads/world-pdf/NOV12DATASET_1605240228.pdf.
+
+A 7-day series of cumulative data reported by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/NOV12WORLD7_1605240629.pdf. - Mod.MPP]
+
+Total number of reported deaths: 1 299 267
+Total number of worldwide cases: 53 085 762
+Number of newly confirmed cases in the past 24 hours: 653 579
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[In the past 24 hours, the USA (165 306), India (43 861), Italy (37 977), Brazil (34 640), UK (33 470), and France (33 172) have been dominant. A global total of 9738 deaths were reported in the past 24 hours (11-12 Nov 2020). The global total has now passed the 53 million mark, having crossed the 52 million mark 24 hours ago.
+
+Countries reporting more than 10 000 newly confirmed cases in the past 24 hours (14 countries) include the USA, India, Italy, Brazil, UK, France, Germany (23 462), Poland (22 683), Spain (21 775), Russia (21 608), Iran (11 517), Argentina (11 163), Ukraine (11 057), and Romania (10 142). A total of 58 countries reported more than 1000 cases in the past 24 hours; 33 of the 58 countries reporting more than 1000 newly confirmed cases are from the European region, 9 are from the Americas region, 8 are from the Eastern Mediterranean region, 5 are from the South East Asia region, 2 are from the Western Pacific region, and 1 is from the African region.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, case counts have increased by 9.8%, while daily reported deaths have increased by 11.5%. Looking at the same comparisons in the USA (which reported 25.3% of all newly reported cases in the past 24 hours), as the dominant country worldwide with clearly uncontrolled transmission, the 7-day change in daily reported cases is 35.0% and in reported deaths is 12.6%. In Italy, the dominant country in the European region the 7-day change in daily reported cases is 16.0% and in reported deaths is 64.1%. And in Iran, the dominant country in the Eastern Mediterranean region, the 7-day change in daily reported cases is 8.4% and in reported deaths is 23.5%.
+
+Impression: The global daily reported cases continue to increase with the daily increase now approaching 700 000 new cases. Countries in the European and the Americas regions are still showing the largest increases in daily new case counts, followed by the Eastern Mediterranean and the South East Asia regions. Italy has crossed the 1 million mark for cumulative reported cases, as has California in the USA. The growth in the USA is exponential with over 165 000 cases reported in the past 24 hours and the total number of reported deaths approaching a quarter of a million. - Mod.MPP]
+See Also
+COVID-19 update (487): Denmark, animal, mink, zoonotic, risk assessment ECDC 20201112.7939110
+COVID-19 update (486): mental health, mink, WHO, global 20201112.7937412
+COVID-19 update (485): animal, Italy, dog 20201111.7934864
+COVID-19 update (484): nasal antiviral, frozen food, reinfection, WHO, global 20201111.7933896
+COVID-19 update (483): vaccine efficacy, Americas region, WHO, global 20201110.7930703
+COVID-19 update (482): animal, Denmark, mink, zoonotic, eradication, discussed 20201109.7929573
+COVID-19 update (481): cytokine storm, test refusals, WHO, global 20201109.7927259
+COVID-19 update (480): animal, USA (WI) mink 20201108.7923387
+COVID-19 update (470): USA contact tracing, sewage, WHO, global 20201104.7915703
+COVID-19 update (460): variant 20A.EU1, Thailand, Sri Lanka, Yemen WHO, global 20201030.7902223
+COVID-19 update (450): animal, cattle, research, experimental infection 20201022.7883213
+COVID-19 update (440): children, RNA vaccines, WHO, global 20201015.7863738
+COVID-19 update (430): animal, USA (UT) mink 20201009.7847704
+COVID-19 update (420): ECMO, USA serosurvey, WHO, global 20200930.7824510
+COVID-19 update (410): ACE inhibitors and ARBs, WHO COVAX plan, WHO, global 20200922.7801717
+COVID-19 update (400): lockdowns, influenza co-infections WHO, global 20200914.7776512
+COVID-19 update (350): USA (TX) animal, cat 20200808.7658191
+COVID-19 update (300): Korea antibodies, China asymptomatic index case, WHO 20200703.7536146
+COVID-19 update (250): selected countries 20200610.7448037
+COVID-19 update (200): global, Yemen, WHO 20200522.7364937
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+Undiagnosed pediatric inflammatory syndrome (05): Europe, USA, COVID-19 assoc 20200518.7340554
+Undiagnosed pediatric inflammatory syndrome (04): USA, UK, PMIS, fatal 20200509.7315405
+Undiagnosed pediatric inflammatory syndrome (03): USA, Europe, COVID-19 susp, RFI 20200505.7299876
+COVID-19 update (150): global, USA state prisons, WHO 20200502.7290671
+COVID-19 update (100): China, S. Korea & high local transmission countries 20200413.7217806
+COVID-19 update (50): China (Hong Kong) animal dog, 2nd case PCR positive, OIE 20200323.7129951
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (41): China, global, clinical pics, asymptomatic trans., WHO 20200210.6976117
+Novel coronavirus (40): animal reservoir, pangolin poss intermediate host, RFI 20200210.6972104
+Novel coronavirus (30): updates, China, Viet Nam, research 20200202.6945658
+Novel coronavirus (20): China, wildlife trade ban 20200127.6922060
+Novel coronavirus (10): China (HU, GD, BJ) 20200119.6898567
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia: China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia: China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+----
+Undiagnosed pneumonia: China (HU): RFI 20191230.6864153
+and other items in the archives
+.................................................mpp/mj/lxl
+</body>

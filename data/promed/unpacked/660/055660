@@ -1,0 +1,370 @@
+<header id=055660>
+Published Date: 2020-07-19 08:49:50 EDT
+Subject: PRO/AH/EDR> COVID-19 update (323): serial infection, Japan, selected countries, WHO, global
+Archive Number: 20200719.7589922
+</header>
+<body id=055660>
+CORONAVIRUS DISEASE 2019 UPDATE (323): SERIAL INFECTION, JAPAN, SELECTED COUNTRIES, WHO, GLOBAL
+***********************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+[An editorial decision has been made to significantly shorten the update posts. As many subscribers have considered us "one-stop shopping" for data on this pandemic, we will continue to post links to the data sources we have used; we just won't be reproducing the tables within the post. The absence of data tables does not mean that we are not monitoring the situation. - Mod.UBA]
+
+In this update:
+[1a & b] Serial Infections: Impact of co-circulating strains
+[2] Japan: Sharp rise in cases
+[3] Selected countries
+[4] WHO situation report 180 (as of 18 Jul 2020)
+[5] Global update: Worldometer accessed 18 Jul 2020 21:56 EDT (GMT-4)
+
+******
+[1a] Serial Infections: Impact of co-circulating strains
+Date: Fri 17 Jul 2020
+Source: South China Morning Post [edited]
+https://www.scmp.com/news/world/article/3093690/coronavirus-are-2-strains-together-deadlier-one
+
+
+Different strains of the new coronavirus could be infecting people in some communities at once, pushing up the death toll from the disease, according to a new study. Researchers from the UC Berkeley school of public health said variations of the pathogen circulating in Europe and the United States could be causing "serial infections" in some people, confusing the immune system and triggering an overreaction or even death. "If one strain is still highly prevalent, the situation should be closely monitored, especially for severe disease occurrence, and social distancing should still be maintained to make sure the 2nd strain doesn't get introduced," Lee Riley, professor and chair of the division of infectious disease and vaccinology at the school and lead author of the study, told the South China Morning Post.
+
+The team's findings, which have not been peer-reviewed, were posted on the preprint service medRxiv.org on Wednesday [15 Jul 2020].
+
+Previous studies found that as Sars-CoV-2, the official name for the coronavirus that causes Covid-19, spread from person to person, it acquired an important mutation called D614G. This mutation could improve the physical stability of its spike protein and make it more infectious, according to some research.
+
+--
+communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The concept of serial infections may partly explain individuals reporting mild symptoms in the 1st exposure and subsequent exposure to a variant resulting in a dengue-like exaggerated immune response with more severe symptoms; more data is obviously needed to validate whether these are re-infections by genetic variants or repeated infection by the same strains, how vulnerable a less than perfect immune response to the virus leaves the infected, and its implications for the effectiveness of a vaccine. - Mod.UBA]
+
+******
+[1b] Dissemination and co-circulation of SARS-CoV2 subclades exhibiting enhanced transmission
+Date: Wed 15 Jul 2020
+Source: medRxiv [edited]
+https://www.medrxiv.org/content/10.1101/2020.07.13.20152959v1.full.pdf
+
+
+Abstract
+Mechanisms underlying the acute respiratory distress syndrome (ARDS)-like clinical manifestations leading to deaths in patients who develop COVID-19 remain uncharacterized. While multiple factors could influence these clinical outcomes, we explored if differences in transmissibility and pathogenicity of SARS-CoV2 variants could contribute to these terminal clinical consequences of COVID-19. We analyzed 34 412 SARS-CoV2 sequences deposited in the Global Initiative for Sharing All Influenza Data (GISAID) SARS-CoV2 sequence database to determine if regional differences in circulating strain variants correlated with increased mortality in Europe, the United States, and California. We found 2 subclades descending from the Wuhan HU-1 strain that rapidly became dominant in Western Europe and the United States. These variants contained nonsynonymous nucleotide mutations in the Orf1ab segment encoding RNA-dependent RNA polymerase (C14408T), the spike protein gene (A23403G), and Orf1a (G25563T), which resulted in non-conservative amino acid substitutions P323L, D614G, and Q57H, respectively. In Western Europe, the A23403G-C14408T subclade dominated, while in the US, the A23403G-C14408T-G25563T mutant became the dominant strain in New York and parts of California. The high cumulative frequencies of both subclades showed inconsistent but significant association with high cumulative CFRs in some of the regions. When the frequencies of the subclades were analyzed by their 7-day moving averages across each epidemic, we found co-circulation of both subclades to temporally correlate with peak mortality periods. We postulate that in areas with high numbers of these co-circulating subclades, a person may get serially infected. The 2nd infection may trigger a hyperinflammatory response similar to the antibody-dependent enhancement (ADE) response, which could explain the ARDS-like manifestations observed in people with co-morbidity, who may not mount sufficient levels of neutralizing antibodies against the 1st infection. Further studies are necessary but the implication of such a mechanism will need to be considered for all current COVID-19 vaccine designs.
+
+Discussion summary
+------------------
+- This genomic analysis of 34 412 SARS-CoV2 sequences deposited in the GISAID database found 2 dominant subclades of the virus co-circulating in Europe and the United States derived from the Wuhan HU-1 strain isolated in China in December 2019.
+- The dominant subclades were significantly associated with some of the high cumulative CFR [case fatality rate] regions in Western Europe, the United States, and in California, even after controlling for differences in the initiation of social distancing measures, population age structure, prevalence of diabetes mellitus or hypertension, number of hospital beds/1000 population, and number of RT-PCR tests/1 million population done.
+- In the United Kingdom, the cumulative proportion of the A23403G-C14408T-G25563T mutant was low (6.4%) but the UK's CFR was one of the highest in Europe at 14%. The UK reported more than 255 000 cases and 40 000 deaths at the end of 1st week of June 2020. Thus, in regions where the case numbers are high, the numbers of these circulating dominant mutants would also be high, even if the relative proportion of one may be low. Part of the high mortality rate of COVID-19 observed in the UK, therefore, could still be related to the high level of co-circulation of these dominant strains (figure 2, table 2 - see source URL).
+- In California, Santa Clara county reported a high cumulative CFR (5.1%) relative to San Francisco at 1.6%. The 2 mutants together accounted for over 90% of the strains circulating in Santa Clara in late March 2020 but both fell rapidly to less than 5% by early April 2020 (figure 3). It should be noted that this county reported less than 3000 cases and 150 deaths at the end of 1st week in June 2020.
+- The co-circulation of dominant SARS-CoV2 subclades raises a disturbing possibility that people living in places with high prevalence of co-circulating strains may get serially infected with each variant. The 2nd infection may trigger an immune response not unlike the antibody-dependent enhancement (ADE) observed in diseases such as dengue. In settings where a population gets serially exposed to different strains of the dengue virus, the exposed individuals may mount varying levels of heterotypic antibody response directed at the different viral strain that do not neutralize but enhance binding of the strain to enter host cells (10). Infected with SARS-CoV2, those with underlying medical conditions are likely to mount lower levels of neutralizing antibody response to the 1st infection, putting them at risk for ADE-like response during the 2nd infection.
+
+--
+communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The full pdf version can be accessed doi: https://doi.org/10.1101/2020.07.13.20152959. - Mod.UBA]
+
+******
+[2] Japan: Sharp rise in cases
+Date: Fri 17 Jul 2020
+Source: NHK [edited]
+https://www3.nhk.or.jp/news/html/20200717/k10012520301000.html
+
+
+The Tokyo Metropolitan Government announced on 17 Jul 2020 that it had confirmed that 293 people in Tokyo [under the age of 10 to 90. sic] were newly infected with the new coronavirus. The number confirmed per day in Tokyo exceeded the number of 286 people on the previous day, 16 Jul 2020, [which was ]the highest number [to date].
+
+According to the capital, out of 293 people, the total number of people in their 20s and 30s was 210, accounting for more than 70% of the total, while the total number of people in their 40s and 50s was 58, close to 20% of the total.
+
+151 out of [the] 293 people were close contacts of people confirmed to have been infected [already], and the infection route of the remaining 142 people is not yet known. 69 of the 293 are employees and customers at host clubs, cabaret clubs, and other stores that entertain. Of these, 49 were in the Shinjuku area.
+
+In addition, there are 24 diners, 10 at facilities such as nursing homes and medical institutions, 16 at home, 15 at work, and guests at stage performances in theaters in Shinjuku Ward. Also, 10 students were infected at a training camp in the sports club of Chuo University.
+
+This makes a total of 8933 people confirmed infected in Tokyo. But no deaths were confirmed on 17 Jul 2020 in Tokyo.
+
+Tokyo is aiming to increase the number of beds for patients from 1000 to 2800 in response to the increase in the number of people infected with the new coronavirus. As of 16 Jul 2020, the number of beds actually secured was over 1500. Experts are concerned that the speed of increasing patients may exceed the number of beds.
+
+--
+communicated by:
+ProMED-mail
+<promed@promedmail.org>
+and
+ProMED-mail rapporteur Kunihiko Iizuka
+
+******
+[3] Selected countries
+[A] China: National Health Commission, 83 660 total cases, 4634 deaths
+[B] South Korea: 13 745 confirmed cases, 295 deaths
+[C] Italy: 244 216 total cases, 35 042 deaths
+[D] Iran: 271 606 total cases, 13 979 deaths
+[E] USA: 3 833 271 total cases, 142 877 deaths
+
+[These countries have been selected based on having had significant surges with SARS-CoV-2 infections, but different responses. In some cases, transmission was almost interrupted, but resurgences have occurred, and countries have handled them differently. One observation is that lifting of restrictions has led to major resurgences in some areas; in others, early new threats seem to be importations, but community spread does recur. Good contact tracing has helped to shorten the time with new clusters, and temporary new restrictions have impacted. Countries not implementing restrictions have done more poorly with major resurgences. - Mod.UBA]
+
+----
+[A] China: National Health Commission, 83 660 total cases, 4634 deaths
+Date: Sun 19 Jul 2020
+Source: China National Health Commission [abridged, edited]
+http://en.nhc.gov.cn/2020-07/19/c_81112.htm
+
+
+On 18 Jul 2020 (as of midnight 19 Jul 2020):
+- 16 new cases of confirmed infections (3 imported cases, 2 in Guangdong province and 1 in Shandong province; 13 indigenous cases in Xinjiang Uygur autonomous region), 1 new case of suspected infections (an imported case in Shanghai municipality), and no deaths.
+- A total of 2007 imported cases have been reported.
+- 83 660 confirmed cases and 4634 deaths; 78 775 recovered and discharged from hospital; 771 589 close contacts with infected patients; and 6925 are under medical observation.
+- 42 new asymptomatic cases (including 12 imported); no asymptomatic cases confirmed as symptomatic; 147 asymptomatic cases under medical observation (including 87 imported cases).
+- 1777 cases in Hong Kong [an increase of 64 cases since 17 Jul 2020], 46 in Macau and 454 in Taiwan.
+
+--
+communicated by:
+ProMED-mail
+<promed@promedmail.org>
+and
+ProMED-mail rapporteur Kunihiko Iizuka
+
+[There were 16 new confirmed cases in the past 24 hours; 3 were imported, and 13 were locally acquired in Xinjiang Uygur autonomous region. While it is now 13 days with no new cases reported from Beijing, it appears another cluster is under way in Xinjiang Uygur autonomous region. According to another media report, the area will do mass testing.
+
+There were 42 newly confirmed infections in asymptomatic individuals (12 imported) and no new conversions from asymptomatic to symptomatic in the past 24 hours. Since 18 May 2020, China has reported 37 cases of conversion from asymptomatic to symptomatic infection.
+
+Hong Kong reported 64 new cases. The CHP HK page, however, mentions a total case number of 1778 cases in Hong Kong so far (comprising 1777 confirmed cases and one probable case). The newly reported cases announced today [19 Jul 2020] involve 23 males and 41 females aged between 16 and 86 years. Among them, 4 had travel history during the incubation period. (https://www.info.gov.hk/gia/general/202007/16/P2020071600800.htm).
+
+Takeaway message: China continues to have importations of infected individuals with SARS-CoV-2. Hong Kong is dealing with increased local transmission associated with the lifting of restrictions; new severe restrictions have been announced.
+
+A map of China showing provinces can be seen at https://sacu.org/wp-content/uploads/2019/01/provmap.png and a HealthMap/ProMED map at https://promedmail.org/promed-post?place=7589922,155. - Mod.UBA]
+
+----
+[B] South Korea: 13 745 confirmed cases, 295 deaths
+Date: Sun 19 Jul 2020
+Source: Ministry of Health and Welfare [in English, abridged, edited]
+http://ncov.mohw.go.kr/en/bdBoardList.do?brdId=16&brdGubun=162&dataGubun=&ncvContSeq=&contSeq=&board_id=
+
+[Please note that while the data go through 00:00 19 Jul 2020, in actuality, they cover all newly reported cases and deaths occurring on 18 Jul 2020. - Mod.UBA]
+
+18 Jul 2020 0:00 AM KT 13 711 confirmed cases, 294 deaths
+19 Jul 2020 0:00 AM KT 13 745 confirmed cases, 295 deaths
+
+Change: 34 newly confirmed infections; 1 new death
+
+[The table with distribution by provinces is available at the source URL above. - Mod.UBA]
+
+--
+communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[In the past 24 hours, according to the report at the source URL, the tally of confirmed cases of COVID-19 in South Korea has increased by 34 cases with 1 new death, compared with 39 cases and 0 new deaths in the previous day (17 Jul 2020). The daily newly confirmed case count has been at or below 100 for 95 consecutive days. There were 21 locally transmitted cases: Seoul (10), Gwangju (10), and Daejeon (1); and 13 imported cases: airport quarantine (7), Gyeonggi (4), and Jeju (1). 11 provinces reported no newly confirmed cases (compared with 8 provinces yesterday, 17 Jul 2020).
+
+Detailed updates on the 34 cases reported yesterday (18 Jul 2020) including information on clusters can be found in notices 443 and 444, at https://www.cdc.go.kr/board/board.es?mid=&bid=0030.
+
+The overall impression hasn't changed. Lifting of measures has been accompanied by increases in locally acquired infections through increasing clusters related to gatherings of people at employment (bringing it outside employment to contacts) and in houses of worship, and bars and clubs. However, that being said, importations are also playing a major role in the country as well. The increase in cases in the past few days has been paralleled by increases in reported deaths.
+
+A map of South Korea showing provinces can be seen at https://www.nationsonline.org/oneworld/map/korea-south-administrative-map.htm and a HealthMap/ProMED map at https://promedmail.org/promed-post?place=7589922,195. - Mod.UBA]
+
+----
+[C] Italy: 244 216 total cases, 35 042 deaths
+Date: Sat 18 Jul 2020
+Source: Italian Government Health Ministry [edited]
+https://www.albengacorsara.it/doc/dpc-covid19-ita-scheda-regioni-17-7-2020.pdf
+
+
+Health monitoring data on the spread of the new coronavirus released on 18 Jul 2020. [These figures come from the table published for the day, recognizing that there have been adjustments in some of the data from previous tables. I've just learned that the daily files are not retrievable going back in time. The file we used with 18 Jul 2020 data is available at https://promedmail.org/wp-content/uploads/world-pdf/dpc-covid19-ita-scheda-regioni-latest(1)_1595153745.pdf. - Mod.UBA]:
+
+- 244 216 cumulative cases (+249)
+- 12 368 people are currently positive for the virus (-88);
+- 196 806 people have recovered (+323);
+- 757 patients are hospitalized with symptoms (-14), 50 in intensive care, and 11 561 (-74) are in home isolation;
+- 35 042 deaths have been reported (+14).
+
+--
+communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The tally of confirmed cases of COVID-19 in Italy is up by +249 cases and +14 deaths in the past 24 hours. The previous day's (16 Jul 2020) 24-hour change was +233 cases and +11 deaths. The numbers of hospitalized cases increased slightly, but cases in intensive care units are still in a slow decline.
+
+Cases still continue to be concentrated in Lombardy, Veneto and Emilia-Romagna, the main provinces at the original epicenter of the outbreak (see tables at the link on the source URL to "download the latest data"). The provinces reporting the largest numbers of newly confirmed cases in the 24-hour period are Lombardy (88), Emilia-Romagna (40) and Veneto (34); Lazio (20), Liguria (18) and Campania (15) are the other provinces reporting 10 or more cases. A total of 15 provinces reported fewer than 10 newly confirmed cases (3 provinces reported no new cases). Italy is now 73 days post phase 2 initial opening up and 57 days post 2nd stage of phase 2 opening up. For more detailed information on the outbreak, I suggest going to the source URL above.
+
+Interpretation: So far so good, but there are periodic signs of localized increased transmission. Time will tell.
+
+A map of Italy showing regions can be seen at https://www.mapsofworld.com/italy/regions.html and a HealthMap/ProMED map at https://promedmail.org/promed-post?place=7589922,75. - Mod.UBA]
+
+----
+[D] Iran: 271 606 total cases, 13 979 deaths
+Date: Sat 18 Jul 2020 14:05 GMT
+Source: IRNA, AP, and Reuters [edited]
+https://www.rferl.org/a/rohani-coronavirus-25-million-iranians-infected/30734897.html
+
+Iranian president, Hassan Rohani, on 18 Jul 2020 estimated that as many as 25 million Iranians could have been infected with the coronavirus since the beginning of the outbreak, as he urged the public to take the pandemic seriously. Rohani cited a new study by the Health Ministry in offering the unprecedentedly high number of 25 million coronavirus cases. Iran's population is around 81 million people. "Our estimate is that until now 25 million Iranians have been infected with this virus and about 14 000 have lost their dear lives," Rohani said.
+
+"The report says that there is the possibility that between 30 and 35 million other people will be at risk," he said. Rohani said more than 200 000 people had been hospitalized, while adding that the number was expected to double in the coming months. He did not say what the report's estimates were based on. The study has so far not been made public.
+
+Experts and others have long said that real numbers of coronavirus cases in Iran are higher than the confirmed figures. A parliamentary report released in April 2020 said Iran's death toll is likely nearly double the officially reported figures. Given insufficient testing, the report said the number of people infected at the time was probably "8 to 10 times" higher than the confirmed figures.
+
+According to the latest figures released by the Health Ministry on 18 Jul 2020, Iran has 271 606 infections while the death toll stands at 13 979. In recent weeks, Iran has seen a surge in its daily death toll.
+
+Authorities on 18 Jul 2020 reimposed one-week restrictions in the capital, Tehran, including banning religious and cultural functions, closing cafes, indoor pools, amusement parks, and zoos in an effort to contain the deadly pandemic.
+
+--
+communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[As of 18 Jul 2020, the total number of cases of COVID-19 confirmed in Iran is 271 606, including 13 979 deaths, an increase of 2166 cases and 188 deaths since 17 Jul 2020. According to another media report, there are now 8 provinces with the highest incidences of COVID-19 in the country (Khuzestan, Razavi Khorasan, East and West Azerbaijan, Mazandaran, Golestan, Bushehr, and Hormozgan) and an additional 6 provinces at high risk (Tehran, Fars, Kerman, Alborz, Kohgiluyeh, and Boyer-Ahmad; https://www.aa.com.tr/en/asia-pacific/iran-reports-over-180-more-virus-fatalities/1913846).
+
+A map of Iran showing provinces can be seen at https://www.mapsofworld.com/iran/iran-political-map.html and a HealthMap/ProMED map at https://promedmail.org/promed-post?place=7589922,128. - Mod.UBA]
+
+----
+[E] USA: 3 833 271 total cases, 142 877 deaths
+Date: Sat 18 Jul 2020
+Source: Worldometer [accessed 22:17 EDT (GMT-4)] [edited]
+https://www.worldometers.info/coronavirus/country/us/
+
+
+[For those who are interested, a pdf snapshot of the full data Worldometer table at the time we accessed it is available at https://promedmail.org/wp-content/uploads/usa-pdf/JULY18USDATASET_1595152183.pdf.
+
+A 7-day series of cumulative reported cases by states, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/usa-pdf/JULY18US7_1595152307.pdf. - Mod.UBA]
+
+All USA total: 3 833 271 / 74 987 newly confirmed cases
+Total deaths: 142 877
+
+--
+communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The total number of confirmed cases in the USA and territories is now 3 833 271 including 142 877 deaths, an increase from 3 770 012 cases and 142 064 deaths in the past 24 hours. New York City had a cumulative total of 217 895 cases as of 13:00 EDT (GMT-4) on 18 Jul 2020 (+333 since 17 Jul 2020) including 18 771 (+13 since 17 Jul 2020) confirmed deaths and an additional 4617 probable deaths (https://www1.nyc.gov/site/doh/covid/covid-19-data.page).
+
+The top 10 states in terms of daily reported cases in descending order are Florida, California, Texas, Arizona, Georgia, Tennessee, North Carolina, Alabama, South Carolina and Ohio. Note that 6 of the 10 states are located in the south east region of the country. This list includes states that are showing major increases in daily cases reported beginning with the lifting of restrictions around the end of May 2020. All of the top 10 states reported more than 1000 newly confirmed cases in the past 24 hours, with the range being 1538 to 10 328. In terms of cumulative case reports, the order is unchanged from previous days with New York as number one, followed by California, Florida, Texas, New Jersey, Illinois, Arizona, Georgia, Massachusetts, and Pennsylvania. A total of 45 states and entities now have reported more than 10 000 cumulative cases each.
+
+In the past 24 hours, the proportional increase of newly confirmed cases was 2.0%. The 7-day average of newly confirmed cases for the past 7 days is 19.2% higher than the 7-day average for the preceding 7 days, consistent with the ongoing pandemic in the country, but gradually slowing down, but may reflect a change in reporting in the USA that began on Mon 13 Jul 2020.
+
+The Centers for Disease Control and Prevention website (https://www.cdc.gov/coronavirus/2019-ncov/covid-data/covidview/index.html) has data on cases, hospitalization, testing, and epidemiologic variables such as age, race, ILI (influenza-like illness), surveillance, and emergency room visits, which are definitely worth reviewing, as a welcome series of analyses. According to the CDC data, as of 18 Jul 2020, the percentage of laboratory specimens testing positive for SARS-CoV-2 with a molecular assay remains at 9% out of 47 313 367 tests performed, consistent with the ongoing, not-yet-under-control pandemic in the country (https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/testing-in-us.html).
+
+A map of the United States can be seen at http://www.mapsofworld.com/usa/ and a HealthMap/ProMED map at https://promedmail.org/promed-post?place=7589922,106. - Mod.UBA]
+
+******
+[4] WHO situation report 180 (as of 18 Jul 2020)
+Date: Sat18 Jul 2020
+Source: WHO [abridged, edited]
+https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200718-covid-19-sitrep-180.pdf?sfvrsn=39b31718_2
+
+
+*The situation report includes information provided by national authorities as of 10:00 CEST, 18 Jul 2020.
+
+Highlights
+----------
+- WHO has published an interim checklist for local authorities on practical actions in cities to strengthen preparedness for the COVID-19 pandemic and beyond. The checklist accompanies the interim guidance on strengthening preparedness for COVID-19 in cities and urban settings.
+-The WHO Regional Office for Europe joined the International Labour Organization (ILO) and UNICEF to issue a policy paper on how to strengthen protection against, and address, social and economic shocks such as those caused by the pandemic.
+- Ghana's nurses are delivering child healthcare services to communities in need amid COVID-19. Segla, a community nurse who provides preventive healthcare to children in the north of Accra, emphasized the importance of visiting households if pediatric patients do not attend clinics due to COVID-19
+
+[Links to all documents mentioned are available at the source URL above. - Mod.UBA]
+
+Surveillance
+------------
+[The following data come from the "Situation in numbers" section. The regional case totals are inclusive of China. - Mod.UBA]
+
+WHO region (no. countries/territories): Total confirmed cases (new) / Total deaths (new)
+Western Pacific Region (19): 256 788 (3293) / 7888 (22)
+European Region (61): 3 042 330 (33 358) / 206 684 (1202)
+South East Asia Region (10): 1 347 954 (39 513) / 32 907 (807)
+Eastern Mediterranean Region (22): 1 360 791 (13 809) / 33 738 (457)
+Region of the Americas (54): 7 306 371 (151 531) / 302 508 (4653)
+African Region (49): 561 466 (18 344) / 9349 (219)
+Cases on an international conveyance (Diamond Princess): 712 (0) / 13 (0)
+
+Confirmed cases (new conf cases) / Total deaths (new deaths)
+Grand total: 13 876 441 (259 848) / 593 087 (7360)
+
+--
+communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The number of countries and territories reporting confirmed cases of COVID-19 to WHO remains at 215.
+
+In the 24 hours since the last WHO update:
+
+- The Americas region reported 58.3% of the global newly reported cases and 63.2% of newly reported deaths for this 24-hour period, maintaining its dominance as the most severely affected region, having reported more than 7 million cases. The USA reported 47.2% (71 484) of the newly confirmed cases in the region, and Brazil reported 29.9% (45 403), Colombia 5.3% (8037), Mexico 4.2% (6406), Peru 2.5% (3862), Argentina 2.4% (3623), and Chile 1.8% (2841).
+
+- The European region reported 12.8% of the global newly reported cases and 16.3% of the newly confirmed deaths globally. Kyrgyzstan reported 35.6% (11 883) of the regional newly confirmed cases, followed by Russia reporting 18.6% (6234), Israel 5.8% (1946), Kazakhstan 5.4% (1808), Spain 4.2% (1400), Turkey 2.7% (926), Ukraine 2.5% (847), Romania 2.4% (799), the UK 2.0% (687), France 1.8 % (627), Uzbekistan 1.6% (547), Germany 1.5% (529), Azerbaijan 1.4% (471), and Armenia 1.3% (461).
+
+- The Eastern Mediterranean region reported 5.3% of the global newly reported cases and 6.2% of global newly reported fatalities. Saudi Arabia reported 18.9% (2613) of the regional newly reported cases, followed by Iran 17.2% (2379), Iraq 14.6% (2023), Pakistan 13.8% (1918), Oman 11.7% (1619), Egypt 5.1% (703), Kuwait 4.0% (553), Qatar 3.0% (421), and Bahrain 2.8% (389).
+
+- The African region reported 7.1% of the global newly reported cases and 2.9% of newly reported fatalities. South Africa reported 72.9% (13 373) of the newly reported cases in the region in the past 24 hours, followed by Nigeria 3.3% (600), Algeria 3.2% (593), Ghana 2.4% (447), Kenya 2.1% (389) and Madagascar 2.0% (378).
+
+- The Western Pacific region reported 1.3% of the global newly reported cases and 0.29% of global deaths. The Philippines reported 52.6% (1735) of the newly reported cases in the region, followed by Japan 20.0% (659), Australia 12.9% (425), Singapore 9.9% (327), China 2.4% (82), and South Korea 1.2% (39).
+
+- The South East Asia region reported 15.2% of the global newly reported cases and 10.9% of global deaths. India reported 88.3% (34 884) of newly reported cases in the region, followed by Bangladesh 7.6% (3034) and Indonesia 3.7% (1462).
+
+Impression: The overall picture is basically the same. The ordering of the regions has the Americas having the highest disease load and newly confirmed cases on a daily basis, followed by the South East Asia region, then Europe followed by the Eastern Mediterranean, followed by the Africa region and the Western Pacific representing the lowest daily caseload of all of the regions. The progression has been the initial "surge" in the Western Pacific region, followed by the surge in the European region and its decline, the entry and surging of the Americas region without any decrease, and the gradual and persistent increase in the South East Asia region, the increase then plateauing of the Eastern Mediterranean region, and the slow but steady increase in the Africa region and a slight increase in the Western Pacific region today [18 Jul 2020].
+
+Figure 2. The epidemic curve of confirmed COVID-19 cases by date of report and WHO region, 30 Dec 2019 through 18 Jul 2020, at the source URL above is an excellent visual representation of the epidemic as described in the above text. - Mod.UBA]
+
+******
+[4] Global update: Worldometer accessed 18 Jul 2020 21:56 EDT (GMT-4)
+Date: Sat 18 Jul 2020
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/
+
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at https://promedmail.org/wp-content/uploads/world-pdf/JULY18DATASET_1595152350.pdf.
+
+A 7-day series of cumulative reported cases by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/JULY18WORLD7_1595152394.pdf. - Mod.UBA]
+
+Total number of reported deaths: 604 243
+Total number of worldwide cases: 14 414 748
+Number of newly confirmed cases in the past 24 hours: 244 362
+
+--
+communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[According to the data on the Worldometer website, the total number of reported cases of COVID-19 worldwide is now 14 414 748, with reports of cases by 217 countries and territories worldwide. The global case count rose by 1.7% in the past 24 hours. The USA and Brazil are still the most severely affected countries in terms of cumulative case counts, although India crossed the one million case mark on 16 Jul 2020.
+
+In the past 24 hours, the USA reported the most newly confirmed cases (63 259) followed by India (37 407) and Brazil (26 549). The total cumulative case counts for the top 5 countries (USA, Brazil, India, Russia, and South Africa) represent over half of the total cases reported globally (56.1%). A global total of 604 243 deaths have been reported, an increase of 4904 deaths in the past 24 hours.
+
+In descending rank order, the USA is number one for the number of newly confirmed cases in the past 24 hours, followed by India, Brazil, South Africa, Colombia, Mexico, Russia, Peru, Argentina, and Bangladesh. These 10 countries are the same as 3 days ago, just slight variances in order (15 Jul 2020). All these countries are currently experiencing major community-based transmission and considered global hot spots. The range in the top 10 daily newly confirmed cases goes from 2709 to 63 259. The number of daily newly confirmed cases is climbing rapidly in the USA. Also worthy of note is that 6 of the top 10 countries for daily reported newly confirmed cases are from the Americas region, consistent with the continued dominance of SARS-CoV-2 activity in this region.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, there is an increase of 9.0%, again consistent with the ongoing pandemic but slowing down in terms of daily growth.
+
+Impression: The SARS-CoV-2 is still actively being transmitted in all regions of the world, and many countries are showing increases in their daily newly confirmed case counts. That being said, the most severely affected region is the Americas, with cases increasing on a daily basis even though the comparative 7-day average suggests things may be slowing down (or reporting is slowing down). - Mod.UBA]
+See Also
+COVID-19 update (321): airborne transmission & air conditioning, WHO, global 20200718.7587301
+COVID-19 update (320): Africa, selected countries, WHO, global 20200717.7583377
+COVID-19 update (319): Spain (AR) animal, farmed mink, 1st rep 20200717.7584560
+COVID-19 update (318): masks, meat plants, selected countries, WHO, global 20200716.7580042
+COVID-19 update (317): Netherlands (NB) animal, farmed mink, spread 20200716.7578453
+COVID-19 update (316): UK farm workers, Japan US military, WHO, global 20200715.7576001
+COVID-19 update (315): Canada genetics, health worker safety, WHO, global 20200714.7572186
+COVID-19 update (314): waning antibodies, selected countries, WHO, global 20200713.7568217
+COVID-19 update (313): UK mortality study, selected countries, WHO, global 20200712.7566834
+COVID-19 update (312): China, SARS-CoV2 origin, animal reservoir, WHO mission 20200711.7565035
+COVID-19 update (311): Kazakhstan pneumonia, UK, USA mortality risks, WHO 20200711.7563337
+COVID-19 update (310): Kazakhstan pneumonia, selected countries, WHO, global, RFI 20200710.7560034
+COVID-19 update (300): Korea antibodies, China asymptomatic index case, WHO 20200703.7536146
+COVID-19 update (250): selected countries 20200610.7448037
+COVID-19 update (200): global, Yemen, WHO 20200522.7364937
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+Undiagnosed pediatric inflammatory syndrome (05): Europe, USA, COVID-19 assoc 20200518.7340554
+Undiagnosed pediatric inflammatory syndrome (04): USA, UK, PMIS, fatal 20200509.7315405
+Undiagnosed pediatric inflammatory syndrome (03): USA, Europe, COVID-19 susp, RFI 20200505.7299876
+COVID-19 update (150): global, USA state prisons, WHO 20200502.7290671
+COVID-19 update (100): China, S. Korea & high local transmission countries 20200413.7217806
+COVID-19 update (50): China (Hong Kong) animal dog, 2nd case PCR positive, OIE 20200323.7129951
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (41): China, global, clinical pics, asymptomatic trans., WHO 20200210.6976117
+Novel coronavirus (40): animal reservoir, pangolin poss intermediate host, RFI 20200210.6972104
+Novel coronavirus (30): updates, China, Viet Nam, research 20200202.6945658
+Novel coronavirus (20): China, wildlife trade ban 20200127.6922060
+Novel coronavirus (10): China (HU, GD, BJ) 20200119.6898567
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia - China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia - China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+---
+Undiagnosed pneumonia - China (HU): RFI 20191230.6864153
+.................................................sb/uba/msp/sh
+</body>

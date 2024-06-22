@@ -1,0 +1,278 @@
+<header id=050831>
+Published Date: 2022-08-09 16:02:27 EDT
+Subject: PRO/AH/EDR> COVID-19 update (164): at-home test, neutralization, BA 2.75, WHO, global
+Archive Number: 20220809.8704958
+</header>
+<body id=050831>
+CORONAVIRUS DISEASE 2019 UPDATE (164):AT-HOME TEST, NEUTRALIZATION BREADTH, BA 2.75, WHO, GLOBAL
+*************************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] At home COVID test
+[2] Neutralization breadth
+[3] BA.2.75
+A. Neutralization sensitivity
+B. BA.2.75 cases
+[4] WHO: Daily new cases reported (as of 8 Aug 2022)
+[5] Global update: Worldometer accessed 8 Aug 2022 19:11 EST (GMT-5)
+
+******
+[1] At-home COVID Test
+Date: Mon 8 Aug 2022
+Source: NDTV, Press Trust of India [edited]
+https://www.ndtv.com/india-news/new-at-home-saliva-based-covid-19-test-as-effective-as-pcr-3236399
+
+
+Researchers have developed an at-home, saliva-based testing platform for COVID-19 that is as effective as a PCR test and can provide results in just 45 minutes.
+
+PCR tests are considered the gold standard in detecting the presence of SARS-CoV-2, the virus that causes COVID-19.
+
+However, these tests can take a few days to process, resulting in unnecessary quarantine for negative individuals or delays for those who require proof of negative testing for travel or other commitments.
+
+Rapid antigen-detecting tests, on the other hand, are convenient, but less reliable than PCR tests, according to the researchers.
+
+To bridge the gap between accuracy and convenience, researchers at the Pennsylvania State University (Penn State) in the US developed the test which can detect the virus with the same level of sensitivity as PCR tests.
+
+"PCR test results take about an hour to develop in a lab, but you have to factor in the time it takes to send the sample to a lab and for the lab to process it," said Weihua Guan, an associate professor at Penn State.
+"We wanted to create a viable alternative to the PCR for people to use at home, without having to endure the invasive nasal test," said Guan, principal investigator of the study published in the journal ACS Sensors.
+
+The researchers developed a palm-sized testing kit, where an individual spits into a cartridge and inserts it into the processing platform. Within 45 minutes, test results are sent to a custom android app developed by the researchers.
+
+The platform uses a technology called reverse transcription loop-mediated isothermal amplification, or RT-LAMP, to detect the virus. In this technology, the testing device first heats the saliva to 95 deg.C [approx. 200 deg.F], the temperature at which viral particle shells break apart and release their genetic material.
+
+The genetic material is then mixed with pre-packaged reagents in a microfluidic cartridge.
+
+The sample is cooled to 65 deg.C [approx. 150 deg.F], triggering another chemical reaction in which a few viral molecules are multiplied into billions of copies, making the virus easier to identify.
+
+If the virus is present in the saliva sample, the user will receive a positive result on their connected smartphone app.
+
+The researchers tested the setup by infusing human saliva samples purchased commercially with inactivated SARS-CoV-2 virus particles and ran the samples through the prototype.
+
+They also tested a few clinical specimens. The platform accurately determined whether every sample was positive or negative for the virus.
+
+"We tested hundreds of mock samples and controlled the quantity of COVID-19 particles in each one," Guan said.
+
+"Our platform proved to be highly sensitive to the presence of the virus in both the mock and clinical samples, with the standards set by the PCR test as our benchmark," the scientist added.
+
+--
+Communicated by:
+Mary Marshall
+<mjm2020@googlemail.com>
+from: "Koenig, Kristi" <Kristi.Koenig@sdcounty.ca.gov>
+
+[It would be good if more than "a few clinical samples" were tested as mock spiked samples are always much cleaner than actual clinical samples. But the ability to test at home is a strong point.
+
+The Cue test is another molecular assay that can be conducted and read at home. Cue's COVID-19 test uses nucleic acid amplification that was found to be equivalent to PCR in an independent study conducted by Mayo Clinic. The assay sample is a nasal swab and the results can be read in 20 minutes. The study found 97.8% agreement between Cue's COVID-19 test and central lab PCR testing. - Mod.LK]
+
+
+******
+[2] Neutralization breadth
+Date: Fri 5 Aug 2022
+Source: MedRxiv [abridged, edited]
+https://www.medrxiv.org/content/10.1101/2022.08.04.22278160v1
+
+
+Citation
+--------
+Graham C, Lechmere T, Rehman A, et al. The effect of Omicron breakthrough infection and extended BNT162b2 booster dosing on neutralization breadth against SARS-CoV-2 variants of concern.
+
+Abstract
+--------
+COVID-19 vaccines are playing a vital role in controlling the COVID-19 pandemic. As SARS-CoV-2 variants encoding mutations in the surface glycoprotein, Spike, continue to emerge, there is an increased need to identify immunogens and vaccination regimens that provide the broadest and most durable immune responses. We compared the magnitude and breadth of the neutralizing antibody response, as well as levels of Spike-reactive memory B cells, in individuals receiving a 2nd dose of BNT126b2 at a short (3-4 weeks) or extended interval (8-12 weeks) and following a 3rd vaccination approximately 6-8 months later. We show that whilst an extended interval between the first 2 vaccinations can greatly increase the breadth of the immune response and generate a higher proportion of Spike reactive memory B cells, a 3rd vaccination leads to similar levels between the 2 groups. Furthermore, we show that the 3rd vaccine dose enhances neutralization activity against omicron lineage members BA.1, BA.2 and BA.4/BA.5 and this is further increased following breakthrough infection during the UK omicron wave. These findings are relevant for vaccination strategies in populations where COVID-19 vaccine coverage remains low.
+
+Discussion
+-----------
+Here we studied the impact of vaccine interval on the breadth and potency of the SARS-CoV-2 neutralizing antibody response. We showed that an extended interval between the 1st and 2nd dose of the BNT162b2 vaccine enhances neutralization breadth initially. However, a 3rd vaccine dose generated a robust and broad neutralizing response against VOCs independent of the interval between 1st and 2nd vaccine doses. It has been extensively reported that 'hybrid' immunity, immunity derived from SARS-CoV-2 infection followed by vaccination, leads to superior neutralization following 1-dose of COVID-19 vaccine [12-16]. Our results showing higher antibody binding and neutralization in previously infected individuals receiving one BNT162b2 dose are consistent with these reports. Here, we show that an extended interval between the 1st and 2nd vaccine dose enhances the immune response in 4 ways. Firstly, and similar to previous reports, there is an increase in IgG binding (ED50) to Spike in the extended booster group following the 2nd immunization [23, 28, 29] and secondly, the Spike-reactive IgG bind with higher avidity [23]. Thirdly, broader neutralizing activity against VOCs (including BA.1) is generated [30, 31]. Finally, a higher percentage of Spike-reactive IgG+ memory B cells is detected in SARS-CoV 2 naïve individuals receiving an extended booster. Binding avidity correlated most strongly with the ID50 against the most antigenically distinct VOCs. The higher binding avidity in the extended group suggests that antibodies have undergone higher levels of antibody maturation [21-24]. Indeed, wider SARS-CoV-2 neutralization breadth has been associated with increased somatic hypermutation [12, 32-34]. We have recently reported that mAbs isolated from an individual receiving 2-doses of the ChadOx1 AZD1222 vaccine at a 12-week interval were more highly mutated than those isolated from SARS-CoV-2 convalescent donors and displayed greater neutralization breadth [32]. Several studies have shown that mRNA vaccination leads to a robust memory B cell response and induces persistent germinal centre reactions that continue for months after primary vaccination [12, 19, 35, 36]. Therefore, a longer interval between the 1st and 2nd vaccine dose would allow extended germinal centre reactions to take place, leading to increased levels of somatic hypermutation and higher affinity to the vaccine antigen. [see URL for references. CopyEd.AO]
+
+--
+Communicated by:
+Mary Marshall
+<mjm2020@googlemail.com>
+
+******
+[3] BA2.75
+[A] Neutralization sensitivity
+Date: Thu 4 Aug 2022.
+Source: BioRxiv [edited]
+https://www.biorxiv.org/content/10.1101/2022.08.04.502609v1
+[This article is a preprint and has not been certified by peer review]
+
+
+Citation
+--------
+Gruell H, Vanshylla K, Tober-Lau P, et al. Neutralization sensitivity of the SARS-CoV-2 Omicron BA.2.75 sublineage. bioRxiv 2022.08.04.502609; doi.org/10.1101/2022.08.04.502609
+
+
+Abstract
+--------
+The recently emerged BA.2.75 Omicron sublineage of SARS-CoV-2 identified in numerous countries is rapidly increasing in prevalence in regions of India. Compared with BA.2, the spike protein of BA.2.75 differs in 9 amino acid residues. To determine the impact of the spike mutations on polyclonal and monoclonal antibody activity, we investigated the neutralization sensitivity of BA.2.75 in comparison with B.1, BA.2, BA.2.12.1, and BA.4/5. Analysis of post-boost samples from 30 vaccinated individuals revealed significantly lower serum neutralizing activity against BA.2.75 than against BA.2. However, BA.2.75 was more sensitive to serum neutralization than the widely circulating BA.4/5 sublineages. Moreover, evaluation of 17 clinical-stage monoclonal antibodies demonstrated individual differences in Omicron sublineage activity. Notably, some authorized antibodies with low activity against other Omicron sublineages demonstrated high BA.2.75 neutralizing potency. Our results indicate a less pronounced degree of antibody evasion of BA.2.75 compared with BA.4/5 and suggest that factors beyond immune evasion may be required for an expansion of BA.2.75 over BA.4/5.
+
+--
+Communicated by:
+ProMED
+
+----
+[B] BA.2.75 cases
+Date: Mon 1 Aug 2022
+Source: Becker's Hospital Review [edited]
+https://www.beckershospitalreview.com/public-health/12-states-with-ba-2-75-cases.html
+
+
+More than a dozen states have reported cases of the newest omicron subvariant BA.2.75 as of [29 Jul 2022], early disease surveillance data shows.
+
+The subvariant has numerous mutations that may make it more adept than BA. 5, the nation's dominant strain, at spreading quickly and evading immune protection. While it's still unclear whether BA.2.75 will compete against BA.5 or cause more severe illness, some experts contend the subvariant is not the next big one to fret over.
+
+Below is a breakdown of U.S. states reporting BA.2.75 cases, based on a dashboard run by Raj Rajnarayanan, PhD, assistant dean of research and associate professor in the department of basic sciences at the New York Institute of Technology College of Osteopathic Medicine at Arkansas State University in Jonesboro. The dashboard uses data from GISAID, a global data-sharing platform for viruses.
+
+California 10, Washington 9, Illinois 4, Virginia 3, North Carolina 3, Wisconsin 2, New York 2, Nebraska 2, Texas 1, Iowa 1, Indiana 1, Georgia 1, Delaware 1, Arizona 1.
+
+[Byline: Mackenzie Bean]
+
+--
+Communicated by:
+ProMED
+
+******
+[4] WHO: Daily new cases reported (as of 8 Aug 2022)
+Date: Mon 8 Aug 2022
+Source: WHO [abridged, edited]
+https://covid19.who.int/table
+
+
+*Daily case reports as of 8 Aug 2022 16:48 CET
+
+Surveillance
+------------
+WHO region (no. countries/territories):
+Total confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+--------------------------------------------------------------------------------
+Western Pacific Region (19): 75 388 233 (296 448) / 248 338 (309)
+European Region (61): 243 169 399 (89 646) / 2 056 436 (172)
+South East Asia Region (10): 59 565 986 (22 950) / 793 231 (94)
+Eastern Mediterranean Region (22): 22 774 616 (22 890) / 345 743 (83)
+Region of the Americas (54): 171 555 845 (0) / 2 793 121 (0)
+African Region (49): 9 231 354 (489) / 174 079 (0)
+Cases on an international conveyance: 764 (0) / 13 (0)
+
+Confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+Grand total: 581 686 197 (432 423) / 6 410 961 (658)
+
+--
+Communicated by:
+ProMED
+
+Data by country, area, or territory for 8 Aug 2022 can be accessed at:
+https://promedmail.org/wp-content/uploads/world-pdf/2022%20WHO%20Data%20Tables%208%20Aug_1660065411.pdf.
+
+Overall, the reporting remained low, perhaps on account of the weekend effect.
+
+- The Americas region reported no cases or deaths during the past 24 hours, having reported more than 171.55 million cases, 2nd to the European region, the most severely affected region.
+
+- The European region reported 20.7% of cases and 26.1% of deaths over the last 24 hours, as the most affected region, with cumulative cases exceeding 243.16 million. Many countries did not report cases in the last 24 hours or longer including Germany, the UK, Turkey, Spain, the Netherlands, Portugal, Ukraine, Belgium, Switzerland and Greece, among others. A total of 9 countries reported more than 1000 cases in the past 24 hours, no countries reporting more than 100 000 cases, 3 countries reporting more than 10 000, 6 reporting over 1000 cases, while 5 countries reported more than 500 but fewer than 1000 cases.
+
+- The Eastern Mediterranean region reported 5.2% cases and 12.6% deaths over the last 24 hours, having reported a cumulative total of more than 22.77 million cases. Occupied Palestinian Territory (6382), reported the highest number of cases over the last 24 hours, followed by Jordan, Iran, and Lebanon. UAE, Qatar, and Pakistan reported more than 500 but less than 1000 cases.
+
+- The African region reported 0.11% cases and no deaths during the past 24 hours, having reported a cumulative total of more than 9.23 million cases. Mayotte (319) reported the highest number of cases over the last 24 hours, followed by Algeria. A total of 7 other countries reported cases, all below 50 in number. The remaining 41 countries in the region did not report any cases.
+
+- The Western Pacific region reported 68.5% of daily case numbers and 46.9% deaths in the past 24 hours, having reported a cumulative total of more than 75.38 million cases. Japan (198 563) reported the highest number of cases over the last 24 hours followed by South Korea, China, Singapore, Philippines, New Zealand, Malaysia, and Brunei.
+
+- The South East Asia region reported 5.3% cases and 14.3% deaths in the past 24 hours, having reported a cumulative total of more than 59.56 million cases. India (16 167) reported the highest number of cases over the last 24 hours followed by Indonesia (4425), Thailand (1842) and Nepal (498). Bangladesh, Sri Lanka, Bhutan, and the Maldives, among others, have not reported cases over the last 24 hours.
+
+On the Overview tab at the WHO source URL, the epidemic curve of confirmed COVID-19 cases by WHO region, 30 Dec 2019 through 8 Aug 2022, is an excellent visual representation of the pandemic. - Mod.UBA]
+
+******
+[5] Global update: Worldometer accessed 8 Aug 2022 19:11 EST (GMT-5)
+Date: Mon 8 Aug 2022
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+Total number of reported Cases: 590 106 544
+Total number of reported deaths: 6 438 412
+Number of newly confirmed cases in the past 24 hours: 722 097
+
+--
+Communicated by:
+ProMED
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available https://promedmail.org/wp-content/uploads/world-pdf/2022%20WORLDDATA%20AUG8_1660065381.pdf.
+
+A 7-day series of cumulative data reported by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/2022%20AUG8WORLD7_1660065339.pdf. - Mod.UBA]
+
+[In the past 24 hours, 10 countries; Japan (198 563), South Korea (149 819), the USA (114 775), Argentina (42 227), Australia (25 472), Russia (17 862), Brazil (17 409), Taiwan (15 407), Italy (11 975), and India (10 689), reported the highest numbers of cases, all reporting more than 10 000 newly confirmed cases. A global total of 1920 deaths were reported in the preceding 24 hours (7-8 Aug 2022).
+
+A total of 37 countries reported more than 1000 cases in the past 24 hours; 22 of the 50 countries are from the European region, 5 are from the Americas region, 2 from the Eastern Mediterranean region, 5 are from the Western Pacific region, 3 are from the South East Asia region, and none from the African region.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, case counts have decreased by 4.8%, while daily reported deaths have increased by 9.8%. Comparative 7-day averages in the USA show a 9.6% decrease in daily reported cases and a 16.8% increase in reported deaths.
+
+Impression: The global daily reported over 0.72 million newly confirmed infections in the past 24 hours with over 590.10 million cumulative reported cases and over 6.43 million reported deaths. - Mod.UBA]
+See Also
+COVID-19 update (163): long COVID, aerosol transmission, WHO 20220807.8704910
+COVID-19 update (162): trends, rebound, WHO 20220805.8704877
+COVID-19 update (161): rebound, long COVID 20220802.8704823
+COVID-19 update (160): vaccine rollout disparities, smell & taste, WHO, global 20220731.8704776
+COVID-19 update (159): Novavax, long COVID, infectious virus, WHO, global 20220728.8704732
+COVID-19 update (158): next generation vaccines, antivirals, WHO, global 20220727.8704690
+COVID-19 update (157): monoclonal Ab & antivirals, WHO 20220723.8704612
+COVID-19 update (156): oxygen for long COVID, updates, WHO 20220721.8704584
+COVID-19 update (155): BA.2.75, childhood vacc., WHO, global 20220717.8704474
+COVID-19 update (154): omicron sub-variants, booster recommendations, WHO, global 20220715.8704422
+COVID-19 update (153): omicron subvariant BA.2.75, WHO, global 20220712.8704386
+COVID-19 update (152): life expectancy, US deaths, WHO, global 20220710.8704330
+COVID-19 update (151): omicron subvariants BA.4/5, croup, plasma, WHO, global 20220708.8704303
+COVID-19 update (150): France, omicron 2nd gen variant, paxlovid, WHO, global 20220705.8704255
+COVID-19 update (149): long COVID, Europe, booster, airborne trans., WHO, global 20220703.8704209
+COVID-19 update (148): cases, maternal deaths, wastewater testing, WHO, global 20220701.8704171
+COVID-19 update (147): neurodegenerative disorders risk, Australia, WHO, global 20220629.8704142
+COVID-19 update (146): access to antivirals, reinfection, corr, WHO 20220626.8704089
+COVID-19 update (145): immune response, Paxlovid, WHO 20220624.8704045
+COVID-19 update (144): CDC child vacc, N Korea, variants, WHO 20220622.8703999
+COVID-19 update (143): long COVID, FDA, South Asia, WHO, global 20220619.8703945
+COVID-19 update (142): immunity boost, WHO, global 20220617.8703919
+COVID-19 update (141): vacc. effectiveness in children, WHO, global 20220615.8703865
+COVID-19 update (130): surveill., cardiac eff., long COVID subtypes, WHO, global 20220601.8703606
+COVID-19 update (120): N Korea, pandemic exit, youth vaccine, US deaths, WHO 20220518.8703327
+COVID-19 update (110): mutations, mental health, China, S Africa, Paxlovid, WHO 20220505.8703018
+COVID-19 update (100): vacc. intervals, deaths, long COVID, subvariants, global 20220420.8702717
+COVID-19 update (90): strategy, 2nd booster, WHO 20220407.8702454
+COVID-19 update (80): animal, USA, deer, transmission 20220325.8702212
+COVID-19 update (70): case count, UK, BA.2, USA, WHO, global 20220312.8701940
+COVID-19 update (60): animal, China, origin, research 20220227
+COVID-19 update (50): Hong Kong, estrogen risk, maternal vaccine benefits, WHO 20220217.8701501
+COVID-19 update (40): Denmark, rosemary, pregnancy, stroke, WHO 20220205.8701276
+COVID-19 update (30): variants in immuno-comp., stability, endemic, WHO 20220126.8701074
+COVID-19 update (20): Africa vacc., Taiwan, waning immunity, persistence, global 20220117.8700915
+COVID-19 update (10): animal, omicron origin statement, OIE 20220110.8700763
+COVID-19 update (01): omicron severity & changes, Germany, T-cell reactivity 20220101.8700616
+2021
+---
+COVID-19 update (452): rapid test, omicron, Ab neutralization, school, WHO 20211230.8700597
+COVID-19 update (451): animal, USA, wild deer 20211230.8700589
+COVID-19 update (450): maternal Abs, CDC isolation guidance, WHO 20211230.8700575
+COVID-19 update (400): animal, sheep, research, experimental infection 20211121.8699806
+COVID-19 update (350): boosters, deaths, cases, vaccines, WHO 20211014.8699041
+COVID-19 update (300): Norway, myocarditis, schools, new variant C.1.2, WHO 20210901.8638460
+COVID-19 update (200): animal, China, origin 20210608.8433657
+COVID-19 update (100): antibodies, vaccine, Thailand, Cambodia, WHO, global 20210316.8250009
+COVID-19 update (50): UK vaccine study, Brazil reinfection, WHO 20210205.8167161
+COVID-19 update (01): variants, vaccine, Thailand, global, WHO 20210101.80629382020
+2020
+---
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+COVID-19 update (562): viral load, UK vacc dose, ECDC, WHO 20201231.8061525
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia: China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia: China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+---
+Undiagnosed pneumonia: China (HU): RFI 20191230.686415
+and other items in the archives
+.................................................sb/lk/mpp/uba/ao/lxl
+</body>

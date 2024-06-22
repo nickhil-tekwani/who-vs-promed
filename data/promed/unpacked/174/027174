@@ -1,0 +1,122 @@
+<header id=027174>
+Published Date: 2020-10-22 11:03:34 EDT
+Subject: PRO/EDR> Typhoid fever- Chile: reduced fluoroquine susceptibility
+Archive Number: 20201022.7880669
+</header>
+<body id=027174>
+TYPHOID FEVER- CHILE: REDUCED FLUOROQUINE SUSCEPTIBILITY
+********************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+Date: Tue 13 Oct 2020
+Source: Emerging Infectious Diseases Volume 26, Number 11--November 2020 [edited]
+https://wwwnc.cdc.gov/eid/article/26/11/20-1676_article
+
+
+Citation
+-------
+Maes M, Dyson ZA, Higginson EE, et al. Multiple Introductions of Salmonella enterica Serovar Typhi H58 with Reduced Fluoroquinolone Susceptibility into Chile. Emerg Infect Dis. 2020;26(11):2736-2740. https://dx.doi.org/10.3201/eid2611.201676
+
+Abstract
+--------
+_Salmonella enterica_ serovar Typhi H58, an antimicrobial-resistant lineage, is globally disseminated but has not been reported in Latin America. Genomic analysis revealed 3 independent introductions of _Salmonella_ Typhi H58 with reduced fluoroquinolone susceptibility into Chile. Our findings highlight the utility of enhanced genomic surveillance for typhoid fever in this region.
+
+_Salmonella enterica_ serovars Typhi, Paratyphi A, and Paratyphi B are the etiologic agents of typhoid and paratyphoid fever. Each year, about 11-21 million cases and 128 000-161 000 typhoid-related deaths occur, making typhoid a continued health concern in many low- and middle-income countries, particularly among populations without access to clean water or improved sanitation (1). _S._ Typhi H58 lineage, genotype 4.3.1, commonly is associated with multidrug resistance, including resistance to chloramphenicol, ampicillin, and trimethoprim/sulfamethoxazole. In addition, isolates exhibiting resistance to fluoroquinolones have been linked to emergent clades of genotype 4.3.1 in South Asia (2), the spread of which could cause major challenges for disease management.
+
+_S._ Typhi H58 4.3.1 is the dominant genotype in many parts of Southeast and South Asia and in East Africa (3) and has spread globally but has not been reported in Latin America. Recent data on typhoid fever in South America are limited, and little is known about the population structure and antimicrobial susceptibility profiles of _S._ Typhi on the continent. However, a report of 402 _S._ Typhi isolates collected in Colombia during 2012-2015 showed that only 2.2% were resistant to fluoroquinolones (4). In 2016, Colombia reported collecting 204 _S._ Typhi isolates, 12.7% of which exhibited decreased susceptibility to fluoroquinolones (5). Because these reports did not include whole-genome sequencing (WGS) data, determining whether isolates were genotype 4.3.1 is not possible.
+
+Before the 1970s, typhoid fever was endemic in parts of South America and hyperendemic in Chile. However, water quality and sanitation improvements across the continent, partly in response to a major cholera epidemic in 1991, likely have contributed to a steep decline in the incidence of typhoid fever (6). During 1982-1992, Chile implemented interventions to reduce typhoid fever, including immunizing schoolchildren, prohibiting use of untreated sewage to irrigate crops, and detecting and treating chronic carriers. These interventions drastically reduced transmission and typhoid incidence has declined to 0.2 cases/100 000 persons (7), including in the greater Santiago metropolitan region (8).
+
+Chile's epidemiologic surveillance system tracks suspected typhoid fever. As many as 2 thirds of cases are confirmed by pathogen isolation from ordinarily sterile body fluids, such as blood or bone marrow. _S._ Typhi isolates from Chile typically are susceptible to antimicrobial agents, but ciprofloxacin resistance has been reported. Among isolates collected during 2009-2016, nearly 2% were ciprofloxacin resistant and 14% displayed intermediate resistance (9). We used WGS and bioinformatic analyses to characterize _S._ Typhi isolates from Chile to determine if antimicrobial-resistant H58 4.3.1 isolates have been introduced into South America.
+
+The Study
+---------
+We used a HiSeq WGS platform (Illumina, https://www.illumina.com) to generate 150 bp paired-end reads from _S. Typhi_ isolates collected during 2011-2017 by Chile's National Typhoid Surveillance System. We assigned sequences to previously defined genotypes and identified 7 genotype 4.3.1 isolates (Appendix 1 [for Appendices and Figures, see original URL - Mod. LL]). Isolates were obtained from clinical cases in the Santiago metropolitan region: 1 in 2012, 5 in 2015, and 1 in 2016. For global context, we analyzed these 7 genomes and 2386 publicly available sequences (Appendix 2 Table 1). Among publicly available sequences, 2326 were genotype 4.3.1 and 60 were non-4.3.1 genotypes (Appendix 1 Table 2). We used the non-4.3.1 genotypes and a _S._ Paratyphi A sequence as an outgroup for phylogenetic tree rooting. We produced clean and filtered SNP alignments (Appendix 1) and used these alignments to infer maximum likelihood phylogenies and specified a generalized time-reversible model and a Gamma distribution to model site-specific rate variation by using GTRGAMMA in RAxML version 8.2.9 (https://github.com/stamatak/standard-RAxML) and 100 bootstrap pseudoreplicates to assess branch support. SNP distances were calculated by using snp-dists (https://github.com/tseemann/snp-dists; Appendix 2). Raw Illumina reads were assembled by using either Velvet version 1.2 (European Bioinformatics Institute, https://www.ebi.ac.uk/~zerbino/velvet) or Unicycler version 0.4.7 (10). Assembled reads were input into Pathogenwatch (https://pathogen.watch) to detect nonsynonymous mutations in the quinolone-resistance determining region of gyrA and parC genes responsible for reduced fluoroquinolone susceptibility. We also used this approach to look for known antimicrobial resistance (AMR) genes. We further screened the sequences from Chile and close genetic relatives (Figure 2) to determine molecular determinants of AMR and known plasmid replicon genes (Appendix 1 Table).
+
+Phylogenomic and SNP analyses confirmed 7 _Salmonella Typhi_ genotype 4.3.1 isolates from Chile. Contact tracing implies that 4/5 isolates from 2015 were part of a localized outbreak. We found that the 7 isolates were members of 2 different sublineages, lineage I (4.3.1.1) and lineage II (4.3.1.2), suggesting multiple introductions into Chile. The 2 isolates of lineage I carried a single gyrA-S83F mutation predicted to confer reduced susceptibility to fluoroquinolones. The 5 lineage II isolates carried 3 quinolone-resistance determining region mutations, 2 in gyrA genes, S83F and D87N, and 1 in parC-S80I. Genotype 4.3.1 triple mutants were predicted to be resistant to fluoroquinolones, and isolates of this sublineage with identical mutations have been observed on the subcontinent of India and have been associated with treatment failure (2,11,12). None of the lineage II triple mutants in Chile carried detectable horizontally acquired AMR genes.
+
+To provide a global contextualization of _S._ Typhi genotype 4.3.1 in Chile, we analyzed the novel sequences alongside 2326 existing sequences from 31 countries (Figure 1). The 4.3.1.2 triple mutants from Chile formed a closely related phylogenetic cluster (median distance 2 SNPs) with sequences that have the same antimicrobial susceptibility profile isolated from India during 2012-2014, indicating an introduction from South Asia (Figure 2, panel A).
+
+The two 4.3.1.1 isolates from 2015 and 2016 in Chile were in distinct subclades of the tree and were separated by 19 SNPs, suggestive of 2 separate introductions. Of these, 1 introduction was closely related to a 2015 isolate from India (5 SNPs apart) (Figure 2, panel B) and the other was nested in a cluster of sequences from Southeast and South Asia and most closely related (median distance of 20 SNPs) to sequences from India and Bangladesh (Figure 2, panel C).
+
+Conclusions
+-----------
+Our study confirmed _Salmonella_ Typhi H58 genotype 4.3.1 in South America. Phylogenomic and SNP analyses indicate more than 3 separate genotype introductions into Chile; 5/7 isolates carried 3 distinct mutations, 2 in the gyrA gene, at D87N and S83F, and 1 in the parC gene at S80I, which are associated with ciprofloxacin resistance. For a high-income country with adequate surveillance, like Chile, the presence of fluoroquinolone-resistant genotype 4.3.1 _S._ Typhi has no immediate implications. However, if this genotype is transferred to low- or middle-income countries in South America, it could have major consequences. Therefore, these data should be of concern to other countries in the region where potential typhoid fever transmission remains high and adequate sanitation might be lacking (5,6,10). Ciprofloxacin is a 1st-line drug for typhoid fever in much of Latin America, and fluoroquinolone-resistant genotype 4.3.1 would reduce its long-term efficacy.
+
+Most diagnostic laboratories across South America are using pulsed-field gel electrophoresis to study _S._ Typhi epidemiology (13), but efforts are underway to implement WGS for epidemiologic surveillance in several countries (14,15). However, WGS-based approaches for detecting genotype 4.3.1 and understanding trends in genotype population, circulating lineages, and AMR dynamics have not been adopted widely across the region. Our work highlights the need for a uniform WGS platform for global _Salmonella_ Typhi monitoring and the need to elucidate the current epidemiology of typhoid fever in South America.
+
+References
+----------
+1. World Health Organization. Typhoid [cited 2020 Apr 16]. Available at:
+https://www.who.int/health-topics/typhoid
+2. Wong VK, Baker S, Pickard DJ, et al. Phylogeographical analysis of the dominant multidrug-resistant H58 clade of _Salmonella_ Typhi identifies inter- and intracontinental transmission events. Nat Genet. 2015;47:632-9. Available at:
+https://www.nature.com/articles/ng.3281
+3. Park SE, Pham DT, Boinett C, et al. The phylogeography and incidence of multi-drug resistant typhoid fever in sub-Saharan Africa. Nat Commun. 2018;9:5094. Available at:
+https://www.nature.com/articles/s41467-018-07370-z
+4. Diaz-Guevara P, Montaño LA, Duarte C, et al. Surveillance of _Salmonella enterica serovar_ Typhi in Colombia, 2012-2015. PLoS Negl Trop Dis. 2020;14:e0008040. Available at:
+https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0008040
+5. Pan American Health Organization. Epidemiological alert, _Salmonella enterica serovar_ Typhi haplotype H58, 18 October 2018 [cited 2020 Apr 16]. Available at:
+https://iris.paho.org/handle/10665.2/50533
+6. Marco C, Delgado I, Vargas C, Muñoz X, Bhutta ZA and Ferreccio C. Typhoid fever in Chile 1969-2012: Analysis of an epidemic and its control. Am J Trop Med Hyg. 2018;99(3_Suppl):26-33. Available at:
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6128366/pdf/tpmd180125.pdf
+7. Government of Chile, Department of Epidemiology. Quarterly epidemiological bulletin 2015 Jan 13 [in Spanish] [cited 2020 Apr 16]. Available at:
+http://epi.minsal.cl/wp-content/uploads/2016/01/FT_BET2_2015.pdf
+8. Gauld JS, Hu H, Klein DJ and Levine MM. Typhoid fever in Santiago, Chile: Insights from a mathematical model utilizing venerable archived data from a successful disease control program. PLoS Negl Trop Dis. 2018;12:e0006759. Available at:
+https://journals.plos.org/plosntds/article/comments?id=10.1371/journal.pntd.0006759
+9. Ministerio de Salud, Chile; Instituto de Salud Publica. Antimicrobial resistance bulletin 2018 [in Spanish] [cited 2020 Apr 16]. Available at:
+http://www.ispch.cl/sites/default/files/BoletinRam2018-08012019A.pdf
+10. Wick RR, Judd LM, Gorrie CL and Holt KE. Unicycler: Resolving bacterial genome assemblies from short and long sequencing reads. PLOS Comput Biol. 2017;13:e1005595. Available at:
+https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005595
+11. Wong VK, Baker S, Connor TR, et al.; International Typhoid Consortium. An extended genotyping framework for _Salmonella_ enterica serovar Typhi, the cause of human typhoid. Nat Commun. 2016;7:12827. Available at:
+https://www.nature.com/articles/ncomms12827
+12. Thanh D P, Karkey A, Dongol A, et al. A novel ciprofloxacin-resistant subclade of H58 _Salmonella_ Typhi is associated with fluoroquinolone treatment failure. eLife. 2016;5:e14003. Available at:
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4805543/
+13. Campos J, Pichel M, Vaz TMI, et al. Building PulseNet Latin America and Caribbean _Salmonella_ regional database: first conclusions of genetic subtypes of _S_. Typhi, _S_. Typhimurium and _S_. Enteritidis circulating in six countries of the region. Food Res Int. 2012;45:1030-6. Available at:
+https://www.sciencedirect.com/science/article/abs/pii/S0963996911005965
+14. Baker KS, Campos J, Pichel M, et al. Whole genome sequencing of _Shigella sonnei_ through PulseNet Latin America and Caribbean: advancing global surveillance of foodborne illnesses. Clin Microbiol Infect. 2017;23:845-53. Available at:
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5667938/
+15. Chinen I, Campos J, Dorji T and Perez Gutierrez E. PulseNet Latin America and the Caribbean network: present and future. Foodborne Pathog Dis. 2019;16:489-97. Available at:
+https://pubmed.ncbi.nlm.nih.gov/31081688/
+
+--
+Communicated by:
+ProMED-mail from HealthMap Alerts
+<promed@promedmail.org>
+
+[As noted in the conclusions, the introduction of a more resistant typhoid strain in a country with adequate sanitation and good microbial surveillance has much less of an impact as it would in countries without an adequate public health system.
+
+Typhoid fever, so-called enteric fever caused by _Salmonella enterica_ serotype Typhi, has a totally different presentation from that of the commoner kinds of salmonellosis. Epidemiologically, usually spread by contaminated food or water, typhoid is not a zoonosis like the more commonly seen types of salmonellosis. Clinically, vomiting and diarrhea are typically absent; indeed, constipation is frequently reported. As it is a systemic illness, blood cultures are at least as likely to be positive as stool in enteric fever, particularly early in the course of the infection, and bone marrow cultures may be the most sensitive.
+
+The word typhoid (as in typhus-like) reflects the similarity of the louse-borne rickettsial disease epidemic typhus and that of typhoid fever; in fact, in some areas, typhoid fever is still referred to as abdominal typhus. - Mod.LL
+
+HealthMap/ProMED map:
+Chile: https://promedmail.org/promed-post?place=7880669,7]
+See Also
+Typhoid fever - Pakistan: (KP) 20200721.7591413
+2019
+----
+Typhoid fever - Pakistan (04): XDR, travel alert CDC 20191008.6716070
+Typhoid fever - Taiwan: ex Pakistan, multidrug resistance 20190926.6696377
+Typhoid fever - USA (05): (TX) imported XDR case, possible secondary case 20190922.6688120
+Typhoid fever - Australia: ex Pakistan, multidrug resistance 20190918.6679904
+Typhoid fever - Pakistan (03): (SD) multidrug resistance 20190626.6539573
+Typhoid fever - Denmark: ex Pakistan, multidrug resistance 20190524.6483641
+Typhoid fever - USA (02): (MA) food worker, imported 20190522.6480973
+Typhoid fever - Pakistan (02): (SD) multidrug resistance 20190220.6326968
+Typhoid fever - Pakistan: multidrug resistance 20190212.6313110
+Typhoid fever - USA: ex Pakistan, multidrug resistance, CDC 2018 20190110.6252390
+2018
+----
+Typhoid fever - Pakistan (07): multidrug resistance, WHO 20181228.6226573
+Typhoid fever - Pakistan (06): multidrug resistance, spread, travel alert 20180813.5962991
+Typhoid fever - Pakistan (05): multidrug resistance, spread 20180720.5916006
+Typhoid fever - Pakistan (04): multidrug resistance 20180415.5747027
+Typhoid fever - Pakistan (03): multidrug resistance, fatal 20180223.5646599
+Typhoid fever - Pakistan (02): (SD) multidrug resistance, fatal 20180127.5586255
+Typhoid fever - Pakistan: (SD) multidrug resistance, fatal, RFI 20180124.5582615
+.................................................sb/ll/ao/lxl
+</body>

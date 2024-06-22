@@ -1,0 +1,277 @@
+<header id=062508>
+Published Date: 2022-06-08 20:59:04 EDT
+Subject: PRO/AH/EDR> COVID-19 update (136): deaths, new variants, vaccine, WHO, global
+Archive Number: 20220609.8703761
+</header>
+<body id=062508>
+CORONAVIRUS DISEASE 2019 UPDATE (136): DEATHS, NEW VARIANTS, VACCINE, WHO, GLOBAL
+*********************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] Deaths
+[2] New variants
+[3] CIDRAP
+[A] Novavax
+[B] Omicron protection, heart effects
+[C] BA.4 and BA.5 make US inroads
+[D] Ventilation, Paxlovid, and kids' cases
+[4] WHO: daily new cases reported (as of 7 Jun 2022)
+[5] Global update: Worldometer accessed 7 Jun 2022 16:13 EDT (GMT-4)
+
+******
+[1] Deaths
+Date: Tue 7 Jun 2022
+Source: Scientific American [edited]
+https://www.scientificamerican.com/article/how-to-compare-covid-deaths-for-vaccinated-and-unvaccinated-people/
+
+
+Looking at COVID data in recent months, it may appear that a significant proportion of the people who have died of COVID were vaccinated against the disease. But it is important to put those numbers in context.
+
+The US Centers for Disease Control and Prevention has compiled data from 28 geographically representative state and local health departments that keep track of COVID death rates among people age 12 and older in relation to their vaccination status, including whether or not they got a booster dose, and age group. Each week in March [2022], on average, a reported 644 people in this data set died of COVID. Of them, 261 were vaccinated with either just a primary round of shots -- 2 doses of an mRNA vaccine or a single dose of Johnson & Johnson's vaccine -- or with that primary series and at least one shot of a booster.
+
+Taken at face value, these numbers may appear to indicate that vaccination does not make that much of a difference. But this perception is an example of a phenomenon known as the base rate fallacy. One also has to consider the denominator of the fraction; that is, the sizes of the vaccinated and unvaccinated populations. With shots widely available to almost all age groups, the majority of the US population has been vaccinated. So even if only a small fraction of vaccinated people who get COVID die from it, the more people who are vaccinated, the more likely they are to make up a portion of the dead.
+
+In order to avoid the pitfalls of absolute numbers, it is useful to instead look at incidence rates, usually expressed as the number of deaths per 100 000 people. Standardizing the denominator across all groups offers a very different picture.
+
+Another way to think about the protection vaccination provides is to compare the ratios of death rates among the vaccinated and unvaccinated. For the month of March [2022], "unvaccinated people 12 years and older had 17 times the rate of COVID-associated deaths, compared to people vaccinated with a primary series and a booster dose," says Commissioned Corps of the US Public Health Service commander Heather Scobie, deputy team lead for surveillance and analytics at the CDC's Epidemiology Task Force. "Unvaccinated people had 8 times the rate of death as compared to people who only had a primary series," suggesting that boosters increase the level of protection.
+
+It is also important to consider the ages of those who are dying. People 65 and older make up the group that is both the most likely to be vaccinated (and boosted) and the most likely to die of COVID. (Being older is one of the biggest risk factors for severe COVID because the immune system weakens with age.) So when you separate the age groups, it becomes even clearer that vaccination reduces the risk of death. And because immune protection from vaccination wanes with time, and because some older people do not mount a good immune response to the primary series, being boosted reduces that risk even further.
+
+An additional factor to consider is that as the pandemic wears on and a disproportionate number of unvaccinated people die from COVID, the unvaccinated population shrinks. This leaves a comparatively larger vaccinated group, leading to an increase in total deaths despite the lower death rate among vaccinated people. No vaccine is 100% effective, but immunization reduces the risk of dying from COVID substantially.
+
+[Byline: Amanda Montañez, Tanya Lewis]
+
+--
+Communicated by:
+Claudinne Miller
+Tulane Outbreak News
+<cmiller15@tulane.edu>
+
+[See full report for excellent figures. - Mod.LK]
+
+******
+[2] New variants
+Date: Wed 1 Jun 2022
+Source: CNN [edited]
+https://www.cnn.com/2022/06/01/health/covid-new-omicron-variants/index.html
+
+
+Even as the US grapples with its most recent wave of COVID-19, new research suggests that variants on the horizon may keep case levels high. The next influx of infections will probably come from the newer omicron subvariants BA.4 and BA.5, 2 closely related viruses that were first characterized in South Africa and that landed in the United States around late March [2022], according to the gene-sequence-sharing site GISAID. These variants are gaining ground against BA.2, particularly in the central part of the country. Recent research suggests that they escape immunity created by vaccines and past infections.
+
+According to the most recent updates from the US Centers for Disease Control and Prevention and the genomics company Helix, BA.4 and BA.5 together accounted for an estimated 6% to 7% of new infections in the US in late May [2022]. "It's a serious threat," Dr. David Ho, a professor of microbiology and immunology at Columbia University in New York City, wrote in an email. "Only a month ago, it was 0.02%."
+
+BA.4 has been detected in at least 30 countries, and BA.5 has been sampled in 32 countries, according to the website <Outbreak.info>, which is maintained by the Scripps Research Institute.
+
+Ho and his co-authors recently tested antibodies from the blood of vaccinated and boosted people, as well as the antibodies of people who'd recovered from breakthrough COVID-19 infections, against engineered BA.4 and BA.5 viruses in the lab. In each case, they found a drop in potency against BA.4 and BA.5.
+
+They found that that BA.4 and BA.5 viruses are more than 4 times as likely to escape antibodies in people who've been vaccinated and boosted compared with BA.2 viruses.
+
+More breakthrough infections
+All of this means BA.4 and BA.5 are more likely to lead to breakthrough infections, even in people who've had COVID-19 before. Without upgraded vaccines or boosters, Ho expects that a lot of Americans will get sick in the coming weeks to months. "I think we will see lots of infections but not necessarily more severe disease or deaths," he said.
+
+Ho's research is posted as a preprint [see citation below], which means it has not been scrutinized by outside experts or published in a medical journal.
+
+South Africa, which is ahead of the US in its BA.4/BA.5 cycle, has seen infections rise but has not seen a corresponding increase in deaths, said Shishi Luo, associate director of bioinformatics and infectious disease at Helix. "So I think if we extrapolate from South Africa, what we'll see in the US is that BA.4 and BA.5 will increase, because it has some competitive advantages compared to existing strains, but fingers crossed, it is not going to lead to more severe outcomes," Luo said.
+
+One question variant hunters have asked is whether BA.4 and BA.5 can outcompete BA.2.12.1, the highly contagious strain that's currently the main cause of COVID-19 infections in the US. These branches of the omicron family tree rose to prominence about the same time; BA.2.12.1 quickly took over the US while BA.4 and BA.5 were establishing themselves in South Africa. They share some similarities, including changes at location 452 of their genome, a genetic address known for helping variants escape our immunity.
+
+Viruses square off
+"It's like boxing," said Dr. Alex Greninger, assistant director of the University of Washington's clinical virology laboratory. "It's like the national champion from South Africa going against the national champion in the United States. "You don't know how to rank them if they haven't ever fought," he says.
+
+But BA.4 and BA.5 have gone up against BA.2.12.1 in other parts of the world, like the UK. There, scientists found that the time it took the number of infections caused by a variant to double was about 5.5 days for BA.2.12.1 and about a day less for BA.4 and BA.5, indicating that those viruses are spreading faster. The doubling times were included in a recent technical report from the UK Health Security Agency [https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1077180/Technical-Briefing-42-20May2022.pdf]. "The betting favorite now suggests that BA.4 and BA.5 would be able to take out BA.2.12.1," Greninger said.
+
+Ho and his team think they may have figured out what's giving BA.4 and BA.5 an extra edge. In addition to all the changes in other omicron variants that help them shrug off our vaccines, these viruses pulled off an F486V mutation. That's a big change that helps disguise them from our immune system. In the past, it came with a downside: it made the virus' spike less likely to be able to bind to our cells, so they were less competitive. But BA.4 and BA.5 have an additional mutation, called R493Q, that restores their ability to bind to cells, restoring their ability to infect us.
+
+Though BA.4 and BA.5 seem capable of overpowering BA.2.12.1, they haven't squared off in the US, and the fitness of these strains depends a lot on the playing field. The variants aren't following a rulebook. But for the next few months, experts say, there's just going to be a lot of COVID-19 around us.
+
+"For the summer, going into the winter, I expect these viruses to be out there at relatively high levels," Greninger said. "Just the number of cases, the sheer disruptions of the work force . . . It's just a very high, high burden of disease."
+
+[Byline: Brenda Goodman]
+
+----
+Communicated by:
+Claudinne Miller
+Tulane Outbreak News
+<cmiller15@tulane.edu>
+
+[The citation for the preprint referenced above follows:
+Wang Q, Guo Y, Iketani S, et al. SARS-CoV-2 omicron BA.2.12.1, BA.4, and BA.5 subvariants evolved to extend antibody evasion. BioRxiv. 2022; https://doi.org/10.1101/2022.05.26.493517.]
+
+******
+[3] CIDRAP
+Date: Tue 7 Jun 2022
+Source: CIDRAP (Center for Infectious Disease Research and Policy) [edited]
+https://www.cidrap.umn.edu/news-perspective/2022/06/fda-advisers-recommend-novavax-covid-vaccine-emergency-use
+
+
+[A] Novavax
+With nearly 22% of the nation yet to receive a single COVID-19 vaccine dose, federal vaccine advisers today recommended that the Novavax COVID-19 vaccine be approved under an emergency use authorization (EUA).
+
+If the Food and Drug Administration (FDA) accepts the group's recommendation and Centers for Disease Control and Prevention (CDC) advisers recommend it, Novavax would give the United States a 4th vaccine to battle the virus. The Novavax vaccine is already approved for emergency use in other countries, and US officials hope that a vaccine made with a more traditional process might sway some who have been hesitant to be immunized against COVID-19.
+
+In other US developments, the CDC today said the BA.4 and BA.5 omicron subvariants are starting to become more prevalent across the country, and a new survey of US public schools found that rural and lower income schools were less likely than others to make ventilation improvements to reduce the spread of COVID-19.
+
+---
+[B] Omicron protection, heart effects
+During today's [7 Jun 2022] meeting, the Vaccines and Related Biological Products Advisory Committee (VRBPAC) was asked to weigh the benefits and risks in people ages 18 and older. The Novavax vaccine is a recombinant nanoparticle protein-based product that contains an adjuvant. It is given in 2 doses, 3 weeks apart. The measure passed with 21 yes votes and 1 abstention.
+
+Ahead of the meeting last week, FDA staff published an extensive review of the vaccine's efficacy and safety, which said the vaccine -- largely studied when the alpha variant was circulating -- would probably provide meaningful protection against the omicron variant, though they raised concerns for rare cardiac conditions after vaccination, similar to ones that have been seen with other COVID-19 vaccines.
+
+During today's [7 Jun 2022] discussion, the group aired reservations about potential rare cardiac complications from COVID-19 vaccines and pushed for the need to explore the underlying mechanism. Many also agreed that the efficacy profile looked similar to earlier approved mRNA vaccines, and some noted the benefits of a different vaccine that has easier storage requirements and less reactogenicity for those who are sensitive to mRNA vaccine side effects.
+
+The abstention came from Bruce Gellin, MD, MPH, chief of global public health strategy at the Rockefeller Foundation, who is a temporary VRBPAC voting member. He said his abstention should be interpreted as a conditional yes vote. He praised the company's perseverance with the vaccine and said its data are impressive. But he said there are still questions about cross-protection in omicron settings and expressed confidence that FDA staff will evaluate more data than VRBPAC saw before making its final recommendation.
+
+At today's [7 Jun 2022] meeting, Filip Dubovsky, MD, MPH, Novavax's senior vice president and chief executive officer, said the company expects in the coming months to seek clearances for expanded age indications and use as a booster dose.
+
+---
+[C] BA.4 and BA.5 make US inroads
+In its weekly update on variant activity [https://covid.cdc.gov/covid-data-tracker/#variant-proportions], the CDC today [7 Jun 2022] said the BA.4 and BA.5 omicron subvariants now make up 5.4% and 7.2% of sequenced samples, respectively, with the viruses present in all parts of the country. Last week, the 2 subvariants were under the threshold of 1% and weren't listed separately. The 2 subvariants were first detected in South Africa, where they fueled a modest 5th wave of activity after Easter. Though BA.4 and BA.5 were first detected by South African scientists, it's not clear where they originated.
+
+Meanwhile, the CDC said the level of the dominant BA.2.12.1 subvariant, first seen in New York, continued to rise and is at 62.2% of sequenced samples, up a bit from 59.2% last week. The new variants are known to be more transmissible and are thought to have immune evasion properties, but so far, there is no sign that they cause more severe disease.
+
+---
+[D] Ventilation, Paxlovid, and kids' cases
+In other US COVID developments:
+- A CDC survey of US public schools on ventilation improvement strategies found that few used higher-cost strategies, such as upgrading ventilation systems or using air filtration systems. The group published its findings today [7 Jun 2022] in Morbidity and Mortality Weekly Report (MMWR) [see citation below]. The most common lower-cost strategies included holding activities outdoors, inspecting ventilation systems, and opening doors and windows. Rural and mid-poverty-level schools were less likely to take the more resource-intensive steps. The web survey began in the summer of 2021.
+- Pfizer yesterday [6 Jun 2022] announced that it would invest USD 120 million to boost production of Paxlovid, its SARS-CoV-2 antiviral, at its Michigan plant, because of strong demand.
+- Pediatric COVID-19 cases declined for the 1st time since early April [2022], the American Academy of Pediatrics (AAP) said in its weekly update [https://www.aap.org/en/pages/2019-novel-coronavirus-covid-19-infections/children-and-covid-19-state-level-data-report/]. More than 87 000 cases were reported for the week ending 2 Jun [2022], though it's not clear if the Memorial Day weekend affected testing levels.
+
+[Byline: Lisa Schnirring
+
+--
+Communicated by:
+Mary Marshall
+<mjm2020@googlemail.com>
+
+[The citation referenced above follows:
+Pampati S, Rasberry C N, McConnell L, et al. Ventilation Improvement Strategies Among K-12 Public Schools -- The National School COVID-19 Prevention Study, United States, 14 Feb - 27 Mar 2022. MMWR Morb Mortal Wkly Rep. 2022; http://dx.doi.org/10.15585/mmwr.mm7123e2.
+
+"Novavax's request for authorization was based on data including the results of 2 large clinical trials that demonstrated an overall efficacy of about 90% and a "reassuring safety profile," according to the company. The trials were conducted before the omicron coronavirus variant dominated in the United States."
+
+Novavax is a protein subunit vaccine. "Novavax scientists identified the gene for the spike protein and created a modified version of that gene. The researchers cloned the genes into a baculovirus that infects insects. They then infected moth cells -- specifically, cells from the fall armyworm -- prompting them to produce the coronavirus spike protein. These virus-like nanoparticles were harvested to make Novavax's vaccine.
+
+"Overall, the vaccine relies on recombinant nanoparticle technology and Novavax's adjuvant, called Matrix-M, to stimulate an immune response and high levels of neutralizing antibodies." - Mod.LK
+(https://www.cnn.com/2022/06/07/health/novavax-covid-vaccine-fda/index.html)]
+
+******
+[4] WHO: daily new cases reported (as of 6 Jun 2022)
+Date: Tue 7 Jun 2022
+Source: WHO [abridged, edited]
+https://covid19.who.int/table
+
+
+*Daily case reports as of 7 Jun 2022 16:48 CET
+
+Surveillance
+------------
+WHO region (no. countries/territories):
+Total confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+--------------------------------------------------------------------------------
+Western Pacific Region (19): 61 257 605 (99 286) / 232 568 (304)
+European Region (61): 221 699 970 (42 752) / 2 015 911 (246)
+South East Asia Region (10): 58 185 955 (5989) / 789 034 (27)
+Eastern Mediterranean Region (22): 21 797 169 (3631) / 342 911 (4)
+Region of the Americas (54): 158 305 571 (52 881) / 2 746 147 (96)
+African Region (49): 9 019 258 (0) / 172 780 (0)
+Cases on an international conveyance: 764 (0) / 13 (0)
+
+Confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+Grand total: 530 266 292 (204 539) / 6 299 364 (677)
+
+--
+Communicated by:
+ProMED
+
+Data by country, area, or territory for 7 Jun 2022 can be accessed at https://promedmail.org/wp-content/uploads/world-pdf/2022%20WHO%20Data%20Tables%20JUN7_1654713880.pdf.
+
+- The Americas region reported 25.8% of cases and 14.2% of deaths over the last 24 hours during the past 24 hours, having reported more than 158.30 million cases, 2nd to the European region, the most severely affected region. A total of 6 countries reported more than 1000 cases, 1 of which reported more than 10 000 cases (the USA), and 2 countries reported more than 500 but less than 1000 cases.
+
+- The European region reported 20.9% of cases and 36.3% of deaths over the last 24 hours, as the most affected region, with cumulative cases exceeding 221.69 million. Some countries reporting few or no cases in the last 24 hours or longer include Turkey, Spain, Netherlands, Ukraine, Belgium, Switzerland, and Denmark, among others. A total of 8 countries reported more than 1000 cases in the past 24 hours, with 0 countries reporting more than 10 000, while 1 country reported more than 500 but fewer than 1000 cases.
+
+- The Eastern Mediterranean region reported 1.8% of cases and 0.59% of deaths during the past 24 hours, having reported a cumulative total of more than 21.79 million cases. Bahrain reported the highest number of cases followed by Saudi Arabia and UAE. Overall, the reporting from the region has been low over the last few weeks, with many countries not reporting cases.
+
+- The African region reported no cases and no deaths in the past 24 hours, having reported a cumulative total of more than 9.01 million cases.
+
+- The Western Pacific region reported 48.5% of daily case numbers and 44.9% of deaths in the past 24 hours, having reported a cumulative total of more than 61.25 million cases. China (53 291) reported the highest number of cases over the last 24 hours followed by Australia, Japan, South Korea, New Zealand, Singapore, and Malaysia.
+
+- The South East Asia region reported 2.9% of the daily newly reported cases and 4.0% of reported deaths in the past 24 hours, having reported a cumulative total of more than 58.18 million cases. India (3714) reported the highest number of cases followed by Thailand (2224). Indonesia, Sri Lanka, Myanmar, Maldives, Bhutan, and North Korea did not report cases over the last 24 hours.
+
+On the Overview tab at the WHO source URL, the epidemic curve of confirmed COVID-19 cases by WHO region, 30 Dec 2019 through 7 Jun 2022, is an excellent visual representation of the pandemic. - Mod.MPP]
+
+******
+[5] Global update: Worldometer accessed 7 Jun 2022 16:13 EDT (GMT-4)
+Date: Tue 7 Jun 2022
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+Total number of reported cases: 536 575 203
+Total number of reported deaths: 6 323 378
+Number of newly confirmed cases in the past 24 hours: 662 402
+
+--
+Communicated by:
+ProMED
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at https://promedmail.org/wp-content/uploads/world-pdf/2022%20WORLDDATA%20JUNE7_1654713910.pdf.
+
+A 7-day series of cumulative data reported by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/2022%20JUNE7WORLD7_1654726666.pdf. - Mod.MPP]
+
+[In the past 24 hours, 13 countries including the USA (144 917), Taiwan (82 990), Brazil (71 045), Germany (67 073), North Korea (54 620), Australia (33 873), Spain (33 293), Italy (28 547), South Korea (13 320), France (11 627), Japan (11 351), Switzerland (10 196), and the UK (10 179) reported the highest numbers of cases, all reporting more than 10 000 newly confirmed cases. A global total of 1903 deaths were reported in the preceding 24 hours (6 Jun 2022 to 7 Jun 2022).
+
+A total of 34 countries reported more than 1000 cases in the past 24 hours; 13 of the 34 countries are from the European region, 9 are from the Americas region, 0 are from the Eastern Mediterranean region, 7 are from the Western Pacific region, 3 are from the South East Asia region, and 2 are from the African region.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, case counts have increased by 4.2%, while daily reported deaths have decreased by 5.3%. Comparative 7-day averages in the USA show a 33.3% increase in daily reported cases and 27.9% increase in reported deaths.
+
+Impression: The global daily reported over 0.66 million newly confirmed infections in the past 24 hours with over 536.57 million cumulative reported cases and over 6.32 million reported deaths. - Mod.MPP]
+See Also
+COVID-19 update (135): N.Korea, France, sleep, antibody test, WHO, global 20220608.8703735
+COVID-19 update (134): Paxlovid studies, boosters, N. Korea, WHO, global 20220605.8703674
+COVID-19 update (133): end of COVID, Portugal, India, Pfizer, S Asia, WHO, global 20220603.8703661
+COVID-19 update (132): pandemic end, Shanghai, masks, WHO, global 20220603.8703642
+COVID-19 update (131): long COVID, cardiac care, comment, WHO, global 20220601.8703623
+COVID-19 update (130): surveill., cardiac eff., long COVID subtypes, WHO, global 20220601.8703606
+COVID-19 update (120): N Korea, pandemic exit, youth vaccine, US deaths, WHO 20220518.8703327
+COVID-19 update (110): mutations, mental health, China, S Africa, Paxlovid, WHO 20220505.8703018
+COVID-19 update (100): vacc. intervals, deaths, long COVID, subvariants, global 20220420.8702717
+COVID-19 update (90): strategy, 2nd booster, WHO 20220407.8702454
+COVID-19 update (80): animal, USA, deer, transmission 20220325.8702212
+COVID-19 update (70): case count, UK, BA.2, USA, WHO, global 20220312.8701940
+COVID-19 update (60): animal, China, origin, research 20220227
+COVID-19 update (50): Hong Kong, estrogen risk, maternal vaccine benefits, WHO 20220217.8701501
+COVID-19 update (40): Denmark, rosemary, pregnancy, stroke, WHO 20220205.8701276
+COVID-19 update (30): variants in immuno-comp., stability, endemic, WHO 20220126.8701074
+COVID-19 update (20): Africa vacc., Taiwan, waning immunity, persistence, global 20220117.8700915
+COVID-19 update (10): animal, omicron origin statement, OIE 20220110.8700763
+COVID-19 update (01): omicron severity & changes, Germany, T-cell reactivity 20220101.8700616
+2021
+----
+COVID-19 update (452): rapid test, omicron, Ab neutralization, school, WHO 20211230.8700597
+COVID-19 update (451): animal, USA, wild deer 20211230.8700589
+COVID-19 update (450): maternal Abs, CDC isolation guidance, WHO 20211230.8700575
+COVID-19 update (400): animal, sheep, research, experimental infection 20211121.8699806
+COVID-19 update (350): boosters, deaths, cases, vaccines, WHO 20211014.8699041
+COVID-19 update (300): Norway, myocarditis, schools, new variant C.1.2, WHO 20210901.8638460
+COVID-19 update (200): animal, China, origin 20210608.8433657
+COVID-19 update (100): antibodies, vaccine, Thailand, Cambodia, WHO, global 20210316.8250009
+COVID-19 update (50): UK vaccine study, Brazil reinfection, WHO 20210205.8167161
+COVID-19 update (01): variants, vaccine, Thailand, global, WHO 20210101.80629382020
+2020
+----
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+COVID-19 update (562): viral load, UK vacc dose, ECDC, WHO 20201231.8061525
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia: China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia: China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+----
+Undiagnosed pneumonia: China (HU): RFI 20191230.686415
+.................................................sb/lk/mpp/tw
+</body>

@@ -1,0 +1,269 @@
+<header id=025945>
+Published Date: 2021-04-07 15:15:15 EDT
+Subject: PRO/AH/EDR> COVID-19 update (127): variants, new vaccine 2P spike, WHO, global
+Archive Number: 20210407.8294615
+</header>
+<body id=025945>
+CORONAVIRUS DISEASE 2019 UPDATE (127): VARIANTS, NEW VACCINE 2P SPIKE, WHO, GLOBAL
+**********************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] Variants and outbreaks
+[2] New low-cost vaccine: 2P spike
+[3] WHO: daily new cases reported (as of 6 Apr 2021)
+[4] Global update: Worldometer accessed 6 Apr 2021 21:10 EST (GMT-5)
+
+******
+[1] Variants and outbreaks
+Date: Thu 1 Apr 2021
+Source: EurekAlert [edited]
+https://www.eurekalert.org/pub_releases/2021-04/uoc--gss033121.php
+
+
+Genome sequencing of thousands of SARS-CoV-2 samples shows that surges of COVID-19 cases are driven by the appearance of new coronavirus variants, according to new research from the School of Veterinary Medicine at the University of California, Davis published 1 Apr 2021 in Scientific Reports [https://doi.org/10.1038/s41598-021-86265-4].
+
+"As variants emerge, you're going to get new outbreaks," said Bart Weimer, professor of population health and reproduction at the UC Davis School of Veterinary Medicine. The merger of classical epidemiology with genomics provides a tool public health authorities could use to predict the course of pandemics, whether of coronavirus, influenza or some new pathogen.
+
+Although it has just 15 genes, SARS-CoV-2 is constantly mutating. Most of these changes make very little difference but sometimes the virus becomes more or less transmissible.
+
+Weimer and graduate student DJ Darwin R. Bandoy initially analyzed the genomes of 150 SARS-CoV-2 strains, mostly from outbreaks in Asia prior to 1 Mar 2020, as well as epidemiology and transmission information for those outbreaks. They classified outbreaks by stage: index (no outbreak), takeoff, exponential growth and decline. The ease of transmission of a virus is set by the value R, or reproductive number, where R is the average number of new infections caused by each infected person.
+
+They combined all this information into a metric called GENI, for pathogen genome identity. Comparing GENI scores with the phase of an epidemic showed that an increase in genetic variation immediately preceded exponential growth in cases, for example, in South Korea in late February [2020]. In Singapore, however, bursts of variation were associated with smaller outbreaks that public health authorities were able to quickly bring under control.
+
+Weimer and Bandoy then looked at 20 000 sequences of SARS-CoV-2 viruses collected from February to April 2020 in the United Kingdom and compared them with data on cases. They found that the GENI variation score rose steadily with the number of cases. When the British government imposed a national lockdown in late March [2020], the number of new cases stabilized, but the GENI score continued to rise. This shows that measures such as banning gatherings, mask mandates and social distancing are effective in controlling spread of disease in the face of rapid virus evolution.
+
+It could also help explain "superspreader" events when large numbers of people get infected in a single incident where precautions are relaxed.
+
+Weimer said he hopes that public health authorities will take up the approach of measuring virus variation and linking it to the local transmission rate, R. "In this way you can get a very early warning of when a new outbreak is coming," he said. "Here's a recipe for how to go about it."
+
+--
+Communicated by:
+Mary Marshall
+<mjm2020@googlemail.com>
+
+[The citation, abstract, and conclusion from the research study referenced above are provided below.
+
+Citation: Bandoy DJDR, Weimer BC. Analysis of SARS-CoV-2 genomic epidemiology reveals disease transmission coupled to variant emergence and allelic variation. Sci Rep. 2021; 11: 7380. https://doi.org/10.1038/s41598-021-86265-4
+
+"Abstract: The spread of SARS-CoV-2 created a pandemic crisis with more than 150 000 cumulative cases in more than 65 countries within a few months. The reproductive number (R) is a metric to estimate the transmission of a pathogen during an outbreak. Preliminary published estimates were based on the initial outbreak in China. Whole genome sequences (WGS) analysis found mutational variations in the viral genome; however, previous comparisons failed to show a direct relationship between viral genome diversity, transmission, and the epidemic severity. COVID-19 incidences from different countries were modeled over the epidemic curve. Estimates of the instantaneous R (Wallinga and Teunis method) with a short and standard serial interval were done. WGS were used to determine the populations genomic variation and that underpinned creation of the pathogen genome identity (GENI) score, which was merged with the outbreak curve in 4 distinct phases. Inference of transmission time was based on a mutation rate of 2 mutations/month. R estimates revealed differences in the transmission and variable infection dynamics between and within outbreak progression for each country examined. Outside China, our R estimates observed propagating dynamics indicating that other countries were poised to move to the takeoff and exponential stages. Population density and local temperatures had no clear relationship to the outbreak progression. Integration of incidence data with the GENI score directly predicted increases in cases as the genome variation increased that led to new variants. Integrating the outbreak curve, dynamic R, and SNP variation found a direct association between increasing cases and transmission genome evolution. By defining the epidemic curve into 4 stages and integrating the instantaneous country-specific R with the GENI score, we directly connected changes in individual outbreaks based on changes in the virus genome via SNPs. This resulted in the ability to forecast potential increases in cases as well as mutations that may defeat PCR screening and the infection process. By using instantaneous R estimations and WGS, outbreak dynamics were defined to be linked to viral mutations, indicating that WGS, as a surveillance tool, is required to predict shifts in each outbreak that will provide actionable decision-making information. Integrating epidemiology with genome sequencing and modeling allows for evidence-based disease outbreak tracking with predictive therapeutically valuable insights in near real time."
+
+"Conclusion: This study integrated population genomics into epidemiological methods to provide a framework for molecular epidemiology. Specifically, this study demonstrated epicurves, instantaneous R estimates, and GENI scores for SARS-CoV-2 are useful as pandemic metrics and in combination are a robust method. It was demonstrated that the pandemic is poised to become larger and that mutation will be associated with the increase in cases. Exemplar outbreaks, such as Singapore, found increases in cases with viral mutations that were effectively controlled. However, other outbreaks had expanding R estimates during the outbreak, as well as numerous viral mutation events. Use of epicurve stages, instantaneous R estimates, and GENI provided a robust and accurate framework to monitor outbreak progression to different stages with direct association between cases and increases in each metric."]
+
+******
+[2] New low-cost vaccine: 2P spike
+Date: Mon 5 Apr 2021
+Source: The New York Times [abridged, edited]
+https://www.nytimes.com/2021/04/05/health/hexapro-mclellan-vaccine.html
+
+
+A new vaccine for COVID-19 that is entering clinical trials in Brazil, Mexico, Thailand and Viet Nam could change how the world fights the pandemic.
+
+In the case of the coronavirus, the best target for the immune system is the protein that covers its surface like a crown. The protein, known as spike, latches onto cells and then allows the virus to fuse to them.
+
+But simply injecting coronavirus spike proteins into people is not the best way to vaccinate them. That's because spike proteins sometimes assume the wrong shape and prompt the immune system to make the wrong antibodies.
+
+This insight emerged long before the COVID-19 pandemic. In 2015, another coronavirus appeared, causing a deadly form of pneumonia called MERS. Jason McLellan, a structural biologist then at the Geisel School of Medicine at Dartmouth, and his colleagues set out to make a vaccine against it.
+
+They wanted to use the spike protein as a target. But they had to reckon with the fact that the spike protein is a shape-shifter. As the protein prepares to fuse to a cell, it contorts from a tulip-like shape into something more akin to a javelin.
+
+Scientists call these 2 shapes the prefusion and postfusion forms of the spike. Antibodies against the prefusion shape work powerfully against the coronavirus, but postfusion antibodies don't stop it.
+
+Dr. McLellan and his colleagues used standard techniques to make a MERS vaccine but ended up with a lot of postfusion spikes, useless for their purposes. Then they discovered a way to keep the protein locked in a tulip-like prefusion shape. All they had to do was change 2 of more than 1000 building blocks in the protein into a compound called proline.
+
+The resulting spike -- called 2P, for the 2 new proline molecules it contained -- was far more likely to assume the desired tulip shape. The researchers injected the 2P spikes into mice and found that the animals could easily fight off infections of the MERS coronavirus.
+
+The team filed a patent for its modified spike, but the world took little notice of the invention. MERS, although deadly, is not very contagious and proved to be a relatively minor threat; fewer than 1000 people have died of MERS since it first emerged in humans.
+
+But in late 2019 a new coronavirus, SARS-CoV-2, emerged and began ravaging the world. Dr. McLellan and his colleagues swung into action, designing a 2P spike unique to SARS-CoV-2. In a matter of days, Moderna used that information to design a vaccine for COVID-19; it contained a genetic molecule called RNA with the instructions for making the 2P spike.
+
+Other companies soon followed suit, adopting 2P spikes for their own vaccine designs and starting clinical trials. All 3 of the vaccines that have been authorized so far in the United States -- from Johnson & Johnson, Moderna and Pfizer-BioNTech -- use the 2P spike.
+
+Other vaccine makers are using it as well. Novavax has had strong results with the 2P spike in clinical trials and is expected to apply to the Food and Drug Administration for emergency use authorization in the next few weeks. Sanofi is also testing a 2P spike vaccine and expects to finish clinical trials later this year [2021].
+
+Dr. McLellan's ability to find lifesaving clues in the structure of proteins has earned him deep admiration in the vaccine world. "This guy is a genius," said Harry Kleanthous, a senior program officer at the Bill & Melinda Gates Foundation. "He should be proud of this huge thing he's done for humanity."
+
+But once Dr. McLellan and his colleagues handed off the 2P spike to vaccine makers, he turned back to the protein for a closer look. If swapping just 2 prolines improved a vaccine, surely additional tweaks could improve it even more. "It made sense to try to have a better vaccine," said Dr. McLellan, who is now an associate professor at the University of Texas at Austin.
+
+In March, he joined forces with 2 fellow University of Texas biologists, Ilya Finkelstein and Jennifer Maynard. Their 3 labs created 100 new spikes, each with an altered building block. With funding from the Gates Foundation, they tested each one and then combined the promising changes in new spikes. Eventually, they created a single protein that met their aspirations.
+
+The winner contained the 2 prolines in the 2P spike, plus 4 additional prolines found elsewhere in the protein. Dr. McLellan called the new spike HexaPro, in honor of its total of 6 prolines.
+
+The structure of HexaPro was even more stable than 2P, the team found. It was also resilient, better able to withstand heat and damaging chemicals. Dr. McLellan hoped that its rugged design would make it potent in a vaccine.
+
+Dr. McLellan also hoped that HexaPro-based vaccines would reach more of the world -- especially low- and middle-income countries, which so far have received only a fraction of the total distribution of 1st-wave vaccines. "The share of the vaccines they've received so far is terrible," Dr. McLellan said. To that end, the University of Texas set up a licensing arrangement for HexaPro that allows companies and labs in 80 low- and middle-income countries to use the protein in their vaccines without paying royalties.
+
+Meanwhile, Dr. Bruce Innis of the PATH Center for Vaccine Innovation and Access and his colleagues were looking for a way to increase the production of COVID-19 vaccines. They wanted a vaccine that less wealthy nations could make on their own.
+
+The 1st wave of authorized COVID-19 vaccines require specialized, costly ingredients to make. Moderna's RNA-based vaccine, for instance, needs genetic building blocks called nucleotides, as well as a custom-made fatty acid to build a bubble around them. Those ingredients must be assembled into vaccines in purpose-built factories.
+
+The way influenza vaccines are made is a study in contrast. Many countries have huge factories for making cheap flu shots, with influenza viruses injected into chicken eggs. The eggs produce an abundance of new copies of the viruses. Factory workers then extract the viruses, weaken or kill them and then put them into vaccines.
+
+The PATH team wondered if scientists could make a COVID-19 vaccine that could be grown cheaply in chicken eggs. That way, the same factories that make flu shots could make COVID-19 shots as well.
+
+In New York, a team of scientists at the Icahn School of Medicine at Mount Sinai knew how to make just such a vaccine, using a bird virus called Newcastle disease virus that is harmless in humans. For years, scientists had been experimenting with Newcastle disease virus to create vaccines for a range of diseases. To develop an Ebola vaccine, for example, researchers added an Ebola gene to the Newcastle disease virus's own set of genes.
+
+The scientists then inserted the engineered virus into chicken eggs. Because it is a bird virus, it multiplied quickly in the eggs. The researchers ended up with Newcastle disease viruses coated with Ebola proteins.
+
+At Mount Sinai, the researchers set out to do the same thing, using coronavirus spike proteins instead of Ebola proteins. When they learned about Dr. McLellan's new HexaPro version, they added that to the Newcastle disease viruses. The viruses bristled with spike proteins, many of which had the desired prefusion shape. In a nod to both the Newcastle disease virus and the HexaPro spike, they called it NDV-HXP-S.
+
+PATH arranged for thousands of doses of NDV-HXP-S to be produced in a Vietnamese factory that normally makes influenza vaccines in chicken eggs. In October [2020], the factory sent the vaccines to New York to be tested. The Mount Sinai researchers found that NDV-HXP-S conferred powerful protection in mice and hamsters.
+
+"I can honestly say I can protect every hamster, every mouse in the world against SARS-CoV-2," Dr. Peter Palese, the leader of the research, said. "But the jury's still out about what it does in humans."
+
+The potency of the vaccine brought an extra benefit: The researchers needed fewer viruses for an effective dose. A single egg may yield 5-10 doses of NDV-HXP-S, compared to 1 or 2 doses of influenza vaccines. "We are very excited about this, because we think it's a way of making a cheap vaccine," Dr. Palese said.
+
+PATH then connected the Mount Sinai team with influenza vaccine makers. On 15 Mar 2021, Viet Nam's Institute of Vaccines and Medical Biologicals announced the start of a clinical trial of NDV-HXP-S. A week later, Thailand's Government Pharmaceutical Organization followed suit. On 26 Mar 2021, Brazil's Butantan Institute said it would ask for authorization to begin its own clinical trials of NDV-HXP-S.
+
+Meanwhile, the Mount Sinai team has also licensed the vaccine to the Mexican vaccine maker Avi-Mex as an intranasal spray. The company will start clinical trials to see if the vaccine is even more potent in that form.
+
+To the nations involved, the prospect of making the vaccines entirely on their own was appealing. "This vaccine production is produced by Thai people for Thai people," Thailand's health minister, Anutin Charnvirakul, said at the announcement in Bangkok. In Brazil, the Butantan Institute trumpeted its version of NDV-HXP-S as "the Brazilian vaccine," one that would be "produced entirely in Brazil, without depending on imports."
+
+Ms. Taylor, of the Duke Global Health Innovation Center, was sympathetic. "I could understand why that would really be such an attractive prospect," she said. "They've been at the mercy of global supply chains."
+
+Madhavi Sunder, an expert on intellectual property at Georgetown University Law Center, cautioned that NDV-HXP-S would not immediately help countries like Brazil as they grappled with the current wave of COVID-19 infections. "We're not talking 16 billion doses in 2020," she said. Instead, the strategy will be important for long-term vaccine production -- not just for COVID-19 but for other pandemics that may come in the future. "It sounds super promising," she said.
+
+In the meantime, Dr. McLellan has returned to the molecular drawing board to try to make a 3rd version of their spike that is even better than HexaPro. "There's really no end to this process," he said. "The number of permutations is almost infinite. At some point, you'd have to say, 'This is the next generation.'"
+
+[Byline: Carl Zimmer]
+
+--
+Communicated by:
+Mary Marshall
+<mjm2020@googlemail.com>
+
+[Exciting prospect if it works in humans as well as mice. The beauty is the ease of production without need for reagents that are in short supply, ability to piggy-back on factories making vaccines in eggs, the possibility of administering by the intranasal route, and the licensing arrangement for HexaPro that allows companies and labs in 80 low- and middle-income countries (LMICs) to use the protein in their vaccines without paying royalties. The cost of the mRNA vaccines has presented a problem for LMICs. This new approach will work around that problem. If effective in humans, it will be an excellent supplemental vaccine while developed countries can continue with the more expensive mRNA vaccines and virus-vectored vaccines. - Mod.LK]
+
+******
+[3] WHO: daily new cases reported (as of 6 Apr 2021)
+Date: Tue 6 Apr 2021
+Source: WHO [abridged, edited]
+https://covid19.who.int/table
+
+
+*Daily case reports as of 6 Apr 2021 16:18 CET
+
+Surveillance
+------------
+WHO region (no. countries/territories):
+Total confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+--------------------------------------------------------------------------------
+Western Pacific Region (19): 1 992 953 (11 046) / 31 953 (29)
+European Region (61): 4 625 984 (143 909) / 986 342 (2824)
+South East Asia Region (10): 15 438 907 (108 621) / 223 666 (648)
+Eastern Mediterranean Region (22): 7 785 717 (45 680) /161 826 (559)
+Region of the Americas (54): 56 880 123 (118 685) / 1 375 139 (2463)
+African Region (49): 3 132 143 (6106) / 78 763 (117)
+Cases on an international conveyance (Diamond Princess): 745 (0) / 13 (0)
+
+Confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+Grand total: 131 487 572 (434 047) / 2 857 702 (6640)
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[Data by country, area, or territory for 6 Apr 2021 can be accessed at https://promedmail.org/wp-content/uploads/world-pdf/2021%20WHO%20Daily%20Tables%20Apr6_1617823245.pdf.
+
+- The Americas region reported 27.3% of daily case numbers and 37.0% of the daily deaths reported in the past 24 hours and maintained its position as the most severely affected region, having reported more than 56.88 million cases. The USA reported over 40 000 cases over the last 24 hours, followed by Brazil with 31 359 cases; 11 additional countries reported more than 1000 cases in the past 24 hours (Colombia, Argentina, Mexico, Chile, Peru, Paraguay, Uruguay, El Salvador, Venezuela, Ecuador, and Cuba). Canada, Guatemala and Costa Rica, among others, did not report any cases in the last 24 hours.
+
+- The European region reported 33.1% of daily case numbers and 42.5% of the daily deaths reported in the past 24 hours, and total cumulative cases reported exceed 46.25 million. Many countries not reporting cases in the last 24 hours or longer include Belgium (one case), Portugal, Sweden, Switzerland, and Kazakhstan, among others. Turkey reported the highest number of cases over the last 24 hours, followed by Ukraine, Italy, and France, reporting more than 10 000 new cases in the past 24 hours. Another 15 countries reported more than 1000 cases, and an additional 12 countries reported more than 500 but fewer than 1000 cases.
+
+- The Eastern Mediterranean region reported 10.5% of daily case numbers and 8.4% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 7.78 million cases. Iran reported the highest number of cases (13 890) over the last 24 hours, followed by Jordan, Iraq, Pakistan, Palestinian Authority, UAE, Tunisia, Libya, Oman, Lebanon, and Kuwait. Bahrain, Qatar, and Egypt reported more than 500 but fewer than 1000 cases.
+
+- The African region reported 1.4% of daily case numbers and 1.7 % of the deaths reported in the past 24 hours, having reported a cumulative total of more than 3.13 million cases. Ethiopia (2138) reported the highest number of cases over last 24 hours. Botswana reported more than 500 but fewer than 1000 cases. Cameroon, Tanzania, and Gambia, among others, did not report any new cases in the past 24 hours.
+
+- The Western Pacific region reported 2.5% of daily case numbers and 0.4% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 1.99 million cases. Philippines reported the highest number of cases over the last 24 hours (over 8000 cases), followed by Malaysia, South Korea, and Mongolia. Japan has not reported any cases over the last 4 days.
+
+- The South East Asia region reported 25.0% of the daily newly reported cases and 9.7% of reported deaths in the past 24 hours, having reported a cumulative total of more than 15.43 million cases. India is dominant, reporting over 96 000 cases, followed by Bangladesh (7075), Indonesia (3712), Nepal, Thailand, and Sri Lanka.
+
+On the Overview tab at the WHO source URL, the epidemic curve of confirmed COVID-19 cases by WHO region, 30 Dec 2019 through 6 Apr 2021, is an excellent visual representation of the pandemic. - Mod.UBA]
+
+******
+[4] Global update: Worldometer accessed 6 Apr 2021 21:10 EST (GMT-5)
+Date: Tue 6 Apr 2021
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at https://promedmail.org/wp-content/uploads/world-pdf/2021%20WORLDDATA%20APR6_1617823963.pdf.
+
+A 7-day series of cumulative data reported by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/2021%20APR6WORLD7_1617824996.pdf. - Mod.UBA]
+
+Total number of reported deaths: 2 885 894
+Total number of worldwide cases: 133 015 276
+Number of newly confirmed cases in the past 24 hours: 610 840
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[In the past 24 hours, India (115 269), Brazil (82 869), the USA (62 283), and Turkey (49 584) have reported the highest numbers of cases. A global total of 12 391 deaths were reported in the past 24 hours (late 5 Apr 2021 to late 6 Apr 2021). Countries reporting more than 10 000 newly confirmed cases in the past 24 hours (8 countries) include India, Turkey, the USA, Brazil, Argentina (20 870), Iran (17 430), Ukraine (13 276), and Columbia (11 827). A total of 53 countries reported more than 1000 cases in the past 24 hours; 28 of the 53 countries are from the European region, 10 are from the Americas region, 8 are from the Eastern Mediterranean region, 3 are from the South East Asia region, 2 are from the Western Pacific region, and 2 from the African region.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, case counts have increased by 8.8%, while daily reported deaths have increased by 0.4%. Similar comparative 7-day averages in the USA show a 2.4% increase in daily reported cases and a 1.1% decrease in reported deaths.
+
+Impression: The global daily report counted over 600 000 newly confirmed infections in the past 24 hours with over 133.015 million cumulative reported cases and over 2.88 million reported deaths. - Mod.UBA]
+See Also
+COVID-19 update (126): India, vaccines in pregnancy, P.1 variants USA, Canada, WHO, global 20210406.8292111
+COVID-19 update (125): variant analysis, maternal antibodies, WHO, global 20210405.8289796
+COVID-19 update (124): surge, variants, bacterial superinfections, WHO, global 20210404.8288263
+COVID-19 update (123): postvaccination transmission, CIDRAP, South Asia, WHO 20210403.8287093
+COVID-19 update (122): vaccines, prior HCoV infection, CIDRAP, Brazil, WHO 20210402.8285587
+COVID-19 update (121): Pfizer clinical trial for children, Brazil, WHO, global 20210401.8283365
+COVID-19 update (120): animal, Russia, vaccine 20210331.8281241
+COVID-19 update (119): Chile, indoor transmission risk, WHO, global 20210331.8281129
+COVID-19 update (118): animal, China, origin, WHO mission, report 20210331.8279475
+COVID-19 update (117): transmission, diagnosis, Philippines, WHO, global 20210330.8278600
+COVID-19 update (116): Vaccine, Canada, variants, common cold, WHO, global 20210329.8276299
+COVID-19 update (115): CAPA, long COVID, Astra-Zeneca, WHO, global 20210328.8274269
+COVID-19 update (114): vacc COVID survivors vs uninfected, flu shots, India, WHO 20210327.8272957
+COVID-19 update (113): Africa, Yemen, schools, remdesivir, WHO, global 20210326.8271053
+COVID-19 update (112): new double mutation variants, AstraZeneca, WHO, global 20210325.8268682
+COVID-19 update (111): protease inhibitor, long COVID, surge, neut Ab, WHO 20210324.8266393
+COVID-19 update (110): vaccines, neutralizing antibody, P1 variant, WHO, global 20210323.8263780
+COVID-19 update (109): animal, Argentina, Italy, cat, dog, OIE 20210323.8262789
+COVID-19 update (108): vaccines, nanopart., Europe, S Africa, AstraZeneca, WHO 20210322.8262023
+COVID-19 update (107): variants, Olympics, India, WHO, global 20210321.8260135
+COVID-19 update (106): 3rd wave, variants, AstraZeneca, WHO, global 20210320.8258994
+COVID-19 update (105): long COVID, variants, T Cell resp, S Asia, WHO, global 20210319.8256709
+COVID-19 update (104): surge, Europe, variants, vaccines, WHO, global 20210318.8254505
+COVID-19 update (103): variants, Papua New Guinea, WHO, global 20210317.8252208
+COVID-19 update (102): China, origin, farmed wild animals susp. 20210316.8251684
+COVID-19 update (101): animal, USA, UK variant 20210316.8251626
+COVID-19 update (100): antibodies, vaccine, Thailand, Cambodia, WHO, global 20210316.8250009
+COVID-19 update (99): China, animal reservoir, wildlife sale, pork supply impact 20210315.8249619
+COVID-19 update (98): transmission, long COVID, vaccine reactions, WHO, global 20210315.8247668
+COVID-19 update (97): testing, contact tracing, variants, immunity, WHO 20210314.8246696
+COVID-19 update (96): HCWs, child mental health, Africa vaccines, WHO 20210313.8245159
+COVID-19 update (95): vacc reactions, vacc approval, Americas, WHO 20210312.8242839
+COVID-19 update (94): blood donor Abs, self-check, pollen, variant, WHO 20210311.8241172
+COVID-19 update (93): animal, Estonia (HA) cat, OIE 20210310.8239589
+COVID-19 update (92): allergy mRNA vacc, sex-specific risk, WHO 20210310.8238271
+COVID-19 update (91): USA post vacc, vacc passport, WHO 20210309.8236250
+COVID-19 update (90): UK sewage, Viet Nam, Cambodia, WHO 20210308.8233859
+COVID-19 update (80): vaccine, USA variants, comments, WHO, global 20210226.8214650
+COVID-19 update (70): gangrene, challenge trials, immunity, cancer, WHO, global 20210218.8198620
+COVID-19 update (60): animal, SARS-CoV-2-related viruses, pangolin, bat 20210211.8184900
+COVID-19 update (50): UK vaccine study, Brazil reinfection, WHO 20210205.8167161
+COVID-19 update (01): variants, vaccine, Thailand, global, WHO 20210101.8062938
+2020
+----
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+COVID-19 update (562): viral load, UK vacc dose, ECDC, WHO 20201231.8061525
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia: China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia: China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+----
+Undiagnosed pneumonia: China (HU): RFI 20191230.6864153
+and other items in the archives
+.................................................sb/lk/lm/uba/rd/lxl
+</body>

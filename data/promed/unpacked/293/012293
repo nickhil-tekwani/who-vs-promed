@@ -1,0 +1,261 @@
+<header id=012293>
+Published Date: 2021-05-27 14:04:19 EDT
+Subject: PRO/AH/EDR> COVID-19 update (184): asymp. infection, post-vaccine heart inflam., fungal, WHO
+Archive Number: 20210527.8388296
+</header>
+<body id=012293>
+CORONAVIRUS DISEASE 2019 UPDATE (184): ASYMPTOMATIC INFECTION, POST-VACCINE HEART INFLAMMATION, FUNGAL, WHO
+***********************************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] Asymptomatic infection
+[2] Post-vaccination heart inflammation
+[3] Fungal infections
+[4] WHO: daily new cases reported (as of 26 May 2021)
+[5] Global update: Worldometer accessed 26 May 2021 22:01 EST (GMT-5)
+
+******
+[1] Asymptomatic infection
+Date: Wed 26 May 2021
+Source: CIDRAP (Center for Infectious Disease Research and Policy) [abridged, edited]
+https://www.cidrap.umn.edu/news-perspective/2021/05/mild-asymptomatic-covid-19-cases-may-be-infectious-severe-ones
+
+
+Only 8% of more than 25 000 German COVID-19 patients had high viral loads, 1/3 of whom were presymptomatic, asymptomatic, or mildly symptomatic, according to a study published yesterday [Tue 25 May 2021] in Science. High viral loads suggest greater infectiousness.
+
+Led by researchers from the Charite-Universitatsmedizin Berlin, the study involved measuring SARS-CoV-2 viral loads and estimating probability of virus cell culture isolation in 25 381 coronavirus patients, 24% of whom were identified at testing facilities, 38% of whom were hospitalized, and 6% of whom were infected with the B117 variant first seen in the United Kingdom.
+
+Viral load is the total number of copies of the SARS-CoV-2 genome in a patient sample, usually given as particles per milliliter of blood. Samples were collected from 24 Feb 2020 - 2 Apr 2021.
+
+The researchers aimed to examine differences in infectiousness in presymptomatic people and those with mild or no symptoms by such factors as age, sex, and vaccination status; timing and degree of peak infectiousness, loss of infectiousness, increases and decreases in infectiousness rates, and how those rates are associated with symptom onset; and differences in infectiousness due to the properties of different virus variants.
+
+Patients who were presymptomatic, asymptomatic, or mildly symptomatic had higher viral loads at their 1st positive coronavirus test than their hospitalized counterparts for all ages up to 70 years, and viral loads increased with age. Those infected with B117 had a mean viral load 1.05 times higher than those infected by other strains.
+
+Youth had lower average and peak viral loads and an estimated 78% lower peak cell culture probability than adults, although the researchers cautioned that less viral material tends to be collected from children in general.
+
+The researchers estimated a lag of 4.3 days from onset of viral shedding to peak viral load and the highest likelihood of cell culture isolation, which suggests that peak infectiousness could start several days before the appearance of any symptoms.
+
+Culture probability was higher for patients with mild or no symptoms than for hospitalized participants, while probability for patients aged 0-5 years with mild or no symptoms was lower than that in those aged 20-65. Similarly, virus culture probability was an estimated 2.6 times higher for participants with B117 infections than in those infected with other strains.
+
+"Laboratory studies may not as yet be in a position to provide a definitive explanation, but one thing is clear: B117 is more infectious than other variants," lead author Christian Drosten, MD, PhD, said in a Charite-Universitatsmedizin press release.
+
+While patients admitted to the hospital are believed to have uniformly high peak viral loads, the researchers found that peak viral loads of nonhospitalized patients varied. Infections in patients with no or mild symptoms were identified, on average, 5.1 days after their viral loads peaked, compared with 7.4 days in other patients. Mean age of participants with high viral loads was 38 years.
+
+"Our results indicate that PAMS [presymptomatic, asymptomatic, mild symptoms] subjects in apparently healthy groups can be expected to be as infectious as hospitalised patients at the time of detection," the authors wrote. "The relative levels of expected infectious virus shedding of PAMS subjects (including children) is of high importance, because these people are circulating in the community, and it is clear that they can trigger and fuel outbreaks."
+
+Although viral load and cell culture virus isolation probability cannot determine infectiousness directly, especially in the context of society and behavior, they may generate the closest approximation of transmission odds, the authors said. Previous studies have also shown a strong link between SARS-CoV-2 viral load and transmissibility, they note.
+
+Drosten said in the release that the findings "provide a virological foundation for the notion that a minority of infected individuals cause the majority of all transmissions. The fact that this includes so many people without any relevant symptoms underlines the importance of pandemic control measures such as social distancing and mandatory mask-wearing."
+
+[Byline: Mary Van Beusekom]
+
+--
+Communicated by:
+Mary Marshall
+<mjm2020@googlemail.com>
+
+[Ref.: Jones TC, Biele G, Muhlemann B, et al.: Estimating infectiousness throughout SARS-CoV-2 infection course. Science. Published online 25 May 2021; eabi5273; DOI: 10.1126/science.abi5273.
+
+"Abstract
+Two elementary parameters for quantifying viral infection and shedding are viral load and whether samples yield a replicating virus isolate in cell culture. We examined 25 381 German SARS-CoV-2 cases, including 6110 from test centres attended by pre-symptomatic, asymptomatic, and mildly symptomatic (PAMS) subjects, 9519 who were hospitalised, and 1533 B.1.1.7 lineage infections. The youngest had mean log10 viral load 0.5 (or less) lower than older subjects and an estimated 78% of the peak cell culture replication probability, due in part to smaller swab sizes and unlikely to be clinically relevant. Viral loads above 10e9 copies per swab were found in 8% of subjects, 1/3 of whom were PAMS, with mean age 37.6. We estimate 4.3 days from onset of shedding to peak viral load (8.1) and cell culture isolation probability (0.75). B.1.1.7 subjects had mean log10 viral load 1.05 higher than non-B.1.1.7, with estimated cell culture replication probability 2.6 times higher."
+
+"Summary
+Our results indicate that PAMS subjects in apparently healthy groups can be expected to be as infectious as hospitalised patients at the time of detection. The relative levels of expected infectious virus shedding of PAMS subjects (including children) is of high importance because these people are circulating in the community, and it is clear that they can trigger and fuel outbreaks. The results from our time series analysis, and their generally good agreement with results from studies based on other metrics (often epidemiological), show that accurate estimations can be directly obtained from 2 easily measured virological parameters, viral load and sample cell culture infectivity. Such results can be put to many uses: to estimate transmission risk from different groups (by age, gender, clinical status, etc.), quantify variance, show differences in virus variants, highlight and quantify over-dispersion, and inform quarantine, containment, and elimination strategies. Our understanding of the timing and magnitude of change in viral load and infectiousness, including the impact of influencing factors, will continue to improve as data from large studies accumulate and are analyzed. A major ongoing challenge is to connect what we learn about estimated infectiousness from these clinical parameters to highly context-dependent in vivo transmission. Based on our estimates of infectiousness of PAMS subjects and the higher viral load found in subjects infected with the B.1.1.7 variant, we can safely assume that non-pharmaceutical interventions such as social distancing and mask wearing, have been key in preventing many additional outbreaks. Such measures should be employed in all social settings and across all age groups, wherever the virus is present." - Mod.LK]
+
+******
+[2] Heart inflammation
+Date: Mon 24 May 2021
+Source: CIDRAP (Center for Infectious Disease Research and Policy) [abridged, edited]
+https://www.cidrap.umn.edu/news-perspective/2021/05/covid-19-cases-drop-sharply-across-us
+
+
+The CDC is investigating a few dozen cases of myocarditis, an inflammation of the heart muscle, found in young adults and adolescent vaccine recipients.
+
+The incidents were first reported on 17 May [2021] during a Vaccine Safety Technical (VaST) Work Group meeting. The cases are mild, often follow the 2nd dose of mRNA vaccine, and are more often in males than females.
+
+"Within CDC safety monitoring systems, rates of myocarditis reports in the window following COVID-19 vaccination have not differed from expected baseline rates. However, VaST members felt that information about reports of myocarditis should be communicated to providers," the CDC said.
+
+Yesterday [Sun 23 May 2021] the American Heart Association/American Stroke Association issued a statement recommending vaccines despite these early reports.
+
+"The few cases of myocarditis that have been reported after COVID-19 vaccination are being investigated. However, myocarditis is usually the result of a viral infection, and it is yet to be determined if these cases have any correlation to receiving a COVID-19 vaccine, especially since the COVID-19 vaccines authorized in the US do not contain any live virus," the association said in a statement. "We remain confident that the benefits of vaccination far exceed the very small, rare risks."
+
+[Byline: Stephanie Soucheray]
+
+--
+Communicated by:
+Mary Marshall
+
+["Myocarditis is an inflammation of the heart muscle (myocardium). Myocarditis can affect the heart muscle and the heart's electrical system, reducing the heart's ability to pump and causing rapid or abnormal heart rhythms (arrhythmias).
+
+"A viral infection usually causes myocarditis, but it can result from a reaction to a drug or be part of a more general inflammatory condition. Signs and symptoms include chest pain, fatigue, shortness of breath, and arrhythmias.
+
+"Severe myocarditis weakens the heart so that the rest of the body doesn't get enough blood. Clots can form in the heart, leading to a stroke or heart attack" (https://www.mayoclinic.org/diseases-conditions/myocarditis/symptoms-causes/syc-20352539).
+
+Fortunately, the cases that have been observed are mild. - Mod.LK]
+
+******
+[3] Fungal infections
+Date: Thu 27 May 2021
+Source: Indian Express [edited]
+https://indianexpress.com/article/cities/baroda/nasal-aspergillosis-another-fungal-infection-on-the-rise-in-vadodara-7331961/
+
+
+Even as concern grows over the increasing number of mucormycosis cases in the city, doctors have reported cases of another invasive fungal infection -- aspergillosis -- among COVID-positive patients as well as those who have recovered from the virus.
+
+Vadodara, which has 262 patients undergoing treatment for mucormycosis in 2 government hospitals -- SSG and Gotri medical college -- now has at least 8 patients of aspergillosis in SSG, admitted over the past week.
+
+SSG also has 13 patients of _Candida auris_, an invasive, multi-drug-resistant yeast infection that is being found in COVID-19 patients.
+
+Dr Sheetal Mistry, advisor for COVID-19 to the city and district administration, told this newspaper, "Pulmonary aspergillosis is commonly seen in immuno-compromised patients, but aspergillosis of the sinuses is rare. We are seeing it now in patients who have recovered from COVID or are undergoing treatment. Although aspergillosis is not as mutilating as mucormycosis, it is also invasive. The fungal infections seen these days are mostly invasive in the rhino-orbital-cerebral passage."
+
+Mistry attributes the growing cases of fungal infections to the usage of steroids for treating COVID patients as well as the use of non-sterile water used for hydrating the oxygen supply.
+
+Mistry said, "Fungal infections are opportunistic in nature and feed on glucose. Therefore, patients with a history of diabetes, who have undergone a rigorous course of steroids to treat COVID-19, as well as those who have turned diabetic following COVID-19 infection are at risk of developing the fungal infection. We are also observing low counts of lymphocytes in the blood (lymphopenia), which compromises on immunity and makes way for fungal infections."
+
+[Byline: Aditi Raja]
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[Aspergillosis of the head and neck region primarily affects the nasal cavity and paranasal sinuses. There are more than 185 species of _Aspergillus_, and over 95 % of all infections are caused by _Aspergillus fumigatus_, _Aspergillus flavus_, and _Aspergillus niger_. Disease may present with nasal polyps, anterior and posterior nasal discharge, nasal obstruction, epistaxis, headache, anosmia, proptosis, or snoring.
+
+_Aspergillus_ as a pathogen cannot actively penetrate undamaged and intact mucus membrane or skin as it lacks keratolytic enzymes. Aspergillosis is now classified into invasive (acute fulminant, chronic invasive, granulomatous invasive) and non-invasive (fungus ball and allergic fungal rhinosinusitis) forms with their own pathophysiology and clinical presentation. Any type of paranasal aspergillosis may progress to a more aggressive disease illustrating the importance of early recognition.
+
+Previously, scientists thought aspergillosis occurred almost entirely in people with severely weakened immune systems. However, aspergillosis has been increasingly reported in patients without weakened immune systems but who have severe respiratory infections caused by viruses, including influenza. Several recent reports describe COVID-19-associated pulmonary aspergillosis (CAPA).
+
+Clearly, as the above report indicates, a whole spectrum of fungal diseases is being reported in COVID patients with compromised immunological status, particularly in diabetics. These fungal co-infections are reported with increasing frequency and can be associated with severe illness and death. Awareness of the possibility of fungal co-infection is essential to reduce delays in diagnosis and treatment in order to help prevent severe illness and death from these infections. - Mod.UBA]
+
+******
+[4] WHO: daily new cases reported (as of 26 May 2021)
+Date: Wed 26 May 2021
+Source: WHO [abridged, edited]
+https://covid19.who.int/table
+
+
+*Daily case reports as of 26 May 2021 17:15 CET
+
+Surveillance
+------------
+WHO region (no. countries/territories):
+Total confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+--------------------------------------------------------------------------------
+Western Pacific Region (19): 2 911 654 (17 385) / 43 614 (206)
+European Region (61): 53 962 217 (49 586) / 1 142 221 (2078)
+South East Asia Region (10): 30 781 898 (230 276) / 385 673 (4605)
+Eastern Mediterranean Region (22): 9 955 811 (33 087) / 199 581 (547)
+Region of the Americas (54): 66 414 286 (122 464) / 1 625 371 (2978)
+African Region (49): 3 466 139 (8549) / 86 434 (214)
+Other: 764 (0) / 13 (0)
+
+Confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+Grand total: 167 492 769 (461 347) / 3 482 907 (10 628)
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[Data by country, area, or territory for 26 May 2021 can be accessed at https://promedmail.org/wp-content/uploads/world-pdf/2021%20WHO%20Daily%20Tables%20May26_1622142453.pdf.
+
+- The Americas region reported 26.5% of daily case numbers and 28.0% of the daily deaths reported in the past 24 hours and maintained its position as the most severely affected region, having reported more than 66.41 million cases. Brazil reported over 37 000 cases over the last 24 hours followed by Argentina with 22 651 cases, the USA (22 239), and Colombia (16 977). Nine additional countries reported more than 1000 cases in the past 24 hours (Canada, Peru, Chile, Costa Rica, Venezuela, Paraguay, Uruguay, Bolivia, and Cuba). Three additional countries (Mexico, Dominican Republic, and El Salvador) reported more than 500 but fewer than 1000 cases.
+
+- The European region reported 10.7% of daily case numbers and 19.6% of the daily deaths reported in the past 24 hours, and total cumulative cases reported exceed 53.96 million cases. Many countries not reporting cases in the last 24 hours or longer include Belgium (2 cases), Switzerland (1 case), and Kazakhstan, among others. Thirteen countries reported more than 1000 cases in the past 24 hours, and an additional 5 countries reported more than 500 but fewer than 1000 cases.
+
+- The Eastern Mediterranean region reported 7.2% of daily case numbers and 5.1% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 9.95 million cases. Iran reported the highest number of cases (11 873) over the last 24 hours, followed by Iraq, Bahrain, Pakistan, UAE, Kuwait, Saudi Arabia, Egypt, and Tunisia. Jordan, Oman, Afghanistan, and Palestinian Authority reported more than 500 but fewer than 1000 cases.
+
+- The African region reported 1.8% of daily case numbers and 2.0% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 3.46 million cases. South Africa reported the highest number of cases over last 24 hours (3084) followed by Cameroon (1226). Botswana, Burkina Faso, and Congo, among others, did not report any new cases in the past 24 hours.
+
+- The Western Pacific region reported 3.8% of daily case numbers and 1.9% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 2.91 million cases. Malaysia reported the highest number of cases over the last 24 hours (over 7200 cases), followed by Philippines, Japan, South Korea, Mongolia, and China.
+
+- The South East Asia region reported 49.9% of the daily newly reported cases and 43.3% of reported deaths in the past 24 hours, having reported a cumulative total of more than 30.78 million cases. India is dominant, reporting over 208 000 cases, followed by Nepal (8387), Indonesia (5060), Sri Lanka (2728), Thailand (2455), Bangladesh (1675), and Maldives (1004).
+
+On the Overview tab at the WHO source URL, the epidemic curve of confirmed COVID-19 cases by WHO region, 30 Dec 2019 through 26 May 2021, is an excellent visual representation of the pandemic. - Mod.UBA]
+
+******
+[5] Global update: Worldometer accessed 26 May 2021 22:01 EST (GMT-5)
+Date: Wed 26 May 2021
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at https://promedmail.org/wp-content/uploads/world-pdf/2021%20WORLDDATA%20MAY26_1622143257.pdf.
+
+A 7-day series of cumulative data reported by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/2021%20MAY26WORLD7_1622144859.pdf. - Mod.UBA]
+
+Total number of reported deaths: 3 512 023
+Total number of worldwide cases: 169 071 178
+Number of newly confirmed cases in the past 24 hours: 557 952
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[In the past 24 hours, India (211 553), Brazil (79 459), Argentina (35 399), and the USA (24 018), have reported the highest numbers of cases. A global total of 12 606 deaths were reported in the past 24 hours (late 24 May 2021 to late 25 May 2021). Countries reporting more than 10 000 newly confirmed cases in the past 24 hours (7 countries) include India, Brazil, Argentina, the USA, Colombia (23 487), France (12 646), and Iran (10 468). A total of 55 countries reported more than 1000 cases in the past 24 hours; 28 of the 55 countries are from the European region, 8 are from the Americas region, 8 are from the Eastern Mediterranean region, 6 are from the South East Asia region, 3 are from the Western Pacific region, and 2 from the African region.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, case counts have decreased by 24.1%, while daily reported deaths have decreased by 4.6 %. Similar comparative 7-day averages in the USA show 21.9% decrease in daily reported cases and 11.7% decrease in reported deaths.
+
+Impression: The global daily reported over 500 000 newly confirmed infections in the past 24 hours with over 169.07 million cumulative reported cases and over 3.51 million reported deaths. - Mod.UBA]
+See Also
+COVID-19 update (183): Japan, oxygen shortage, Hong Kong, GI effect, WHO, global 20210526.8382989
+COVID-19 update (182): Japan, Olympics, India, mucrom, oxygen & mortality, WHO 20210525.8381031
+COVID-19 update (181): variants, ACE2, polycystic ovary syndrome, WHO 20210524.8379054
+COVID-19 update (180): variant vaccine, efficacy, Nepal, Southeast Asia, WHO 20210523.8377232
+COVID-19 update (179): Singapore, canine coronavirus, saliva vs nasal swabs, WHO 20210522.8375930
+COVID-19 update (178): evidence-based med, B.1.617.2 spread UK, Argentina, WHO 20210521.8374686
+COVID-19 update (177): inflam syndrome, Latin Am, long COVID, racial disp, WHO 20210520.8372539
+COVID-19 update (176): WHO forum, conv. plasma, variants, public health, WHO 20210519.8370610
+COVID-19 update (175): mucormycosis, homeless, reinfection, plasma, WHO, global 20210518.8368647
+COVID-19 update (174): animal, Thailand, dog, OIE 20210518.8368402
+COVID-19 update (173): airborne trans, Africa, NHS COVID19 app, WHO, global 20210517.8366642
+COVID-19 update (172): variants, diagnostic samples, symptoms, WHO, global 20210516.8364908
+COVID-19 update (171): CDC mask statement, opinion, variant tracking, WHO, global 20210515.8363955
+COVID-19 update (170): candidate animal models, potential hosts, research 20210515.8362876
+COVID-19 update (169): vaccine, B.1.617.2 variant UK, Canada, mucormycosis, WHO 20210514.8362611
+COVID-19 update (168): neurologic, Pfizer vaccine in adolescents, WHO, global 20210513.8360208
+COVID-19 update (167): children, Taiwan, Singapore, Asia, Sinovac, WHO, global 20210512.8358554
+COVID-19 update (166): B.1.617 reclass., Africa, Pfizer adolescents, Taiwan, WHO 20210511.8356523
+COVID-19 update (165): vacc dist, India mucormycosis RFI, Austria, NAb, WHO 20210510.8354377
+COVID-19 update (164): USA mortality, Japan Olympics, vaccine, dengue assoc. WHO 20210509.8352882
+COVID-19 update (163): ship, vaccine, variant, rapid test, WHO 20210509.8351929
+COVID-19 update (162): vacc property rights, immunization, reinfection, WHO 20210507.8350504
+COVID-19 update (161): Seychelles, vaccine, Nepal, WHO 20210506.8348332
+COVID-19 update (160): variants, research, India, WHO 20210505.8346370
+COVID-19 update (159): animal, India, zoo, lion 20210504.8344580
+COVID-19 update (158): variants Africa, Japan Olympics, Brazil, WHO 20210504.8344376
+COVID-19 update (157): India, Africa, Canada, maternal transmission, WHO 20210503.8342612
+COVID-19 update (156): India, Africa, spike protein, WHO, global 20210502.8340934
+COVID-19 update (155): B1.617, flight trans, Papua New Guinea, SoAs, WHO, global 20210502.8340070
+COVID-19 update (154): Israel, vaccines, Asia, UK, WHO, global 20210430.8338358
+COVID-19 update (153): impact on children, ischemic stroke, India, WHO, global 20210429.8336312
+COVID-19 update (152): animal, Croatia, dog, OIE 20210429.8336058
+COVID-19 update (151): India vaccine, variant, USA, weekly update, WHO, global 20210428.8334213
+COVID-19 update (150): Nepal, India support, Qatar, Japan updates, WHO, global 20210427.8331945
+COVID-19 update (140): animal, Latvia, mink, OIE 20210419.8314796
+COVID-19 update (130): antibody evasion, variants, South Asia, WHO, global 20210410.8300187
+COVID-19 update (120): animal, Russia, vaccine 20210331.8281241
+COVID-19 update (100): antibodies, vaccine, Thailand, Cambodia, WHO, global 20210316.8250009
+COVID-19 update (50): UK vaccine study, Brazil reinfection, WHO 20210205.8167161
+COVID-19 update (01): variants, vaccine, Thailand, global, WHO 20210101.8062938
+2020
+----
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+COVID-19 update (562): viral load, UK vacc dose, ECDC, WHO 20201231.8061525
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia: China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia: China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+----
+Undiagnosed pneumonia: China (HU): RFI 20191230.6864153
+and other items in the archives
+.................................................sb/lk/jh/uba/ao/tw/jh
+</body>

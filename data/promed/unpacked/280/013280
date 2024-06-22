@@ -1,0 +1,130 @@
+<header id=013280>
+Published Date: 2013-12-06 16:36:35 EST
+Subject: PRO/AH/EDR> Salmonellosis, serotype Goldcoast - UK (02): (England) whelks
+Archive Number: 20131206.2096413
+</header>
+<body id=013280>
+SALMONELLOSIS, SEROTYPE GOLDCOAST - UK (02): (ENGLAND), WHELKS
+**************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+Date: Thu 5 Dec 2013
+Source: Eurosurveillance, Volume 18, Issue 49 [edited]
+http://www.eurosurveillance.org/ViewArticle.aspx?ArticleId=20654
+
+
+During September 2013, 17 laboratory-confirmed cases of _Salmonella enterica_ serotype Goldcoast infection with gastroenteritis were reported in England. This number was greater than the annually expected number: in 2012, 8 cases were reported in England, in 2011, 5 were reported, and in 2010, 13 were reported. Public Health England initiated an investigation on 12 Sep 2013 in order to identify the source of the outbreak and enable suitable control measures to be put in place to prevent further cases. The last case, with symptom onset in October 2013, was reported on 12 Nov 2013, bringing the number of reported cases to 38. The cases' ages ranged between 6 months and 83 years (median: 64 years); 2 were aged under 16 years. Of the 38 cases, 25 were male. All cases were resident in England, predominantly in the east of the country (Figure 1 [for figures, see source URL - Mod.LL]).
+
+As the incidence of this serotype is expected to be low, we looked at reports in the previous 3 months. Symptom onset dates ranged from 21 Jun 2013 (week 25) to 6 Oct 2013 (week 41) (Figure 2). Before this, the last case was reported in January 2013. Of the 38 cases, 10 were hospitalized, of whom 4 were admitted to intensive care. The median duration of illness was 13 days (range: 4-21); 7 cases were symptomatic at the time they were 1st asked about their symptoms. Of the 35 cases for whom data on symptoms were available, all had diarrhea; other symptoms included nausea (n=22), abdominal pain (n=22), fever (n=17), vomiting (n=15), headache (n=15) and blood in stools (n=3).
+
+Epidemiological investigation
+-----------------------------
+Outbreak cases were defined as persons resident in England diagnosed with _Salmonella_ Goldcoast infection by the Salmonella Reference Service (Public Health England, London) after 1 Jun 2013. All laboratories in England and Wales send all _Salmonella_ samples to this reference service.
+
+To generate a hypothesis as to the source of this outbreak, we undertook detailed telephone interviews of the 1st 10 cases, with a trawling questionnaire. The questionnaire included demographics, clinical details, information on travel and contact with symptomatic persons, events attended and a detailed food history (including a general seafood question) for the week before symptom onset, including venues eaten at, and types and origin of foods eaten at home. Of the 3 cases with the earliest symptom onset dates, 2 reported having eaten whelks. Whelk consumption was reported by 5 of the 10 cases interviewed; this was much higher than the expected level of whelk consumption (for gastroenteritis questionnaires routinely completed in the east of England, eating whelks is reported by less than 1 percent of cases). Therefore, our primary hypothesis was that illness was associated with eating whelks (_Buccinum undatum_).
+
+We then undertook an unmatched case-control study to test the hypothesis that whelk consumption was associated with _Salmonella_ Goldcoast infection in England in 2013. Cases were excluded from the study if they were aged under 16 years (for logistic reasons), had traveled outside the United Kingdom (UK) in the 5 days before onset of symptoms, had had close contact with other individuals with gastroenteritis in the 5 days before onset, were asymptomatic or had already been interviewed with the trawling questionnaire. Controls were recruited through a systematic digit dialling process, using the home telephone number of cases to generate telephone numbers of people who were then contacted. We initially aimed to recruit 2 controls per case, but subsequently reduced this due to the strength of association observed. Information was collected from participants using a pre-tested questionnaire that was administered over the telephone by trained investigators. The questionnaire included questions on the following: demographics, clinical details, travel history, contact with persons with diarrhea, events attended and foods eaten, including location of purchase, in the week before symptom onset. Foods in addition to whelks that were eaten by at least 8 cases in the trawling questionnaire were included in the case-control study.
+
+Data from the questionnaire were entered into a database using EpiData 3.1. Data were checked and analysed using Stata v12.1. The association between illness and each variable was estimated using odds ratios (ORs) and 95 percent confidence intervals (CIs). Data were subjected to univariable analysis and stratification to test for effect modification and confounding together with multivariable analysis using logistic regression. Statistically significant exposures at the alpha=0.05 level were added to the multivariable model. These were retained if they significantly improved the model, as assessed using a likelihood ratio test.
+
+Food chain investigation
+------------------------
+Foods identified in the trawling questionnaire and case-control study were investigated by environmental health officers and the Food Standards Agency. From each point of sale, distributers and suppliers were traced. Links between suppliers were mapped to produce a food chain diagram.
+
+Food and environmental samples were taken using appropriate media. Samples were tested for presence of _Escherichia coli_ and _Salmonella_. Presumptive _Salmonella_ isolates were screened using a real-time polymerase chain reaction (PCR) assay for identification of the most common subspecies of _S. enterica_ [1,2]. Serum agglutination tests, using Kauffmann-White classification [3], confirmed the presence of _S. enterica_ serovar Goldcoast (6,8:r:l,w).
+
+Analytical epidemiology
+-----------------------
+In total, 22 cases were eligible for the case-control study: of these, 20 cases were included (2 cases declined to participate). A total of 27 controls were included. In a univariable analysis, cases were significantly more likely than controls to have consumed whelks, cockles, lettuce, fish and peppers (Table [for table, see source URL - Mod.LL]). No effect modification was detected. In the final multivariable model, when adjusted for sex, cases were significantly more likely to have consumed whelks (OR: 109; 95 percent CI: 7.7-1539).
+
+Food and environmental microbiology
+-----------------------------------
+Whelk consumption was reported by 24 of the 38 cases and 1 of the 27 controls; venues that these cases reported purchasing whelks from were investigated by environmental health officers. A summary of the food chain inferred from these investigations is shown in Figure 3. The supplier could be traced for whelks eaten by 20 cases: all were traced back to whelks processed by the same factory (Factory X). The whelks eaten by the control were not supplied by Factory X.
+
+Factory X is a seafood factory in England; in 2012 it processed 639 049 kg of whelk meat. Whelks are processed by cooking in a pressure cooker. Their shells are then crushed and removed before the meat is cooled in a water bath. A small proportion is then sold fresh, with the majority of cooked whelks being flash frozen before sale. Over 90 percent of cooked whelks from Factory X are shipped to a single non-European Union country for further processing and consumption; the remainder are sold in the UK.
+
+A total of 11 samples of whelks that had been processed at Factory X were taken at the point of sale from 4 outlets; 2 of the samples were positive for _S._ Goldcoast. Of the 7 processed and 2 raw whelk samples taken from Factory X, none were positive for _S._ Goldcoast. We tested 33 swabs or water samples from whelk-processing machinery at Factory X: 6 tested positive for _S._ Goldcoast.
+
+Control measures
+----------------
+Following initial descriptive epidemiology and food tracing investigations, Factory X was visited by environmental health officers on 20 Sep 2013. Cooking temperatures could not be verified and the factory agreed not to produce ready-to-eat whelks until further notice. During a subsequent inspection on 23 Sep 2013, inadequate product temperatures were recorded immediately following cooking and therefore the whelks processed on that day and stored frozen on the premises were kept on the site. Due to the problems identified in the processing of whelks, the factory instigated a product recall on 23 Sep 2013. The effectiveness of this recall was monitored by the Food Standards Agency and associated local authorities. The Foods Standards Agency informed the competent authorities in the country that this product is exported to: to date, no cases have been reported.
+
+Discussion
+----------
+We present epidemiological, environmental, microbiological and food chain evidence, which all support the conclusion that this outbreak of _S._ Goldcoast infection was associated with consumption of whelks processed by Factory X. _S._ Goldcoast outbreaks have previously been associated with pork products (salami [4], pork cheese (cooked pig organs stuffed in a pig stomach) [5], French pate [6] and raw fermented sausage [7]), watercress [8] and hard cheese [9]. Whelks have previously been associated with toxin-based food poisoning [10], but to our knowledge, this outbreak is the 1st known report of bacterial food poisoning associated with whelk consumption.
+
+Regarding the mechanism of _S._ Goldcoast contamination, microbiological evidence suggests that production equipment in contact with cooked whelks was contaminated with _S._ Goldcoast for a number of weeks, despite the use of a sanitiser and the cooked whelks passing through a highly saline bath. _Salmonella_ Senftenberg has previously been observed to survive in high salinity environments [11]: it may be that _S._ Goldcoast shares this characteristic.
+
+There was limited evidence that could indicate the original source of the _S._ Goldcoast contamination. One of the environmental samples that tested positive for _S._ Goldcoast was a swab of the conveyer belt used to transport raw whelks to the cooker, indicating that it was present on at least some whelks before entering the factory. Whelks are not filter feeders, and it is unclear whether they ingested the bacteria or the pathogens were in water that contaminated the shells. On the basis of the epidemiological evidence, we hypothesize that contaminated whelks may have been produced over at least a 3-month period, but this contamination may have been intermittent, at a consistently low level. This would account for the relatively small number of cases seen.
+
+We hope to be able to undertake whole genome sequencing of all outbreak cases and environmental isolates in future. Providing suitable background isolates are sequenced, this should allow a higher level of discrimination within the cases to ascertain which may be an artefact of sporadic incidence. Cases who did not report whelk consumption may have been sporadic or secondary cases. Regarding the case who was 6 months old, one possible explanation is that the infant may have been infected by a family member who had eaten contaminated whelks, but who was asymptomatic.
+
+Of the 38 cases, 10 were hospitalized, of whom 4 were admitted to intensive care. This level of severity has not previously been reported for _S._ Goldcoast. _Salmonella_ incidence is usually highest among the youngest (aged 0 to 4 years) [12]. As these cases had a median age of 65 years, they may have been more likely to have co-morbidities that increase the risk of hospitalization.
+
+One limitation of this study was that memory recall may have been different in case and control groups. To minimize this, cases and controls were interviewed in as timely a fashion as possible. Another limitation was that by using sequential digit dialling, a preponderance of females were recruited (20/27), whereas 25/38 of the cases were male. Explicit or frequency matching of controls was not possible due to the resources available for the investigation. To address this, sex was adjusted for in the analysis. It should also be noted that due to the small number of cases and controls, the CIs around the estimates of effect were wide.
+
+We consider that the measures put in place to control this outbreak were effective in preventing further cases in England. Whelks are a novel vehicle for salmonellosis and should be considered in the investigation of future outbreaks. It is known that processed whelks are sold internationally, and so if contaminated, there is the potential for cases to occur in countries outside the UK.
+
+References:
+1. Hopkins KL, Peters TM, Lawson AJ, Owen RJ: Rapid identification of _Salmonella enterica_ subsp. arizonae and _S. enterica_ subsp. diarizonae by real-time polymerase chain reaction. Diagn Microbiol Infect Dis. 2009;64:452-4.
+2. Hopkins KL, Lawson AJ, Connell S, Peters TM, de Pinna E: A novel real-time polymerase chain reaction for identification of _Salmonella enterica_ subspecies enterica. Diagn Microbiol Infect Dis. 2011;70:278-80.
+3. Grimont PA, Weill FX: Antigenic formulae of the _Salmonella_ serovars. 9th ed. Paris: World Health Organization Collaborating Centre for Reference and Research on Salmonella, Institut Pasteur; 2007. Available from: http://www.pasteur.fr/ip/portal/action/WebdriveActionEvent/oid/01s-000036-089.
+4. Scavia G, Ciaravino G, Luzzi I, et al: A multistate epidemic outbreak of _Salmonella_ Goldcoast infection in humans, June 2009 to March 2010: the investigation in Italy. Euro Surveill. 2013;18(11):pii=20424. Available from: http://www.eurosurveillance.org/ViewArticle.aspx?ArticleId=20424.
+5. Horvath JK, Mengel M, Krisztalovics K, et al: Investigation into an unusual increase of human cases of _Salmonella_ Goldcoast infection in Hungary in 2009. Euro Surveill. 2013;18(11):pii=20422. Available from: http://www.eurosurveillance.org/ViewArticle.aspx?ArticleId=20422.
+6. Threlfall EJ, Hall ML, Rowe B: _Salmonella_ gold-coast from outbreaks of food-poisoning in the British Isles can be differentiated by plasmid profiles. J Hyg (Lond). 1986;97:115-22.
+7. Bremer V, Leitmeyer K, Jensen E, et al: Outbreak of _Salmonella_ Goldcoast infections linked to consumption of fermented sausage, Germany 2001. Epidemiol Infect. 2004;132:881-7.
+8. Joce R, O'Sullivan DG, Strong C, et al: A national outbreak of _Salmonella_ Gold-coast. Commun Dis Rep CDR Rev. 1990;4:3-4.
+9. _Salmonella_ Gold-coast and cheddar cheese: update. Commun Dis Rep CDR Wkly. 1997;7(11):93, 96.
+10. Reid TM, Gould IM, Mackie IM, Ritchie AH, Hobbs G: Food poisoning due to the consumption of red whelks (_Neptunea antiqua_). Epidemiol Infect. 1988;101(2): 419-23.
+11. Martinez-Urtaza J, Peiteado J, Lozano-Leon A, Garcia-Martin O: Detection of _Salmonella_ Senftenberg associated with high saline environments in mussel processing facilities. J Food Prot. 2004;67:256-63.
+12. Health Protection Agency (HPA): Epidemiology of _Salmonella_ infections in London, 2007-2011. 4 January 2013. London: HPA; 2013. Available from: http://www.hpa.org.uk/webc/HPAwebFile/HPAweb_C/1317138078463.
+
+[Authors: Inns T, Beasley G, Lane C, et al]
+
+--
+Communicated by:
+ProMED-mail from HealthMap Alerts
+<promed@promedmail.org>
+
+[Whelk (http://en.wikipedia.org/wiki/Whelk) is a common name that is applied to various kinds of sea snail, many of which have historically been used, or are still used, by humans for food. Although a number of whelks are relatively large and are in the family _Buccinidae_ (the true whelks), the word "whelk" is also applied to some other marine gastropod mollusc species within several families of sea snails that are not very closely related. The common name "whelk" is also spelled welk or even wilks. The word originated from the Proto-Germanic root "weluka," which may come from the Proto-Indo-European root "wel-," meaning to turn or revolve. The species, genera and families referred to by this common name vary a great deal from one geographic area to another.
+
+As found here, usually outbreaks of salmonellosis associated with seafood are caused by post-harvesting contamination. - Mod.LL
+
+A HealthMap/ProMED-mail map can be accessed at: http://healthmap.org/r/1fj0.]
+See Also
+Salmonellosis, serotype Gold Coast - UK: (England) whelks 20130928.1972663
+Salmonellosis - UK (05): ham, alert, recall 20130913.1942779
+Salmonellosis - UK (04): (Wales) 20130823.1898158
+Salmonellosis - Jersey: barbecue 20130716.1828225
+Salmonellosis - UK (03): (England) food festival, curry leaves 20130619.1781786
+Salmonellosis - UK (02): (England) food festival 20130312.1583339
+Salmonellosis - UK: (England) food festival 20130311.1581524
+2012
+----
+Salmonellosis, serotype Enteritidis PT1 - UK: pasteurized egg whites 20121019.1351067
+Salmonellosis, serotype Newport - UK: (Scotland) watermelon susp. 20120202.1029457
+Salmonellosis, serotype Typhimurium DT193 - UK 20120123.1017854
+2011
+----
+Salmonellosis, serotype enteritidis PT14b - UK (02): England ex Spain 20110817.2491
+Salmonellosis, serotype Enteritidis PT14b - UK: ex Spain, eggs 20110729.2284
+Salmonellosis, serotype Enteritidis PT14b - UK: ex Spain, eggs 20110729.2280
+2010
+----
+Salmonellosis, Bareilly - UK (04): sprouts 20101101.3959
+Salmonellosis, Bareilly - UK (03): sprouts, conf. 20101006.3623
+Salmonellosis, Bareilly - UK (02): (UK) sprouts 20101002.3576
+Salmonellosis, Typhimurium DT8 - UK: (Eng., N Ire) duck eggs 20100924.3458
+Salmonellosis, Bareilly - UK: (England, Scotland) sprouts 20100924.3453
+Salmonellosis, reptile feed - UK, USA (02) 20100806.2662
+Salmonellosis, reptile feed - UK, USA: st Typhimurium DT 191A 20100730.2555
+2005
+----
+Salmonellosis, serotype Goldcoast, tourists - Multicountry ex Spain (03) 20051212.3574
+Salmonellosis, serotype Goldcoast, tourists - Multicountry ex Spain 20051028.3142
+.................................................sb/ll/je/lm
+</body>

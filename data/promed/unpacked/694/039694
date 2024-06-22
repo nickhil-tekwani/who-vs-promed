@@ -1,0 +1,257 @@
+<header id=039694>
+Published Date: 2021-12-08 17:17:32 EST
+Subject: PRO/AH/EDR> COVID-19 update (422): omicron, neglected tropical diseases, Uganda, WHO, global
+Archive Number: 20211208.8700145
+</header>
+<body id=039694>
+CORONAVIRUS DISEASE 2019 UPDATE (422): OMICRON NEUTRALIZATION, STEALTH VERSION, NEGLECTED TROPICAL DISEASES, UGANDA, WHO, GLOBAL
+********************************************************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] Omicron
+[A] Neutralization
+[B] Stealth version
+[2] Neglected tropical diseases
+[3] Africa (Uganda)
+[4] WHO: daily new cases reported (as of 7 Dec 2021)
+[5] Global update: Worldometer accessed 7 Dec 2021 21:57 EST (GMT-5)
+
+******
+[1] Omicron
+[A] Neutralization
+Date: Tue 7 Dec 2021
+Source: Africa Health Research Institute [abridged, edited]
+https://www.ahri.org/wp-content/uploads/2021/12/MEDRXIV-2021-267417v1-Sigal.pdf
+
+
+Citation: Cele S, Jackson L, Khan K, et al. SARS-CoV-2 Omicron has extensive but incomplete escape of Pfizer BNT162b2 elicited neutralization and requires ACE2 for infection. 2021.
+--------------------------------------------------------------------------------
+
+The emergence of the omicron variant (1 [see source URL for complete references]) of SARS-CoV-2 in November 2021 in South Africa has raised concerns that, based on the large number of mutations in the spike protein and elsewhere on the virus (https://covdb.stanford.edu/page/mutation-viewer/#sec_b-1-351), this variant will have considerable escape from vaccine elicited immunity. Furthermore, several mutations in the receptor binding domain and S2 are predicted to impact transmissibility and affinity for ACE-2.
+
+Here we investigated whether omicron escapes antibody neutralization elicited by the Pfizer BNT162b2 mRNA vaccine and whether the virus still requires binding to the ACE2 receptor to infect cells. We used an early passage of isolated and sequence-confirmed live omicron virus isolated in South Africa. We used a human lung cell line clone (H1299-ACE2) engineered to express the ACE2 receptor (2) to both isolate the virus and test neutralization. We also tested growth in the parental H1299 which do not overexpress ACE2 and are not appreciably infectable with SARS-CoV-2 (Fig. S1 [see source URL for all figures]). The H1299-ACE2 cells were similar to Vero-E6 in titer-dependent focus formation but were considerably more sensitive (Fig. S2).
+
+We observed that omicron infected the ACE2-expressing cells in a concentration-dependent manner but did not infect the parental H1299 cells, indicating that ACE2 is required for omicron entry (Fig. 1A). We then tested the ability of plasma from BNT162b2-vaccinated study participants to neutralize omicron versus ancestral D614G virus in a live virus neutralization assay. We tested 14 plasma samples from 12 participants (Table S1 [see source URL for tables]), with 6 having no previous record of SARS-CoV-2 infection or detectable nucleocapsid antibodies indicative of previous infection. For 2 of these participants, we used samples from 2 timepoints. The remaining 6 participants had a record of previous infection in the 1st SARS-CoV-2 infection wave in South Africa where infection was with ancestral D614G virus (Table S1). Geometric mean titer (GMT) FRNT50 (inverse of the plasma dilution required for 50% reduction in infection foci number) was 1321 for D614G. These samples therefore had very strong neutralization of D614G virus, consistent with sampling soon after vaccination. GMT FRNT50 for the same samples was 32 for omicron, a 41-fold decline (Fig 1B). However, the escape was incomplete, with 5 of the participants, all previously infected, showing relatively high neutralization titers with omicron.
+
+Beta variant escape from BNT162b2 in a live virus neutralization assay has been reported to be substantial (3) and our own data confirmed these results (4), with about 3-fold reduction in FRNT50. The results we present here with omicron show much more extensive escape. However, escape was incomplete in participants with higher FRNT50 due to previous infection. Previous infection, followed by vaccination or booster, is likely to increase the neutralization level and likely confer protection from severe disease in omicron infection.
+
+--
+Communicated by:
+Mary Marshall
+<mjm2020@googlemail.com>
+
+[Thanks to Jason Gale for the paper's pdf. From Eric Topol (@EricTopol on Twitter): "Great credit to this team for quickly getting us omicron lab neutralization data. The bright side is that there is incomplete immune escape from vaccination. Thumbs up."
+
+This is the 1st report of study results examining whether omicron escapes antibody neutralization elicited by the Pfizer BNT162b2 mRNA vaccine and whether the virus still requires binding to the ACE2 receptor to infect cells. It is a small study testing 14 plasma samples from 12 participants. There was a 41-fold decline in FRNT50 (inverse of the plasma dilution required for 50% reduction in infection foci number to omicron virus) compared with D614G strain. The good news is there was some level of neutralization. These patients had not received boosters, which would likely have increased neutralization level. Thus, full vaccination and boosters are important, as well as masks and physical distancing. - Mod.LK]
+
+----
+[B] Stealth version
+Date: Tue 7 Dec 2021 14:11 EST
+Source: The Guardian [edited]
+https://www.theguardian.com/world/2021/dec/07/scientists-find-stealth-version-of-omicron-not-identifiable-with-pcr-test-covid-variant
+
+
+Scientists say they have identified a "stealth" version of omicron which cannot be distinguished from other variants using the PCR tests that public health officials deploy to gain a quick picture of its spread around the world. It came as the number of cases of the original omicron variant detected in the UK rose by 101 to 437 in a single day and Scotland announced a return to working from home.
+
+The stealth variant has many mutations in common with standard omicron, but it lacks a particular genetic change that allows lab-based PCR tests to be used as a rough and ready means of flagging up probable cases. The variant is still detected as coronavirus by all the usual tests and can be identified as the omicron variant through genomic testing, but likely cases are not flagged up by routine PCR tests that give quicker results.
+
+Researchers say it is too early to know whether the new form of omicron will spread in the same way as the standard omicron variant, but that the "stealthy" version is genetically distinct and so may well behave differently.
+
+The stealth variant was first spotted among COVID virus genomes submitted in recent days from South Africa, Australia and Canada, but it may already have spread more widely. Among the 7 cases identified so far, none are in the UK.
+
+The discovery came as the prime minister told the cabinet that omicron appeared more transmissible and officials conceded this would have consequences for its impact, and the likelihood of further restrictions being needed. At the cabinet meeting on Tuesday [7 Dec 2021] morning, also attended by the government's chief scientific adviser, Patrick Vallance, and England's chief medical officer, Chris Whitty, Johnson told ministers the "early indications" were that omicron was more transmissible than the existing dominant variant, delta, a No. 10 statement said.
+
+Johnson's spokesperson said the next contingency step remained the potential imposition of the so-called plan B, which would introduce vaccine certification and instructions to work from home where possible. While the government would "want to make sure that parliament has its say" on any new rules, the spokesperson said, ministers had the existing powers to impose plan B restrictions unilaterally, for example, if they were needed during the Commons Christmas recess.
+
+Despite such considerations, the spokesperson confirmed that for now, official advice remained that people should return to workplaces if they could, albeit with consideration of mitigations such as ventilation and testing. He said: "We are encouraging businesses to bring back people into the office, in line with the guidance."
+
+Scotland announced a return to working from home where possible until at least the middle of January [2022]. Nicola Sturgeon revealed that around 4% of COVID-19 cases in Scotland are likely to be the new omicron variant, with that figure "steadily rising." That translates to around 122 new cases a day with the S-gene dropout marker in Scotland though only 99 cases overall have been confirmed with genomic sequencing.
+
+"Our estimate at this stage is that the doubling time for omicron cases may be as short as 2-3 days, and that the R number associated with the new variant may be well over 2," Sturgeon said. Contact tracing is also being enhanced in Scotland, with close contacts of positive cases told to test and isolate.
+
+The discovery of the new form of omicron prompted researchers to split the B.1.1.529 lineage into standard omicron, known as BA.1, and the newer variant, known as BA.2. "There are 2 lineages within omicron, BA.1 and BA.2, that are quite differentiated genetically," Prof Francois Balloux, director of the University College London Genetics Institute, said. "The 2 lineages may behave differently."
+
+Scientists use whole genome analysis to confirm which variant has caused a COVID infection, but PCR tests can sometimes give an indication. About half of the PCR machines in the UK look for 3 genes in the virus, but omicron (and the alpha variant before it) test positive on only 2 of them. This is because omicron, like alpha, has a genetic change called a deletion in the "S" or spike gene. The glitch means that PCR tests that display so-called "S gene target failure" are highly suggestive of omicron infections.
+
+Informally, some researchers are calling the new variant "stealth omicron" because it lacks the deletion that allows PCR tests to spot it.
+
+One major unknown is how the new variant emerged. While it falls under omicron, it is so genetically distinct that it may qualify as a new "variant of concern" if it spreads rapidly. To have 2 variants, BA.1 and BA.2, arise in quick succession with shared mutations is "worrying" according to one researcher, and suggests public health surveillance "is missing a big piece of the puzzle."
+
+[Byline: Ian Sample and Peter Walker]
+
+--
+Communicated by:
+Mary Marshall
+<mjm2020@googlemail.com>
+
+[Thanks to Sabine Zentis for the weblink. This virus appears to be mutating rapidly, unless BA.2 variant has been circulating undetected. - Mod.LK]
+
+******
+[2] Neglected tropical diseases
+Date: Mon 6 Dec 2021 20:56 EST
+Source: The Washington Post [edited]
+https://www.washingtonpost.com/nation/2021/12/06/covid-omicron-variant-live-updates
+
+
+The coronavirus pandemic wreaked havoc last year [2020] on the fight against malaria, with "disruptions to services" causing an estimated 14 million more infections and nearly 50 000 more deaths compared with 2019, according to the World Health Organization (WHO).
+
+"Even before the pandemic, global progress against malaria had levelled off, and countries with a high burden of the disease were losing ground," wrote WHO Director General Tedros Adhanom Ghebreyesus in the global health organization's new World Malaria Report. He warned of an "immediate resurgence" of the disease, especially in Africa, without "accelerated action."
+
+The WHO reported 241 million cases of malaria last year [2020] and 627 000 deaths, up 69 000 from 2019. Some of that increase stemmed from a change in counting methodology, but officials attributed most of it to the coronavirus.
+
+The grim numbers bore out experts' long-held fears and illustrated how the coronavirus and efforts to fight it -- through shutdowns and other social distancing -- have hampered lifesaving work. The WHO noted that many countries struggled to complete their campaigns to give people insecticide-treated mosquito nets.
+
+But death counts could have been far higher without strong efforts to adapt to the COVID-19 era, the WHO said. Worst-case analyses early in the pandemic projected that malaria deaths could double.
+
+Africa continued to bear the brunt of the disease, recording 95% of cases worldwide and 96% of deaths, officials said, and Nigeria accounted for nearly 32% of global malaria fatalities.
+
+[Byline: Hannah Knowles]
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[This pattern of neglect of endemic tropical diseases in the face of newly emerging pathogens is typical, e.g., the same problem occurs with Ebola virus disease, and is hard to correct for many reasons, including limited resources that are diverted to the newest problem, inability to focus on more than one major health threat at a time, limited staff, and, in the case of COVID, lockdowns. But according to this report, "'Even before the pandemic, global progress against malaria had levelled off, and countries with a high burden of the disease were losing ground,' wrote WHO Director General Tedros Adhanom Ghebreyesus." The pandemic exacerbated this situation, which will only get worse as the pandemic continues unless vaccinations pick up in Africa. The collateral damage from COVID is not insignificant. - Mod.LK]
+
+******
+[3] Africa (Uganda)
+Date: Tue 7 Dec 2021
+Source: Mowliid Haji Abdi, tweet published by Dataminr [edited]
+https://twitter.com/MowliidHaji/status/1468253358221934595
+
+
+Uganda has confirmed its 1st cases of the omicron variant. Medical authorities say it was discovered in travellers arriving from Nigeria and South Africa.
+
+--
+Communicated by:
+ProMED from Dataminr
+
+******
+[4] WHO: daily new cases reported (as of 7 Dec 2021)
+Date: Tue 7 Dec 2021
+Source: WHO [abridged, edited]
+https://covid19.who.int/table
+
+
+*Daily case reports as of 7 Dec 2021 16:48 CET
+
+Surveillance
+------------
+WHO region (no. countries/territories):
+Total confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+--------------------------------------------------------------------------------
+Western Pacific Region (19): 10 425 333 (27 723) / 145 154 (479)
+European Region (61): 89 567 964 (276 432) / 1 577 143 (4138)
+South-East Asia Region (10): 44 663 946 (10 881) / 712 207 (270)
+Eastern Mediterranean Region (22): 16 872 252 (13 335) / 311 160 (210)
+Region of the Americas (54): 97 803 867 (55 073) / 2 361 851 (449)
+African Region (49): 6 379 341 (11 526) / 153 360 (64)
+Cases on an international conveyance: 764 (0) / 13 (0)
+
+Confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+Grand total: 265 713 467 (394 970) / 5 260 888 (5610)
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[Data by country, area, or territory for 7 Dec 2021 can be accessed at https://promedmail.org/wp-content/uploads/world-pdf/2021%20WHO%20Daily%20Tables%20DEC7_1638990357.pdf.
+
+- The Americas region reported 13.9% of cases and 8.0% of deaths in the past 24 hours and maintained its position as the most severely affected region, having reported more than 97.80 million cases. The USA reported 39 928 cases over the last 24 hours. An additional 4 countries reported more than 1000 cases in the past 24 hours (Brazil, Argentina, Colombia, and Chile), and an additional 5 countries (Peru, Mexico, Bolivia, Venezuela, and Trinidad & Tobago) reported more than 500 but fewer than 1000 cases.
+
+- The European region reported 69.9% of daily case numbers and 73.7% of the daily deaths reported in the past 24 hours, and total cumulative cases reported exceed 89.56 million cases. Some countries not reporting cases in the last 24 hours or longer include Spain, Belgium (4 cases), Sweden, and Switzerland (9 cases), among others. A total of 22 countries reported more than 1000 cases in the past 24 hours, with 9 reporting more than 10 000, 14 reporting over 1000 cases, and an additional 6 countries reported more than 500 but fewer than 1000 cases.
+
+- The Eastern Mediterranean region reported 3.3% of daily case numbers and 3.7% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 16.87 million cases. Jordan (5811) reported the highest number of cases over the last 24 hours, followed by Iran (3356). Lebanon, Iraq, and Egypt reported more than 500 but fewer than 1000 cases. Somalia and Djibouti did not report any cases for several days.
+
+- The African region reported 2.9% of daily case numbers and 1.1% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 6.37 million cases. South Africa (6381) reported the highest number over the last 24 hours, followed by Eswatini (347), Ghana and Democratic Republic of Congo. A total of 17 countries/territories did not report cases over the last 24 hours.
+
+- The Western Pacific region reported 7.0% of daily case numbers and 8.5% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 10.42 million cases. Viet Nam reported the highest number of cases over the last 24 hours (over 14 591 cases), followed by South Korea, Malaysia, Australia, Laos, Singapore, and Philippines.
+
+- The South-East Asia region reported 2.7% of the daily newly reported cases and 4.8% of reported deaths in the past 24 hours, having reported a cumulative total of more than 44.66 million cases. India is dominant, reporting over 6000 cases during the last 24 hours, followed by Thailand (3525). Nepal (272) and Indonesia (261) reported fewer than 500 cases. Bangladesh, Myanmar, Maldives, and Sri Lanka, among others, did not report cases for several days.
+
+On the Overview tab at the WHO source URL, the epidemic curve of confirmed COVID-19 cases by WHO region, 30 Dec 2019 through 7 Dec 2021, is an excellent visual representation of the pandemic. - Mod.UBA]
+
+******
+[5] Global update: Worldometer accessed 7 Dec 2021 21:57 EST (GMT-5)
+Date: Tue 7 Dec 2021
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at https://promedmail.org/wp-content/uploads/world-pdf/2021%20WORLDDATA%20DEC7_1638990384.pdf.
+
+A 7-day series of cumulative data reported by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/2021%20DEC7WORLD7_1638990397.pdf. - Mod.UBA]
+
+Total number of reported deaths: 5 286 829
+Total number of worldwide cases: 267 406 630
+Number of newly confirmed cases in the past 24 hours: 667 598
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[In the past 24 hours, 16 countries, including the USA (107 642), France (59 019), Germany (51 592), UK (45 449), Russia (31 096), Hungary (22 699), Turkey (22 687), Poland (19 373), Netherlands (17 911), Italy (15 743), Czech Republic (15 544), Belgium (13 844), Viet Nam (13 840), South Africa (13 147), Spain (10 952), and Brazil (10 250), reported the highest numbers of cases, all reporting more than 10 000 newly confirmed cases. A global total of 8770 deaths were reported in the preceding 24 hours (late 5 Dec 2021 to late 6 Dec 2021). A total of 52 countries reported more than 1000 cases in the past 24 hours; 32 of the 52 countries are from the European region, 7 are from the Americas region, 6 are from the Western Pacific region, 3 are from the Eastern Mediterranean region, 2 are from the South-East Asia region, and 2 are from the African region.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, case counts have increased by 11.7%, while daily reported deaths have increased by 6.9%. Similar comparative 7-day averages in the USA show a 39.9% increase in daily reported cases and a 39.2% increase in reported deaths.
+
+Impression: The global daily reported over 650 000 newly confirmed infections in the past 24 hours with over 267.40 million cumulative reported cases and over 5.28 million reported deaths. - Mod.UBA]
+See Also
+COVID-19 update (421): omicron US, PPE issues, South Africa, WHO 20211207.8700131
+COVID-19 update (420): animal, Poland (KP) mink, OIE 20211207.8700127
+COVID-19 update (419): omicron patient profile, acquired RNA, Cook Islands, global 20211206.8700110
+COVID-19 update (418): animal, Belgium, zoo, hippopotamus, 1st rep 20211206.8700102
+COVID-19 update (417): quarantine hotel, border control, travel bans, global 20211206.8700087
+COVID-19 update (416): South Africa, omicron spread, immunity, boosters, WHO 20211205.8700073
+COVID-19 update (415): USA, mortality risk, AstraZeneca, Argentina, WHO, global 20211204.8700049
+COVID-19 update (414): US first omicron case, boosters, Israel, origin, WHO 20211202.8700031
+COVID-19 update (413): animal, Canada, wild deer 20211202.8700020
+COVID-19 update (412): international travel, long COVID, WHO, global 20211201.8700001
+COVID-19 update (411): UK boosters & surge, Israel, testing, WHO 20211130.8699977
+COVID-19 update (410): omicron, WHO update, impact, patience, global 20211130.8699966
+COVID-19 update (409): animal, Croatia, zoo, lion, OIE 20211129.8699951
+COVID-19 update (408): omicron, India, symptoms, molnupiravir 20211128.8699934
+COVID-19 update (407): omicron VOC, omicron cases in Europe, South Asia, WHO 20211127.8699923
+COVID-19 update (406): new variant B.1.1.529, travel ban, South Africa, WHO 20211126.8699898
+COVID-19 update (405): Israel, WHO on child/adolescent vacc 20211125.8699875
+COVID-19 update (404): rapid tests, high-risk genes, Paxlovid, vacc mandates 20211124.8699862
+COVID-19 update (403): gyms, masks, ICUs, WHO 20211123.8699843
+COVID-19 update (402): sub-Saharan Africa, cross-reactive Abs 20211122.8699824
+COVID-19 update (401): Germany, plant-based antiviral, breakthrough infections 20211121.8699813
+COVID-19 update (400): animal, sheep, research, experimental infection 20211121.8699806
+COVID-19 update (390): surge in cases, China, Europe, WHO 20211113.8699651
+COVID-19 update (380): Netherlands, Russia, brain effects 20211107.8699512
+COVID-19 update (370): repurposing antidepressants, South Asia, WHO, global 20211030.8699357
+COVID-19 update (360): new delta subvariant, China, UK, South Asia, WHO, global 20211023.8699224
+COVID-19 update (350): boosters, deaths, cases, vaccines, WHO 20211014.8699041
+COVID-19 update (340): long COVID, Israel, WHO 20211007.8698909
+COVID-19 update (330): variants, Novavax, Monoclonal antib, Uruguay, Spain, WHO 20210927.8698746
+COVID-19 update (320): spillover events, long COVID, mandatory vaccines, WHO 20210917.8679439
+COVID-19 update (310): impact on women & children, Africa, mRNA vaccines, Israel 20210910.8660335
+COVID-19 update (300): Norway, myocarditis, schools, new variant C.1.2, WHO 20210901.8638460
+COVID-19 update (200): animal, China, origin 20210608.8433657
+COVID-19 update (100): antibodies, vaccine, Thailand, Cambodia, WHO, global 20210316.8250009
+COVID-19 update (50): UK vaccine study, Brazil reinfection, WHO 20210205.8167161
+COVID-19 update (01): variants, vaccine, Thailand, global, WHO 20210101.80629382020
+2020
+----
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+COVID-19 update (562): viral load, UK vacc dose, ECDC, WHO 20201231.8061525
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia: China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia: China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+----
+Undiagnosed pneumonia: China (HU): RFI 20191230.6864153
+and other items in the archive
+.................................................sb/lk/uba/rd/lxl
+</body>

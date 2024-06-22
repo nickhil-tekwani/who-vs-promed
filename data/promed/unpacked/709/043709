@@ -1,0 +1,513 @@
+<header id=043709>
+Published Date: 2021-04-18 17:32:29 EDT
+Subject: PRO/AH/EDR> COVID-19 update (138): transmission, outdoor spread, variants, tech, WHO, global
+Archive Number: 20210418.8314533
+</header>
+<body id=043709>
+CORONAVIRUS DISEASE 2019 UPDATE (138): AIRBORNE TRANSMISSION, OUTDOOR SUPER SPREAD, VARIANTS, TECHNOLOGY TRANSFER, WHO, GLOBAL
+******************************************************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] Scientific reasons in support of airborne transmission of SARS-CoV-2
+[2] Super-spreader outdoor event
+[3] Variants
+[4] COVID-19 mRNA vaccine technology transfer hub
+[5] WHO: daily new cases reported (as of 17 Apr 2021)
+[6] Global update: Worldometer accessed 17 Apr 2021 19:47 EST (GMT-5)
+
+******
+[1] Scientific reasons in support of airborne transmission of SARS-CoV-2
+Date: Thu 15 Apr 2021
+Source: Lancet [edited]
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00869-2/fulltext
+DOI: https://doi.org/10.1016/S0140-6736(21)00869-2
+
+
+Heneghan and colleagues' systematic review funded by WHO and published in March 2021 as a preprint, states: "The lack of recoverable viral culture samples of SARS-CoV-2 prevents firm conclusions to be drawn about airborne transmission." This conclusion, and the wide circulation of the review's findings, is concerning because of the public health implications.
+
+If an infectious virus spreads predominantly through large respiratory droplets that fall quickly, the key control measures are reducing direct contact, cleaning surfaces, physical barriers, physical distancing, use of masks within droplet distance, respiratory hygiene, and wearing high-grade protection only for so-called aerosol-generating health-care procedures. Such policies need not distinguish between indoors and outdoors, since a gravity-driven mechanism for transmission would be similar for both settings. But if an infectious virus is mainly airborne, an individual could potentially be infected when they inhale aerosols produced when an infected person exhales, speaks, shouts, sings, sneezes, or coughs. Reducing airborne transmission of virus requires measures to avoid inhalation of infectious aerosols, including ventilation, air filtration, reducing crowding and time spent indoors, use of masks whenever indoors, attention to mask quality and fit, and higher-grade protection for health-care staff and front-line workers. Airborne transmission of respiratory viruses is difficult to demonstrate directly. Mixed findings from studies that seek to detect viable pathogen in air are therefore insufficient grounds for concluding that a pathogen is not airborne if the totality of scientific evidence indicates otherwise. Decades of painstaking research, which did not include capturing live pathogens in the air, showed that diseases once considered to be spread by droplets are airborne. Ten streams of evidence collectively support the hypothesis that SARS-CoV-2 is transmitted primarily by the airborne route.
+
+1st, superspreading events account for substantial SARS-CoV-2 transmission; indeed, such events may be the pandemic's primary drivers. Detailed analyses of human behaviours and interactions, room sizes, ventilation, and other variables in choir concerts, cruise ships, slaughterhouses, care homes, and correctional facilities, among other settings, have shown patterns -- e.g., long-range transmission and overdispersion of the basic reproduction number (R0), discussed below -- consistent with airborne spread of SARS-CoV-2 that cannot be adequately explained by droplets or fomites. The high incidence of such events strongly suggests the dominance of aerosol transmission.
+
+2nd, long-range transmission of SARS-CoV-2 between people in adjacent rooms but never in each other's presence has been documented in quarantine hotels. Historically, it was possible to prove long-range transmission only in the complete absence of community transmission.
+
+3rd, asymptomatic or presymptomatic transmission of SARS-CoV-2 from people who are not coughing or sneezing is likely to account for at least 1/3rd, and perhaps up to 59%, of all transmission globally and is a key way SARS-CoV-2 has spread around the world, supportive of a predominantly airborne mode of transmission. Direct measurements show that speaking produces thousands of aerosol particles and few large droplets, which supports the airborne route.
+
+4th, transmission of SARS-CoV-2 is higher indoors than outdoors and is substantially reduced by indoor ventilation. Both observations support a predominantly airborne route of transmission.
+
+5th, nosocomial infections have been documented in health-care organisations, where there have been strict contact-and-droplet precautions and use of personal protective equipment (PPE) designed to protect against droplet but not aerosol exposure.
+
+6th, viable SARS-CoV-2 has been detected in the air. In laboratory experiments, SARS-CoV-2 stayed infectious in the air for up to 3 hours with a half-life of 1.1 hours. Viable SARS-CoV-2 was identified in air samples from rooms occupied by COVID-19 patients in the absence of aerosol-generating health-care procedures and in air samples from an infected person's car. Although other studies have failed to capture viable SARS-CoV-2 in air samples, this is to be expected. Sampling of airborne virus is technically challenging for several reasons, including limited effectiveness of some sampling methods for collecting fine particles, viral dehydration during collection, viral damage due to impact forces (leading to loss of viability), reaerosolisation of virus during collection, and viral retention in the sampling equipment. Measles and tuberculosis, 2 primarily airborne diseases, have never been cultivated from room air.
+
+7th, SARS-CoV-2 has been identified in air filters and building ducts in hospitals with COVID-19 patients; such locations could be reached only by aerosols.
+
+8h, studies involving infected caged animals that were connected to separately caged uninfected animals via an air duct have shown transmission of SARS-CoV-2 that can be adequately explained only by aerosols.
+
+9th, no study to our knowledge has provided strong or consistent evidence to refute the hypothesis of airborne SARS-CoV-2 transmission. Some people have avoided SARS-CoV-2 infection when they have shared air with infected people, but this situation could be explained by a combination of factors, including variation in the amount of viral shedding between infectious individuals by several orders of magnitude and different environmental (especially ventilation) conditions. Individual and environmental variation means that a minority of primary cases (notably, individuals shedding high levels of virus in indoor, crowded settings with poor ventilation) account for a majority of secondary infections, which is supported by high-quality contact tracing data from several countries., Wide variation in respiratory viral load of SARS-CoV-2 counters arguments that SARS-CoV-2 cannot be airborne because the virus has a lower R0 (estimated at around 2.5) than measles (estimated at around 15), especially since R0, which is an average, does not account for the fact that only a minority of infectious individuals shed high amounts of virus. Overdispersion of R0 is well documented in COVID-19.
+
+10th, there is limited evidence to support other dominant routes of transmission, i.e., respiratory droplet or fomite. Ease of infection between people in close proximity to each other has been cited as proof of respiratory droplet transmission of SARS-CoV-2. However, close-proximity transmission in most cases along with distant infection for a few when sharing air is more likely to be explained by dilution of exhaled aerosols with distance from an infected person. The flawed assumption that transmission through close proximity implies large respiratory droplets or fomites was historically used for decades to deny the airborne transmission of tuberculosis and measles., This became medical dogma, ignoring direct measurements of aerosols and droplets which reveal flaws such as the overwhelming number of aerosols produced in respiratory activities and the arbitrary boundary in particle size of 5 um between aerosols and droplets, instead of the correct boundary of 100 um. It is sometimes argued that since respiratory droplets are larger than aerosols, they must contain more viruses. However, in diseases where pathogen concentrations have been quantified by particle size, smaller aerosols showed higher pathogen concentrations than droplets when both were measured.
+
+In conclusion, we propose that it is a scientific error to use lack of direct evidence of SARS-CoV-2 in some air samples to cast doubt on airborne transmission while overlooking the quality and strength of the overall evidence base. There is consistent, strong evidence that SARS-CoV-2 spreads by airborne transmission. Although other routes can contribute, we believe that the airborne route is likely to be dominant. The public health community should act accordingly and without further delay.
+
+--
+Communicated by:
+Mary Marshall
+<mjm2020@googlemail.com>
+
+[These are very valid arguments in favour of an airborne transmission route for SARS-CoV2 and seem even more plausible with outdoor super-spreader events as reported in section [2] below. - Mod.UBA]
+
+******
+[2] Super-spreader outdoor event
+Date: Fri 16 Apr 2021
+Source: Global News [edited]
+https://globalnews.ca/news/7765037/100-plus-person-superspreader-party-maple-creek/
+
+
+At least 40 cases of COVID-19 involving the B.1.1.7 variant have been traced to a 100-plus super-spreader outdoor party over the Easter weekend in the Maple Creek area of Saskatchewan, says the province's health authority.
+
+"Unfortunately, this event really became a true super-spreader," Dr. Kevin Wasko, the Saskatchewan Health Authority's integ - rated rural health team lead told Global News on Friday [16 Apr 2021].
+
+"We know that spread that may have been initiated there is occurring more widespread across communities in the southwest."
+
+On 2 Apr 2021, a gathering allegedly took place at a rural residence near Maple Creek, according to the RCMP, which were contacted by the health authority on Tuesday [13 Apr 2021] to assist with investigating what was an outdoor event.
+
+Under Saskatchewan's existing public health orders, outdoor gatherings of up to 10 people are permissible.
+
+"Obviously, with a 100-plus person party, that wasn't happening," Wasko said, noting attendees were primarily in their late teens and early 20s.
+
+Michelle McKenzie, the mayor of the Town of Maple Creek, told Global News she only learned of the event over the past weekend, when coronavirus cases were being diagnosed in the area; the town had seen relatively few until now.
+
+McKenzie said she was just as surprised as most others by the scale of the event, which appears to have drawn people from across southwest Saskatchewan.
+
+While she has some compassion for young adults longing to socialize, "the unfortunate part is, times have changed," McKenzie said, noting it's not just those who attended who could become infected. Their family members and others in the community could, too, McKenzie said.
+
+"Some of the things we thought were harmless now do prove that they are harmful," she said.
+
+The mayor said she's struggling to communicate that although Maple Creek as a community has been added to the province's COVID-19 outbreak list, there is not necessarily an outbreak in Maple Creek.
+
+"When you see that, people are thinking the whole community's an outbreak, right? It's not. There was an outbreak from an individual party," McKenzie added.
+
+Wasko confirmed the cases that have so far been traced back to the outdoor party are not all in Maple Creek.
+
+The health authority has issued an alert identifying the elevated risk associated with variants of concern in Maple Creek, as well as in Outlook, Rosetown, Kindersley, Swift Current, Davidson, Moose Jaw and the surrounding areas.
+
+He acknowledged that a year into the pandemic, people are tired. He, too, said he understands young people may be longing to get together.
+
+While outdoors remains safer than indoors, Wasko added that with more contagious and transmissible variants, it's important to remain extra vigilant and abide by the rules and guidance in place.
+
+"I think anytime people start to mingle and drink alcohol, which is likely occurring, you let your guard down," he said. "I think these individuals, for the most part, probably feel a lot of guilt, and I'm sure they feel some remorse for the fact that they did this."
+
+He added it's not just these young adults or young adults in general, breaking the rules. He said that, unfortunately, people of all ages are doing so across the province.
+
+"This one gained a lot of attention because there are a lot of cases that can be traced to this event," Wasko said.
+
+[Byline: Roberta Bell]
+
+--
+Forwarded by: Roland Hubner
+Communicated by:
+Mary Marshall
+<mjm2020@googlemail.com>
+
+[CDC continues to recommend that large gatherings be avoided, particularly those in which physical (social) distancing cannot be maintained between people who live in different households.
+
+Several factors can contribute to the likelihood of attendees getting and spreading COVID-19 at large events. In combination, the following factors will create higher or lower amounts of risk:
+
+- Number of COVID-19 cases in the community - High or increasing levels of COVID-19 cases in the event location or the locations the attendees are coming from increase the risk of infection and spread among attendees.
+- Exposure during travel - Airports, airplanes, bus stations, buses, train stations, trains, public transport, gas stations, and rest stops are all places where physical distancing may be challenging and ventilation may be poor.
+- Setting of the event - Indoor events, especially in places with poor ventilation, pose more risk than outdoor events [Does not seem to be the case here! - Mod.UBA].
+- Length of the event - Events that last longer pose more risk than shorter events. Being within 6 feet of someone who has COVID-19 for a total of 15 minutes or more (over a 24-hour period) greatly increases the risk of becoming infected and requires quarantine.
+- Number and crowding of people at the event - Events with more people increase the likelihood of being exposed. The size of the event should be determined based on whether attendees from different households can stay at least 6 feet (2 arm lengths) Physical distancing at events can reduce transmission risk, for example, blocking off seats or modifying layouts.
+- Behavior of attendees during an event - Events where people engage in behaviors such as interacting with others from outside their own household, singing, shouting, not maintaining physical distancing, or not wearing masks consistently and correctly, can increase risk.
+
+Lots of variables at play here, the bottom line is, we are still in the pandemic phase, and social events, indoor or outdoor, present a risk for transmission and spread. - Mod.UBA]
+
+******
+[3] Variants
+
+[A] B.1.617 VOI; More contagious?
+Date: Fri 16 Apr 2021
+Source: Xinhua [edited]
+http://www.xinhuanet.com/english/2021-04/16/c_139885525.htm
+
+
+The COVID-19 variant that emerged in India, B.1.617, could bring about "increased transmissibility" or even "reduced neutralization" due to the specific mutations that it contains, an official of the World Health Organization (WHO) said on Friday [16 Apr 2021].
+
+The variant B.1.617, which 1st appeared in India on 7 Dec 2020, according to the Indian SARS-CoV-2 Consortium on Genomics (INSACOG), has 2 specific mutations -- E484Q and L452R -- that have been detected in more contagious variants worldwide, said Maria Van Kerkhove, the COVID-19 Technical Lead at WHO, at a press conference here.
+
+"Having 2 of these mutations which have been seen in other variants around the world is concerning, because there's a similarity in these mutations that confer increased transmissibility, and some of these mutations also result in reduced neutralization, which may have an impact on our counter-measures including the vaccines," she said.
+
+The official also noted that the variant is spreading to other countries and has been reported "across Asia and North America."
+
+However, the "double mutant" variant 1st detected in India is still considered as a "variant of interest" by the WHO, meaning that it does not represent causes for stronger public health actions so far.
+
+The Indian Health Ministry recently also issued an official statement, saying that the variant could increase rates of infection and bypass immune defenses.
+
+--
+Communicated by:
+ProMED Rapporteur Kunihiko Iizuka
+
+------
+[B] Israel detects 7 cases of new COVID-19 variant
+Date: Sat 17 Apr 2021
+Source: Xinhua [edited]
+http://www.xinhuanet.com/english/2021-04/17/c_139885725.htm
+
+
+Seven cases of a new "double mutant" variant of COVID-19 were detected in Israel, the country's Ministry of Health said on Fri 16 Apr 2021.
+
+This is the B.1.617 variant that was recently identified in India, and now it has been detected for the 1st time in Israel.
+
+The 7 cases were diagnosed by genetic sequencing tests in unvaccinated Israelis that returned from abroad, the ministry noted.
+
+"There is still no clear information regarding the variant and its implications for the vaccinated and the recovered," the ministry added.
+
+Earlier on Fri 16 Apr 2021, an official of the World Health Organization (WHO) said at a press conference in Geneva that the B.1.617 variant could bring about "increased transmissibility."
+
+The Indian Health Ministry recently issued an official statement, saying that the variant could increase rates of infection and bypass immune defenses.
+
+--
+Communicated by:
+ProMED Rapporteur Kunihiko Iizuka
+
+------
+[C] India: Updates on circulating variants
+
+[a]
+Date: Fri 16 Apr 2021
+Source: Economic Times [edited]
+https://economictimes.indiatimes.com/news/india/1189-samples-have-tested-positive-for-variants-of-concern-of-sars-cov-2-in-india-health-ministry/articleshow/82105718.cms? utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst
+
+
+Up until 15 Apr 2021, 13 614 samples have been processed at the 10 designated INSACOG laboratories for whole genome sequencing (WGS).
+
+A total of 1189 samples have so far tested positive for variants of concern of SARS COV-2 in India, the health ministry said on as the country is witnessing a steep surge in COVID-19 cases. These include 1109 samples testing positive for the UK variant, 79 for the South Africa variant, and one sample for the Brazil variant, the ministry said.
+
+The coronavirus has been mutating, and various mutations have been found in several countries, including the UK (17 mutations) and Brazil (17 mutations).
+
+"These variants have a higher transmissibility. The UK variant has been found extensively in the UK, all across Europe, and has spread to Asia and America.
+
+"The double mutation (2 mutations) is another variant and has been found in several countries like Australia, Belgium, Germany, Ireland, Namibia, New Zealand, Singapore, the United Kingdom, and the USA. Higher transmissibility of this variant is not established as yet," the ministry said in a statement.
+
+It said the RT-PCR tests being conducted in India do not miss these mutations, as these tests target more than 2 genes. The sensitivity and specificity of the RT-PCR tests remain the same as earlier, it said.
+
+"The detection of these mutations does not change the strategy of management, which remains to test, track, trace, and treat. The use of masks remains as the most important shield to prevent the spread of COVID-19," the ministry stressed.
+
+It said the INSACOG guidelines were shared with the states again, and they were advised to send samples for genome sequencing by also providing the clinical data of positive persons.
+
+This will enable a great epidemiological insight into the link of the surge at various places to the variants as well as enable the INSACOG to discover other variants of concern, if present in the community.
+
+Many states, including Maharashtra, Madhya Pradesh, Rajasthan, and Kerala, are yet to share the data with the National Centre for Disease Control (NCDC), though Punjab and Delhi have shared the information, the ministry highlighted.
+
+The Indian SARS-CoV-2 Genomics Consortium (INSACOG) is a network monitoring for changes in SARS-CoV-2 in the country through WGS.
+
+The SOPs for epidemiological surveillance and response in the context of a new variant of the SARS-CoV-2 virus detected in the UK were disseminated to all the states as well as placed on the ministry's website on 22 Dec 2020.
+
+According to the INSACOG guidelines, positive samples are sourced for WGS from international travellers who are positive by RT-PCR; community samples are coordinated by the state surveillance officers, who facilitate the transfer of samples from the districts or laboratories to the designated INSACOG laboratories. All states have been mapped to specific INSACOG laboratories. The 10 identified INSACOG laboratories report their sequencing results to the Central Surveillance Unit (CSU) of the NCDC, from where it is shared with the state surveillance units (SSUs) of the IDSP through email as well as regular meetings by the NCDC with the state surveillance officers, who, in turn, take up the operational response with the health secretaries. Hence, the states are continuously informed of the virus variants found in other states, the ministry said. In a few instances, the INSACOG laboratories have also communicated the results directly to the states.
+
+The NCDC has also communicated state-specific results formally to the states concerned from time to time. The results of Himachal Pradesh were communicated on 8 Apr 2021, those of Punjab were communicated on 26 Mar 2021, those of Rajasthan on 10 Apr 2021, and those of Maharashtra were shared with the state on 9 different occasions from 12 Mar to 16 Apr 2021.
+
+Written communications on the need for more stringent measures were sent at regular intervals, not just to the high-burden states, but all the states by the secretary (health), assistant secretary (health), NCDC director and IDSP to the chief secretaries, ACS health, SSOs, DHSs etc.
+
+The states and Union territories were repeatedly asked to keep a strict vigil and take up stringent public health measures in view of the unlock provisions and new strains being reported from various countries.
+
+Press briefings conducted by the health ministry provide specific updates on the current status of the variants of concern and the new mutants and also stress increased and stringent public health interventions.
+
+At a press briefing on 24 Mar 2021, the NCDC director made a detailed presentation on various variants of the coronavirus detected in the country, the ministry said.
+
+--
+Communicated by:
+ProMED Rapporteur Kunihiko Iizuka
+
+---
+[b]
+Date: Fri 16 Apr 2021
+Source: Ministry of Health and Family Welfare [abridged, edited]
+https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1712312
+
+
+The Indian SARS-CoV-2 Genomics Consortium (INSACOG) is a network of 10 laboratories established in December 2020 for continuously monitoring the genomic changes of SARS-CoV-2 in India, through Whole Genome Sequencing (WGS).
+
+The detailed guidelines of INSACOG were published on the website of MoHFW on 27 Dec 2020.
+
+As per the INSACOG guidelines, positive samples are sourced for Whole Genome Sequencing from:
+
+- International travelers who are positive by RT-PCR.
+- Community samples are coordinated by State Surveillance Officers who facilitate transfer of samples from districts/labs to the designated INSACOG labs. All states have been mapped to specific INSACOG labs.
+- Samples from districts reporting exponential surge.
+
+The 10 identified laboratories of INSACOG Consortium report their sequencing results to the Central Surveillance unit of the National Center for Diseases Control [NCDC] from where it is shared with the State Surveillance Units (SSUs) of IDSP by the Central Surveillance Unit (CSU) through email as well as regular meetings by NCDC with State Surveillance Officers, who in turn take up the operational response with the Health Secretaries. Hence, states are continuously informed of variant viruses having been found in the states.
+
+In a few instances, the INSACOG labs have also communicated the results directly to the states.
+
+NCDC has also communicated state-specific results formally to the concerned states from time to time. For example:
+
+- Written communications on the need for more stringent measures have been sent at regular intervals not just to the high burden states, but also to all states by Secretary (H), AS(H), Director NCDC, and IDSP; to state and UT Chief Secretaries, ACS Health, SSOs, DHSs, etc. The states/UTs have been repeatedly asked to keep strict vigil and take up stringent public health measures in view of unlock provisions and new strains coming from various countries.
+
+Recently, the INSACOG guidelines were again shared with the states and states were advised to send samples for genome sequencing by also providing clinical data of positive persons. This will enable a great epidemiological insight into the link of the surge at various places to the variants as well as enable INSACOG to discover other variants of concern, if present, in the community. Many states, including Maharashtra, MP, Rajasthan and Kerala, have not yet shared the data with NCDC, though Punjab and Delhi have shared such data.
+
+Covid 19 virus has been mutating, and various mutations have been found in many countries as well as in India, these include UK (17 mutations), Brazil (17 mutations), and South Africa (12 mutations). These variants have higher transmissibility. The UK variant has been found extensively in UK, all across Europe, and has spread to Asia and America.
+
+The double mutation (2 mutations) is another variant and has been found in several countries, like Australia, Belgium, Germany, Ireland, Namibia, New Zealand, Singapore, United Kingdom, and the USA. Higher transmissibility of this variant is not established as yet.
+
+The RT PCR tests being used in India do not miss these mutations as the RT PCR tests being used in India target more than 2 genes. Sensitivity and specificity of the RTPCR tests remains the same as earlier.
+
+--
+Communicated by:
+ProMED Rapporteur Kunihiko Iizuka
+
+[The detection and reporting of these mutations and those still to come does not change the strategy of management, which remains: to test, track, trace, and treat. The use of masks remains the most important shield to prevent the spread of SARS-CoV2. - Mod.UBA]
+
+------
+[D] Canada
+Date: Sat 17 Apr 2021
+Source: CTV News [edited]
+https://www.ctvnews.ca/health/coronavirus/tracking-variants-of-the-novel-coronavirus-in-canada-1.5296141
+
+
+As COVID-19 continues to spread, several more contagious variants of the novel coronavirus are spreading across Canada.
+
+There are currently 3 variants of concern (VOCs) that have been identified and are being tracked by provincial health authorities and the Public Health Agency of Canada: B.1.1.7, B.1.351, and P.1.
+
+COVID variant cases in Canada
+----------------------------------
+Province - B.1.1.7 / B.1.351 / P.1 Screened*
+
+Canada - 57 103 / 411 / 2195 / 85 920
+
+Ontario - 32 327 / 101 / 207 / 27 032
+Alberta - 15 627 / 32 / 168 / 34 685
+British Columbia - 3858 / 71 / 1810 / 0
+Quebec - 2554 / 163 / 8 / 17 085
+Saskatchewan - 1703 / 9 / 0 / 2614
+Manitoba - 622 / 20 / 1 / 67
+New Brunswick - 180 / 4 / 0 / 0
+Newfoundland and Labrador 178 / 1 / 0 / 0
+Nova Scotia - 45 / 10 / 0 / 0
+Prince Edward Island 6 / 6 / 0 / 0
+Yukon - 2 / 0 / 1 / 0
+Northwest Territories 1 / 0 / 0 / 0
+Nunavut - 0 / 0 / 0 / 0
+*Cases where a mutation has been detected but full genome sequencing has not yet been completed.
+
+CTVNews.ca's variant tracker is keeping a daily count of these VOCs, with a provincial breakdown by variant that you can see in the above tables.
+
+Additionally, CTVNews.ca is now tracking screened COVID-19 cases, which have been identified as affected by mutations but are yet to be confirmed to which variant they belong. The provinces that have started to identify these screened cases include Ontario, Quebec, Manitoba, and Saskatchewan.
+
+These screened cases appear in our bar chart above in beige. B.1.1.7 variants are represented in dark brown, B.1.351 in orange, and P.1 in red.
+
+By adding this screened data, we hope to provide a more accurate estimate of how many VOCs are circulating in Canada.
+
+In addition to these 3 variants, the province of British Columbia has also identified 2 confirmed cases of the B1.525 variant, 1st identified in Nigeria, which isn't currently reflected in our data.
+
+Notably, as of 8 Apr 2021, Ontario changed its methodology for confirming B.1.1.7 variants. Previously, genome sequencing was required for a sample to be confirmed as the B.1.1.7 variant. Going forward, Public Health Ontario (PHO) will use results from initial screening tests to classify B.1.1.7 variants without waiting for the time-consuming sequencing process.
+
+According to PHO media relations: "Given the accuracy of the [polymerase chain reaction] variant test and what we now know about the prevalence of B.1.1.7 in Ontario, genome sequencing is no longer required to confirm that a sample positive for the N501Y mutation but negative for the E484K mutation is likely a B.1.1.7 variant."
+
+Outside of Ontario, Quebec, Manitoba, and Saskatchewan, our tracker shows only lab-confirmed cases of variants of concern, meaning those that have undergone genetic sequencing. Read more about the testing and publishing process here.
+
+The virus has spikes on its surface that helps it attach onto human cells. Scientists say that these new variants of the virus have changes in their spikes, which can cause them to interact with the human body differently than the original virus.
+
+B.1.1.7 1st emerged in the U.K. in September 2020. Doctors say that this variant spreads faster than others and could be transmitted in less time than the original strain.
+
+The B.1.1.7 variant is the most prominent in Canada, with hundreds of cases having been identified. Ontario has seen the largest number of cases, where an outbreak involving this variant at a long-term care home has resulted in all residents but one contracting the virus and more than 100 positive cases amongst staff.
+
+The B.1.351 variant was 1st discovered in South Africa in December 2020. Scientists say that this variant is more efficient than others in targeting healthy cells.
+
+The P.1 [variant] was 1st identified in December 2020 when this variant caused one of the deadliest outbreaks in Manaus, Brazil. According to the U.S. Centers for Disease Control and Prevention, contracting this variant could affect the ability of antibodies developed from previous infections and vaccinations. Canada reported its 1st case of this variant on 7 Feb 2021.
+
+Public Health Ontario issued in their epidemiological summaries that variant tracking data may change as they continue to analyze cases.
+
+Caution should be taken when interpreting [variants of concern] data due to the nature of the screening and confirmation process, including delays between specimen collection and whole genome sequencing.
+
+Data corrections or updates can result in case records being removed and/or updated and may result in totals different from past publicly reported case counts.
+
+Data is collected from official provincial sources, including live press conferences. Not all provinces currently publish updates online.
+
+Quebec: Website
+Ontario: Daily epidemiologic summaries
+Saskatchewan: Website
+Alberta: Website
+British Columbia: Website
+Manitoba: Website
+New Brunswick: Website
+Nova Scotia: Website
+Prince Edward Island: Website
+Newfoundland and Labrador: Website
+
+--
+Communicated by:
+ProMED Rapporteur Kunihiko Iizuka
+
+******
+[4] COVID-19 mRNA vaccine technology transfer hub
+Date: Fri 16 Apr 2021
+Source: WHO [edited]
+https://www.who.int/news-room/articles-detail/establishment-of-a-covid-19-mrna-vaccine-technology-transfer-hub-to-scale-up-global-manufacturing
+
+
+WHO and its partners are seeking to expand the capacity of low- and middle-income countries (LMICs) to produce COVID-19 vaccines and scale up manufacturing to increase global access to these critical tools to bring the pandemic under control.
+
+WHO will facilitate the establishment of one (or more, as appropriate) technology transfer hub(s) that will use a hub and spoke model (REF) to transfer a comprehensive technology package and provide appropriate training to interested manufacturers in LMICs. This initiative will initially prioritize the mRNA-vaccine technology but could expand to other technologies in the future.
+
+The intention is for these hubs to enable the establishment of production process at an industrial or semi-industrial level permitting training and provision of all necessary standard operating procedures for production and quality control. It is essential that the technology used is either free of intellectual property constraints in LMICs, or that such rights are made available to the technology hub and the future recipients of the technology through non-exclusive licenses to produce, export and distribute the COVID-19 vaccine in LMICs, including through the COVAX facility. Preference will be given to applicants who have already generated clinical data in humans, as such clinical data will contribute to accelerated approval of the vaccines in LMICs.
+
+It is anticipated that WHO will work with funders and donors to mobilize financial support to establish the hubs and, as they are being established, to support the transfer of technology to selected manufacturers in LMICs, taking into consideration the need to establish permanent vaccine production capacity in regions where this is currently mostly absent. This broader objective will ensure that all WHO regions will be able to produce vaccines as essential preparedness measures against future infectious threats.
+
+To support this activity, we are seeking expressions of interest from:
+1. Small/middle-sized (public or private) manufacturers of medical products (drugs, vaccines or drug substances) preferably, but not exclusively, in LMICs, which could host a COVID-19 mRNA hub and:
+- Assemble the technology up to good manufacturing practices-grade pilot lots for clinical trials;
+- Transfer the appropriate know-how and technology to existing or new manufacturers in LMICs to enable them to develop and produce COVID-19 mRNA vaccines;
+
+2. Owners (public or private) of technology and/or intellectual property rights. These may be academic institutions, pharmaceutical companies, non-governmental organizations or any other entity willing to contribute these to a technology transfer hub, under the auspices of WHO, to enable production of mRNA-based COVID-19 vaccines in LMICs.
+
+For this initial expression of interest, entities willing to be considered as a technology transfer hub (as briefly described above under 1) or able to provide the necessary know-how, process training, and intellectual property rights (as briefly described above under 2), are invited to provide a brief summary of their capacity and their interest in participating in the establishment of a COVID-19 vaccine technology transfer hub to: Martin Friede <friedem@who.int> and Raj Long <rlong@who.int>.
+
+A call for interest from manufacturers in LMICs interested in receiving the technology developed by the technology transfer hub(s) will be issued by WHO in the coming weeks. Preference will be given to manufacturers of drugs, vaccines, or active pharmaceutical substances based in LMICs and capable of producing medical products on a large scale under Good Manufacturing Practices. Another important factor taken into consideration will be the prospect for sustainability and experience with WHO Prequalification.
+
+The reasons why WHO decided to advance immediately on mRNA vaccines are as follows:
+
+- They have proven extremely efficacious in protecting against COVID-19, and protection is maintained to a large degree against variants;
+- This technology is very flexible and allows relatively rapid adaptation of the vaccine to variants, if needed;
+- They can be produced by manufacturers of medicines and medical active substances in addition to vaccines;
+- Many technical features are free of Intellectual Property Rights in many countries of the world.
+
+--
+Communicated by:
+Mary Marshall
+<mjm2020@googlemail.com>
+
+[Technology transfer is a broad concept encompassing education and training, direct investment, licensing, movement of people, supply of materials and equipment, and other elements. Technology transfer is a series of processes for sharing ideas, knowledge, technology, and skills with another individuals or institutions and for acquisition by the other of such ideas, knowledge, technology, and skills.
+
+An earlier WHO report published in 2011, presents an overview of technology transfer and local production of vaccines in developing countries and analyses emerging trends in this area and how technology transfer affects access to vaccines in developing countries (https://www.who.int/phi/publications/ Increasing_ Access_ to_Vaccines_Through_Technology_Transfer.pdf).
+
+Technology transfer hubs have been supported previously by WHO to enable the successful development and transfer of processes for adjuvant production and for influenza vaccine production https://api.healthsecuritynet.org/get/file/WHO_influenza_2015.pdf?id=182).
+
+In May 2012, the 65th World Health Assembly endorsed the Global Vaccine Action Plan (GVAP), a document that sets ambitious vaccination goals for the upcoming decade. The GVAP reflects the growing recognition by governments, international agencies, and civil society of the importance of vaccines not only for achieving international health priorities but for addressing global issues such as poverty, hunger, education, and gender equality. One of the key objectives outlined by the GVAP is for all immunization programs to have sustainable access to universally recommended vaccine technologies within 5 years of licensure. There is an enormous gap between this goal and the current reality of new vaccine rollout in LMICs, and the GVAP recognizes that innovative mechanisms will be needed to support scale-up of new vaccines within the proposed timeline (https://www.ncbi.nlm. nih.gov/pmc/articles/PMC6291766/).
+
+Under the context of the Global Strategy and Plan of Action on Public Health, Innovation and Intellectual Property, the Local Production Programme undertook a 2-phase project to promote local production and technology transfer and build Member States' capacity in local production with collaboration from partners and support from the European Commission and the Bill & Melinda Gates Foundation (https://www.who.int/phi/ implementation/tech_ transfer/about/en/).
+
+In phase 1, the Local Production Programme has conducted landscape analyses on local production and technology transfer for the local production of medical products. In phase 2, the Local Production Programme, in collaboration with other WHO technical units and international partners, facilitated inter alia the technology transfer for building capacity of local vaccine production in LMICs under the context of the Global Action Plan for Influenza Vaccines and the establishment of a hub at Utrecht University for technology transfer for local production of bio-therapeutic products.
+
+The current pandemic situation highlights that it is essential to continue, rather increase, work towards building capacities for ensuring availability of relevant technologies and expertise across the globe in order to ensure that vaccines are uniformly accessible and available. - Mod.UBA]
+
+******
+[5] WHO: daily new cases reported (as of 17 Apr 2021)
+Date: Sat 17 Apr 2021
+Source: WHO [abridged, edited]
+https://covid19.who.int/table
+
+
+*Daily case reports as of 17 Apr 2021 16:18 CET
+
+Surveillance
+------------
+WHO region (no. countries/territories):
+Total confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+--------------------------------------
+Western Pacific Region (19): 2 184 778 (19 803) / 34 786 (206)
+European Region (61): 48 987 035 (239 757) / 1 032 338 (3876)
+South East Asia Region (10): 17 423 545 (247 238) / 236 088 (1579)
+Eastern Mediterranean Region (22): 8 396 854 (55 882) /169 805 (797)
+Region of the Americas (54): 59 294 109 (238 987) / 1 438 618 (6589)
+African Region (49): 3 214 868 (4127) / 80 545 (124)
+Cases on an international conveyance (Diamond Princess): 745 (0) / 13 (0)
+
+Confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+Grand total: 139 501 934 (805 794) / 2 992 193 (13 171)
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[Data by country, area, or territory for 17 Apr 2021 can be accessed at https://promedmail.org/wp-content/uploads/world-pdf/2021%20WHO%20Daily%20Tables%20Apr17_1618772655.pdf.
+
+- The Americas region reported 29.6% of daily case numbers and 50.0% of the daily deaths reported in the past 24 hours and maintained its position as the most severely affected region, having reported more than 59.29 million cases. The USA reported over 73 900 cases over the last 24 hours followed by Brazil with 73 174 cases, Argentina (24 999), Columbia (16 918), and Peru (13 326). Eight additional countries reported more than 1000 cases in the past 24 hours (Canada, Chile, Mexico, Cost Rica, Paraguay, Uruguay, Venezuela, and Cuba). Three countries reported more than 500 but fewer than 1000 cases (Bolivia, Ecuador, and Honduras).
+
+Countries not reporting cases in the last 24 hours include Guatemala and Nicaragua, among others.
+
+- The European region reported 29.7% of daily case numbers and 29.4% of the daily deaths reported in the past 24 hours, and total cumulative cases reported exceed 48.98 million cases. Many countries not reporting cases in the last 24 hours or longer include Spain, Belgium (3 cases), Switzerland (5 cases), and Kazakhstan, among others. Turkey reported the highest number of cases over the last 24 hours, followed by France, Germany, Italy, Poland, and Ukraine, reporting more than 10 000 new cases in the past 24 hours. Another 17 countries reported more than 1000 cases, and an additional 8 countries reported more than 500 but fewer than 1000 cases.
+
+- The Eastern Mediterranean region reported 6.9% of daily case numbers and 6.0% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 8.39 million cases. Iran reported the highest number of cases (25 261) over the last 24 hours, followed by Iraq, Pakistan, Jordan, Lebanon, Tunisia, Palestinian Authority, UAE, Kuwait, and Bahrain. Morocco, Qatar, Libya, Saudi Arabia, and Egypt reported more than 500 but fewer than 1000 cases.
+
+- The African region reported 0.5% of daily case numbers and 0.9 % of the deaths reported in the past 24 hours, having reported a cumulative total of more than 3.21 million cases. South Africa (1424) reported the highest number of cases over the last 24 hours. Madagascar and Cabo Verde, reported more than 500 but fewer than 1000 cases. Ethiopia, Kenya, Cameroon, Congo, and Cote d'Ivoire, among others, did not report any new cases in the past 24 hours.
+
+- The Western Pacific region reported 2.4% of daily case numbers and 1.5% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 2.18 million cases. Philippines reported the highest number of cases over the last 24 hours (over 10 000 cases), followed by Japan, Malaysia, Mongolia, and South Korea.
+
+- The South East Asia region reported 30.6% of the daily newly reported cases and 11.9% of reported deaths in the past 24 hours, having reported a cumulative total of more than 17.42 million cases. India is dominant, reporting over 234 000 cases, followed by Indonesia (5363 cases), Bangladesh (4417), Thailand (1547), Nepal, and Sri Lanka.
+
+On the Overview tab at the WHO source URL, the epidemic curve of confirmed COVID-19 cases by WHO region, 30 Dec 2019 through 17 Apr 2021, is an excellent visual representation of the pandemic. - Mod.UBA]
+
+******
+[6] Global update: Worldometer accessed 17 Apr 2021 19:47 EST (GMT-5)
+Date: Sat 17 Apr 2021
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at:
+https://promedmail.org/wp-content/uploads/world-pdf/2021%20WORLDDATA%20APRL17_1618773285.pdf.
+
+A 7-day series of cumulative data reported by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/2021%20APR17WORLD7_1618773398.pdf. - Mod.UBA]
+
+Total number of reported deaths: 3 023 813
+Total number of worldwide cases: 141 300 538
+Number of newly confirmed cases in the past 24 hours: 789 097
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[In the past 24 hours, India (260 778), Brazil (65 792), the USA (63 625), and Turkey (62 606), have reported the highest numbers of cases. A global total of 11 806 deaths were reported in the past 24 hours (late 15 Apr 2021 to late 16 Apr 2021). Countries reporting more than 10 000 newly confirmed cases in the past 24 hours (13 countries) include India, Brazil, the USA, Turkey, France (35 861), Iran (21 312), Germany (20 957), Argentina (19 119), Columbia (16 654), Poland (15 761), Italy (15 364), Ukraine (14 984), and Philippines (11 084). A total of 62 countries reported more than 1000 cases in the past 24 hours; 34 of the 62 countries are from the European region, 10 are from the Americas region, 9 are from the Eastern Mediterranean region, 4 are from the South East Asia region, 3 are from the Western Pacific region, and 2 from the African region.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, case counts have increased by 19.4%, while daily reported deaths have increased by 12.4%. Similar comparative 7-day averages in the USA show a 7.6% increase in daily reported cases and 12.9% decrease in reported deaths.
+
+Impression: The global daily total is 780 000 newly confirmed infections in the past 24 hours, with over 141.30 million cumulative reported cases and over 3.02 million reported deaths. - Mod.UBA]
+See Also
+COVID-19 update (137): thrombosis risk, comment, variants, UK/India, WHO, global 20210417.8313415
+COVID-19 update (136): Brazil, India, Chile, ring vacc, post vacc inf, WHO, global 20210416.8311071
+COVID-19 update (135): post-acute sequelae, women's health, Japan, WHO, global . 20210416.8309914
+COVID-19 update (134): adenovector-based vaccines, superspreader events, WHO 20210415.8307567
+COVID-19 update (133): pandemic growth, antibody cocktail, WHO, global 20210413.8305345
+COVID-19 update (132): double variants, USA, India, diagnostics, transmission in children, WHO, global 20210412.8303133
+COVID-19 update (131): salivary, NY, variants, vacc. thrombotic, Japan, WHO, global 20210411.8301356
+COVID-19 update (130): antibody evasion, variants, South Asia, WHO, global 20210410.8300187
+COVID-19 update (129): Turkey, B1 variant USA, Chile, China, WHO, global 20210409.8298671
+COVID-19 update (128): aerosols, protein targets, persistent antibodies, WHO 20210408.8296277
+COVID-19 update (127): variants, new vaccine 2P spike, WHO, global 20210407.8294615
+COVID-19 update (126): India, vaccines in pregnancy, P.1 variants USA, Canada, WHO, global 20210406.8292111
+COVID-19 update (125): variant analysis, maternal antibodies, WHO, global 20210405.8289796
+COVID-19 update (124): surge, variants, bacterial superinfections, WHO, global 20210404.8288263
+COVID-19 update (123): postvaccination transmission, CIDRAP, South Asia, WHO 20210403.8287093
+COVID-19 update (122): vaccines, prior HCoV infection, CIDRAP, Brazil, WHO 20210402.8285587
+COVID-19 update (121): Pfizer clinical trial for children, Brazil, WHO, global 20210401.8283365
+COVID-19 update (120): animal, Russia, vaccine 20210331.8281241
+COVID-19 update (100): antibodies, vaccine, Thailand, Cambodia, WHO, global 20210316.8250009
+COVID-19 update (90): UK sewage, Viet Nam, Cambodia, WHO 20210308.8233859
+COVID-19 update (80): vaccine, USA variants, comments, WHO, global 20210226.8214650
+COVID-19 update (70): gangrene, challenge trials, immunity, cancer, WHO, global 20210218.8198620
+COVID-19 update (60): animal, SARS-CoV-2-related viruses, pangolin, bat 20210211.8184900
+COVID-19 update (50): UK vaccine study, Brazil reinfection, WHO 20210205.8167161
+COVID-19 update (01): variants, vaccine, Thailand, global, WHO 20210101.8062938
+2020
+----
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+COVID-19 update (562): viral load, UK vacc dose, ECDC, WHO 20201231.8061525
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia: China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia: China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+----
+Undiagnosed pneumonia: China (HU): RFI 20191230.6864153
+and other items in the archives
+.................................................sb/lk/ml/uba/msp/ml
+</body>

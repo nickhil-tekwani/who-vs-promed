@@ -1,0 +1,458 @@
+<header id=052547>
+Published Date: 2021-02-03 07:33:33 EST
+Subject: PRO/AH/EDR> COVID-19 update (46): vaccine, mAb, diabetes, age, WHO
+Archive Number: 20210203.8160588
+</header>
+<body id=052547>
+CORONAVIRUS DISEASE 2019 UPDATE (46): VACCINE, MONOCLONAL ANTIBODIES, DIABETES, AGE, WHO
+****************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] Vaccines: Sputnik V
+[2] Monoclonal antibody decreased activity
+[3] Diabetes, cause unknown
+[4] USA: predominant age groups sustaining resurgence
+[5] WHO updates (as of 2 Feb 2021)
+[6] Global update: Worldometer accessed 2 Feb 2021 21:07 EST (GMT-5)
+
+******
+[1] Vaccines: Sputnik V
+[A] Russia: Sputnik V vaccine -- The Lancet
+Date: Tue 2 Feb 2021
+Source: The Lancet [edited]
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00234-8/fulltext
+
+
+ref: Logunov DY, Dolzhikova IV, Shcheblyakov DV, et al. Safety and efficacy of an rAd26 and rAd5 vector-based heterologous prime-boost COVID-19 vaccine: an interim analysis of a randomised controlled phase 3 trial in Russia. Lancet. Published: 2 Feb 2021
+----------------------------------------------------------------------
+Summary
+-------
+Background
+A heterologous recombinant adenovirus (rAd)-based vaccine, Gam-COVID-Vac (Sputnik V), showed a good safety profile and induced strong humoral and cellular immune responses in participants in phase 1/2 clinical trials. Here, we report preliminary results on the efficacy and safety of Gam-COVID-Vac from the interim analysis of this phase 3 trial.
+
+Methods
+We did a randomised, double-blind, placebo-controlled, phase 3 trial at 25 hospitals and polyclinics in Moscow, Russia. We included participants aged at least 18 years, with negative SARS-CoV-2 PCR and IgG and IgM tests, no infectious diseases in the 14 days before enrolment, and no other vaccinations in the 30 days before enrolment. Participants were randomly assigned (3:1) to receive vaccine or placebo, with stratification by age group. Investigators, participants, and all study staff were masked to group assignment. The vaccine was administered (0.5 mL/dose) intramuscularly in a prime-boost regimen: a 21-day interval between the 1st dose (rAd26) and the 2nd dose (rAd5), both vectors carrying the gene for the full-length SARS-CoV-2 glycoprotein S. The primary outcome was the proportion of participants with PCR-confirmed COVID-19 from day 21 after receiving the 1st dose. All analyses excluded participants with protocol violations: the primary outcome was assessed in participants who had received 2 doses of vaccine or placebo, serious adverse events were assessed in all participants who had received at least 1 dose at the time of database lock, and rare adverse events were assessed in all participants who had received 2 doses and for whom all available data were verified in the case report form at the time of database lock. The trial is registered at ClinicalTrials.gov (NCT04530396).
+
+Findings
+Between [7 Sep 2020] and [24 Nov 2020], 21 977 adults were randomly assigned to the vaccine group (n=16 501) or the placebo group (n=5476). 19 866 received 2 doses of vaccine or placebo and were included in the primary outcome analysis. From 21 days after the 1st dose of vaccine (the day of dose 2), 16 (0.1%) of 14 964 participants in the vaccine group and 62 (1.3%) of 4902 in the placebo group were confirmed to have COVID-19; vaccine efficacy was 91.6% (95% CI 85.6-95.2). Most reported adverse events were grade 1 (7485 [94.0%] of 7966 total events). 45 (0.3%) of 16 427 participants in the vaccine group and 23 (0.4%) of 5435 participants in the placebo group had serious adverse events; none were considered associated with vaccination, with confirmation from the independent data monitoring committee. Four deaths were reported during the study (3 [ less than 0.1%] of 16 427 participants in the vaccine group and 1 [ less than 0.1%] of 5435 participants in the placebo group), none of which were considered related to the vaccine.
+
+Interpretation
+This interim analysis of the phase 3 trial of Gam-COVID-Vac showed 91.6% efficacy against COVID-19 and was well tolerated in a large cohort.
+
+--
+communicated by:
+ProMED
+<promed@promedmail.org>
+
+----
+[B] The Lancet study: commentary
+Date: Tue 2 Feb 2021
+Source: The Lancet [abridged, edited]
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00191-4/fulltext
+
+
+ref: Jones I and Roy P. Sputnik V COVID-19 vaccine candidate appears safe and effective. The Lancet. Published: 2 Feb 2021
+--------------------------------------------------------------------
+Denis Logunov and colleagues report their interim results from a phase 3 trial of the Sputnik V COVID-19 vaccine in The Lancet [see [A] above]. The trial results show a consistent strong protective effect across all participant age groups. Also known as Gam-COVID-Vac, the vaccine uses a heterologous recombinant adenovirus approach using adenovirus 26 (Ad26) and adenovirus 5 (Ad5) as vectors for the expression of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) spike protein. The use of 2 varying serotypes, which are given 21 days apart, is intended to overcome any pre-existing adenovirus immunity in the population.
+
+Among the major COVID vaccines in development to date, only Gam-COVID-Vac uses this approach; others, such as the Oxford-AstraZeneca vaccine, use the same material for both doses. The earlier vaccine for Ebola virus disease, also developed at Gamaleya National Research Centre for Epidemiology and Microbiology (Moscow, Russia), was similar, with Ad5 and vesicular stomatitis virus as the carrier viruses, and the general principle of prime boost with 2 different vectors has been widely used experimentally.
+
+The recombinant adenovirus route to protection is shared with the Oxford-AstraZeneca vaccine, which uses a chimpanzee adenovirus (ChAdOx), the Johnson & Johnson vaccine that uses only Ad26 whose detailed results are expected soon, and the CanSinoBIO-Beijing Institute of Biotechnology Ad5-based vaccine whose phase 3 trial began in September 2020.
+
+The physical robustness of the carrier viruses is thought to allow storage at temperatures around -18 deg C [-0.4 deg F], which is feasible for many supply chains. The downside of recombinant adenovirus-based vaccines is that large doses are required, typically 10^10 or 10^11 particles, which makes large demands on the manufacturing and quantitation required for rollout on a global scale.
+
+What then of the Sputnik V COVID-19 vaccine data published here? The earlier phase 1/2 data published in September 2020, showed promising safety results and gave an indication that the immune response was at a level consistent with protection.
+
+Recipients generated robust antibody responses to the spike protein, which included neutralising antibodies, the proportion of the total immunoglobulin that inhibits the virus binding to its receptor. They also showed evidence of T-cell responses, consistent with an immune response that should not quickly wane. The interim report of the phase 3 data now presented includes results for more than 20 000 participants, 75% of whom were assigned to receive the vaccine, and the follow-up for adverse events and infection. With a planned study power of 85%, those recruited were aged 18 years and older, were about 60% male, and were almost all white. Comorbidities, a known risk for COVID-19 severity, were present in about a quarter of those who entered the trial. 62 (1.3%) of 4902 individuals in the placebo group and 16 (0.1%) of 14 964 participants in the vaccine group had confirmed SARS-CoV-2 infection from day 21 after 1st vaccine dose (the primary outcome). A time-resolved plot of the incidence rate in the 2 groups showed that the immunity required to prevent disease arose within 18 days of the 1st dose. That protection applied to all age groups, including those older than 60 years, and the anecdotal case histories of those vaccinated but infected suggest that the severity of disease decreases as immunity develops. 3 fatalities occurred in the vaccine group in individuals with extensive comorbidities, and were deemed unrelated to the vaccine. No serious adverse events considered related to the vaccine were recorded, but serious adverse events unrelated to the vaccine were reported in 45 participants from the vaccine group and 23 participants from the placebo group. Vaccine efficacy, based on the numbers of confirmed COVID-19 cases from 21 days after the 1st dose of vaccine, is reported as 91.6% (95% CI 85.6-95.2), and the suggested lessening of disease severity after one dose is particularly encouraging for current dose-sparing strategies.
+
+The development of the Sputnik V vaccine has been criticised for unseemly haste, corner cutting, and an absence of transparency. But the outcome reported here is clear and the scientific principle of vaccination is demonstrated, which means another vaccine can now join the fight to reduce the incidence of COVID-19.
+
+--
+communicated by:
+ProMED
+<promed@promedmail.org>
+
+["Russia has reported more than 3.8 million coronavirus cases, the 5th-most in the world, including nearly 73 000 deaths. In addition to Gam-COVID-Vac, the country has registered a 2nd vaccine, called EpiVacCorona, which contains synthesized SARS-CoV-2 peptides. Russia's health ministry says it plans to register a 3rd vaccine -- Kovivac -- later this month [February 2021]." (https://www.npr.org/sections/coronavirus-live-updates/2021/02/02/ 963166648/russias-sputnik-vaccine-is-reported-to-be-92-effective-against-covid-19). - Mod.LK]
+
+*****
+[2] Monoclonal antibody decreased activity
+[A] Treatment failure against variants
+Date: Tue 2 Feb 2021 10.50 GMT
+Source: The Guardian [edited]
+https://www.theguardian.com/world/2021/feb/02/monoclonal-antibodies-great-hope-in-covid-treatments-fails-against-variants
+
+
+The great hope for drug treatments against COVID-19 -- the monoclonal antibodies -- is failing against variants of the virus, such as those that have emerged in South Africa and Brazil, scientists have found. There have been high expectations of the drugs. One, made by Regeneron in the United States, is being trialled in hospital patients in the UK. But to the dismay of those who work on therapies against the disease, all 3 leading contenders -- Regeneron's, and drugs from Eli Lilly and GlaxoSmithKline - fail against one or more of the variants.
+
+The antibodies have huge advantages as treatments, said Nick Cammack, who leads the COVID-19 therapeutics accelerator at Wellcome. They are derived from cloning a human white blood cell and mimic the effects of the immune system. They are very safe, specifically engineered to target the virus and their use looked highly promising in the early stage of disease to stop it progressing.
+
+"The challenge came at Christmas [2020] when these new variants appeared -- the South Africa and Brazil ones particularly. The changes the virus makes in its spike proteins actually throw off these antibodies," he said. "So basically, most of the front-running antibody therapies for COVID which are the front-running therapies for COVID, I should say -- so the great hope -- are lost to the South African and Brazilian variants."
+
+GlaxoSmithKline's treatment still works against those variants, but not against the one that emerged in Kent in the UK. But with the coronavirus mutating as much as it has done already, Cammack does not expect any of the current drugs to be effective for long.
+
+Researchers now need to find "conserved" regions of the virus that do not mutate to target with antibodies. "I think it's pretty clear, whilst we've seen South Africa, UK, and Brazil variants, there will be others. And we need mass sequencing, genetic sequencing of the virus around the world, which will reveal where the changes are made and also reveal where conserved regions are," he said.
+
+The drugs still work against the original virus and are being used in Europe and the United States. The monoclonal antibodies were chosen to target the spike protein of the virus which attaches to cells in the human body. In general, he said, that region of the virus does not change much, because if it does, it won't attach so well to cells. "Well, here we are with a virus that makes a change that actually helps it stick to the cell even better. So these monoclonals are lost," said Cammack. "So we're somewhat back to square one honestly."
+
+Limited published scientific data about the variants and monoclonal antibodies exist -- there is a pre-print from South Africa [https://www.biorxiv.org/content/10.1101/2021.01.18.427166v1] and another from China [https://www.biorxiv.org/content/10.1101/2021.01.22.427749v1]. More papers are expected in the coming weeks.
+
+Monoclonal antibodies "are one of the most powerful tools in modern medicine" according to a recent Wellcome report [https://wellcome.org/reports/expanding-access-monoclonal-antibodies] on extending access to people in low and middle-income countries. They are used in cancers and auto-immune diseases, such as rheumatoid arthritis, and are being trialled against HIV. But they are expensive and relatively difficult to make, so only wealthy countries have really benefited from them as yet. The hope, said Lindsay Keir, author of the report, is that COVID might be a catalyst to get them to the rest of the world. "COVID has highlighted the potential for them to be used for other diseases such as infectious diseases as well. But we haven't quite yet been able to show a simple pathway to make monoclonal antibodies accessible to everyone," she said. There are more antibody treatments already in COVID trials, she said. "It's not about starting from scratch."
+
+In the face of the challenge, the companies were working together, Cammack said. Combined drugs, such as that in the trial announced last week [week of 25 Jan 2021] by GlaxoSmithKline and Eli Lilly [https://www.gsk.com/en-gb/media/press-releases/lilly-vir-biotechnology-and-gsk-announce-first-patient-dosed-in-expanded-blaze-4-trial/, could be an important part of the answer.
+
+[byline: Sarah Boseley]
+
+--
+communicated by:
+ProMED rapporteur Kunihiko Iizuka
+
+[The inability to neutralize the variants is a setback for the use of monoclonal antibodies as therapeutics since the variant VOC 202012/01, lineage B.1.1.7 was just reported to have become dominant in the UK (see a tweet by Christina Pagel https://mobile.twitter.com/chrischirp; "So this graph from the latest NERVTAG shows that the new B117 variant is now dominant in all English regions taking around 7-8 weeks to go from less than 10% of cases to 80%+") and variant 501Y.V2, lineage B.1.351 is dominant in South Africa. However, they have proven to be very successful in preventing disease from progressing to the severe stage if the patient is treated in the early stage of infection with the original virus, prior to these mutations.
+
+See COVID-19 update (26): autoAbs, vaccine, variants, escape mutants, WHO, global 20210121.8123742 for a discussion on the pre-print report from South Africa mentioned above. - Mod.LK]
+
+----
+[B] SARS-CoV-2 501Y.V2 escapes neutralization by South African COVID-19 donor plasm
+Date: Tue 19 Jan 2021
+Source: BioRxiv [abridged, edited]
+https://www.biorxiv.org/content/10.1101/2021.01.18.427166v1.full
+
+
+ref: Wibmer CK, Ayres F, Hermanus T, et al. SARS-CoV-2 501Y.V2 escapes neutralization by South African COVID-19 donor plasma. bioRxiv preprint doi: 10.1101/2021.01.18.427166; posted 19 Jan 2021
+
+Abstract. SARS-CoV-2 501Y.V2, a novel lineage of the coronavirus causing COVID-19, contains multiple mutations within two immunodominant domains of the spike protein. Here we show that this lineage exhibits complete escape from three classes of therapeutically relevant monoclonal antibodies. Furthermore 501Y.V2 shows substantial or complete escape from neutralizing antibodies in COVID-19 convalescent plasma. These data highlight the prospect of reinfection with antigenically distinct variants and may foreshadow reduced efficacy of current spike-based vaccines.
+
+Discussion. Our findings indicated that N501Y Variant 1 and Variant 2 increase viral infectivity compared to the reference strain in vitro. Notably, both N501Y Variant 1 and Variant 2 contain the D614G and N501Y mutations in Spike protein. The findings that Variant 1 and Variant 2 enhanced the infectivity of SARS-CoV-2 in vitro are highly consistent with previous studies, which demonstrated that D614G and N501Y mutations enhanced the fitness and transmissibility of the virus as evidenced by structure analysis and the increased number of clinical cases. Another key question is whether some mutations may enable immune evasion. It is reported that neutralization escape mutants can be selected by passaging virus in the presence of NAbs. Here, we observed that 2 naturally occurring SARS-CoV-2 variants, N501Y Variant 1 and Variant 2, were more resistant to neutralization by some mAb and convalescent sera from patients that were infected in mid- to late- January 2020 when a 'first wave' virus was mainly circulating in China. Consistently, Spike variants with the H60/V70 deletion or E484K mutation have significantly reduced susceptibility to neutralization by the polyclonal serum antibodies of some individuals. Whether these patients were at high risk of reinfection with 'second wave' variants should be explored in further studies. It is also urgent to assess the effectiveness of currently authorized vaccines against these variants.
+
+Collectively, this study will be helpful for understanding SARS-CoV-2 infectivity and for the design of vaccines against COVID-19. Given the evolving nature of the SARS-CoV-2 RNA genome, antibody therapeutics and vaccine development require further considerations to accommodate mutations in Spike that may affect the antigenicity of the virus. Limitations of this study include its small sample size and the use of non-replicating pseudovirus system. Therefore, further studies with authentic SARS-CoV-2 viruses are required.
+
+--
+communicated by:
+ProMED rapporteur Kunihiko Iizuka
+
+******
+[3] Diabetes: cause unknown
+Date: Mon 1 Feb 2021 7:15 p.m. GMT+1
+Source: The Washington Post [abridged, edited]
+https://www.washingtonpost.com/health/2021/02/01/covid-new-onset-diabetes/
+
+
+Mihail Zilbermint is used to treating diabetes -- he heads a special team that cares for patients with the metabolic disorder at Suburban Hospital in Bethesda, Maryland [USA]. But as the hospital admitted increasing numbers of patients with COVID-19, his caseload ballooned. "Before, we used to manage maybe 18 patients per day," he said. Now his team cares for as many as 30 daily.
+
+Many of those patients had no prior history of diabetes. Some who developed elevated blood sugar while they had COVID-19, the illness caused by the novel coronavirus, returned to normal by the time they left the hospital. Others went home with a diagnosis of full-blown diabetes. "We've definitely seen an uptick in patients who are newly diagnosed," Zilbermint said.
+
+Although COVID-19 often attacks the lungs, it is increasingly associated with a range of problems including blood clots, neurological disorders, and kidney and heart damage. Researchers say new-onset diabetes may soon be added to those complications -- both type 1, in which people cannot make the insulin needed to regulate their blood sugar, and type 2, in which they make too little insulin or become resistant to their insulin, causing their blood sugar levels to rise. But scientists do not know whether COVID-19 might hasten already developing problems or actually cause them -- or both.
+
+As early as January 2020, doctors in Wuhan, China, noticed elevated blood sugar in patients with COVID-19. Physicians in Italy, another early hot spot, wondered whether diabetes diagnoses might follow, given the long-observed association between viral infections and the onset of diabetes. That association was seen in past outbreaks of other coronavirus illnesses such as SARS.
+
+A year after the pandemic began, the precise nature and scope of the COVID-diabetes link remain a mystery. Many of those who develop diabetes during or after COVID-19 have risk factors, such as obesity or a family history of the disease. Elevated blood glucose levels also are common among those taking dexamethasone, a steroid that is a front-line treatment for COVID-19. But cases also have occurred in patients with no known risk factors or prior health concerns. And some cases develop months after the body has cleared the virus.
+
+[JK], a 47 year old banking executive in Evening Shade, Arkansas, was one of the surprise cases. He was hospitalized with COVID-19 in early July [2020]. During a follow-up visit with his doctor, he learned he had dangerously high blood glucose levels and was readmitted. [JK] has since received a diagnosis of type 2 diabetes. "I had no preexisting health issues," he said.
+
+As many as 14.4 per cent of people hospitalized with severe COVID-19 developed diabetes, according to a global analysis published [27 Nov 2020] in the journal Diabetes, Obesity and Metabolism [reference 1 below]. The international group of researchers sifted through reports of uncontrolled hyperglycemia, or high blood sugar, in more than 3700 COVID-19 patients across 8 studies. While those diagnoses might be the result of a long-observed response to severe illness, or to treatment with steroids, the authors wrote, a direct effect from COVID-19 "should also be considered". Concerns that COVID-19 might be directly implicated also were supported, they said, by the exceptionally high doses of insulin that diabetes patients with severe COVID-19 often require and the dangerous complications they develop.
+
+Researchers do not understand exactly how COVID-19 might trigger type 1 or type 2 diabetes, or whether the cases are temporary or permanent. But they are racing to find answers to these and other questions, including whether the novel coronavirus may have spawned an entirely new type of diabetes that might play out differently from the traditional forms of the disease.
+
+Francesco Rubino, a diabetes surgery professor at King's College London, is convinced there is an underlying connection between the diseases. Over the summer, he and a group of other diabetes experts launched a global registry of patients with COVID-19-related diabetes. After they spread the word with an editorial in the New England Journal of Medicine [reference 2 below], more than 350 institutions from across the world responded, he said.
+
+The database is accumulating patients -- over 150 so far -- although it will take months for researchers to sift through the data to draw any conclusions. "We really need to dig deeper," Rubino said. "But it sounds like we do have a real problem with COVID and diabetes."
+
+Some of the cases reported to his database do not fit the usual profile of type 1 diabetes, in which the pancreas produces little or no insulin, or type 2, in which people become insulin resistant, he said. Usually, a patient with one type of diabetes will experience specific complications; for instance, those with type 1 may burn through their fat stores, or those with type 2 may experience a syndrome that can involve severe dehydration and coma as the body pumps excess blood sugar into the urine. In some patients with COVID-19, though, complications cross types.
+
+"There's a good chance that the mechanism of the diabetes isn't typical," Rubino said. "There could be a hybrid form. It's concerning." Rubino is especially worried about reports of diabetes diagnoses after mild or asymptomatic coronavirus infections. As the number of novel coronavirus infections continues to rise, he said, "you could see a significant new volume of diabetes diagnoses."
+
+Diabetes already is increasing at an alarming rate in the United States. An estimated 34.2 million people, or 10.5 per cent of the population, have the disorder, according to federal health data. And about 1 in 3 Americans, or 88 million people, have prediabetes, which indicates they are on a path to type 2. If left uncontrolled, the disease can damage many parts of the body and is associated with serious complications including heart disease, stroke, blindness, kidney failure, and nerve damage.
+
+But whether those with diabetes that is newly diagnosed after COVID-19 will have a lifelong problem is unclear. After the 2003 SARS pandemic, Chinese researchers tracked 39 patients with no history of diabetes who had developed acute diabetes within days of hospitalization with SARS. For all but 6, blood sugar level had fallen by the time they were discharged, and only 2 still had diabetes after 2 years. The researchers also found evidence that the SARS virus might attack insulin-producing beta cells in the pancreas.
+
+Beta cells play starring roles in both types of diabetes: The bodies of those with type 1 attack and destroy the cells altogether, halting insulin production. Type 2 diabetics become resistant to the insulin they produce, so the beta cells make more and more, and eventually are worn out.
+
+"If scientists could figure out how or if viral infection can damage beta cells, or what role viruses play in the development of the disease, it would be a real turning point," said Katie Colbert Coate, a diabetes researcher and research instructor in medicine at Vanderbilt University Medical Center [Tennessee].
+
+Though people with diabetes are no more susceptible to contracting COVID-19 than those without, they are at much higher risk of severe complications or death once they do. In the early days of the pandemic, just over 1/3 of those who died of COVID-19 in British hospitals had preexisting cases of diabetes. Doctors in Wuhan also noticed that those with newly diagnosed diabetes were more likely to need intensive care than those who had diabetes before they contracted COVID-19.
+
+New diagnoses of diabetes in people with no classic risk factors also are scattered throughout case reports: A 37 year old, previously healthy Chinese man who went to the hospital with a severe, and in some cases fatal, diabetes complication; a 19 year old German who developed type 1 diabetes 5 to 7 weeks after a novel coronavirus infection but who lacked the antibodies commonly associated with the autoimmune disease.
+
+Doctors at Children's Hospital Los Angeles, meanwhile, noticed an increase in the number of type 2 diagnoses in children, as well as a severe complication of diabetes. After some of them showed evidence of past coronavirus infections, Senta Georgia, an investigator in the hospital's Saban Research Institute, began looking deeper. Her research, which repurposes tissue from primates used in vaccine tests, is undergoing peer review. "Only with the scientific public square can we put all of this data out there, evaluate its strengths and weaknesses ... until we really get the information we need," Georgia said.
+
+Such reports also have increased the sense of urgency for researchers like Coate, who dropped other work and began looking for keys to understanding the mechanism of the disease by examining how COVID-19 might damage beta cells or other structures in the pancreas. She and others are asking whether certain COVID symptoms predict whether a patient is vulnerable to diabetes and, most important, whether the disease's onset is an effect of the immune response or a result of the virus directly attacking insulin-producing cells.
+
+ACE2 receptor cells, the novel coronavirus's entryway into the body, could provide one answer. When the spike proteins that surround the virus latch onto a host cell with an ACE2 receptor, they open up a cellular doorway that allows the virus to hijack the cell. Strong evidence of ACE2 receptors on beta cells could confirm the long-standing suspicion that viruses trigger diabetes. But the research findings are inconclusive: Since the pancreas breaks down quickly after death, obtaining good samples from autopsied humans is difficult. And each study has its own limitations.
+
+Last year [2020], Cornell University researchers grew human pancreas cells and managed to infect them with SARS-CoV-2, as the novel coronavirus is technically known. They found ACE2 receptors on the cells, but the cells had been cultivated in a laboratory, not a human body.
+
+Coate and her colleagues at Vanderbilt University were able to confirm the presence of ACE2 receptors in the physical structures of the pancreas, but their study focused on patients without COVID-19 and found no evidence of the receptors on the insulin-producing beta cells. An Italian study did find the receptors in beta cells, but the donors did not have COVID-19, either. Until receptors in pancreatic beta cells in tissue from COVID-19 patients can be consistently confirmed by other researchers, the hunt for the mechanism underlying the diabetes-COVID-19 connection continues. So does research on ways COVID-19 might harm other parts of the endocrine system, which also might play a role in the disease mechanism.
+
+[byline: Erin Blakemore]
+
+--
+communicated by:
+ProMED
+<promed@rpomedmail.org>
+
+References
+----------
+1. Sathish T, Kapoor N, Cao Y, et al. Proportion of newly diagnosed diabetes in COVID-19 patients: A systematic review and meta-analysis. Diabetes Obes Metab. 2020 Nov 27: 10.1111/dom.14269. doi: 10.1111/dom.14269. Epub ahead of print. PMID: 33245182; PMCID: PMC7753574; full article available at https://dom-pubs.onlinelibrary.wiley.com/doi/10.1111/dom.14269
+Excerpts
+--------
+"It is now undoubtedly proven that diabetes is associated with a poor prognosis of COVID-19. On the other hand, COVID-19 patients with diabetes frequently experience uncontrolled hyperglycemia and episodes of acute hyperglycemic crisis, requiring exceptionally high doses of insulin. More intriguingly, recent reports show that newly diagnosed diabetes is commonly observed in COVID-19 patients. However, this has not been systematically studied before [see methodology at the URL above]
+
+"All 8 studies were retrospective cohort studies, including 4 from China, 2 from Italy, and the remaining 2 from the USA.
+
+"With a total of 3711 COVID-19 patients with 492 cases of newly diagnosed diabetes from 8 studies, the random effects meta-analysis estimated a pooled proportion of 14.4% (95% CI: 5.9-25.8%) with a high degree of heterogeneity (I2: 98.6%, p less than 0.001). The pooled proportion was non-significantly lower in China than in other countries (13.4% vs. 15.4%, p=0.87, Figure 3)."
+
+2. Rubino F, Amiel SA, Zimmet P, et al. New-onset diabetes in COVID-19. N Engl J Med. 2020 Aug 20; 383(8): 789-790. doi: 10.1056/NEJMc2018688. Epub 2020 Jun 12. PMID: 32530585; PMCID: PMC7304415; full editorial available at https://www.nejm.org/doi/10.1056/NEJMc2018688 [abridged, edited]
+
+Excerpt
+-------
+"There is a bidirectional relationship between COVID-19 and diabetes. On the one hand, diabetes is associated with an increased risk of severe COVID-19. On the other hand, new-onset diabetes and severe metabolic complications of preexisting diabetes, including diabetic ketoacidosis and hyperosmolarity for which exceptionally high doses of insulin are warranted, have been observed in patients with COVID-19.
+
+"Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the virus that causes COVID-19, binds to angiotensin-converting enzyme 2 (ACE2) receptors, which are expressed in key metabolic organs and tissues, including pancreatic beta cells, adipose tissue, the small intestine, and the kidneys. Thus, it is plausible that SARS-CoV-2 may cause pleiotropic alterations of glucose metabolism that could complicate the pathophysiology of preexisting diabetes or lead to new mechanisms of disease.
+
+"There are also several precedents for a viral cause of ketosis-prone diabetes, including other coronaviruses that bind to ACE2 receptors.5 Greater incidences of fasting glycemia and acute-onset diabetes have been reported among patients with SARS coronavirus 1 pneumonia than among those with non-SARS pneumonia.
+
+"In the aggregate, these observations provide support for the hypothesis of a potential diabetogenic effect of COVID-19, beyond the well-recognized stress response associated with severe illness."
+
+It is very plausible that there is a cause and effect relationship between diabetes and infection with the SARS-CoV2. As mentioned above, other viral infections have been demonstrated with causality of new onset diabetes. We await results of further investigations under way. - Mod.MPP]
+
+******
+[4] USA: predominant age groups sustaining resurgence
+Date: Tue 2 Feb 2021
+Source: Science, American Association for the Advancement of Science (AAAS) [abridged, edited]
+https://science.sciencemag.org/content/early/2021/02/01/science.abe8372.full
+
+
+ref: Monod M, Blenkinsop A, Xi X, et al. Age groups that sustain resurging COVID-19 epidemics in the United States. Science 2 Feb 2021: eabe8372. doi: 10.1126/science.abe8372
+----------------------------------------------------------------------
+Abstract
+--------
+Following initial declines, in mid 2020 a resurgence in transmission of novel coronavirus disease (COVID-19) occurred in the US and Europe. As COVID19 disease control efforts are re-intensified, understanding the age demographics driving transmission and how these affect the loosening of interventions is crucial. We analyze aggregated, age-specific mobility trends from more than 10 million individuals in the US and link these mechanistically to age-specific COVID-19 mortality data. We estimate that as of October 2020, individuals aged 20-49 are the only age groups sustaining resurgent SARS-CoV-2 transmission with reproduction numbers well above one, and that at least 65 of 100 COVID-19 infections originate from individuals aged 20-49 in the US. Targeting interventions -- including transmission-blocking vaccines -- to adults aged 20-49 is an important consideration in halting resurgent epidemics and preventing COVID-19-attributable deaths.
+
+----
+Following worldwide spread of the novel severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the implementation of large-scale non-pharmaceutical interventions has led to sustained declines in the number of reported SARS-CoV-2 infections and deaths from coronavirus disease 2019 (COVID-19) (1,2). However, since mid-June 2020, the daily number of reported COVID-19 cases is resurging in Europe and North America, and surpassed in the United States alone 40 000 daily reported cases on [26 Jun 2021], and 100 000 on [4 Nov 2020] (3). Demographic analyses have shown that the share of individuals aged 20-29 among reported cases increased most, suggesting that young adults may be driving re-surging epidemics (4). However reported COVID-19 case data may not be a reliable indicator of disease spread due to the large proportion of asymptomatic COVID-19, increased testing, and changing testing behavior (5).
+
+Similar to many other respiratory diseases, the spread of SARS-CoV-2 occurs primarily through close human contact, which, at a population level, is highly structured (6). Prior to the implementation of COVID-19 interventions, contacts concentrated among individuals of similar age, were highest among school-aged children and teens, and also common between children/teens and their parents, and middle-aged adults and the elderly (6). Since the beginning of the pandemic, these contact patterns have changed substantially (7-9). In the US, the Berkeley Interpersonal Contact Study indicates that in late March 2020 after stay-at-home orders were issued, the average number of daily contacts made by a single individual, also known as contact intensity, dropped to 4 or fewer contacts per day (9). Data from China show that infants and school-aged children and teens had almost no contact to similarly aged children and teens in the 1st weeks after stay-at-home orders, and reduced contact intensities with older individuals (7). However, detailed human contact and mobility data have remained scarce, especially longitudinally, although such data are essential to better understand the engines of COVID-19 transmission (10).
+
+[available at the source URL above:]
+- Cell-phone data suggest similar rebounds in mobility across age groups.
+
+- Reconstructing human contact patterns and SARS-CoV-2 transmission
+
+- SARS-CoV-2 transmission is sustained primarily from age groups 20-49
+Figure 3 summarizes the epidemic situation for all states and metropolitan areas evaluated, and the age groups that sustain COVID-19 spread. In the last observation week in October 2020, the estimated reproduction number across all locations evaluated was highest from individuals aged 35-49 (1.39 [1.34-1.44]) and 20-34 (1.29 [1.24-1.36]), and around one for age groups 10-19 and 50-64 (tables S1 and S2).
+
+The primary mechanisms underlying the high reproduction numbers from 20-49 year olds are that at population level, adults aged 20-49 naturally have most contacts to other adults aged 20 and above, which are more susceptible to COVID-19 than younger individuals, paired with increasing mobility trends for these age groups since April 2020.
+
+This suggests that additional interventions to adults aged 20-49, including rapid mass vaccination if vaccines prove to block transmission, could bring resurgent COVID-19 epidemics under control.
+
+- The majority of COVID-19 infections originate from age groups 20-49
+The percentage contribution to onward spread was 41.1% [40.7%-41.4%] from individuals aged 35-49, compared to 2.1% [1.6%-2.8%] from individuals aged 0-9, 4.0% [3.5%-4.6%] from individuals aged 10-19, 34.7% [33.9%-35.5%] from individuals aged 20-34, 15.3% [14.8%-15.8%] from individuals aged 50-64, 2.5% [2.2%-2.9%] from individuals aged 65-79 age group, and 0.3% [0.3%-0.3%] from individuals aged 80+ (table S4).
+
+Conclusion
+----------
+This study provides evidence that the resurgent COVID-19 epidemics in the US in 2020 have been driven by adults aged 20-49, and in particular adults aged 35-49, before and after school reopening. Unlike pandemic flu, these adults accounted after school reopening in October, 2020 for an estimated 72.2% [68.6%-75.9%] of SARS-CoV-2 infections in the US locations considered, whereas less than 5% originated from children aged 0-9 and less than 10% from teens aged 10-19.
+
+--
+communicated by:
+Sukie Crandall
+<sukie@mac.com>
+
+[The full article including figures and references is available at the source URL above.
+
+I am not surprised by the results of this study, as reports out of many different areas within the USA when the resurgences began, highlighted these age groups as most involved in terms of cases and asymptomatic infections -- the latter being most insidiously responsible for onward transmission. I highly recommend reading the paper in its entirety. - Mod.MPP]
+
+******
+[5] WHO updates (as of 2 Feb 2021)
+[A] Weekly epidemiological update
+Date: Wed 2 Feb 2021
+Source: WHO Emergency Situational Updates [abridged, edited]
+https://www.who.int/publications/m/item/weekly-epidemiological-update---2-february-2021
+
+
+[References, figures, and tables available at the source URL above. - Mod.MPP]
+
+Data as received by WHO from national authorities, as of [31 Jan 2021], 10 am CET
+
+Global epidemiological situation
+--------------------------------
+Globally, 3.7 million new cases were reported last week, a 13% decline as compared to the previous week, and the 3rd consecutive week showing a decline in cases. There were 96 000 new deaths, and a 1% decline as compared to the previous week, (Figure 1). This brings the total number of cases to over 102 million and the total number of deaths to 2.2 million from 222 countries and territories. Last week, all WHO regions, except South-East Asia reported a decline in new cases (Table 1). Although new deaths declined globally by 1%, they rose in the Western Pacific (21%), Eastern Mediterranean (9%), and the Americas (4%).
+
+Saturday [30 Jan 2021] marked one year since WHO declared COVID-19 a Public Health Emergency of International Concern. At that time, there were 9826 cases in 20 countries, and 213 deaths in one country (all of which were in China).
+
+In the past week, the 5 countries reporting the highest number of new cases continue to be the United States of America (1 072 287 cases, a 15% decrease), Brazil (364 593 cases, a 1% increase), the United Kingdom of Great Britain and Northern Ireland (178 629 cases, a 31% decrease), France (141 092 cases, a 2% increase), and the Russian Federation (131 039 cases, a 13% decrease).
+
+Figure 1: COVID-19 cases reported weekly by WHO Region, and global deaths, as of [31 Jan 2021].
+Figure 2: COVID-19 cases per 100 000 population reported in the last 7 days by countries, territories and areas, [25 Jan 2021] through [31 Jan 2021].
+Table 1: Newly reported and cumulative COVID-19 confirmed cases and deaths, by WHO Region, as of [31 Jan 2021].
+Table 2: COVID-19 confirmed cases and deaths reported in the last 7 days by countries, territories and areas, and WHO Region, as of [31 Jan 2021].
+
+Special focus: COVID-19 and health workers
+------------------------------------------
+Overview
+In his press briefing of [29 Jan 2021], WHO director-general Dr Tedros again emphasized that health care workers have been at the forefront of the response to the pandemic but are often under-protected and overexposed.
+
+In this special focus -- recognizing that 2021 has been designated as the International Year of Health and Care Workers -- we present an overview of health worker SARS-CoV-2 infections using data collected via the WHO Global Surveillance systems, and analyse risk factors from available scientific literature. To date, a total of 183 countries have reported data via WHO case report forms (CRFs) to date, covering 37 million cases (36% of current global COVID-19 cases). The CRFs were mainly received from member states in the Region of the Americas and European Region. Over 16 million CRFs (43% of CRFs received, representing 16% of global COVID-19 cases) included information on occupation status, including health workers. Within this subset, health workers accounted for close to 1.29 million COVID-19 cases, or 8% of cases. The median age of health worker cases was 42 years (interquartile range 27 to 60 years), and 68% were women. This is in line with the proportion of women working in the health and social sectors globally.
+
+Percentage of health worker infections and relative risk over time
+It is important to acknowledge that country-specific trends remain highly variable, and the data are based on reported cases (those testing positive for SARS-CoV-2) often without providing information on the overall number tested. Therefore, it is difficult to reliably compare incidence of health worker infections over time and trends should be interpreted with caution due to variations in reporting coverage and completeness, adaptations to testing strategies, differences in the implementation of public health measures and interventions, as well as differences in the circulation of SARS-CoV-2 in the community over time. In addition, it is not possible to determine the place of exposure (for example, health care facility or community) among health workers from WHO CFR data.
+
+Based on WHO CRF data, in the 1st 3 months of the pandemic, health worker infections slightly exceeded 10% of reported cases (Figure 3), declining to less than 5% by early-June 2020 (Epi week 2) and to approximately 2.5% by September 2020 (Epi week 37).
+
+[See discussion on the data analyses at the source URL above].
+
+Figure 3: Weekly total number of cases and percentage of health worker cases among infected individuals reported, data from WHO Case Report Forms where occupation was indicated, [20 Jan 2020] to [31 Jan 2021].
+
+Analysis of health worker risk factors
+WHO first commissioned a rapid systematic review of published literature on the risk factors in health workers for SARS-CoV-2 infections in April 2020 and this has been updated regularly since. The latest update on [24 Dec 2020] identified a total of 37 studies evaluating risk factors associated with SARS-CoV-2 infection in health workers.
+
+Highlights include:
+- SARS-CoV-2 infections occurred among health workers in various roles (clinical or non-clinical) and departments/settings (including outpatient and non-COVID-19 care settings).
+- There was no consistent difference in risk of infection between job titles, including between nurses compared with physicians, which represented the most commonly reported health worker roles.
+- There was no association found between sex or age and risk of SARS-CoV-2 infection or seropositivity in health workers.
+- African-Americans and Hispanic health workers had an increased risk of SARS CoV-2 infection.
+- Education and training in infection prevention and control were associated with decreased risk of SARSCoV-2 infection in health workers.
+- Certain exposures such as those involving intubations, other aerosol-generating procedures, direct patient contact, or contact with bodily secretions were found to be associated with increased infection risk compared with less intensive or direct exposure; though evidence was inconsistent, likely related to confounding factors such as those related to the availability, distribution, and use of PPE.
+- Evidence on the association between health worker infection and use of individual PPE measures (masks, gloves, gown, eye protection) and hand hygiene was limited. However, most studies found that availability and appropriate use of PPE as recommended by local authorities was associated with decreased risk of SARS-CoV-2 infection. Evidence on the use of N95 or FFP2 respirators versus medical/surgical masks was inconclusive and limited to 2 inconsistent observational studies. Further information on the use of masks in health facilities can be found in the interim guidance on mask use in the context of COVID-19.
+- 3 studies found that universal masking in health facilities was associated with decreased risk of SARS-CoV-2 infection in health workers.
+
+A number of possible hypotheses may help to explain the observed trends in health worker infections. The higher proportion of health worker infections at the beginning of the pandemic in some countries may be due to the lack of preparedness to infectious disease outbreaks, of standard IPC [infection prevention and control] precautions during care delivery, and reduced access to PPE, and overburdened health systems due to increased hospitalizations and limited health care capacities. Trends could also reflect different testing strategies prioritizing health workers over the general public. The subsequent decline in health worker infections could be a result of multiple interventions, including: i) training of health workers on IPC measures; ii) increased availability and appropriate use of personal protective equipment (PPE); iii) monitoring of IPC practices by occupational health and safety personnel; iv) improved clinical management based on improved knowledge about COVID-19; v) reduced bed capacity of COVID-19 patients in hospitals; vi) general reduction in community transmission with implementation of public health and social measures resulting in less pressure on hospital systems and hospitalizations; vi) increased SARS-CoV-2 testing capabilities; and, vii) increased knowledge of methods of transmission. Hence, it is impossible to determine from the available data how these interventions (individually or as a mix) contributed to the observed trends.
+
+The WHO review of available studies found that observational studies provided important insights but had some methodological limitations. These limitations include potential recall bias, low or unclear participation rates, small sample sizes, and challenges in disentangling the effect of different measures, which were often implemented at the same time.
+
+To bridge these gaps and improve the understanding of SARS-CoV-2 infection among health workers, WHO has developed a standardized protocol for COVID-19 surveillance among health workers that countries can use, and is leading an international multi-centre case-control study primarily aimed at identifying risk factors and settings of exposure. More than 140 sites in 28 countries have enrolled so far and recruitment is ongoing (for more information please contact: <earlyinvestigations-2019-nCoV@who.int>)
+
+Special focus: update on SARS-CoV-2 variants of concern
+-------------------------------------------------------
+WHO, in collaboration with national authorities, institutions and researchers, continues to monitor the public health events associated with SARS-CoV-2 variants and provides updates as new information becomes available. Further information on the background of the variants of concern (VOC) is available from previously published Disease Outbreak News [https://www.who.int/csr/don/31-december-2020-sars-cov2-variants/en/] and in the last 4 publications of the Weekly Epidemiological Updates [https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports].
+
+WHO continues to work with partners to evaluate available evidence around transmissibility, severity, antibody neutralization capabilities and potential impacts on vaccines of specific mutations, variants of interest and variants of concern. Here we provide an update on the geographical distribution of 3 variants of concern as reported by countries, territories and areas (hereafter countries) as of [2 Feb 2021]:
+
+1. Variant VOC 202012/01, lineage B.1.1.7
+Since our last update on [27 Jan 2021], variant VOC 202012/01 has been detected in 10 additional countries. As of [2 Feb 2021], a total of 80 countries across all 6 WHO regions have reported either imported cases or community transmission of this variant (Figure 5: Countries, territories, and areas reporting SARS-CoV-2 VOC 202012/01 as of [2 Feb 2021]).
+
+2. Variant 501Y.V2, lineage B.1.351
+Since the last update on [27 Jan 2021], 501Y.V2 has been reported from 10 additional countries- now totaling 41 countries across 4 of the 6 WHO regions (Figure 6: Countries, territories, and areas reporting SARS-CoV-2 501Y.V2 as of [2 Feb 2021]).
+
+3. Variant P.1, lineage B.1.1.28
+Since our last update [27 Jan 2021], variant P.1 has been reported in 2 additional countries. To date, this variant is reported in 10 countries across 4 of the 6 WHO regions (Figure 7: Countries, territories, and areas reporting SARS-CoV-2 P.1 variant as of [2 Feb 2021]).
+
+Last week [week of 25 Jan 2021], WHO held a multidisciplinary Global Transmission Discussion Seminar on SARS-CoV-2 variants and transmission. Participants from Brazil, Denmark, South Africa, and the United Kingdom presented ongoing work aiming to understand transmission aspects of the variants of concern emerging in their countries, namely variants: P.1/P.2, cluster 5, 501Y.V2, and VOC202012/01, respectively. Initial analyses suggest that some variants may be more transmissible, possibly due to mutations that improve the virus's ability to bind to human cells, but available studies have found that the modes of transmission have not changed.
+
+SARS-CoV-2 incidence and hospitalizations in a number of countries where VOC202012/01 and 501Y.V2 are circulating has started to decline in recent weeks, demonstrating the effectiveness of public health and social measures for controlling transmission of these variants.
+
+The emergence of new variants has highlighted the importance for everyone to continue to comply with local and national public health and social measures, and to take simple precautions, such as physical distancing, wearing a mask, keeping rooms well ventilated, avoiding crowds, cleaning your hands, and coughing into a bent elbow or tissue (see also Protect yourself and others from COVID-19). It remains critical to increase diagnostic capacity and strategic genetic sequencing of SARS-CoV-2 where capacity allows, and continue to share sequence data internationally in a timely manner. Genetic sequencing should be considered for a subset of SARS-CoV-2 cases in each country, especially among outbreaks or clusters where transmission and/or severity may appear unusual.
+
+Situation by WHO Region
+-----------------------
+[Epidemic curves available for each region at the source URL above. - Mod.MPP]
+
+- African Region
+In the past week, the African Region reported over 108 000 cases and just over 4600 deaths, a 27% decrease in cases and an 8% decrease in deaths respectively compared to the previous week. Cases have decreased for 2 consecutive weeks. The highest numbers of new cases were reported in South Africa (44 397 new cases; 74.9 new cases per 100 000 population; a 44% decrease), Nigeria (9955 new cases; 4.8 new cases per 100 000; a 15% decrease) and Zambia (8760 new cases; 47.7 new cases per 100 000; a 3% increase). The countries reporting the highest number of new deaths in the past week were South Africa (3377 new deaths; 5.7 new deaths per 100 000; a 9% decrease), Zimbabwe (219 new deaths; 1.5 new deaths per 100 000; a 25% decrease), and Malawi (217 new deaths; 1.1 new deaths per 100 000; a 28% increase).
+
+- Region of the Americas
+Over 1.8 million new cases and over 47 000 new deaths were reported in the Region of the Americas this week, a decrease of 11% and an increase of 4% respectively compared to the previous week. The highest numbers of new cases were reported from the United States of America (1 072 287 new cases; 324.0 new cases per 100 000 population; a 15% decrease), Brazil (364 593 new cases; 171.5 new cases per 100 000; a 1% increase) and Mexico (109 603 new cases; 85.0 new cases per 100 000; an 11% decrease). The highest numbers of deaths were reported from the same countries, the United States of America (22 506 new deaths; 6.8 new deaths per 100 000; a 4% increase), Mexico (8965 new deaths; 7.0 new deaths per 100 000; a 4% increase), and Brazil (7423 new deaths; 3.5 new deaths per 100 000; a 6% increase).
+
+- Eastern Mediterranean Region
+In the past week, the Eastern Mediterranean Region reported over 161 000 new cases, a decrease of 5% compared to last week. The region reported 3200 new deaths, a 9% increase. The 3 countries reporting the highest numbers of new cases continue to be the Islamic Republic of Iran (44 699 new cases, 53.2 new cases per 100 000 population, a 5% increase), Lebanon (22 326 new cases, 327.1 new cases per 100 000, a 19% decrease) and United Arab Emirates (26 285 new cases, 265.8 new cases per 100 000, 7% increase). The highest numbers of new deaths were reported in Lebanon (751 new deaths, 11.0 new death per 100 000, an 81% increase), Iran (595 new deaths, 0.7 new death per 100 000 population, a 3% increase), and Tunisia (526 new deaths, 4.5 new death per 100 000, a 2% decrease).
+
+- European Region
+The European Region reported over 1.2 million new cases and over 36 000 new deaths, a decrease of 18% and 8% respectively when compared to the previous week. The 3 countries reporting the highest numbers of new cases were the United Kingdom (178 629 new cases, 263.1 new cases per 100 000, a 31% decrease), France (141 092 new cases; 216.2 new cases per 100 000, a 2% increase) and the Russian Federation (131 039 new cases, 89.8 new cases per 100 000, a 13% decrease). The highest numbers of deaths were reported from the United Kingdom (8242 new deaths; 12.1 new deaths per 100 000, a 6% decrease), Germany (5075 new deaths; 6.1 new deaths per 100 000, a 7% decrease), and the Russian Federation (3720 new deaths; 2.5 new deaths per 100 000, a 5% decrease).
+
+- South East Asia Region
+Following slow declines in the number of new cases in the South-East Asia Region in recent weeks, there was a plateau in newly reported cases (200 000 new cases, 3% increase from last week), and deaths (3000 new deaths, 0% change) this week. The 3 countries reporting the highest numbers of new cases and new deaths were India (91 650 new cases; 6.6 new cases per 100 000, a 5% decrease), Indonesia (88 839 new cases; 32.5 new cases per 100 000; a 10% increase) and Sri Lanka (5706 new cases; 26.6 new cases per 100 000; an 8% increase). The 3 countries reporting the highest numbers of new deaths this week were Indonesia (2064 new deaths; 0.8 new deaths per 100 000, a 9% increase), India (935 new deaths; less than 0.1 new deaths per 100 000, a 12% decrease), and Bangladesh (108 new deaths; less than 0.1 new deaths per 100 000; a 10% decrease).
+
+- Western Pacific Region
+The Western Pacific Region reported 72 000 new cases the past week, an 11% decrease compared the previous week, while a marked (21%) increase was seen in the number of new deaths, with over 1200 deaths reported this week. The 3 countries reporting the highest numbers of new cases in the region this week were Malaysia (29 206 new cases; 90.2 new cases per 100 000, a 15% decrease), Japan (26 081 new cases; 20.6 new cases per 100 000, a 32% decrease), and the Philippines (11 837 new cases; 10.8 new cases per 100 000, a 9% decrease). The 3 countries reporting the highest numbers of new deaths this week were Japan (635 new deaths; 0.5 new deaths per 100 000, an 8% increase), the Philippines (479 new deaths; 0.4 new deaths per 100 000, an 11% increase), and Malaysia (79 new deaths; 0.2 new deaths per 100 000, a 56% increase).
+
+--
+communicated by:
+ProMED
+<promed@promedmail.org>
+
+----
+[B] WHO: daily new cases reported (as of 2 Feb 2021)
+Date: Tue 2 Feb 2021
+Source: WHO [abridged, edited]
+https://covid19.who.int/table
+
+
+*Daily case reports as of 2 Feb 2021 16:48 CET
+
+Surveillance
+------------
+WHO region (no. countries/territories):
+Total confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+------------------------
+Western Pacific Region (19): 1 439 276 (8547) / 24 909 (152)
+European Region (61): 34 508 487 (105 970) / 752 743 (4253)
+South East Asia Region (10): 12 905 034 (22 322) / 198 522 (399)
+Eastern Mediterranean Region (22): 5 711 545 (20 553) / 134 910 (333)
+Region of the Americas (54): 45 785 210 (181 753) / 1 057 894 (3884)
+African Region (49): 2 592 690 (10 108) 63 242 (402)
+Cases on an international conveyance (Diamond Princess): 745 (0) / 13 (0)
+
+Confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+Grand total: 102 942 987 (349 263) / 2 232 233 (9423)
+
+--
+communicated by:
+ProMED
+<promed@promedmail.org>
+
+[The number of countries and territories reporting confirmed cases of COVID-19 to WHO remains 219.
+
+Data by country, area, or territory for 1 Feb 2021 can be accessed at https://promedmail.org/wp-content/uploads/world-pdf/2021%20WHO%20Daily%20Tables%20Feb2_1612305976.pdf.
+
+- The Americas region reported 52.0% of daily case numbers and 41.2% of the daily deaths reported in the past 24 hours and maintained its position as the most severely affected region, having reported more than 45.78 million cases. The USA remains the most heavily affected country, followed by Brazil (reporting more than 10 000 cases in the past 24 hours); 8 additional countries reported more than 1000 cases in the past 24 hours (Colombia, Mexico, Peru, Argentina, Canada, Chile, Bolivia, and Dominican Republic), and an additional 7 countries (Panama, Cuba, Honduras, Paraguay, Puerto Rico, Venezuela, and Uruguay) reported more than 500 but fewer than 1000 cases. Costa Rica, among others, did not report any cases in the past 24 hours.
+
+- The European region reported 30.3% of daily case numbers and 45.1% of the daily deaths reported in the past 24 hours, and total cumulative cases reported exceed 34.50 million. Countries not reporting cases include Spain, Belgium, Sweden, Switzerland (5 cases), and Kazakhstan, among others. The UK is dominant, followed by Russia reporting more than 10 000 cases in the last 24 hours. Another 15 countries reported more than 1000 cases (Italy, Turkey, Czech Republic, Germany, Portugal, Israel, Poland, France, Netherlands, Ukraine, Serbia, Slovakia, Slovenia, Romania, and Ireland), and an additional 8 countries reported more than 500 but fewer than 1000 cases (Belarus, Austria, Albania, Georgia, Bulgaria, Hungary, Greece, and Lithuania).
+
+- The Eastern Mediterranean region reported 5.9% of daily case numbers and 3.5% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 5.71 million cases. Iran maintains its dominance, reporting close to 6600 cases, followed by UAE, Lebanon, Pakistan, Jordan, and Tunisia. Iraq, Libya, Kuwait, Palestinian Authority, Egypt, and Bahrain reported more than 500 but fewer than 1000 cases.
+
+- The African region reported 2.9% of daily case numbers and 4.3% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 2.59 million cases. South Africa maintains its dominance, with over 2500 cases. Zambia, Mozambique, Ethiopia, Cameroon, Nigeria, and Lesotho reported more than 500 but fewer than 1000 cases. Ghana, Botswana, Madagascar and Mauritania, among others, did not report any newly confirmed cases in the preceding 24 hours.
+
+- The Western Pacific region reported 2.4% of daily case numbers and 1.6% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 1.43 million cases. Malaysia reported the highest number of cases over the last 24 hours (over 4200 cases), followed by Japan, Philippines, South Korea, and China.
+
+- The South East Asia region reported 6.4% of the daily newly reported cases and 4.2% of reported deaths in the past 24 hours, having reported a cumulative total of more than 12.90 million cases. Indonesia is dominant having reported almost 11 000 cases, followed by India reporting over 8600 cases, Thailand, Sri Lanka, Bangladesh, Maldives, Myanmar, and Nepal.
+
+On the Overview tab at the WHO source URL, the epidemic curve of confirmed COVID-19 cases by WHO region, 30 Dec 2019 through 2 Feb 2021, is an excellent visual representation of the pandemic. - Mod.MPP]
+
+******
+[6] Global update: Worldometer accessed 2 Feb 2021 21:07 EST (GMT-5)
+Date: Tue 2 Feb 2021
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at https://promedmail.org/wp-content/uploads/world-pdf/2021%20WORLDDATA%20FEB%202_1612329485.pdf.
+
+A 7-day series of cumulative data reported by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/2021%20FEB2WORLD7_1612329388.pdf. - Mod.MPP]
+
+Total number of reported deaths: 2 262 084
+Total number of worldwide cases: 104 378 657
+Number of newly confirmed cases in the past 24 hours: 447 160
+
+--
+communicated by:
+ProMED
+<promed@promedmail.org>
+
+[In the past 24 hours, the USA (115 972), Brazil (56 240), Spain (29 064), and France (23 337) have reported the highest numbers of cases. A global total of 14 369 deaths were reported in the past 24 hours (late 1 Feb 2021 to late 2 Feb 2021).
+
+Countries reporting more than 10 000 newly confirmed cases in the past 24 hours (9 countries) include the USA, Brazil, Spain, France, UK (16 840), Russia (16 643), India (11 000), Indonesia (10 379), and Colombia 10 091. A total of 46 countries reported more than 1000 cases in the past 24 hours; 22 of the 46 countries are from the European region, 9 are from the Americas region, 7 are from the Eastern Mediterranean region, 2 are from the South East Asia region, 3 are from the Western Pacific region, and 3 from the African region.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, case counts have decreased by 15.3%, while daily reported deaths have decreased by 6.1%. Similar comparative 7-day averages in the USA show a 15.6% decrease in daily reported cases and a 6.5% decrease in reported deaths.
+
+Impression: The global daily reported cases just over 447 000 newly confirmed infections daily in the past 24 hours with over 104.37 million cumulative reported cases and with over 2.26 million reported deaths. Countries in the European and the Americas regions are still showing the largest increases in daily new case counts, even in the face of overall decreasing reports, The Eastern Mediterranean countries have been demonstrating decreasing case counts while the Western Pacific and African countries are increasing in reported cases. - Mod.MPP]
+See Also
+COVID-19 update (45): fake test result & vaccine, meat plant variant, WHO 20210202.8157286
+COVID-19 update (44): immunocompromise & mutations, Israel vaccine, WHO 20210201.8154197
+COVID-19 update (43): animal, China, origin, WHO experts mission, Huanan market 20210201.8153415
+COVID-19 update (42): vaccine, EU, Iran, US navy ship, long haulers, WHO, global 20210131.8152278
+and other items in the archives
+.................................................sh/mpp/lk/mpp/mj/sh
+</body>

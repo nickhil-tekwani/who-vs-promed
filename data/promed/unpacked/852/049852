@@ -1,0 +1,72 @@
+<header id=049852>
+Published Date: 1998-01-06 18:50:00 EST
+Subject: PRO/AH/PL> Outbreak Markup Language (OML)
+Archive Number: 19980106.0040
+</header>
+<body id=049852>
+OUTBREAK MARKUP LANGUAGE (OML)
+******************************
+A ProMED-mail post
+Date: Tue, 06 Jan 1998 16:25:44 -0800
+From: David Ornstein <davido@outbreak.org>, Jack Woodall
+<woodall@wadsworth.org>
+
+Outbreak Markup Language (OML) is an Internet format for capturing
+information about outbreaks. This format's most important feature is that
+it is simple and meaningful to both computers and people. Having a
+standard format will allow easier exchange of outbreak reports between
+everyone involved in combating emerging infectious diseases -- particularly
+those with access to the Internet. The early work was done by David
+Ornstein of Outbreak with help from Jack Woodall of ProMED-mail. [All
+errors are David's doing!]
+Now it's time to open the doors and let the rest of the world in to help us
+figure out what we've missed, so we're releasing the specification for open
+comment. If you think you might have useful feedback about such a format,
+please have a look at
+http://www.outbreak.org/cgi-unreg/dynaserve.exe/oml.html.
+We're hoping to have this format in use within the first few months of 1998.
+Below is a list of the requirements we've tried to accommodate in the
+report format:
+- Easy for people to create
+- Easy for people to understand
+- Easy for computers to process
+- Transmissible by plain-text e-mail
+- Extensible
+- Supports cross-referencing
+- Works across non-coordinated organizations
+- Non-proprietary
+We look forward to your feedback.
+--
+David Ornstein
+Publisher, Outbreak, http://www.outbreak.org/
+Outbreak is an on-line information service addressing emerging diseases.
+--
+Jack Woodall, Ph.D., Director, ProMED-mail
+Wadsworth Center
+New York State Dept.of Health, Albany NY, USA
+e-mail: woodall@wadsworth.org
+http://www.fas.org/promed/
+http://www.healthnet.org/programs/promed.html
+...........................................jw/es
+--
+*##########################################################*
+ProMED-mail makes every effort to verify the reports that
+are posted, but the accuracy and completeness of the
+information, and of any statements or opinions based
+thereon, are not guaranteed. The reader assumes all risks in
+using information posted or archived by ProMED-mail. ISID
+and its associated service providers shall not be held
+responsible for errors or omissions or held liable for any
+damages incurred as a result of use or reliance upon posted
+or archived material.
+************************************************************
+Visit ProMED-mail's web site at <http://www.promedmail.org>.
+Send all items for posting to: promed@promedmail.org
+(NOT to an individual moderator). If you do not give your
+full name and affiliation, it may not be posted. Send
+commands to subscribe/unsubscribe, get archives, help,
+etc. to: majordomo@promedmail.org. For assistance from a
+human being send mail to: owner-promed@promedmail.org.
+############################################################
+############################################################
+</body>

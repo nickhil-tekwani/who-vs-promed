@@ -1,0 +1,178 @@
+<header id=044364>
+Published Date: 2020-09-27 07:02:36 EDT
+Subject: PRO/AH/EDR> COVID-19 update (416): gastrointestinal complications, antibodies, WHO, global
+Archive Number: 20200927.7816222
+</header>
+<body id=044364>
+CORONAVIRUS DISEASE 2019 UPDATE (416): GASTROINTESTINAL COMPLICATIONS, ANTIBODIES, WHO, GLOBAL
+**********************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] Gastrointestinal Complications in Critically ill COVID-19 Patients
+[2] Loss of Anti-SARS-CoV-2 Test Antibodies in mild cases
+[3] WHO: daily new cases reported (as of 26 Sep 2020)
+[4] Global update: Worldometer accessed 26 Sep 2020 22:05 EDT (GMT-4)
+
+******
+[1] Gastrointestinal Complications in Critically ill COVID-19 Patients
+Date: 24 Sep 2020
+Source: JAMA [edited]
+https://jamanetwork.com/journals/jama/fullarticle/2771160?guestAccessKey=5d14909f-ce8f-4469-ab88-e349e7096c62&utm_source=silverchair&utm_medium=email &utm_ campaign =article_alert-jama&utm_content=olf&utm_term=092420
+
+
+Background
+Coronavirus disease 2019 (COVID-19) appears to have significant extrapulmonary complications affecting multiple organ systems.1-3 Critically ill patients with COVID-19 often develop gastrointestinal complications during their hospital stay, including bowel ischemia, transaminitis, gastrointestinal bleeding, pancreatitis, Ogilvie syndrome, and severe ileus. Whether the high incidence of gastrointestinal complications is a manifestation of critical illness in general or is specific to COVID-19 remains unclear. We compared the incidence of gastrointestinal complications of critically ill patients with COVID-19-induced acute respiratory distress syndrome (ARDS) vs comparably ill patients with non-COVID-19 ARDS using propensity score analysis.
+
+Methods
+All patients with confirmed severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection on reverse transcriptase-polymerase chain reaction who were intubated and admitted to one of 13 (preexistent and surge) intensive care units (ICUs) of the Massachusetts General Hospital between 13 Mar 2020, and 7 May 2020 were included then matched to a cohort of patients admitted between 2018 and 2019 and meeting the Berlin criteria for ARDS. No changes occurred in the ICU staffing models or protocols of care of ARDS during the study period. Propensity score matching was performed adjusting for demographics (e.g. age, sex, body mass index, smoking status), comorbidities (e.g. chronic lung/kidney disease, congestive heart failure, coronary artery disease, hypertension, diabetes), and severity of illness on ICU admission (Sequential Organ Failure Assessment score). We examined in both groups the following gastrointestinal complications: transaminitis, ileus, Ogilvie syndrome, and mesenteric ischemia.
+
+Wilcoxon rank sum, Pearson x2, and Fisher exact tests were used, as appropriate. To determine whether differences in the duration of illness between groups might contribute, incidence rate ratios and Kaplan-Meier curves looking at time to development of the complication from hospital admission were calculated. All tests were 2-tailed; statistical significance was defined as P less than .05. Statistical analyses were performed on Stata version 15.0 (StataCorp LP). The Mass General Brigham Institutional Review Board ruled this study exempt including a waiver of informed consent.
+
+Results
+A total of 486 patients with ARDS met eligibility criteria, of which 244 had non-COVID-19 ARDS and 242 had COVID-19 ARDS. This report includes data from 141 patients with COVID-19 (58%) whose overall gastrointestinal complications have been previously described. The median age of patients was 60.5 years (interquartile range, 48-71) and 62 years (interquartile range, 53-73.5) for patients with and without COVID-19, respectively, and the percentage of males was 66.5% and 54.9%, respectively.
+
+92 patients with COVID-19 and ARDS were propensity score matched to 92 patients with non-COVID-19 ARDS (Table). The etiologies for ARDS among the non-COVID-19-matched cohort were bacterial pneumonia (60%), aspiration (27%), influenza (7%), respiratory syncytial virus infection (2%), and _Pneumocystis jiroveci_ pneumonia (2%). Patients with COVID-19 were more likely to develop gastrointestinal complications compared with those without COVID-19 (74% vs 37%; P  less than 0 .001; incidence rate ratio, 2.33 [95% CI, 1.52-3.63]). The difference in incidence was more evident after the 3rd day of critical illness (Figure in original text). Specifically, patients with COVID-19 developed more transaminitis (55% vs 27%; P  less than  0.001), severe ileus (48% vs 22%; P less than  0.001), and bowel ischemia (4% vs 0%; P = 0.04). Three of the 4 patients with COVID-19 and bowel ischemia were taken to the operating room and had intraoperative findings consistent with COVID-19 bowel as previously described in different patients. Pathology findings demonstrated fibrin thrombi in the microvasculature underlying areas of necrosis.
+
+Discussion
+This study found a higher rate of gastrointestinal complications, including mesenteric ischemia, in critically ill patients with COVID-19 compared with propensity score-matched patients without COVID-19, suggesting a distinct phenotype for COVID-19 compared with conventional ARDS. High expression of angiotensin-converting enzyme 2 receptors along the epithelial lining of the gut that act as host-cell receptors for SARS-CoV-2 could explain involvement of abdominal organs. Higher opioid requirements and COVID-19-induced coagulopathy may also explain the disproportionately high rate of ileus and ischemic bowel disease. Differences in duration of illness did not seem to explain the differences in gastrointestinal complications. Limitations of this study include the single center and the unavailability of inflammatory markers to use for matching. Further translational studies are warranted to examine the pathophysiology of these findings.
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[This study highlights the impact of serious SARS-CoV2 infection on post infection and recovery. Additional data will be important to see whether this happens uniformly with the virus infection, or whether other factors may be implicated. - Mod.UBA]
+
+******
+[2] Loss of Anti-SARS-CoV-2 Test Antibodies in mild cases
+Date: 23 Sep 2020
+Source: NEJM Letter to the Editor [edited]
+https://www.nejm.org/doi/full/10.1056/NEJMc2027051?query=featured_coronavirus
+
+
+The results reported in the letter by Ibarrondo et al. (10 Sep 2020) regarding the rapid decay of anti-severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) antibodies in patients who had recovered from Covid-19 are in contrast to our findings and those of other research groups, such as Wang et al. from China. In their study, Wang et al. showed that IgG responses were detected in most patients with either severe disease or mild disease at 9 days after the onset of infection, and the IgG levels remained high throughout the study (35 to 40 days). These findings are in accordance with those from our investigation of the longitudinal profile of IgA and IgG antibodies against SARS-CoV-2 in samples of convalescent plasma obtained from 151 donors. We found that the IgA levels remained high until 50 to 60 days after the onset of symptoms and that the IgG levels remained elevated, with only a slight decrease, at 120 days after the onset of symptoms. Therefore, we need more data regarding the kinetics of SARS-CoV-2 antibodies from different research groups to understand the human antibody response against this disease.
+
+[Byline: Edwin Bolke, M.D. Christiane Matuschek, M.D. Johannes C. Fischer, M.D. Heinrich Heine University, Dusseldorf, Germany <boelke@med.uni-duesseldorf.de>]
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[Increasing, though still rare, reports of reinfection of individuals with SARS-CoV2 are occurring and certainly reinfection with other coronaviruses is known to occur. Persistence of antibody is one factor in duration of protective immunity and it is the subject of ongoing study as cases of COVID-19 have been known for less than a year. Other factors including cell-mediated immunity, are also operative and even less well understood. - Mod.LM]
+
+******
+[3] WHO: Daily new cases reported (as of 26 Sep 2020)
+Date: Sat 26 Sep 2020
+Source: WHO [abridged, edited]
+https://covid19.who.int/table
+
+
+*Daily case reports as of 26 Sep 2020 17:34 CEST
+
+Surveillance
+------------
+WHO region (no. countries/territories):
+Total confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+---------------------------
+Western Pacific Region (19): 598 060 (3518) / 13 031 (93)
+European Region (61): 5 608 280 (78 707) / 234 134 (842)
+South East Asia Region (10): 6 624 441 (93 568) / 109 429 (1248)
+Eastern Mediterranean Region (22): 2 322 175 (18 054) / 59 953 (421)
+Region of the Americas (54): 16 106 844 (118 938) / 543 883 (3109)
+African Region (49): 1 169 424 (4099) / 25 380 (73)
+Cases on an international conveyance (Diamond Princess): 712 (0) / 13 (0)
+
+Confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+Grand total: 32 429 965 (316 884) / 985 823 (5786)
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The number of countries and territories reporting confirmed cases of COVID-19 to WHO remains at 215.
+
+Data by country, area, or territory for 26 Sep 2020 can be accessed at https://promedmail.org/wp-content/uploads/world-pdf/WHO%20daily%20tablesSept26_1601181928.pdf.
+
+- The Americas region reported 37.5% of daily case numbers and 53.7% of the daily deaths reported in the past 24 hours, maintaining its position as the most severely affected region, having reported more than 16.1 million cases. The USA and Brazil dominate, followed by Argentina, Colombia, Peru, and Mexico. Other countries and territories reporting more than 1000 cases in the past 24 hours include Chile, Costa Rica, Puerto Rico, Ecuador, and Canada.
+
+- The European region reported 24.8% of daily case numbers and 14.5% of the daily deaths reported in the past 24 hours, and total cumulative cases reported exceed 5.6 million. Countries not reporting cases today (26 Sep 2020) include Kazakhstan and Belgium. France dominates, followed by Spain, Russia, the UK, Ukraine, the Czech Republic, the Netherlands, and Germany. Other countries reporting more than 1000 cases in the past 24 hours include Turkey, Italy, Romania, and Poland.
+
+- The Eastern Mediterranean region reported 5.7% of daily case numbers and 7.2% of the deaths reported in the past 24 hours, having reported a cumulative total of greater than 2.3 million cases. Iraq remains the dominant country, followed by Iran, Morocco, Lebanon, and the UAE. Other countries reporting more than 500 cases include Tunisia, Pakistan, Kuwait, Jordan, and Libya.
+
+- The African region reported 1.3% of daily case numbers and 1.2% of the deaths reported in the past 24 hours and has reported more than 1.1 million cases. South Africa dominates, followed by Ethiopia, Botswana, Uganda, Kenya, Mozambique, Nigeria, and Angola.
+
+- The Western Pacific region reported 1.1% of daily case numbers and 1.6% of the deaths reported in the past 24 hours, having reported a cumulative total of 0.59 million cases. The Philippines continues to dominate followed by Japan, Malaysia and South Korea.
+
+- The South East Asia region reported 29.5% of the daily newly reported cases and 21.5% of reported deaths in the past 24 hours, having reported a cumulative total of more than 6.6 million cases. India continues to dominate, followed by Indonesia, Bangladesh, Nepal, and Myanmar.
+
+On the Overview tab at the WHO source URL, the epidemic curve of confirmed COVID-19 cases by WHO region, 30 Dec 2019 through 26 Sep 2020 is an excellent visual representation of the pandemic. - Mod.UBA]
+
+******
+[4] Global update: Worldometer accessed 26 Sep 2020 22:41 EDT (GMT-4)
+Date: Sat 26 Sep 2020
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at https://promedmail.org/wp-content/uploads/world-pdf/SEPT26DATASET_1601182038.pdf.
+
+A 7-day series of cumulative data reported by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/SEPT26WORLD7_1601182086.pdf. - Mod.UBA]
+
+Total number of reported deaths: 998 285
+Total number of worldwide cases: 33 047 067
+Number of newly confirmed cases in the past 24 hours: 294 650
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The USA, India, and Brazil are still the most severely affected countries in terms of cumulative case counts and daily new case confirmations, with India now in the 2nd position followed by Brazil. In the past 24 hours, these 3 countries -- India (89 010), followed by the USA (43 206) and Brazil (25 536) -- account for over half of all confirmed cases globally (54.5%) and 50.6% of all newly confirmed cases in the past 24 hours. As the daily reports from each of the 3 countries have been dropping, other countries are reporting more newly confirmed cases. A global total of 5306 deaths were reported in the past 24 hours (24-25 Sep 2020).
+
+Countries reporting more than 5000 newly confirmed cases in the past 24 hours include India, USA, Brazil, Spain (0), France (14 412), Argentina (11 249), Israel (9201), Colombia (7721), Russia (7523), UK (6042), Peru (5558), and Mexico (5401); 36 countries have reported more than 1000 cases in the past 24 hours. Eight of the top 20 countries reporting the highest daily newly confirmed cases are from the European region and 6 were from the Americas region (unchanged from yesterday [25 Sep 2020]).
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, there is an increase in case counts by 1.1%, while daily reported deaths have increased by 0.40%.
+
+Impression: While the global 7-day averages appear to have plateaued, when one looks at the country-by-country figures, the 3 major countries -- the USA, India and Brazil -- have decreased their daily newly confirmed cases, but other countries have increased transmission, especially in Europe and the Americas. - Mod.UBA]
+See Also
+COVID-19 update (415): vertical transmission, Fido, WHO, global20200926.7814181
+COVID-19 update (414): animal, Netherlands (LI), Denmark (ND), farm mink, spread 20200925.7813579
+COVID-19 update (413): interferon type I, Saudi Arabia Umrah, WHO, global 20200925.7811505
+COVID-19 update (412): surfaces, pregnancy, WHO, global 20200924.7808613
+COVID-19 update (411): monoclonal Ab, conval plasma, pooled saliva, WHO, global 20200923.7805033
+COVID-19 update (410): ACE inhibitors and ARBs, WHO COVAX plan, WHO, global 20200922.7801717
+COVID-19 update (400): lockdowns, influenza co-infections WHO, global 20200914.7776512
+COVID-19 update (350): USA (TX) animal, cat 20200808.7658191
+COVID-19 update (300): Korea antibodies, China asymptomatic index case, WHO 20200703.7536146
+COVID-19 update (250): selected countries 20200610.7448037
+COVID-19 update (200): global, Yemen, WHO 20200522.7364937
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+Undiagnosed pediatric inflammatory syndrome (05): Europe, USA, COVID-19 assoc 20200518.7340554
+Undiagnosed pediatric inflammatory syndrome (04): USA, UK, PMIS, fatal 20200509.7315405
+Undiagnosed pediatric inflammatory syndrome (03): USA, Europe, COVID-19 susp, RFI 20200505.7299876
+COVID-19 update (150): global, USA state prisons, WHO 20200502.7290671
+COVID-19 update (100): China, S. Korea & high local transmission countries 20200413.7217806
+COVID-19 update (50): China (Hong Kong) animal dog, 2nd case PCR positive, OIE 20200323.7129951
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (41): China, global, clinical pics, asymptomatic trans., WHO 20200210.6976117
+Novel coronavirus (40): animal reservoir, pangolin poss intermediate host, RFI 20200210.6972104
+Novel coronavirus (30): updates, China, Viet Nam, research 20200202.6945658
+Novel coronavirus (20): China, wildlife trade ban 20200127.6922060
+Novel coronavirus (10): China (HU, GD, BJ) 20200119.6898567
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia: China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia: China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+----
+Undiagnosed pneumonia: China (HU): RFI 20191230.6864153
+and other items in the archives
+.................................................sb/uba/msp/lm
+</body>

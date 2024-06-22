@@ -1,0 +1,312 @@
+<header id=031694>
+Published Date: 2021-01-29 07:45:23 EST
+Subject: PRO/AH/EDR> COVID-19 update (38): infectious duration, post vaccine infection, WHO, global
+Archive Number: 20210129.8146641
+</header>
+<body id=031694>
+CORONAVIRUS DISEASE 2019 UPDATE (38): INFECTIOUS DURATION, POST VACCINE INFECTION, WHO, GLOBAL
+**********************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] South Korea: duration of infectious SARS-CoV-2
+[2] Israel: infection following vaccination
+[3] WHO updates (as of 28 Jan 2021)
+[4] Global update: Worldometer accessed 28 Jan 2021 21:13 EST (GMT-5)
+
+******
+[1] South Korea: duration of infectious SARS-CoV-2
+Date: Wed 27 Jan 2021
+Source: New England Journal of Medicine [abridged, edited]
+https://www.nejm.org/doi/full/10.1056/NEJMc2027040
+
+
+ref: Kim MC, Cui C, Shin KR, et al. Duration of culturable SARS-CoV-2 in hospitalized patients with COVID-19. N Engl J Med. 2021 Jan 27. doi: 10.1056/NEJMc2027040. Epub ahead of print. PMID: 33503337.
+--------------------------------------------------------------------------------
+The duration of transmissibility of coronavirus disease 2019 (COVID-19) and the associated level of contagion have been uncertain. We cultured severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in serial respiratory samples obtained from hospitalized patients with COVID-19 to assess the duration of shedding of viable virus.
+
+The data reported here represent all the patients with COVID-19, as confirmed by positive real-time reverse transcriptase-polymerase chain reaction (RT-PCR) testing, who were hospitalized at Chung-Ang University Hospital in Seoul, South Korea, between February and June 2020. The Allplex 2019-nCoV Assay (Seegene) for nasopharyngeal and oropharyngeal samples was used for real-time RT-PCR testing. /1 Patients were isolated until 2 consecutive negative or inconclusive results on real-time RT-PCR were documented, at least 24 hours apart. /2 ,/3 We endeavored to obtain samples at approximately 2-day intervals, but this was not always possible. Viral RNA was quantitated with the use of the cycle-threshold value for the N gene of SARS-CoV-2. /4 Viral cultures were conducted by means of a plaque assay until at least 2 consecutive cultures showed no growth.
+
+We compared the time from the onset of illness to viral clearance in culture with the time to clearance in real-time RT-PCR tests. /5 Detailed methods and sensitivities of the culture and real-time RT-PCR assay and the definition and estimation of the time to viral clearance are described in the Supplementary Appendix, available with the full text of this letter at NEJM.org.
+
+A total of 21 patients with COVID-19 were enrolled. Their clinical characteristics are shown in Table S1 in the Supplementary Appendix. The median age of the patients was 62 years, and 76% of the patients were men. A total of 71% of the patients had pneumonia, and 38% were receiving supplemental oxygen therapy. The median Sequential Organ Failure Assessment (SOFA) score was 0 (scores range from 0 to 24, with higher scores indicating more severe organ dysfunction and a higher risk of death), and the median Acute Physiology and Chronic Health Evaluation (APACHE) II score was 5 (scores range from 0 to 71, with higher scores indicating more severe disease and a higher risk of death); these scores indicated mild-to-moderate illness. A total of 165 samples were tested by means of real-time RT-PCR at intervals of 1 to 5 days (median, 2). Of these 165 samples, 89 were cultured for SARS-CoV-2. The timing of the tests, the kinetics of the viral loads, and the clinical course in each patient are shown in Table S2.
+
+SARS-CoV-2 was cultured in 29 of the 89 samples (33%) (Figure 1: Timing of presence or absence of viable SARS-CoV-2 on viral culture and cycle-threshold values for 165 serial samples obtained from 21 consecutive patients hospitalized with COVID-19). The median time from symptom onset to viral clearance in culture was 7 days (95% confidence interval [CI], 5 to 10), and the median time from symptom onset to viral clearance on real-time RT-PCR was 34 days (lower boundary of the 95% CI, 24 days) (Fig. S1 and Table S4). The latest positive viral culture was 12 days after symptom onset (in Patient 6). Viable virus was identified until 3 days after the resolution in fever (in Patient 14). Viral culture was positive only in samples with a cycle-threshold value of 28.4 or less. The incidence of culture positivity decreased with an increasing time from symptom onset and with an increasing cycle-threshold value (Table S3).
+
+Our findings may be useful in guiding isolation periods for patients with COVID-19 and in estimating the risk of secondary transmission among close contacts in contract tracing. Given the small sample size, inconsistent timing of sampling, and relatively mild illness of the enrolled patients, our results should be verified in larger and more diverse groups of patients.
+
+--
+Communicated by:
+Claudinne Miller
+Tulane Outbreak News
+<cmiller15@tulane.edu>
+
+[The results in this study agree with those published previously. See a literature review in
+Jefferson T, Spencer E, Brassey J, Heneghan C. Viral cultures for COVID-19 infectivity assessment -- a systematic review. medRxiv 2020.08.04.20167932 [preprint]; https://www.medrxiv.org/content/10.1101/2020.08.04.20167932v4
+
+Basically both papers conclude that the presence of infectious virus correlates with ct [cycle threshold] value (higher ct, lower chance of isolating infectious virus) and time since symptom onset. - Mod.LK]
+
+******
+[2] Israel: infection following vaccination
+Date: Wed 27 Jan 2021
+Source: Forbes [abridged, edited]
+https://www.forbes.com/sites/williamhaseltine/2021/01/27/israeli-study-shows-majority-of-those-vaccinated-can-be-infected-by-sars-cov-2/?sh=3660c9c26053
+
+
+Israeli study shows a majority of those vaccinated can be infected by SARS-CoV-2 after the 1st shot
+--------------------------------------------------------------------------------
+As vaccine distribution is picking up with nearly 70 million doses administered worldwide, data regarding large-scale vaccination is becoming available. Last week [week of 18 Jan 2021], Israel released preliminary data on the effects of vaccination for infection. Early indications suggest that after vaccination, as many as 70% of people can still be infected by SARS-CoV-2 after the initial dose of the Pfizer vaccine. More data is needed to confirm the effects on transmissibility among the vaccinated.
+
+First and foremost, we need to draw a distinction between infection and disease. The Pfizer vaccine referenced in this study has efficacy of greater than 90% at preventing COVID-19 related symptoms. Vaccines do not, however, guarantee protection from infection, and a vaccinated person can still become infected. This study aims to answer how vaccination affects the infectivity of the virus for vaccinated people, not whether the vaccine is efficacious.
+
+Israel, which leads the world in vaccinations per capita at around 43 doses per 100 people, developed this study, available at the Clalit Research Institute website [https://www.forbes.com/sites/williamhaseltine/2021/01/27/israeli-study-shows-majority-of-those-vaccinated-can-be-infected-by-sars-cov-2/?sh=3660c9c26053], to understand how the Pfizer-BioNTech vaccine affects viral infection. This study is not peer-reviewed and does not necessarily conclude the infectivity of the virus for vaccinated people. Previous studies show the vaccine is effective in preventing COVID-19 related mild and severe symptoms. While the COVID-19 vaccines are intended to protect a patient from symptoms, having your shots doesn't necessarily mean you can't still be infected by SARS-CoV-2 or spread it to others.
+
+The study contrasted a group of 200 000 vaccine recipients aged 60 and above with a group of 200 000 who hadn't been vaccinated in the same age group. To quote the Clalit website:
+
+"The study showed that between the 5th day and the 12th day after receiving the 1st vaccine dose, there were no differences between the vaccinated group and the non-vaccinated group: the rate of positive tests for the SARS-CoV-2 in the 2 groups was similar. In other words: no difference in infection rates was observed between those who were vaccinated and those who were not vaccinated."
+
+The report continued "that 14 days after the injection of the 1st vaccine, there is a real decrease in the rate of infection in the SARS-CoV-2." 17 days after the initial dose of the vaccine, between 60 and 80% of people can still be infected.
+
+The release of this data is a positive development. For months, the impact of vaccines on the pandemic has been mostly speculative. Nobody knew how mass vaccination might affect infectability or transmissibility. This data is the 1st of many, and we await data from similar studies.
+
+While data remains limited on the transmissibility of the vaccinated, it may be the case that it is reduced among most. If neutralizing antibodies from the vaccines do their jobs, the viral load in a person infected with SARS-CoV-2 is much lower than in those who haven't been vaccinated. A lower viral load may mean that they are less likely to infect others with the same efficiency that an unvaccinated person may. The vaccinated patient has less virus in them to spread around. Though we don't know whether this is the case, more data is needed to know if those vaccinated and infected can transmit the virus to others.
+
+After the 1st dose, more than 50% of people remain at risk of infection. Vaccine protection from disease, but not infection, is observed for other respiratory viruses. The flu vaccine, for example, does not typically protect people from infection and further transmission, but only symptoms. Flu vaccines typically reduce risk by 40-60%, meaning receiving a flu shot won't guarantee you protection from influenza infection.
+
+The question of transmissibility is more complicated. Some studies have been conducted on guinea pigs for influenza, showing a moderate reduction in influenza transmissibility from vaccinated hosts. Infection in those vaccinated may be a consequence of the short duration of the IgM and IgA antibodies active at mucosal surfaces, especially the nasal mucosa. Both IgM and IgA antibodies vanish after 4-5 weeks post-induction. The longer-acting IgG antibodies are very likely key to reducing disease severity but are unlikely to prevent infection via the nasal mucosa or other mucosal surfaces.
+
+Emerging SARS-CoV-2 variants throw another spanner in the works. New variants have shown to be more aggressively transmissible. Some studies have even indicated that certain variants evade immune-responses from naturally occurring or even vaccine antibodies. If this is the case, a vaccinated community may be ravaged by a variant. Such variants have the potential to infect and sicken even those who have been vaccinated. A recent study from Chongqing China shows that sera from those infected by the original Wuhan strain in January and February of last year [2020] have little to no ability to protect against either the [strain first identified in the UK] (B.1.1.7) or the [strain first identified in South Africa] (B.1.351).
+
+Ultimately, we need more data. This study is preliminary, and the results may not be completely indicative of global infectivity rates post-infection. As more countries continue to vaccinate in higher quantities, we will know important information like efficacy, transmissibility, infection among the vaccinated, and more. That information will roll in slowly but surely in the coming weeks.
+
+[Byline: William A. Haseltine]
+
+--
+Communicated by:
+Claudinne Miller
+Tulane Outbreak News
+<cmiller15@tulane.edu>
+
+[This study importantly highlights the difference between becoming infected and becoming symptomatic. The study was conducted predominantly in individuals older than 60 years of age, so requires confirmation in younger individuals with more robust immune systems. But the results are similar to those following other respiratory virus vaccinations, for example influenza, which has been shown to reduce risk by 40-60%, and not 100%. It still needs to be determined whether SARS-CoV-2 virus can be transmitted by vaccinated individuals who become infected. But likely titers are lower as a result of the vaccine and thus may not be transmitted. Or these vaccinated individuals might shed virus for a shorter period of time than unvaccinated infected individuals. This should become clear as more individuals are vaccinated. - Mod.LK]
+
+******
+[3] WHO: weekly epidemiologic update; daily new cases reported (as of 28 Jan 2021)
+[A] Weekly epidemiological update
+Date: Wed 27 Jan 2021
+Source: WHO Emergency Situational Updates [abridged, edited]
+https://www.who.int/publications/m/item/weekly-epidemiological-update---27-january-2021
+
+
+[References, figures, and tables available at the source URL above. - Mod.MPP]
+
+Data as received by WHO from national authorities, as of [24 Jan 2021], 10 am CET.
+
+Global epidemiological situation
+--------------------------------
+Globally, 4.1 million new cases were reported in the past week, a decline of 15% from the previous week and the 2nd week of decline after global case incidence peaked in the 1st week of January 2021 (Figure 1). This downward trend is largely attributed to relative reductions in case incidence in several countries that have contributed the highest numbers in recent months, but hides continued upward trends in other countries in the same regions. The ongoing and prolonged high rates of new infections continues to strain health systems in many countries around the world. All regions reported a decline in new cases except the Western Pacific Region which reported a similar incidence to last week (Table 1). The largest decrease in new cases was reported in the European Region (by 20%) followed by the African Region (decrease of 16%). The Americas and Europe reported 86% of all new cases globally in the past week.
+
+During the same period, around 96 000 deaths have been reported -- a similar number reported as last week. The Americas and Eastern Mediterranean region reported an increase in new deaths by 4% and 3% respectively, whereas Europe, South East Asia, and Western Pacific regions showed a decrease in new deaths compared to last week. No change in new deaths was seen for the African region.
+
+In the past week, the 5 countries reporting the highest number of new cases continue to be the United States of America (1 259 902 cases, a 20% decrease), Brazil (360 428 cases, a 5% decrease), the United Kingdom of Great Britain and Northern Ireland (260 098 cases, a 24% decrease), the Russian Federation (151 191 cases, a 9% decrease), and France (138 288 cases, a 10% increase).
+
+Figure 1: COVID-19 cases reported weekly by WHO Region, and global deaths, as of [24 Jan 2021]
+Figure 2: COVID-19 cases per 100 000 population reported in the last 7 days by countries, territories and areas, [18 Jan 2021] through [24 Jan 2021]
+Table 1: Newly reported and cumulative COVID-19 confirmed cases and deaths, by WHO Region, as of [24 Jan 2021]
+Table 2: COVID-19 confirmed cases and deaths reported in the last 7 days by countries, territories and areas, and WHO Region, as of [24 Jan 2021]
+
+Special focus: Solidarity II forum and use of international standards for seroepidemiology surveys [available at the source URL above]
+
+Special focus: update on SARS-CoV-2 variants of concern
+-------------------------------------------------------
+WHO, in collaboration with national authorities, institutions and researchers, continues to monitor the public health events associated with SARS-CoV-2 variants and provides updates as new information becomes available. Further information on the background of the variants of concern (VOC) is available from previously published Disease Outbreak News [https://www.who.int/csr/don/31-december-2020-sars-cov2-variants/en/] and in the last 3 publications of the Weekly Epidemiological Updates [https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports].
+
+WHO is working with partners to evaluate available evidence around transmissibility, severity, antibody neutralization capabilities, and potential impacts on vaccines of specific mutations, variants of interest, and variants of concern. Here we provide an update on ongoing studies, as well as the geographical distribution of 3 variants of concern as reported by countries, territories, and areas (hereafter countries) as of [25 Jan 2021]:
+
+1. Variant VOC 202012/01, lineage B.1.1.7
+Since our last update on [19 Jan 2021], variant VOC 202012/01 has been detected in 10 additional countries. As of [25 Jan 2021], a total of 70 countries across all 6 WHO regions have reported either imported cases or community transmission of this variant (Figure 3). Local transmission has been reported in several other European countries.
+
+In the United Kingdom of Great Britain and Northern Ireland, where this variant was initially identified, variant VOC 202012/01 has shown to have increased transmissibility compared to previously circulating variants. The United Kingdom has also recently shared results from studies suggesting that there is some evidence of an increase in disease severity; however, results are preliminary, and more analyses are required to further corroborate these findings (1).
+
+In the United Kingdom, COVID-19 case incidence increased week-on-week since early December 2020, peaking in early January 2021. From [11 Jan through 24 Jan 2021], a decreasing trend has been observed, following the implementation of stringent public health and social measures. Similar declines in incidence have also been reported in Denmark, Ireland and the Netherlands, where local transmission of VOC 202012/01 has been reported.
+
+Studies are ongoing to fully understand the effectiveness of vaccines against the B.1.1.7 lineage, however, based on preliminary in vitro studies (available as pre-prints), post-vaccination sera with Pfizer and Moderna vaccines have limited to no significant change against the VOC202012/01 variant (2-6). These are all preliminary findings which require further investigation involving larger sample sizes.
+
+Figure 3: Countries, territories, and areas reporting SARS-CoV-2 VOC 202012/01 as of [25 Jan 2021]
+
+2. Variant 501Y.V2, lineage B.1.351
+Since the last update on [19 Jan 2021] 501Y.V2 has been reported from 8 additional countries- now totalling 31 countries across 5 of the 6 WHO regions (Figure 4). In South Africa, where this variant was initially identified, new weekly cases increased from early November 2020, peaking in early January 2021. In the past 2 weeks, a decreasing trend has been observed.
+
+Recent laboratory studies of a limited number of patients using pseudo virus and live attenuated virus from South Africa have shown that the 501Y.V2 variant is less susceptible to antibody neutralization -- where activity was either lost or reduced in blood samples of patients with natural infection with previous variants circulating earlier in the pandemic (7,8). While further investigations are needed to determine whether the 501Y.V2 variant may escape immune responses acquired from previous infection, these findings raise concerns of increased rates of SARS-CoV-2 re-infection. While the risk of reinfection remains for all SARS-CoV-2 variants, based on current information available, there is no indication that there is increased risk of re-infection in relation to 501Y.V2 based on observational studies in South Africa.
+
+Studies are also ongoing to fully understand the effectiveness of COVID-19 vaccines against the 501Y.V2 variant. Preliminary in vitro studies using sera from individuals vaccinated with Moderna mRNA-1273 COVID19 vaccine showed a reduction in neutralizing titers to the 501Y.V2 variant compared to previous variants tested; however, neutralizing titres remain above the levels expected to be protective (2,4). Other in vitro studies reported similar observations of either equivalent or a small reduction in neutralizing activity against SARS-CoV-2 variants encoding the mutations of concern in persons vaccinated with the Moderna or Pfizer-BioNTech vaccines compared to previous variants (6,9). These are preliminary findings which require further investigation including of neutralizing activity in a larger number of samples and an assessment of changes in neutralization on clinical efficacy. Out of an abundance of caution, Moderna is investigating the potential use of an additional booster dose to increase neutralizing titres against emerging variants and beginning to evaluate an emerging variant booster candidate vaccine (4).
+
+Figure 4: Countries, territories, and areas reporting SARS-CoV-2 501Y.V2 as of [25 Jan 2021]
+
+3. Variant P.1, lineage B.1.1.28
+Since our last update, variant P.1 has been reported in 6 additional countries. To date, this variant is reported in eight countries (Figure 5). In Brazil, where the variant was initially identified in addition to detection in a group of travellers from Brazil to Japan, the number of new weekly cases in the past 2 weeks are reported at higher levels compared to that of September to November 2020, and new weekly deaths have increased since early November 2020. The highest weekly cases since the start of the pandemic was reported in the week commencing [11 Jan 2021]. Based on the preliminary investigations conducted in Manaus, Amazonas State, there has been an increase in the proportion of cases sequenced as variant P.1, from 52.2% (35/67) in December 2020 to 85.4% (41/48) in January 2021, highlighting ongoing local transmission of this variant and, given the mutations documented, raising similar concerns for potential increases in transmissibility or propensity for re-infection (10). Further studies are needed to assess if there are changes in transmissibility, severity or antibody neutralizing activity as a result of these new variants.
+
+The emergence of new variants has underscored the importance for everyone, including those previously infected or vaccinated, to strictly adhere to public health and social measures. They also highlight the importance of increasing diagnostic capacity and systematic sequencing of SARS-CoV-2 where capacity allows, as well as the timely sharing of sequence data internationally. Systematic sequencing should be considered for a subset of incoming travellers, as well as community-based samples to ascertain the existence and extent of local transmission. Virus sequencing should be performed in all breakthrough disease following vaccination, in addition to population-based vaccine effectiveness studies. Global surveillance on virus evolution should continue to inform adjustments to public health and social measures.
+
+Figure 5: Countries, territories, and areas reporting SARS-CoV-2 P.1 variant as of [25 Jan 2021]
+
+Situation by WHO Region
+-----------------------
+[Epidemic curves available for each region at the source URL above. - Mod.MPP]
+
+- African Region
+In the past week, the African Region reported over 148 000 cases and just under 5000 deaths, a 16% decrease in cases and similar number of deaths compared to the previous week. This was the 1st time since mid-September 2020 that weekly cases decreased. The highest numbers of new cases were reported in South Africa (79 180 new cases; 133.5 new cases per 100 000 population; a 29% decrease), Nigeria (11 659 new cases; 5.7 new cases per 100 000; a 2% increase) and Zambia (8518 new cases; 46.3 new cases per 100 000; a 10% decrease).
+
+The countries reporting the highest number of new deaths in the past week were South Africa (3723 new deaths; 6.3 new deaths per 100 000; a 8% decrease), Zimbabwe (291 new deaths; 2.0 new deaths per 100 000; a 35% decrease), and Malawi (170 new deaths; 0.9 new deaths per 100 000; a 113% increase).
+
+- Region of the Americas
+Over 2.1 million new cases and over 45 000 new deaths were reported in the Region of the Americas this week, a decrease of 14% and an increase of 4% respectively compared to the previous week. The highest numbers of new cases were reported from the United States of America (1 259 902 new cases; 380.6 new cases per 100 000 population; a 20% decrease), Brazil (360 428 new cases; 169.6 new cases per 100 000; a 5% decrease), and Mexico (122 555 new cases; 95.1 new cases per 100 000; a 20% increase).
+
+The highest numbers of deaths were reported from the same countries, the United States of America (21 583 new deaths; 6.5 new deaths per 100 000; a 7% decrease), Mexico (8592 new deaths; 6.7 new deaths per 100 000; a 24% increase), and Brazil (6997 new deaths; 3.3 new deaths per 100 000; a 3% increase).
+
+- Eastern Mediterranean Region
+In the past week, the Eastern Mediterranean Region reported over 170 000 new cases, a decrease of 7% compared to last week. The region reported 2980 new deaths, an increase of 3%, the 2nd consecutive weekly increase following a sustained decrease in deaths from [23 Nov 2020] through the week of [11 Jan 2021]. The 3 countries reporting the highest numbers of new cases continue to be Iran (42 637 new cases, 50.8 new cases per 100 000 population, a 3% decrease), Lebanon (27 429 new cases, 401.9 new cases per 100 000, 18% decrease), and United Arab Emirates (24 568 new cases, 248.4 new cases per 100 000, 11 % increase). These 3 countries accounted for almost half (55%) of the new weekly cases in the Region.
+
+The highest numbers of new deaths were reported in Iran (577 new deaths, 0.7 new death per 100 000 population, 7% decrease) followed by Tunisia (538 new deaths, 4.6 new death per 100 000, 16% increase) and Lebanon (414 new deaths, 6.1 new death per 100 000, a 50% increase). These countries accounted for almost 51% of deaths reported in the Region
+
+- European Region
+The European Region reported over 1.3 million new cases and over 38 000 new deaths, a decrease of 20% and 1% respectively when compared to the previous week. The 3 countries reporting the highest numbers of new cases were the United Kingdom (260 098 new cases; 383.1 new cases per 100 000, 24% decrease), the Russian Federation (151 191 new cases, 103.6 new cases per 100 000, 9% decrease) and France (138 288 new cases, 211.9 new cases per 100 000, 10% increase). These 3 countries accounted for almost 40% of all cases reported in the region.
+
+The highest numbers of deaths were reported from the United Kingdom (8739 new deaths; 12.9 new deaths per 100 000, a 13% increase), Germany (5451 new deaths; 6.5 new deaths per 100 000, a 10% decrease) and the Russian Federation (3896 new deaths; 2.7 new deaths per 100 000, a 5% increase).
+
+- South East Asia Region
+The South East Asia Region reported a decrease in cases and deaths compared to the previous week following a 3-week plateau in new case and death reports. Just over 194 000 new cases and over 3000 new deaths were reported in the past week, a 5% decrease in both cases and deaths, compared to the previous week. The 3 countries reporting the highest numbers of new cases and new deaths were India (96 548 new cases; 7 new cases per 100 000, a 10% decrease), Indonesia (80 832 new cases; 29.6 new cases per 100 000; a 3% increase), and Sri Lanka (5274 new cases; 24.6 new cases per 100 000; an 18% increase).
+
+The 3 countries reporting the highest numbers of new deaths this week were Indonesia (1897 new deaths; 0.7 new deaths per 100 000, a 4% increase), India (1065 new deaths; 0.1 new deaths per 100 000, a 17% decrease), and Bangladesh (120 new deaths; 0.1 new deaths per 100 000; a 6% decrease).
+
+- Western Pacific Region
+The Western Pacific Region reported a similar number of new cases (over 81 000 cases) and decrease in new deaths by 5% (over 1000) in the past week compared to the previous week. The 3 countries reporting the highest numbers of new cases this week were Japan (38 365 new cases; 30.3 new cases per 100 000, an 8% decrease), Malaysia (25 360 new cases; 78.4 new cases per 100 000, a 18% increase) and the Philippines (12 988 new cases; 11.9 new cases per 100 000, a 1% increase).
+
+The 3 countries reporting the highest numbers of new deaths this week were Japan (573 new deaths; 0.5 new deaths per 100 000, a 27% increase), the Philippines (306 new deaths; 0.3 new deaths per 100 000, a 37% decrease), and the Republic of Korea (100 new deaths; 0.2 new deaths per 100 000, a 19% decrease)
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+----
+[B] daily new cases reported (as of 28 Jan 2021)
+Date: Thu 28 Jan 2021
+Source: WHO [abridged, edited]
+https://covid19.who.int/table
+
+
+*Daily case reports as of 28 Jan 2021 18:31 CET
+
+Surveillance
+------------
+WHO region (no. countries/territories):
+Total confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+--------------------------------------------------------------------------------
+Western Pacific Region (19): 1 386 091 (10 550) / 24 029 (221)
+European Region (61): 33 711 696 (209 786) / 729 519 (6110)
+South East Asia Region (10): 12 761 341 (26 530) / 196 301 (539)
+Eastern Mediterranean Region (22): 5 600 239 (24 146) / 132 626 (450)
+Region of the Americas (56): 44 471 901 (274 335) / 1 023 375 (7841)
+African Region (49): 2 523 516 (16 654) / 60 577 (900)
+Cases on an international conveyance (Diamond Princess): 745 (0) / 13 (0)
+
+Confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+Grand total: 100 455 529 (562 001) / 2 166 440 (16 061)
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[The number of countries and territories reporting confirmed cases of COVID-19 to WHO remains 219.
+
+Data by country, area, or territory for 28 Jan 2021 can be accessed at https://promedmail.org/wp-content/uploads/world-pdf/2021%20WHO%20Daily%20Tables%20Jan%2028%20(1)_1611893506.pdf.
+
+- The Americas region reported 48.8% of daily case numbers and 48.8% of the daily deaths reported in the past 24 hours and maintained its position as the most severely affected region, having reported more than 44.47 million cases. The United States remains the most heavily affected country, followed by Brazil, Mexico, Colombia, and Argentina. 7 additional countries reported more than 1000 cases in the past 24 hours (Peru, Canada, Chile, Bolivia, Panama, Dominican Republic, and Paraguay) and an additional 5 countries (Honduras, Cuba, Uruguay, Costa Rica, and El Salvador) reported more than 500 but fewer than 1000 cases. Ecuador and Guatemala among others did not report any cases in the past 24 hours.
+
+- The European region reported 37.3% of daily case numbers and 38.0% of the daily deaths reported in the past 24 hours, and total cumulative cases reported exceed 33.71 million. Countries not reporting cases include Belgium and Kazakhstan, among others. France surpassed the UK in the cases reported over last 48 hours, followed by Russia, Spain, Germany, Italy, and Portugal reporting more than 10 000 cases in the last 24 hours. Another 17 countries reported more than 1000 cases, and an additional 9 countries reported more than 500 but fewer than 1000 cases.
+
+- The Eastern Mediterranean region reported 4.3% of daily case numbers and 2.8% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 5.60 million cases. Iran maintains its dominance, reporting just over 6600 cases, followed by UAE, Lebanon, Tunisia, and Pakistan. Morocco, Iraq, Jordan, Libya, Egypt, Palestinian Authority, and Kuwait reported more than 500 but fewer than 1000 cases.
+
+- The African region reported 3.0% of daily case numbers and 5.6% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 2.52 million cases. South Africa maintains its dominance, with almost 7100 cases, followed by Nigeria, and Zambia. Mozambique, Malawi, and Ghana reported more than 500 but fewer than 1000 cases. Cameroon, Botswana, Madagascar, and Mauritania, among others, did not report any newly confirmed cases in the preceding 24 hours.
+
+- The Western Pacific region reported 1.9% of daily case numbers and 1.4% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 1.38 million cases. Japan reported the highest number of cases over last 24 hours, followed closely by Malaysia, Philippines, South Korea, and China.
+
+- The South East Asia region reported 4.7% of the daily newly reported cases and 3.4% of reported deaths in the past 24 hours, having reported a cumulative total of more than 12.76 million cases. Indonesia reported almost 12 000 cases followed by India with almost 11 700 cases, Sri Lanka, Thailand, Bangladesh, Myanmar, and Nepal. Indonesia is the 19th country to have reported a cumulative case count above 1 million.
+
+On the Overview tab at the WHO source URL, the epidemic curve of confirmed COVID-19 cases by WHO region, 30 Dec 2019 through 28 Jan 2021, is an excellent visual representation of the pandemic. - Mod.MPP]
+
+******
+[4] Global update: Worldometer accessed 28 Jan 2021 21:13 EST (GMT-5)
+Date: Thu 28 Jan 2021
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at https://promedmail.org/wp-content/uploads/world-pdf/2021%20WORLDDATA%20JAN28_1611898960.pdf
+
+A 7-day series of cumulative data reported by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/2021%20JAN28WORLD7_1611899033.pdf. - Mod.MPP]
+
+Total number of reported deaths: 2 200 698
+Total number of worldwide cases: 102 027 558
+Number of newly confirmed cases in the past 24 hours: 594 468
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[In the past 24 hours, the USA (172 406), Brazil (60 301), and the UK (28 680) have reported the highest numbers of cases. A global total of 16 578 deaths were reported in the past 24 hours (late 27 Jan to late 28 Jan 2021).
+
+Countries reporting more than 10 000 newly confirmed cases in the past 24 hours (13 countries) include the USA, Brazil, UK, France (23 770), Russia (19 138), India (18 940), Mexico (18 670), Spain (18 346), Portugal (16 432), Germany (14 866), Italy (14 360), Indonesia (13 695), and Colombia (12 270). A total of 52 countries reported more than 1000 cases in the past 24 hours; 25 of the 52 countries are from the European region, 13 are from the Americas region, 6 are from the Eastern Mediterranean region, 2 are from the South East Asia region, 3 are from the Western Pacific region, and 3 from the African region.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, case counts have decreased by 13.6%, while daily reported deaths have increased by 2.4%. Similar comparative 7-day averages in the United States show a 15.2% decrease in daily reported cases and a 5.4% increase in reported deaths.
+
+Impression: The global daily reported cases are just under 600 000 newly confirmed infections daily in the past 24 hours and over 102.02 million cumulative reported cases with over 2.20 million reported deaths. Countries in the European and the Americas regions are still showing the largest increases in daily new case counts, even in the face of decreasing reports, although there is a definite increase in reporting in some African countries, with 3 countries reporting more than 1000 cases in the past 24 hours. It does appear as though the major lockdowns in Europe and the Americas are impacting transmission. - Mod.MPP]
+See Also
+COVID-19 update (37): neutralizing antibodies, variant updates, WHO, global 20210128.8144160
+COVID-19 update (36): surge, Portugal, Indonesia, vaccines, WHO, global 20210127.8140911
+COVID-19 update (35): South Korea (KN) animal, cat 20210126.8138196
+COVID-19 update (34): vaccine, N-terminal domain, USA ex Brazil, WHO, global 20210126.8137077
+COVID-19 update (33): Sweden, zoo, tiger, lion 20210125.8134087
+COVID-19 update (32): vacc. impact, twins, variant, Japan travel, WHO, global 20210125.8133451
+COVID-19 update (31): foodborne transmission, variants, WHO, global 20210124.8131487
+COVID-19 update (30): vaccination impact, immune escape, variant, WHO, global 20210123.8129255
+COVID-19 update (21): health systems, vaccines, variants, skin, WHO, global 20210117.8111215
+COVID-19 update (20): animal, deer, experimental infection 20210116.8108967
+COVID-19 update (10): IgA, IL-6 receptor agonists, China, WHO, global 20210109.8086465
+COVID-19 update (01): variants, vaccine, Thailand, global, WHO 20210101.8062938
+2020
+----
+COVID-19 update (562): viral load, UK vacc dose, ECDC, WHO 20201231.8061525
+COVID-19 update (561): variants, China serosurvey, psychosis, WHO 20201230.8057135
+COVID-19 update (560): variants, Thailand, viral shedding, WHO 20201229.8054081
+COVID-19 update (550): mutation, query, Thailand, Taiwan, WHO, global, RFI 20201223.8040292
+COVID-19 update (500): frequent rapid tests, vaccine, WHO, global 20201122.7962919
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+Undiagnosed pediatric inflammatory syndrome (05): Europe, USA, COVID-19 assoc 20200518.7340554
+Undiagnosed pediatric inflammatory syndrome (04): USA, UK, PMIS, fatal 20200509.7315405
+Undiagnosed pediatric inflammatory syndrome (03): USA, Europe, COVID-19 susp, RFI 20200505.7299876
+COVID-19 update (150): global, USA state prisons, WHO 20200502.7290671
+COVID-19 update (100): China, S. Korea & high local transmission countries 20200413.7217806
+COVID-19 update (50): China (Hong Kong) animal dog, 2nd case PCR positive, OIE 20200323.7129951
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (41): China, global, clinical pics, asymptomatic trans., WHO 20200210.6976117
+Novel coronavirus (40): animal reservoir, pangolin poss intermediate host, RFI 20200210.6972104
+Novel coronavirus (30): updates, China, Viet Nam, research 20200202.6945658
+Novel coronavirus (20): China, wildlife trade ban 20200127.6922060
+Novel coronavirus (10): China (HU, GD, BJ) 20200119.6898567
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia: China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia: China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+----
+Undiagnosed pneumonia: China (HU): RFI 20191230.6864153
+and other items in the archives
+.................................................sb/mpp/lk/mpp/mj/lxl
+</body>

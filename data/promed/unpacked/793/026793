@@ -1,0 +1,136 @@
+<header id=026793>
+Published Date: 1998-05-25 19:50:00 EDT
+Subject: PRO/AH> BSE model - UK
+Archive Number: 19980525.0998
+</header>
+<body id=026793>
+BSE MODEL - UK
+**************
+A ProMED-mail post
+www.healthnet.org/programs/promed.html
+[Some weeks ago Torsten Brinch proposed a model of BSE in the UK on BSE-L.
+It had some interesting and thought provoking differences from previous
+models. We agreed that when the related discussion on BSE-L had finished,
+he would provide ProMED-mail with the resulting redraft, which he has
+kindly done. It follows. - Mod.MHJ]
+Date: Sun, 24 May 98 01:47:37 +0100
+From: Torsten Brinch <iaotb@inet.uni2.dk>
+
+Longitudinal trends in the UK BSE epizootic have drawn considerable
+interest with main focus being on indications of the decline of disease
+incidence, and future virtual disappearance. The data set most frequently
+worked from is the time series of number of cases by month (or year) of
+disease onset.
+Another option would be to use data on number of confirmed cases by month
+of birth, which is known for approximately 2/3 of all confirmed BSE cases.
+Little has been published using these data, however. Recently I have used
+this data set (graphed data from references (1) and (2)), in an attempt to
+obtain some indication of the changing exposure to birth cohorts over time.
+The unadjusted data set of cases by month of birth does not show changes in
+exposure well, because there is a huge seasonal variation. This variation
+can reasonably be assigned to two main factors:
+- a distinct annual calving pattern, UK calving season being in the autumn.
+- calves born early in the calving season are preferentially chosen for
+replacement into the herd.
+My seasonal adjustment method is very simple:
+- sum all cases born in each calendar month across the years (12 sums),
+- calculate the proportion of these sums born in each year,
+- plot all proportions as a function of time; -- and this graph emerges:
+***NB you must use monospaced font to avoid distortion! **************
+(or view the hires graph at <http://inet.uni2.dk/~iaotb/exp4g2.gif>)
+
+Proportion of cases by time of birth, seasonally adjusted:
+
+.35 X
+XXXXXX
+.30 XXXXXX
+XXXXXX
+.25 XXXXXXXX
+XXXXXXXXX
+.20 XXXXXXXXXXX
+XXXXXXXXXXXX
+.15 XXXXXXXXXXXXX
+X XXXXXXXXXXXXXXXX X X
+.10 XXXXXXXXXXXXXXXXXXXXXXXX
+XX XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+.05 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+.00 -1982--1983--1984--1985--1986--1987--1988--1989--1990-
+^feed ban
+************************************************************
+1) Significant disease-causing exposure is apparent to cows born from the
+autumn 1982 and onwards. Exposure increased strongly for cows born during
+1986 and the first half of 1987.
+2) For cows born during the year preceding the feed ban in July 1988, a
+high plateau of exposure to disease causing agent was reached. It is
+noteworthy that approximately 1/3 of all confirmed cases were born during
+this period.
+3) At the time of the feed ban, a dramatic drop is seen. Apparently,
+exposure to cows born just a few months after the feed ban has been only
+half [that of] the exposure to cows born a few months before the ban and
+during the preceding high exposure plateau.)
+4) The immediate dramatic drop was not sustained, and exposure continued at
+significant levels to cattle born several years after the feed ban.
+Two weaknesses to the simple approach to data used to produce the graph
+have been identified:
+a) Not all cases born in 1989 and onwards have reached the age where
+disease sets on, thus data for the latest birth cohorts are incomplete --
+this leads to an impression of misleadingly low exposure to cows born
+during 1989, 1990, and 1991. (This weakness can be addressed and corrected
+using the result from the SMR analysis (Fig.18, (2)) which was produced by
+the method described by
+Hoinville (3).)
+b) It is assumed that the annual calving and replacement selection pattern
+has been constant during the period, but it is known that the UK calving
+season has been broadened and shifted forward during the period. This
+change is not easily corrected for and should lead to spurious secondary
+exposure peaks for calves born during June and July in the latest years
+(and valleys in the early years). This effect is not very apparent in the
+lo-res graph above, but is seen in the high resolution graphs which can be
+viewed at the webpage <http://inet.uni2.dk/~iaotb/exposur4.htm> to which I
+refer the interested reader.
+Finally I would add that I find that the results of my method are not fully
+consistent with some of the assumptions of the Anderson et al (4) analysis
+of the longitudinal trends of BSE, mainly:
+- the assumption of a strong seasonal variation of -feed risk- (I think
+that the seasonal variation can be more simply explained by the annual
+pattern of calving and replacement selection.)
+- the assumption of feed risk peaking -after the feed ban- (I think that
+the feed risk peaked before or at the time of the feed ban)
+- the estimated/assumed mean age at infection being 1.3 years (I think that
+the mean age of disease causing exposure must have been lower, and that it
+might well be as early as the weaning period)
+References:
+(1) MAFF, UK: BSE Progress report (1995).
+(2) MAFF, UK: Programme to eradicate BSE in the United Kingdom (1996).
+(3) Hoinville "Decline in the incidence of BSE in cattle born after the
+introduction of the 'feed ban'" (1994) Vet.Rec. v.370, p.274-275.
+(4) Anderson et al. "Transmission dynamics and epidemiology of BSE in
+British cattle" (1996) Nature, v 382, p.779-788.
+--
+Torsten Brinch
+Denmark
+e-mail: iaotb@inet.uni2.dk
+.......................................mhj/es
+--
+*##########################################################*
+ProMED-mail makes every effort to verify the reports that
+are posted, but the accuracy and completeness of the
+information, and of any statements or opinions based
+thereon, are not guaranteed. The reader assumes all risks in
+using information posted or archived by ProMED-mail. ISID
+and its associated service providers shall not be held
+responsible for errors or omissions or held liable for any
+damages incurred as a result of use or reliance upon posted
+or archived material.
+************************************************************
+Visit ProMED-mail's web site at <http://www.promedmail.org>.
+Send all items for posting to: promed@promedmail.org
+(NOT to an individual moderator). If you do not give your
+full name and affiliation, it may not be posted. Send
+commands to subscribe/unsubscribe, get archives, help,
+etc. to: majordomo@promedmail.org. For assistance from a
+human being send mail to: owner-promed@promedmail.org.
+############################################################
+############################################################
+</body>

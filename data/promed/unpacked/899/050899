@@ -1,0 +1,467 @@
+<header id=050899>
+Published Date: 2021-01-21 10:40:41 EST
+Subject: PRO/EDR> COVID-19 update (26): autoAbs, vaccine, variants, escape mutants, WHO, global
+Archive Number: 20210121.8123742
+</header>
+<body id=050899>
+CORONAVIRUS DISEASE 2019 UPDATE (26): AUTOANTIBODIES, VACCINE, VARIANTS, ESCAPE MUTANTS, WHO, GLOBAL
+****************************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] Autoantibodies
+[2] Israel: vaccine effectiveness
+[3] South Africa: variant transmission properties
+[4] Escape mutants
+[5] WHO: daily new cases reported (as of 20 Jan 2021)
+[6] Global update: Worldometer accessed 20 Jan 2021 21:14 EST (GMT-5)
+
+******
+[1] Autoantibodies
+Date: Tue 19 Jan 2021
+Source: Nature [edited]
+https://www.nature.com/articles/d41586-021-00149-1
+
+
+Citation
+--------
+Khamsi R. Rogue antibodies could be driving severe COVID-19. Nature. 2021 Jan 19. doi: 10.1038/d41586-021-00149-1. Epub ahead of print. PMID: 33469204.
+
+Evidence is growing that self-attacking 'autoantibodies' could be the key to understanding some of the worst cases of COVID-19.
+
+More than a year after COVID-19 emerged, many mysteries persist about the disease: why do some people get so much sicker than others? Why does lung damage sometimes continue to worsen well after the body seems to have cleared the SARS-CoV-2 virus? And what is behind the extended, multi-organ illness that lasts for months in people with 'long COVID'? A growing number of studies suggest that some of these questions might be explained by the immune system mistakenly turning against the body -- a phenomenon known as autoimmunity.
+
+"This is a rapidly evolving area, but all the evidence is converging," says Aaron Ring, an immunologist at the Yale School of Medicine in New Haven, Connecticut. Early in the pandemic, researchers suggested that some people have an overactive immune response to COVID infection. Immune-system signalling proteins called cytokines can ramp up to dangerous levels, leading to 'cytokine storms' and damage to the body's own cells. Clinical trials have now shown that some drugs that broadly dampen immune activity seem to reduce death rates in critically ill people, if administered at the right time.
+
+But scientists studying COVID are increasingly also highlighting the role of autoantibodies: rogue antibodies that attack either elements of the body's immune defenses or specific proteins in organs such as the heart. In contrast to cytokine storms, which tend to cause systemic, short-duration problems, autoantibodies are thought to result in targeted, longer-term damage, says immunologist Akiko Iwasaki, a colleague of Ring's at Yale.
+
+Even healthy people make autoantibodies, but not generally in large amounts, and the molecules don't usually seem to cause damage or attack the immune system. Yet researchers also have evidence that nefarious autoantibodies do have a role in many infectious diseases.
+
+There are several theories to explain how autoimmunity might emerge from COVID and other infections. Some people might be predisposed to producing autoantibodies that can then wreak havoc during an infection. Alternatively, infections could even trigger the production of autoantibodies. If researchers can establish the link, they might be able to come up with avenues for treatment, both for the repercussions of COVID and for other diseases caused by viruses.
+
+Finding autoantibodies
+----------------------
+In late September [2020], a group led by Jean-Laurent Casanova at the Rockefeller University in New York City reported that more than 10% of 987 individuals with severe COVID-19 had antibodies that attacked and blocked the action of type 1 interferon molecules, which normally help to bolster the immune response against foreign pathogens (1). That was a striking proportion, the researchers say, because people's antibody repertoires are normally very dissimilar, and no one in a control group for the study had these antibodies. The researchers also saw the antibodies in people before their COVID-19 infection, so Casanova thinks that some people could be genetically predisposed to produce them. And the autoantibodies were more common in men than women -- a possible factor in why COVID seems to hit men harder.
+
+The 1st evidence (2) suggesting that autoantibodies against interferon might put people at higher risk of infectious disease was published in 1984, and evidence has accumulated since then, Casanova says. But now COVID is drawing more attention to the connection. "Now people understand the problem," he says, "and all of a sudden they realize that what my lab has been doing for 25 years is actually pretty meaningful."
+
+Casanova is now screening 40 000 people to see how many have pre-existing autoantibodies and determine whether their distribution by age, ancestry, and gender matches that of severe COVID.
+
+Other research groups have supported Casanova's autoantibody connection. Iwasaki, Ring and others screened 194 patients and hospital workers with varying severities of COVID for a wide range of autoantibodies. Their study, which was posted online in December [2020] and has not yet been peer reviewed, found a higher prevalence of autoantibodies against the immune system in infected individuals than in uninfected people (3). They found autoantibodies that attacked B cells, as well as some that attacked interferon.
+
+But this study also suggested that SARS-CoV-2 might cause the body to generate autoantibodies that attack its own tissues. Some of the infected individuals had autoantibodies against proteins in their blood vessels, heart, and brain. This was particularly intriguing because many of the symptoms seen in the pandemic are linked to these organs. It's unclear whether COVID-19 infection caused the body to start making these autoantibodies or whether infected people had them already. Iwasaki says they are hoping to study other cases to establish whether there is a causal link; that would require obtaining more blood samples from before people become infected.
+
+Researchers have also found autoantibodies against molecules called phospholipids, adds Michel Goldman, an immunologist at the Free University of Brussels and former director of Europe's Innovative Medicines Initiative. The largest such study, published in November [2020], found that 52% of 172 people hospitalized with COVID-19 had these autoantibodies (4). "That's a real concern," he says, because some phospholipids are known to have a role in controlling blood clotting, which goes awry in COVID-19.
+
+This month [January 2021], another study (5), not yet peer reviewed, reported finding autoantibodies that might be spurred by COVID-19. David Lee, an emergency-medicine doctor at New York University (NYU) Langone Health, partnered with NYU microbiologist Ana Rodriguez and others to analyze serum samples from 86 people hospitalized with COVID-19. They looked for autoantibodies against proteins such as annexin A2, which is of particular interest because it helps to keep cell membranes stable and ensures the integrity of small blood vessels in the lungs. The researchers found a significantly higher average level of anti-annex in A2 antibodies in people who had died than in those with non-critical illness. As with other studies, it's still unclear whether these autoantibodies existed before infection with the coronavirus.
+
+The autoantibody theory might explain some of the delay in the onset of severe symptoms in COVID-19. If evoked by the cellular damage and inflammation stoked by viral infection, as Lee and others think, autoantibodies would take a couple of weeks to build up in the body. This, he says, could be why much of the damage to tissues such as the lungs appears so long after a person develops symptoms such as fever. In this way, autoimmunity might be the real culprit behind the deadly destruction that continues after the coronavirus has cleared. "Clinicians are thinking, 'Oh, this virus is so deadly, we've got to get rid of the virus.' But then when you talk to the pathologists, they're like, 'Yeah, so we're seeing all this damage, but not seeing much virus,'" Lee says.
+
+An infectious idea
+------------------
+Over the years, scientists have identified numerous instances of infections generating autoimmunity. Some reports suggest that infection with the malaria parasite can cause the body to begin attacking red blood cells, causing anaemia. And Epstein-Barr virus -- which causes glandular fever (also known as mononucleosis) -- has been implicated in dozens of autoimmune illnesses, including lupus. Finding a rock-solid connection can be tough, because it's difficult to show whether the infections are the cause of autoimmune disorders or whether they crop up in the body for another reason, says Anish Suri, president of Cue Biopharma, a company in Cambridge, Massachusetts, that is researching therapies to counter autoimmunity.
+
+Strep throat is a well-established example. If left untreated, this illness, which is caused by the bacterium _Streptococcus pyogenes_, can prompt an autoimmune reaction, known as rheumatic fever, that attacks organs and can lead to permanent heart damage. Other bacteria are also likely to lead to autoimmunity: the stomach bug _Helicobacter pylori_ is thought to cause a disorder called immune thrombocytopenic purpura (ITP), in which the body starts destroying platelets in the blood. In some people with ITP, treatment with antibiotics against _H. pylori_ improves platelet count, suggesting that the drugs help to reverse the autoimmune condition.
+
+Yehuda Shoenfeld, head of the Zabludowicz Center for Autoimmune Diseases in Tel-Hashomer, Israel, suspects that COVID-19 might cause autoimmune disease. Last June, he published an article about COVID-19 and autoimmunity (6), and cited an April 2020 case report of a 65-year-old woman with COVID-19 whose platelet count dropped precipitously and who required a platelet transfusion (7). Although there is not enough evidence to prove that this was ITP, there have been a few dozen other cases of ITP linked to COVID-19 in the literature (8).
+
+Some people might have a genetic predisposition to developing an autoimmune reaction in response to infection. For example, certain individuals have DNA that encodes the immune-system protein HLA-DRB1, which Shoenfeld says is "notorious" for its link to autoimmunity. A related protein, HLA-DQB1, is strongly suspected to have put individuals receiving a now-discontinued vaccine against the H1N1 'swine flu' at risk of developing a form of narcolepsy that is thought to result from an autoimmune attack on neurons in the brain.
+
+Another way pathogens might trigger immunity is if a part of them coincidentally resembles human cell components. For example, _S. pyogenes_ has an 'M' protein that mimics certain proteins found in the human heart. This is known as molecular mimicry. In their June 2020 article, Shoenfeld and his collaborators found similarities between numerous short sequences of the SARS-CoV-2 spike protein, which the virus uses to enter the cell, and human proteins. Others caution, however, that this might not have meaningful effects. "This is not to say that mimicry by pathogens is not a real thing," says Brian Wasik, a virologist at Cornell University in Ithaca, New York. "But most instances of such mimicry have been defined by testing how the pathogens' proteins actually react to antibodies in the lab."
+
+Another theory is that inflammation caused by an infection might prime the immune system to mistakenly see the spewed contents of destroyed cells as 'foreign' and create autoantibodies against these cellular pieces, says Leona Gilbert, a molecular biologist who is a consultant at a diagnostic company named Tezted Oy in Finland, which has developed and sells a test for SARS-CoV-2 antibodies. The tissue damage that accompanies inflammation is a recipe for the body to begin attacking itself, Gilbert says: "That just precipitates the whole event in developing autoimmune conditions," she says.
+
+Lee, the researcher who studied annexin A2, says the evidence that infections can give rise to autoimmunity is not receiving enough attention. "It should make us rethink dozens of diseases, if not hundreds," he says. "I'm like, 'How is anybody not seeing this?'"
+
+Rethinking treatments
+---------------------
+If an autoimmunity element exists either in predisposing people to COVID-19 or in the fallout from the infection, there might be treatment implications. Casanova says that in cases in which pre-existing autoimmunity against interferon might put people at greater risk of falling ill, then blood tests for autoantibodies, which are becoming more available in research laboratories and university hospitals, could help to identify them.
+
+And if these people become infected with SARS-CoV-2, Casanova suggests, they could receive supplementation as early as is practical with interferon-beta, which is not as prone to attack from the immune system as are other interferons. Last November [2020], a preliminary study found that an inhaled form of interferon-beta seemed to improve the clinical condition of people with COVID, prompting a larger trial of this therapy.
+
+Interferon replacements are intended to boost the activity of a weakened immune system. But if autoantibodies attack organs such as the lungs and brain, a blunt strategy for combating them might be to suppress the immune system.
+
+Even before autoantibodies came into focus, the idea that a cytokine storm might be a culprit meant that studies were under way to see whether immunosuppressive steroids such as dexamethasone, or the arthritis drugs tocilizumab and sarilumab, could be used to calm immune systems set awry by COVID. The World Health Organization now "strongly recommends" the use of dexamethasone in severe cases, and the United Kingdom is using the arthritis drugs for people with severe COVID after a clinical trial on [7 Jan 2021] (10) suggested that they cut death rates in patients in intensive care.
+
+Physicians emphasize that, whether they are used to quell a cytokine storm or to try to address autoimmunity, administration of the drugs needs to be carefully timed so that they don't interfere with the body's battle against SARS-CoV-2. Suri notes that broad-spectrum immunosuppressants make the body more prone to infection. His company is one of a handful conducting preclinical work to develop engineered molecules that go after specific immunity pathways, rather than suppress immunity across the board.
+
+Lee, meanwhile, says that if autoantibodies against annexin A2 and other proteins prove to be a consequence of COVID-19, then it might make sense to study what happens when patients' plasma is run through a process that clears these antibodies out before returning the plasma.
+
+Scientists are very interested in understanding whether autoimmunity is linked to long COVID, too. "First of all, we don't know if these autoantibodies contribute to long COVID, but if they do, what is the longevity? How long will they last? How long is the body going to keep producing those antibodies?" Ring says. But answering these questions is a complicated endeavour, because people naturally produce many different kinds of antibody, including autoantibodies.
+
+Ring hopes that research into viruses and autoimmunity will eventually get much-needed answers for individuals with post-viral autoimmunity, which might include those with COVID-19. "These patients are just so frustrated," he says. "Their physicians don't believe them and so they get psych referrals. Just to be able to tell these people they have a real disease and here's what's causing it -- that would be really meaningful."
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[See references at the source URL]
+
+[While the majority of the people infected with COVID-19 typically experience mild to moderate symptoms, there are many people who experience a much more severe form of the disease.
+
+Some of the severe complications of COVID-19 can include pneumonia, multi-system organ failure, acute respiratory distress syndrome, acute kidney injury, increased susceptibility to other viral and/or bacterial infections, as well as a unique form of coagulopathy that has been referred to as COVID-19 coagulopathy.
+
+Early observations of COVID-19 coagulopathy characterized this disorder by mild thrombocytopenia, a small prolongation in prothrombin time, as well as elevated D-dimer in plasma. The presence of high D-dimer concentrations, which is a breakdown product of cross-linked fibrin, has been used to predict the patient's risk of thrombosis, which correlates with disease severity, future ventilatory support requirements and an increased risk of mortality.
+
+Despite maintaining normal levels of these factors, COVID-19 coagulopathy is considered to be one of the most troubling complications of severe COVID-19, as it increases the risk of infected patients having both macrovascular and microvascular thromboses, either of which can increase the likelihood of the patient experiencing a stroke or myocardial infarction.
+
+It is estimated that 0.5% of the population, or 1 in every 2000 individuals, suffers from an acquired autoimmune thrombophilia disorder known as antiphospholipid syndrome (APS). APS arises from the production of durable autoantibodies to phospholipids and phospholipid-binding proteins, which, taken together, are known as aPL antibodies.
+
+These aPL antibodies interact with the surface of phospholipid-binding proteins such as prothrombin, b2 glycoprotein I (b2GPI), thrombomodulin, plasminogen, protein C and many others, which ultimately leads to the activation of endothelial cells, platelets and neutrophils.
+
+The interaction between aPL antibodies and these cells causes the blood-endothelium interface to be at a greater risk of thrombosis. The diagnosis of APS typically occurs after a patient persistently tests positive for the presence of anticardiolipin autoantibodies (aCL antibodies) or anti-b2GPI autoantibodies (ab2GPI antibodies) in the blood.
+
+A recent Science Translational Medicine study looked to determine whether the presence of aPL antibodies in COVID-19 patients could be related to COVID-19 coagulopathy.
+
+In their work, serum samples obtained from 172 patients were evaluated for eight different aPL antibodies including aCL IgG, aCL IgM, aCL IgA, ab2GPI IgG, ab2GPI IgM, ab2GPI IgA, aPS/PT IgG and aPS/PT IgM.
+
+Taken together, 89% of patients tested positive for at least one type of aPL antibody, the most prevalent of which included aPS/PT IgG, which was found in 24% of the patients. The researchers then sought to determine whether the presence of these aPL antibodies correlated with any clinical characteristics of COVID-19. (https://www.news-medical.net/health/What-is-the-role-of-autoantibodies-in-COVID-19.aspx)
+
+Vlachoyiannopoulos et al have recently reported presence of several systemic autoimmune reactivities in almost 70% of severely ill patients with COVID-19 with positive SARS-CoV-2 PCR, admitted to the intensive care unit and suggested that a post-SARS-CoV-2 or para-SARS-CoV-2 infectious autoimmune activation process may be at work (https://ard.bmj.com/content/79/12/1661). - Mod.UBA]
+
+******
+[2] Israel: vaccine effectiveness
+[A]
+Date: Tue 19 Jan 2021 7:33 PM IST
+Source: The Times of Israel [edited]
+https://www.timesofisrael.com/israels-virus-czar-says-1st-dose-less-effective-than-pfizer-indicated-report/
+
+
+Israel's coronavirus czar Nachman Ash has reportedly said the first dose of Pfizer's vaccine provides less protection against COVID-19 than the US pharmaceutical firm had initially indicated it would, and cautioned that it may not protect against new strains of the virus.
+
+During talks among Health Ministry officials ahead of Tuesday's cabinet meeting on the possibility of extending the nationwide lockdown, Ash questioned the effectiveness of the vaccine after just one dose, Army Radio reported [Tue 19 2021] afternoon.
+
+Many people have gotten infected between the first and second Pfizer shots, Ash was quoted saying, and it appears that the protection offered by the first dose is "less effective than we had thought." The data on the protective effect against the virus of the first dose is "lower than Pfizer presented," he was quoted saying. Over 2 million Israelis have had their first Pfizer shot. Over 400 000 have had the 2nd.
+
+According to the Health Ministry, over 12 400 have people tested positive for coronavirus after receiving vaccine shots; this figure includes 69 people who have received the second dose. Pfizer says its vaccine, produced with BioNTech, is around 52% effective after the first dose, and increases to about 95% a number of days after the 2nd dose.
+
+Last week, Sharon Alroy-Preis, head of the Health Ministry's public health department, announced that the vaccine curbs infections by some 50% 14 days after the first of the 2 shots is administered. She said that the data was preliminary, and based on the results of coronavirus tests among both those who have received the vaccine and those who haven't, who are serving as a de facto control group.
+
+At the same time, however, other, somewhat contrary data was released by Israeli health maintenance organizations: According to figures released by Clalit, Israel's largest health provider, the chance of a person being infected with the coronavirus dropped by 33% 14 days after they were vaccinated; separate figures recorded by the Maccabi health provider showed the vaccine caused a 60% drop in the chances for infection after taking the first shot.
+
+During his talks with health officials on [Tue 19 2021], Ash also said that it was not certain the vaccine can protect against mutated variants of the coronavirus, according to the report.
+
+A month into Israel's vaccination campaign, Health Ministry officials had hoped to see a drop in daily infections and serious cases, but there is no such trend at this time. The more contagious virus variants -- particularly the British strain -- are being blamed for the difficulty in bringing down illness rates and easing the heavy load on hospitals, despite the lockdown and mass vaccinations.
+
+Speaking to ministers at Tuesday's meeting of the so-called coronavirus cabinet, Ash said that health officials estimate the British coronavirus variant is behind 30%-40% of current infections and will become the dominant strain in Israel within weeks, according to Hebrew media reports. The mutated strain of the virus is more infectious, though it is not considered more deadly.
+
+Ash reportedly recommended extending the nationwide lockdown by 2 weeks until [4 Feb 2021], saying that the basic reproduction number, a key indicator of the virus' transmission, was dropping but it would take another few days for the full effect of the lockdown to be felt.
+
+The Health Ministry said [Tue 19 2021] morning that a record 10 021 infections were confirmed the previous day, bringing the country's total caseload since the start of the pandemic to 562 167, including 81 059 active cases. The rate of positive tests passed the 10% mark for the first time in over 3 months, with 10.2% of the nearly 100 000 tests coming back positive.
+
+--
+Communicated by:
+ProMED Rapporteur Kunihiko Iizuka
+
+----
+[B]
+Date: Wed 20 Jan 2021
+Source: BBC News [edited]
+https://www.bbc.com/news/health-55734257
+
+
+Israel, one of the top countries when it comes to vaccinating against Covid-19, bought large stocks of the jab in exchange for acting as the world's guinea pig. And scientists are watching data shared by the country keenly, for signs of how effective the vaccine is when given to a whole population.
+
+So there was understandable concern when the man coordinating Israel's COVID response reportedly suggested a single dose of the Pfizer vaccine might not be as effective as reported. Thousands of people have tested positive after being jabbed. But are worries premature?
+
+Addressing Prof Nachman Ash's quotes, the Israeli Ministry of Health said: "The comments of the Israeli Covid-19 commissioner regarding the effect of the first dose of the vaccine were out of context and, therefore, inaccurate. The commissioner said we have yet to see a decrease in the number of severely ill patients."
+
+The "full protective impact of the vaccine" was expected to be seen soon, a spokesperson added.
+
+After vaccination, the body needs time to recognise the virus's genetic material and mount an immune response - producing the antibodies and T-cells that block the virus from entering cells and killing off those cells that do become infected. And it takes a minimum of 2 weeks - but probably more - to really take effect, immunologists including Prof Danny Altmann at Imperial College London, say.
+
+Some of the people who were hospitalised in recent weeks will have received a first dose of the vaccine. But that's not necessarily a sign it hasn't been effective.
+
+Given the time it takes for immunity to build and unvaccinated people to become exposed to the virus, incubate it and develop symptoms, the national data would not be expected to reflect the impact of vaccination for at least a month.
+
+Clalit, Israel's largest healthcare provider, covering most of the population, compared the medical records of 200 000 vaccinated over-60s with the same number belonging to unvaccinated people.
+
+For 2 weeks after the first dose, both groups tested positive for the virus at roughly the same rate. But then those vaccinated started to show 33% fewer new infections than the others. "This is very early protection," said Clalit chief innovation officer, Ran Balicher, who is also a public health professor advising the government.
+
+And "already there is a 33% fall". Infections continued to decline after that. But there were too few for Prof Balicher to calculate by what percentage.
+
+The London School of Hygiene and Tropical Medicine's Prof Stephen Evans said: "It is not sensible to compare efficacy derived from an observational study of this type, which is subject to many biases, with the efficacy derived from randomized trials [such as those performed to test the vaccine in the first place]."
+
+But the early evidence does follow roughly the same trend seen in Pfizer's clinical trials, which involved tens of thousands of people. In those trials, the rate of new infections in the vaccinated and control groups also diverged after 2 weeks. And that gap kept widening for more than 100 days after the 1st dose.
+
+Israel began vaccinating on [19 Dec 2020], reaching 10% of its population by the end of 2020. And now, about half a million of its nine million population have received 2 doses. Prof Balicher suggests some impact on severe COVID illness across Israel could be expected to be seen later this week.
+
+Pfizer hopes 2 doses of the vaccine will give up to 95% protection. But even a much less effective vaccine could make the difference between a survivable illness and a fatal one. The annual flu vaccine is about 40-60% effective. And it stops hundreds of thousands of people from dying every year.
+
+"Efficacy against detected COVID-19 may be less important... than efficacy against hospitalisation and death," Prof Evans said. And more people were likely to be protected from a severity of illness requiring admission to hospital than infection rates alone suggested. The Clalit data, for example, does not distinguish between mild or symptomless infections and more severe or even fatal disease.
+
+The judgement made in the UK was more lives could be saved by giving a larger group one dose quicker than giving a smaller group the maximum protection conferred by 2 doses. And Prof Evans said: "The reports that have come from Israel are insufficient to provide any evidence that the current UK policy in regard to delaying the 2nd dose of vaccines is in any way incorrect."
+
+[Byline: Rachel Schrarer]
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[It is too early to tell how effective the vaccines will be in real time, when administered to diverse populations including different age groups and at risk populations. Systematic vaccine effectiveness studies will be required in coming months to understand their impact in curtailing the disease transmission. - Mod.UBA]
+
+******
+[3] South Africa: variant transmission properties
+[A]
+Date: Tue 19 Jan 2021
+Source: Business Insider [edited]
+https://www.businessinsider.com/south-africa-coronavirus-variant-more-contagious-us-2021-1
+
+
+The coronavirus variant spreading in South Africa is 50% more contagious than the original strain, but not more severe, the country's top infectious disease expert said [Mon 18 Jan 2021].
+
+The figure comes from mathematical modelling that predicted what the infection rate would have been without new variants. Scientists then compared this model to current real-life figures.
+
+In the Western Cape, for example, coronavirus has spread 50% faster than the model predicted, Salim Abdool Karim, head of South Africa's COVID-19 ministerial advisory committee, said during a scientific webinar Monday. The area took 107 days to reach 100 000 cases in the 1st wave of infections, but 54 days in the 2nd, likely due to the new variant, Karim said.
+
+Studies also suggest that natural antibodies -- produced by the body to fight infection -- are less effective, Karim added.
+
+The variant, known as 501Y.V2, has spread to 14 countries worldwide, but has not yet been identified in the US.
+
+A different variant first identified in the UK has reached the US, and is now in several states. Experts believe it is between 30 and 50% more infectious.
+
+The variant in South Africa was first detected in Nelson Mandela Bay in samples dating back to the beginning of October 2020. South Africa experienced a sharp increase in the number of people infected with coronavirus during November [2020], and reported 501Y.V2 to the World Health Organization on [18 Dec 2020].
+
+"We are now seeing today more cases and more deaths than we ever on any day saw during the first wave. This rapid rise in cases is also accompanied by hospital admissions. Most unfortunately, we also see the deaths rising," Karim said. There is no evidence to suggest the variant is more deadly, Karim said -- but a faster-spreading variant leads to more infections and therefore more deaths.
+
+More than 1.3 million people are infected with coronavirus in South Africa, the highest of any African nation, according to Johns Hopkins University. More than 37 000 South Africans have died from COVID-19. Most new cases are caused by the 501Y.V2 variant.
+
+"In our latest data from KwaZulu-Natal, 59 out of the 61 sequences came up with the new variant," Karim said. "It is now the predominant virus spreading in our midst."
+
+Mutations have significantly changed the virus' spike protein, the part of the virus that it uses to infect human cells. The spike protein has now rotated about twenty degrees and can therefore get more deeply into the binding site on cells, said Karim. "This means that the virus can bind better to the human cell, and that's what enables it to become a more efficient virus in the way it transmits", he said.
+
+[Byline: Catherine Schuster-Bruce]
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+----
+[B]
+Date: Wed 20 Jan 2021 0335 GMT
+Source: CNN [edited]
+https://edition.cnn.com/2021/01/19/health/coronavirus-variant-vaccine-protection/index.html
+
+
+A new study suggests someone might be able to get infected with one of the new variants of the coronavirus even if they've had Covid-19 before or have been vaccinated. The variant was first spotted in South Africa in October [2020] and has now been found in more than a dozen countries.
+
+"I think we should be alarmed," said Penny Moore, associate professor at the National Institute for Communicable Diseases in South Africa and the senior author of the study.
+
+"Based on Penny's data, it's likely that the vaccine is going to be somewhat less effective, but how much less effective we don't know," said David Montefiori, a virologist at Duke University Medical Center. Montefiori added that this is the first study that gives him serious doubt about whether prior infection or a vaccine will protect against a new coronavirus variant. "This is the first time I've been concerned about a variant partially evading the immune response and partially evading the vaccine," he said.
+
+Both experts emphasized that people should still get the vaccine. It's extremely effective against other forms of the virus and they think it likely will still give some level of protection against the new variant as well.
+
+The study was posted on a pre-print server and has not been peer-reviewed and published in a medical journal.
+
+This is one of the first reports to look at the variant's effect on antibody potency. Labs around the world are furiously studying the issue and expect to report results within the next few weeks.
+
+"I worry desperately in the next 6 to 12 weeks we're going to see a situation with this pandemic unlike anything we've seen yet to date. And that is really a challenge that I don't think most people realize yet," Michael Osterholm, an epidemiologist at the University of Minnesota and a member of President-elect Joe Biden's Transition COVID-19 Advisory Board, told CNN's New Day.
+
+'A 2-armed escape from the immune system'
+-----------------------------------------
+In the study, Moore and her colleagues took blood from 44 people who'd had Covid-19. Nearly all of their cases were confirmed to have occurred prior to September [2020], which is before the variant was spotted in South Africa. The researchers then looked to see whether their antibodies would fight off the new variant.
+
+For about half of the 44 people, their antibodies were powerless against the new variant. "We saw a knockout," Moore said. "It was a scary result." For the other half, the antibody response was weakened, but not totally knocked out.
+
+The analysis showed that the strongest antibody response was from those who had suffered more severe cases of COVID-19, and therefore had developed a stronger antibody response after their illnesses.
+
+The culprits were mutations in 2 different parts of the spikes that sit atop the coronavirus. The vaccines work by targeting those spikes. "It was a 2-armed escape from the immune system," Moore said.
+
+Moore emphasized that these are results in the lab, and studies need to be done to see if people who've previously had COVID-19 get re-infected with the new variant. The antibody assays did not measure other immune responses, such as T-cell responses, that are generated by previous infections and vaccines.
+
+What this means for the vaccine
+-------------------------------
+Moore's team is now gathering blood from people who've been vaccinated to see if their antibodies can fight off the new variant.
+
+"I think the data on people with prior infection raises all kinds of red flags for the vaccines," she said. "We have to test it to find out." Montefiori, the Duke virologist, agrees. "I don't have any reason to think the results with people who've been vaccinated will be any different than with the people who had prior infection," he said.
+
+For several reasons, Montefiori thinks the vaccine will likely take a hit -- but probably not a huge one. First, the 2 vaccines authorized for use in the US work very well, so even if the new variant puts up a fight, the reduction in vaccine efficacy likely won't be devastating.
+
+"We have to remember, the Pfizer and Moderna vaccines are 95% effective -- that's an extraordinary level of efficacy," Montefiori said. "If it reduces to 90, 80, 70% effective, that is still very, very good and likely to have a major impact on the pandemic." Also, while surveillance in South Africa shows the new variant is becoming the dominant variant in the country, Montefiori points out that it's been found only in small numbers in 13 other countries.
+
+The UK, which has a very aggressive surveillance system, has found 45 people with the new variant, according to GISAID, an independent data-sharing initiative. Botswana has seen 6 cases; Japan has seen 5; there have been 4 cases spotted in Germany; 2 each in France, Australia, Switzerland, and Finland; and one each in Sweden, South Korea, Norway, Ireland, and the Netherlands.
+
+Also, getting vaccinated might trigger a stronger antibody response than infection.
+
+[Mon 18 Jan 2021], researchers at Sheba Medical Center in Israel announced that an analysis of blood from 102 hospital employees who'd received 2 doses of the Pfizer vaccine showed their mean antibody levels were higher than those found in people who'd recovered from severe COVID-19. That study has not been peer reviewed, published or posted online.
+
+"That's very good news," Moore said.
+
+While scientists work out what effect the variant might have on the vaccine, experts advise that prevention, such as wearing a mask and social distancing, is the best course for bringing COVID-19 rates down -- that and getting a vaccine when you can.
+
+[Byline: Elizabeth Cohen; Amir Tal and Naomi Thomas contributed]
+
+--
+Communicated by:
+ProMED Rapporteur Kunihiko Iizuka
+
+[Further investigations are required to understand the impact of specific mutations on viral properties and the effectiveness of diagnostics, therapeutics and vaccines. These investigations are complex and require time and collaboration among different research groups. These studies are ongoing. WHO advises that National and local authorities should continue to strengthen existing disease control activities, including monitoring their epidemics closely through ongoing epidemiological surveillance and strategic testing; conducting outbreak investigation and contact tracing; and where appropriate, adjusting public health and social measures to reduce transmission of SARS-CoV-2.
+
+WHO further advises countries, where feasible, to increase routine systematic sequencing of SARS-CoV-2 viruses to better understand SARS-CoV-2 transmission and to monitor for the emergence of variants (https://www.who.int/csr/don/31-december-2020-sars-cov2-variants/en/). - Mod.UBA]
+
+******
+[4] Escape mutants
+Date: Tue 19 Jan 2021
+Source: bioRxiv [abridged, edited]
+https://www.biorxiv.org/content/10.1101/2021.01.18.427166v1.full.pdf
+
+
+Citation
+--------
+Wibmer CK, Ayres F, Hermanus T, et al. SARS-CoV-2 501Y.V2 escapes neutralization by South African COVID-19 donor plasma. bioRxiv preprint doi: 10.1101/2021.01.18.427166; posted 19 Jan 2021
+
+Abstract
+--------
+SARS-CoV-2 501Y.V2, a novel lineage of the coronavirus causing COVID-19, contains multiple mutations within 2 immuno-dominant domains of the spike protein. Here we show that this lineage exhibits complete escape from 3 classes of therapeutically relevant monoclonal antibodies. Furthermore, 501Y.V2 shows substantial or complete escape from neutralizing antibodies in COVID-19 convalescent plasma. These data highlight the prospect of reinfection with antigenically distinct variants and may foreshadow reduced efficacy of current spike-based vaccines.
+
+Discussion
+----------
+SARS-CoV-2, the virus responsible for the COVID-19 pandemic is evolving, with new lineages being reported all over the world. Amongst previous lineages, D614G was shown to have faster growth in vitro, enhanced transmission in small animals, and has subsequently become globally dominant (28-30). N501Y has been shown to increase affinity for the human ACE2 receptor, which together with the repeated and independent evolution of 501Y containing lineages (25,26,31), strongly argues for enhanced transmissibility of these new variants. Here we show that the 501Y.V2 lineage, that contains nine spike mutations, and rapidly emerged in South Africa during the second half of 2020, is largely resistant to neutralizing antibodies elicited by infection with previously circulating lineages. This suggests that, despite the many people who have already been infected with SARS-CoV-2 globally and are presumed to have accumulated some level of immunity, new variants such as 501Y.V2 pose a significant re-infection risk.
+
+While higher titres of neutralizing antibodies are common in hospitalized individuals, however, most SARS-CoV-2 infected people develop moderate neutralization titres (3-5). Therefore, the data herein suggest that most individuals infected with previous SARS-CoV-2 lineages will have minimal or no detectable neutralization activity against501Y.V2. This dramatic effect on plasma neutralization can be explained by the dominance of RBD-directed neutralizing antibodies (10,11,13). These data are supported by studies showing reduced plasma neutralization titres mediated by the E484K change alone (23,24). Importantly, here we show that the K417N change also has a crucial role in viral escape, effectively abrogating neutralization by a well-defined, multi-donor class of VH3-53/66 germline restricted public antibodies that comprise some of the most common and potent neutralizing antibodies to SARS-CoV-211,17.
+
+The marked loss of neutralization against 501Y.V2 compared to the RBD-only chimeric virus demonstrates the important role that mutations in the NTD play in mediating immune escape. While the L18F change (found in 501Y.V2) has previously been linked to neutralization resistance (22), we also define an important role for a relatively small, 3 amino acid deletion in the 501Y.V2 NTD domain that completely disrupts a dominant public antibody response to the N5-loop supersite (20-22). This deletion predominatesamong501Y.V2 variants, and occurs either alone or with an R246I substitution that has also been shown to abrogate neutralization by several NTD-directed neutralizing antibodies (22).
+
+A recently identified lineage in Brazil also has changes at key positions shown here to affect neutralizing antibodies (417T, 484Kin RBD and 18F,20N in NTD -the last mutation adding a glycosylation sequon) (25). Our data suggest that this lineage is also likely to exhibit significant levels of neutralization resistance, making both lineages of considerable public health concern. The independent emergence and subsequent selection for 2 distinct 501Y lineages with key mutations conferring neutralization resistance strongly argues for selection by neutralizing antibodies as the dominant driver for SARS-CoV-2 spike diversification. The relatively rapid acquisition of a comprehensive suite of neutralization escape mutations likely occurred because of the large number of commonly shared public antibodies (e.g.: VH3-53/66, VH1-2, VH1-24) to both the RBD and NTD of spike, together with high levels of SARS-CoV-2 transmission around the world. The sporadic emergence of escape mutations in long term viral shedders, including immunocompromised individuals, may also contribute to the emergence of neutralization resistant viruses (32). Altogether, these data highlight the need for increased, ongoing surveillance and sequencing during the SARS-CoV-2 pandemic.
+
+Crucially, it is from these same public antibody responses that many therapeutic strategies currently under development have been derived (8,9,33). The overwhelming majority of monoclonal antibodies already on the path to licensure target residues K417 or E484 and will therefore be ineffective against 501Y.V2. Amongst these antibodies, some have already been granted emergency use authorization in the USA (Regeneron Pharmaceuticals and Eli Lilly and Company). In addition, a next generation of potent neutralizing antibodies that target the NTD N5-loop supersite have been suggested for clinical development but are also likely to be futile against 501Y.V2.
+
+These data also have implications for the effectiveness of SARS-CoV-2 vaccines, which are principally based on immune responses to the spike protein. Neutralizing antibodies have repeatedly been demonstrated as the primary correlate of protection for most vaccines, including those designed to prevent infection with respiratory pathogens. Despite neutralization escape, we show here that a significant proportion of non-neutralizing, RBD binding antibodies remain active against 501Y.V2. While antibody effector functions elicited by infection and vaccination have been implicated in protecting from reinfection and disease, the role of non-neutralizing antibodies and the efficacy of T cell responses to 501Y.V2 remain to be elucidated. Ultimately, the correlates of protection against SARS-CoV-2 infection and severe COVID-19 disease remain undetermined and rely upon ongoing large-scale clinical trials. Nevertheless, the speed and scope of 501Y.V2 mediated immune escape from pre-existing neutralizing antibodies highlight the urgent requirement for rapidly adaptable vaccine design platforms, and the need to identify less mutable viral targets for incorporation into future immunogens.
+
+--
+Communicated by:
+ProMED Rapporteur Kunihiko Iizuka
+
+["SARS-CoV-2 is commonly considered to acquire mutations more slowly than other RNA viruses. However, the SARS-CoV-2 mutation burden and evolutionary rate (1x10^-3 substitutions per base per year have only been estimated under conditions that favor neutral genetic drift, in the absence of strong positive selection pressure provided by population-level immunity or other interventions that select for resistance mutations. In immunologically naive COVID-19 patients, viral load and transmission peak near the time of symptom onset, while the host antibody response peaks approximately 10 days later. Therefore, most transmission occurs well in advance of the appearance of a robust humoral response, suggesting limited intrahost immune evasion prior to transmission, consistent with direct genetic evidence from deep sequencing showing little to no positive selection. The current evolutionary rate (based primarily on neutral genetic drift) may underestimate the evolutionary potential of the virus to evade nAbs deployed as active immunity (vaccines) or passive immunity (nAb prophylactics).
+
+"When nAbs are broadly present in the population, population-level selection for antibody-evading, infection-competent viral mutants could potentially result in a rapid resurgence of SARS-CoV-2 infections." (https://www.medrxiv.org/content/10.1101/2020.11.17.20233726v2.full)
+
+As many variants of SARS-CoV-2 emerge and subsequently displace first-wave viruses, it is pivotal not only to appraise their relative transmissibility and virulence in causing coronavirus disease (COVID-19), but also their propensity to escape antibody neutralization.
+
+More important are variants harboring mutations that can affect the interaction of the viral spike receptor-binding domain (S RBD) with the viral receptor on host cells, angiotensin-converting enzyme 2 (ACE2), which provides an entry point for the coronavirus. Variants with a greater binding affinity for ACE2 are likely to spread more. Furthermore, transmissibility is linked to mortality, as an inevitable increase in infection rates caused by the novel variants will result in higher disease burden and death toll.
+
+However, these dire repercussions of more rapid and widespread infections can also be compounded by a loss of efficacy of currently available antibody-based treatments and vaccines and a decrease of protective immunity in individuals previously infected with a 1st wave' virus. - Mod.UBA]
+
+******
+[5] WHO: daily new cases reported (as of 20 Jan 2021)
+Date: Wed 20 Jan 2021
+Source: WHO [abridged, edited]
+https://covid19.who.int/table
+
+
+*Daily case reports as of 20 Jan 2021 17:53 CET
+
+Surveillance
+------------
+WHO region (no. countries/territories):
+Total confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+--------------------------------------------------------------------------------
+Western Pacific Region (19): 1 301 581 (11 088) / 22 621 (201)
+European Region (61): 31 157 396 (193 242) / 682 469 (6904)
+South East Asia Region (10): 12 537 911 (26 470) / 192 599 (511)
+Eastern Mediterranean Region (22): 5 408 924 (24 991) / 129 171 (473)
+Region of the Americas (54): 42 184 253 (221 369) / 969 089 (3819)
+African Region (49): 2 373 037 (19 046) / 54 895 (1025)
+Cases on an international conveyance (Diamond Princess): 745 (0) / 13 (0)
+
+Confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+Grand total: 94 963 847 (496 206) / 2 050 857 (12933)
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[The number of countries and territories reporting confirmed cases of COVID-19 to WHO remains 219.
+
+Data by country, area, or territory for 20 Jan 2021 can be accessed at https://promedmail.org/wp-content/uploads/world-pdf/2021%20WHO%20Daily%20Tables%20Jan%2020_1611241902.pdf.
+
+The total number of cases over the last 24 hours is just under 500 000, but it is too early to tell whether the major lockdowns in Europe and the Americas are impacting transmission.
+
+- The Americas region reported 44.6% of daily case numbers and 29.5% of the daily deaths reported in the past 24 hours and maintained its position as the most severely affected region, having reported more than 42.18 million cases. The United States remains the most heavily affected country, followed by Brazil, Colombia, Argentina, and Mexico. 7 additional countries reported more than 1000 cases in the past 24 hours (Canada, Peru, Chile, Dominican Republic, Bolivia, Panama, and Guatemala) and an additional 3 countries (Ecuador, Venezuela and Honduras) reported more than 500 but fewer than 1000 cases.
+
+- The European region reported 38.9% of daily case numbers and 53.4% of the daily deaths reported in the past 24 hours, and total cumulative cases reported exceed 31.15 million. Countries not reporting cases include Israel and Kazakhstan, among others. The UK maintains its dominance (albeit reduced), followed by France, Russia, Germany, Spain, Italy, and Portugal (reporting more than 10 000 cases). Another 15 countries reported more than 1000 cases, and an additional 8 countries reported more than 500 but fewer than 1000 cases.
+
+- The Eastern Mediterranean region reported 5.0% of daily case numbers and 3.7% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 5.40 million cases. Iran maintains its dominance, reporting just over 5900 cases, followed by Lebanon, UAE, Tunisia, Pakistan, and Morocco. Egypt, Iraq, Libya, Kuwait and the Palestinian Authority reported more than 500 but fewer than 1000 cases.
+
+- The African region reported 3.8% of daily case numbers and 7.9% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 2.37 million cases. South Africa maintains its dominance, with over 9000 cases, followed by Zambia and Nigeria. Malawi, Mozambique, Zimbabwe, and Lesotho reported more than 500 but fewer than 1000 cases.
+
+- The Western Pacific region reported 2.2% of daily case numbers and 1.5% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 1.30 million cases. Japan maintains its dominance, reporting just over 5000 cases, followed by Malaysia, Philippines, South Korea, and China.
+
+- The South East Asia region reported 5.3% of the daily newly reported cases and 3.9% of reported deaths in the past 24 hours, having reported a cumulative total of more than 12.53 million cases. India maintained dominance with over 10 000 cases followed by Indonesia, Bangladesh, Sri Lanka, Myanmar, Nepal, and Thailand.
+
+On the Overview tab at the WHO source URL, the epidemic curve of confirmed COVID-19 cases by WHO region, 30 Dec 2019 through 20 Jan 2021, is an excellent visual representation of the pandemic. - Mod.UBA]
+
+******
+[6] Global update: Worldometer accessed 20 Jan 2021 21:14 EST (GMT-5)
+Date: Wed 20 Jan 2021
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at https://promedmail.org/wp-content/uploads/world-pdf/2021%20WORLDDATAJAN20_1611242043.pdf.
+
+A 7-day series of cumulative data reported by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/2021%20JAN20WORLD7_1611242568.pdf. - Mod.UBA]
+
+Total number of reported deaths: 2 083 203
+Total number of worldwide cases: 97 305 356
+Number of newly confirmed cases in the past 24 hours: 683 897
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[In the past 24 hours, the USA (192 011), Brazil (64 126), Spain (41 576), and the UK (38 905) have reported the highest numbers of cases. A global total of 17 579 deaths were reported in the past 24 hours (late 19 Jan to late 20 Jan 2021).
+
+Countries reporting more than 10 000 newly confirmed cases in the past 24 hours (16 countries) include the USA, Brazil, Spain, UK, France (26 784), Russia (21 152), Mexico (20 548), Germany (18 688), Colombia (17 908), India (15 277), Portugal (14 647), Italy (13 568), South Africa (12 710), Indonesia (12 568), Argentina (12 112), and Israel (10 213). A total of 56 countries reported more than 1000 cases in the past 24 hours; 26 of the 56 countries that reported more than 1000 newly confirmed cases are from the European region, 15 are from the Americas region, 6 are from the Eastern Mediterranean region, 2 are from the South East Asia region, 3 are from the Western Pacific region, and 4 from the African region.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, case counts have decreased by 11.5%, while daily reported deaths have increased by 0.6%.
+
+Impression: The global daily reported cases are over 650 000 newly confirmed infections daily in the past 24 hours and over 97.3 million cumulative reported cases with over 2.08 million reported deaths. Countries in the European and the Americas regions are still showing the largest increases in daily new case counts, even in the face of decreasing reports. China has been reporting over 100 new cases per day for 10 out of the last 11 days. It is too early to tell whether the major lockdowns in Europe and the Americas are impacting transmission. - Mod.UBA]
+See Also
+COVID-19 update (25): long COVID, mask wearing, Brazil, WHO, global 20210120.8119004
+COVID-19 update (24): vaccine, new variant, WHO, global 20210119.8115933
+COVID-19 update (23): USA (CA) new variant, South Asia, WHO, global 20210118.8112752
+COVID-19 update (22): Russia (LN) St. Petersburg, animal, cat 20210117.8111937
+COVID-19 update (21): health systems, vaccines, variants, skin, WHO, global 20210117.8111215
+COVID-19 update (20): animal, deer, experimental infection 20210116.8108967
+COVID-19 update (10): IgA, IL-6 receptor agonists, China, WHO, global 20210109.8086465
+COVID-19 update (01): variants, vaccine, Thailand, global, WHO 20210101.8062938
+2020
+----
+COVID-19 update (562): viral load, UK vacc dose, ECDC, WHO 20201231.8061525
+COVID-19 update (561): variants, China serosurvey, psychosis, WHO 20201230.8057135
+COVID-19 update (560): variants, Thailand, viral shedding, WHO 20201229.8054081
+COVID-19 update (550): mutation, query, Thailand, Taiwan, WHO, global, RFI 20201223.8040292
+COVID-19 update (500): frequent rapid tests, vaccine, WHO, global 20201122.7962919
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+Undiagnosed pediatric inflammatory syndrome (05): Europe, USA, COVID-19 assoc 20200518.7340554
+Undiagnosed pediatric inflammatory syndrome (04): USA, UK, PMIS, fatal 20200509.7315405
+Undiagnosed pediatric inflammatory syndrome (03): USA, Europe, COVID-19 susp, RFI 20200505.7299876
+COVID-19 update (150): global, USA state prisons, WHO 20200502.7290671
+COVID-19 update (100): China, S. Korea & high local transmission countries 20200413.7217806
+COVID-19 update (50): China (Hong Kong) animal dog, 2nd case PCR positive, OIE 20200323.7129951
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (41): China, global, clinical pics, asymptomatic trans., WHO 20200210.6976117
+Novel coronavirus (40): animal reservoir, pangolin poss intermediate host, RFI 20200210.6972104
+Novel coronavirus (30): updates, China, Viet Nam, research 20200202.6945658
+Novel coronavirus (20): China, wildlife trade ban 20200127.6922060
+Novel coronavirus (10): China (HU, GD, BJ) 20200119.6898567
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia: China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia: China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+----
+Undiagnosed pneumonia: China (HU): RFI 20191230.6864153
+and other items in the archives
+.................................................sb/mpp/uba/mj/ao/mpp
+</body>

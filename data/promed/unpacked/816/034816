@@ -1,0 +1,158 @@
+<header id=034816>
+Published Date: 2004-03-13 18:50:00 EST
+Subject: PRO> Disease early warning system, climate and GIS-based
+Archive Number: 20040313.0699
+</header>
+<body id=034816>
+DISEASE EARLY WARNING SYSTEM, CLIMATE AND GIS-BASED
+*******************************
+A ProMED-mail post
+<http://www.promedmail.org>
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+<http://www.isid.org>
+
+Date: 12 Mar 2004
+From: Phil Temples <phil@promedmail.org>
+Source: Science@ NASA [edited]
+<http://science.nasa.gov/headlines/y2004/12mar_disease.htm?list962987>
+
+With the help of Earth-watching satellites, scientists can identify
+high-risk "hot spots" for deadly diseases before outbreaks strike.
+Last year more than a million people died of malaria, mostly in Sub-saharan
+Africa. Outbreaks of Dengue Fever, hantavirus, West Nile Fever, Rift Valley
+Fever, and even Plague still occasionally strike villages, towns, and whole
+regions.
+Yet these diseases are not without rhyme or reason. When an outbreak
+occurs, often it is because environmental conditions such as rainfall,
+temperatures, and vegetation set the stage for a population surge in
+disease-carrying pests. Mosquitoes or mice or ticks thrive, and the
+diseases they carry spread rapidly.
+So why not watch these environmental factors and warn when conditions are
+ripe for an outbreak? Scientists have been tantalized by this possibility
+ever since the idea was first expressed by the Russian epidemiologist E. N.
+Pavlovsky in the 1960s. Now technology and scientific know-how are catching
+up with the idea, and a region-wide early warning system for disease
+outbreaks appears to be within reach.
+Ronald Welch of NASA's Global Hydrology and Climate Center in Huntsville,
+Alabama, is one of the scientists working to develop such an early warning
+system. "I have been to malarious areas in both Guatemala and India," he
+says. "Usually I am struck by the poverty in these areas, at a level rarely
+seen in the United States. The people are warm and friendly, and they are
+appreciative, knowing that we are there to help. It feels very good to know
+that you are contributing to the relief of sickness and preventing death,
+especially the children."
+The approach employed by Welch and others combines data from high-tech
+environmental satellites with old-fashioned, "khaki shorts and dusty boots"
+fieldwork. Scientists actually seek out and visit places with disease
+outbreaks. Then they scrutinize satellite images to learn how
+disease-friendly conditions look from space. The satellites can then watch
+for those conditions over an entire region, country, or even continent as
+they silently slide across the sky once a day, every day.
+In India, for example, where Welch is doing research, health officials are
+talking about setting up a satellite-based malaria early warning system for
+the whole country. In coordination with mathematician Jia Li of the
+University of Alabama at Huntsville and India's Malaria Research Center,
+Welch is hoping to do a pilot study in Mewat, a predominantly rural area of
+India south of New Delhi. The area is home to more than 700,000 people
+living in 491 villages and 5 towns, yet is only about two-thirds the size
+of Rhode Island.
+"We expect to be able to give warnings of high disease risk for a given
+village or area up to a month in advance," Welch says. "These 'red flags'
+will let health officials focus their vaccination programs, mosquito
+spraying, and other disease-fighting efforts in the areas that need them
+most, perhaps preventing an outbreak before it happens."
+Outbreaks are caused by a bewildering variety of factors.
+For the mosquito species that carries malaria in Welch's study area, for
+example, an outbreak hotspot would have pools of stagnant water where adult
+mosquitoes can deposit their eggs to mature into new adults. These could be
+lingering puddles on dense, clay-like soil after heavy rains, swamplands
+located nearby, or even rain-filled buckets habitually left outside by
+villagers. A malaria hotspot would be warmer than 18°C, because in colder
+weather, the single-celled "plasmodium" parasite that actually causes
+malaria operates too slowly to go through its infection cycle before the
+host mosquito dies. But the weather mustn't be too hot, or the mosquitoes
+would have to hide in the shade. The humidity must hover in the 55% to 75%
+range that these mosquitoes require for survival. Preferably there would be
+cattle or other livestock within the mosquitoes' 1 km flight range, because
+these pests actually prefer to feed on the blood of animals.
+If all of these conditions coincide, watch out!
+Documenting some of these factors, such as soil type and local
+bucket-leaving habits, requires initial groundwork by researchers in the
+field, Welch notes. This information is plugged into a computerized mapping
+system called a Geographical Information Systems database (GIS). Fieldwork
+is also required to characterize how the local species of mosquito behaves.
+Does it bite people indoors or outdoors or both? Other factors, like the
+locations of cattle pastures and human dwellings, are inputted into the GIS
+map based on ultra-high resolution satellite images from commercial
+satellites like Ikonos and QuickBird, which can spot objects on the ground
+as small as 80 cm across. Then region-wide variables like temperature,
+rainfall, vegetation types, and soil moisture are derived from
+medium-resolution satellite data, such as from Landsat 7 or the MODIS
+sensor on NASA's Terra satellite. (MODIS stands for MODerate-resolution
+Imaging Spectrometer.)
+Scientists feed all of this information into a computer simulation that
+runs on top of a digital map of the landscape. Sophisticated mathematical
+algorithms chew on all these factors and spit out an estimate of outbreak risk.
+The basic soundness of this approach for estimating disease risk has been
+borne out by previous studies. A group from the University of Nevada and
+the Desert Research Institute were able to "predict" historical rates of
+deer-mouse infection by the Sin Nombre virus with up to 80% accuracy, based
+only on vegetation type and density, elevation and slope of the land, and
+hydrologic features, all derived from satellite data and GIS maps. A joint
+NASA Ames / University of California at Davis study achieved a 90% success
+rate in identifying which rice fields in central California would breed
+large numbers of mosquitoes and which would breed fewer, based on Landsat
+data. Another Ames project predicted 79% of the high-mosquito villages in
+the Chiapas region of Mexico based on landscape features seen in satellite
+images.
+Perfect predictions will likely never be possible. Like weather, the
+phenomenon of human disease is too complicated. But these encouraging
+results suggest that reasonably accurate risk estimates can be achieved by
+combining old-fashioned fieldwork with the newest in satellite technologies.
+"All of the necessary pieces of the puzzle are there," Welch says, offering
+the hope that soon disease outbreaks that seem to come "from out of
+nowhere" will catch people off guard much less often.
+[By: Patrick L. Barry]
+--
+ProMED-mail
+<promed@promedmail.org>
+[Prior ProMED-mail postings on disease surveillance have focused on early
+recognition of new disease introductions as part of both bioterrorism
+preparedness as well as monitoring for new emerging infectious
+diseases. The above project is an interesting approach to predicting known
+diseases such as vector borne diseases using GIS technology and known "risk
+factors". We look forward to hearing information from the practical
+application of this technology. - Mod.MPP]
+See Also
+2003
+-----
+Disease surveillance: enhancement - USA 20030128.0254
+2002
+-----
+Disease surveillance: enhancement (03) 20021107.5740
+Disease surveillance: enhancement (02) 20020708.4696
+Disease surveillance: enhancement 20020128.3424
+.......................mpp
+
+*##########################################################*
+ProMED-mail makes every effort to verify the reports that
+are posted, but the accuracy and completeness of the
+information, and of any statements or opinions based
+thereon, are not guaranteed. The reader assumes all risks in
+using information posted or archived by ProMED-mail. ISID
+and its associated service providers shall not be held
+responsible for errors or omissions or held liable for any
+damages incurred as a result of use or reliance upon posted
+or archived material.
+************************************************************
+Visit ProMED-mail's web site at <http://www.promedmail.org>.
+Send all items for posting to: promed@promedmail.org
+(NOT to an individual moderator). If you do not give your
+full name and affiliation, it may not be posted. Send
+commands to subscribe/unsubscribe, get archives, help,
+etc. to: majordomo@promedmail.org. For assistance from a
+human being send mail to: owner-promed@promedmail.org.
+############################################################
+############################################################
+</body>

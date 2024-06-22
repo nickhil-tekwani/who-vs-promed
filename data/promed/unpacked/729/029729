@@ -1,0 +1,231 @@
+<header id=029729>
+Published Date: 2020-10-20 03:47:33 EDT
+Subject: PRO/AH/EDR> COVID-19 update (446): ADE, New Zealand lessons, WHO, global
+Archive Number: 20201020.7874953
+</header>
+<body id=029729>
+CORONAVIRUS DISEASE 2019 UPDATE (444): ANTIBODY-DEPENDENT ENHANCEMENT, LESSONS FROM NEW ZEALAND, WHO, GLOBAL
+************************************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] Antibody-dependent enhancement
+[2] New Zealand lessons
+[3] WHO: daily new cases reported (as of 19 Oct 2020)
+[4] Global update: Worldometer accessed 19 Oct 2020 21:54 EDT (GMT-4)
+
+******
+[1] Antibody-dependent enhancement
+Date: Thu 15 Oct 2020
+Source: South China Morning Post [abridged, edited]
+https://www.scmp.com/news/china/science/article/3105535/antibodies-may-actually-help-coronavirus-invade-cells-some-cases
+
+
+Antibodies are produced by the immune system to fight foreign invaders like the coronavirus, but a new study in China suggests they could make the infection worse in some cases. Researchers at Fudan University in Shanghai found that some of the 222 patients in their study had specific antibodies that could actually help the coronavirus invade their immune cells. They were present in 8 per cent of those with mild symptoms, and 76 per cent of those who had recovered from severe illness.
+
+The problem is known as antibody-dependent enhancement, or ADE, and it has been seen before with infections caused by other viruses such as Zika, dengue fever, and severe acute respiratory syndrome. It has also hampered drug and vaccine development for these viruses. The "potential for such ADE responses is of concern for SARS-CoV-2 in the use of convalescent plasma or antibodies as a treatment", said the team led by Huang Jinghe in a non-peer-reviewed paper posted on preprint site medRxiv on Tuesday [13 Oct 2020].
+
+Their findings came the same day American drug maker Eli Lilly halted its clinical trial of an antibody treatment for COVID-19 because of a "potential safety concern". The government-sponsored phase 3 trial involves hundreds of patients, and US health authorities said their "clinical status" had crossed a predetermined threshold for safety. Eli Lilly did not immediately respond to a request for comment on the Chinese study.
+
+Earlier this month [October 2020], US President Donald Trump touted an experimental coronavirus antibody treatment from Regeneron that he claimed cured his infection. He was given an unusually high dose of the antibody cocktail and his doctors said his symptoms quickly disappeared after he received it.
+
+While antibodies can neutralise an attacker, the fork-shaped molecules can sometimes be used by a virus to enter human cells. Huang's team found this ADE phenomenon tended to occur when the level of antibodies in the blood was relatively low. In patients with a large amount of antibodies, they did their job of neutralising the virus.
+
+The researchers also identified what they called a high-risk antibody called 7F3 that is found in COVID-19 patients. They said after it binds with the coronavirus, it can cause the viral envelope and cell membrane to "fuse" through a receptor known as Fc on the immune cells. A similar mechanism was observed in some antibodies against MERS, or Middle East respiratory syndrome.
+
+They urged vaccine developers to assess whether their experimental shots could cause the immune system to produce an antibody like 7F3. The researchers also noted that there were likely to be other antibodies connected to ADE that had not been identified.
+
+There are more than 100 vaccines in development around the world, according to the World Health Organization, and 2 clinical trials have been postponed recently out of safety concerns. One of those has since restarted in Europe, but the other remains suspended in the United States for unspecified reasons. China and Russia have already given approval to vaccines for emergency use before they completed human trials, and hundreds of thousands of people considered high risk have been immunised outside those trials.
+
+Doctors have reported the negative effects of antibodies in some severely ill COVID-19 patients, whose condition rapidly worsened after their immune system started producing antibodies to fight off the virus. Huang's team said vaccine candidates capable of inducing neutralising antibodies should also be assessed for their risk of inducing ADE. "A vaccine that can induce high titres of neutralising antibodies [without the ADE effect] should be safer than one inducing low titres," the researchers said, referring to the concentration of antibodies in the blood.
+
+They also said safety concerns should be addressed before mass vaccination programmes began.
+
+[Byline: Stephen Chen]
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The article referred to is: Wu F, Yan R, Liu M, et al. Antibody-dependent enhancement (ADE) of SARS-CoV-2 infection in recovered COVID-19 patients: studies based on cellular and structural biology analysis. Posted 13 Oct 2020. https://doi.org/10.1101/2020.10.08.20209114
+--------------------------------------------------------------------------------
+"Abstract
+---------
+"Antibody-dependent enhancement (ADE) has been reported in several virus infections including dengue fever virus, severe acute respiratory syndrome (SARS), and Middle East respiratory syndrome (MERS) coronavirus infection. To study whether ADE is involved in COVID-19 infections, in vitro pseudotyped SARS-CoV-2 entry into Raji cells, K562 cells, and primary B cells mediated by plasma from recovered COVID-19 patients were employed as models. The enhancement of SARS-CoV-2 entry into cells was more commonly detected in plasma from severely-affected elderly patients with high titers of SARS-CoV-2 spike protein-specific antibodies. Cellular entry was mediated via the engagement of Fc-gamma-RII receptor through virus-cell membrane fusion, but not by endocytosis. Peptide array scanning analyses showed that antibodies which promote SARS-CoV-2 infection targeted the variable regions of the RBD [receptor-binding domain]. To further characterize the association between the spike-specific antibody and ADE, an RBD-specific monoclonal antibody (7F3) was isolated from a recovered patient, which potently inhibited SARS-Cov-2 infection of ACE-2 expressing cells and also mediated ADE in Raji cells. Site-directed mutagenesis the spike RBD domain reduced the neutralization activity of 7F3 but did not abolish its binding to the RBD domain. Structural analysis using cryo-electron microscopy (Cryo-EM) revealed that 7F3 binds to spike proteins at a shift-angled pattern with one up and 2 down RBDs, resulting in partial overlapping with the receptor binding motif (RBM), while a neutralizing monoclonal antibody that lacked ADE activity binds to spike proteins with 3 up RBDs, resulting in complete overlapping with RBM. Our results revealed that ADE mediated by SARS-CoV-2 spike-specific antibodies could result from binding to the receptor in slightly different pattern from antibodies mediating neutralizations. Studies on ADE using antibodies from recovered patients via cell biology and structural biology technology could be of use for developing novel therapeutic and preventive measures for control of COVID-19 infection."
+
+A good description of antibody dependent enhancement can be found at, Tirado SM, Yoon KJ. Antibody-dependent enhancement of virus infection and disease. Viral Immunol. 2003; 16(1):69-86. https://www.liebertpub.com/doi/10.1089/088282403763635465
+--------------------------------------------------------------------------------
+"Abstract
+---------
+In general, virus-specific antibodies are considered antiviral and play an important role in the control of virus infections in a number of ways. However, in some instances, the presence of specific antibodies can be beneficial to the virus. This activity is known as antibody-dependent enhancement (ADE) of virus infection. The ADE of virus infection is a phenomenon in which virus-specific antibodies enhance the entry of virus and in some cases the replication of virus, into monocytes/macrophages and granulocytic cells through interaction with Fc and/or complement receptors. This phenomenon has been reported in vitro and in vivo for viruses representing numerous families and genera of public health and veterinary importance. These viruses share some common features such as preferential replication in macrophages, ability to establish persistence, and antigenic diversity. For some viruses, ADE of infection has become a great concern to disease control by vaccination. Consequently, numerous approaches have been made to the development of vaccines with minimum or no risk for ADE. Identification of viral epitopes associated with ADE or neutralization is important for this purpose. In addition, clear understanding of the cellular events after virus entry through ADE has become crucial for developing efficient intervention. However, the mechanisms of ADE still remain to be better understood."
+
+A recent example of suspected ADE following vaccination was seen with the dengue vaccine in the Philippines where virus naive children who received the vaccine had more severe disease when exposed to the dengue virus, behaving as "natural" 2nd infections leading to dengue hemorrhagic fever and dengue shock syndrome in these children.
+
+This paper suggests that ADE may be one component of severe disease seen with SARS-CoV-2 infection, and if so would present a potential problem with a vaccine that needs to be addressed. - Mod.MPP]
+
+******
+[2] New Zealand Lessons
+Date: Tue 13 Oct 2020
+Source: The Lancet Public Health [edited]
+https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(20)30237-1/fulltext
+
+
+ref: Robert A. Lessons from New Zealand's COVID-19 outbreak response. Lancet Public Health. 2020: S2468-2667(20)30237-1. doi: 10.1016/S2468-2667(20)30237-1. Epub ahead of print. PMID: 33065024
+----------------------------------------------------------------------------------------
+In the absence of a vaccine for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), or of highly effective pharmaceutical treatments for COVID-19, countries have implemented a large range of non-pharmaceutical interventions to control the spread of the virus. /1 These interventions differ in their level of stringency (that is, the severity of the measures) and their ultimate objective (such as prevent health systems being overwhelmed, suppress incidence to low levels, or reduce incidence to zero and keep it there). With many countries facing epidemic resurgence, evaluating the impact of different strategies implemented in the early phases of the pandemic is crucial for developing an effective long-term response.
+
+New Zealand adopted a set of non-pharmaceutical interventions aiming to bring COVID-19 incidence to zero. /2 In The Lancet Public Health, Sarah Jefferies and colleagues /3 [see ref below] describe the impact of New Zealand's national response on the transmission of COVID-19 using 2 detailed sets of data: (1) the features of 1503 laboratory-confirmed and probable cases and (2) the list of all patients tested for SARS-CoV-2 in New Zealand between [2 Feb 2020] and [13 May 2020]. The authors showed that many transmission chains started from younger imported cases, with a total of 575 imported cases and 459 import-related cases, and reached more vulnerable parts of the local population further down the chain (such as residents of residential care facilities). Locally acquired cases were older, came from lower socioeconomic backgrounds, and were more likely to be associated with severe outcomes than imported cases (crude odds ratio 2.32, 95% CI 1.40-3.82). The authors highlight that transmission chains were spread out across the country, with the highest incidence in popular tourist areas, and large transmission events such as weddings led to transmission chains containing multiple age groups. Similar dynamics have been reported elsewhere --for example, in Europe where young adults were infected upon visiting ski resorts and returned with the infection to their countries. /4 The reconstruction of detailed epidemiological links is paramount to improve understanding of the spread of SARS-CoV-2 and keep close surveillance on settings with high risk of transmission. /5
+
+Identifying transmission chains before they spill over into vulnerable populations relies on detecting new importations, finding existing transmission chains through widespread testing and contact tracing, and isolating new cases and quarantining their contacts. Jefferies and colleagues highlight that this was achieved in New Zealand thanks to the rapid improvements in testing capacity and case management: by late April [2020], the time from onset of symptoms to notification had been reduced from 9.7 days (95% uncertainty interval 8.8 to 10.7) to 1.7 days (1.2 to 2.2), and the time from onset to isolation from 7.2 days (6.3 to 8.2) to -2.7 days (-4.7 to -0.8), meaning that people were isolating an average of 2.7 days before illness onset. Therefore, cases were isolated from the community promptly, reducing the risk of onwards local transmission. From mid-April [2020] onwards, higher-risk groups were targeted for tests by population testing surveys to avoid undetected circulation of the virus. Nevertheless, the authors report only 25 asymptomatic infections in the dataset, which corresponds to 1.7% of all cases. This is much lower than the commonly reported proportion of asymptomatic infections in COVID-19 outbreaks, which varies between 20% and 40%. /6 This finding suggests that many asymptomatic individuals remained undetected despite targeted testing of groups less likely to show symptoms in the late phases of New Zealand's epidemic. Comparing setting-specific serosurveys and surveillance data could reveal the profile of infections that New Zealand's surveillance system struggled to identify, thus highlighting an area for improvement in the infection detection process. This could also indicate whether the detection of asymptomatic infections should be a priority, as recent genomic epidemiology studies suggest many introductions did not result in transmission chains, /7 which might be linked to a lower infectiousness of asymptomatic individuals.
+
+The lockdown implemented in New Zealand was remarkable for its stringency and its brevity: Jefferies and colleagues show that the daily number of cases dropped below ten in mid-April [2020], less than a month after the 1st increase in New Zealand's Alert Level. /8 Furthermore, although most of the cases reported by mid-March [2020] were imported, almost no further importation was observed 2 weeks after the implementation of the 1st travel bans and isolation orders: imported cases represented 58% (95% CI 53-62) of the cases before [15 Mar 2020] but just 38% (36-41) of the total. Control of importations and local transmission in New Zealand was achieved with stringent non-pharmaceutical interventions implemented rapidly when infection numbers were low: the Alert Level escalated from 1 to 4 in 5 days, when the number of cases had just passed 1000. Such stringent measures do not always result in a rapid drop of cases: the lockdown implemented in Melbourne on [5 Aug 2020], shows that it can take months before incidence is brought to minimal levels, with measures kept in place until late September. Long-lasting lockdowns also cause major economic disruption, deterioration of mental health in the population, /9, and other indirect health consequences, /10 ultimately decreasing population compliance. As other high-income countries have reported an increasing number of cases since August 2020, the experience of New Zealand highlights that successful non-pharmaceutical interventions rely on early decisive reactions from health authorities, performant surveillance systems, and targeted testing strategies as much as stringency.
+
+[References can be found at the source URL above.- Mod.MPP]
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The article discussed in the commentary is:
+Jefferies S, French N, Gilkison C, et al. COVID-19 in New Zealand and the impact of the national response: a descriptive epidemiological study. Lancet Public Health. 2020; S2468-2667(20)30225-5. doi: 10.1016/S2468-2667(20)30225-5. Epub ahead of print. https://pubmed.ncbi.nlm.nih.gov/33065023/
+--------------------------------------------------------------------------------
+"Summary
+--------
+"Background
+"In early 2020, during the COVID-19 pandemic, New Zealand implemented graduated, risk-informed national COVID-19 suppression measures aimed at disease elimination. We investigated their impacts on the epidemiology of the 1st wave of COVID-19 in the country and response performance measures.
+
+"Methods
+"We did a descriptive epidemiological study of all laboratory-confirmed and probable cases of COVID-19 and all patients tested for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in New Zealand from [2 Feb 2020] to [13 May 2020], after which time community transmission ceased. We extracted data from the national notifiable diseases database and the national SARS-CoV-2 test results repository. Demographic features and disease outcomes, transmission patterns (source of infection, outbreaks, household transmission), time-to-event intervals, and testing coverage were described over 5 phases of the response, capturing different levels of non-pharmaceutical interventions. Risk factors for severe outcomes (hospitalisation or death) were examined with multivariable logistic regression and time-to-event intervals were analysed by fitting parametric distributions using maximum likelihood estimation.
+
+"Findings
+"1503 cases were detected over the study period, including 95 (6.3%) hospital admissions and 22 (1.5%) COVID-19 deaths. The estimated case infection rate per million people per day peaked at 8.5 (95% CI 7.6-9.4) during the 10-day period of rapid response escalation, declining to 3.2 (2.8-3.7) in the start of lockdown and progressively thereafter. 1034 (69%) cases were imported or import related, tending to be younger adults, of European ethnicity, and of higher socioeconomic status. 702 (47%) cases were linked to 34 outbreaks. Severe outcomes were associated with locally acquired infection (crude odds ratio [OR] 2.32 [95% CI 1.40-3.82] compared with imported), older age (adjusted OR ranging from 2.72 [1.40-5.30] for 50-64-year-olds to 8.25 [2.59-26.31] for people aged 80 years and older compared with 20-34-year-olds), aged residential care residency (adjusted OR 3.86 [1.59-9.35]), and Pacific peoples (adjusted OR 2.76 [1.14-6.68]) and Asian (2.15 [1.10-4.20]) ethnicities relative to European or other. Times from illness onset to notification and isolation progressively decreased and testing increased over the study period, with few disparities and increasing coverage of females, Maori, Pacific peoples, and lower socioeconomic groups.
+
+"Interpretation
+"New Zealand's response resulted in low relative burden of disease, low levels of population disease disparities, and the initial achievement of COVID-19 elimination."
+
+New Zealand, Taiwan, South Korea, and China have all been discussed as success stories -- all similarly aiming at what has recently been referred to as "cluster busting". A strategy that relies upon NPIs (non-pharmaceutical interventions -- mask wearing, social distancing, and handwashing) combined with limited lockdowns for short periods when indicated. New Zealand and Taiwan are Island nations so borders aren't as easily crossed, whereas South Korea is a peninsula attached to the mainland and China is a large diverse country with a population estimated to be over 1.4 billion.
+
+The commentary accompanying the article rightly points out the probable under-capturing of asymptomatic infections and the recent cluster outbreak in August 2020 that began from an unidentified source may well be a result of under-capturing asymptomatic infections (see archives 20200812.7668934 and 20200814.7676661). The resultant decrease in identification of new infections and time to isolation is impressive and clearly enhanced the efficacy of the control measures. There are lessons to be learned by other countries and local areas on strategies that might be implemented. New York State in the USA is taking that approach. We await results... - Mod.MPP].
+
+******
+[3] WHO: daily new cases reported (as of 19 Oct 2020)
+Date: Mon 19 Oct 2020
+Source: WHO [abridged, edited]
+https://covid19.who.int/table
+
+
+*Daily case reports as of 19 Oct 2020 14:01 CEST
+
+Surveillance
+------------
+WHO region (no. countries/territories):
+Total confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+------------------------
+Western Pacific Region (19): 683 958 (3800) / 14 789 (60)
+European Region (61): 8 027 954 (128 910) / 256 540 (923)
+South East Asia Region (10): 8 489 775 (65 295) / 134 509 (728)
+Eastern Mediterranean Region (22): 2 768 846 (19 240) / 70 339 (518)
+Region of the Americas (54): 18 709 984 (116 419) / 607 396 (2228)
+African Region (49): 1 263 624 (4432) / 28 412 (99)
+Cases on an international conveyance (Diamond Princess): 741 (0) / 13 (0)
+
+Confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+Grand total: 39 944 882 (338 096) / 1 111 998 (4556)
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The number of countries and territories reporting confirmed cases of COVID-19 to WHO remains at 216. Weekend decreased reporting continues seen by countries not reporting cases or reported daily numbers significantly reduced.
+
+Data by country, area, or territory for 19 Oct 2020 can be accessed at https://promedmail.org/wp-content/uploads/world-pdf/WHO%20daily%20tablesOct19_1603130239.pdf.
+
+- The Americas region reported 34.4% of daily case numbers and 48.9% of the daily deaths reported in the past 24 hours, maintaining its position as the most severely affected region, having reported more than 18.7 million cases. The USA maintains its dominance, followed by Brazil, Argentina, Colombia, Mexico, Peru, and Canada. Other countries reporting more than 1000 cases in the past 24 hours include Chile and Costa Rica.
+
+- The European region reported 38.1% of daily case numbers and 20.3% of the daily deaths reported in the past 24 hours, and total cumulative cases reported exceed 8.0 million. Countries not reporting cases today (19 Oct 2020) include Spain, Israel, Belgium, Kazakhstan, Sweden, and Switzerland. France is dominant, followed by the UK, Russia, Italy, Poland, Netherlands, Czech Republic, Ukraine, Germany, Romania. Other countries reporting more than 1000 cases in the past 24 hours include Portugal, Turkey, Slovakia, Hungary, Ireland, Georgia, and Austria.
+
+- The Eastern Mediterranean region reported 5.7% of daily case numbers and 11.4% of the deaths reported in the past 24 hours, having reported a cumulative total of greater than 2.7 million cases. Iran is dominant, followed by Iraq, Morocco, Oman, Jordan, UAE, Pakistan, and Lebanon. Libya and Kuwait each reported more than 500 cases but fewer than 1000 while Tunisia, Sudan, and Somalia did not report any cases in the last 24 hours.
+
+- The African region reported 1.3% of daily case numbers and 2.2% of the deaths reported in the past 24 hours and has reported more than 1.26 million cases. South Africa is dominant, followed by Ethiopia, Kenya, Algeria, Angola, Mozambique, Uganda, Nigeria, and Cabo Verde.
+
+- The Western Pacific region reported 1.1% of daily case numbers and 1.3% of the deaths reported in the past 24 hours, having reported a cumulative total of 0.68 million cases. As previously, the Philippines maintains its dominance, followed by Malaysia, Japan, South Korea, Guam, and China.
+
+- The South East Asia region reported 19.3% of the daily newly reported cases and 16.0% of reported deaths in the past 24 hours, having reported a cumulative total of more than 8.4 million cases. As previously, India remains dominant, followed by Indonesia, Nepal, Bangladesh, Myanmar, Sri Lanka, and the Maldives.
+
+Impression: Unchanged from previous days.
+
+On the Overview tab at the WHO source URL, the epidemic curve of confirmed COVID-19 cases by WHO region, 30 Dec 2019 through 19 Oct 2020, is an excellent visual representation of the pandemic. - Mod.MPP]
+
+******
+[4] Global update: Worldometer accessed 19 Oct 2020 21:54 EDT (GMT-4)
+Date: Mon 19 Oct 2020
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at https://promedmail.org/wp-content/uploads/world-pdf/OCT19DATASET_1603162513.pdf.
+
+A 7-day series of cumulative data reported by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/OCT19WORLD7_1603162561.pdf. - Mod.MPP]
+
+Total number of reported deaths: 1 122 932
+Total number of worldwide cases: 40 639 083
+Number of newly confirmed cases in the past 24 hours: 360 876
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[India and the USA are still the most severely affected countries in terms of cumulative case counts and daily new case confirmations, with India in the 2nd position in terms of cumulative case counts. In the past 24 hours, the USA (68 854) India (46 498) followed by have maintained their dominance. A global total of 4611 deaths were reported in the past 24 hours (18-19 Oct 2020).
+
+Countries reporting more than 5000 newly confirmed cases in the past 24 hours (15 countries) include USA, India, Spain (33 072), UK (18 803), Russia (15 982), Brazil (15 783), France (13 243), Argentina (12 982), Italy (9337), Switzerland (8737), Czech Republic (8077), Netherlands (7992), Poland (7482), Germany (6750), and Colombia (6311). A total of 42 countries have reported more than 1000 cases in the past 24 hours; 20 of the 42 countries reporting more than 1000 newly confirmed cases are from the European region, 9 were from the Americas region, 6 were from the Eastern Mediterranean region and 5 were from the Southeast Asian region.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, there is an increase in case counts by 11.3%, while daily reported deaths have decreased by 4.6%.
+
+Impression: Global 7-day averages continue to increase with countries in the European region and the Americas region showing the largest increases in daily new cases counts, followed by the Eastern Mediterranean and the South East Asia regions. The USA has increased in 7-day average daily reported cases in the past week compared with the preceding week by 17.0%, and increased deaths by 4.7% reflecting the increased transmission ongoing since the end of the summer. - Mod.MPP]
+See Also
+COVID-19 update (445): animal, Netherlands, Denmark, mink, spread, epidemiology 20201019.7873326
+COVID-19 update (444): early treatment, herd immunity, USA rally WHO, global 20201019.7872083
+COVID-19 update (443): cytokine storm, mortality comparison, WHO, global 20201018.7870550
+COVID-19 update (442): immunity duration, Switzerland yodeling, WHO, global 20201017.7868576
+COVID-19 update (441): New Zealand influenza, Canada gym, WHO, global 20201016.7865791
+COVID-19 update (440): children, RNA vaccines, WHO, global 20201015.7863738
+COVID-19 update (431): saliva antibodies, remdesivir, WHO, global 20201009.7847920
+COVID-19 update (430): animal, USA (UT) mink 20201009.7847704
+COVID-19 update (420): ECMO, USA serosurvey, WHO, global 20200930.7824510
+COVID-19 update (410): ACE inhibitors and ARBs, WHO COVAX plan, WHO, global 20200922.7801717
+COVID-19 update (400): lockdowns, influenza co-infections WHO, global 20200914.7776512
+COVID-19 update (350): USA (TX) animal, cat 20200808.7658191
+COVID-19 update (300): Korea antibodies, China asymptomatic index case, WHO 20200703.7536146
+COVID-19 update (250): selected countries 20200610.7448037
+COVID-19 update (200): global, Yemen, WHO 20200522.7364937
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+Undiagnosed pediatric inflammatory syndrome (05): Europe, USA, COVID-19 assoc 20200518.7340554
+Undiagnosed pediatric inflammatory syndrome (04): USA, UK, PMIS, fatal 20200509.7315405
+Undiagnosed pediatric inflammatory syndrome (03): USA, Europe, COVID-19 susp, RFI 20200505.7299876
+COVID-19 update (150): global, USA state prisons, WHO 20200502.7290671
+COVID-19 update (100): China, S. Korea & high local transmission countries 20200413.7217806
+COVID-19 update (50): China (Hong Kong) animal dog, 2nd case PCR positive, OIE 20200323.7129951
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (41): China, global, clinical pics, asymptomatic trans., WHO 20200210.6976117
+Novel coronavirus (40): animal reservoir, pangolin poss intermediate host, RFI 20200210.6972104
+Novel coronavirus (30): updates, China, Viet Nam, research 20200202.6945658
+Novel coronavirus (20): China, wildlife trade ban 20200127.6922060
+Novel coronavirus (10): China (HU, GD, BJ) 20200119.6898567
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia: China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia: China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+----
+Undiagnosed pneumonia: China (HU): RFI 20191230.6864153
+and other items in the archives
+.................................................sb/jh/mpp/mj/lxl
+</body>

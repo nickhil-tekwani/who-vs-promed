@@ -1,0 +1,335 @@
+<header id=018752>
+Published Date: 2022-03-10 21:33:18 EST
+Subject: PRO/AH/EDR> COVID-19 update (69): blood grp., host genetic var., mental decline, dexam., WHO
+Archive Number: 20220311.8701920
+</header>
+<body id=018752>
+CORONAVIRUS DISEASE 2019 UPDATE (69): BLOOD GROUP, HOST GENETIC VARIATION, MENTAL DECLINE, DEXAMETHASONE, WHO
+*************************************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] Blood group
+[2] Host genetic variation
+[3] Mental decline
+[4] Dexamethasone
+[5] WHO: Daily new cases reported (as of 09 Mar 2022)
+[6] Global update: Worldometer accessed 09 Mar 2022 22:07 EST (GMT-5)
+
+******
+[1] Blood group
+Date: Wed 9 Mar 2022
+Source: Medical News Today [abridged, edited]
+https://www.medicalnewstoday.com/articles/covid-19-severity-blood-group-may-influence-risk
+
+
+- Recent research has identified a causal link between specific blood proteins and the risk of hospitalization, the need for respiratory support, or the risk of death from severe COVID-19.
+- While certain blood proteins were associated with an increased risk of severe COVID-19, others were protective.
+- Confirming the findings and exploring their clinical applicability will require further research.
+
+Often, people with severe COVID-19 require hospitalization with intensive care and ventilation. Although this has not been conclusively proven, scientists believe that an overactive and abnormal immune response to SARS-CoV-2 may be responsible for the damage seen in severe COVID-19.
+
+Genetics influence the response of the innate immune system. And so, genetic differences may help explain why some people are more likely to develop severe COVID-19.
+
+Previous research has identified relationships between different genetic factors, hospitalization, and the need for ventilation due to COVID-19. [COVID-19 Host Genetics Initiative. Mapping the human genetic architecture of COVID-19. Nature 600, 472-477 (2021). https://doi.org/10.1038/s41586-021-03767-x]
+
+Other studies have shown genetic variations between blood proteins modulating the immune response in healthy individuals.
+
+This lead the authors of the new study to turn to data from genome-wide association studies. They looked for blood proteins associated with the risk of hospitalization, the need for respiratory support, and death from severe COVID-19. The team has published its results in the journalPLOS Genetics. [Palmos AB, Millischer V, Menon DK, et al., Proteome-wide Mendelian randomization identifies causal links between blood proteins and severe COVID-19. PLoS Genetics. Published: 3 March 2022 https://doi.org/10.1371/journal.pgen.1010042]
+
+Study co-author Dr. Alish Palmos, from the Social, Genetic, and Developmental Psychiatry Research Centre at King's College London, explained to Medical News Today that the researchers looked at thousands of proteins using Mendelian randomization.
+
+"Mendelian randomization uses genetic variants associated with a trait, i.e., protein level, and measures their causal effect on disease outcomes, [avoiding] environmental confounding factors, such as lifestyle, being physically ill, etc."
+
+After examining more than 3000 blood proteins using a genetic tool, they found 14 proteins with causal effects, including the:
+- blood group proteins ABO and KEL
+- antigen recognition proteins CD207 and SFTPD, structures on the surface of the virus identified by the immune system
+- adhesion molecules SELL, SELE, PECAM-1, and sICAM-1, which recruit virus-killing white blood cells called neutrophils to the site of inflammation
+- transporters RAB14 and ATP2A3, which are proteins that move materials across a cell membrane
+- enzymes GCNT4, C1GALT1C1, FAAH2, LCTL, which are proteins that speed up chemical reactions in a cell.
+
+The researchers found that increased levels of ABO, C1GALT1C1, CD207, GCNT4, and RAB14 were associated with a 1.12 to 1.35 times greater risk of hospitalization, need for respiratory support, or death from COVID-19.
+
+Higher levels of FAAH2 indicated a 1.19 times increased risk of hospitalization only.
+
+Higher levels of the adhesion molecules PECAM-1, SELE, and SELL decreased the risk of hospitalization, need for respiratory support, or death from COVID-19 by 9-20%.
+
+Increased ATP2A3, KEL, LCTL, and SFTPD were linked to decreased hospitalization risk, while higher levels of sICAM-1 were associated with a reduced risk of death or need for respiratory support.
+
+Dr. Fady Youssef, a pulmonologist, internist, and critical care specialist at Memorial Care Long Beach Medical Center, provided context for MNT: "This study offers some [ideas] about ways that we can [...] better predict which patients will have a worse [...] course and which patients are [...] protected based on their genetics."
+
+Dr. Palmos was surprised that the study did not show an association between "classic pro-inflammatory proteins," such as C-reactive protein or interleukin-6, and severe COVID-19. "It was also surprising to see such a consistent protective effect of adhesion molecules with severe COVID-19."
+
+The strengths of the study included its design and use of Mendelian randomization. Weaknesses include the reliance on data from other studies, which could be subject to error despite quality control measures.
+
+Dr. Palmos stated, "Clinical studies in patients would need to be carried out first to confirm our findings. One such study is the COVID-Clinical Neuroscience Study, which is investigating the causes behind different aspects of COVID-19." [https://www.liverpool.ac.uk/covid-clinical-neuroscience-study/]
+
+Dr. Youssef told MNT, "Once you start applying [the data] widely, then you understand the [true] impact." He believes that this study "adds another piece in that puzzle [...] that would inform which interventions would be offered to patients depending on their risk profile."
+
+[Byline: Lori Uildriks]
+
+--
+Communicated by:
+ProMED
+
+******
+[2] Host genetic variation
+Date: Mon 7 Mar 2022
+Source: Nature [abridged, edited]
+https://www.nature.com/articles/s41586-022-04576-6
+
+
+Citation
+Kousathanas, A., Pairo-Castineira, E., Rawlik, K. et al. Whole genome sequencing reveals host factors underlying critical COVID-19. Nature (2022). Published 7 Mar 2022, doi.org/10.1038/s41586-022-04576-6
+
+Abstract
+Critical COVID-19 is caused by immune-mediated inflammatory lung injury. Host genetic variation influences the development of illness requiring critical care or hospitalization following SARS-CoV-2 infection. The GenOMICC (Genetics of Mortality in Critical Care) study enables the comparison of genomes from critically-ill cases with population controls in order to find underlying disease mechanisms. Here, we use whole genome sequencing in 7491 critically-ill cases compared with 48 400 controls to discover and replicate 23 independent variants that significantly predispose to critical COVID-19. We identify 16 new independent associations, including variants within genes involved in interferon signalling (IL10RB, PLSCR1), leucocyte differentiation (BCL11A), and blood type antigen secretor status (FUT2). Using transcriptome-wide association and colocalisation to infer the effect of gene expression on disease severity, we find evidence implicating multiple genes, including reduced expression of a membrane flippase (ATP11A), and increased mucin expression (MUC1), in critical disease. Mendelian randomisation provides evidence in support of causal roles for myeloid cell adhesion molecules (SELE, ICAM5, CD209) and coagulation factor F8, all of which are potentially druggable targets. Our results are broadly consistent with a multi-component model of COVID-19 pathophysiology, in which at least 2 distinct mechanisms can predispose to life-threatening disease: failure to control viral replication, or an enhanced tendency towards pulmonary inflammation and intravascular coagulation. We show that comparison between critically-ill cases and population controls is highly efficient for detection of therapeutically-relevant mechanisms of disease.
+
+--
+Communicated by:
+Mary Marshall
+
+******
+[3] Mental decline
+Date: Wed 9 Mar 2022
+Source: CIDRAP (Center for Infectious Disease Research and Policy) [edited]
+https://www.cidrap.umn.edu/news-perspective/2022/03/mental-decline-seen-older-covid-patients-1-year-later
+
+
+Mental decline seen in older COVID patients 1 year later
+--------------------------------------------------------
+Cognitive impairment was more common among COVID-19 patients 60 years and older--particularly those with severe illness--released from hospitals in Wuhan, China, than among their uninfected peers, according to a 1-year follow-up study yesterday in JAMA Neurology.
+
+A team led by researchers at Daping Hospital in Chongqing, China, followed 1438 COVID-19 survivors aged 60 and older released from one of 3 dedicated COVID-19 hospitals in Wuhan from 10 Feb -- 10 Apr 2020, and compared them with 438 of their uninfected spouses.
+
+Because pre-COVID cognitive status wasn't available, family members provided their perceptions of cognitive changes using the Chinese version of the short form of the Informant Questionnaire on Cognitive Decline in the Elderly (IQCODE). The questionnaire contains 16 items that rate changes in memory and other domains, with decline defined as an item score of 3.5 or higher.
+
+Trained raters interviewed COVID-19 patients at 12 months over the phone to evaluate cognition using the Chinese version of Telephone Interview of Cognitive Status-40 (TICS-40), which includes 10 variables and has a maximum of 40 points. A score of 20 or lower was considered indicative of mild cognitive impairment (MCI), while a score of 12 or lower indicated dementia, and a decrease of 3 points or more was considered clinically meaningful cognitive decline.
+
+Of the COVID-19 patients. 48.1% were men, median age was 69 years, and none had a history of dementia. The control group was 50.7% men, and the median age was 67 years.
+
+The incidence of impaired cognition among COVID-19 survivors was 12.5% 12 months after hospital release. COVID-19 survivors had lower TICS-40 scores than controls at both 6 months (median, 29 vs 30 points) and 12 months (29 vs 31).
+
+Severely ill patients had lower TICS-40 scores than those with milder illness and controls (median score, 24 vs 30 vs 31) at 6 months; at 12 months, they had lower scores than controls (22.5 vs 31). Patients with mild or moderate illness and controls differed in IQCODE scores but not TICS-40 over follow-up.
+
+Among severely ill COVID-19 patients, 10% had dementia and 26.5% had MCI at 6 months. At 12 months, 15% had dementia and 26.2% had MCI, much higher than in those with milder illness (dementia, 0.8%; MCI, 5.4%) and controls (dementia, 0.7%; MCI, 5%). Survivors of mild or moderate COVID-19 and controls had similar incidences of dementia and MCI at both 6 and 12 months.
+
+Severe illness was tied to a higher risk of early-onset cognitive decline (odds ratio [OR], 4.9; 95% confidence interval [CI], 3.3 -- 7.2), late-onset cognitive decline (OR, 7.6; 95% CI, 3.6 -- 16), and progressive cognitive decline (OR, 19; 95% CI, 9.1 -- 39.5), while milder COVID-19 was associated with a higher risk of early-onset cognitive decline (OR, 1.7; 95% CI, 1.3 -- 2.3) after adjusting for age, sex, educational attainment, body mass index (BMI), and underlying illnesses.
+
+The prevalence of progressive decline was 21.2% with severe COVID-19, 1.2% with non-severe COVID-19, and 2.3% in controls.
+
+Severe COVID-19 was linked to a higher risk of cognitive impairment at 12 months (OR, 9.1; 95% CI, 5.6 -- 14.8), but milder illness was not (OR, 1.1; 95% CI, 0.7 -- 1.8), after adjusting for age, sex, educational attainment, BMI, and underlying illnesses.
+
+Among a subset of 438 patients and their spouses, COVID-19 survivors were older (median age, 68 vs 67 years) and had a higher incidence of hypertension (47% vs 34.5%). Both nonsevere (OR, 1.8; 95% CI, 1.1 -- 3) and severe COVID-19 (OR, 5.9; 95% CI, 3.6 -- 9.8) in this group were tied to a higher risk of cognitive impairment at 12 months, after adjustment for risk factors.
+
+The study authors noted that impaired cognition is common in the months after COVID-19 infection, especially among older patients. "It is worth noting that 21% of individuals with severe cases in this cohort experienced progressive cognitive decline, suggesting that COVID-19 may cause long-lasting damage to cognition," they wrote.
+
+"These findings imply that the pandemic may substantially contribute to the world dementia burden in the future."
+
+Potential factors in post-COVID cognitive decline, the authors said, include long-term low oxygen levels, chronic systemic inflammation, and direct viral invasion of the brain and resultant neuronal damage.
+
+"In this cohort study of COVID-19 survivors 60 years and older who were discharged from COVID-19-designated hospitals in Wuhan, China, SARS-CoV-2 infection, especially severe infection, was associated with an increase in risk of longitudinal cognitive decline," the researchers concluded. "The findings highlight the importance of immediate measures to deal with this challenge."
+
+[Byline: Mary Van Beusekom]
+
+--
+Communicated by:
+Mary Marshall
+
+[Citation. Liun YH, Chen Y, Wang QH, et al. One-Year Trajectory of Cognitive Changes in Older Survivors of COVID-19 in Wuhan, China. A Longitudinal Cohort Study. JAMA Neurol. Published online 8 Mar 2022. doi:10.1001/jamaneurol.2022.0461
+
+Conclusions and relevance. In this cohort study, COVID-19 survival was associated with an increase in risk of longitudinal cognitive decline, highlighting the importance of immediate measures to deal with this challenge.
+
+Meaning. The findings suggest that long-term cognitive decline is common after SARS-CoV-2 infection, indicating the necessity of evaluating the impact of the COVID-19 pandemic on the future dementia burden worldwide. - Mod.LK]
+
+******
+[4] Dexamethasone
+Date: Wed 9 Mar 2022
+Source: CIDRAP (Center for Infectious Disease Research and Policy) [edited]
+https://www.cidrap.umn.edu/news-perspective/2022/03/news-scan-mar-09-2022
+
+
+Continuing dexamethasone after COVID hospital release shows no benefit
+----------------------------------------------------------
+Continuing the corticosteroid dexamethasone after hospital release didn't benefit COVID-19 patients who didn't complete the 10-day drug regimen during their stay, finds a study published yesterday [Tue 8 Mar 2022] in JAMA Network Open.
+
+Kaiser Permanente Southern California researchers studied the continuing use of dexamethasone at a dosage of 6mg per day after hospital release in 1164 adult COVID-19 patients who were released from 1 of 15 hospitals from [1 May to 30 Sep 2020].
+
+Among the 1164 patients, 59.5% continued dexamethasone after hospital release. Median patient age was 55 years, 70.6% were Hispanic, 57.9% were men, and 90% needed supplemental oxygen during hospitalization.
+
+The rate of hospital readmission or death within 14 days of release was 9.1% in patients who continued dexamethasone, compared with 11.4% among patients who didn't, but the difference wasn't statistically significant.
+
+The adjusted odds ratio (OR) for readmission or death within 14 days was 0.87 (95% confidence interval [CI], 0.58 -- 1.30) for patients who continued dexamethasone, compared with those who did not. A sensitivity analysis that limited the treatment group to those given exactly 10 days of dexamethasone showed comparable results (OR, 0.89; 95% CI, 0.55 -- 1.43).
+
+A subgroup analysis stratified by length of dexamethasone therapy in the hospital also yielded similar findings (1 to 3 days: OR, 0.71; 4 to 9 days: OR, 1.01), oxygen requirement at release (room air: OR, 0.91; supplemental oxygen use: OR, 0.76), and illness duration at release (10 days or less: OR, 0.81; more than 10 days: OR, 0.94).
+
+The study authors noted that corticosteroids like dexamethasone were the first type of medication to show a survival benefit in severely ill COVID-19 patients and are now a mainstay of hospital treatment. Because early readmissions after hospital release are largely due to respiratory causes that probably reflect illness progression, the authors had theorized that continuing corticosteroids could reduce these outcomes.
+
+"Continuing treatment with dexamethasone, 6mg/d, at discharge was not associated with a reduction in 14-day all-cause readmission or mortality," the researchers wrote. "This finding suggests that dexamethasone should not be routinely prescribed beyond discharge."
+
+--
+Communicated by:
+Mary Marshall
+<mjm2020@googlemail.com>
+
+[Citation. Huang CW, Yu AS, Song H,et al. Association Between Dexamethasone Treatment After Hospital Discharge for Patients With COVID-19 Infection and Rates of Hospital Readmission and Mortality. JAMA Netw Open. 2022;5(3):e221455. doi:10.1001/jamanetworkopen.2022.1455
+
+Introduction. Corticosteroids were the first medication class to demonstrate mortality benefit among patients with COVID-19 and are now a cornerstone of COVID-19 treatment. In the Randomized Evaluation of COVID-19 Therapy (RECOVERY) trial, the use of dexamethasone, 6 mg/d, up to 10 days or until discharge resulted in lower mortality. However, with no standardized discharge practices, corticosteroid prescription practices at discharge have varied.
+
+Conclusions and relevance. In this cohort study of patients with COVID-19, continuing treatment with dexamethasone, 6mg/d, at discharge was not associated with a reduction in 14-day all-cause readmission or mortality. This finding suggests that dexamethasone should not be routinely prescribed beyond discharge for individuals with COVID-19. - Mod.LK]
+
+********
+[5] WHO: Daily new cases reported (as of 9 Mar 2022)
+Date: Wed 9 Mar 2022
+Source: WHO [abridged, edited]
+https://covid19.who.int/table
+
+
+*Daily case reports as of 9 Mar 2022 16:48 CET
+
+Surveillance
+------------
+WHO region (no. countries/territories):
+Total confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+--------------------------------------------------------------------------------
+Western Pacific Region (19): 29 262 597 (730 009) / 189 656 (892)
+European Region (61): 184 618 493 (777 549) / 1 894 846 (2509)
+South East Asia Region (10): 56 285 919 (55 423) / 767 165 (533)
+Eastern Mediterranean Region (22): 21 362 890 (14 737) / 337 357 (253)
+Region of the Americas (54): 148 322 100 (125 821) / 2 652 042 (2289)
+African Region (49): 8 460 530 (669) / 170 403 (11)
+Cases on an international conveyance: 764 (0) / 13 (0)
+
+Confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+Grand total: 448 313 293 (1 704 208) / 6 011 482 (6487)
+
+--
+Communicated by:
+ProMED
+
+[Data by country, area, or territory for 9 Mar 2022 can be accessed at
+https://promedmail.org/wp-content/uploads/world-pdf/2022%20WHO%20Data%20Tables%20MAR9_1646937489.pdf.
+
+- The Americas region reported 7.3% of cases and 35.2% of deaths in the past 24 hours having reported more than 148.32 million cases, 2nd to the European region, as the most severely affected region. The USA reported 69 688 cases followed by Brazil and Chile. An additional 4 countries reported more than 1000 cases (Canada, Argentina, Guatemala, and Uruguay) in the past 24 hours. Additionally, Colombia and Costa Rica reported more than 500 but fewer than 1000 cases.
+
+- The European region reported 45.6% of cases and 38.6% of deaths over the last 24 hours, as the most affected region, with cumulative cases exceeding 184.61 million. Some countries reporting few or no cases in the last 24 hours or longer include Belgium (8 cases), Switzerland (22 cases), and Tajikistan, among others. A total of 35 countries reported more than 1000 cases in the past 24 hours, 1 country reporting more than 100 000 cases, 14 reporting more than 10 000, 17 reporting over 1000 cases, and an additional 3 countries reported more than 500 but fewer than 1000 cases.
+
+- The Eastern Mediterranean region reported 0.86% of daily case numbers and 3.9% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 21.36 million cases. Iran (11 090) reported the highest number of cases over the last 24 hours followed by Bahrain, Tunisia, and Lebanon. Egypt and Iraq reported more than 500 but less than 1000 cases over the last 24 hours.
+
+- The African region reported only 669 cases and 11 deaths in the past 24 hours having reported a cumulative total of more than 8.46 million cases. DRC (117) reported the highest number of cases over the last 24 hours with most other countries reporting below 100 cases. A total of 33 countries did not report any cases over the last 24 hours. The low reported numbers are not a true reflection of the prevalent COVID19 situation in the region.
+
+- The Western Pacific region reported 42.8% of daily case numbers and 13.7% deaths in the past 24 hours, having reported a cumulative total of more than 29.26 million cases. South Korea (342 446) reported the highest number of cases over the last 24 hours followed by Vietnam, Japan, Australia, Malaysia, China, New Zealand, Singapore, Brunei, and Philippines.
+
+- The South East Asia region reported 3.2% of the daily newly reported cases and 8.2% of reported deaths in the past 24 hours, having reported a cumulative total of more than 56.28 million cases. Indonesia (26 336) reported the highest number of cases followed by Thailand (22 073), India (4575), Myanmar (1301), Sri Lanka (675) and Bhutan (386).
+
+On the Overview tab at the WHO source URL, the epidemic curve of confirmed COVID-19 cases by WHO region, 30 Dec 2019 through 9 Mar 2022, is an excellent visual representation of the pandemic. - Mod.UBA]
+
+******
+[6] Global update: Worldometer accessed 9 Mar 2022 22:07 EST (GMT-5)
+Date: Wed 9 Mar 2022
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+Total number of reported deaths: 6 043 977
+Total number of worldwide cases: 451 809 254
+Number of newly confirmed cases in the past 24 hours: 1 812 295
+
+--
+Communicated by:
+ProMED
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at https://promedmail.org/wp-content/uploads/world-pdf/2022%20WORLDDATA%20MAR9_1646937515.pdf.
+
+A 7-day series of cumulative data reported by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/2022%20MAR9WORLD7_1646937529.pdf. - Mod.UBA]
+
+In the past 24 hours, 29 countries including South Korea (327 532), Vietnam (265 163), the Germany (191 973), France (69 190), Brazil (49 078), Russia (58 675), Netherlands (74 236), UK (66 870), Italy (49 815), Japan (62 747), USA (51 148), Austria (47 795), Switzerland (33 518), Turkey (33 243), Malaysia (30 246), Indonesia (26 336), Australia (26 098), Hong Kong (25 991), Greece (23 335), Thailand (22 984), Spain (21 936), Singapore (17 051), Chile (16 467), Denmark (15 992), Portugal (14 595), Poland (14 440), Tunisia (12 103), Slovakia (11 712), and Czech republic (10 527), reported the highest numbers of cases, all reporting more than 10 000 newly confirmed cases. A global total of 7657 deaths were reported in the preceding 24 hours (late 7 Mar 2022 to late 8 Mar 2022).
+
+A total of 65 countries reported more than 1000 cases in the past 24 hours; 37 of the 65 countries are from the European region, 10 are from the Americas region, 5 are from the Eastern Mediterranean region, 8 are from the Western Pacific region, 4 from the South East Asia region, and 1 are from the African region.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, case counts have increased by 6.7%, while daily reported deaths have decreased by 9.6%. Similar comparative 7-day averages in the USA show 26.2% decrease in daily reported cases and 26.1% decrease in reported deaths.
+
+Impression: The global daily reported over 1.81 million newly confirmed infections in the past 24 hours with over 451.80 million cumulative reported cases and over 6.04 million reported deaths. - Mod.UBA]
+See Also
+COVID-19 update (68): brain changes, boosters, hotspots, USA, WHO, global 20220309.8701903
+COVID-19 update (67): Hong Kong, China, new normal, social determ. health, WHO 20220309.8701882
+COVID-19 update (66): post-COVID cardiovascular risks, N. Zealand, variants, WHO 20220306.8701826
+COVID-19 update (65): Ukraine, Eurosurveillance, blood types, WHO, global 20220304.8701798
+COVID-19 update (64): long COVID, IHCA, Ivermectin, India, WHO 20220303.8701774
+COVID-19 update (63): animal, Canada, wild deer 20220303.8701773
+COVID-19 update (62): Pfizer, children, CDC, vulnerable populations, WHO, global 20220303.8701755
+COVID-19 update (61): masks, bact. meta-transcriptomics, variants, ECMO, WHO 20220301.8701730
+COVID-19 update (60): animal, China, origin, research 20220227
+COVID-19 update (59): orphans, workforce, masks, AMA, Hong Kong, WHO, global 20220226.8701667
+COVID-19 update (58): heart, Canada vacc, mortality, masks, S Asia, WHO, global 20220226.8701656
+COVID-19 update (57): omicron BA.2, S Korea, MIS-C, vacc & blood clots, global 20220226.8701651
+COVID-19 update (56): animal, SARS-CoV-2 delta variant, cat 20220224.8701639
+COVID-19 update (55): masks, ivermectin, omicron re-infection, WHO 20220224.8701627
+COVID-19 update (54): long COVID, antiviral combo, S. Africa, Russian flu, WHO 20220223.8701598
+COVID-19 update (53): masks, Africa, nasal vaccine, WHO, global 20220219.8701554
+COVID-19 update (52): 4th dose, long COVID, Eurosurveillance, South Asia, WHO 20220218.8701538
+COVID-19 update (51): life-years lost, vacc & myocarditis, mask relaxation, WHO 20220217.8701520
+COVID-19 update (50): Hong Kong, estrogen risk, maternal vaccine benefits, WHO 20220217.8701501
+COVID-19 update (49): Eurosurv., transm.&screen., long COVID, mRNA omicron, WHO 20220216.8701479
+COVID-19 update (48): animal, China (Hong Kong), Finland (SF), dog, cat, OIE 20220214.8701444
+COVID-19 update (47): Russia, antivirals, genomic surv, child vacc, WHO 20220213.8701430
+COVID-19 update (46): J&J vacc, cardiovascular, South Asia, WHO 0220212.8701412
+COVID-19 update (45): Indonesia vaccine, numbers, EU, CDC, WHO 20220211.8701390
+COVID-19 update (44): pregnancy, maternal Ab, booster, WHO 20220209.8701365
+COVID-19 update (43): animal, USA, wild deer, omicron 20220209.8701357
+COVID-19 update (42): Paxlovid, children, mAb, omicron, WHO 20220208.8701334
+COVID-19 update (41): vaccine, nasal, Spikevax, long COVID, mRNA Africa, WHO 20220206.8701297
+COVID-19 update (40): Denmark, rosemary, pregnancy, stroke, WHO 20220205.8701276
+COVID-19 update (39): prisons, imaging, BMI & mortality, variants, WHO 20220204.8701247
+COVID-19 update (38): virus shedding, Argentina, deaths, tests, WHO, global 20220203.8701225
+COVID-19 update (37): omicron subvariant BA.2, disabilities, long COVID, WHO 20220202.8701201
+COVID-19 update (36): animal, human, China (Hong Kong) hamster, foreign origin 20220130.8701158
+COVID-19 update (35): omicron origin, antibody response, updates, HiP-CT, WHO 20220130.8701157
+COVID-19 update (34): booster dose, mix & match vaccines, pulse oximeters, WHO 20220128.8701138
+COVID-19 update (33): Moderna boosters, deaths, long COVID, WHO 20220128.8701120
+COVID-19 update (32): omicron, Europe, Asia, psychological toll, myocarditis, WHO 20220127.8701099
+COVID-19 update (31): animal, human, China (Hong Kong) hamster, origin discussed 20220126.8701086
+COVID-19 update (30): variants in immuno-comp., stability, endemic, WHO 20220126.8701074
+COVID-19 update (29): risk assessment, cognitive impairment, global 20220124.8701055
+COVID-19 update (28): rapid tests, fertility, future, WHO 20220123.8701039
+COVID-19 update (27): wastewater, neurology, WHO 20220123.8701029
+COVID-19 update (26): animal, China (Hong Kong) hamster, OIE 20220122.8701017
+COVID-19 update (25): USA masks, nocebo effect, universal vacc, WHO 20220121.8700995
+COVID-19 update (24): USA home tests, Europe & Asia action, omicron, WHO 20220119.8700977
+COVID-19 update (23): animal, China (Hong Kong) hamster, public health hazard 20220119.8700956
+COVID-19 update (22): mobility, breath test, co-infection, Israel 4th dose, WHO 20220119.8700955
+COVID-19 update (21): neurology, isolation period cut 20220117.8700934
+COVID-19 update (20): Africa vacc., Taiwan, waning immunity, persistence, global 20220117.8700915
+COVID-19 update (10): animal, omicron origin statement, OIE 20220110.8700763
+COVID-19 update (01): omicron severity & changes, Germany, T-cell reactivity 20220101.8700616
+2021
+----
+COVID-19 update (452): rapid test, omicron, Ab neutralization, school, WHO 20211230.8700597
+COVID-19 update (451): animal, USA, wild deer 20211230.8700589
+COVID-19 update (450): maternal Abs, CDC isolation guidance, WHO 20211230.8700575
+COVID-19 update (400): animal, sheep, research, experimental infection 20211121.8699806
+COVID-19 update (350): boosters, deaths, cases, vaccines, WHO 20211014.8699041
+COVID-19 update (300): Norway, myocarditis, schools, new variant C.1.2, WHO 20210901.8638460
+COVID-19 update (200): animal, China, origin 20210608.8433657
+COVID-19 update (100): antibodies, vaccine, Thailand, Cambodia, WHO, global 20210316.8250009
+COVID-19 update (50): UK vaccine study, Brazil reinfection, WHO 20210205.8167161
+COVID-19 update (01): variants, vaccine, Thailand, global, WHO 20210101.80629382020
+2020
+----
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+COVID-19 update (562): viral load, UK vacc dose, ECDC, WHO 20201231.8061525
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia: China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia: China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+----
+Undiagnosed pneumonia: China (HU): RFI 20191230.6864153
+and other items in the archives
+.................................................sb/lk/mpp/uba/ao/jh
+</body>

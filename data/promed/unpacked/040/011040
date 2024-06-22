@@ -1,0 +1,158 @@
+<header id=011040>
+Published Date: 2020-01-12 18:53:24 EST
+Subject: PRO/AH/EDR> Antibiotic resistance - USA: (PA) NDM-5 carrying E. coli, veterinary ICU
+Archive Number: 20200112.6885387
+</header>
+<body id=011040>
+ANTIBIOTIC RESISTANCE - USA: (PENNSYLVANIA) NDM-5 CARRYING E. COLI, VETERINARY ICU
+**********************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+[1]
+Date: Fri 10 Jan 2020
+Source: CIDRAP News [edited]
+http://www.cidrap.umn.edu/news-perspective/2020/01/us-veterinary-hospital-faces-rare-antibiotic-resistant-e-coli
+
+
+On 1 Apr 2019, Shelley Rankin, PhD, the chief of clinical microbiology at the University of Pennsylvania's School of Veterinary Medicine, got a surprising notification from the US Food and Drug Administration (FDA).
+
+Four times a year, Rankin and her colleagues at PennVet ship off bacterial isolates from the school's veterinary hospitals to the FDA's Veterinary Laboratory Information and Response Network (Vet-LIRN). PennVet is among a network of veterinary labs across the country submitting animal isolates for antibiotic resistance surveillance and whole-genome sequencing.
+
+The notification Rankin received from Vet-LIRN that day regarded a set of isolates submitted at the end of 2018. Among the isolates was a sample of carbapenem-resistant _Escherichia coli_ from one of a handful of sick cats and dogs treated at PennVet's Ryan Veterinary Hospital in July and August 2018.
+
+Since none of the animals had previously been treated with carbapenems, a last-resort antibiotic, Rankin and her colleagues suspected that Vet-LIRN might find a carbapenem-resistance gene in the _E. coli_ isolate. But it wasn't the gene they expected to find.
+
+In Philadelphia's numerous human hospitals, Rankin explained, there's a reasonably high prevalence of _Klebsiella pneumoniae_ carbapenemase (KPC) genes among patients with carbapenem-resistant and carbapenemase-producing Enterobacteriaceae (CRE and CPE) infections. So they suspected the _E. coli_ from the dogs and cats might harbor KPC genes.
+
+But the gene identified by Vet-LIRN was New Delhi metallo-beta-lactamase-5, or NDM-5, a gene conferring elevated resistance to carbapenems. In the United States, the gene has been detected in only a few human bacterial infections, and never in companion animals. Only a handful of cases in dogs have been reported worldwide.
+
+Testing of 6 more _E. coli_ isolates from animals treated at the hospital during the period detected the NDM-5 gene in all of them, and sequencing revealed genetic similarities among the isolates, indicating a unique cluster, or outbreak, of cases.
+
+"We were a little surprised: it was a completely new resistance mechanism for us," said Rankin. "This is brand new for us in veterinary medicine."
+
+The report on the outbreak, which appeared this week in Emerging Infectious Diseases, raises a lot of questions. Although the number of dogs and cats affected was small -- 14 over several months -- and it's still unclear whether they were infected with the pathogen or colonized, Rankin said what remains unknown is how the animals acquired NDM-5-producing _E. coli_, where these resistance genes are lurking, and how easily they can be transmitted between animals and humans.
+
+"It's the quintessential One Health problem," she said.
+
+"Is this organism now circulating in the environment in and around Philadelphia and New Jersey? How do we determine that?" Rankin asked. "If we show animals are colonized ... does that mean they are now a reservoir for infections in humans? Did they get it from humans in the 1st place? Is it in the dog parks?"
+
+CRE and CPE, which are on the Centers for Disease Control and Prevention's list of urgent drug-resistant threats, are among the most difficult bacterial pathogens to treat because they are frequently resistant to several classes of antibiotics. Although the prevalence in US hospitals is low, and the pathogens are rare in US veterinary hospitals, the growing spread and transmission of carbapenemase genes like NDM-5 -- which can be shared among different species of bacteria -- is a public health threat that physicians are wrestling with. And veterinarians are likely to see more cases in the coming years.
+
+While CPE have mainly been a concern in healthcare settings, finding these pathogens in companion animals isn't surprising, said Scott Weese, DVM, a veterinarian and microbiologist who studies bacterial infections in humans and animals at the University of Guelph in Ontario.
+
+"CPE can be found in various species, and spillover into dogs and cats is expected," he said. The most likely source is pet owners who are infected or colonized. But food, particularly raw meat, could be another source. Weese noted that dogs that have been fed raw meat have been found to have high rates of shedding of extended-spectrum beta-lactamase genes.
+
+"So if CPE builds up in the food animal population, that type of exposure is inevitable," he said.
+
+Weese added that, for him, the report further highlights the importance of good routine infection control in veterinary hospitals to prevent the spread of these pathogens.
+
+"As an internist and someone who directs a referral facility's infection control program, this report doesn't change anything I do," he said. "It just helps maintain motivation to do things right and is another example I can point to of why we need to do things right."
+
+Rankin said since the outbreak, PennVet has been working with Philadelphia's Department of Public Health to update the hospital's infection prevention and control measures. One strategy they've initiated is a program of admission and discharge screening for CRE.
+
+"That shows us if the animals are coming in colonized, in which case we can cohort them, which is good for infection prevention, and it shows us if there is any in-facility transmission," she said. Since beginning the CRE screening program in October 2019, Rankin said, there has been no in-facility transmission. "Our outbreak is over," she said.
+
+Rankin said while seeing a CRE outbreak in veterinary medicine did not come as a surprise, especially at a large veterinary hospital, she and her colleagues were not prepared for it, and she doesn't think the profession is prepared for it. She's hoping that getting the word out about the outbreak, and having discussions with public health agencies, human medical colleagues, and experts in environmental monitoring, will result in some guidance for veterinarians.
+
+"It's a really good One Health opportunity," she said. "It's a great opportunity to bring everyone together."
+
+--
+Communicated by:
+Mary Marshall
+
+******
+[2]
+Date: Wed 8 Jan 2020 [early release]
+Source: Emerging Infectious Diseases Volume 26, Number 2 - Feb 2020 [edited]
+https://wwwnc.cdc.gov/eid/article/26/2/19-1221_article#suggestedcitation/
+
+
+Research Letter: New Delhi Metallo-B-Lactamase-5-Producing _Escherichia coli_ in Companion Animals, United States.
+-----------------------------------------------------------------------------------------------------------------------------------------
+Stephen D. Cole, Laura Peak, Gregory H. Tyson, Renate Reimschuessel, Olgica Ceric, and Shelley C. Rankin
+
+Abstract
+"We report isolation of a New Delhi metallo-B-lactamase-5-producing carbapenem-resistant _Escherichia coli_ (_E. coli_ sequence type 167 from companion animals in the United States. Reports of carbapenem-resistant Enterobacteriaceae in companion animals are rare. We describe a unique cluster of blaNDM-5-producing _E. coli_ in a veterinary hospital."
+
+"Carbapenems are critically useful antimicrobial drugs reserved for treatment of infections caused by multidrug-resistant, gram-negative bacteria (1). Carbapenem-resistant Enterobacteriaceae (CRE) have emerged as a major cause of human healthcare-associated infections and are a major clinical and public health problem (1). The most common mechanism of resistance is production of carbapenemases, which hydrolyze carbapenems and many other B-lactams. The genes that encode carbapenamases are found on conjugative plasmids and commonly fall in the following classes: KPC (_Klebsiella pneumoniae_ carbapenemase), NDM (New Delhi metallo-B-lactamase), IMP (imipenamase), and VIM (Verona integron-encoded metallo-B-lactamase (1). Control of these infections in human healthcare settings is a challenge because the organisms colonize the gastrointestinal tract and can go undetected (1). Reports of CRE in animals and animal settings are rare but have been documented in livestock, wildlife, and companion animals (2).
+
+"In April 2019, passive surveillance by the Veterinary Laboratory Information and Response Network of the US Food and Drug Administration identified the blaNDM-5 gene in a carbapenem-resistant _Escherichia coli_ isolated from a dog in July 2018. This isolate belonged to sequence type 167 (ST167).
+
+"A retrospective review of hospital records showed that, during 11 July 3-Aug 2018, 7 carbapenem-resistant _E. coli_ isolates were isolated from 6 animals (Table). Isolates were obtained from 5 dogs and one cat; all were from respiratory tract specimens, except for 2 isolates from the urine of one dog. All animals were housed in the intensive care unit for over 24 hours (Appendix Figure). All animals overlapped with [one or more] other affected animal.
+
+"We evaluated antimicrobial use; 5/6 animals received [one or more] 4 antimicrobial drugs before specimen submission. No animals received a carbapenem drug in the 30-day period before sample submission. A beta-lactam was given to 5/6 animals, azithromycin to 5/6 animals, metronidazole to 4/6 animals, and enrofloxacin to 4/6 animals (Table).
+
+"The 1st isolate, _E. coli_ 24213-18, was sequenced by using a Pacific Biosciences Sequel Sequencer (https://www.pacb.comExternal Link) and uploaded to GenBank (BioSample SAMN11230749). This testing confirmed _E. coli_ ST167 and identified a circular IncFII plasmid of 139,547 bp, which contained the blaNDM-5 gene and additional resistance genes: tet(A), aac(6′)-Ib-cr, aadA5, aadA2, blaOXA-1, blaCTX-M-15, catB3, dfrA17, dfrA12, sul1 (2 copies), and mph(A) (3).
+
+"Whole-genome sequencing was performed on all 7 isolates (24213-18, 24920-18, 27025-1-18, 27025-2-18, 27241-18, 27609-18, and 27614-18) by using the Illumina MiSeq platform (https://www.illumina.comExternal Link_). We identified antimicrobial resistance genes by using the National Center for Biotechnology Information Pathogen Detection Isolates Browser, which uses AMRFinder (<https://www.ncbi.nlm.nih.gov/pathogens/antimicrobial-resistance/AMRFinderExternal Link). The following genes were found in all 7 isolates: aac 3-IId, aac (6′)-Ib-cr5, aadA2, aadA22, aadA5, blaCTX-M-15, blaNDM-5, blaOXA-1, blaTEM-1, ble, catB3, dfrA12, dfrA17, mph(A), qacEdelta1, sul1, and tet(A). The floR gene was detected in all isolates except 27025-1-18. PlasmidFinder (https://cge.cbs.dtu.dk/services/PlasmidFinderExternal Link) analysis confirmed the presence of an IncFII plasmid in all isolates.
+
+"NDM-5-producing _E. coli_ have been reported in dogs from Finland, South Korea, and Algeria (3-5). The isolates from Finland were also ST167; the isolates from South Korea and Algeria were obtained from canine feces and identified as ST410 and ST1284. ST1284 is a double-locus variant of ST167, which suggests possible distant relatedness of these isolates; ST410 does not share any multilocus sequence type alleles with ST167 (5). In 2011, the NDM-5 carbapenamase was described in an isolate of _E. coli_ (ST648) from a human in the United Kingdom who was previously hospitalized in Goa, India (6). In February 2018, 3 isolates of NDM-5 positive _E. coli_ (ST43) were isolated from 2 patients in a skilled nursing facility in New York, New York (7). Spread of NDM-5 positive _Escherichia coli_ has occurred globally and included reports of ST167 in persons in Europe and Asia (8,9).
+
+"Healthcare-associated spread of this _E. coli_ strain in the veterinary intensive care unit emphasizes the need to rapidly identify and characterize carbapenem-resistant isolates from animals. Methods to control the spread of CRE in veterinary medical settings have not yet been studied; these studies are needed to limit the spread of these pathogens in animal populations. Control measures in human healthcare settings include strict hand hygiene, use of personal protective equipment, and environmental decontamination (10). The risk for transmission of CRE from animals to persons is currently poorly understood.
+
+"It has been documented that blaNDM-5, ST167, and carbapenem-resistant _E. coli_ strains can infect humans and animals (4). Additional investigations are needed in the context of transmission between humans and animals. Characterization of CRE isolates from animals is needed to build a knowledge base and provide guidance for future studies because CRE will continue to emerge in veterinary medical settings. CRE will be a major challenge across all health fields as these organisms become more prevalent in the community. It is likely that a One Health approach to antimicrobial resistance surveillance, infection prevention, and antimicrobial stewardship will be required to limit the spread and potential global dominance of CRE."
+
+[The full journal article, including the table, figure and references, is availabe at the source URL. - Mod.ML]
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[Both articles are presented for the reader's interest. However, what is clear is there are antibiotic resistant diseases in places we may not expect, and diseases which may also be zoonotic. While this was atypical in a veterinary hospital, it clearly indicates infection control and continual monitoring are very necessary. It is nice to know University of Pennsylvania's School of Veterinary Medicine seems to have gotten over any outbreak or potential outbreak, and certainly this incident should drive home the adage of: "You can never be too careful." - Mod.TG]
+
+[Carbapenems are a class of beta-lactam antibiotics that includes ertapenem, doripenem, imipenem, and meropenem. Resistance to carbapenems commonly is the result of an organism acquiring the ability to produce carbapenemases, which are enzymes that destroy the carbapenems, as well as most other beta-lactam antibiotics. There are several distinct types of carbapenemase: KPCs (_Klebsiella pneumoniae_ carbapenemases such as, KPC-1, -2, -3, -4, etc.); NDMs (New Delhi metallo-beta-lactamases such as, NDM-1, -2, -3, -4, -5, etc.); IMP; VIM (Verona integron-encoded metallo-beta-lactamase); and OXA-types (oxacillin-hydrolyzing carbapenemases). Many of the carbapenemases are encoded on plasmids, pieces of extra-chromosomal DNA that can easily spread from one organism to another of the same or even different bacterial species. The plasmids frequently carry genes that confer resistance to multiple other classes of antibiotics, so that these organisms have been susceptible only to toxic or otherwise suboptimal antibiotics, such as colistin and tigecycline.
+
+ProMED-mail previously posted a report of an NDM-5 producing _K. pneumoniae_ in a Dutch patient (ProMED-mail post NDM-5 carrying K. pneumoniae - Netherlands: nosocomial, no history of travel Archive Number: 20151017.3723227). The organism was clonally related to cases in Denmark, but there was no known direct epidemiological links between the Danish patients and the Dutch patient. The authors postulated a possible common food source, since _Escherichia coli_ carrying blaNDM-5 have been reported as a cause of mastitis in cows, suggesting that blaNDM-5-carrying plasmids might enter the food chain. Perhaps an NDM-5 contaminated food was the source for the index animal patient in the University of Pennsylvania veterinary ICU. All subsequent affected animals could have been infected/colonized by cross-contamination in the ICU, because all affected animals had overlapping stays in this ICU. However, screening cultures were not obtained from healthcare workers in this ICU, who may have been silently colonized and capable of spreading this organism to one or more of the affected animals. Infection control interventions in healthcare facilities aimed at preventing transmission of carbapenemase-producing isolates have been outlined by the CDC (https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5810a4.htm), which should also apply to veterinary healthcare facilities.
+
+Although none of the affected animals were said to have received a carbapenem antibiotic in the hospital, the NDM-5 -producing _E. coli_ was multidrug resistant and exposure of the animals to any of the antibiotics to which the organism was resistant, not just a carbapenem, could have selected for emergence of the NDM-5 -producing _E. coli_. - Mod.ML
+
+
+
+HealthMap/ProMED map available at:
+Pennsylvania, United States: https://promedmail.org/promed-post?place=6885387,240]
+See Also
+2019
+----
+Antibiotic resistance (09): USA, MDR Salmonella, convent. vs antib.-free poultry 20191018.6734933
+Antibiotic resistance (06): Italy (TC) fatal, NDM-1, nosocomial 20190914.6674501
+Antibiotic resistance: Norway (Svalbard) NDM, High Arctic Region 20190207.6304163
+2018
+----
+NDM-1 carrying K. pneumoniae - Poland: nosocomial 20181031.6122008
+2017
+----
+Antibiotic resistance (04): Canada, Fosfomycin, fosA7 gene, Salmonella, chickens 20170525.5062031
+2016
+----
+Salmonellosis, st Heidelberg - USA: multidrug resistance, cattle contact 20161130.4663570
+Antibiotic resistance, Salmonella - USA: NARMS, 2014 20160910.4478868
+Antibiotic resistance - Portugal: colistin, MCR-1, Salmonella, Cu tolerance 20160703.4323241
+Antibiotic resistance, Salmonella - Africa: (sub-Saharan) fluoroquinolones 20160617.4293589
+Salmonellosis - USA (08): FDA,contaminated raw retail meat & poultry, resistance 20160501.4195399
+2015
+----
+Antibiotic resistance - Netherlands: colistin, MCR-1, salmonella, poultry meat 20151217.3870429
+Antibiotic resistance - Denmark: colistin, MCR-1, salmonella, human, chicken, RFI 20151206.3844715
+NDM-5 carrying K. pneumoniae - Netherlands: nosocomial, no history of travel 20151017.3723227
+NDM-1 carrying Gram-negative bacillus - France: (MR) poss ex Viet Nam, RFI 20150805.3559467
+2014
+----
+NDM-4 carrying Enterobacteriaceae - India: (UP) hospital sewage 20140905.2749919
+Antibiotic resistance - new metallo-beta-lactamase (NDM-1) inhibitor 20140627.2568937
+NDM-1 carrying Enterobacteriaceae - China: (HK) 20140501.2442036
+NDM carrying Gram-negative bacilli - Americas: Update 20140309.2322398
+NDM-1 carrying E. coli - USA: (IL) ERCP 20140104.2151607
+2013
+----
+NDM-1 carrying Enterobacteriaceae - Brazil: (RJ) 20130918.1952976
+NDM-1 carrying Acinetobacter - France: ex Algeria, ICU outbreak 20130802.1860993
+2012
+----
+NDM-carrying Enterobacteriaceae - USA (03): (CO) nosocomial 20121118.1414608
+.................................................tg/msp/ml
+</body>

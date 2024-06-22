@@ -1,0 +1,313 @@
+<header id=038209>
+Published Date: 2021-12-30 05:54:17 EST
+Subject: PRO/AH/EDR> COVID-19 update (450): maternal Abs, CDC isolation guidance, WHO
+Archive Number: 20211230.8700575
+</header>
+<body id=038209>
+CORONAVIRUS DISEASE 2019 UPDATE (450): MATERNAL ANTIBODIES, CDC ISOLATION GUIDANCE, WHO
+***************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] Maternal transfer of antibody
+[2] CIDRAP news scan
+[A] Breakthrough COVID: immunocompromised
+[B] Neutralizing antibodies
+[3] CDC isolation guide changes
+[4] WHO: daily new cases reported (as of 28 Dec 2021)
+[5] Global update: Worldometer accessed 28 Dec 2021 20:57 EST (GMT-5)
+
+******
+[1] Maternal transfer of antibody
+Date: Thu 23 Dec 2021
+Source: medRxiv [abridged, edited]
+https://www.medrxiv.org/content/10.1101/2021.12.21.21267733v1
+
+
+ref: Sajadi MM, Shokatpour N, Bathula A, et al. Maternal transfer of IgA and IgG SARS-CoV-2 specific antibodies transplacentally and via breastfeeding. medRxiv. 2021; https://doi.org/10.1101/2021.12.21.21267733
+-------------------------------------------------------------------
+
+Abstract
+--------
+Although there have been many studies on antibody responses to SARS-CoV-2 in breastmilk, very few have looked at the fate of these in the baby. We carried out a study in 22 mother/baby pairs (mothers who breastfed and who were SARS-CoV-2 vaccinated before or after delivery) looking at mother blood, mother milk, baby blood, baby nose, and baby stool. Breastfed infants acquired systemic anti-SARS-CoV-2 IgG antibodies only if their mothers were vaccinated antepartum. None of the infants had SARS-CoV-2-specific IgA in the blood, but surprisingly half of the infants in the antepartum group had high titer SARS-CoV-2-specific IgA in the nose that exceeded titers found in breastmilk. Vaccination antepartum followed by breastfeeding appears to be the best way to provide systemic and local anti-SARS-CoV-2 antibodies for infants.
+
+Discussion
+----------
+These data suggest that antepartum vaccination followed by breastfeeding provides the most reliable source of systemic and mucosal antibodies against SARS-CoV-2 for infants. Breastfed infants acquired systemic anti-SARS-CoV-2 antibodies only if their mothers were vaccinated antepartum. Several studies have shown systemic absorption of antibodies through the gastrointestinal tract in preterm newborns, which ceases after the 1st day of life in term newborns (4 [see source for full references]). However, breastfeeding in and of itself provides protection against certain upper respiratory infections (5) through an unknown mechanism. In this study, older infants (all of whom were postpartum vaccination group) had no detectable nasal antibodies to SARS-CoV-2. However, we detected vaccine-specific IgA at high concentrations in nasal samples in about half the younger infants whose mothers were vaccinated antepartum and breastfed. This is noteworthy because none of the infants had detectable systemic, vaccine-specific IgA and thus had not obtained it transplacentally but rather by breastfeeding. Moreover, their nasal, vaccine-specific IgA titers were higher than corresponding breast milk titers. Pharyngonasal reflux or direct inhalation could directly deposit the vaccine-specific IgA (and IgG) on nasal surfaces, but another mechanism for concentrating the antibodies (such as binding to mucin or lectin) would need to be involved. Alternatively, plasmablasts from the mother could be transferred with the colostrum via breastfeeding immediately postpartum and the vaccine-specific IgA produced locally (4,6).
+
+--
+communicated by:
+Mary Marshall
+<mjm2020@googlemail.com>
+
+[Thanks to Sabine Zentis for this weblink.]
+
+******
+[2] CIDRAP news scan
+[A] Breakthrough COVID: immunocompromised
+Date: Tue 28 Dec 2021
+Source: CIDRAP (Center for Infectious Disease Research and Policy) [edited]
+https://www.cidrap.umn.edu/news-perspective/2021/12/news-scan-dec-28-2021
+
+
+Full vaccination against COVID-19 was associated with reduced risk of breakthrough infection, but risk of breakthrough infection was much higher among fully vaccinated people with immune dysfunction than those without, US researchers reported today [28 Dec 2021] in JAMA Internal Medicine (https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2787643).
+
+The retrospective cohort study analyzed data from the National COVID Cohort Collaborative, an electronic medical record-based repository of COVID-19 clinical data. The researchers included all patients who had received at least one dose of a COVID-19 vaccine from 10 Dec 2020 through 16 Sep 2021. Full vaccination was defined as completion of the recommended dosing regimen of any Food and Drug Administration authorized COVID-19 vaccine. Breakthrough infection was defined as a COVID-19 infection that was contracted on or after the 14th day of vaccination.
+
+A total of 664 722 patients (median age 51y; 56.9% women) were included in the sample. Overall, the incidence of COVID-19 breakthrough infection was 5.0 per 1000 person-months among those fully vaccinated but was higher after the delta variant became the dominant SARS-CoV-2 strain. The incidence before 20 Jun 2021, when delta become the dominant US variant, was 2.2 (95% confidence interval (CI) 2.2 to 2.2) per 1000 person-months, compared with 7.3 (CI 7.3 to 7.4) after. The study authors note that the observed breakthrough infection rate is higher than reported by Centers for Disease Control and Prevention surveillance data.
+
+Compared with partial vaccination, full vaccination was associated with a 28% reduced risk for breakthrough infection (adjusted incidence rate ratio [AIRR] 0.72; CI 0.68 to 0.76). People with a breakthrough infection after full vaccination were more likely to be older and women. People with HIV infection (AIRR 1.33; CI 1.18 to 1.49), rheumatoid arthritis (AIRR 1.20; CI 1.09 to 1.32), and solid organ transplant (AIRR 2.16; CI 1.96 to 2.38) had a higher rate of breakthrough infection, as well as higher levels of severe outcomes.
+
+"The findings of this study suggest that nuanced guidance for COVID-19 prevention and control is needed for patients with immune dysfunction," the authors write. "Clinicians and patients should consider continuing nonpharmaceutical interventions even after vaccination, including mask wearing, social distancing, and avoiding densely crowded settings (especially indoors) as much as possible."
+
+--
+communicated by:
+Mary Marshall
+
+[The reference and abstract from the JAMA Internal Medicine article follow:
+Sun J, Zheng Q, Madhira V, et al. Association between immune dysfunction and COVID-19 breakthrough infection after SARS-CoV-2 vaccination in the US. JAMA Intern Med. 2021; https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2787643
+-------------------------------------------------------------------------
+
+Abstract
+--------
+"Importance: Persons with immune dysfunction have a higher risk for severe COVID-19 outcomes. However, these patients were largely excluded from SARS-CoV-2 vaccine clinical trials, creating a large evidence gap.
+
+"Objective: To identify the incidence rate and incidence rate ratio (IRR) for COVID-19 breakthrough infection after SARS-CoV-2 vaccination among persons with or without immune dysfunction.
+
+"Design, setting, and participants: This retrospective cohort study analyzed data from the National COVID Cohort Collaborative (N3C), a partnership that developed a secure, centralized electronic medical record-based repository of COVID-19 clinical data from academic medical centers across the US. Persons who received at least one dose of a SARS-CoV-2 vaccine between 10 Dec 2020 and 16 Sep 2021 were included in the sample.
+
+"Main outcomes and measures: Vaccination, COVID-19 diagnosis, immune dysfunction diagnoses (i.e., HIV infection, multiple sclerosis, rheumatoid arthritis, solid organ transplant, and bone marrow transplantation), other comorbid conditions, and demographic data were accessed through the N3C Data Enclave. Breakthrough infection was defined as a COVID-19 infection that was contracted on or after the 14th day of vaccination, and the risk after full or partial vaccination was assessed for patients with or without immune dysfunction using Poisson regression with robust SEs. Poisson regression models were controlled for a study period (before or after [pre- or post-delta variant] 20 Jun 2021), full vaccination status, COVID-19 infection before vaccination, demographic characteristics, geographic location, and comorbidity burden.
+
+"Results: [see above].
+
+"Conclusions and relevance: This cohort study found that full vaccination was associated with reduced risk of COVID-19 breakthrough infection, regardless of the immune status of patients. Despite full vaccination, persons with immune dysfunction had substantially higher risk for COVID-19 breakthrough infection than those without such a condition. For persons with immune dysfunction, continued use of nonpharmaceutical interventions (e.g., mask wearing) and alternative vaccine strategies (for example, additional doses or immunogenicity testing) are recommended even after full vaccination." - Mod.LK]
+
+---
+[B] Neutralizing antibodies
+Date: Tue 28 Dec 2021
+Source: CIDRAP (Center for Infectious Disease Research and Policy) [edited]
+https://www.cidrap.umn.edu/news-perspective/2021/12/news-scan-dec-28-2021
+
+
+An international research team has identified 4 antibody classes that can neutralize not only the omicron variant, but also other variants and related coronaviruses. They detailed their findings in a 23 Dec 2021 Nature study, which also shed more light on how omicron mutations affect binding to human cells and may impact protection from earlier infection, vaccination, and treatments (https://www.nature.com/articles/d41586-021-03825-4).
+
+The team used pseudoviruses to explore how omicron's spike protein, and that of other variants, binds to and enters human and animal cells using the angiotensin converting enzyme-2 (ACE2) receptor. Research team members are from the University of Washington and Humabs Biomed and Vir Biotechnology in Switzerland.
+
+They found that omicron's spike protein binds 2.4 times better than that of the original SARS-CoV-2 virus and that it can bind efficiently to mouse ACE2 receptors, suggesting that omicron may be able to pass back and forth between animals and people.
+
+Using antibody panels from people infected from earlier virus versions, plus those who were vaccinated or infected then vaccinated, they found that the 6 most commonly used vaccines had reduced ability to block infection, with little or no protection from Sputnik V, Sinopharm, or a single dose of Johnson & Johnson. They also found mRNA booster benefits for dialysis patients and that antibody treatments, except for sotrovimab, had no or reduced activity against omicron.
+
+When they compared larger panels of antibodies generated against earlier SARS-CoV-2 viruses, they found 4 classes that could still neutralize omicron, as well as related coronaviruses (sarbecoviruses). They target one of 4 conserved areas of the spike protein, which could be used to design vaccines and treatments across a broad spectrum of variants.
+
+--
+communicated by:
+Mary Marshall
+
+[The reference of the Nature study and excerpts from the related press release follow:
+Cameroni E, Bowen JE, Rosen LE, et al. Broadly neutralizing antibodies overcome SARS-CoV-2 omicron antigenic shift. Nature. 2021; https://doi.org/10.1038/d41586-021-03825-4
+--------------------------------------------------------------------
+
+
+EurekAlert press release (https://www.eurekalert.org/news-releases/938962):
+"An international team of scientists have identified antibodies that neutralize omicron and other SARS-CoV-2 variants. These antibodies target areas of the virus spike protein that remain essentially unchanged as the viruses mutate.
+
+"By identifying the targets of these 'broadly neutralizing' antibodies on the spike protein, it might be possible to design vaccines and antibody treatments that will be effective against not only the omicron variant but other variants that may emerge in the future, said David Veesler, investigator with the Howard Hughes Medical Institute and associate professor of biochemistry at the University of Washington School of Medicine in Seattle. 'This finding tells us that by focusing on antibodies that target these highly conserved sites on the spike protein, there is a way to overcome the virus' continual evolution,' Veesler said."
+
+"The omicron variant has 37 mutations in the spike protein, which it uses to latch onto and invade cells. This is an unusually high number of mutations. It is thought that these changes explain in part why the variant has been able to spread so rapidly, to infect people who have been vaccinated and to reinfect those who have previously been infected.
+
+"'The main questions we were trying to answer were how has this constellation of mutations in the spike protein of the omicron variant affected its ability to bind to cells and to evade the immune system's antibody responses,' Veesler said.
+
+"[Veesler and his colleagues speculate that omicron's large number of mutations might have accumulated during a prolonged infection in someone with a weakened immune system or by the virus jumping from humans to an animal species and back again.]
+
+"To assess the effect of these mutations, the researchers engineered a disabled, nonreplicating virus, called a pseudovirus, to produce spike proteins on its surface, as coronaviruses do. They then created pseudoviruses that had spike proteins with the omicron mutations and those found on the earliest variants identified in the pandemic.
+
+"The researchers first looked to see how well the different versions of the spike protein were able to bind to protein on the surface of cells, that the virus uses to latch onto and enter the cell. This protein is called the angiotensin converting enzyme-2 (ACE2) receptor.
+
+"They found the omicron variant spike protein was able to bind 2.4 times better than spike protein found in the virus isolated at the very beginning of the pandemic. 'That's not a huge increase,' Veesler noted, 'but in the SARS outbreak in 2002-2003, mutations in the spike protein that increased affinity were associated with higher transmissibility and infectivity.' They also found that the omicron version was able to bind to mouse ACE2 receptors efficiently, suggesting omicron might be able to 'ping-pong' between humans and other mammals.
+
+"The researchers then looked at how well antibodies against earlier isolates of the virus protected against the omicron variant. They did this by using antibodies from patients who had previously been infected with earlier versions of the virus, vaccinated against earlier strains of the virus, or had been infected and then vaccinated.
+
+"They found that antibodies from people who had been infected by earlier strains and from those who had received one of the 6 most-used vaccines currently available all had reduced ability to block infection.
+
+"Antibodies from people who had previously been infected and those who had received the Sputnik V or Sinopharm vaccines as well as a single dose of Johnson & Johnson had little or no ability to block -- or 'neutralize' -- the omicron variant's entry into cells. Antibodies from people who had received 2 doses of the Moderna, Pfizer/BioNTech, and AstraZeneca vaccines retained some neutralizing activity, albeit reduced by 20- to 40-fold, much more than any other variants.
+
+"Antibodies from people who had been infected, recovered, and then had 2 doses of vaccine also had reduced activity, but the reduction was less, about 5-fold, clearly demonstrating that vaccination after infection is useful.
+
+"Antibodies from people, in this case a group of renal dialysis patients, who had received a booster with a 3rd dose of the mRNA vaccines produced by Moderna and Pfizer/BioNTech showed only a 4-fold reduction in neutralizing activity. 'This shows that a third dose is really, really helpful against omicron,' Veesler said.
+
+"All but one antibody treatments currently authorized or approved to be used with patients exposed to the virus, had no or had markedly reduced activity against omicron in the laboratory. The exception was an antibody called sotrovimab, which had a 2- to 3-fold reduction of neutralizing activity, the study finds.
+
+"But when they tested a larger panel of antibodies that have been generated against earlier versions of the virus, the researchers identified 4 classes of antibodies that retained their ability to neutralize omicron. Members of each of these classes target one of 4 specific areas of the spike protein present in not only SARS-CoV-2 variants but also a group of related coronaviruses, called sarbecoviruses. These sites on the protein may persist because they play an essential function that the protein would lose if they mutated. Such areas are called 'conserved'.
+
+"The finding that antibodies are able to neutralize via recognition of conserved areas in so many different variants of the virus suggests that designing vaccines and antibody treatments that target these regions could be effective against a broad spectrum of variants that emerge through mutation, Veesler said." - Mod.LK]
+
+******
+[3] CDC: isolation guide changes
+Date: Tue 28 Dec 2021
+Source: CIDRAP (Center for Infectious Disease Research and Policy) [edited]
+https://www.cidrap.umn.edu/news-perspective/2021/12/shortened-cdc-covid-isolation-guide-draws-sharply-mixed-reviews
+
+
+Facing an onslaught of omicron variant activity amid holiday gatherings and travel, the Centers for Disease Control and Prevention (CDC) yesterday [27 Dec 2021] updated its COVID-19 guidance, halving the isolation and quarantine period for people with or exposed to the coronavirus.
+
+The move, which relies on masking and accounts for sparse rapid test availability, drew praise from some experts as a needed change in the face of an evolving situation. But it also drew sharp criticism from other experts and some labor officials, who point to scientific gaps and ongoing risks.
+
+In a press release announcing the new recommendations on [27 Dec 2021], CDC recommended that anyone who tests positive, regardless of vaccination status, stay home for 5 days. If there are no symptoms or symptoms resolve after 5 days, the individual can leave the house if they mask around others for 5 days (https://www.cdc.gov/media/releases/2021/s1227-isolation-quarantine-guidance.html).
+
+For those who are exposed, CDC recommends people who aren't boosted or are unvaccinated should stay home for 5 days, then wear a mask around others for 5 more days. Those who are boosted or recently completed their primary vaccination series should mask around others for 10 days. Both groups should test on day 5, if possible.
+
+CDC director Rochelle Walensky said the quickly spreading omicron variant has the potential to impact all parts of society. She added that the new guidance takes into account what's known about virus spread and protection from vaccines and boosters. "These updates ensure people can safely continue their daily lives. Prevention is our best option: get vaccinated, get boosted, wear a mask in public indoor settings in areas of substantial and high community transmission, and take a test before you gather," she said.
+
+Leana Wen, former Baltimore health commissioner and contributing columnist for the Washington Post, said on Twitter that CDC's decision to reduce isolation and quarantine was needed to prevent the collapse of critical infrastructure, with the nation poised to pass its previous COVID-19 peak, possibly reaching one million cases a day.
+
+Ashish Jha, dean of the Brown University School of Health, on Twitter today [28 Dec 2021] said the new guidance is a step in the right direction, taking into account the period when people are most contagious, while minimizing unnecessary constraints and encouraging more people to test and isolate.
+
+However, other experts said the 5-day isolation period unpaired with a negative test is risky and not supported by data. Michael Mina, epidemiologist and major proponent of at-home COVID-19 antigen tests, on Twitter said the new guidance is reckless and noted that some people are infectious for 3 days, while others can still pass the virus at 12 days. He said testing negative to leave isolation early is a smart strategy, as would be wearing an N95 mask if leaving isolation. Mina said the lack of a negative test requirement before leaving isolation probably reflects a perception that there aren't enough rapid tests in the United States, which he said is a massive problem that can be easily changed.
+
+Meanwhile, the Association of Flight Attendants today [28 Dec 2021] questioned CDC's new policy, saying it aligns with the number of days pushed by corporations. The group's president, Sara Nelson, called it "less than reassuring." "If any business pressures a worker to return to work before they feel better we will make clear it is an unsafe work environment, which will cause a much greater disruption than any 'staffing shortages'," she said in a statement.
+
+More COVID headlines
+--------------------
+- COVID-19 infections in US children are up 50% since 1 Dec 2021, with 199 000 cases in kids reported the week between 16 Dec and 23 Dec 2021, the American Academy of Pediatrics said in its latest update. Yesterday [27 Dec 2021], New York officials said COVID-19 hospitalizations in children in New York City have jumped by nearly 5 times this month (https://www.aap.org/en/pages/2019-novel-coronavirus-covid-19-infections/children-and-covid-19-state-level-data-report/).
+
+- The United States reported 512 553 new COVID-19 cases yesterday [27 Dec 2021], and 1762 deaths, according to the Johns Hopkins COVID-19 tracker. The 14-day average of new daily cases is 243 099, with 1205 deaths and 71 381 hospitalized, according to the New York Times analysis (https://www.nytimes.com/interactive/2021/us/covid-cases.html). CDC sequencing data indicates omicron now accounts for 58.6% of the coronavirus variants circulating around the country.
+
+- South African researchers yesterday [27 Dec 2021] in a preprint study suggested infection with omicron boosts immunity against delta.
+
+- An analysis of 53 seroprevalence studies from India said SARS-CoV-2 prevalence in the country jumped from 20.9% after the country's 1st wave to 69.2% after its massive delta wave (https://www.ijidonline.com/article/S1201-9712(21)01251-0/fulltext?dgcid=raven_jbs_aip_email).
+
+- Australia recorded another record surge in new COVID-19 cases, driven by the highly infectious omicron variant. Rising cases have prompted the country's state leaders to bring back some containment measures, such as mandatory masking and QR code check-ins at public venues (https://www.reuters.com/business/healthcare-pharmaceuticals/australia-covid-numbers-surge-omicron-outbreak-strains-domestic-politics-2021-12-28/).
+
+[byline: Lisa Schnirring]
+
+--
+communicated by:
+Mary Marshall
+
+******
+[4] WHO: daily new cases reported (as of 28 Dec 2021)
+Date: Tue 28 Dec 2021
+Source: WHO [abridged, edited]
+https://covid19.who.int/table
+
+
+*Daily case reports as of 28 Dec 2021 16:48 CET
+
+Surveillance
+------------
+WHO region (no. countries/territories):
+Total confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+------------------------------------------------------------
+Western Pacific Region (19): 11 129 494 (33 494) / 154 369 (311)
+European Region (61): 98 368 090 (349 517) / 1 656 914 (3371)
+South-East Asia Region (10): 44 918 875 (8663) / 720 174 (325)
+Eastern Mediterranean Region (22): 17 116 493 (11 965) / 315 303 (159)
+Region of the Americas (54): 101 475 409 (28 276) / 2 401 384 (236)
+African Region (49): 7 110 817 (24 029) / 155 505 (99)
+Cases on an international conveyance: 764 (0) / 13 (0)
+
+Confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+Grand total: 280 119 942 (455 944) / 5 403 662 (4501)
+
+--
+communicated by:
+ProMED
+
+[Data by country, area, or territory for 28 Dec 2021 can be accessed at https://promedmail.org/wp-content/uploads/world-pdf/2021%20WHO%20Daily%20Tables%20DEC28_1640805613.pdf.
+
+- The Americas region reported 6.2% of cases and 5.2% of deaths in the past 24 hours and maintained its position as the most severely affected region, having reported more than 101.47 million cases. Brazil (8699) reported the highest number of cases followed by Argentina, Colombia, and Bolivia, all reporting more than 1000 cases in the past 24 hours. An additional 3 countries reported more than 500 but fewer than 1000 cases (Mexico, Chile and Panama). The USA did not report any cases or deaths over the past 24 hours.
+
+- The European region reported 76.6% of daily case numbers and 74.8% of the daily deaths reported in the past 24 hours, and total cumulative cases reported exceed 98.36 million cases. Some countries not reporting cases in the last 24 hours or longer include Belgium (9 cases) and Sweden, among others. A total of 24 countries reported more than 1000 cases in the past 24 hours, with 8 reporting more than 10 000, 9 reporting over 1000 cases, and another 8 countries reported more than 500 but fewer than 1000 cases.
+
+- The Eastern Mediterranean region reported 2.6% of daily case numbers and 3.5% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 17.11 million cases. Jordan (2024) reported the highest number over the last 24 hours followed by Iran (1967), UAE (1732), and Lebanon (1100). Egypt, Libya, Occupied Palestinian Territory, and Saudi Arabia reported more than 500 but fewer than 1000 cases.
+
+- The African region reported 5.2% of daily case numbers and 2.1% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 7.11 million cases. South Africa (3778) reported the highest number over the last 24 hours, followed by Botswana (3488), Ghana (2521), Kenya (1596), Zambia (1356), and Zimbabwe (1098), Côte d'Ivoire (1098), Gabon (1040), and Namibia (1008). Uganda, Cameroon, Rwanda, Nigeria, Angola, Malawi, and Burundi reported more than 500 but fewer than 1000 cases over the last 24 hours. A total of 14 countries/territories did not report cases over the last 24 hours.
+
+- The Western Pacific region reported 7.3% of daily case numbers and 6.9% deaths in the past 24 hours, having reported a cumulative total of more than 11.12 million cases. Viet Nam (14 872) reported the highest number over the last 24 hours, followed by Australia, South Korea, Malaysia, and Laos.
+
+- The South East Asia region reported 1.9% of the daily newly reported cases and 7.2% of reported deaths in the past 24 hours, having reported a cumulative total of more than 44.91 million cases. India is dominant, reporting 6358 cases during the last 24 hours, followed by Thailand (2305). Bangladesh, Nepal, Myanmar, Indonesia, Sri Lanka, and Maldives, among others, did not report cases over the last 24 hours.
+
+On the Overview tab at the WHO source URL, the epidemic curve of confirmed COVID-19 cases by WHO region, 30 Dec 2019 through 28 Dec 2021, is an excellent visual representation of the pandemic. - Mod.UBA]
+
+******
+[5] Global update: Worldometer accessed 28 Dec 2021 20:57 EST (GMT-5)
+Date: Tue 28 Dec 2021
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at https://promedmail.org/wp-content/uploads/world-pdf/2021%20WORLDDATA%20DEC28_1640805636.pdf.
+
+A 7-day series of cumulative totals reported by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/2021%20DEC28WORLD7_1640805667.pdf. The figures in the commentary that follows are derived from this table. - Mod.UBA]
+
+Total number of reported deaths: 5 431 040
+Total number of worldwide cases: 283 220 829
+Number of newly confirmed cases in the past 24 hours: 1 348 679
+
+--
+communicated by:
+ProMED
+
+[In the past 24 hours, 19 countries -- the USA (382 189), France (179 807), the UK (128 685), Spain (99 671), Italy (78 300), Switzerland (35 882), Canada (34 626), Turkey (32 176), Germany (30 978), Russia (21 922), Greece (21 732), Sweden (21 247), Argentina (20 263), Australia (19 343), Portugal (17 172), Viet Nam (14 440), Belgium (14 760), Switzerland (13 344), and Denmark (12 330) -- all reported more than 10 000 newly confirmed cases. A global total of 7918 deaths were reported in the preceding 24 hours (late 26 Dec 2021 to late 27 Dec 2021). The major differences seen over the holiday period will most likely continue over the coming weekend; the rolling 7-day average is a better indicator to follow the trends of the pandemic, as the inflated or under-reported numbers day-to-day can be misleading.
+
+A total of 68 countries reported more than 1000 cases in the past 24 hours; 41 of the 68 countries are from the European region, 8 are from the Americas region, 5 are from the Western Pacific region, 4 are from the Eastern Mediterranean region, 2 from the South East Asia region, and 8 are from the African region.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, case counts have increased by 36.7%, while daily reported deaths have decreased by 3.7%. Similar comparative 7-day averages in the USA show a 69.5% increase in daily reported cases and a 15.7% increase in reported deaths.
+
+Impression: The global daily report counted over 1.3 million newly confirmed infections in the past 24 hours with over 283.22 million cumulative reported cases and over 5.43 million reported deaths. - Mod.UBA]
+See Also
+COVID-19 update (449): global, Israel vacc, pregnancy, future, WHO 20211229.8700554
+COVID-19 update (448): France, persistent viral RNA 20211228.8700520
+COVID-19 update (447): animal, USA (PA) zoo, lynx 20211227.8700517
+COVID-19 update (446): masks, boosters, dysphonia, global 20211226.8700504
+COVID-19 update (444): omicron symptoms, mistakes, genetic selection, global 20211225.8700488
+COVID-19 update (443): China, masks, quarantine, South Asia, WHO, global 20211224.8700466
+COVID-19 update (442): omicron, wastewater, severity, met synd, Paxlovid, WHO 20211224.8700457
+COVID-19 update (441): omicron, Germany wastewater detection, rapid tests, WHO 20211222.8700438
+COVID-19 update (440): omicron sever., post vacc. graft rejec., Europe, US, WHO 20211222.8700421
+COVID-19 update (439): animal, UK (England) zoo, tiger, OIE 20211221.8700411
+COVID-19 update (438): UK, Ireland, vaccine certificates, updates global 20211221.8700399
+COVID-19 update (437): omicron spread, UK, France, sports teams, global 20211220.8700382
+COVID-19 update (436): USA schools, UK hospitals, South Africa, immunity, WHO 20211219.8700372
+COVID-19 update (435): PAHO, UK, Europe, omicron impact, South Asia, WHO, global 20211217.8700352
+COVID-19 update (434): ECDC risk assessment, Australia, China, boosters, WHO 20211217.8700320
+COVID-19 update (433): animal, Colombia (AT) zoo, lion, OIE 20211216.8700315
+COVID-19 update (432): omicron spread, modeling, cardiac effects, China, WHO 20211215.8700298
+COVID-19 update (431): breakthrough infections, China, Trinidad Tobago, DRC, WHO 20211215.8700273
+COVID-19 update (430): animal, USA, Russia, Finland, vaccines 20211214.8700260
+COVID-19 update (429): immune escape, travel bans, global 20211213.8700256
+COVID-19 update (428): infec in vaccinated, nasal vacc, 3 doses, booster, global 20211212.8700233
+COVID-19 update (427): animal, Poland (ZP) mink, OIE 20211212.8700213
+COVID-19 update (426): USA, Denmark, rapid saliva test, vaccines, WHO, global 20211212.8700212
+COVID-19 update (425): Pfizer booster, AstraZeneca, omicron, Zimbabwe, mortality 20211211.8700188
+COVID-19 update (424): cross protec., omicron Kuwait ex Africa, South Korea, WHO 20211209.8700165
+COVID-19 update (423): animal, Denmark (SL) zoo, tiger, OIE 20211209.8700158
+COVID-19 update (422): omicron, neglected tropical diseases, Uganda, WHO, global 20211208.8700145
+COVID-19 update (421): omicron US, PPE issues, South Africa, WHO 20211207.8700131
+COVID-19 update (420): animal, Poland (KP) mink, OIE 20211207.8700127
+COVID-19 update (410): omicron, WHO update, impact, patience, global 20211130.8699966
+COVID-19 update (400): animal, sheep, research, experimental infection 20211121.8699806
+COVID-19 update (350): boosters, deaths, cases, vaccines, WHO 20211014.8699041
+COVID-19 update (300): Norway, myocarditis, schools, new variant C.1.2, WHO 20210901.8638460
+COVID-19 update (200): animal, China, origin 20210608.8433657
+COVID-19 update (100): antibodies, vaccine, Thailand, Cambodia, WHO, global 20210316.8250009
+COVID-19 update (50): UK vaccine study, Brazil reinfection, WHO 20210205.8167161
+COVID-19 update (01): variants, vaccine, Thailand, global, WHO 20210101.80629382020
+2020
+---
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+COVID-19 update (562): viral load, UK vacc dose, ECDC, WHO 20201231.8061525
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia: China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia: China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+---
+Undiagnosed pneumonia: China (HU): RFI 20191230.6864153
+.................................................sb/lk/uba/rd/sh
+</body>

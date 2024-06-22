@@ -1,0 +1,576 @@
+<header id=022923>
+Published Date: 2021-01-10 08:33:59 EST
+Subject: PRO/EDR> COVID-19 update (11): variants, China, neutralizing ab. regional, WHO, global
+Archive Number: 20210110.8088708
+</header>
+<body id=022923>
+CORONAVIRUS DISEASE 2019 UPDATE (11): VARIANTS, CHINA, NEUTRALIZING ANTIBODIES, REGIONAL, WHO, GLOBAL
+*****************************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+
+[1] COVID-19 variants-implications
+[2 A,B,C] China: resurgence of cases
+[3] Neutralizing antibodies
+[3A] Correlation with severe pneumonia
+[3B] Role of neutralizing antibody for SARS-CoV-2 reinfection and transmission
+[4] Regional updates: ProMED South Asia [SOAS] for 8 Jan 2020
+[A] Afghanistan
+[B] Bangladesh
+[C] India
+[D] Nepal
+[E] Pakistan
+[F] Sri Lanka
+[5] WHO: daily new cases reported (as of 9 Jan 2021)
+[6] Global update: Worldometer accessed 9 Jan 2021 21:14 EST (GMT-5)
+
+******
+[1] COVID-19 variants-implications
+Date: 6 Jan 2021
+Source: JAMA [edited]
+https://jamanetwork.com/journals/jama/fullarticle/2775006
+
+
+Over the course of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) pandemic, the clinical, scientific, and public health communities have had to respond to new viral genetic variants. Each one has triggered a flurry of media attention, a range of reactions from the scientific community, and calls from governments to either "stay calm" or pursue immediate countermeasures. While many scientists were initially skeptical about the significance of the D614G alteration, the emergence of the new "UK variant" -- lineage B.1.1.7 -- has raised widespread concern. Understanding which variants are concerning, and why, requires an appreciation of virus evolution and the genomic epidemiology of SARS-CoV-2.
+
+Mutations, Variants, and Spread
+--------------------------
+Mutations arise as a natural by-product of viral replication.1 RNA viruses typically have higher mutation rates than DNA viruses. Coronaviruses, however, make fewer mutations than most RNA viruses because they encode an enzyme that corrects some of the errors made during replication. In most cases, the fate of a newly arising mutation is determined by natural selection. Those that confer a competitive advantage with respect to viral replication, transmission, or escape from immunity will increase in frequency, and those that reduce viral fitness tend to be culled from the population of circulating viruses. However, mutations can also increase and decrease in frequency due to chance events. For example, a "founder effect" occurs when a limited number of individual viruses establish a new population during transmission. The mutations present in the genomes of these viral ancestors will dominate the population regardless of their effects on viral fitness. This same interplay of natural selection and chance events shapes virus evolution within hosts, in communities, and across countries.
+
+Although the terms mutation, variant, and strain are often used interchangeably in describing the epidemiology of SARS-CoV-2, the distinctions are important. Mutation refers to the actual change in sequence: D614G is an aspartic acid-to-glycine substitution at position 614 of the spike glycoprotein. Genomes that differ in sequence are often called variants. This term is somewhat less precise because 2 variants can differ by one mutation or many. Strictly speaking, a variant is a strain when it has a demonstrably different phenotype (e.g., a difference in antigenicity, transmissibility, or virulence).
+
+Evaluation of a new SARS-CoV-2 variant should include assessment of the following questions: Did the variant achieve prominence through natural selection or chance events? If the evidence suggests natural selection, which mutation(s) are being selected? What is the adaptive benefit of these mutations? What effect do these mutations have on transmissibility and spread, antigenicity, or virulence?
+
+Spike D614G
+----------
+The D614G mutation in the spike glycoprotein of SARS-CoV-2 was first detected at a significant level in early March 2020 and spread to global dominance over the next month.2 The mutation initially appeared to arise independently and simultaneously sweep across multiple geographic regions. This apparent convergent evolution was suggestive of natural selection and an adaptive benefit of D614G. However, subsequent sequencing efforts identified the D614G mutation in viruses in several Chinese provinces in late January 2020. This raised the possibility that global dispersal of this mutation could have resulted from chance founder events in which viruses harboring 614G just happened to initiate the majority of early transmission events in multiple locations.
+
+This plausible null hypothesis led many in the evolution community to doubt that the D614G mutation was adaptive, despite in vitro data showing its effects on receptor binding. A recent population genetic and phylodynamic analysis of more than 25 000 sequences from the UK found that viruses bearing 614G did appear to spread faster and seed larger phylogenetic clusters than viruses with 614D.3 The effect size was modest, and the varying models did not always achieve statistical significance. More recently, complementary work in animal models indicates that 614G viruses transmit more efficiently.4,5
+
+Spike N453Y and Mink
+-----------------
+Concerning outbreaks of SARS-CoV-2 began to emerge on mink farms in the Netherlands and Denmark in late spring and early summer 2020.6 Genomic and epidemiologic investigation of an early outbreak in the Netherlands demonstrated human to mink, mink to mink, and mink to human transmission.7 In early November 2020, Danish authorities reported 214 cases of human coronavirus disease 2019 (COVID-19) associated with mink farms. Many SARS-CoV-2 sequences from the Netherlands and Danish outbreaks had a Y453F mutation in the receptor binding domain of spike, which might mediate increased binding affinity for mink ACE2 (angiotensin-converting enzyme 2). Eleven individuals from the Danish outbreak had a variant termed cluster 5, which had 3 additional mutations in spike (del69_70, I692V, and M1229I). An initial investigation of 9 human convalescent serum samples suggested a modest and variably statistically significant reduction in neutralization activity against cluster 5 viruses (mean, 3.58 fold; range, 0-13.5). The apparent adaptation of SARS-CoV-2 to mink was nevertheless concerning because continued evolution of the virus in an animal reservoir could potentially lead to recurrent spillover events of novel SARS-CoV-2 from mink to humans and other mammals. For this reason, many countries have increased surveillance efforts and, in some cases, implemented large-scale culls (that is, selective slaughter) of mink on farms.
+
+Lineage B.1.1.7 and N501Y
+------------------------
+Lineage B.1.1.7 (also called 501Y.V1) is a phylogenetic cluster that is rapidly spreading in southeastern England8 (Figure). It had accumulated 17 lineage-defining mutations prior to its detection in early September 2020, which suggests a significant amount of prior evolution, possibly in a chronically infected host. As of 28 Dec 2020, this variant accounted for approximately 28% of cases of SARS-CoV-2 infection in England, and population genetic models suggest that it is spreading 56% more quickly than other lineages.9 Unlike D614G, which could plausibly have benefited from early chance events, lineage B.1.1.7 expanded when SARS-CoV-2 cases were widespread and has seemingly achieved dominance by outcompeting an existing population of circulating variants. This is strongly suggestive of natural selection of a virus that is more transmissible at a population level. While public health interventions like masks, physical distancing, and limitations on large gatherings should remain effective, control of a more transmissible variant would likely require more stringent application and widespread adoption of these measures.
+
+Eight of the lineage B.1.1.7 mutations are in the spike glycoprotein, including N501Y in the receptor binding domain, deletion 69_70, and P681H in the furin cleavage site. All of these mutations could plausibly influence ACE2 binding and viral replication. The 501Y spike variants are predicted to have a higher affinity for human ACE2, and a different variant, also with an N501Y mutation, is rapidly spreading in South Africa. The effects of these mutations on antigenicity are currently unclear.
+
+Antigenicity and Vaccine Effectiveness
+-----------------------------
+Genomic surveillance of SARS-CoV-2 variants has largely focused on mutations in the spike glycoprotein, which mediates attachment to cells and is a major target of neutralizing antibodies. There is intense interest in whether mutations in the spike glycoprotein mediate escape from host antibodies and could potentially compromise vaccine effectiveness, since spike is the major viral antigen in the current vaccines. At this point, strong selection of a variant at the population level is probably not driven by host antibody because there are not sufficient numbers of immune individuals to systematically push the virus in a given direction. In contrast, if a variant has one or more mutations in spike that increase transmissibility, it could quickly outcompete and replace other circulating variants. Because current vaccines provoke an immune response to the entire spike protein, it is hoped that effective protection may still occur despite a few changes at antigenic sites in SARS-CoV-2 variants.
+
+Separating cause from consequence is important in evaluating data on antibody neutralization of spike variants. Regardless of why the mutations were selected, it is reasonable to expect that many mutations in spike might affect neutralization by convalescent sera. It is, therefore, important to consider both the magnitude of the change in neutralization and the number of serum samples evaluated. Another issue is that viral glycoproteins are subject to evolutionary trade-offs. Sometimes a mutation that enhances one viral property, such as binding to a receptor, can reduce another property, such as escaping host antibody. Indeed, recent evidence suggests this could be the case for D614G. It is possible that mutations in spike that are "good" for the virus right now could also make it less fit in the context of population-level immunity in the future. Defining these dynamics, and their potential influence on vaccine effectiveness, will require large-scale monitoring of SARS-CoV-2 evolution and host immunity for a long time to come.
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[This is a good summary article of the SARS-CoV2 mutational changes and variants that have emerged over the last 12 months, and the key lesson is that the monitoring of viral changes through active epidemiological as well as genomic surveillance must be continued as the pandemic enters its protracted phase. - Mod.UBA
+
+******
+[2] China: resurgence of cases
+[A]
+Date: 8 Jan 2021
+Source: Caixin [edited]
+https://www.caixinglobal.com/2021-01-08/three-things-to-know-about-north-chinas-locally-transmitted-covid-outbreak-101648364.html
+
+
+The latest Covid-19 outbreak in the northern province of Hebei, which surrounds the nation's capital of Beijing, has become home to the largest local flare-up in the country, which has alarmed the national health authorities.
+
+Since the 1st patient was confirmed on 2 Jan 2021, the province had reported a total of 311 positive cases, including 7 imported cases, as of Friday [8 Jan 2021] morning, a tally that surpassed all the other recent local outbreaks, including those in the southwestern city of Chengdu to the northeastern coastal city of Dalian.
+
+On late Fri 8 Jan 2021, local health authorities in Shijiazhuang further said a total of 259 positive cases have been found in a sweeping test of all of the residents in the city's Gaocheng District, the only high-risk area for Covid-19 in the country.
+
+[Byline: Cora Zhu]
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+----
+[B]
+Date: 8 Jan 2021
+Source: National Health Commission [edited]
+http://en.nhc.gov.cn/2021-01/08/c_82689.htm
+
+
+Updates
+- The origin of the latest outbreak in Hebei province has not yet been identified, and epidemiological investigations are underway.
+- Xingtai becomes 2nd city in Hebei to impose lockdown after provincial capital of Shijiazhuang.
+- The total confirmed local COVID-19 cases in Hebei stand at 127, along with 183 asymptomatic cases.
+- 9 communities and villages in Shijiazhuang have been designated as medium-risk areas.
+- Hebei province reported 33 new locally transmitted COVID-19 cases on Fri 8 Jan 2021; Another 39 asymptomatic carriers were also found.
+- Among the newly confirmed cases, 31 were reported in the provincial capital of Shijiazhuang. Also, 35 of the asymptomatic carriers were found in Shijiazhuang.
+- 5 communities and villages were designated as medium-risk areas on Fri 8 Jan 2021 morning in Nangong city, Xingtai.
+
+Previous reports.
+Shijiazhuang, capital of Hebei province, has been put under a lockdown after the city reported the highest daily COVID-19 case numbers since the outbreak occurred over the past weekend.
+
+The province reported 51 new locally transmitted COVID-19 cases on Thursday [7 Jan 2021], bringing the total number of confirmed cases to 90 in Hebei, the provincial health commission said on 7 Jan 2021. Another 69 asymptomatic carriers were also found.
+
+Among the newly confirmed cases, 50 were reported in the provincial capital of Shijiazhuang. Also, 67 of the asymptomatic carriers were found in Shijiazhuang.
+
+"All residents and vehicles are not allowed to leave Shijiazhuang, and residents' movements within the city will be limited," Meng Xianghong, vice-mayor of Shijiazhuang, said on Thursday [7 Jan 2021] night at a news conference on epidemic control.
+
+Many flights to and from Shijiazhuang have been canceled since Thu 7 Jan 2021 morning. Railway stations have stopped selling tickets, while long-distance buses are suspended, Mi Zhiqi, head of the city's transport bureau, said at the conference.
+
+Vehicles are not allowed to enter or exit except for those transporting daily necessities or medical materials.
+
+The cases in Shijiazhuang are mainly in 2 villages in Zengcun town, Gaocheng district. But the contacts are widely spread across 5 districts in downtown Shijiazhuang and 10 other counties and districts, Meng said.
+
+In Gaocheng district, the country's only high-risk area for the virus, locals are not allowed to leave, Meng added.
+
+Three officials there have been punished for dereliction of duty in COVID-19 prevention and control after a resident tested positive on 3 Jan 2021, according to the city's top anti-corruption authority.
+
+To understand the scale of the outbreak, Shijiazhuang started universal testing on Wed 6 Jan 2021. By midday on Thu 7 Jan 2021, it had collected over 6 million samples, more than 2.4 million of which have been tested, with 11 samples testing positive.
+
+For treatment, the Shijiazhuang Fifth Hospital has been cleared exclusively for COVID-19 patients, and another 3 hospitals are preparing, Meng said. A total of 49 medical experts have been deployed, Meng said. Currently, all the patients are in stable condition, she added.
+
+Early investigations into 51 new cases on Thu 7 Jan 2021 show that the earliest symptoms were detected on 20 Dec 2020 and that many of the infected had attended gatherings, including weddings.
+
+"The cluster of infections in Shijiazhuang has been around for a while because some patients have tested positive for antibodies, which means they have been infected for about a week," Lu Hongzhou, a professor at Shanghai Public Health Clinical Center, said during a television interview.
+
+With the testing expanding, Xingtai, another city in Hebei, reported 2 confirmed cases on Fri 8 Jan 2021, increasing its total to 9 cases. The city is also carrying out citywide testing for COVID-19.
+
+Beijing, located adjacent to Hebei province, has sent medical experts to support COVID-19 prevention and control work, Gao Xiaojun, a spokesman for the capital's health commission, said on Thu 7 Jan 2021. The experts joined a National Health Commission team sent previously to Hebei.
+
+In order to reduce COVID-19 infection risks in the capital, Hebei has asked residents not to travel to Beijing unless absolutely necessary. People who need to travel to Beijing must provide a negative nucleic acid test result within 72 hours before entering the capital.
+
+Elsewhere, Liaoning province reported one confirmed COVID-19 case on Thu 7 Jan 2021.
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+------
+[C]
+Date: 10 Jan 2020
+Source: NHC [abridged, edited]
+http://en.nhc.gov.cn/2021-01/10/c_82701.htm
+
+
+- On 9 Jan 2021, 31 provincial-level regions and the Xinjiang Production and Construction Corps on the Chinese mainland reported 69 new cases of confirmed infections (21 imported cases, 6 in Fujian province, 4 in Tianjin municipality, 4 in Shanghai municipality, 2 in Liaoning province, 2 in Zhejiang province, 1 in Shanxi province, 1 in Guangdong province and 1 in Shaanxi province; 48 indigenous cases, 46 in Hebei province, 1 in Beijing municipality and 1 in Liaoning), no new cases of suspected infections, and no deaths.
+- As of 9 Jan 2021, 31 provincial-level regions and the Xinjiang Production and Construction Corps on the Chinese mainland had reported 4412 cases of imported confirmed infections and no deaths. In all, 4118 patients had been cured and discharged from hospital. There still remained 294 confirmed cases (including 5 cases in serious condition) and 1 suspected case.
+- The National Health Commission had received reports of 87 433 confirmed cases and 4634 deaths in 31 provincial-level regions and the Xinjiang Production and Construction Corps on the Chinese mainland, and in all, 82 211 patients had been cured and discharged from hospital. There still remained 588 confirmed cases (including 16 cases in serious condition) and 1 suspected case.
+- 924 062 people had been identified as having had close contact with infected patients. 26 077 were still under medical observation.
+- 31 provincial-level regions and the Xinjiang Production and Construction Corps on the Chinese mainland reported 27 new asymptomatic cases (including 13 imported cases).
+- 7 asymptomatic cases were freed from medical observation (including 6 imported cases) and 33 asymptomatic cases became confirmed cases (including 4 imported cases).
+- 470 asymptomatic cases were still under medical observation (including 256 imported cases).
+- 10 085 confirmed infections had been reported in the Hong Kong and Macao special administrative regions and Taiwan province: 9211 in Hong Kong (157 had died and 8374 had been cured and discharged from hospital), 46 in Macao (all had been cured and discharged from hospital) and 828 in Taiwan (7 had died and 720 had been cured and discharged from hospital).
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[The increase in COVID-19 cases in Hebei province in China and evidence of local transmission are a cause for concern, since the upcoming Chinese New Year will entail travel and heighten the risk of disease spread. Strict implementation of restrictions and control measures can help control the local epidemic from spreading countrywide. - Mod.UBA]
+
+******
+[3] Neutralizing antibodies
+[A] Correlation with severe pneumonia
+Date: 8 Jan 2021
+Source: LitCovid [edited]
+https://www.ncbi.nlm.nih.gov/research/coronavirus/publication/33406577
+
+
+The emerging coronavirus disease 2019 (COVID-19) has become a serious global public health threat. With more and more recovered patients, it is urgently needed for evaluation of the neutralizing antibody (NAb) in these patients. In this study, we collected blood samples from 49 patients recently recovered from COVID-19. Serum NAbs were measured using a novel surrogate virus neutralization test (sVNT). Factors associated with NAb titers were analyzed using Ordinary Least Squares regression model. The median age of the study participants was 37 years (IQR, 30.0-54.5) and 55.1 % (27/49) of which were male. The median time to blood collection (for NAb analysis) from illness onset, viral clearance and discharge were 43.0 days (IQR, 36.0-50.0), 27.0 days (IQR, 20.5-37) and 17.0 days (IQR, 15.0-33.0), respectively. Patients had a median NAb titer of 1: 40 (IQR, 1:15-1:120). NAbs were not detected in 2 asymptomatic children who quickly cleared the virus. NAb titers were higher in patients with older age (p = 0.020), symptomatic infection (p = 0.044), more profound lung involvement (p0.001), abnormal C-reactive protein level (p0.01) and elevated lactate dehydrogenase (p = 0.019). Multivariable analysis revealed that severity of pneumonia and having comorbidity positively correlated with NAb titers in recovered patients (p = 0.02), while use of corticosteroids negatively impacted NAb titers (p = 0.01). Our study suggests that some COVID-19 patients may not have detectable NAb after recovery. SARS-CoV-2 NAb titers are positively correlated with severity of COVID-19 pneumonia.
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+----
+[B] Role of neutralizing antibody for SARS-CoV-2 reinfection and transmission
+Date: 8 Jan 2020
+Source: LitCovid [edited]
+https://www.ncbi.nlm.nih.gov/research/coronavirus/publication/33407005
+
+
+Cases of laboratory-confirmed SARS-CoV-2 reinfection have been reported in a number of countries. Further, the level of natural immunity induced by SARS-CoV-2 infection is not fully clear, nor is it clear whether a primary infection is protective against reinfection. To investigate the potential association between serum antibody titers and reinfection of SARS-CoV-2, ferrets with different levels of NAb titers after primary SARS-CoV-2 infection were subjected to reinfection with a heterologous SARS-CoV-2 strain. All heterologous SARS-CoV-2 reinfected ferrets showed active virus replication in the upper respiratory and gastro-intestinal tracts. However, the high NAb titer group showed attenuated viral replication and rapid viral clearance. In addition, direct-contact transmission was observed only from reinfected ferrets with low NAb titers (under 20), and not from other groups. Further, lung histopathology demonstrated the presence of limited inflammatory regions in the high NAb titer groups compared with control and low NAb groups. This study demonstrates a close correlation between a low NAb titer and SARS-CoV-2 reinfection in a recovered ferret reinfection model.
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[Neutralizing antibodies (nAbs) can be passively transferred into individuals before or after viral infection to prevent or treat disease (vaccines, on the other hand, actively stimulate the immune system to produce antigen-specific nAbs to prevent disease). Therapeutic nAbs generally exist in the body for a short time, and their treatment efficacy depends on a variety of factors, including nAb titre, total amount, specificity, and half-life. Neutralizing antibodies with high specificity, strong affinity to target proteins, and low toxicity have been used to treat viral infections caused by Ebola virus, cytomegalovirus, influenza virus, human immunodeficiency virus, and respiratory syncytial virus.
+
+More clinical trial data are needed to determine whether sera from COVID-19-convalescent patients and neutralizing monoclonal antibodies specific to SARS-CoV-2 antigens can prevent COVID-19 or reduce the severity of the disease in high-risk populations.
+
+The application of preclinically tested nAbs to patients with COVID-19 requires intensive study and testing. All developed SARS-CoV-2-specific nAbs to date have not been evaluated for protection against SARS-CoV-2 infection in animal challenge models, and only a select few are in clinical trials. More clinical trial data are needed. The hope is that antibody cocktails based on nAbs specific to different neutralizing epitopes in the SARS-CoV-2 RBD, or to other regions in the S protein of SARS-CoV-2, make effective COVID-19 treatments and provide short-term protection against viral infection.
+
+Whether a combination of the early administration of nAbs followed by steroids such as dexamethasone at a later disease stage (to reduce the risk and severity of acute respiratory distress syndrome) may prevent high viral loads and severe pneumonia also remains to be seen.
+
+Unlike vaccines, which usually take several weeks to induce antibody production in immunized individuals, neutralizing mAbs may provide immediate protection against viral infection, and thus be suitable for people at all ages and be particularly suitable for high-risk populations and immunocompromised individuals who typically do not generate sufficient nAbs after vaccination.
+
+Effective production of neutralizing mAbs at scale is not very cost-effective since most mAbs are produced in mammalian cells with relatively low productivity and thus high production costs. Manufacturing approaches that produce effective nAbs or nanobodies with high expression yield at low cost are also acutely needed. More work to be done. - Mod.UBA]
+
+******
+[4] Regional updates: ProMED South Asia
+ProMED-SoAs: COVID-19 update (04): South Asia 20210108.8083556
+
+[A] Afghanistan
+Date: Thu 7 Jan 2021 02:19 AFT
+Source: The Khaama Press News Agency [edited]
+https://www.khaama.com/afghanistan-reports-120-new-covid-19-cases-in-24-hours-66443344/
+
+
+The Ministry of Public Health reported on [Thu 7 Jan 2021] that out of 1666 samples, 120 cases have turned positive in the last 24 hours.
+
+At least 210 910 people have so far been tested in the governmental labs, and there still are 9215 known active cases in the country.
+
+According to the ministry, within 24 hours, 451 individuals have recovered from COVID-19, and 7 individuals are reported dead.
+
+The new cases recorded are in Kabul (7), Herat (22), Kandahar (7), Balkh (2), Nangarhar (6), Baghlan (1), Kunduz (7), Parwan (6), Nimroz (1), Badghis (7), Kapisa (3), Laghman (7), Kunar (7), Ghor (13), Farah (12), and Faryab (12).
+
+The total number of cases in Afghanistan is 53 327, total deaths are 2260, and the total recoveries are 43 291.
+
+--
+Communicated by:
+ProMED-SoAs
+<promed-SoAs@promedmail.org>
+
+[Maps of Afghanistan: http://www.lib.utexas.edu/maps/middle_east_and_asia/afghanistan_admin-2009.jpg and https://promedmail.org/promed-post?place=8088708,137]
+
+----
+[B] Bangladesh
+Date: Fri 8 Jan 2021 04:51 AM
+Source: The Daily Star [edited]
+https://www.thedailystar.net/backpage/news/31-more-die-covid-1007-test-positive-2024097
+
+
+According to a press release issued by the Directorate General of Health Services (DGHS), 31 people died from COVID-19 in 24 hours till 8:00am [7 Jan 2021].
+
+The total number of deaths has now reached 7718, and the death rate stands at 1.48 percent.
+
+At least 1007 new infections were recorded in the meantime, taking the total number of people infected to 519 905, added the release.
+
+The current positivity rate is 6.55 percent, while the total positivity rate stands at 15.67 percent.
+
+A total of 15 381 samples were tested across the country in those 24 hours.
+
+At least 966 COVID-19 patients have recovered during the period.
+
+The total number of recoveries now stands at 464 446 and the recovery rate at 89.33 percent.
+
+Among the 31 dead, 21 were men and 10 women. Of them, one was aged between 11 and 20 years, one between 21 and 30, 2 between 31 and 40, 2 between 41 and 50, 5 between 51 and 60, and 20 above 60 years, added the release.
+
+--
+Communicated by:
+ProMED-SoAs
+<promed-SoAs@promedmail.org>
+
+[The daily case positivity against the total number of samples tested in Bangladesh over the last 7 days remained below 10% but above 6%. There is no report so far confirming the introduction of the new variant virus, although Bangladesh has not suspended any flights to and from the UK. The temporal trend of confirmed cases and deaths attributed to COVID-19 in Bangladesh can be seen at https://covid19.who.int/region/searo/country/bd. - Mod.PKB
+
+Maps of Bangladesh: http://tinyurl.com/bw2fuve and https://promedmail.org/promed-post?place=8088708,153]
+
+----
+[C] India
+Date: Fri 8 Jan 2021 05.01 IST
+Source: The Times of India, Times News Network (TNN) [edited]
+https://timesofindia.indiatimes.com/india/kerala-2-other-states-account-for-50-of-new-covid-cases/articleshow/80162727.cms
+
+
+India's daily COVID-19 count dropped to nearly 18 500 a day after the tally had crossed the 20 000 mark, even as 3 states continued to report higher than 1000 new infections.
+
+On [Thu 7 Jan 2021], Kerala logged 5051 fresh cases, Maharashtra 3729, and Chhattisgarh 1010. Although all 3 states reported a slight drop from the numbers recorded on [Wed 6 Jan 2021], they still accounted for 50% of all cases recorded in the country on [Thu 7 Jan 2021].
+
+Meanwhile, the Union health secretary has written to the Maharashtra, Kerala, Chhattisgarh, and Bengal governments on the need for "strict vigil" and "prompt action" to arrest the recent spike in COVID cases in each of the states.
+
+These 4 states account for 59% of all active COVID cases in the country, health secretary Rajesh Bhushan said in his letter. The state governments were also warned against allowing testing rates to drop, particularly in the light of the spread of the mutated strain of the virus that's said to be more infectious.
+
+Bengal reported 921 new cases on [Thu 7 Jan 2021], the 4th highest in the country and a slight increase from the numbers recorded in the state in the past 6 days. Overall, however, the cases appear to be receding in Bengal as compared with the numbers reported last week.
+
+There were 231 deaths recorded in India on [Thu 7 Jan 2021], around the same as the previous day's toll (228). Maharashtra continued to report the highest deaths, 72 on [Thu 7 Jan 2021], followed by Kerala (25), Delhi (19), and Bengal (18).
+
+--
+Communicated by:
+ProMED-SoAs
+<promed-SoAs@promedmail.org>
+
+[The total number of daily reported cases in India over the last 7 days remained below 20 000 except for one day. The number of returnees from the UK to India infected with the new variant of SARS-CoV-2 has reportedly increased to 71 as of 6 Jan 2021. (https://www.hindustantimes.com/india-news/india-reports-71-cases-of-uk-variant-of-covid-19/story-NgltdZ9JGtoqLZmjFxPKIK.html).
+
+The updated information on the distribution of active cases, cured/discharged/migrated cases, deaths, and total confirmed cases attributed to COVID-19 in India by states and union territories can be seen at https://www.mohfw.gov.in/ by clicking COVID-19 Statewise Status. - Mod.PKB
+
+Maps of India: http://www.mapsofindia.com/maps/india/india-political-map.htm and https://promedmail.org/promed-post?place=8088708,142]
+
+----
+[D] Nepal
+Date: Wed 6 Jan 2021 4:31 PM NPT
+Source: The Himalayan Times [edited]
+https://thehimalayantimes.com/nepal/409-new-covid-19-cases-registered-on-wednesday-nationwide-tally-hits-263193/
+
+
+Nepal on [Wed 6 Jan 2021] reported 409 new cases of coronavirus infection from across the country. With this, the nationwide infection count has advanced to 263 193.
+
+Of the total cases, 144 are females, while 265 are males.
+
+In the last 24 hours, 184 cases surfaced in Kathmandu valley. The capital hosts the highest number of active cases.
+
+Likewise, 495 people who were earlier infected with the virus are reported to have recovered in the past 24 hours as per the latest data provided by health ministry. As of today [6 Jan 2021], 256 161 individuals have recovered from the novel coronavirus infection. The recovery rate, as such, is 97.3 per cent.
+
+Nepal's active COVID-19 case count currently stands at 5133.
+
+Meanwhile, 6 more fatalities from the disease have taken the total death-toll to 1899.
+
+According to the health ministry, 6706 PCR tests were conducted in the last 24 hours. With this, a total of 1 964 160 PCR tests have been carried out in Nepal to date [6 Jan 201].
+
+Currently, there are 342 individuals in various quarantine facilities across Nepal.
+
+On [Tue 5 Jan 2021], Nepal's coronavirus case count reached 262 784 with 522 newly confirmed cases.
+
+--
+Communicated by:
+ProMED-SoAs
+<promed-SoAs@promedmail.org>
+
+[Maps of Nepal: https://en.wikipedia.org/wiki/Nepal#Subdivisions and https://promedmail.org/promed-post?place=8088708,139]
+
+----
+[E] Pakistan
+Date: Fri 8 Jan 2021
+Source: The News International (Pakistan) [edited]
+https://www.thenews.com.pk/print/771114-50-more-die-as-corona-killing-spree-continues
+
+
+The national tally of active COVID-19 cases in Pakistan on [Thu 7 Jan 2021] reached 34 049 with 2482 more people testing positive and 2122 people recovering from the disease during the last 24 hours.
+
+According to the latest update issued by the National Command and Operation Centre (NCOCF) 50 corona patients, of whom 45 were under treatment in hospital and 5 in their respective homes or quarantines, died on [Wed 7 Jan 2021]. During the last 24 hours, most of the deaths occurred in Punjab followed by Sindh. It said that out of the total 50 deaths, 27 patients died on a ventilator.
+
+No affected person was on a ventilator in Azad Jammu and Kashmir (AJK), Balochistan and Gilgit Baltistan (GB), while 315 ventilators were occupied elsewhere in Pakistan.
+
+The maximum ventilators were occupied in 4 major areas, including Multan at 45 percent, ICT 42 percent, Bahawalpur 41 percent, and Lahore 37 percent.
+
+Oxygen beds were also occupied in 4 major areas as in ICT at 30 percent, Karachi 34 percent, Peshawar 54 percent and Multan 33 percent.
+
+Some 40 509 tests were conducted across the country on [Thu 7 Jan 2021], including 13 699 in Sindh, 15 562 in Punjab, 4798 in Khyber Pakhtunkhwa (KP), 5167 in Islamabad Capital Territory (ICT), 599 in Balochistan, 413 in GB, and 271 in AJK. Around 450 515 people have recovered so far across Pakistan, making it a significant count with an over 86 percent recovery ratio.
+
+Since the pandemic outbreak, a total of 495 075 cases have been detected including AJK at 8416, Balochistan 18 300, GB 4874, ICT 38 687, KP 60 229, Punjab 142 835, and Sindh 221 734. Around 10 511 deaths have been recorded in the country since the eruption of the contagion, including 3653 in Sindh, 4203 in Punjab, 1702 in KP, 434 in ICT, 186 in Balochistan, 101 in GB, and 232 in AJK.
+
+A total of 6 964 337 corona tests have been conducted so far, while 626 hospitals are equipped with COVID facilities. Pakistan is expected to get the 1st COVID-19 vaccine shipment by the end of the current month [January 2021], Parliamentary Secretary for Ministry of National Health Services Dr Nausheen Hamid said on [Thu 7 Jan 2021].
+
+According to Radio Pakistan, Dr Hamid said the government was "urgently" drafting a database of all public and private medical workers to inoculate them in the 1st phase.
+
+--
+Communicated by:
+ProMED-SoAs
+<promed-SoAs@promedmail.org>
+
+[As indicated in the news report above, on 7 Jan 2021, Pakistan reported 2482 new COVID-19 cases, and a total of 50 people died from the disease on the previous day. Over the last 7 days, there was seemingly no report confirming additional cases to the number of 7 UK returnees already tested positive with the new variant of SARS-CoV-2 in the previous week.
+
+The trends of daily confirmed COVID-19 cases and deaths attributed to the disease in Pakistan can be seen at https://covid19.who.int/region/emro/country/pk. - Mod.PKB
+
+Maps of Pakistan can be seen at http://www.mapsofworld.com/pakistan/pakistan-political-map.html and https://promedmail.org/promed-post?place=8088708,140.]
+
+----
+[F] Sri Lanka
+Date: Wed 6 Jan 2021 08:39 PM IST
+Source: The Daily Mirror [edited]
+http://www.dailymirror.lk/breaking_news/2-more-die-of-Covid-19/108-203246
+
+
+Another 2 COVID-19 related deaths were reported today [6 Jan 2021] taking the death toll to 219, the Government Information Department said.
+
+Accordingly, a male aged 60 and a female aged 78, who are residents of Dehiwala and Alawwa, are among the deceased.
+
+--
+Communicated by:
+ProMED-SoAs
+<promed-SoAs@promedmail.org>
+
+[Maps of Sri Lanka: http://www.mapsopensource.com/images/sri-lanka-districts-map.gif and https://promedmail.org/promed-post?place=8088708,144.
+
+The South Asian COVID-19 situation, according to data from Worldometer (https://www.worldometers.info/coronavirus/) as of 8 Jan 2021 at 05:52 GMT:
+
+Country: Total cases / Total deaths / Deaths per million population
+India: 10 414 044 / 150 606 / 109
+Bangladesh: 519 905 / 7718 / 47
+Pakistan: 497 510 / 10 558 / 47
+Nepal: 263 605 / 1903 / 65
+Afghanistan: 53 332 / 2257 /57
+Sri Lanka: 46 780 / 222 / 10
+Maldives: 13 988 / 49 / 90
+Bhutan: 767 / 0 / -
+
+Over the last 4 weeks or so, the daily reported COVID-19 cases in Nepal were decreasing continually. Over the last 7 days, 15 332, 3012, and 3481 new cases were detected in Pakistan, Nepal, and Sri Lanka, respectively. The total number of daily new cases detected in Pakistan was higher a bit compared with the previous week's data but showed a decreasing trend in Sri Lanka. Within the next couple of days or so, the laboratory-confirmed COVID-19 cases in Pakistan will surpass the milestone of 0.5 million after 2 other South Asian countries, India and Bangladesh.
+
+The daily case positivity against the total number of samples tested in Bangladesh dropped further below 10% but remained above 6%. The total number of daily COVID-19 cases in India was dropping steadily, and most of the days of the week, the daily positive cases remained below 20 000 but above 15 000, except for one day, when the total number of newly detected cases crossed slightly the line of 20 000. India has reported 71 people so far infected with the variant virus.
+
+To compare the situation in South Asian countries above with previous disease data, ProMED-SoAs readers are referred to the archives below:
+- 1 Jan 2021 at 06:23 GMT: 20210101.8062937
+- 25 Dec 2020 at 06:24 GMT: 20201226.8045837
+- 18 Dec 2020 at 05:52 GMT: 20201220.8027646
+- 11 Dec 2020 at 06:47 GMT: 20201213.8010169
+- 4 Dec 2020 at 06:44 GMT: 20201205.7992003
+- 27 Nov 2020 at 07:04 GMT: 20201127.7975379
+- 20 Nov 2020 at 05:55 GMT: 20201120.7958257
+- 6 Nov 2020 at 06:28 GMT: 20201106.7920767
+- 30 Oct 2020 at 02:48 GMT: 20201101.7902222
+- 23 Oct 2020 at 05:55 GMT: 20201025.7884337
+- 16 Oct 2020 at 06:23 GMT: 20201017.7866149
+- 9 Oct 2020 at 05:30 GMT: 20201011.7847842
+- 2 Oct 2020 at 06:09 GMT: 20201002.7830222
+- 25 Sep 2020 at 06:03 GMT: 20200925.7811558
+- 18 Sep 2020 at 04:55 GMT: 20200918.7791805
+- 11 Sep 2020 at 06:28 GMT: 20200911.7768020
+- 4 Sep 2020 at 05:46 GMT: 20200904.7745644
+- 28 Aug 2020 at 06:25 GMT: 20200830.7724555
+- 21 Aug 2020 at 06:33 GMT: 20200822.7701213
+- 14 Aug 2020 at 02:38 GMT: 20200815.7676465
+- 7 Aug 2020 at 03:02 GMT: 20200809.7653320
+- 31 Jul 2020 at 12:08 GMT: 20200731.7630191
+- 24 Jul 2020 at 05:14 GMT: 20200724.7606708
+- 17 Jul 2020 at 05:16 GMT: 20200717.7583563
+- 10 Jul 2020 at 08:35 GMT: 20200710.7559716
+- 3 Jul 2020 at 05:42 GMT: 20200703.7535367
+- 26 Jun 2020 at 06:11 GMT: 20200627.7511829
+- 19 Jun 2020 at 06:47 GMT: 20200620.7486580
+- 12 Jun 2020 at 06:49 GMT: 20200613.7460702
+- 5 Jun 2020 at 07:04 GMT: 20200606.7429525
+- 29 May 2020 at 07:07 GMT: 20200529.7392910
+- 22 May 2020 at 06:18 GMT: 20200522.7364852
+- 15 May 2020 at 06:24 GMT: 20200515.7338409
+- 8 May 2020 at 06:20 GMT: 20200508.7312471
+- 1 May 2020 at 8:36 GMT: 20200501.7287142
+- 24 Apr 2020 at 14:53 GMT: 20200426.7262474
+- 17 Apr 2020 at 12:13 GMT: 20200418.7234555
+- 10 Apr 2020 at 8:06 GMT: 20200410.7207231
+
+The lowest number of confirmed cases recorded so far is from Bhutan. A recent ProMED-SoAs posting on a mass media report has disclosed the 1st death in Bhutan attributed to COVID-19 (see archive no. 20210107.8082695).
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+******
+[5] WHO: daily new cases reported (as of 9 Jan 2021)
+Date: Sat 9 Jan 2021
+Source: WHO [abridged, edited]
+https://covid19.who.int/table
+
+
+*Daily case reports as of 9 Jan 2021 17:53 CET
+
+Surveillance
+------------
+WHO region (no. countries/territories):
+Total confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+----------------------------------------
+Western Pacific Region (19): 1 171 756 (13 144) / 20 989 (120)
+European Region (61): 28 560 073 (273 942) / 622 509 (6132)
+South East Asia Region (10): 12 208 095 (13 248) / 187 117 (272)
+Eastern Mediterranean Region (22): 5 124 000 (26 694) / 124 486 (389)
+Region of the Americas (54): 38 417 522 (441 723) / 904 118 (7800)
+African Region (49): 2 107 015 (30 961) / 47 374 (741)
+Cases on an international conveyance (Diamond Princess): 745 (0) / 13 (0)
+
+Confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+Grand total: 87 589 206 (799 712) / 1 906 606 (15 454)
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[The number of countries and territories reporting confirmed cases of COVID-19 to WHO remains 218.
+
+Data by country, area, or territory for 9 Jan 2021 can be accessed at https://promedmail.org/wp-content/uploads/world-pdf/2021%20WHO%20Daily%20Tables%20Jan%209_1610265113.pdf.
+
+- The Americas region reported 55.2% of daily case numbers and 50.4% of the daily deaths reported in the past 24 hours and maintained its position as the most severely affected region, having reported more than 38.4 million cases. The USA maintains its dominance, followed by Brazil, Colombia, Argentina, and Mexico. Nine additional countries reported more than 1000 cases in the past 24 hours (Canada, Panama, Chile, Peru, Bolivia, Costa Rica, Dominican Republic, Honduras and Puerto Rico) and an additional 5 countries (Ecuador, Uruguay, Paraguay, Guatemala, and El Salvador) reported more than 500 but fewer than 1000 cases.
+
+- The European region reported 34.2% of daily case numbers and 39.6% of the daily deaths reported in the past 24 hours, and total cumulative cases reported exceed 28.5 million. Countries not reporting cases include Spain, Belgium, Bosnia and Herzegovina, and Kazakhstan, among others. The UK maintains its dominance, followed by Germany, Russia, France, Italy, Czech Republic, and Turkey (reporting more than 10 000 cases). Another 20 countries reported more than 1000 cases, and an additional 7 countries reported more than 500 but fewer than 1000 cases.
+
+- The Eastern Mediterranean region reported 3.3% of daily case numbers and 2.5% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 5.12 million cases. Iran maintains its dominance, over 6200, followed by Lebanon, UAE, Tunisia, Pakistan, Morocco, Egypt, and Jordan. Palestinian Authority, Iraq, Libya and Kuwait reported more than 500 but fewer than 1000 cases.
+
+- The African region reported 3.8% of daily case numbers and 4.7% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 2.1 million cases. South Africa maintains its dominance, over 210 00 cases, followed by Nigeria and Zambia. Botswana, Algeria, and Namibia reported more than 500 but fewer than 1000 cases.
+
+- The Western Pacific region reported 1.2% of daily case numbers and 0.77% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 1.17 million cases. Japan maintains its dominance, reporting about 7800 cases, followed by Malaysia, Philippines, South Korea, and China.
+
+- The South East Asia region reported 1.6% of the daily newly reported cases and 1.7% of reported deaths in the past 24 hours, having reported a cumulative total of more than 12.20 million cases. India did not report cases for the last 24 hours. Indonesia reported more than 10 000 cases, followed by Bangladesh, Myanmar, Nepal, and Sri Lanka.
+
+On the Overview tab at the WHO source URL, the epidemic curve of confirmed COVID-19 cases by WHO region, 30 Dec 2019 through 9 Jan 2021, is an excellent visual representation of the pandemic. - Mod.UBA]
+
+******
+[6] Global update: Worldometer accessed 9 Jan 2021 21:14 EST (GMT-5)
+Date: Sat 9 Jan 2021
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at https://promedmail.org/wp-content/uploads/world-pdf/2021%20WORLDDATAJAN9_1610264574.pdf.
+
+A 7-day series of cumulative data reported by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/2021%20JAN9WORLD7_1610265027.pdf. - Mod.UBA]
+
+Total number of reported deaths: 1 934 813
+Total number of worldwide cases: 90 077 446
+Number of newly confirmed cases in the past 24 hours: 722 375
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[In the past 24 hours, the USA (243 036), Brazil (60 078), and the UK (59 937) have reported the highest numbers of cases. A global total of 12 818 deaths were reported in the past 24 hours (8-9 Jan 2021).
+
+Countries reporting more than 10 000 newly confirmed cases in the past 24 hours (16 countries) include the USA, Brazil, UK, Russia (23 309), South Africa (21 606), France (20 177), Italy (19 978), Germany (19 996), Spain (0), India (18 820), Colombia (15 795), (14 861), Mexico (14 362), Czech Republic (13 029), Argentina (11 057), Turkey (11 479), Poland (10 548), and Indonesia (10 046). A total of 57 countries reported more than 1000 cases in the past 24 hours; 28 of the 58 countries that reported more than 1000 newly confirmed cases are from the European region, 13 are from the Americas region, 8 are from the Eastern Mediterranean region, 2 are from the South East Asia region, 3 are from the Western Pacific region, and 3 from the African region.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, case counts have increased by 20.1%, while daily reported deaths have increased by 14.0%.
+
+Impression: The global daily reported cases are around 720 000 newly confirmed infections daily in the past 24 hours and over 90.0 million cumulative reported cases with over 1.93 million reported deaths. With daily counts over 860 000, the global caseload is approaching one million new cases per day. Countries in the European and the Americas regions are still showing the largest increases in daily new case counts, followed by the Eastern Mediterranean, South East Asia, and Western Pacific regions. Sobering data show that the comparative 7-day averages are reflecting renewed significant increases of newly confirmed cases and deaths both globally and in the USA, where transmission continues to be out of control, probably indicative of the Christmas and New Year's holiday travel and gatherings. - Mod.UBA]
+See Also
+COVID-19 update (10): IgA, IL-6 receptor agonists, China, WHO, global 20210109.8086465
+COVID-19 update (09): immunity, convalescent plasma, asympt transm, WHO, global 20210108.8083368
+COVID-19 update (08): vaccine, FDA, mutation mapping, in flight transm, WHO, global 20210107.8080900
+COVID-19 update (07): animal, China, origin, WHO experts mission
+COVID-19 update (06): breath antibodies, antibody duration, variant, WHO, global 20210106.8076112
+COVID-19 update (05): vaccine intervals, vaccine route, snippets, WHO, global 20210105.8072388
+COVID-19 update (04): India vaccines, Nigeria, Thailand, transmission, WHO, global 20210104.8068745
+COVID-19 update (03): UK hospital preparedness, vaccination, travel, WHO 20210103.8067340
+COVID-19 update (02): variants, vaccine, WHO 20210102.8064627
+COVID-19 update (01): variants, vaccine, Thailand, global, WHO 20210101.8062938
+2020
+----
+COVID-19 update (562): viral load, UK vacc dose, ECDC, WHO 20201231.8061525
+COVID-19 update (561): variants, China serosurvey, psychosis, WHO 20201230.8057135
+COVID-19 update (560): variants, Thailand, viral shedding, WHO 20201229.8054081
+COVID-19 update (550): mutation, query, Thailand, Taiwan, WHO, global, RFI 20201223.8040292
+COVID-19 update (540): S Africa MIS-C, USA risk factors, Iran serosurvey, WHO global 20201216.8021945
+COVID-19 update (530): animal, mink, research, experimental infection, vaccine 20201210.8009205
+COVID-19 update (520): Denmark, Netherlands, mink, human-animal interface, WHO 20201204.7994061
+COVID-19 update (510): animal, mink, Lithuania, Poland, 1st reports, France, OIE 20201127.7976927
+COVID-19 update (500): frequent rapid tests, vaccine, WHO, global 20201122.7962919
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+Undiagnosed pediatric inflammatory syndrome (05): Europe, USA, COVID-19 assoc 20200518.7340554
+Undiagnosed pediatric inflammatory syndrome (04): USA, UK, PMIS, fatal 20200509.7315405
+Undiagnosed pediatric inflammatory syndrome (03): USA, Europe, COVID-19 susp, RFI 20200505.7299876
+COVID-19 update (150): global, USA state prisons, WHO 20200502.7290671
+COVID-19 update (100): China, S. Korea & high local transmission countries 20200413.7217806
+COVID-19 update (50): China (Hong Kong) animal dog, 2nd case PCR positive, OIE 20200323.7129951
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (41): China, global, clinical pics, asymptomatic trans., WHO 20200210.6976117
+Novel coronavirus (40): animal reservoir, pangolin poss intermediate host, RFI 20200210.6972104
+Novel coronavirus (30): updates, China, Viet Nam, research 20200202.6945658
+Novel coronavirus (20): China, wildlife trade ban 20200127.6922060
+Novel coronavirus (10): China (HU, GD, BJ) 20200119.6898567
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia: China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia: China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+----
+Undiagnosed pneumonia: China (HU): RFI 20191230.6864153
+and other items in the archives
+.................................................sb/uba/msp/jh
+</body>

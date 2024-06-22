@@ -1,0 +1,300 @@
+<header id=046256>
+Published Date: 2020-09-11 04:29:06 EDT
+Subject: PRO/AH/EDR> COVID-19 update (397): USA Dec 2019 susp, pneumothorax, young adult, WHO, global
+Archive Number: 20200911.7767940
+</header>
+<body id=046256>
+CORONAVIRUS DISEASE 2019 UPDATE (397): USA (CALIFORNIA) DECEMBER 2019 TRANSMISSION SUSPECTED, PNEUMOTHORAX, YOUNG ADULT, WHO, GLOBAL
+************************************************************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] USA (CA): December 2019 transmission suspected
+[2] COVID-19 associated pneumothorax
+[3] USA: young adult disease
+[4] WHO: daily new cases reported (as of 10 Sep 2020)
+[5] Global update: Worldometer accessed 10 Sep 2020 21:48 EDT (GMT-4)
+
+******
+[1] USA (CA): December 2019 transmission suspected
+Dated: Thu 10 Sep 2020
+Source: University of California News [edited]
+https://www.universityofcalifornia.edu/news/covid-19-may-have-been-los-angeles-early-last-december-ucla-led-study-suggests
+
+
+UCLA [University of California, Los Angeles] researchers and colleagues who analyzed electronic health records found that there was a significant increase in patients with coughs and acute respiratory failure at UCLA Health hospitals and clinics beginning in late December 2019, suggesting that COVID-19 may have been circulating in the area months before the 1st definitive cases in the US were identified.
+
+This sudden spike in patients with these symptoms, which continued through February 2020, represents an unexpected 50% increase in such cases when compared with the same time period in each of the previous 5 years.
+
+The findings, the study authors say, demonstrate the importance of analyzing electronic health records to monitor and quickly identify irregular changes in patient populations. The researchers' novel approach, in which they focused not only on hospitalization data but also on data from outpatient settings, may help epidemiologists and health systems detect future epidemics sooner.
+
+The study appears in the peer-reviewed Journal of Medical Internet Research.
+
+"For many diseases, data from the outpatient setting can provide an early warning to emergency departments and hospital intensive care units of what is to come," said Dr Joann Elmore, the study's lead author and a professor of medicine in the division of general internal medicine and health services research at the David Geffen School of Medicine at UCLA. "The majority of COVID-19 studies evaluate hospitalization data, but we also looked at the larger outpatient clinic setting, where most patients turn first for medical care when illness and symptoms arise."
+
+As scientists and doctors continue to learn more about SARS-CoV-2, the virus that causes COVID-19, health systems and public health agencies are also attempting to predict and monitor cases. Analyzing electronic patient records, the researchers say, could help health authorities more effectively identify and control outbreaks like the current pandemic, which has killed hundreds of thousands worldwide and disrupted billions of lives.
+
+"The pandemic has really highlighted our need for agile health care analytics that enable real-time symptom and disease surveillance using electronic health records data," said Dr Michael Pfeffer, a study co-author and chief information officer for UCLA Health. "Technology, including artificial intelligence powered by machine learning, has further potential to identify and track irregular changes in health data, including significant excesses of patients with specific disease-type presentations in the weeks or months prior to an outbreak."
+
+The researchers evaluated more than 10 million health system and patient visit records for UCLA Health outpatient, emergency department, and hospital facilities, comparing data from the period between [1 Dec 2019, and 29 Feb 2020] -- the months prior to increased public awareness of COVID-19 in the US -- with data from the same period over the previous 5 years.
+
+They found that outpatient clinic visits by UCLA patients seeking care for coughs increased by over 50% and exceeded the average number of visits for the same complaint over the prior 5 years by more than 1000. Similarly, they discovered a significant excess in the number of patients seen in emergency departments for reports of coughs and of patients hospitalized with acute respiratory failure during this time period. These excesses remained even after accounting for changes in patient populations and seasonal variation.
+
+The researchers noted that other factors could be responsible for some of this unexpected increase. For instance, their search of outpatient visit records included only the word "cough" as the reason for clinic visits, which may not have been sufficiently specific, and respiratory illnesses could have been due to vaping, though the use of e-cigarettes had been declining since September 2019. In addition, they could not rule out that the excess cases were due to flu.
+
+"We may never truly know if these excess patients represented early and undetected COVID-19 cases in our area," Elmore said. "But the lessons learned from this pandemic, paired with health care analytics that enable real-time surveillance of disease and symptoms, can potentially help us identify and track emerging outbreaks and future epidemics."
+
+Additional study authors are Dr Judith Currier, Dr David Schriger, Pin-Chieh Wang, Douglas Morrison, and Ron Brookmeyer, all of UCLA, and Kathleen Kerr and Dr Thomas Payne of the University of Washington.
+
+This study was supported by the UCLA Department of Medicine.
+
+[Byline: Enrique Rivero]
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[Reference
+----------
+Elmore JG, Wang PC, Kerr KF, et al. Excess patient visits for cough and pulmonary disease at a large US health system in the months prior to the COVID-19 pandemic: A time-series analysis [published online ahead of print, 2020 Aug 3]. J Med Internet Res. 2020; 10.2196/21562. doi:10.2196/21562; https://www.jmir.org/2020/9/e21562/
+--------------------------------------------------------------------------------
+"Abstract
+---------
+"Background. Accurately assessing the regional activity of diseases such as COVID-19 is important in guiding public health interventions. Leveraging electronic health records (EHRs) to monitor outpatient clinical encounters may lead to the identification of emerging outbreaks.
+
+"Objective. The aim of this study is to investigate whether excess visits where the word "cough" was present in the EHR reason for visit and hospitalizations with acute respiratory failure were more frequent from December 2019 to February 2020 compared with the preceding 5 years.
+
+"Methods. A retrospective observational cohort was identified from a large US health system with 3 hospitals, over 180 clinics, and 2.5 million patient encounters annually. Data from patient encounters from [1 Jul 2014], to [29 Feb 2020], were included. Seasonal autoregressive integrated moving average (SARIMA) time-series models were used to evaluate if the observed winter 2019/2020 rates were higher than the forecast 95% prediction intervals. The estimated excess number of visits and hospitalizations in winter 2019/2020 was calculated compared to previous seasons.
+
+"Results. The percentage of patients presenting with an EHR reason for visit containing the word "cough" to clinics exceeded the 95% prediction interval the week of [22 Dec 2019] and was consistently above the 95% prediction interval all 10 weeks through the end of February 2020. Similar trends were noted for emergency department visits and hospitalizations starting [22 Dec 2019], where observed data exceeded the 95% prediction interval in 6 and 7 of the 10 weeks, respectively. The estimated excess over the 3-month 2019/2020 winter season, obtained by either subtracting the maximum or subtracting the average of the 5 previous seasons from the current season, was 1.6 or 2.0 excess visits for cough per 1000 outpatient visits, 11.0 or 19.2 excess visits for cough per 1000 emergency department visits, and 21.4 or 39.1 excess visits per 1000 hospitalizations with acute respiratory failure, respectively. The total numbers of excess cases above the 95% predicted forecast interval were 168 cases in the outpatient clinics, 56 cases for the emergency department, and 18 hospitalized with acute respiratory failure.
+
+"Conclusions. A significantly higher number of patients with respiratory complaints and diseases starting in late December 2019 and continuing through February 2020 suggests community spread of SARS-CoV-2 prior to established clinical awareness and testing capabilities. This provides a case example of how health system analytics combined with EHR data can provide powerful and agile tools for identifying when future trends in patient populations are outside of the expected ranges."
+
+[The authors mention that there was an increase in influenza positive tests during the period December 2019 to February 2020, which may account for some of the excess outpatient visits for cough and increased hospitalizations for respiratory failure. One wonders if the hospitals may have preserved specimens from some of the respiratory failure cases to test for the SARS-CoV-2. Another possibility is to do a serosurvey among those individuals seen in the outpatient departments and hospitalized along with a questionnaire to see the seroprevalence of SARS-CoV-2 antibodies among these individuals. - Mod.MPP]
+
+******
+[2] COVID-19 associated pneumothorax
+Date: Thu 10 Sep 2020
+Source: CIDRAP (Center for Infectious Disease Research & Policy) News [edited]
+https://www.cidrap.umn.edu/news-perspective/2020/09/another-possible-covid-complication-punctured-lung
+
+
+As many as 1 in 100 hospitalized COVID-19 patients may experience a pneumothorax, or punctured lung, according to a multicenter observational case series published yesterday [9 Sep 2020] in the European Respiratory Journal. Pneumothorax usually occurs in very tall young men or older patients with serious underlying lung disease. But University of Cambridge researchers identified COVID-19 patients with neither of those traits who had a punctured lung or pneumomediastinum (air or gas leakage from a lung into the area between the lungs) from March to June [2020] at 16 UK hospitals. "We started to see [COVID-19] patients affected by a punctured lung, even among those who were not put on a ventilator," said Stefan Marciniak, MB BChir, PhD, from the University of Cambridge in a news release. "To see if this was a real association, I put a call out to respiratory colleagues across the UK via Twitter. The response was dramatic -- this was clearly something that others in the field were seeing."
+
+Of 71 COVID-19 patients included in the study, 60 had a punctured lung, including 2 with different episodes of pneumothorax, for a total of 62 punctures. 6 of the 60 patients with pneumothorax also had pneumomediastinum, while 11 patients had only pneumomediastinum.
+
+Age, acidosis, and survival
+---------------------------
+9 patients with shortness of breath on arrival at the hospital were diagnosed on chest x-ray as having punctured lung, 5 of them hospital readmissions after COVID-19 treatment (4 patients) or becoming infected with coronavirus in the hospital (1). All patients in this group were older than 40 years, and only 2 had underlying lung disease. Seven of the 9 patients required a chest drain. 2 (22%) died 7 and 10 days after pneumothorax, one not requiring a chest drain and one having had the drain removed after the pneumothorax healed. The remaining 7 patients were released from the hospital after a median stay of 7 days.
+
+14 patients experienced pneumothorax during their hospitalization while breathing on their own in a general or respiratory ward; 6 of them were diagnosed by chance. 3 patients were on noninvasive ventilation at diagnosis. 11 patients needed chest drains, while one required surgical intervention. 3 patients (21%) died, the rest were released from the hospital after a median stay of 35 days, and one was later readmitted because of pneumothorax of the other lung.
+
+38 patients had a total of 39 lung punctures while receiving invasive ventilation; 26 needed invasive ventilation only, while 12 needed oxygen added to their blood outside their body. Of the 26 patients requiring only invasive ventilation, punctured lung was diagnosed by chance or because they needed more oxygen, revealing hypercapnia (excess carbon dioxide caused by breathing that is too shallow or slow) and acidosis, a buildup of acid caused by lung or kidney dysfunction. 7 patients were given a chest drain, and 8 survived for at least 28 days.
+
+There was no significant difference in 28-day survival after punctured lung or pneumomediastinum (63.1% vs 53%; P = 0.85) or between men and women (62.5% vs 68.4%, P = 0.62). However, men were 3 times more likely to have pneumothorax than women, which the authors said might be because men with COVID-19 appear predisposed to more severe disease. No patients required treatment for pneumomediastinum.
+
+Patients 70 years and older had only a 41.7% survival rate, compared with 70.9% in younger patients (P = 0.02) and patients with acidosis had only a 35.1% chance of 28-day survival, versus 82.4% of their peers, regardless of age.
+
+Serious but treatable condition
+-------------------------------
+The authors noted that previous small retrospective studies suggested that punctured lungs might occur in 1% of hospitalized COVID-19 patients and those dying from their infections and 2% of those needing intensive care, while another study estimated rates of barotrauma (both pneumothorax and pneumomediastinum) at 15%.
+
+A case report yesterday [9 Sep 2020] out of China highlights the importance of being on guard for spontaneous pneumothorax, or sudden collapsed lung, especially in COVID-19 patients who have prolonged severe lung damage. (https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-020-05384-x).
+
+Studies have also suggested that other coronaviruses may contribute to pneumothorax. In a 2004 study, SARS (severe acute respiratory syndrome) was also associated with spontaneous pneumothorax, occurring in 1.7% of hospitalized patients. Likewise, in a 2015 study, a punctured lung was considered a predictor of a poor prognosis in patients with MERS (Middle East respiratory syndrome).
+
+The authors of the new study said that COVID-19 may cause cysts in the lungs that could lead to lung punctures. They advised doctors to consider the possibility of punctured lungs in COVID-19 patients, even in those who don't fit the profile for it, as many study patients were diagnosed with this condition only by chance.
+
+While an observational case series can't prove that COVID-19 causes pneumothorax, the authors said that the number of affected patients in their study make it unlikely that all lung punctures were coincidental. They said that if there were no link between the 2 conditions, they would likely have observed only 18 cases of punctured lung in COVID-19 patients from [22 Jan to 3 Jul 2020].
+
+While previous studies have suggested that pneumothorax is a predictor of poor outcomes, the authors noted that study patients had an overall 63.1% survival rate and that 52% were released from the hospital. "These cases suggest that pneumothorax is a complication of COVID-19," they wrote. "Pneumothorax does not seem to be an independent marker of poor prognosis and we encourage active treatment to be continued where clinically possible."
+
+Co-author Anthony Martinelli, MB BChir, a respiratory physician at Broomfield Hospital, said in the news release, "Although a punctured lung is a very serious condition, COVID-19 patients younger than 70 tend to respond very well to treatment. Older patients or those with abnormally acidic blood are at greater risk of death and may therefore need more specialist care."
+
+[Byline: Mary Van Abeusekom]
+
+--
+Communicated by:
+Mary Marshall
+<mjm2020@googlemail.com>
+
+Reference
+---------
+Martinelli AW, Ingle T, Newman J, et al. COVID-19 and pneumothorax: A multicentre retrospective case series [published online ahead of print, 2020 Sep 9]. Eur Respir J. 2020; 2002697. doi:10.1183/13993003.02697-2020; https://erj.ersjournals.com/content/early/2020/09/03/13993003.02697-2020
+--------------------------------------------------------------------------------
+"Abstract
+---------
+"Introduction. Pneumothorax and pneumomediastinum have both been noted to complicate cases of COVID-19 requiring hospital admission. We report the largest case series yet described of patients with both these pathologies that includes non-ventilated patients.
+
+"Methods. Cases were collected retrospectively from UK hospitals with inclusion criteria limited to a diagnosis of COVID-19 and the presence of either pneumothorax or pneumomediastinum. Patients included in the study presented between March and June 2020. Details obtained from the medical record included demographics, radiology, laboratory investigations, clinical management, and survival.
+
+"Results. 71 patients from 16 centres were included in the study, of whom 60 patients had pneumothoraces (6 also with pneumomediastinum), whilst 11 patients had pneumomediastinum alone. 2 of these patients had 2 distinct episodes of pneumothorax, occurring bilaterally in sequential fashion, bringing the total number of pneumothoraces included to 62. Clinical scenarios included patients who had presented to hospital with pneumothorax, patients who had developed pneumothorax or pneumomediastinum during their inpatient admission with COVID-19, and patients who developed their complication whilst intubated and ventilated, either with or without concurrent extracorporeal membrane oxygenation. Survival at 28 days was not significantly different following pneumothorax (63.1%+/-6.5%) or isolated pneumomediastinum (53.0%+/-18.7%; p=0.854). The incidence of pneumothorax was higher in males. The 28-day survival was not different between the sexes (males 62.5%+/-7.7% versus females 68.4%±10.7%; p=0.619). Patients above the age of 70 had a significantly lower 28-day survival than younger individuals (70 years or older 41.7%+/-13.5% survival versus less than 70 years 70.9%+/-6.8% survival; p=0.018 log-rank).
+
+"Conclusion. These cases suggest that pneumothorax is a complication of COVID-19. Pneumothorax does not seem to be an independent marker of poor prognosis and we encourage active treatment to be continued where clinically possible."
+
+Unfortunately, this finding is not totally surprising. Especially with the recent hypothesis of bradykinin storm with increased production of hyaluronic acid in pulmonary tissue (see COVID-19 update (395): vaccine trial, bradykinins, motorcycle rally, WHO, global 20200909.7760209 for a more detailed discussion). As the authors state, this observational study does not prove a cause and effect relationship but suggests the need to study this, and most importantly consider it when caring for a patient with decreasing oxygen saturations. - Mod.MPP]
+
+******
+[3] USA: young adult disease
+Date: Thu 10 Sep 2020 3:42 PM GMT+2
+Source: JAMA [abridged, edited]
+https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2770542
+
+
+ref: Cunningham JW, Vaduganathan M, Claggett BL, et al. Clinical outcomes in young US adults hospitalized with COVID-19 [published online ahead of print, 2020 Sep 9]. JAMA Intern Med. 2020; 10.1001/jamainternmed.2020.5313
+--------------------------------------------------------------------------------
+Coronavirus disease 2019 (COVID-19) is increasing rapidly among young adults in the US./1 Often described as a disease affecting older adults, to our knowledge, few studies have included younger patients to better understand their anticipated clinical trajectory. We investigated the clinical profile and outcomes of 3222 young adults (defined by the US Census as age 18-34 years) who required hospitalization for COVID-19 in the US.
+
+Methods
+-------
+Young adults age 18 to 34 years with the International Statistical Classification of Diseases and Related Health Problems, Tenth Revision (ICD-10) code U07.1 (COVID-19, virus identified) discharged between [1 Apr 2020] and [30 Jun 2020], were identified in the Premier Healthcare Database, a hospital-based, all-payer database including 1030 US hospitals and health care systems and more than 8 million annual inpatient admissions./2,3 Pregnant young adults (n = 1644) were excluded because many were admitted for childbirth and not for COVID-19 infection. Only a patient's 1st hospitalization for COVID-19 was considered. Comorbidities and outcomes during COVID-19 hospitalization were defined using diagnosis, procedure, or billing ICD-10 codes.
+
+Results
+-------
+Among 780 969 adults discharged between [1 Apr 2020], and [30 Jun 2020], 63 103 (8.1%) had the ICD-10 code for COVID-19, of whom 3222 (5%) were nonpregnant young adults (age 18-34 years) admitted to 419 US hospitals. The mean (SD) age of this population was 28.3 (4.4) years; 1849 (57.6%) were men and 1838 (57.0%) were Black or Hispanic. Overall, 1187 (36.8%) had obesity, 789 (24.5%) morbid obesity, 588 (18.2%) diabetes, and 519 (16.1%) hypertension (Table [available at the source URL above]).
+
+During hospitalization, 684 patients (21%) required intensive care, 331 (10%) required mechanical ventilation, and 88 (2.7%) died. Vasopressors or inotropes were used for 217 patients (7%), central venous catheters for 283 (9%), and arterial catheters for 192 (6%). The median length of stay was 4 days (interquartile range, 2-7 days). Among those who survived hospitalization, 99 (3%) were discharged to a postacute care facility.
+
+Morbid obesity (adjusted odds ratio [OR], 2.30; 95% CI, 1.77-2.98; vs no obesity; P less than .001) and hypertension (adjusted OR, 2.36; 95% CI, 1.79-3.12; P less than .001) were common and in addition to male sex (adjusted OR, 1.53; 95% CI, 1.20-1.95; P = .001) were associated with greater risk of death or mechanical ventilation. Odds of death or mechanical ventilation did not vary significantly with race and ethnicity. Morbid obesity was present in 140 patients (41%) who died or required ventilation. Diabetes was associated with increased risk of this outcome in univariable analysis (OR, 1.82; 95% CI, 1.41-2.36; P less than .001) but did not reach statistical significance after adjustment (adjusted OR, 1.31; 95% CI, 0.99-1.73; P = .06). Patients with multiple risk factors (morbid obesity, hypertension, and diabetes) faced risks similar to 8862 middle-aged (age 35-64 years) nonpregnant adults with COVID-19 infection without these conditions (Figure [available at the source URL above]).
+
+Discussion
+----------
+Young adults age 18 to 34 years hospitalized with COVID-19 experienced substantial rates of adverse outcomes: 21% required intensive care, 10% required mechanical ventilation, and 2.7% died. This in-hospital mortality rate is lower than that reported for older adults with COVID-19, but approximately double that of young adults with acute myocardial infarction./4 Morbid obesity, hypertension, and diabetes were common and associated with greater risks of adverse events. Young adults with more than 1 of these conditions faced risks comparable with those observed in middle-aged adults without them. More than half of these patients requiring hospitalization were Black or Hispanic, consistent with prior findings of disproportionate illness severity in these demographic groups./5,6
+
+Limitations of this study included defining COVID-19 infection and comorbidities by ICD-10 codes, which may be subject to misclassification, and variable reporting of race and ethnicity across hospitals. The definition of COVID-19 infection did not require microbiological confirmation. Given the sharply rising rates of COVID-19 infection in young adults, these findings underscore the importance of infection prevention measures in this age group.
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[Sobering statistics. Especially with the high obesity rate in the USA -- According to the CDC website, the obesity rate among children aged 2-19 years old in the USA is 18.5% further subdivided by ages: 2-5 years old 13.9%, 6-11 years old 18.4%, and 12-19 years old 20.6%. Hispanics had a 25.8% prevalence and blacks a 22.0% prevalence compared with non-Hispanic whites 14.1%; non-Hispanic Asians had an 11.0% prevalence (https://www.cdc.gov/obesity/data/childhood.html).
+
+In contrast, adults in the USA had an obesity prevalence of 42.4% in 2017-2018. Non-Hispanic blacks had a prevalence of 49.6%, followed by Hispanics with a prevalence of 44.8%, non-Hispanic whites 42.2%, and non-Hispanic Asians 17.4%. Young adults 20-39 years-old had a prevalence of 40.0%, those aged 40-59 years had a prevalence of 42.8%, and those aged 60 and older had a prevalence of 42.8%. (https://www.cdc.gov/obesity/data/adult.html)
+
+Obesity predisposes to hypertension and type 2 diabetes. This triad is associated with severe disease with COVID-19, and the high obesity level predisposes the younger age group to more severe disease. - Mod.MPP]
+
+******
+[4] WHO: daily new cases reported (as of 10 Sep 2020)
+Date: Thu 10 Sep 2020
+Source: WHO [abridged, edited]
+https://covid19.who.int/table
+
+
+*Daily case reports as of 10 Sep 2020 4:05 pm CEST
+
+Surveillance
+------------
+WHO region (no. countries/territories):
+Total confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+---------------------------
+Western Pacific Region (19): 530 403 (4101) / 11 506 (98)
+European Region (61): 4 645 519 (44 001) / 224 145 (455)
+South East Asia Region (10): 5 067 207 (102 259) / 88 418 (1329)
+Eastern Mediterranean Region (22): 2 055 446 (15 181) / 54 064 (315)
+Region of the Americas (54): 14 337 245 (79 574) / 498 255 (2539)
+African Region (49): 1 101 618 (4887) / 23 515 (144)
+Cases on an international conveyance (Diamond Princess): 712 (0) / 13 (0)
+
+Confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+Grand total: 27 738 179 (250 003) / 899 916 (4880)
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The number of countries and territories reporting confirmed cases of COVID-19 to WHO remains at 215.
+
+Data by country, area, or territory for 10 Sep 2020 can be accessed at https://promedmail.org/wp-content/uploads/world-pdf/WHO%20daily%20tablesSept10_1599769246.pdf.
+
+- The Americas region reported 31.8% of daily case numbers and 52.0% of the daily deaths reported in the past 24 hours, maintaining its position as the most severely affected region, having reported more than 14.3 million cases. The USA and Brazil remain dominant, followed by Argentina, Colombia, Mexico, and Peru.
+
+- The European region reported 17.6% of daily case numbers and 9.3% of the daily deaths reported in the past 24 hours, and total cumulative cases reported exceed 4.6 million. Countries not reporting to WHO today [8 Sep 2020] include Kazakhstan, Israel, and Belgium. The dominant country is Spain, followed by France, Russia, the UK, Ukraine, Germany, Italy, and Turkey. Noteworthy is an increase in reported cases by the Czech Republic.
+
+- The Eastern Mediterranean region reported 6.1% of daily case numbers and 6.5% of the deaths reported in the past 24 hours, having reported a cumulative total of greater than 2 million cases. Iraq remains the dominant country, followed by Iran, Morocco, UAE, Libya, Kuwait, Saudi Arabia, and the Palestinian Authority.
+
+- The African region reported 2.0% of daily case numbers and 3.0% of the deaths reported in the past 24 hours and has reported more than 1.1 million cases. South Africa is again the dominant country, followed by Ethiopia, Algeria, Uganda, Nigeria, and Zambia.
+
+- The Western Pacific region reported 1.6% of daily case numbers and 2.0% of the deaths reported in the past 24 hours, having reported a cumulative total of 0.53 million cases. The Philippines continues to dominate, followed by Japan and South Korea.
+
+- The South East Asia region reported 40.9% of the daily newly reported cases and 27.2% of reported deaths in the past 24 hours, having reported a cumulative total of more than 5.0 million cases. India continues to dominate followed by Indonesia, Bangladesh, and Nepal.
+
+Europe, while experiencing resurgences in many countries related to loosening restrictions and the summer vacation period, is overshadowed by the major transmission ongoing in South East Asia, specifically India, with record breaking daily case reports.
+
+On the Overview tab at the WHO source URL, the epidemic curve of confirmed COVID-19 cases by WHO region, 30 Dec 2019 through 10 Sep 2020 is an excellent visual representation of the epidemic. - Mod.MPP]
+
+******
+[5] Global update: Worldometer accessed 10 Sep 2020 21:48 EDT (GMT-4)
+Date: Thu 10 Sep 2020
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at https://promedmail.org/wp-content/uploads/world-pdf/SEPT10DATA_1599796051.pdf.
+
+A 7-day series of cumulative data reported by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/SEPT10WORLD7_1599796106.pdf. - Mod.MPP]
+
+Total number of reported deaths: 912 853
+Total number of worldwide cases: 28 321 779
+Number of newly confirmed cases in the past 24 hours: 301 956
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The USA, India, and Brazil are still the most severely affected countries in terms of cumulative case counts and daily new case confirmations, with India now in the 2nd position followed by Brazil. In the past 24 hours, these 3 countries -- India (96 760), followed by Brazil (40 431) and the USA (38 688) -- account for over half of all confirmed cases globally (54.3%) and 58.2% of all newly confirmed cases in the past 24 hours. A global total of 4927 deaths were reported in the past 24 hours (9-10 Sep 2020).
+
+Countries reporting more than 5000 newly confirmed cases in the past 24 hours include India, Brazil, USA, Argentina (11 905), Spain (10 764), France (9843), Colombia (7808), Peru (7291), and Russia (5363), and 30 countries have reported more than 1000 cases in the past 24 hours. 6 of the top 10 countries reporting the highest daily newly confirmed cases are from the Americas region.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, there is virtually no change (a decrease of 0.20%), while daily reported deaths have increased by 5.2%.
+
+Impression: Basically unchanged on the global cumulative level. - Mod.MPP]
+See Also
+COVID-19 update (396): tracking superspread, Europe 2nd wave, WHO, global 20200910.7765456
+COVID-19 update (395): vaccine trial, bradykinins, motorcycle rally, WHO, global 20200909.7760209
+COVID-19 update (394): Netherlands (NB) animal, farmed mink, spread 20200908.7759382
+COVID-19 update (393): Senegal, cardiac manifestations, WHO, global 20200908. 7756518
+COVID-19 update (392): USA motorcycle rally, cardiac manifestations, WHO, global 20200907.7753457
+COVID-19 update (391): vaccine trials, cytokines, WHO, global 20200906.7751802
+COVID-19 update (390): Russia vaccine trial, vaping risk factor, WHO, global 20200905.7748995
+COVID-19 update (380): excess mortality, 2nd infect, pediatric shedding, WHO 20200829.7727737
+COVID-19 update (370): USA severe illness risk, saliva vs DNS vs ANS, WHO, global 20200822.7704511
+COVID-19 update (360): USA (NC, NY) animal, dog, comment 20200815.7681907
+COVID-19 update (350): USA (TX) animal, cat 20200808.7658191
+COVID-19 update (340): animal, China, envir monitoring, Netherlands (NB), mink 20200801.7635820
+COVID-19 update (330): China (Hong Kong) animal, cat, OIE 20200724.7609215
+COVID-19 update (320): Africa, selected countries, WHO, global 20200717.7583377
+COVID-19 update (310): Kazakhstan pneumonia, selected countries, WHO, global, RFI 20200710.7560034
+COVID-19 update (300): Korea antibodies, China asymptomatic index case, WHO 20200703.7536146
+COVID-19 update (250): selected countries 20200610.7448037
+COVID-19 update (200): global, Yemen, WHO 20200522.7364937
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+Undiagnosed pediatric inflammatory syndrome (05): Europe, USA, COVID-19 assoc 20200518.7340554
+Undiagnosed pediatric inflammatory syndrome (04): USA, UK, PMIS, fatal 20200509.7315405
+Undiagnosed pediatric inflammatory syndrome (03): USA, Europe, COVID-19 susp, RFI 20200505.7299876
+COVID-19 update (150): global, USA state prisons, WHO 20200502.7290671
+COVID-19 update (100): China, S. Korea & high local transmission countries 20200413.7217806
+COVID-19 update (50): China (Hong Kong) animal dog, 2nd case PCR positive, OIE 20200323.7129951
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (41): China, global, clinical pics, asymptomatic trans., WHO 20200210.6976117
+Novel coronavirus (40): animal reservoir, pangolin poss intermediate host, RFI 20200210.6972104
+Novel coronavirus (30): updates, China, Viet Nam, research 20200202.6945658
+Novel coronavirus (20): China, wildlife trade ban 20200127.6922060
+Novel coronavirus (10): China (HU, GD, BJ) 20200119.6898567
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia: China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia: China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+----
+Undiagnosed pneumonia: China (HU): RFI 20191230.6864153
+and other items in the archives
+.................................................sb/jh/mpp/mj/jh
+</body>

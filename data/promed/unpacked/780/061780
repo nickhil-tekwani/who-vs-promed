@@ -1,0 +1,430 @@
+<header id=061780>
+Published Date: 2009-05-16 16:00:05 EDT
+Subject: PRO/AH/EDR> Influenza A (H1N1) - worldwide (31)
+Archive Number: 20090516.1835
+</header>
+<body id=061780>
+INFLUENZA A (H1N1) - WORLDWIDE (31)
+***********************************
+A ProMED-mail post
+<http://www.promedmail.org>
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+<http://www.isid.org>
+
+In this update:
+[1] New H1N1 rumour
+[2] Estimation of R
+[3] Source of novel H1N1
+
+******
+[1] New H1N1 rumour
+Date: Fri 15 May 2009
+Source: Swine Flu Archives, ScienceInsider, Science [edited]
+<http://blogs.sciencemag.org/scienceinsider/swine-flu>
+
+
+A New, New H1N1 in Mexico?
+--------------------------
+This odd exchange took place at today's press conference with the US
+Centers for Disease Control and Prevention (CDC):
+
+David Brown, The Washington Post: There's a report that there is yet
+another new H1N1 virus that has been found in the states of Durango,
+Zacatecas, and Jalisco that is distinct from both this swine H1N1 and the
+seasonal Brisbane H1N1. Have you heard of this and can you tell us anything
+about this?
+
+Daniel Jernigan, CDC's deputy director of influenza division: We've heard
+of some reports about that, but I've not had any direct information about
+the specifics of that case. There's ongoing dialog between us and the folks
+that are in Mexico, and as we know more about that, we'll be able to let
+people know.
+
+ScienceInsider is investigating but has yet to learn anything substantive.
+It was aired in a public venue, though, and likely will receive media
+attention, regardless of whether it turns out to be false.
+
+"We heard a rumor but think it may be a misinterpretation of some lab data
+by a non-lab person," Nancy Cox, head of CDC's influenza division, tells
+ScienceInsider. "We are following up."
+
+[byline: Jon Cohen]
+
+--
+communicated by:
+Kunihiko Iizuka
+<edcvfr3464@yahoo.co.jp>
+
+******
+[2]
+Date: Thu 14 May 2009
+Source: Eurosurveillance, Volume 14, Issue 19, 14 May 2009 [edited]
+<http://www.eurosurveillance.org/ViewArticle.aspx?ArticleId=19212>
+
+
+Why are Mexican data important?
+-------------------------------
+This issue of Eurosurveillance contains an article by a French team on the
+transmission of the new influenza A(H1N1) in Mexico, which uses published
+figures from the outbreak to estimate important parameters for
+transmission, among them the reproduction rate, R (1). Such studies may
+have important implications for public health action in Europe. [This
+article has been reproduced previously in ProMED-mail; see Part [3],
+Influenza A (H1N1) - worldwide (29) 20090515.1824]
+
+What is R?
+----------
+The growth rate of an epidemic is determined by 2 factors: the number of
+new persons infected by each case and the time from start of infectiousness
+in one case to start of infectiousness in the secondary cases caused by
+him/her. The 1st factor is called "reproduction rate" and is usually
+denoted R. If the disease is spreading in a population that is totally
+susceptible the term "basic reproduction rate" (Ro) is used. R is the
+product of four terms: the risk of transmission in one single contact
+between an infectious and a susceptible person, the frequency of such
+contacts in the population, the duration of infectivity of a case, and the
+proportion of susceptibles in the population. If R is greater than 1 this
+means that each case infects more than one new person, and the outbreak is
+likely to continue. If R is less than 1 the outbreak will eventually die
+out, even if there may be a number of cases before that. The time from
+infectiousness in one case to infectiousness in his/her secondary cases is
+called "generation time" (Tg) and is basically a biological constant, even
+if its exact value depends on how it is estimated.
+
+Values for the factors that determine R can be calculated on the basis of
+scientific knowledge of the disease, its context of transmission, and the
+immunity status of the population. However, during an epidemic an R value
+usually has to be derived from the analysis of the epidemic curve or by the
+study of transmission chains.
+
+Several studies have now tried to estimate R (or Ro) and Tg for the new
+influenza A(H1N1) virus from Mexican data. In the one published in this
+issue of Eurosurveillance [1], the authors use one exponential fitting and
+one real-time estimation model to arrive at an estimate of R between 2.2
+and 3.1. This is higher than the value found in an article in Science [2],
+which estimated Ro to be 1.4-1.6 using 3 models: one exponential fitting,
+one genetic analysis, and 2 standard SIR models for a confined outbreak in
+La Gloria. Another analysis of the minor genetic changes in the virus over
+time arrived at a Ro estimate of 1.16 [3].
+
+Why is Ro important in public health?
+-------------------------------------
+The reproduction rate reflects effectiveness of transmission, and therefore
+has important implications for the efforts that public health authorities
+would have to make in implementing health measures aiming at containing or
+mitigating the outbreak. For example, with a Ro of 1.16, preventing 14 per
+cent of cases will result in eventually interrupting transmission, while
+with a Ro of 3.1, preventing 68 per cent cases would be needed -- assuming
+a total random mixing of contacts in the population.
+
+Why are Ro estimates so different for influenza?
+------------------------------------------------
+A few studies have tried to measure Ro for seasonal influenza [4], and
+found it to be in the order of 1.2 to 1.4. However, for most of the
+seasonal strains, there is already some immunity in the population from
+past seasons, which lowers the reproduction rate (and it should thus really
+not be called Ro in this situation). For any epidemic of a disease that
+leads to immunity after infection the initial Ro will also be higher than
+the actual R at any later stage, since the proportion still susceptible in
+the population will decrease. It should also be realised that delayed
+reporting of cases will affect an estimate of R; a problem that adheres to
+the study in this issue and the others cited above.
+
+What influences Ro?
+-------------------
+The risk of transmission in a contact when an infective meets a susceptible
+is basically a biological constant (even if it varies over the time course
+of the infection), as is the duration of infectiveness. However, frequency
+of contacts varies considerably between populations and population groups.
+For example, among children in schools or day care, the contact frequency
+is higher than among adults [5], and it also varies by culture, by family
+size in a society, by types of social interaction, etc.
+
+Why is the Ro from Mexico important?
+------------------------------------
+One could question why there is so much interest around studies of R and Ro
+based on Mexican data. Would they apply to Europe? One could guess that
+contact density might be higher in a Mexican setting, but on the other
+hand, since the epidemic has already run its course for some time there,
+the proportion of non-susceptibles would be higher in Mexico and the
+European situation would more approach a "true" (higher) Ro, with a totally
+susceptible population.
+
+In a graph [not reproduced here] of the daily reported cumulative number of
+cases in Mexico, Canada, US and EU/EFTA countries, outbreak of new
+influenza A(H1N1), April-May 2009, we have just compared the daily reported
+cumulative number of cases in Mexico, Canada, United States, and European
+Union and European Free Trade Association (EU / EFTA) countries. On a
+semi-logarithmic scale it is evident that the slope for Europe is very much
+the same as for Mexico. It is difficult to estimate the time lag for
+Europe, but it seems that we are some 1-2 months behind. If the generation
+times are the same for both epidemics -- which seems highly plausible
+­--then an estimate of Ro for Mexico would apply also to Europe. A Ro just
+above 1 could mean that a containment strategy might be successful.
+
+The European Centre for Disease Prevention and Control (ECDC) is
+continuously monitoring the situation and with more data being available
+every day in Europe we will obviously be able to have a better picture here
+soon as well. Nevertheless, the similarities of the shapes of the epidemics
+indicate that lessons from Mexico could apply also to Europe.
+
+References
+----------
+1. Boelle PY, Bernillon P, Desenclos JC. A preliminary estimation of the
+reproduction ratio for new influenza A(H1N1) from the outbreak in Mexico,
+March-April 2009. Euro Surveill 2009; 14(19): pii=19205. Available from:
+<http://www.eurosurveillance.org/ViewArticle.aspx?ArticleId=19205>
+2. Fraser C, Donnelly CA, Cauchelmes S, Hanage WP, Van Kerkhove MD,
+Hollingsworth TD, et al. Pandemic potential of a strain of influenza A
+(H1N1): early findings. Published 11 May 2009 on Science Express. DOI:
+10.1126/science.1176062. Available from:
+<http://www.sciencemag.org/cgi/content/abstract/1176062>
+3. Rambaut A. Human/Swine A/H1N1 flu outbreak - BEAST analysis. Available
+from:
+<http://tree.bio.ed.ac.uk/groups/influenza/wiki/178c5/BEAST_Analysis_29_Apr_2008_-_Andrew_Rambaut.html>
+
+4. Chowell G, Miller MA, Viboud C. Seasonal influenza in the United States,
+France, and Australia: transmission and prospects for control. Epidemiol
+Infect 2008; 136(6): 852-64.
+5. Keeling MJ, Eames KT. Networks and epidemic models. J R Soc Interface
+2005; 2(4): 295-307.
+
+[byline: D Coulombier and J Giesecke
+At: European Centre for Disease Prevention and Control, Stockholm, Sweden]
+
+--
+communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+******
+[3]
+Date: Sat 9 May 2009
+Source: The Veterinary Record, May 9 2009 [abbreviated and edited]
+<http://veterinaryrecord.bvapublications.com/cgi/content/full/164/19/577>
+[subscription required]
+
+
+Novel H1N1 influenza in people: global spread from an animal source?
+--------------------------------------------------------------------
+The rapidly unfolding and evolving events, on a worldwide scale, relating
+to the human-to-human transmission of a novel H1N1 influenza A virus have
+dominated the news media in the past 2 weeks. In Europe to date, as in
+North America and Canada, there have been cases of laboratory-confirmed
+H1N1 infection in people returning from recent foreign travel in South
+America, specifically Mexico. In the vast majority of cases in people who
+are not from Mexico, the reported clinical presentation has been mild.
+Nevertheless, the emergence of this novel H1N1 influenza virus, and its
+rapid and worldwide spread, facilitated by the normal movement of people
+across international boundaries, highlights some important epidemiological
+features. It is relevant to note that while this H1N1 influenza virus has
+been termed "swine influenza" (or "swine flu"), the definitive scientific
+evidence base to support its origin in pig populations has not yet been
+confirmed. Furthermore, in the absence of contemporaneous reports of
+clinical disease in pigs infected with this virus, it is not possible to
+confirm the clinical signs that may be observed in infected animals. In
+common with other influenza A infections of pigs, where a range of clinical
+presentations can occur, asymptomatic infection with this virus is also a
+theoretical possibility.
+
+Epidemiology
+------------
+The epidemiology of swine influenza in pigs is itself not straightforward.
+However, a number of consistent features exist:
+-- swine influenza is an important, contagious disease of pigs that occurs
+worldwide, and is typically caused by infection with influenza A viruses;
+-- virus subtypes H1N1, H1N2 and H3N2 are endemic in many pig populations
+around the world, and pigs serve as major reservoirs of these viruses;
+-- interspecies transmission, including zoonotic infections, with the
+recognised endemic swine influenza viruses does occasionally occur
+(reviewed by Brown 2000).
+
+The maintenance of these influenza viruses in pigs, and the frequent
+introduction of new influenza viruses from other species, could, therefore,
+contribute to the generation of strains of human influenza virus with
+pandemic potential (Alexander and Brown 2000). Historical evidence of this
+suggests that, to date, the risk has been low. In addition, there is
+significant genetic and antigenic variability within each of the endemic
+swine influenza subtypes, which can often be dependent on geographical
+region. More specifically, before the emergence of this novel H1N1 virus,
+there has been a clear genetic distinction between North American and
+Eurasian lineages of swine influenza viruses. This new variant of H1N1
+virus contains 3 of 8 gene segments (encoding for the neuraminidase and
+matrix protein genes) that do not appear typical of the genes seen in
+current North American strains. It has been postulated that these 3 gene
+segments have derived from Eurasian swine influenza viruses. It is not
+known if the particular genotype of H1N1 virus that appears putatively to
+have originated in Mexico is circulating in North American pigs, but its
+close similarity to other strains of swine influenza known to be
+circulating in the region (sharing 6 of 8 gene segments) has led to the
+assumption that this novel H1N1 strain is derived from pigs.
+
+[insert in text: Influenza A virus ecology with relevance to swine
+Influenza A viruses
+--------------------------------------------------------------------------------------
+
+Influenza A viruses infect a large variety of animal species, including
+mammals and birds, and, given the worldwide animal-human interface, there
+is potential for interspecies transmission of influenza viruses in nature.
+Phylogenetic studies of influenza A viruses have revealed species-specific
+lineages of viral genes and have also demonstrated the frequency of
+interspecies transmision depends on the animal species. Aquatic birds are
+known to be the source of all influenza viruses for other species.
+
+Pigs are an important host in influenza virus ecology as they are
+susceptible to infection with both avian- and human-origin influenza A
+viruses, and are often involved in interspecies transmission, facilitated
+by regular close contact with people and/or birds. Following transmission
+to and independent spread of avian or human influenza viruses in pigs,
+these viruses are general referred to as being "avian-like" or "human-like"
+swine influenza viruses, reflecting both their previous and current hosts.
+After reassortment with other influenza A viruses, some of the genes of
+these viruses may be maintained in the resulting progeny viruses.
+Therefore, the evolution of influenza genes in species-specific lineagesis
+an invaluable characteristic in studying and determining influenza virus
+epidemiology.]
+
+Influenza viruses in pigs in Europe
+-----------------------------------
+A number of countries in Europe conduct routine surveillance of pig
+populations for swine influenza, but, as this is not a notifiable disease
+in the EU, the surveillance programme is not consistent across the region.
+A European Swine Network for Influenza in Pigs (ESNIP2), funded by the EU,
+has been proactively monitoring the influenza situation in the European pig
+population for several years, and has demonstrated that subtypes H1N1, H3N2
+and H1N2 co-circulate.
+
+There are also some significant differences in epidemiology in terms of the
+virus subtypes involved within the EU. For example, currently in Great
+Britain (GB) "avian-like" swine H1N1 viruses co-circulate with H1N2, but
+H3N2 has apparently disappeared since the mid-1990s [Data tabulated in the
+original text]. This is in contrast, for example, to the situation in
+Italy, where these viruses are still widespread (Van Reeth and others 2008).
+
+The genotypic diversity of the influenza viruses in the European pig
+population is also well recognised, and periodically genotypic variants are
+identified. However, broadly, the endemic strains retain common genotypes
+and the new reassorted variants appear to have poor viability for long-term
+sustainability and transmission within the swine population (Brown 2008).
+This is in contrast to the current situation in North America, where
+multiple genotypes of several different subtypes have emerged within the
+past 10 years, creating a complex aetiology with respect to swine influenza
+in these populations.
+
+Based on current evidence from surveillance programmes in several European
+countries, the variant of H1N1 virus recently isolated in human beings has
+never been reported, and therefore does not appear to be present in the
+European pig population.
+
+Swine influenza surveillance in Great Britain
+---------------------------------------------
+In Great Britain, the Veterinary Laboratories Agency (VLA) has run a
+national swine influenza scanning surveillance programme since 1991, funded
+by the Department for Environment, Food and Rural Affairs (DEFRA). This
+programme is targeted, based on clear criteria using a standardised case
+definition, selection algorithm and sampling protocol, and provides
+free-of-charge laboratory testing for the detection of swine influenza
+viruses in clinical samples from affected pigs submitted by veterinary
+surgeons to VLA regional laboratories (RLs) and Scottish Agricultural
+College (SAC) Veterinary Services. Further information can be found on the
+VLA website at <http://www.defra.gov.uk/vla/diseases/dis_si.htm>, or from
+local VLA ­ RLs or SAC disease surveillance centres. It is important for
+vigilance to be maintained within both the swine and human sectors for the
+emergence or spread of the newly reported H1N1 virus. The recent report of
+human-to-pig transmission in Alberta, Canada, highlights the importance of
+reverse zoonosis, a recognised phenomenon in influenza virus epidemiology.
+Ongoing close liaison and collaboration is also occurring between the VLA
+and public health institutes and delivery agencies to ensure rapid and
+robust information exchange.
+
+Capacity for change
+-------------------
+The global human-animal interface is complex and dynamic, with the
+potential for zoonotic transmission of known pathogens, variants thereof
+and emergent infectious agents. In turn, animal reservoirs and people, both
+with the capacity for rapid global movement and distribution in time and
+space (intrinsic properties of globalisation), face these shared infectious
+challenges, not forgetting the propensity of some pathogens for 2-way
+exchange between species.
+
+While the novel H1N1 influenza virus is assumed to be of animal origin, it
+is now clearly spreading between humans and has already entered the EU, as
+well as other parts of the world. However, to date, human-to-animal
+transmission has not been identified or reported by EU member states. The
+case of human-to-pig transmission in Canada followed contact of an infected
+occupationally exposed worker, apparently incubating H1N1 virus infection
+following return from travel to Mexico. It also seems inevitable that more
+human cases will be detected worldwide. It is important to note that the
+potential host range for this virus is currently unknown. Potential changes
+in the virus characteristics need to be closely monitored by both public
+health and veterinary institutes. The world is watching on as international
+scientific and sociopolitical efforts attempt to better understand and
+combat an historical foe with seemingly limitless capacity for change and
+variation, and to evade predictions -- the influenza virus.
+
+[byline: Richard Irvine and Ian Brown Veterinary Laboratories Agency]
+
+References
+----------
+1. Alexander DJ, Brown IH. Recent zoonoses caused by influenza A viruses.
+OIE Scientific and Technical Review 2000; 19: 197-225.
+2. Brown IH. The epidemiology and evolution of influenza viruses in pigs.
+Veterinary Microbiology 2000; 74: 29-46
+3. Brown IH. The role of pigs in interspecies transmission. In: H-D Klenk,
+MN Matrosovich, J Stech (editors). Avian Influenza. Monogr Virol. Karger,
+2008; 27: 88-100.
+4. Van Reeth K, Brown IH, Darrwald R, Foni E, Labarque G, Lany P, et al.
+Seroprevalence of H1N1, H3N2 and H1N2 swine influenza viruses in seven
+European countries in 2002-2003. Influenza and Other Respiratory Viruses
+2008; 2: 99-105.
+
+--
+communicated by:
+ProMED-mail
+<promed@promedmil.org>
+See Also
+Influenza A (H1N1) - worldwide (30): case counts 20090516.1831
+Influenza A (H1N1) - worldwide (29) 20090515.1824
+Influenza A (H1N1) - worldwide (28): case counts 20090515.1822
+Influenza A (H1N1) - worldwide (27): case counts 20090514.1800
+Influenza A (H1N1) - worldwide (26) 20090514.1798
+Influenza A (H1N1) - worldwide (25): case counts 20090513.1785
+Influenza A (H1N1) - worldwide (24): case counts 20090512.1772
+Influenza A (H1N1) - worldwide (23) 20090511.1764
+Influenza A (H1N1) - worldwide (22): case counts 20090511.1759
+Influenza A (H1N1) - worldwide (21) 20090510.1749
+Influenza A (H1N1) - worldwide (20): case counts 20090510.1741
+Influenza A (H1N1) - worldwide (10): case counts 20090504.1675
+Influenza A (H1N1) - worldwide 20090430.1636
+
+.......................cp/ejp/sh
+
+
+*##########################################################*
+************************************************************
+ProMED-mail makes every effort to verify the reports that
+are posted, but the accuracy and completeness of the
+information, and of any statements or opinions based
+thereon, are not guaranteed. The reader assumes all risks in
+using information posted or archived by ProMED-mail. ISID
+and its associated service providers shall not be held
+responsible for errors or omissions or held liable for any
+damages incurred as a result of use or reliance upon posted
+or archived material.
+************************************************************
+Become a ProMED-mail Premium Subscriber at
+<http://www.isid.org/ProMEDMail_Premium.shtml>
+************************************************************
+Visit ProMED-mail's web site at <http://www.promedmail.org>.
+Send all items for posting to: promed@promedmail.org
+
+(NOT to an individual moderator). If you do not give your
+full name and affiliation, it may not be posted. Send
+commands to subscribe/unsubscribe, get archives, help,
+etc. to: majordomo@promedmail.org. For assistance from a
+human being send mail to: owner-promed@promedmail.org.
+
+############################################################
+############################################################
+</body>

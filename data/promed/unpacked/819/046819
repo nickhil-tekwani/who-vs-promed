@@ -1,0 +1,73 @@
+<header id=046819>
+Published Date: 2017-04-29 06:37:49 EDT
+Subject: PRO/AH/EDR> Tularemia - USA (03): increased northern spread, 1965-2013
+Archive Number: 20170429.5003155
+</header>
+<body id=046819>
+TULAREMIA - USA (03): INCREASED NORTHERN SPREAD, 1965-2013
+**********************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+Date: Mon 24 Apr 2017
+Source: CDC EIS Conference [edited]
+https://www.cdc.gov/media/dpk/cdc-24-7/eis-conference/pdf/66th_2017_EIS_conf_book_FINAL2_508.pdf
+
+
+Northern Trajectory of Human Tularemia -- United States, 1965-2013
+------------------------------------------------------------------
+Tularemia is an uncommon but debilitating arthropod-borne zoonosis caused by _Francicella tularensis_. Although human infection occurs sporadically throughout the continental USA, historically, cases have been concentrated in the south central states of Louisiana, Arkansas, and Missouri. We used 2 methods to assess changes in the geographic distribution of human tularemia cases reported to CDC through the Nationally Notifiable Diseases Surveillance System during 1965-2013.
+
+Reported cases were geocoded to centroids for the county of patient residence. A linear model was fit comparing latitude and longitude of all cases by year, adjusted for population using annual, county-level U.S. Census estimates. To further evaluate geographic trend, a spatial scan cluster detection method based on log likelihood ratio [LLR] tests was used to identify the location of the highest risk spatial cluster of cases for each of 9 - 5-year intervals.
+
+During 1965-2013, mean latitude of human tularemia cases in the lower 48 states moved northward 444 km [275.889 miles], from 37°N to 41°N (P <.0001), with no change in mean longitude (P =.5). Overall, spatial scan methods identified an area 668 km [415.076 miles] in diameter centered over northwestern Arkansas as the area of greatest risk (LLR: 6663; P <.0001). When evaluated in 5-year intervals, the centroid for this cluster moved from 35°N in 1965-1969 to 39°N in 2005-2009, also a change of 444 km.
+
+The distribution of human tularemia cases in the USA has moved progressively northward since 1965. This trajectory suggests areas of likely emergence where educational efforts may be most needed. The trend is independent of changes in population and may reflect shifts in environmental factors or arthropod vector abundance
+
+[Authors: Kwit NA, Mead P]
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[Although certainly arthropod-borne, many cases of tularemia are acquired by direct animal contact from hunting and dressing game as well as aerosol spread from a contaminated environment.
+
+The abstract was presented at the CDC EID conference this past week [week of 23 April 2017] in Atlanta and uses data through 2013. Evaluation of the data on state specific cases of tularemia through 2015 (https://www.cdc.gov/tularemia/statistics/) seems to continue this trend in northward spread of human cases of _F. tularensis_ as reflected with cases/years of several more northern USA states:
+
+State / 2011 / 2012 / 2013 / 2014 / 2015
+Colorado / 3 / 1 / 1 / 16 / 52
+Illinois / 5 / 4 / 4 / 7 / 10
+S Dakota / 8 / 5 / 7 / 5 / 25
+Wyoming/ 1 / 1 / 0 / 1 / 21. - Mod.LL
+
+A HealthMap/ProMED-mail map can be accessed at: https://promedmail.org/promed-post?place=5003155,106.]
+See Also
+Tularemia - USA (02): (CO) wild rabbit 20170423.4988936
+Tularemia - USA: (MN ex SD) fish hook injury, 2016 20170223.4859944
+2016
+----
+Tularemia - USA (17): (OK) rabbit 20161117.4636643
+Tularemia - USA (16): (WI) cat 20161109.4617939
+Tularemia - USA (15): (CO) human, wildlife 20161102.4602736
+Tularemia - USA (14): (TX) 20161020.4572972
+Tularemia - USA (13): (CO) 20160922.4505993
+Tularemia - USA (12): (CO) human ex dog susp 20160903.4463335
+Tularemia - USA (11): (CO) ulceroglandular 20160827.4445877
+Tularemia - USA (10): (WY) 20160807.4396768
+Tularemia - USA (09): (CO) wild rabbit 20160802.4388644
+Tularemia - USA (08): (MN) feline 20160725.4366704
+Tularemia - USA (07): (CO) wild rabbit 20160717.4350932
+Tularemia - USA (06): (NM) increased range 20160713.4342491
+Tularemia - USA (05): (AZ) fatal 20160708.4333270
+Tularemia - USA (04): (CO) 20160630.4318916
+Tularemia - Netherlands 20160630.4317126
+Tularemia - USA (03): (CO) pneumonic 20160618.4295395
+Plague, tularemia - USA (NM) alert 20160615.4289092
+Tularemia - USA (02): (MN) feline 20160603.4262502
+Tularemia - USA: (MN,AK) feline, canine, lagomorph 20160529.4252246
+.................................................ll/ec/dk
+</body>

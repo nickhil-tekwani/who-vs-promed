@@ -1,0 +1,349 @@
+<header id=012344>
+Published Date: 2021-05-24 15:03:34 EDT
+Subject: PRO/AH/EDR> COVID-19 update (181): variants, ACE2, polycystic ovary syndrome, WHO
+Archive Number: 20210524.8379054
+</header>
+<body id=012344>
+CORONAVIRUS DISEASE 2019 UPDATE (181): VARIANTS, ACE2, POLYCYSTIC OVARY SYNDROME, WHO
+*************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] Variant B.1.617.2
+[2] Variants with increased affinity to ACE2
+[3] New possible comorbidity: polycystic ovary syndrome
+[4] WHO: Daily new cases reported (as of 23 May 2021)
+[5] Global update: Worldometer accessed 23 May 2021 19:19 EST (GMT-5)
+
+******
+[1] Variant B.1.617.2
+Date: Sun 23 May 2021
+Source: Avian Flu Diary#15 977 [abridged, edited]
+https://afludiary.blogspot.com/2021/05/uk-phe-revised-risk-assessment-vaccine.html?m=1
+
+
+UK PHE: Revised Risk Assessment & Vaccine Effectiveness Estimate On COVID Variant B.1.617.2
+https://www.gov.uk/government/news/vaccines-highly-effective-against-b-1-617-2-variant-after-2-doses
+
+The UK's PHE has released multiple documents on the B.1.617.2 variant, including a revised Risk Assessment and an initial estimate of vaccine effectiveness against it, along with their 12th Technical Briefing on COVID-19.
+
+All of this comes on the heels of the remarkable and rapid expansion of the B.1.617.2 variant across much of the UK (see [Fri 21 May 2021] report UK COVID Variant Update: B.1.617.2 Continues to Rise - New VUI (VUI-21MAY-01) Added) over the past few weeks, exhibiting a growth rate many times higher than the B.1.1.7 (aka `UK') variant.
+https://afludiary.blogspot.com/2021/05/uk-COVID-variant-update-
+b16172.html
+
+We'll start with the good news, a press release from the PHE which indicates that while (2 doses) of the current vaccines don't protect against the B.1.617.2 variant quite as well as against earlier variants, they still offer a high degree of protection.
+
+Vaccines highly effective against B.1.617.2 variant after 2 doses
+-----------------------------------------------------------------
+New study by PHE shows for the first time that 2 doses of the COVID-19 vaccines are highly effective against the B.1.617.2 variant first identified in India.
+
+From: Public Health England Published 22 May 2021
+
+Vaccine effectiveness against symptomatic disease from the B.1.617.2 variant is similar after 2 doses compared to the B.1.1.7 (Kent) variant dominant in the UK, and we expect to see even higher levels of effectiveness against hospitalisation and death.
+
+The study found that, for the period from [5 Apr to 16 May 2021]:
+- the Pfizer-BioNTech vaccine was 88% effective against symptomatic disease from the B.1.617.2 variant 2 weeks after the 2nd dose, compared to 93% effectiveness against the B.1.1.7 variant
+- 2 doses of the AstraZeneca vaccine were 60% effective against symptomatic disease from the B.1.617.2 variant compared to 66% effectiveness against the B.1.1.7 variant
+- both vaccines were 33% effective against symptomatic disease from B.1.617.2, 3 weeks after the 1st dose compared to around 50% effectiveness against the B.1.1.7 variant
+
+The analysis included data for all age groups from [5 Apr 2021] to cover the period since the B.1.617.2 variant emerged. It included 1054 people confirmed as having the B.1.617.2 variant through genomic sequencing, including participants of several ethnicities. Data published on [Thu 20 May 2021] for vaccine effectiveness covered the period since [December 2020] for those aged over 65.
+
+The difference in effectiveness between the vaccines after 2 doses may be explained by the fact that rollout of 2nd doses of AstraZeneca was later than for the Pfizer-BioNTech vaccine, and other data on antibody profiles show it takes longer to reach maximum effectiveness with the AstraZeneca vaccine.
+
+As with other variants, even higher levels of effectiveness are expected against hospitalisation and death. There are currently insufficient cases and follow-up periods to estimate vaccine effectiveness against severe outcomes from the B.1.617.2 variant. PHE will continue to evaluate this over the coming weeks.
+(Continue ... )
+
+While this data is reassuring, it is based on a relatively small dataset (1054 variant cases) and may be revised (up or down) in the weeks ahead.
+
+The full study is available at the following link: Effectiveness of COVID-19 vaccines against the B.1.617.2 variant https://khub.net/documents/135939561/430986542/Effectiveness+of+COVID-19+vaccines+against+the+B.1.617.2+variant.pdf/204c11a4-e02e-11f2-db19-b3664107ac42.
+
+Moving on to the revised risk assessment, I've reformatted the text for readability below. You'll notice that the confidence level on current vaccine effectiveness ranges from Low to Moderate, confidence in Immunity after natural infection is Low, and there is not enough data to speak to Infection Severity (compared to B.1.1.7).
+
+Transmissibility between humans: Confidence High
+-------------------------------------------------
+Transmissibility appears greater than wild type (first wave) SARS-CoV-2. There is an increased growth rate compared to B.1.1.7 in the current context. Secondary attack rates, including household secondary attack rates, are higher for B.1.617.2, but these are not yet corrected for vaccination status. There is early in vitro evidence suggestive of altered growth characteristics in biological model systems. The observed epidemiological growth rate and replacement of B.1.1.7 are unlikely to be due entirely to immune escape, given the improved understanding of antigenic change; it is likely that B.1.617.2 is more transmissible than B.1.1.7. The magnitude of the change in transmissibility remains uncertain.
+
+Infection severity: Confidence N/A
+-----------------------------------
+Insufficient information
+
+Most cases are recent and there has been insufficient follow up time to allow an assessment of severity. Early warning signals are being monitored with no evidence of increases in hospitalisation in national data
+
+Immunity after natural infection: Confidence Low
+-------------------------------------------------
+Experimental evidence of functional evasion of natural immunity
+
+Pseudovirus and live virus neutralisation using convalescent sera from first wave and B.1.1.7 infections shows a modest reduction in neutralisation which may still be clinically relevant in individuals with low titres. There are small numbers of reinfections detected through national surveillance which would be expected with a prevalent variant. These are being further investigated. There is no signal of an increase in reinfections in individuals in a national healthcare worker cohort study (95% vaccinated); monitoring continues.
+
+Vaccines Confidence : Moderate after dose 1, Low after dose 2
+-------------------------------------------------------------
+Evidence of reduced vaccine effectiveness
+
+National vaccine effectiveness monitoring shows a reduction in vaccine effectiveness against symptomatic infection after 1 dose of vaccine for B.1.617.2 compared to B.1.1.7 (moderate confidence).
+
+Current data suggest this is an absolute reduction of approximately 20% after 1 dose. Vaccine effectiveness is higher and similar between variants after 2 doses with a possible small reduction for B.1.617.2 (low confidence). Although this is observational data subject to some biases, it holds true across several analytic approaches, is consistent with observed outbreaks, and is supported by pseudovirus and live virus neutralisation data. There are no data on whether prevention of transmission is affected.
+
+There are insufficient data on vaccine effectiveness against severe disease. Based on neutralisation data, vaccines are expected to remain effective against severe disease. Monitoring continues.
+
+Overall assessment
+------------------
+B.1.617.2 has continued to replace B.1.1.7 but an increase in overall incidence has occurred in only a small number of areas. The observed high growth rate is most likely to be due to a combination of context and transmissibility. There may be a contribution from some degree of immune escape particularly relating to individuals who have had a single vaccine dose. The priority investigations are household 2ary attack rate corrected for vaccination, characterisation of the generation time, viral load and period of infectivity, severity analyses, and continued reinfection and vaccine effectiveness monitoring.
+
+This is obviously a mixed bag since they peg B.1.617.2 to be more transmissible than the (already highly transmissible) B.1.1.7 variant. The jury is still out on increased severity.
+
+Vaccine effectiveness against symptomatic infection appears pretty impressive with the Pfizer mRNA vaccine (over 80%), but only 60% with the AZ vaccine. Confidence in these vaccine numbers is less than robust, however, and these numbers could change.
+
+The USD 64 question is what all of this means to the pandemic's impact in the UK, and eventually, around the world. For countries or regions with high vaccination rates, B.1.617.2 may be less of a problem, but where vaccination rates are low, it has the potential to replicate what we've been seeing in India for the past month.
+
+The elephant in the room, of course, is that new variants continue to emerge - and while conventional wisdom has long held that mutations are more likely to weaken or attenuate pandemic viruses over time - the B.1.1.7, B.1.617.2, and P.1 variants have done the opposite.
+
+Even if B.1.617.2 ends up being the last `improved' COVID variant, the world has more than enough on its plate to deal with, and so any reports of the pandemic's imminent demise are probably premature.
+
+[Byline: Michael Coston]
+
+--
+Communicated by:
+Mary Marshall
+<mjm2020@googlemail.com>
+
+[See https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/988613/22_May_2021_Risk_assessment_for_SARS-CoV-2_variant_VOC-21APR-02__B.1.617.2.pdf for 22 May 2021 Risk assessment for SARS-CoV-2 variant: VOC-21APR-02 (B.1.617.2)
+and https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/988614/Risk_assessment_framework_for_SARS-CoV-2_variants_20210521.pdf for Risk assessment framework for SARS-CoV-2 variants]
+
+******
+[2] Variants with increased affinity to ACE2
+Date: Sat 22 May 2021
+Source: News Medical [abridged, edited]
+https://www.news-medical.net/news/20210522/SARS-CoV-2-B117-and-B1351-variants-exhibit-enhanced-affinity-towards-the-ACE2-receptor.aspx
+
+
+Several severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) variants of concern have been highlighted, including the B.1.351 variant, first identified in South Africa, and B.1.1.7, known as the UK variant.
+
+In a short correspondence paper recently uploaded to the Lancet by Ramanathan, M et al. (19 May 2021) the affinity of labeled SARS-CoV-2 spike receptor-binding domain proteins sourced from each of these 2 variants of concern towards human angiotensin-converting enzyme 2 (ACE2) recombinant proteins is investigated using microscale thermophoresis, confirming the enhanced affinity towards the receptor observed in other studies.
+
+Both the B.1.1.7 and B.1.351 variants of SARS-CoV-2 bear the N501Y mutation to the spike protein receptor-binding domain, with B.1.351 bearing 2 additional mutations suspected to enhance virulence: K417N and E484K.
+
+There is some worry of these mutations lowering the efficacy of innately developed or engineered immunity, though no variants have yet rendered the vaccines so far developed ineffective.
+
+Many studies have confirmed the enhanced transmissibility of these strains using a multitude of approaches, from in silico modeling to population meta-studies.
+
+The group suggests that several factors may account for the observed increased transmissibility of these variants: increased spike protein density presenting on the exterior of the virus, making interaction with the ACE2 receptor more probable; greater furin cleavage accessibility, facilitating improved cell entry; and/or increased binding affinity for the ACE2 receptor.
+
+Compared to wildtype, the B.1.1.7 variant receptor-binding domain was found to bind with the recombinant ACE2 receptor with 1.98 times greater affinity. In comparison, the B.1.351 variant exhibited 4.62 fold greater affinity, confirming that enhanced affinity, at least in part, plays a role in the increased transmissibility observed in these strains.
+
+As discussed, several other studies have also suggested that these mutations enhance the affinity of the SARS-CoV-2 spike protein with the ACE2 receptor, the primary interacting receptor found commonly in the lungs that allows entry of the virus into the cell. The mechanism of enhanced affinity is not entirely clear, though other in silico work is approaching a firm answer elsewhere.
+
+Whatever the mechanism, increased affinity towards the ACE2 receptor increases transmissibility by lowering the minimum effective concentration of viral particles needed to make cell entry probable, meaning that more individuals are likely to become infected from lesser exposure.
+
+The group utilized microscale thermophoresis in this study, which they suggest could make a useful surveillance technology for predicting enhanced transmissibility in emerging variants. It is based on observation of changes in fluorescence in response to temperature, which influences the microenvironment of the fluorophores and therefore alters the intensity of signal reaching the detector. Binding events, between the ACE2 receptor and SARS-CoV-2 spike protein receptor-binding domains, in this case, also release or absorb energy from the local environment upon occurring and can therefore be detected and quantified in terms of affinity.
+
+As the technology relies on molecules being in solution, contained within small capillaries, the instrument is relatively maintenance-free and the preparation of samples less involved than some other fluorescence-based experiments, making high-throughput use in a field-clinic setting more feasible.
+
+[Byline: Michael Greenwood]
+
+--
+Communicated by:
+ProMED from Google Alerts
+<promed@promedmail.org>
+
+[Ref. Muthukumar R, Ferguson ID, Miao W, Khavari PA. SARS-CoV-2 B.1.1.7 and B.1.351 spike variants bind human ACE2 with increased affinity. The Lancet Infectious Diseases, 2021. https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(21)00262-0/fulltext
+
+Genomic surveillance efforts have uncovered SARS-CoV-2 variants with mutations in the viral spike glycoprotein, which binds the human angiotensin-converting enzyme 2 (ACE2) receptor to facilitate viral entry.(1) Such variants represent a public health challenge during the COVID-19 pandemic because they increase viral transmission and disease severity.(2) The B.1.351 variant, first identified in South Africa, has 3 notable mutations in the spike receptor binding domain (RBD)--namely, K417N, E484K, and N501Y (3) --whereas the B.1.1.7 variant, first identified in the UK, carries the N501Y mutation (appendix pp 2-4). B.1.351 is of particular concern for its potential resistance to antibodies elicited by previous SARS-CoV-2 infection and vaccination. (4) ...(-more). - Mod.LK]
+
+******
+[3] New possible comorbidity: polycystic ovary syndrome
+Date: Sun 23 May 2021
+Source: CNN [abridged, edited]
+https://www.cnn.com/2021/05/23/health/women-COVID-pcos-high-risk/index.html
+
+
+Last July [2020], when her immediate family tested positive for COVID-19, B.A. did not fit into any groups considered at higher risk for severe disease. She is 31 years old, a pet sitter and former fitness teacher who once ran a half marathon. She was, by most measures, healthy.
+
+When B.A. got COVID-19 she lost her sense of taste, had mild fevers and muscle weakness. She could barely keep anything down yet gained about 30 pounds. Later, she developed pelvic pain, cystic acne, breast tenderness, headaches, brain fog and extreme fatigue.
+
+It has been months since then, but she says the low energy, chronic pain and brain fog -- long-haul COVID-19 symptoms -- remain and she can't even go for a 15-minute walk without needing a break. She's also now dealing with insulin resistance and taking several medications to keep that and her hormone levels under some control. Her doctor told her she'll likely be dealing with this fallout of COVID-19 for the rest of her life.
+
+More than a year into the pandemic, one study has found that some women are at higher risk for COVID-19 compared to others in their age and sex groups. These women, often young and otherwise healthy like Aguilar, have an underlying condition that isn't mentioned on any COVID-19 comorbidity list: polycystic ovary syndrome, or PCOS.
+
+PCOS, which affect about 1 in 10 women of "childbearing age," is an imbalance of reproductive hormones that can lead to irregular menstrual cycles, high androgen levels and ovarian cysts. But it can also come with a host of other health problems, nearly all of which overlap COVID-19 comorbidities.
+
+"PCOS is completely underestimated in its impact. It's sort of seen as some reproductive issue that is not clinically relevant. But this is completely wrong ... Patients need to be seen as a high-risk population," said Dr. Wiebke Arlt, director of the Institute of Metabolism and Systems Research at the University of Birmingham in the United Kingdom.
+
+More than half of people with PCOS develop diabetes before their 40th birthdays, and up to 80% are overweight. They have higher risk of insulin resistance, heart disease and endometrial cancer, a cancer that begins in the uterus. Many have high blood pressure and low levels of vitamin D. These complications of PCOS have also been associated with a potentially higher risk for severe COVID-19.
+
+Despite how common PCOS is, as well as the serious complications it can come with, health experts say the condition has long been overlooked, misunderstood and under-researched, leaving patients to advocate for themselves or even educate practitioners to get treatment. And with very little research looking at whether women with PCOS are at higher risk for more severe COVID-19 or long-term symptoms, some fear the same is happening with public health policy around the pandemic.
+
+"My advice would be to include women with PCOS as ... potentially a high-risk group," said Dr. Katherine Sherif, chief of Women's Health at Jefferson University's Department of Medicine and a leading PCOS expert. But she warned: "We're working in a very large system that is full of silos. Nobody's going to jump up and say, 'Oh, well, don't forget about PCOS.'" "If Anthony Fauci said, 'you need to look at the high-risk groups like PCOS,' people might pay more attention," she said.
+
+Part of the reason PCOS flies under the radar in general and with regards to COVID-19, according to Arlt and Sherif, is because it is often dismissed as a women's health issue -- an obstacle of the ovary. Over the past year, we've learned about numerous preexisting health conditions that put a person at higher risk for severe COVID-19 illness, but PCOS isn't one of them.
+
+For Arlt, who co-authored the first major study published in February [2021] in the European Journal of Endocrinology, the name PCOS is a misnomer. It is not a disorder of the ovary, Arlt said, but a "lifelong metabolic disease" and should be treated as such when assessing COVID-19 vulnerability.
+
+"The higher the metabolic risk is, the higher the risk is to catch COVID-19," Arlt said. "People looked at obesity and Type 2 diabetes and hypertension and heart disease, but they have not looked at PCOS systematically before we did. Because they just don't consider this a metabolic risk factor. That's something that we would like to change."
+
+Arlt and researchers at the University of Birmingham in the United Kingdom found that women with PCOS had a 51% higher chance of confirmed or suspected COVID-19 infection than women without. Using primary care records from [January to June 2020], they identified more than 21 000 PCOS patients and a control group of more than 78 000 without, matched for age and location.
+
+Researchers then "wanted to understand if the increased incidence of COVID-19 was only because of PCOS or was it also because of the underlying risk factors that women with PCOS have?" lead author Anuradhaa Subramanian told CNN. In other words, if a woman has PCOS and Type 2 Diabetes, which one is putting her at increased risk for COVID-19?
+
+In a fully adjusted model that took various risk factors into account, women with PCOS still had a 28% increased risk for confirmed or suspected COVID-19 infection, according to the study.
+
+Subramanian says the results didn't surprise her. However, "it gave us more confidence... that it's not just about the risk factors associated with PCOS, but something in PCOS is actually driving this," she said.
+
+But because the data was pulled from primary healthcare databases, researchers couldn't look at whether patients with PCOS had more severe or long-term COVID-19 symptoms. What's more, PCOS is not a one-size-fits-all disorder and COVID-19 may or may not have a different impact or risk level depending on the person. There are many questions we don't have definitive answers to yet, says Dr. Anuja Dokras, director of the Polycystic Ovary Syndrome Center at Penn Medicine.
+
+"We need to get this information now that (COVID-19 has) lasted a full year," said Dokras. "It's affecting so many people that it would be good to look back at this literature and just sort it out because these are confounding factors."
+
+Roach's and Gotluru's research, published in the March [2021] issue of the journal Obstetrics and Gynecology, shows the potentially higher risk for PCOS patients comes down to "comorbidities, androgens and lipotoxicity". People with PCOS often have higher levels of and sensitivity to androgens, male sex hormones. This could "potentially directly affect the susceptibility to COVID-19," Roach and Gotluru wrote. Androgens work as a "gateway," in very simple terms, to let in COVID-19, Roach says.
+
+What's more, it is common for people with PCOS to have chronic inflammation -- an immune system that is in a near-constant state of fighting off harm. Impaired insulin regulation and obesity can lead to a toxic buildup of fatty acid in tissue, known as lipotoxicity, potentially damaging organs.
+
+This can also trigger the secretion of immune-signaling cells called cytokines. While cytokines are a vital part of the body's immune response, too much can cause what's known as a cytokine storm. Adding a COVID-19 infection to that can cause further cytokine secretion, potentially triggering one of these storms and causing the immune system to attack the body's cells, not just the pathogen. And there is research that suggests this can occur "whether you are overweight or not," Gotluru told CNN.
+
+[Byline: Alessandria Masi]
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[Further study needs to be done to demonstrate a causal effect on risk for more severe symptoms during COVID and polycystic ovary syndrome (PCOS).
+
+Polycystic ovary syndrome is a hormonal disorder common among women of reproductive age. Women with PCOS may have infrequent or prolonged menstrual periods or excess male hormone (androgen) levels. The ovaries may develop numerous small collections of fluid (follicles) and fail to regularly release eggs.
+
+The exact cause of PCOS is unknown. Early diagnosis and treatment along with weight loss may reduce the risk of long-term complications such as type 2 diabetes and heart disease.
+
+The exact cause of PCOS isn't known. Factors that might play a role include:
+- Excess insulin. Insulin is the hormone produced in the pancreas that allows cells to use sugar, your body's primary energy supply. If your cells become resistant to the action of insulin, then your blood sugar levels can rise and your body might produce more insulin. Excess insulin might increase androgen production, causing difficulty with ovulation.
+- Low-grade inflammation. This term is used to describe white blood cells' production of substances to fight infection. Research has shown that women with PCOS have a type of low-grade inflammation that stimulates polycystic ovaries to produce androgens, which can lead to heart and blood vessel problems.
+- Heredity. Research suggests that certain genes might be linked to PCOS.
+- Excess androgen. The ovaries produce abnormally high levels of androgen, resulting in hirsutism and acne.
+(from https://www.mayoclinic.org/diseases-conditions/pcos/symptoms-causes/syc-20353439) - Mod.LK]
+
+******
+[4] WHO: daily new cases reported (as of 23 May 2021)
+Date: Sun 23 May 2021
+Source: WHO [abridged, edited]
+https://COVID19.who.int/table
+
+
+*Daily case reports as of 23 May 2021 17:15 CET
+
+Surveillance
+------------
+WHO region (no. countries/territories):
+Total confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+--------------------------------------------------------------------------------
+Western Pacific Region (19): 2 860 945 (20 138) / 43 047 (328)
+European Region (61): 54 108 090 (48 617) / 1 134 768 (1236)
+South East Asia Region (10): 30 088 649 (264 237) / 372 277 (4149)
+Eastern Mediterranean Region (22): 9 862 629 (26 680) / 197 947 (484)
+Region of the Americas (54): 65 979 469 (197 131) / 1 615 101 (5254)
+African Region (49): 3 446 089 (6889) / 85 964 (97)
+Cases on an international conveyance (Diamond Princess): 745 (0) / 13 (0)
+
+Confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+Grand total: 166 346 635 (563 694) / 3 449 117 (11 548)
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+
+[Data by country, area, or territory for 23 May 2021 can be accessed at https://promedmail.org/wp-content/uploads/world-pdf/2021%20WHO%20Daily%20Tables%20May23_1621879608.pdf.
+
+- The Americas region reported 34.9% of daily case numbers and 45.4% of the daily deaths reported in the past 24 hours and maintained its position as the most severely affected region, having reported more than 65.97 million cases. Brazil reported over 76 000 cases over the last 24 hours followed by the Argentina with 35 468 cases, USA (27 921), and Colombia (14 838). 13 additional countries reported more than 1000 cases in the past 24 hours (Canada, Peru, Mexico, Chile, Costa Rica, Venezuela, Honduras, Dominican Republic, Paraguay, Uruguay, Ecuador, Bolivia, and Cuba). 2 additional countries (Panama, and Trinidad and Tobago), reported more than 500 but fewer than 1000 cases.
+
+- The European region reported 8.6% of daily case numbers and 10.7% of the daily deaths reported in the past 24 hours, and total cumulative cases reported exceed 54.10 million cases. Many countries not reporting cases in the last 24 hours or longer include France, Spain, Belgium (1 case), Hungary, Switzerland, and Kazakhstan, among others. Russia reported the highest number of cases followed by Turkey and Germany, all reporting less than 10 000 new cases in the past 24 hours. Another 7 countries reported more than 1000 cases, and an additional 4 countries reported more than 500 but fewer than 1000 cases.
+
+- The Eastern Mediterranean region reported 4.7% of daily case numbers and 4.1% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 9.86 million cases. Iran reported the highest number of cases (8005) over the last 24 hours, followed by Pakistan, Iraq, Bahrain, UAE, Saudi Arabia, Tunisia, Kuwait, and Egypt. Jordan reported more than 500 but fewer than 1000 cases.
+
+- The African region reported 1.2 % of daily case numbers and 0.8 % of the deaths reported in the past 24 hours, having reported a cumulative total of more than 3.44 million cases. South Africa (4237), reported the highest number of cases over last 24 hours. Kenya reported more than 500 but fewer than 1000 cases. Cameroon, Niger, Rwanda, Gabon, and Congo among others, did not report any new cases in the past 24 hours.
+
+- The Western Pacific region reported 3.5% of daily case numbers and 2.8% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 2.86 million cases. Philippines reported the highest number of cases over the last 24 hours (over 6800 cases), followed by Malaysia, Japan, China, Mongolia and South Korea.
+
+- The South East Asia region reported 46.8% of the daily newly reported cases and 35.9% of reported deaths in the past 24 hours, having reported a cumulative total of more than 30.08 million cases. India is dominant reporting over 240 000 cases, followed by Nepal (8591), Indonesia (5296), Thailand (3382), Sri Lanka (2909), Maldives (1960), and Bangladesh (1028).
+
+On the Overview tab at the WHO source URL, the epidemic curve of confirmed COVID-19 cases by WHO region, 30 Dec 2019 through 23 May 2021, is an excellent visual representation of the pandemic. - Mod.UBA]
+
+******
+[4] Global update: Worldometer accessed 23 May 2021 19:19 EST (GMT-5)
+Date: Sun 23 May 2021
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries/
+
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at:
+https://promedmail.org/wp-content/uploads/world-pdf/2021%20WORLDDATA%20MAY23_1621880139.pdf
+A 7-day series of cumulative data reported by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/2021%20MAY23WORLD7_1621880298.pdf - Mod.UBA]
+
+Total number of reported deaths: 3 478 240
+Total number of worldwide cases: 167 518 213
+Number of newly confirmed cases in the past 24 hours: 567 690
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[In the past 24 hours, India (222 835), Brazil (36 134), Argentina (24 801), and Colombia (21 669), have reported the highest numbers of cases. A global total of 9841 deaths were reported in the past 24 hours (late 21 May 2021 to late 22 May 2021). Countries reporting more than 10 000 newly confirmed cases in the past 24 hours (6 countries) include India, Brazil, Argentina, Colombia, and the USA (13 541). A total of 46 countries reported more than 1000 cases in the past 24 hours; 23 of the 46 countries are from the European region, 7 are from the Americas region, 7 are from the Eastern Mediterranean region, 5 are from the South East Asia region, 3 are from the Western Pacific region, and 1 from the African region.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, case counts have decreased by 22.1%, while daily reported deaths have decreased by 12.6%. Similar comparative 7-day averages in the USA show 23.3% decrease in daily reported cases and 9.7% decrease in reported deaths.
+
+Impression: The global daily reported over 550 000 newly confirmed infections in the past 24 hours with over 167.51 million cumulative reported cases and over 3.47 million reported deaths. - Mod.UBA]
+See Also
+COVID-19 update (180): variant vaccine, efficacy, Nepal, Southeast Asia, WHO 20210523.8377232
+COVID-19 update (179): Singapore, canine coronavirus, saliva vs nasal swabs, WHO 20210522.8375930
+COVID-19 update (178): evidence-based med, B.1.617.2 spread UK, Argentina, WHO 20210521.8374686
+COVID-19 update (177): inflam syndrome, Latin Am, long COVID, racial disp, WHO 20210520.8372539
+COVID-19 update (176): WHO forum, conv. plasma, variants, public health, WHO 20210519.8370610
+COVID-19 update (175): mucormycosis, homeless, reinfection, plasma, WHO, global 20210518.8368647
+COVID-19 update (174): animal, Thailand, dog, OIE 20210518.8368402
+COVID-19 update (173): airborne trans, Africa, NHS COVID19 app, WHO, global 20210517.8366642
+COVID-19 update (172): variants, diagnostic samples, symptoms, WHO, global 20210516.8364908
+COVID-19 update (171): CDC mask statement, opinion, variant tracking, WHO, global 20210515.8363955
+COVID-19 update (170): candidate animal models, potential hosts, research 20210515.8362876
+COVID-19 update (169): vaccine, B.1.617.2 variant UK, Canada, mucormycosis, WHO 20210514.8362611
+COVID-19 update (168): neurologic, Pfizer vaccine in adolescents, WHO, global 20210513.8360208
+COVID-19 update (167): children, Taiwan, Singapore, Asia, Sinovac, WHO, global 20210512.8358554
+COVID-19 update (166): B.1.617 reclass., Africa, Pfizer adolescents, Taiwan, WHO 20210511.8356523
+COVID-19 update (165): vacc dist, India mucormycosis RFI, Austria, NAb, WHO 20210510.8354377
+COVID-19 update (164): USA mortality, Japan Olympics, vaccine, dengue assoc. WHO 20210509.8352882
+COVID-19 update (163): ship, vaccine, variant, rapid test, WHO 20210509.8351929
+COVID-19 update (162): vacc property rights, immunization, reinfection, WHO 20210507.8350504
+COVID-19 update (161): Seychelles, vaccine, Nepal, WHO 20210506.8348332
+COVID-19 update (160): variants, research, India, WHO 20210505.8346370
+COVID-19 update (159): animal, India, zoo, lion 20210504.8344580
+COVID-19 update (158): variants Africa, Japan Olympics, Brazil, WHO 20210504.8344376
+COVID-19 update (157): India, Africa, Canada, maternal transmission, WHO 20210503.8342612
+COVID-19 update (156): India, Africa, spike protein, WHO, global 20210502.8340934
+COVID-19 update (155): B1.617, flight trans, Papua New Guinea, SoAs, WHO, global 20210502.8340070
+COVID-19 update (154): Israel, vaccines, Asia, UK, WHO, global 20210430.8338358
+COVID-19 update (153): impact on children, ischemic stroke, India, WHO, global 20210429.8336312
+COVID-19 update (152): animal, Croatia, dog, OIE 20210429.8336058
+COVID-19 update (151): India vaccine, variant, USA, weekly update, WHO, global 20210428.8334213
+COVID-19 update (150): Nepal, India support, Qatar, Japan updates, WHO, global 20210427.8331945
+COVID-19 update (140): animal, Latvia, mink, OIE 20210419.8314796
+COVID-19 update (130): antibody evasion, variants, South Asia, WHO, global 20210410.8300187
+COVID-19 update (120): animal, Russia, vaccine 20210331.8281241
+COVID-19 update (100): antibodies, vaccine, Thailand, Cambodia, WHO, global 20210316.8250009
+COVID-19 update (50): UK vaccine study, Brazil reinfection, WHO 20210205.8167161
+COVID-19 update (01): variants, vaccine, Thailand, global, WHO 20210101.8062938
+2020
+----
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+COVID-19 update (562): viral load, UK vacc dose, ECDC, WHO 20201231.8061525
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia: China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia: China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+----
+Undiagnosed pneumonia: China (HU): RFI 20191230.6864153
+and other items in the archives
+.................................................sb/lk/jh/uba/ao/jh
+</body>

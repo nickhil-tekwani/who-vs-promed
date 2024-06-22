@@ -1,0 +1,254 @@
+<header id=026724>
+Published Date: 2021-02-28 07:09:17 EST
+Subject: PRO/AH/EDR> COVID-19 update (82): mapping escape mutants, variants, vaccines, WHO, global
+Archive Number: 20210228.8218147
+</header>
+<body id=026724>
+CORONAVIRUS DISEASE 2019 UPDATE (82): MAPPING ESCAPE MUTANTS, VARIANTS, VACCINES, WHO, GLOBAL
+*********************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] Mapping antibody escape in SARS-CoV-2
+[2] Variants
+[3] Vaccines
+[4] WHO: daily new cases reported (as of 27 Feb 2021)
+[5] Global update: Worldometer accessed 27 Feb 2021 18:25 EST (GMT-5)
+
+******
+[1] Mapping antibody escape in SARS-CoV-2
+Date: 19 Feb 2021
+Source: Science [abridged, edited]
+https://science.sciencemag.org/content/371/6531/850/tab-pdf
+
+
+Several antibodies are in use or under development as therapies to treat COVID-19. As new severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) variants emerge, it is important to predict whether they will remain susceptible to antibody treatment.
+
+Starr et al. used a yeast library that covers all mutations to the SARS-CoV-2 receptor-binding domain that do not strongly disrupt binding to the host receptor (ACE2) and mapped how these mutations affect binding to 3 leading anti-SARS-CoV-2 antibodies. The maps identify mutations that escape antibody binding, including a single mutation that escapes both antibodies in the Regeneron antibody cocktail. Many of the mutations that escape single antibodies are circulating in the human population.
+
+Abstract
+"Antibodies are a potential therapy for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), but the risk of the virus evolving to escape them remains unclear. Here, we map how all mutations to the receptor binding domain (RBD) of SARS-CoV-2 affect binding by the antibodies in the REGN-COV2 cocktail and the antibody LY-CoV016. These complete maps uncover a single amino acid mutation that fully escapes the REGN-COV2 cocktail, which consists of 2 antibodies, REGN10933 and REGN10987, targeting distinct structural epitopes. The maps also identify viral mutations that are selected in a persistently infected patient treated with REGN-COV2 and during in vitro viral escape selections. Finally, the maps reveal that mutations escaping the individual antibodies are already present in circulating SARS-CoV-2 strains. These complete escape maps enable interpretation of the consequences of mutations observed during viral surveillance.
+
+In this study, we have completely mapped mutations that escape 3 leading anti-SARS-CoV-2 antibodies. These maps demonstrate that prior characterization of escape mutations was incomplete, having identified neither a single amino acid mutation that escapes both antibodies in the REGN-COV2 cocktail nor most mutations that arose in a persistently infected patient treated with the cocktail. Of course, our maps still do not answer the most pressing question: Will SARS-CoV-2 evolve widespread resistance to these antibodies? But certainly, it is concerning that so many escape mutations impose little cost on RBD folding or receptor affinity and that some are already present at low levels among circulating viruses.
+
+Ultimately, it will be necessary to wait and see what mutations spread as SARS-CoV-2 circulates in the human population. Our work will help with the 'seeing,' by enabling immediate interpretation of the effects of the mutations cataloged by viral genomic surveillance."
+
+--
+Communicated by:
+ProMED Rapporteur Kunihiko Iizuka
+
+[The mapping of potential escape mutants is important not only from the point of view of antibody therapy but can also help determine the efficacy of monoclonal antibody therapy versus use of antibody cocktails in identified cases. - Mod.UBA]
+
+******
+[2] Variants
+[A]
+Date: 26 Feb 2021
+Source: UW Medicine [abridged, edited]
+https://newsroom.uw.edu/news/single-mutation-set-recent-covid-19-variants-expansion
+
+
+A subset of patient coronavirus test samples, collected since November 2020 in 6 U.S. states, showed an increasing number of amino acid mutations in a region that helps the virus bind to host cells.
+
+Among the rising mutations discovered in those late-fall, early winter samples, the L452R was dominant. This mutation, riding along with 4 other mutations, occurs in a recently discovered California coronavirus variant, designated CAL.20C (also goes by names B.1.427 and B.1.429), that is undergoing massive expansion across the state and is associated with many outbreaks.
+
+In some of the samples, the researchers found another L452R-carrying virus variant that emerged more recently. It is now also circulating in California and has started to show up in across states. This variant caused the only recorded case of COVID-19 in apes by infecting a gorilla troop at the San Diego Zoo in early January 2021.
+
+In that newer variant, designated CAL.20A (B.1.232), the L452R mutation is the only one in the spike protein that latches the virus onto cells to create a pathway to inject its genetic materials. The spike proteins are what give the coronavirus its studded, crown-like appearance.
+
+Additional analyses have shown that several coronavirus lineages carrying L452R mutations have arisen around the world, thereby creating a global exponential increase in these types of coronavirus variants. Almost all of them were reported between December 2020 and February 2021.
+
+The researchers determined that the L452R mutation alone triggered the emergence of the 2 California and multiple global variants.
+
+A rise in mutational variants, particularly in this part of the virus, is of public health concern because of the potential that they might make the pandemic coronavirus more infective, more virulent, or more able to escape protective antibodies, the scientists conducting the study noted.
+
+The findings seem to suggest that the L452R, in and of itself, offers significant adaptive value to the pandemic coronavirus. From a virus evolution standpoint, positive selection for this mutation somehow became strong only in the past few months. It is not certain why this happened, but it could have occurred as the virus adapts to growing population immunity or the containment measures.
+
+How might the mutation provide a competitive advantage for the strains of virus that carry it? The mutation exchanges arginine to replace the amino acid leucine-452, which is in direct contact with the ACE2 cell receptor for the coronavirus. This replacement is predicted to create a much stronger attachment of the virus to the human cells and also might allow it to avoid the neutralizing antibodies that try to interfere with this attachment.
+
+However, although evidence for such assumptions is growing, additional research is necessary to determine the exact impact of the mutation on the virus structure and function. Additional work is also needed to see how it might affect the transmissibility and infectivity of the virus, how the immune system responds to the variant, and the course and severity of disease.
+
+Because of the possibility of a powered-up version of the virus, the authors of the study say that the L452R variants warrant close surveillance and more in-depth functional studies of how the mutation operates and how the different variants interplay.
+
+A total of 570 positive test samples from April 2020 through February 2021 were included in this particular study. They were gathered in Washington, California, Arizona, Colorado, Minnesota and Illinois.
+
+--
+Communicated by:
+ProMED Rapporteur Kunihiko Iizuka
+
+------
+[B]
+Date: 22 Feb 2021
+Source: bioRxiv [edited]
+https://doi.org/10.1101/2021.02.22.432189
+
+
+Abstract
+"The recent rise in mutational variants of SARS-CoV-2, especially with changes in the spike protein, is of significant concern due to the potential ability for these mutations to increase viral infectivity, virulence and/or ability to escape protective antibodies.
+
+Here, we investigated genetic variations in a 414-583 amino acid region of the spike protein, partially encompassing the ACE2 receptor-binding domain (RBD), across a subset of 570 nasopharyngeal samples isolated between April 2020 and February 2021, from Washington, California, Arizona, Colorado, Minnesota and Illinois.
+
+We found that samples isolated since November [2020] have an increased number of amino acid mutations in the region, with L452R being the dominant mutation.
+
+This mutation is associated with a recently discovered CAL.20C viral variant from clade 20C, lineage B.1.429, that since November-December 2020 is associated with multiple outbreaks and is undergoing massive expansion across California.
+
+In some samples, however, we found a distinct L452R-carrying variant of the virus that, upon detailed analysis of the GISAID database genomes, is also circulating primarily in California, but emerged even more recently.
+
+The newly identified variant derives from the clade 20A (lineage B.1.232) and is named CAL.20A.
+
+We also found that the SARS-CoV-2 strain that caused the only recorded case of infection in an ape -- gorillas in the San Diego Zoo, reported in January 2021 -- is CAL.20A.
+
+In contrast to CAL.20C that carries 2 additional L452R mutations in the spike protein, L452R is the only mutation found in CAL.20A.
+
+According to the phylogenetic analysis, however, emergence of CAL.20C was also specifically triggered by acquisition of the L452R mutation.
+
+Further analysis of GISAID-deposited genomes revealed that several independent L452R-carrying lineages have recently emerged across the globe, with over 90% of the isolates reported between December 2020-February 2021.
+
+Taken together, these results indicate that the L452R mutation alone is of significant adaptive value to SARS-CoV-2 and, apparently, the positive selection for this mutation became particularly strong only recently, possibly reflecting viral adaptation to the containment measures or increasing population immunity. While the functional impact of L452R has not yet been extensively evaluated, leucine-452 is positioned in the receptor-binding motif of RBD, in the interface of direct contact with the ACE2 receptor. Its replacement with arginine is predicted to result in both a much stronger binding to the receptor and escape from neutralizing antibodies. If true, this in turn might lead to significantly increased infectivity of the L452R variants, warranting their close surveillance and in-depth functional studies."
+
+--
+Communicated by:
+ProMED Rapporteur Kunihiko Iizuka
+
+[The lineage B1.429 is predominantly circulating in California USA (98%) but with exports to other countries, with the earliest assigned date as 30 Jun 2020. It is characterised by the spike L452R mutation but also has spike:W152C orf1ab:D5584Y and N:T205I (https://cov-lineages.org/lineages/lineage_B.1.429.html). The locations of the mutations in this variant and whether they could potentially make it more infectious or transmissible remain to be determined and, quoting the authors, warrant close surveillance and in-depth functional studies. - Mod.UBA]
+
+******
+[3] Vaccines
+Date: 26 Feb 2021
+Source: Swiss Medic [edited]
+https://www.swissmedic.ch/swissmedic/en/home/news/coronavirus-covid-19/nebenwirkungen-covid-19-impfungen-ch-update.html
+
+
+As of 24 Feb 2021, Swiss Medic, in collaboration with the Ticino reference centre and other regional pharmacovigilance centres in particular, have evaluated 364 reports of suspected adverse drug reactions (ADR) to COVID-19 vaccinations in Switzerland. The reports corroborate the side effects profile identified during the authorisation studies and described in the medicinal product information and do not as yet point to any new safety issues.
+
+As of 24 Feb 2021, Swiss Medic had evaluated a total of 364 reports of suspected adverse drug reactions (ADR) in connection with COVID-19 vaccinations in Switzerland. 199 reports involve Pfizer/BioNTech's Comirnaty, while 154 are associated with Moderna's COVID-19 vaccine. In 2 cases, the vaccine was not specified. The majority of reports were submitted by medical professionals, but 28 (7.7%) came directly from patients or people affected.
+
+Most reports concerned women (67%). Men were affected in 28.3% of cases, and there were a few cases (4.7%) where no gender was specified. Figure 1 shows the age distribution of the people affected. Of the 158 people aged 75 or over, 81 were between 80 and 89, while 16 were 90 or older.
+
+About 3/4ths of cases (74%) were not serious. The most common reactions in these cases were injection site reactions (redness, itching, pain and swelling), headaches, fever and shivering. Particularly noteworthy were the reports of delayed skin reactions around the injection site or on the skin of the arm in which the vaccine had been administered, which appeared to occur more frequently with Moderna's COVID-19 vaccine (see figures 2 and 3). Swiss Medic has already provided information on these reactions.
+
+There were 95 serious cases (26%). The people affected were either treated in hospital, or their reactions were classified as medically significant for other reasons but were not in themselves dangerous in most cases. The most commonly reported reactions in these cases were shingles (n=8), fever (n=8), headache (n=7), COVID-19 (n=9) and allergic reactions, including 4 cases of anaphylactic reactions (see also Swiss Medic's communication of 29 Jan 2021).
+
+Since a single report generally involves more than one reaction, reactions such as fever or headache are reported in cases that are serious overall as well as in non-serious cases.
+
+In 16 serious cases, the people concerned died at differing intervals after receiving the vaccine. Their average age was 86, and the majority of them had serious pre-existing conditions. These cases were analysed against the available information with particular care. As far as is known at the moment, death was caused by conditions such as infections, cardiovascular events, or diseases of the lungs and airways. Despite a chronological correlation, there is no concrete evidence to suggest that the vaccination was the cause of death. The drug regulatory authorities of other countries and the WHO have also drawn similar conclusions when evaluating deaths with a temporal link to COVID-19 vaccines.
+
+The reports of adverse reactions received to date and subjected to careful analysis do not change the positive benefit-risk profile of the COVID-19 vaccines. The known side effects of COVID-19 vaccines are listed in the continually updated medicinal product information page, published at http://www.swissmedicinfo.ch.
+
+Please note: Known, non-serious reactions are not subject to the reporting obligation prescribed by Art. 59 of the Therapeutic Products Act. The known, non-serious and very common reactions to COVID-19 vaccines include transitory pain and swelling at the injection site, fatigue, shivering, fever, headache, and muscle and joint pain. These passing local and general reactions are normally a sign of the body dealing with the vaccine.
+
+However, serious or as yet unknown adverse reactions must be reported. At this relatively early stage of the vaccination campaign, doctors should generally report all ADR that they feel are medically relevant.
+
+--
+Communicated by:
+ProMED Rapporteur Kunihiko Iizuka
+
+[As the COVID-19 pandemic continues into 2021, vaccination is one of the most important interventional strategies. However, it is essential to have systematic and robust monitoring mechanisms in place for vaccine-associated adverse reactions, their severity, and ensuring that community awareness messages incorporate risk-versus-benefit analysis on this aspect as well. - Mod.UBA]
+
+******
+[4] WHO: daily new cases reported (as of 27 Feb 2021)
+Date: Sat 27 Feb 2021
+Source: WHO [abridged, edited]
+https://covid19.who.int/table
+
+
+*Daily case reports as of 27 Feb 2021 16:18 CET
+
+Surveillance
+------------
+WHO region (no. countries/territories):
+Total confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+---------------------------------------
+Western Pacific Region (19): 1 613 598 (6565) / 28 892 (152)
+European Region (61): 38 529 578 (163 763) / 849 461 (3357)
+South East Asia Region (10): 13 492 895 (26 038) / 207 696 (401)
+Eastern Mediterranean Region (22): 6 360 314 (30 978) / 144 138 (341)
+Region of the Americas (54): 50 246 580 (187 378) / 1 200 325 (6522)
+African Region (49): 2 832 997 (5769) / 71 747 (166)
+Cases on an international conveyance (Diamond Princess): 745 (0) / 13 (0)
+
+Confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+Grand total: 113 076 707 (420 491) / 2 512 272 (10 939)
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[Data by country, area, or territory for 27 Feb 2021 can be accessed at https://promedmail.org/wp-content/uploads/world-pdf/2021%20WHO%20Daily%20Tables%20Feb27_1614486944.pdf.
+
+- The Americas region reported 44.5% of daily case numbers and 59.6% of the daily deaths reported in the past 24 hours and maintained its position as the most severely affected region, having reported more than 50.24 million cases. The USA is dominant, reporting over 73 000 cases, followed by Brazil with over 65 000 cases and Argentina. Seven additional countries reported more than 1000 cases in the past 24 hours (Peru, Colombia, Chile, Mexico, Bolivia, Paraguay, and Canada), and an additional 6 countries (Panama, Cuba, El Salvador, Uruguay, Honduras, Guatemala) reported more than 500 but fewer than 1000 cases.
+
+- The European region reported 38.9% of daily case numbers and 30.6% of the daily deaths reported in the past 24 hours, and total cumulative cases reported exceed 38.52 million. Countries not reporting cases include Spain, Belgium (1 case), Israel, Sweden, Switzerland (3 cases), and Kazakhstan, among others. France is the most heavily affected, reporting just over 24 000 cases in the last 24 hours, followed by Italy, Czech Republic, Poland and Russia, reporting more than 10 000 new cases in the past 24 hours. Another 17 countries reported more than 1000 cases, and an additional 8 countries reported more than 500 but fewer than 1000 cases.
+
+- The Eastern Mediterranean region reported 7.3% of daily case numbers and 3.1% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 6.36 million cases. Iran maintains its dominance, reporting over 8000 cases, followed by Iraq, Jordan, UAE, Lebanon, Palestinian Authority, Pakistan, and Kuwait. Bahrain, Egypt, Libya, and Tunisia reported more than 500 but fewer than 1000 cases.
+
+- The African region reported 1.3% of daily case numbers and 1.5% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 2.81 million cases. South Africa reported 1654 cases in the last 24 hours. Ghana (913 cases), Nigeria (600 cases), and Mozambique reported more than 500 but fewer than 1000 cases. Many countries, including Ethiopia, Kenya, Zambia, Cameroon, Madagascar, Guinea, and Gabon among others, did not report any new cases in the past 24 hours.
+
+- The Western Pacific region reported 1.3% of daily case numbers and 1.4% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 1.61 million cases. Philippines reported the highest number of cases over the last 24 hours (over 2600 cases), followed by Malaysia, Japan, South Korea, and Papua New Guinea.
+
+- The South East Asia region reported 6.1% of the daily newly reported cases and 3.6% of reported deaths in the past 24 hours, having reported a cumulative total of more than 13.49 million cases. India is dominant, reporting over 16 000 cases, followed by Indonesia (8232) cases), Sri Lanka, and Bangladesh.
+
+On the Overview tab at the WHO source URL, the epidemic curve of confirmed COVID-19 cases by WHO region, 30 Dec 2019 through 27 Feb 2021, is an excellent visual representation of the pandemic. - Mod.UBA]
+
+******
+[5] Global update: Worldometer accessed 27 Feb 2021 18:25 EST (GMT-5)
+Date: Sat 27 Feb 2021
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at
+https://promedmail.org/wp-content/uploads/world-pdf/2021%20WORLDDATA%20FEB27_1614487071.pdf.
+
+A 7-day series of cumulative data reported by countries, territories, and reporting entities can be found at
+https://promedmail.org/wp-content/uploads/world-pdf/2021%20FEB27WORLD7_1614487141.pdf. - Mod.UBA]
+
+Total number of reported deaths: 2 536 711
+Total number of worldwide cases: 114 365 947
+Number of newly confirmed cases in the past 24 hours: 389 542
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[In the past 24 hours, the USA (64 320), Brazil (59 438), and France (23 996) have reported the highest numbers of cases. A global total of 7597 deaths were reported in the past 24 hours (late 26 Feb 2021 to late 27 Feb 2021). Countries reporting more than 10 000 newly confirmed cases in the past 24 hours (9 countries) include the USA, Brazil, France, India (17 346), Italy (18 916), Czech Republic (14 676), Poland (12 100), and Russia (11 534). A total of 47 countries reported more than 1000 cases in the past 24 hours; 24 of the 47 countries are from the European region, 9 are from the Americas region, 8 are from the Eastern Mediterranean region, 2 are from the South East Asia region, 3 are from the Western Pacific region, and one from the African region.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, case counts have increased by 8.4%, while daily reported deaths have decreased by 4.9%. Similar comparative 7-day averages in the USA show a 7.6% increase in daily reported cases and a 1.3% increase in reported deaths.
+
+Impression: The global daily reported cases totaled almost 380 000 newly confirmed infections in the past 24 hours with over 114.36 million cumulative reported cases and over 2.53 million reported deaths. Countries in the European and the Americas regions are still showing the largest increases in daily new case counts. Importantly, the declining 7-day averages of cases and deaths continue to shift so the 7-day average of daily newly confirmed cases is showing increases and deaths are decreasing less, suggesting the 3rd wave is gaining strength again, unconfirmed but possibly due to the impact of the variants in circulation. - Mod.UBA]
+See Also
+COVID-19 update (81): transmission, reinfection, vaccine and case severity, WHO 20210227.8216798
+COVID-19 update (80): vaccine, USA variants, comments, WHO, global 20210226.8214650
+COVID-19 update (79): fitness facilities, variants, vs influenza, WHO, global 20210225.8213103
+COVID-19 update (78): animal, Spain, pet ferret 20210224.8211251
+COVID-19 update (77): vaccine effects, variants, UK vaccination impact, WHO 20210224.8210082
+COVID-19 update (76): mutation & recomb, transmission, school, Tanzania, WHO 20210223.8207677
+COVID-19 update (75): rapid testing, Israel vaccine results, WHO, global 20210222.8205363
+COVID-19 update (74): vaccines, variants, genomic surveillance WHO, global 20210221.8204585
+COVID-19 update (73): post COVID, encephalopathy, USA safety monitoring, WHO 20210220.8202495
+COVID-19 update (72): Africa reporting, UK lockdown impact, Israel vaccine, WHO 20210219.8200334
+COVID-19 update (71): world, animal, mink, WHO/FAO/OIE risk assessment 20210218.8200008
+COVID-19 update (70): gangrene, challenge trials, immunity, cancer, WHO, global 20210218.8198620
+COVID-19 update (60): animal, SARS-CoV-2-related viruses, pangolin, bat 20210211.8184900
+COVID-19 update (50): UK vaccine study, Brazil reinfection, WHO 20210205.8167161
+COVID-19 update (01): variants, vaccine, Thailand, global, WHO 20210101.8062938
+2020
+----
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+COVID-19 update (562): viral load, UK vacc dose, ECDC, WHO 20201231.8061525
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia: China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia: China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+----
+Undiagnosed pneumonia: China (HU): RFI 20191230.6864153
+and other items in the archives
+.................................................sb/uba/msp/mpp
+</body>

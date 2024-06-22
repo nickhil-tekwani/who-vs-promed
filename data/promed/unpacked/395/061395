@@ -1,0 +1,187 @@
+<header id=061395>
+Published Date: 2020-03-20 17:31:59 EDT
+Subject: PRO/AH/EDR> COVID-19 update (47): research
+Archive Number: 20200320.7116100
+</header>
+<body id=061395>
+CORONAVIRUS DISEASE 2019 UPDATE (47): RESEARCH
+**********************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] A trial of lopinavir-ritonavir in adults hospitalized with severe COVID-19
+[2] Aerosol and surface stability of SARS-CoV-2 as compared with SARS-CoV-1
+[3] Health security capacities in the context of COVID-19 outbreak
+[4] Italy: COVID-19 experiences
+[5] Clinical course and mortality risk of severe COVID-19
+[6] Characteristics and outcomes of 21 critically ill patients with COVID-19 in Washington State, USA
+
+******
+[1] A trial of lopinavir-ritonavir in adults hospitalized with severe COVID-19
+Date: Wed 18 Mar 2020
+Source: New England Journal of Medicine [edited]
+https://www.nejm.org/doi/full/10.1056/NEJMoa2001282?query=featured_home
+
+
+Abstract
+--------
+Background: No therapeutics have yet been proven effective for the treatment of severe illness caused by SARS-CoV-2.
+
+Methods: We conducted a randomized, controlled, open-label trial involving hospitalized adult patients with confirmed SARS-CoV-2 infection, which causes the respiratory illness COVID-19, and an oxygen saturation (SaO2) of 94% or less while they were breathing ambient air or a ratio of the partial pressure of oxygen (PaO2) to the fraction of inspired oxygen (FiO2) of less than 300 mm Hg. Patients were randomly assigned in a 1:1 ratio to receive either lopinavir-ritonavir (400 mg and 100 mg, respectively) twice a day for 14 days, in addition to standard care, or standard care alone. The primary end point was the time to clinical improvement, defined as the time from randomization to either an improvement of 2 points on a 7-category ordinal scale or discharge from the hospital, whichever came first.
+
+Results: A total of 199 patients with laboratory-confirmed SARS-CoV-2 infection underwent randomization; 99 were assigned to the lopinavir-ritonavir group and 100 to the standard-care group. Treatment with lopinavir-ritonavir was not associated with a difference from standard care in the time to clinical improvement (hazard ratio for clinical improvement, 1.24; 95% confidence interval [CI], 0.90 to 1.72). Mortality at 28 days was similar in the lopinavir-ritonavir group and the standard-care group (19.2% vs 25.0%; difference, -5.8 percentage points; 95% CI, -17.3 to 5.7). The percentages of patients with detectable viral RNA at various time points were similar. In a modified intention-to-treat analysis, lopinavir-ritonavir led to a median time to clinical improvement that was shorter by one day than that observed with standard care (hazard ratio, 1.39; 95% CI, 1.00 to 1.91). Gastrointestinal adverse events were more common in the lopinavir-ritonavir group, but serious adverse events were more common in the standard-care group. Lopinavir-ritonavir treatment was stopped early in 13 patients (13.8%) because of adverse events.
+
+Conclusions: In hospitalized adult patients with severe COVID-19, no benefit was observed with lopinavir-ritonavir treatment beyond standard care. Future trials in patients with severe illness may help to confirm or exclude the possibility of a treatment benefit.
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+******
+[2] Aerosol and surface stability of SARS-CoV-2 as compared with SARS-CoV-1
+Date: Wed 18 Mar 2020
+Source: New England Journal of Medicine [abridged, edited]
+https://www.nejm.org/doi/10.1056/NEJMc2004973
+
+
+A novel human coronavirus that is now named severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (formerly called HCoV-19) emerged in Wuhan, China, in late 2019 and is now causing a pandemic (1 [see source URL for links to references]). We analyzed the aerosol and surface stability of SARS-CoV-2 and compared it with SARS-CoV-1, the most closely related human coronavirus (2).
+
+We evaluated the stability of SARS-CoV-2 and SARS-CoV-1 in aerosols and on various surfaces and estimated their decay rates using a Bayesian regression model. SARS-CoV-2 nCoV-WA1-2020 (MN985325.1) and SARS-CoV-1 Tor2 (AY274119.3) were the strains used. Aerosols (less than 5 microns) containing SARS-CoV-2 (10exp5.25 50% tissue-culture infectious dose [TCID50] per milliliter) or SARS-CoV-1 (10exp6.75-7.00 TCID50 per milliliter) were generated with the use of a 3-jet Collison nebulizer and fed into a Goldberg drum to create an aerosolized environment. The inoculum resulted in cycle-threshold values between 20 and 22, similar to those observed in samples obtained from the upper and lower respiratory tract in humans.
+
+Our data consisted of 10 experimental conditions involving 2 viruses (SARS-CoV-2 and SARS-CoV-1) in 5 environmental conditions (aerosols, plastic, stainless steel, copper, and cardboard). All experimental measurements are reported as means across 3 replicates.
+
+SARS-CoV-2 remained viable in aerosols throughout the duration of our experiment (3 hours), with a reduction in infectious titer from 103.5 to 102.7 TCID50 per liter of air. This reduction was similar to that observed with SARS-CoV-1, from 104.3 to 103.5 TCID50 per milliliter.
+
+SARS-CoV-2 was more stable on plastic and stainless steel than on copper and cardboard, and viable virus was detected up to 72 hours after application to these surfaces, although the virus titer was greatly reduced (from 10exp3.7 to 10exp0.6 TCID50 per milliliter of medium after 72 hours on plastic and from 10exp3.7 to 10exp0.6 TCID50 per milliliter after 48 hours on stainless steel). The stability kinetics of SARS-CoV-1 were similar (from 10exp3.4 to 10exp0.7 TCID50 per milliliter after 72 hours on plastic and from 10exp3.6 to 10exp0.6 TCID50 per milliliter after 48 hours on stainless steel). On copper, no viable SARS-CoV-2 was measured after 4 hours and no viable SARS-CoV-1 was measured after 8 hours. On cardboard, no viable SARS-CoV-2 was measured after 24 hours and no viable SARS-CoV-1 was measured after 8 hours. The longest viability of both viruses was on stainless steel and plastic; the estimated median half-life of SARS-CoV-2 was approximately 5.6 hours on stainless steel and 6.8 hours on plastic.
+
+We found that the stability of SARS-CoV-2 was similar to that of SARS-CoV-1 under the experimental circumstances tested. This indicates that differences in the epidemiologic characteristics of these viruses probably arise from other factors, including high viral loads in the upper respiratory tract and the potential for persons infected with SARS-CoV-2 to shed and transmit the virus while asymptomatic (3,4). Our results indicate that aerosol and fomite transmission of SARS-CoV-2 is plausible, since the virus can remain viable and infectious in aerosols for hours and on surfaces up to days (depending on the inoculum shed). These findings echo those with SARS-CoV-1, in which these forms of transmission were associated with nosocomial spread and super-spreading events (5), and they provide information for pandemic mitigation efforts.
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+******
+[3] Health security capacities in the context of COVID-19 outbreak: an analysis of International Health Regulations annual report data from 182 countries
+Date: Wed 18 Mar 2020
+Source: The Lancet [edited]
+https://www.thelancet.com/action/showPdf?pii=S0140-6736%2820%2930553-5
+
+
+Summary
+-------
+Background: Public health measures to prevent, detect, and respond to events are essential to control public health risks, including infectious disease outbreaks, as highlighted in the International Health Regulations (IHR). In light of the outbreak of 2019 novel coronavirus disease (COVID-19), we aimed to review existing health security capacities against public health risks and events.
+
+Methods: We used 18 indicators from the IHR State Party Annual Reporting (SPAR) tool and associated data from national SPAR reports to develop 5 indices: (1) prevent, (2) detect, (3) respond, (4) enabling function, and (5) operational readiness. We used SPAR 2018 data for all of the indicators and categorised countries into 5 levels across the indices, in which level 1 indicated the lowest level of national capacity and level 5 the highest. We also analysed data at the regional level (using the 6 geographical WHO regions).
+
+Findings: Of 182 countries, 52 (28%) had prevent capacities at levels 1 or 2, and 60 (33%) had response capacities at levels 1 or 2. A total of 81 (45%) countries had prevent capacities and 78 (43%) had response capacities at levels 4 or 5, indicating that these countries were operationally ready. Also, 138 (76%) countries scored more highly in the detect index than in the other indices, and 44 (24%) countries did not have an effective enabling function for public health risks and events, including infectious disease outbreaks (7 [4%] at level 1 and 37 [20%] at level 2). A total of 102 (56%) countries had level 4 or level 5 enabling function capacities in place, whereas 32 (18%) countries had low readiness (2 [1%] at level 1 and 30 [17%] at level 2), and 104 (57%) countries were operationally ready to prevent, detect, and control an outbreak of a novel infectious disease (66 [36%] at level 4 and 38 [21%] at level 5).
+
+Interpretation: Countries vary widely in terms of their capacity to prevent, detect, and respond to outbreaks. Half of all countries analysed have strong operational readiness capacities in place, which suggests that an effective response to potential health emergencies could be enabled, including to COVID-19. Findings from local risk assessments are needed to fully understand national readiness capacities in relation to COVID-19. Capacity building and collaboration between countries are needed to strengthen global readiness for outbreak control.
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+******
+[4] Italy: COVID-19 experiences
+Date: Wed 18 Mar 2020
+Source: The Lancet [abridged, edited]
+https://www.thelancet.com/action/showPdf?pii=S2214-109X%2820%2930110-8
+
+
+On 10 Mar 2020, at 00:30 h, the official news was posted on the website of the Italian Ministry of Health: a new decree effective until at least 3 Apr 2020 limits the movement of individuals in the whole Italian national territory unless strictly motivated (in written form) by reasons of work or health. Schools, museums, cinemas, theatres, and any other social, recreational, or cultural centre must stay closed. Any gathering in public spaces is forbidden, including sporting events and funerals. Most shops must stay closed. Those selling essentials, such as supermarkets or pharmacies, need to ensure a distance of at least 1 m between customers.
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+******
+[5] Clinical course and mortality risk of severe COVID-19
+Date: Tue 17 Mar 2020
+Source: The Lancet [edited]
+https://www.thelancet.com/action/showPdf?pii=S0140-6736%2820%2930633-4
+
+
+Several published reports of early clinical descriptions of coronavirus disease 2019 (COVID-19) have emerged from Hubei province in China, and many more will come. These early reports, typically simple descriptive case series of patients hospitalised with COVID-19 (mostly with pneumonia), provide valuable information on the more severe end of the disease spectrum. We tend to hear more about the most severe cases in the early stages of a new disease, as these are the ones first brought to the public's attention and are associated with deaths. However, it is important to bear in mind that the current best estimate is that about 81% of people with COVID-19 have mild disease and never require hospitalisation. These cases have not yet featured much in published clinical descriptions.
+
+In The Lancet, Fei Zhou and colleagues provide further insight into the clinical course and mortality risk for adults with COVID-19 severe enough to require hospitalisation. They report findings from 191 patients with COVID-19 from Wuhan during the 1st month of the outbreak, and follow them through to discharge (n = 137) or death (n = 54). The follow-up until discharge or death is a point of difference from other case series to date. Their cohort had many characteristics in common with other reports -- a median age of 56 years, a high percentage (62%) of men, and nearly half (48%) of patients with comorbidities. In-hospital death was associated with, on admission, older age and blood d-dimer greater than 1 microgram/mL, findings known to be associated with severe pneumonia.
+
+The study also presents early data on changes in clinical and laboratory findings over time, which could help clinicians to identify patients who progress to more severe disease. In-hospital mortality was high (28%), much higher than in other reports that had incomplete follow-up data, and was very high among the 32 patients requiring invasive mechanical ventilation, of whom 31 (97%) died. This might reflect a higher proportion of patients admitted with severe disease in the early stages of the outbreak. In another report from Wuhan, mortality was 62% among critically ill patients with COVID-19 and 81% among those requiring mechanical ventilation. While the world awaits further information from other locations, including from outside China, the current message is that mortality is high among the minority of people with COVID-19 who get severe disease.
+
+Throat swabs were obtained every other day and were PCR positive for a median of 20 days after onset of symptoms. In survivors, median duration of viral shedding was 20 days, ranging from 8 to 37 days, but the virus was detectable until death in non-survivors. These early findings are similar to those reported for the severe acute respiratory syndrome (SARS) and Middle East respiratory syndrome coronaviruses, and we await more detailed information on viral load kinetics and shedding of SARS coronavirus 2 in various disease states. Importantly, PCR positivity does not necessarily indicate viable virus, and additional data are needed to better understand the infectious period of COVID-19 and implications for treatment and infection control.
+
+Although there is always the limitation of generalisability in epidemic investigations, this study adds to a rapidly growing knowledge base on the clinical course and mortality risk of COVID-19. We now have a better understanding of the severity of hospitalised COVID-19, but more data are needed on treatment options that improve survival.
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+******
+[6] Characteristics and outcomes of 21 critically ill patients with COVID-19 in Washington State, USA
+Date: Thu 19 Mar 2020
+Source: JAMA [abridged, edited]
+https://jamanetwork.com/journals/jama/fullarticle/2763485
+
+
+The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and the disease it causes, coronavirus disease 2019 (COVID-19), is an emerging health threat (1 [see source URL for links to references]). Until February 2020, most cases were described in non-US health systems. One of the 1st deaths in the USA was reported at Evergreen Hospital in Kirkland, Washington. Over the following weeks, multiple cases of COVID-19 were identified in the surrounding community and treated at Evergreen Hospital. Most were attributed to US transmission, and the majority were linked to exposures at a skilled nursing facility.
+
+Methods: Patients with confirmed SARS-CoV-2 infection (positive result by polymerase chain reaction testing of a nasopharyngeal sample) admitted to the ICU at Evergreen Hospital between 20 Feb 2020 and 5 Mar 2020 were included. Evergreen Hospital is a 318-bed public hospital with a 20-bed ICU serving approximately 850 000 residents of King and Snohomish counties in Washington State.
+
+Laboratory testing was reviewed at ICU admission and on day 5. Chest radiographs were reviewed by an intensivist and a radiologist. Patient outcome data were evaluated after 5 or more days of ICU care or at the time of death. No analysis for statistical significance was performed given the descriptive nature of the study.
+
+Results: A total of 21 cases were included (mean age, 70 years [range, 43-92 years]; 52% male). Comorbidities were identified in 18 cases (86%), with chronic kidney disease and congestive heart failure being the most common. Initial symptoms included shortness of breath (76%), fever (52%), and cough (48%) The mean onset of symptoms prior to presenting to the hospital was 3.5 days, and 17 patients (81%) were admitted to the ICU less than 24 hours after hospital admission.
+
+An abnormal chest radiograph was observed in 20 patients (95%) at admission. The most common findings on initial radiograph were bilateral reticular nodular opacities (11 patients [52%]) and ground-glass opacities (10 [48%]). By 72 hours, 18 patients (86%) had bilateral reticular nodular opacities and 14 (67%) had evidence of ground-glass opacities. The mean white blood cell count was 9365 microliters at admission, and 14 patients (67%) had a white blood cell count in the normal range. A total of 14 patients (67%) had an absolute lymphocyte count of less than 1000 cells/microliter. Liver function tests were abnormal in 8 patients (38%) at admission.
+
+Mechanical ventilation was initiated in 15 patients (71%). Acute respiratory distress syndrome (ARDS) was observed in 15 of 15 patients (100%) requiring mechanical ventilation, and 8 of 15 (53%) developed severe ARDS by 72 hours. Although most patients did not present with evidence of shock, vasopressors were used for 14 patients (67%) during the illness. Cardiomyopathy developed in 7 patients (33%). As of 17 Mar 2020, mortality was 67%, and 24% of patients have remained critically ill and 9.5% have been discharged from the ICU.
+
+Discussion: This study represents the 1st description of critically ill patients infected with SARS-CoV-2 in the USA. These patients had a high rate of ARDS and a high risk of death, similar to published data from China. However, this case series adds insight into the presentation and early outcomes in this population and demonstrates poor short-term outcomes among patients requiring mechanical ventilation.
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[As the COVID-19 pandemic spreads across over 160 countries, operational research is an ongoing effort to answer some critical questions regarding the spread of the novel virus and evaluate the epidemiological and clinical features associated with a favorable or fatal outcome. - Mod.UBA
+
+HealthMap/ProMED-mail map:
+Worldwide: https://promedmail.org/promed-post?place=7116100,8854]
+See Also
+COVID-19 update (46): global, comment, cruise ships, more countries, WHO 20200320.7116046
+COVID-19 update (45): China (Hong Kong) animal, dog, 2nd case PCR positive 20200319.7112693
+COVID-19 update (44): global, severe dis, long-term care, more countries, WHO 20200319.7111001
+COVID-19 update (43): global, ship crew outbreak, HS whiz, more countries, WHO 20200318.7106305
+COVID-19 update (42): global, more countries, WHO 20200317.7101282
+COVID-19 update (41): global, surge capacity, vaccine development, WHO 20200316.7096222
+COVID-19 update (40): global, Europe epicenter, lockdown, phone tracking, WHO 20200315.7092618
+COVID-19 update (39): global, more countries, stability, mitigation impact, WHO 20200314.7088746
+COVID-19 update (38): global, more countries, WHO 20200313.7084577
+COVID-19 update (37): China (Hong Kong) animals, dog, prelim. serology negative 20200312.7081842
+COVID-19 update (36): global, pandemic declared, Denmark, more countries, WHO 20200312.7079850
+COVID-19 update (35): global, USA (NY) actions, hypertension, more countries, WHO 20200311.7075036
+COVID-19 update (30): China (Hong Kong) dog, susp, serology pending 20200306.7057595
+COVID-19 update (20): China, global, Italy, Iran, Nigeria, imported cases, WHO 20200228.7032761
+COVID-19 update (10): China, global, Iran, WHO 20200219.7005749
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (41): China, global, clinical pics, asymptomatic trans., WHO 20200210.6976117
+Novel coronavirus (40): animal reservoir, pangolin poss intermediate host, RFI 20200210.6972104
+Novel coronavirus (30): updates, China, Viet Nam, research 20200202.6945658
+Novel coronavirus (20): China, wildlife trade ban 20200127.6922060
+Novel coronavirus (10): China (HU, GD, BJ) 20200119.6898567
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia - China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia - China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+----
+Undiagnosed pneumonia - China (HU): RFI 20191230.6864153
+.................................................uba/rd/ml
+</body>

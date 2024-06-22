@@ -1,0 +1,105 @@
+<header id=062807>
+Published Date: 2019-05-17 10:44:08 EDT
+Subject: PRO/AH/EDR> Anthrax (02): global, model map
+Archive Number: 20190517.6472333
+</header>
+<body id=062807>
+ANTHRAX (02): GLOBAL, MODEL MAP
+*******************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+[1]
+Date: Mon 13 May 2019
+Source: Nature Microbiology [edited]
+https://www.researchgate.net/publication/333062961_The_global_distribution_of_Bacillus_anthracis_and_associated_anthrax_risk_to_humans_livestock_and_wildlife
+
+
+Citation: Carlson CJ, Kracalik IT, Ross N, et al. The global distribution of _Bacillus anthracis_ and associated anthrax risk to humans, livestock and wildlife. Nature Microbiology May 2019 https://www.nature.com/articles/s41564-019-0435-4.
+
+Abstract
+----------
+_Bacillus anthracis_ is a spore-forming, Gram-positive bacterium responsible for anthrax, an acute infection that most significantly affects grazing livestock and wild ungulates, but also poses a threat to human health. The geographic extent of _B. anthracis_ is poorly understood, despite multi-decade research on anthrax epizootic and epidemic dynamics; many countries have limited or inadequate surveillance systems, even within known endemic regions. Here, we compile a global occurrence dataset of human, livestock and wildlife anthrax outbreaks. With these records, we use boosted regression trees to produce a map of the global distribution of _B. anthracis_ as a proxy for anthrax risk. We estimate that 1.83 billion people [95% credible interval (CI): 0.59-4.16 billion] live within regions of anthrax risk, but most of that population faces little occupational exposure. More informatively, a global total of 63.8 million poor livestock keepers (95% CI: 17.5-168.6 million) and 1.1 billion livestock (95% CI: 0.4-2.3 billion) live within vulnerable regions. Human and livestock vulnerability are both concentrated in rural rainfed systems throughout arid and temperate land across Eurasia, Africa and North America. We conclude by mapping where anthrax risk could disrupt sensitive conservation efforts for wild ungulates that coincide with anthrax-prone landscapes.
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+******
+[2]
+Date: Mon 13 May 2019
+Source: Emerging Pathogens Institute, University of Florida [edited]
+http://www.epi.ufl.edu/news/global-anthrax-maps.html
+
+
+Newly published maps reveal, for the 1st time, where anthrax poses global risks to people, livestock and wildlife. Popularly viewed as a frightening airborne agent of bioterrorism, the bacteria that cause anthrax infections naturally occur in the soil on every continent and some islands.
+
+The maps, published today [13 May 2019] in Nature Microbiology, are the result of 15 years of data collection covering 70 countries compiled by Emerging Pathogens Institute associate research professor Jason Blackburn and his colleagues. Until now, the geographic distribution of anthrax has not been mapped globally. "Our main purpose was to describe where anthrax occurs, or is likely to occur, across the globe, and to illustrate sub-national areas where surveillance is necessary," Blackburn says. "Anthrax is a disease that affects both animals and humans, and it is most commonly associated with rural and agricultural communities some of which contend with it nearly worldwide. Our maps will help countries and health authorities focus on specific anthrax-prone areas to target control and surveillance."
+
+[see source URL to view the global anthrax maps (check these maps, plus the precision is not confused by country boundaries -- the maps are naked and thus much easier to read. - Mod.MHJ): Global environmental suitability for _Bacillus anthracis_. Map A is the most conservative, Map B is the most pragmatic, and Map C is the most liberal estimate for the probability of where _B. anthracis_ occurs. Mapping the pathogen is a proxy for understanding where disease may occur in people, livestock and wildlife.]
+
+Blackburn, who is also an associate professor in the University of Florida's geography department, and his team used historical records, news of active outbreaks, existing published maps and original field data to create a new comprehensive database with GPS coordinates for each record of occurrence. The team then combined the known occurrences of anthrax outbreaks with suitable habitat of _Bacillus anthracis_, the bacterium that causes anthrax, as a proxy for disease risk. They then overlaid this with models showing where people, livestock and susceptible wildlife occur.
+
+Co-first authors Ian Kracalik, a Centers for Disease Control epidemic intelligence service officer (and former doctoral student of Blackburn's, University of Florida class of '17), and Colin Carlson, an environment initiative postdoctoral researcher at Georgetown University, led the modeling portion of the project. Kracalik performed his portion of the work while earning a PhD in medical geography in Blackburn's Spatial Epidemiology and Ecology Research Lab.
+
+Global maps, local insights
+--------------------------
+"Dr. Blackburn's anthrax database gave us an incredibly detailed dataset on where we've seen anthrax not just in humans but also in animals -- in our livestock, and in wildlife," Carlson says. "We used machine learning to predict where we see anthrax based on habitat traits like alkaline, sandy soils. That lets us say, who lives in areas of anthrax risk, and how protected are they by vaccination? How many people, how many livestock, and how many vulnerable wildlife species?"
+
+By asking these questions of their models, the team found that 1.83 billion people inhabit anthrax risk areas. But they trimmed this down to 63.8 million workers who engage in agricultural occupations that place them at heightened risk of contracting the disease. Likewise, they mapped livestock by species type and found that anthrax-vulnerable areas contain 1.1 billion livestock. "The big result that 64 million poor livestock keepers live in anthrax areas is staggering," Carlson says. "It means we have a lot of work left to do to map anthrax in a lot of places, and to work on interventions."
+
+The maps will help inform health workers and policymakers. "This tells medical clinicians and veterinarians that if they are inside a predicted zone, anthrax should be on their routine diagnostic list or their annual vaccination list, respectively," Blackburn says. "The best way to protect people is to routinely vaccinate livestock."
+
+Strategic vaccines
+------------------
+Though an effective livestock vaccine exists, it must be given annually and the maps will help authorities prioritize using it where there is the greatest livestock-people interface. The pathogen can persist in a nearly indestructible spore form in soils for several years to decades, which means that sustained vaccination campaigns are necessary in some regions even when there are no known outbreaks. "There's some incredible patterns in our results," Carlson says. "Such as how the legacy of Soviet vaccination campaigns persists to today. But there's also some very visible impacts of poverty in places where anthrax is hyperendemic, and I hope our work draws more focus towards that."
+
+Areas of sub-Saharan Africa and south and east Asia tend to have vaccinations rates ranging from greater than 1% to 6%, but the researchers found that these regions disproportionately account for 48.5 million rural poor livestock keepers. "Internationally, we need to do a better job of getting the vaccine to high-risk areas," Blackburn says.
+
+Between 20 000 and 100 000 people report anthrax annually around the world, and most occurrences are in poor or rural areas. It is rare for someone in the US to contract it, due in part to our high rates of livestock vaccination in disease-prone areas. But these numbers are incomplete because many subclinical cases go unreported for various reasons, including stigma, fear of quarantine or lost income, or lack of an accurate diagnosis.
+
+Reporting figures are even weaker for wildlife and livestock worldwide. While livestock are tended by humans, wildlife are not. Many wildlife may sicken or die, and the disease is never observed by people, unless there is a headline-grabbing mass die-off as sometimes happen with reindeer or antelope. "Unfortunately, there is a big problem with anthrax reporting in that it skews to people," Blackburn says. "In most cases, you expect to see more animals infected than people, but in reporting we see more human cases noted. This creates a challenge for understanding where to focus control efforts."
+
+But several of Blackburn's prior studies clearly show that vaccinating livestock is protective for people. In 1996, Azerbaijan implemented a compulsory livestock vaccine and their human anthrax cases declined dramatically. In a similar vein, the elimination of a compulsory livestock vaccine in the Eurasian country of Georgia resulted in a subsequent spike in human cases.
+
+The human anthrax vaccine is very costly and requires multiple doses; it tends to be reserved for laboratory personnel and emergency first responders who have bioterrorism roles. It is not appropriate for use as a preventative vaccine in local communities.
+
+Wildlife and anthrax
+--------------------
+The new research has implications for wildlife of conservation priority, such as wood bison and saiga antelope, as well as economically important game animals such as white-tailed deer. It is not feasible to vaccinate wildlife, Blackburn notes, "But knowing where anthrax is likely to occur can inform hunters, as well as livestock growers, who have close proximity to these wildlife to prevent spillover events in either direction." It can also help inform land managers of best practices for carcass disposal in anthrax-prone areas: Burning reduces the pathogen's spread far more effectively than burying.
+
+Outbreaks occur when hoofed mammals, wild or domesticated, consume the soil-dwelling _B. anthracis_, which sticks to grasses or browse. In the US, wildlife and livestock outbreaks tend to occur in warmer months between May and October.
+
+Flies may also play a role in moving the bacteria around: Carrion-feeding flies are thought to pick it up while scavenging infected carcasses, then move it to grasses or browse, which are then eaten by hoofed mammals. "Likewise, biting flies may play a role in amplifying transmission by acquiring the pathogen when biting one animal during an active outbreak, then slipping it into subsequent animals through the mechanical injection of a bite," Blackburn says.
+
+The life cycle of _B. anthracis_ necessitates being eaten and moving through a mammal's digestive tract where it transitions from the spore form that persists in the environment to vegetative cells, which cause the anthrax infection. After the animal dies, the vegetative cells sporulate and those spores are reintroduced into the soil, where it can reside undisturbed for years. It can then be ingested by another mammal and infection begins anew within their fluid-rich body.
+
+People most commonly acquire _B. anthracis_ from animals, usually through skin lesions (cutaneous infection) when they handle or butcher infected carcasses. Eating infected meat can also cause illness, and lead to deadlier outcomes (gastrointestinal infection). How sick someone becomes is determined by how they were exposed.
+
+Looking forward
+----------------
+Carlson says he hopes that the work will move the needle on people's perception of anthrax away from the newsy anomalies of thawing permafrost or bioterrorism threats to a more global perspective of connections between human and animal health.
+
+"Anthrax cases in humans are preventable, and tend to be a product of poor, vulnerable folks living in close proximity to the environment," Carlson says. "Hopefully having a better inventory of that will let us do more to help them, and shift some focus away from flashier emerging diseases to the more neglected ones."
+
+Blackburn's future work will examine the genetic diversity of _B. anthracis_ worldwide and the geographic factors associated with specific genetic strains. "This species can be found in many different environmental conditions," Blackburn says. "Knowing how the strains are distributed, and how effective the vaccine is against different strains, will help us to further refine our risk maps."
+
+[Byline: DeLene Beeland]
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[In fact, this research came about from a joint project with David Rogers, Zoology Department, Oxford University, funded by the US government to niche map anthrax in as many regions of the world as possible. Early days. Since then, we have improved our modelling skills; it has become much, much quicker -- the resolution has improved from 8 sq km (about 3 sq mi) to 1 sq km (about 0.4 sq mi), and the modelling has become sensitive to the gene strains being mapped. And we have benefited from the experience gained mapping other pathogens and vectors. And mapping is being done successfully by others in their respective countries.
+
+I included both the Nature Microbiology article and the University of Florida report because the latter better and more easily describes what the article itself achieved. The former is a mite dense. At some point, I hope that the University of Florida will release large maps that can be pinned to a wall and be of local value.
+
+The authorship is large because each person contributed their unique information on the outbreak details and locations in their parts used in building this model. It would have been impossible without each one. And I can predict that much new information will emerge as a result of these predictive models: Why does the prediction work here but not there; what does it tell us about the quality of diagnostic laboratories in confirming or denying outbreaks (a couple of countries are already in our sights from their claims to have anthrax unsupported by this model and a suspicion their diagnoses are not reliable); how come an area of apparent high risk is little afflicted; what can we learn when comparing this global map with a denser national prediction model map; what does it tell us about the Russian arctic steppes and the ecology of anthrax there? This is going to be fun. - Mod.MHJ]
+
+.................................................mhj/rd/lxl
+</body>

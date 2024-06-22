@@ -1,0 +1,127 @@
+<header id=020769>
+Published Date: 2020-06-17 09:18:31 EDT
+Subject: PRO/AH/EDR> COVID-19 update (267): animal, domestic, wild, cat, research
+Archive Number: 20200617.7480013
+</header>
+<body id=020769>
+CORONAVIRUS DISEASE 2019 UPDATE (267): ANIMAL, DOMESTIC, WILD, CAT, RESEARCH
+****************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+Date: Tue 16 Jun 2020 [accessed]
+Source: bioRxiv preprint, not peer reviewed [edited]
+https://www.biorxiv.org/content/10.1101/2020.06.13.149690v1
+
+
+ref: Chen D, Sun J, Zhu J, et al. Single-cell screening of SARS-CoV-2 target cells in pets, livestock, poultry and wildlife. bioRxiv 2020.06.13.149690 [this version posted 14 Jun 2020].
+---------------------------------------------------------------------
+Abstract
+--------
+A few animals have been suspected to be intermediate hosts of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). However, a large-scale single-cell screening of SARS-CoV-2 target cells on a wide variety of animals is missing. Here, we constructed the single-cell atlas for 11 representative species in pets, livestock, poultry, and wildlife. Notably, the proportion of SARS-CoV-2 target cells in cat was found considerably higher than other species we investigated and SARS-CoV-2 target cells were detected in multiple cell types of domestic pig, implying the necessity to carefully evaluate the risk of cats during the current COVID-19 pandemic and keep pigs under surveillance for the possibility of becoming intermediate hosts in future coronavirus outbreak. Furthermore, we screened the expression patterns of receptors for 144 viruses, resulting in a comprehensive atlas of virus target cells. Taken together, our work provides a novel and fundamental strategy to screen virus target cells and susceptible species, based on single-cell transcriptomes we generated for domesticated animals and wildlife, which could function as a valuable resource for controlling current pandemics and serve as an early warning system for coping with future infectious disease threats.
+
+--
+communicated by:
+Herve Bercovier
+Prof (Emeritus) of Microbiology
+The Faculty of Medicine
+Hebrew University of Jerusalem
+Israel
+<hb@cc.huji.ac.il>
+
+[The 11 (domestic and wild) animal species addressed in the above study included pangolin, cat, dog, hamster, lizard, pig, goat, chicken, duck, goose, and pigeon.
+
+From the exhaustive results section, we hereby present a (slightly abridged] copy of the sub-section "Systematic evaluation of SARS-CoV-2 infection risks in livestock, poultry, pets and wildlife":
+
+"While comparing the frequencies of SARS-CoV-2 target lung cells across different species, we noticed that cat clearly outweigh other species, with 13.19% in ciliated cells, compared to pig (3.35%), and hamster (3.87%).
+
+"Moreover, when taking the proportions of SARS-CoV-2 target cells in distinct organs among cat, pangolin, and pig into consideration, it was further indicated that the proportion of [angiotensin-converting enzyme 2] ACE2 [entry receptor] and [transmembrane serine protease 2] TMPRSS2 [=entry activator] target cells were much higher in cat. For example, the proportion of ACE2 and TMPRSS2 co-expressing cells was as high as 40% in cat kidney proximal tubular cells while the proportions were only around 3% and 2% in corresponding cell type in pangolin and pig, respectively.
+
+"We also noticed that SARS-CoV-2 target cells were widely distributed among organs within the digestive system (esophagus, rectum), respiratory system (lung) and urinatory system (kidney) of cat, implying that cats could be infected by SARS-CoV-2 via multiple routes such as dietary infections of the digestive tract or airborne transmission through respiratory system.
+
+"To highlight SARS-CoV-2 susceptible cell types, we summarized all cell types with proportion of ACE2 and TMPRSS2 co-expressing cells higher than 1%, which shows that cat, as well as pig, have more susceptible cell types than other species we investigated.
+
+"Taken together, our data explains the observation that cats are highly permissive to SARS-CoV-28 and raise the necessity to carefully monitor and evaluate the possible roles of cat as intermediate hosts in current pandemic.
+
+"SARS-CoV-2 replicate poorly in dog, chicken and duck. Our data suggests that the co-expression of ACE2 and TMPRSS2 is very rare in dog lung cells and absent in poultry lung cells (chicken, duck, goose and pigeon). Besides, it has been predicted that dog and poultry ACE2 cannot be utilized efficiently by SARS-CoV-2 spike glycoprotein because of mutations in critical amino acids of dog ACE25. Therefore, our data, to some extent, explains why dogs and poultry are not as permissive for SARS-CoV-2 infection as cat.
+
+"Our study identified the SARS-CoV-2 target cells in distinct tissues of cat, pangolin and hamster, indicated by the simultaneous expression of SARS-CoV-2 entry factors: ACE2 and TMPRSS2. A detailed comparative analysis among cat, pangolin and hamster deciphered that the proportion of SARS-CoV-2 target cells in cat was much higher than in pangolin and hamster, implying that cats are more susceptible to SARS-CoV-2. Besides, as a companion animal, cats interact with humans more frequently than pangolins, thus we proposed that cats should be closely monitored in the current COVID pandemic.
+
+"We found that SARS-CoV-2 target cells were distributed in a variety of cells in the kidney and lung of domestic pig. It seems to be plausible to question if domestic pigs have the potential to function as intermediate hosts for SARS-CoV-2. The reason why pigs could not support SARS-CoV-2 replication [in previous studies] seems to be an intriguing scientific question and definitely invites further investigations. Given that COVID-19 pandemic is still progressing and SARS-CoV-2 strains are constantly evolving, we need to keep monitoring and evaluating the possibility of pigs to become intermediate hosts of future pandemic."
+
+Domestic, owned cats, have been reported from several countries as infected from their sick owners (see in "see also"); serosurveys have confirmed the susceptibility of domestic, stray and sheltered cats to SARS-CoV-2 infection. In addition, cats have been subject to 3 published SARS-CoV-2 experimental infection trials (China, 20200402.7173286; Japan/USA, 20200514.7337185, and USA, 20200601.7416648). All 3 confirmed the susceptibility of cats to infection, as observed afield. In the Chinese transmission study, viral RNA was detected in the feces of virus-inoculated cats but the virus was not recovered from the viral RNA-positive small intestine. In the Japanese/USA trial, no virus was detected in any of the rectal swabs tested. The USA experiment did not address fecal samples.
+
+The results indicated that SARS-CoV-2 can replicate efficiently in cats, with younger cats being more permissive and, perhaps more importantly, the virus can transmit between cats via respiratory droplets.
+
+Fecal infectivity in free-roaming cats is epidemiologically of high significance in receptive, vulnerable settings such as the wet-markets and seafood markets, in South East Asia and elsewhere. This potential route of virus spread by cats deserves to be studied in depth, to be, hopefully, definitely excluded -- or otherwise.
+
+The role of cats in the spread of SARS-CoV-2 within and between mink farms in the Netherlands is currently under investigation. It will be of particular interest to note if such spread could involve the fecal route.
+
+A summary of SARS-CoV-2 findings in animals to date (June 2020) has been included as table 1, in OIE's fact-sheet Infection with SARS-COV-2 in animals, at https://www.oie.int/fileadmin/Home/eng/Our_scientific_expertise/docs/pdf/COV-19/A_Factsheet_SARS-CoV-2.pdf (updated Jun 2020). - Mod.AS]
+See Also
+COVID-19 update (266): Denmark (ND) animal, farmed mink, 1st rep 20200617.7479510
+COVID-19 update (251): Netherlands (NB, LI) animal, farmed mink, spread, culling 20200610.7453845
+COVID-19 update (248): Netherlands (NB, LI) animal, mink, spread, culling, cat 20200609.7446478
+COVID-19 update (238): USA (MN) animal, cat 20200605.7429133
+COVID-19 update (236): Netherlands (NB, LI) animal, farmed mink, spread, culling 20200604.7427849
+COVID-19 update (231): USA (NY) animal, dog conf. 20200602.7420541
+COVID-19 update (230): Netherlands (NB, LI) animal, farmed mink, spread, control 20200602.7420433
+COVID-19 update (227): animal, cat, dog, research, experimental infection 20200601.7416648
+COVID-19 update (215): Netherlands (NB) animal, mink-to-human, epidem., control 20200527.7385049
+COVID-19 update (212): Russia (Moskva) animal, cat, OIE 20200526.7379578
+COVID-19 update (209): Netherlands (NB) farmed mink, animal-to-human, cat, epid 20200525.7375359
+COVID-19 update (198): Netherlands (NB) farmed mink, animal-to-human infect susp 20200520.7359976
+COVID-19 update (189): Netherlands (NB) animal, farmed mink, research, cat, dog 20200517.7344274
+COVID-19 update (183): Japan/USA, animal, research, cat, experimental infection 20200514.7337185
+COVID-19 update (181): Germany (BY), France (AC), cat, OIE animal case definition 20200513.7332909
+COVID-19 update (177): Netherlands (NB) animal, farmed mink, Spain (CT) cat susp 20200512.732858
+COVID-19 update (174): Netherlands (NB) animal, farmed mink, comment 20200511.7323845
+COVID-19 update (169): Netherlands (NB) animal, farmed mink, spread, rabbit susp 20200509.7316646
+COVID-19 update (154): Netherlands (NB) animal, farmed mink, research 20200503.7294846
+COVID-19 update (146): Netherlands (NB) animal, farmed mink, epidemiology 20200501.7286113
+COVID-19 update (143): USA (NY) animal, zoo, tiger, lion, tests 20200430.7284183
+COVID-19 update (141): India, animal, wild tiger, susp, clarification, RFI 20200430.7281768
+COVID-19 update (138): India, animal, wild tiger, fatal 20200428.7275765
+COVID-19 update (135): Netherlands (NB) animal, farmed mink 20200427.7272289
+COVID-19 update (130): USA (NY) animal, zoo, tiger, lion, new cases 20200425.7266556
+COVID-19 update (124): USA (NY) animal, cat, lion, OIE 20200423.7259119
+COVID-19 update (123): USA (NY) animal, cat, conf 20200422.7256272
+COVID-19 update (113): USA (NY) cat, animal, susp, RFI 20200418.7240811
+COVID-19 update (88): Germany, animal, research, pig, chicken, bat, ferret 20200407.7196506
+COVID-19 update (85): USA (NY) animal, tiger, OIE 20200406.7191480
+COVID-19 update (84): USA animal, tiger 20200406.7191352
+COVID-19 update (76): China (HU) animal, cat, owned, stray, seropositive 20200403.7179946
+COVID-19 update (75): China (Hong Kong) animal, cat, OIE 20200403.7179945
+COVID-19 update (70): China (Hong Kong) animal, cat, pets & stock 20200402.7173286
+COVID-19 update (58): Belgium, animal, cat, clinical case, RFI 20200327.7151215
+COVID-19 update (56): China (Hong Kong) animal, dog, final serology positive 20200326.7146438
+COVID-19 update (50): China (Hong Kong) animal, dog, 2nd case PCR positive, OIE 20200323.7129951
+COVID-19 update (45): China (Hong Kong) animal, dog, 2nd case PCR positive 20200319.7112693
+COVID-19 update (37): China (Hong Kong) animal, dog, prelim. serology negative 20200312.7081842
+COVID-19 update (30): China (Hong Kong) animal, dog, susp, serology pending 20200306.7057595
+COVID-19 update (25): China (Hong Kong) animal, dog, susp, OIE 20200302.7040373
+COVID-19 update (22): companion animal, dog susp, RFI 20200229.7036661
+COVID-19 update (17): China, animal reservoir, wildlife trade & consumption 20200225.7024245
+COVID-19 update (11): animal reservoir, intermediate hosts, pangolin susp 20200220.7009213
+COVID-19 update (08): companion animal, RFI 20200218.7002276
+COVID-19 update (06): animal reservoir, intermediate hosts 20200217.6997782
+Novel coronavirus (40): animal reservoir, pangolin poss intermediate host, RFI 20200210.6972104
+Novel coronavirus (28): China (HU) animal reservoir 20200201.6943858
+Novel coronavirus (22): reservoir suggested, bats 20200129.6930718
+Novel coronavirus (20): China, wildlife trade ban 20200127.6922060
+Novel coronavirus (18): China (HU) animal reservoir 20200125.6915411
+Novel coronavirus (15): China (HU) wild animal sources 20200123.6909913
+Novel coronavirus (03): China (HU) animal reservoir suggested, RFI 20200114.6887480
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia - China (HU) (07): official confirmation of novel coronavirus 20200108.6878869
+Undiagnosed pneumonia - China (05): (HU) novel coronavirus identified 20200108.6877694
+Undiagnosed pneumonia - China (03): (HU) updates, SARS, MERS ruled out, WHO, RFI 20200105.6872267
+Undiagnosed pneumonia - China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+---
+Undiagnosed pneumonia - China: (HU) RFI 20191230.6864153
+.................................................arn/mj/sh
+</body>

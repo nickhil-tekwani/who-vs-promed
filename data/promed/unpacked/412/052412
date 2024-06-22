@@ -1,0 +1,204 @@
+<header id=052412>
+Published Date: 2020-10-15 09:25:12 EDT
+Subject: PRO/AH/EDR> COVID-19 update (440): children, RNA vaccines, WHO, global
+Archive Number: 20201015.7863738
+</header>
+<body id=052412>
+CORONAVIRUS DISEASE 2019 UPDATE (440): CHILDREN, RNA VACCINES, WHO, GLOBAL
+**************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] RNA-based vaccine candidates: safety and immunogenicity
+[2] Japan: source of infection for children
+[3] WHO: daily new cases reported (as of 14 Oct 2020)
+[4] Global update: Worldometer accessed 14 Oct 2020 22:05 EDT (GMT-4)
+
+******
+[1] RNA-based vaccine candidates: safety and immunogenicity
+Date: Wed 14 Oct 2020
+Source: New England Journal of Medicine [edited]
+https://www.nejm.org/doi/full/10.1056/NEJMoa2027906
+
+
+Ref: Walsh EE, Frenck Jr RW, Falsey AR, et al.: Safety and immunogenicity of two RNA-based COVID-19 vaccine candidates. NEJM. 14 Oct 2020; doi: 10.1056/NEJMoa2027906.
+--------------------------------------------------------------------------------
+Abstract
+--------
+Background
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infections and the resulting disease, coronavirus disease 2019 (COVID-19), have spread to millions of persons worldwide. Multiple vaccine candidates are under development, but no vaccine is currently available. Interim safety and immunogenicity data about the vaccine candidate BNT162b1 in younger adults have been reported previously from trials in Germany and the United States.
+
+Methods
+In an ongoing, placebo-controlled, observer-blinded, dose-escalation, phase 1 trial conducted in the United States, we randomly assigned healthy adults 18-55 years of age and those 65-85 years of age to receive either placebo or one of 2 lipid nanoparticle-formulated, nucleoside-modified RNA vaccine candidates: BNT162b1, which encodes a secreted trimerized SARS-CoV-2 receptor-binding domain; or BNT162b2, which encodes a membrane-anchored SARS-CoV-2 full-length spike, stabilized in the prefusion conformation. The primary outcome was safety (e.g., local and systemic reactions and adverse events); immunogenicity was a secondary outcome. Trial groups were defined according to vaccine candidate, age of the participants, and vaccine dose level (10 microg, 20 microg, 30 microg, and 100 microg). In all groups but one, participants received 2 doses, with a 21-day interval between doses; in one group (100 microg of BNT162b1), participants received one dose.
+
+Results
+A total of 195 participants underwent randomization. In each of 13 groups of 15 participants, 12 participants received vaccine and 3 received placebo. BNT162b2 was associated with a lower incidence and severity of systemic reactions than BNT162b1, particularly in older adults. In both younger and older adults, the 2 vaccine candidates elicited similar dose-dependent SARS-CoV-2-neutralizing geometric mean titers, which were similar to or higher than the geometric mean titer of a panel of SARS-CoV-2 convalescent serum samples.
+
+Conclusions
+The safety and immunogenicity data from this US phase 1 trial of 2 vaccine candidates in younger and older adults, added to earlier interim safety and immunogenicity data regarding BNT162b1 in younger adults from trials in Germany and the United States, support the selection of BNT162b2 for advancement to a pivotal phase 2-3 safety and efficacy evaluation.
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[Application of RNA in the forms of mRNA and saRNA vectors has recently received increased attention. In the case of mRNA-based vaccines, the immediate translation of antigens in the cytoplasm of target cells provides the means for rapid immune responses. However, mRNAs are highly sensitive to degradation due to their single-stranded structure and the presence of RNases, which has resulted in different approaches for improving RNA stability.
+
+Furthermore, delivery is a major issue of concern for RNA-based vaccines, not the least because of the stability issues related to RNA. Although naked RNA is far from optimal for delivery, intramuscular mRNA injections have demonstrated successful in vivo reporter gene.
+
+Currently, there are several RNA-based COVID-19 vaccine clinical trials in progress. For example, the positive results received from preclinical studies have encouraged the start of a phase I trial for an LNP [lipid nanoparticle] mRNA SARS-CoV-2 lead vaccine candidate, for which the German and Belgian authorities have provided regulatory approval (https://www.curevac.com/covid-19). Favorable results from the phase I study will lead to additional clinical trials with a significantly higher number of patients.
+
+In another approach, 3 COVID-19 vaccine candidates with uridine-containing mRNA (uRNA) or nucleoside-modified mRNA (modRNA) and one candidate based on saRNA are subjected to a randomized, placebo-controlled, observer-blind, dose-finding phase I/II trial (NCT04368728) in 200 healthy volunteers aged 18-55 years. The study will be assessed for safety and immunogenicity as well as the effects of repeated immunization. Preliminary results from the study (published on 1 Jul 2020) showed that immunization with the modRNA vaccine BNT162b1 at doses of 30 and 100 microg resulted in dose-related RBD-binding IgG concentrations and SARS-CoV-2-neutralizing titers (Mulligan et al., 2020). The geometric mean neutralizing titers were 1.8-2.8-fold higher than observed in a panel of COVID-19 convalescent human sera. After the LNP-encapsulated mRNA-1274 vaccine, which encodes the full-length, prefusion stabilized SARS-CoV-2 S protein, showed full protection against SARS-CoV-2 replication in lungs of mice (Corbett et al., 2020), an open-label, dose-ranging phase I trial was started in 150 healthy volunteers to validate the safety, reactogenicity, and immunogenicity of the vaccine candidate (NTC04283461). The volunteers are subjected to a 2-dose vaccination schedule 28 days apart, receiving 25, 50, 100, or 250 microg of LNP-mRNA intramuscularly. Initial evaluation of 8 participants across the 25 and 100 microg cohorts indicated that the vaccination was generally safe and well-tolerated and elicited neutralizing antibody titers at the same level or higher compared to convalescent sera (https://investors.modernatx.com). Moreover, a randomized, observer-blind, placebo-controlled, dose-confirmation phase IIa clinical trial to evaluate the safety, reactogenicity and immunogenicity of the LNP-mRNA-1273 vaccine candidate is in progress (NCT04405076). In addition, the study protocol for a randomized, placebo-controlled phase III study has been recently finalized, and the trial was expected to commence in July 2020 for 30 000 participants, applying an anticipated dose between 25 and 100 microg LNP-mRNA-1273 (https://investors.modernatx.com). Finally, a 1st-in-human randomized, placebo-controlled, observer-blind, dose-finding phase I/II clinical trial based on an LNP saRNA vector (Blakney et al., 2019) encoding the SARS-CoV-2 S gene has started in healthy volunteers (ISRCTN17072692). The study will initially include healthy volunteers aged 18-45 years but will later be expanded to 18-75-year-old volunteers.
+
+Understandably, much hype and speculations on if or when a functional vaccine will be available has put extra pressure on authorities and not the least on scientists. Too early and too optimistic interpretations of preliminary and often not-peer-reviewed reports have misled the public and even experts in the field. Despite all this, we need to courageously move forward. The different approaches taken in parallel to reach the goal of obtaining a vaccine against COVID-19 should only be seen as a strength. Currently, there is no way to "declare a winner." It is impossible to predict which technology will be successful, and it cannot be stressed enough that all avenues should be explored in parallel. The COVID-19 vaccine field is moving at such a speed that even the most accelerated publication scheme cannot accurately keep up with the development, timely report the present situation, and definitely not predict where we stand even in the near future. For this reason, an addendum had been included to provide a timely update of the present situation of COVID-19 vaccine development. However, as long as we all work together, we can also overcome the pandemic together.
+
+As of end August [2020], an LNP-encapsulated mRNA-based vaccine candidate showed no trial-limiting safety concerns in a phase I, dose-escalation, open-label trial including 45 healthy adults (Jackson et al., 2020). Vaccination with 25, 100, and 250 microg of LNP mRNA-1273 elicited higher antibody responses with the higher dose after the 1st immunization. The titers increased after the 2nd immunization in all participants, showing similar levels to convalescent serum specimens. Recruiting of 30 000 participants is now in progress for a randomized, stratified, observer-blind, placebo-controlled phase III trial (NCT04470427).
+
+Another LNP mRNA-based vaccine candidate, modRNA vaccine BNT162b1, which has shown positive results in a phase I trial (Mulligan et al., 2020), has also started recruiting more than 29 000 adults for a phase III trial (NCT04368728).The above report actually refers to preliminary data that has emerged from the early phases of the trial and looks promising. - Mod.UBA]
+
+******
+[2] Japan: source of infection for children
+Date: Wed 14 Oct 2020
+Source: Mianichi [edited]
+https://mainichi.jp/english/articles/20201014/p2a/00m/0na/011000c
+
+
+Around 80% of children who got infected with the coronavirus with known infection routes had contracted the virus at home, according to data compiled by the Japan Pediatric Society (JPS), it was announced by the Ministry of Health, Labor and Welfare's advisory board on coronavirus countermeasures on 13 Oct [2020].
+
+The JPS compiled data on cases in which a member pediatrician was involved, covering 472 children aged 0-19 who tested positive for the coronavirus, or 7.6% of all infected pediatric patients as of 8 Oct [2020]. Over 90% of these patients were aged 14 or younger.
+
+Of the 423 children with known infection routes, 329, or 78%, had contracted the virus at home. Of these, 144 patients had contracted the virus from their fathers. Thirty-one children acquired the virus at a kindergarten or day care, and 22 at school-related events. The rate of children who were infected at home had not changed much before and after the temporary closure of schools nationwide, and it was deemed that "there is a limit to the effect of closing schools."
+
+Nearly 90% of all pediatric patients, or 413 children, recovered without taking medication or other forms of treatment. Only one patient under the age of one and another patient between the ages of one and 4, or 0.4% of the total figure, had been treated at an intensive care unit.
+
+Though cases in which pediatric patients develop symptoms similar to Kawasaki disease, where blood vessels become inflamed throughout the body, have been reported in Europe and the United States, such symptoms were not reported during this particular investigation.
+
+[Byline (Japanese original): Sooryeon Kim]
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[In the United States and globally, fewer cases of COVID-19 have been reported in children (age 0-17 years) compared with adults. The true incidence of SARS-CoV-2 infection in children is not known due to lack of widespread testing and the prioritization of testing for adults and those with severe illness. It is unclear whether children are as susceptible to infection by SARS-CoV-2 compared with adults and whether they can transmit the virus as effectively as adults. Recent evidence suggests that children likely have the same or higher viral loads in their nasopharynx compared with adults and that children can spread the virus effectively in households and camp settings [https://www.cdc.gov/coronavirus/2019-ncov/hcp/pediatric-hcp.html]. The above report highlights the reverse transmission of infections from adults to children, thereby emphasising that further information on actual susceptibility of children to COVID-19. - Mod.UBA]
+
+******
+[3] WHO: daily new cases reported (as of 14 Oct 2020)
+Date: Wed 14 Oct 2020
+Source: WHO [abridged, edited]
+https://covid19.who.int/table
+
+
+*Daily case reports as of 14 Oct 2020 17:06 CEST
+
+Surveillance
+------------
+WHO region (no. countries/territories):
+Total confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+------------------------
+Western Pacific Region (19): 663 834 (3275) / 14 430 (54)
+European Region (61): 7 219 501 (100 256) / 249 660 (1096)
+South East Asia Region (10): 8 127 106 (73 888) / 129 653 (891)
+Eastern Mediterranean Region (22): 2 660 450 (20 727) / 67 750 (471)
+Region of the Americas (54): 18 090 384 (85 290) / 593 984 (1392)
+African Region (49): 1 240 683 (3595) / 27 744 (204)
+Cases on an international conveyance (Diamond Princess): 741 (0) / 13 (0)
+
+Confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+Grand total: 38 002 699 (287 031) / 1 083 234 (4108)
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The number of countries and territories reporting confirmed cases of COVID-19 to WHO remains at 216.
+
+Data by country, area, or territory for 14 Oct 2020 can be accessed at https://promedmail.org/wp-content/uploads/world-pdf/WHO%20daily%20tablesOct14_1602764042.pdf.
+
+- The Americas region reported 29.7% of daily case numbers and 33.9% of the daily deaths reported in the past 24 hours, maintaining its position as the most severely affected region, having reported more than 18.0 million cases. The USA and Brazil maintain their dominance, followed by Argentina, Colombia, and Mexico. Other countries reporting more than 1000 cases in the past 24 hours include Chile and Peru.
+
+- The European region reported 34.9% of daily case numbers and 26.7% of the daily deaths reported in the past 24 hours, and total cumulative cases reported exceed 7.2 million. Countries not reporting cases today (14 Oct 2020) include Spain, Kazakhstan, Israel, and Sweden. The UK is dominant, followed closely by Russia, then France, Czech Republic, Netherlands, Italy, Ukraine, Germany, and Poland. Other countries reporting more than 1000 cases in the past 24 hours include Switzerland, Romania, Austria, Armenia, Turkey, and Portugal.
+
+- The Eastern Mediterranean region reported 7.2% of daily case numbers and 11.5% of the deaths reported in the past 24 hours, having reported a cumulative total of greater than 2.6 million cases. Iran is dominant, followed by Iraq, Morocco, UAE, Lebanon, Jordan, Libya reported more than 100 cases. Kuwait, Oman, Pakistan, and Palestine reported more than 500 cases but less than 1000.
+
+- The African region reported 1.3% of daily case numbers and 4.9% of the deaths reported in the past 24 hours and has reported more than 1.24 million cases. South Africa is dominant, followed by Ethiopia, Cameroon, Nigeria, Algeria, Cameroon, Mozambique, Benin, Ghana, and Guinea.
+
+- The Western Pacific region reported 1.1% of daily case numbers and 1.3% of the deaths reported in the past 24 hours, having reported a cumulative total of 0.66 million cases. As previously, the Philippines maintains its dominance, followed by Malaysia, Japan, Guam, and South Korea.
+
+- The South East Asia region reported 25.7% of the daily newly reported cases and 21.7% of reported deaths in the past 24 hours, having reported a cumulative total of more than 8.1 million cases. As previously, India remains dominant, followed by Indonesia, Nepal, Bangladesh, and Myanmar.
+
+On the Overview tab at the WHO source URL, the epidemic curve of confirmed COVID-19 cases by WHO region, 30 Dec 2019 through 14 Oct 2020, is an excellent visual representation of the pandemic. - Mod.UBA]
+
+******
+[4] Global update: Worldometer accessed 14 Oct 2020 22:06 EDT (GMT-4)
+Date: Wed 14 Oct 2020
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at https://promedmail.org/wp-content/uploads/world-pdf/OCT14DATASET_1602764143.pdf.
+
+A 7-day series of cumulative data reported by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/OCT14WORLD7_1602764233.pdf. - Mod.UBA]
+
+Total number of reported deaths: 1 096 828
+Total number of worldwide cases: 38 734 694
+Number of newly confirmed cases in the past 24 hours: 381 918
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[India and the USA are still the most severely affected countries in terms of cumulative case counts and daily new case confirmations, with India in the 2nd position in terms of cumulative case counts and dominating in terms of newly reported cases. In the past 24 hours, these 3 countries -- India (67 988), followed by the USA (59 790) and Brazil (26 675) -- have maintained their dominance. A global total of 6094 deaths were reported in the past 24 hours (13-14 Oct 2020), representing an increase from the past 2 days.
+
+Countries reporting more than 5000 newly confirmed cases in the past 24 hours (16 countries) include India, USA, Brazil, France (22 591), UK (19 724), Argentina (14 932), Russia (14 231), Spain (11 970), Czech Republic (9543), Belgium (7360), Italy (7332), Netherlands (7287), Poland (6526), Germany (6063), Colombia (6061), and Ukraine (5590). A total of 43 countries have reported more than 1000 cases in the past 24 hours; 19 of the 43 countries reporting more than 1000 newly confirmed cases are from the European region, 9 were from the Americas region, and 7 were from the Eastern Mediterranean region.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, there is an increase in case counts by 20.4%, while daily reported deaths have decreased by 7.0%.
+
+Impression: Global 7-day averages continue to increase, in spite of the weekend artifact lowering the 24-hour changes. I suspect they will change again over the coming days. - Mod.UBA]
+See Also
+COVID-19 update (439): animal, Denmark, mink, spread, control 20201014.7861560
+COVID-19 update (438): reinfection, mortality rates, WHO, global 20201014.7859962
+COVID-19 update (437): animal, Netherlands, Denmark, mink, spread, control 20201013.7858915
+COVID-19 update (436): infodemic, brain fog, China, WHO, global 20201013.7857069
+COVID-19 update (435): Nigeria, PEEP & proning, WHO, global 20201012.7854229
+COVID-19 update (434): COVAX, viral Load, WHO, global 20201011.7852648
+COVID-19 update (433): animal, Denmark (ND,MJ) farmed mink, spread, control 20201010.7851707
+COVID-19 update (432): transmission and age, South Asia, WHO, global 20201010.7850554
+COVID-19 update (431): saliva antibodies, remdesivir, WHO, global 20201009.7847920
+COVID-19 update (430): animal, USA (UT) mink 20201009.7847704
+COVID-19 update (420): ECMO, USA serosurvey, WHO, global 20200930.7824510
+COVID-19 update (410): ACE inhibitors and ARBs, WHO COVAX plan, WHO, global 20200922.7801717
+COVID-19 update (400): lockdowns, influenza co-infections WHO, global 20200914.7776512
+COVID-19 update (350): USA (TX) animal, cat 20200808.7658191
+COVID-19 update (300): Korea antibodies, China asymptomatic index case, WHO 20200703.7536146
+COVID-19 update (250): selected countries 20200610.7448037
+COVID-19 update (200): global, Yemen, WHO 20200522.7364937
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+Undiagnosed pediatric inflammatory syndrome (05): Europe, USA, COVID-19 assoc 20200518.7340554
+Undiagnosed pediatric inflammatory syndrome (04): USA, UK, PMIS, fatal 20200509.7315405
+Undiagnosed pediatric inflammatory syndrome (03): USA, Europe, COVID-19 susp, RFI 20200505.7299876
+COVID-19 update (150): global, USA state prisons, WHO 20200502.7290671
+COVID-19 update (100): China, S. Korea & high local transmission countries 20200413.7217806
+COVID-19 update (50): China (Hong Kong) animal dog, 2nd case PCR positive, OIE 20200323.7129951
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (41): China, global, clinical pics, asymptomatic trans., WHO 20200210.6976117
+Novel coronavirus (40): animal reservoir, pangolin poss intermediate host, RFI 20200210.6972104
+Novel coronavirus (30): updates, China, Viet Nam, research 20200202.6945658
+Novel coronavirus (20): China, wildlife trade ban 20200127.6922060
+Novel coronavirus (10): China (HU, GD, BJ) 20200119.6898567
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia: China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia: China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+----
+Undiagnosed pneumonia: China (HU): RFI 20191230.6864153
+and other items in the archives
+.................................................sb/uba/mj/tw/jh
+</body>

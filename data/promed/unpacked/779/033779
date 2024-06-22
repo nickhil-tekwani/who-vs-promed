@@ -1,0 +1,319 @@
+<header id=033779>
+Published Date: 2020-12-08 08:43:14 EST
+Subject: PRO/AH/EDR> COVID-19 update (524): import impact, vaccine distribution, Thailand, WHO, global
+Archive Number: 20201208.8001088
+</header>
+<body id=033779>
+CORONAVIRUS DISEASE 2019 UPDATE (524): IMPORTATION IMPACT MODELLING, VACCINE DISTRIBUTION, THAILAND, WHO, GLOBAL
+****************************************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] Effect of international "imported cases" on country transmission
+[2] CoronaVac distribution
+[3] From our regional networks: Thailand
+[4] WHO: daily new cases reported (as of 7 Dec 2020)
+[5] Global update: Worldometer accessed 7 Dec 2020 21:51 EST (GMT-5)
+
+******
+[1] Effect of international "imported cases" on country transmission
+Date: Mon 7 Dec 2020
+Source: The Lancet [edited]
+https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(20)30263-2/fulltext
+
+
+ref: Russell TW, Wu JT, Clifford S, et al. Effect of internationally imported cases on internal spread of COVID-19: a mathematical modelling study. Lancet. 2020; doi: 10.1016/S2468-2667(20)30263-2
+--------------------------------------------------------------------------------
+Summary
+-------
+Background
+Countries have restricted international arrivals to delay the spread of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). These measures carry a high economic and social cost, and might have little effect on COVID-19 epidemics if there are many more cases resulting from local transmission compared with imported cases. Our study aims to investigate the extent to which imported cases contribute to local transmission under different epidemic conditions.
+
+Methods
+To inform decisions about international travel restrictions, we calculated the ratio of expected COVID-19 cases from international travel (assuming no travel restrictions) to expected cases arising from internal spread, expressed as a proportion, on an average day in May and September, 2020, in each country. COVID-19 prevalence and incidence were estimated using a modelling framework that adjusts reported cases for under-ascertainment and asymptomatic infections. We considered different travel scenarios for May and September, 2020: an upper bound with estimated travel volumes at the same levels as May and September, 2019, and a lower bound with estimated travel volumes adjusted downwards according to expected reductions in May and September, 2020. Results were interpreted in the context of local epidemic growth rates.
+
+Findings
+In May 2020, imported cases are likely to have accounted for a high proportion of total incidence in many countries, contributing more than 10% of total incidence in 102 (95% credible interval 63-129) of 136 countries when assuming no reduction in travel volumes (that is, with 2019 travel volumes) and in 74 countries (33-114) when assuming estimated 2020 travel volumes. Imported cases in September 2020, would have accounted for no more than 10% of total incidence in 106 (50-140) of 162 countries and less than 1% in 21 countries (4-71) when assuming no reductions in travel volumes. With estimated 2020 travel volumes, imported cases in September 2020, accounted for no more than 10% of total incidence in 125 countries (65-162) and less than 1% in 44 countries (8-97). Of these 44 countries, 22 (2-61) had epidemic growth rates far from the tipping point of exponential growth, making them the least likely to benefit from travel restrictions.
+
+Interpretation
+Countries can expect travellers infected with SARS-CoV-2 to arrive in the absence of travel restrictions. Although such restrictions probably contribute to epidemic control in many countries, in others, imported cases are likely to contribute little to local COVID-19 epidemics. Stringent travel restrictions might have little impact on epidemic dynamics except in countries with low COVID-19 incidence and large numbers of arrivals from other countries, or where epidemics are close to tipping points for exponential growth. Countries should consider local COVID-19 incidence, local epidemic growth, and travel volumes before implementing such restrictions.
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The authors added a section on "Research in context"
+"Evidence before this study
+"Countries are at different stages of COVID-19 epidemics, and many have implemented policies to minimise the risk of importing cases via international travel. Such policies include border closures, flight suspensions, and quarantine and self-isolation on international arrivals. Searching PubMed and medRxiv using the search term ("covid" OR "coronavirus" OR "SARS-CoV-2") AND ("travel" OR "restrictions" OR "flight" OR "flights" OR "border") for articles published in any language from [1 Jan 2020] to [10 Jul 2020], returned 118 and 84 studies, respectively, of which 39 were relevant to our study. These studies either concentrated in detail on the risk of importation to specific countries or used a single epidemiological or travel dataset to estimate risk. Most of them focused on the risk of COVID-19 introduction from China or other countries that had cases early in 2020. No study combined country-specific travel data, prevalence estimates, and incidence estimates to assess the global risk of importation relative to current local transmission within countries.
+
+"Added value of this study
+"Our study considers the risk of case importation across 162 countries, in the context of local epidemic growth rates. Producing estimates on a global scale allows the complex relationship between the prevalence of COVID-19, traveller volume, and incidence locally to be combined, producing a simple, digestible metric. This allows decision makers to determine where travel restriction policies make large contributions to slowing local transmission, and where they have very little overall effect.
+
+"Implications of all the available evidence
+"In many countries, imported cases would make a relatively small contribution to local transmission, so travel restrictions would have very little effect on epidemics. Countries where travel restrictions would have a large effect on local transmission are those with strong travel links to countries with high COVID-19 prevalence or countries that have successfully managed to control their local outbreaks."
+
+Reading the report they do present an incident that highlights how restrictions could have made a difference. In Australia a 2nd wave began in Victoria in June 2020 that began with individuals (travelers) staying in a quarantine hotel infected hotel staff (due to lapses in infection control). The authors estimated the risk rating for Australia at that time and found that in June 2020, the mean daily contribution of imported cases to total incidence was 264% based on the estimated mean daily number of imported cases of 111 and a mean daily total incidence of 42.1 cases.
+
+Reading the epidemiologic reports on many of the countries in the Western Pacific region and the Caribbean region of the Americas, it seems this model would support restricting travel in those countries. It also is interesting to read, given the reports in section [3] below on imported cases into Thailand.
+
+What does not appear to be factored into this is the dispersion of transmission and the lack of a reliable R0 -- given the observation that 19% of infected individuals are responsible for 80% of the cases (see ref 1 below).... The "superspreading events". A good overview of some of these events can be found in the Scientific American article published on 23 Jun 2020 (https://www.scientificamerican.com/article/how-superspreading-events-drive-most-covid-19-spread1/), and in a similar article in Ars Technica on 12 Jun 2020 (https://arstechnica.com/science/2020/06/just-10-20-of-covid-19-cases-behind-80-of-transmission-studies-suggest/).
+
+Suggested references
+--------------------
+1. Adam DC, Wu P, Wong JY, et al. Clustering and superspreading potential of SARS-CoV-2 infections in Hong Kong. Nat Med. 2020; 26(11): 1714-1719. doi: 10.1038/s41591-020-1092-0. Epub 2020 Sep 17. PMID: 32943787; https://www.nature.com/articles/s41591-020-1092-0.
+2. Yang X, Dong N, Chan EW, Chen S. Genetic cluster analysis of SARS-CoV-2 and the identification of those responsible for the major outbreaks in various countries. Emerg Microbes Infect. 2020; 9(1): 1287-1299. doi: 10.1080/22221751.2020.1773745. PMID: 32525765; PMCID: PMC7477621; https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7477621/.
+3. Lemieux J, Siddle KJ, Shaw BM, et al. Phylogenetic analysis of SARS-CoV-2 in the Boston area highlights the role of recurrent importation and superspreading events. medRxiv [Preprint] 2020.08.23.20178236. doi: 10.1101/2020.08.23.20178236. PMID: 32869040; PMCID: PMC7457619; https://www.medrxiv.org/content/10.1101/2020.08.23.20178236v1.
+4. Wong F, Collins JJ. Evidence that coronavirus superspreading is fat-tailed. Proc Natl Acad Sci USA. 2020; 117(47):29416-29418. doi: 10.1073/pnas.2018490117. Epub 2020 Nov 2. PMID: 33139561; https://www.pnas.org/content/117/47/29416.long.
+5. Yang X, Dong N, Chan EW, Chen S. Genetic cluster analysis of SARS-CoV-2 and the identification of those responsible for the major outbreaks in various countries. Emerg Microbes Infect. 2020; 9(1): 1287-1299. doi: 10.1080/22221751.2020.1773745. PMID: 32525765; PMCID: PMC7477621.
+- Mod.MPP]
+
+******
+[2] CoronaVac distribution
+[A] Brazil (Sao Paulo): vaccination scheduled
+Date: Mon 7 Dec 2020
+Source: Al Jazeera, Bloomberg report [edited]
+https://www.aljazeera.com/economy/2020/12/7/bbsao-paolo-sets-first-date-in-latin-america-to-start-vaccination
+
+
+Brazil's most populous and affluent state will start vaccinating its 46 million residents on [25 Jan 2020], in the 1st concrete announcement of its kind in Latin America. Shots of the Chinese developed CoronaVac will first be given to healthcare professionals, people over 60 years old, and the indigenous population, Governor Joao Doria said at a press conference on Monday [7 Dec 2020]. The priority groups, which make up about 9 million people, will start getting the shots on [25 Jan 2021] -- the anniversary of the state's capital city -- with the 2nd dose coming on [15 Feb 2021]. Vaccinations of the elderly population will go until late March [2021], with dates varying depending on age.
+
+Sao Paulo, which recorded the 1st case of the virus in Latin America and has been the epicenter of the pandemic in Brazil, is leading the region when it comes to obtaining a vaccine. The local government closed an agreement with China's Sinovac Biotech Ltd to import ready-made vaccines and produce more locally in partnership with Instituto Butantan.
+
+In the rest of the country, a national immunization plan is in the final stages of preparation, Health Minister Eduardo Pazuello said last week [week of 1 Dec 2020]. The 1st batches of AstraZeneca Plc's shot should begin to arrive in January or February [2021], he said.
+
+Phase 3
+-------
+While the Sao Paulo government has said the shot is safe and effective, results from a phase 3 trial are still not ready. State health officials expect to file paperwork with the nation's health regulator Anvisa by [15 Dec 2020], later than the initial timeline of the 1st week of December [2020]. When asked about the delayed vaccination schedule, Dimas Covas, the head of Instituto Butantan, said "reality imposed the change."
+
+Sao Paulo will make 4 million doses of the shot available to other states as well, Doria said, adding that 8 local governments have already reached out to ask about the vaccine. Residents of other states will be permitted to travel to Sao Paulo to get vaccinated, he said. The shots will be given out by the public health system, known as SUS, and Butantan can sell the vaccine to private hospitals and entities, Doria said in an interview last month [November 2020].
+
+The CoronaVac has been at the center of extensive controversy in Brazil, with President Jair Bolsonaro saying China lacks credibility to come up with solutions for the coronavirus crisis and that people wouldn't feel safe with the shot "due to its origin."
+
+Over the weekend [5-6 Dec 2020], newspapers reported that state governments wrote a letter to the federal government requesting all vaccines be made available for Brazilians through the nation's public health system.
+
+[Byline: Julia Leite, Andre Romani]
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+----
+[B] Indonesia
+Date: Tue 8 Dec 2020 12:20 AM WIB
+Source: Borneo Post, Agence France-Presse (AFP) report [edited]
+https://www.theborneopost.com/2020/12/08/indonesia-receives-over-a-million-chinas-sinovac-vaccine-doses/
+
+
+Indonesia has received 1.2 million doses of a COVID-19 vaccine made by China's Sinovac, officials said, as the world's 4th most populous nation struggles to get soaring case rates under control.
+
+The doses arrived in Jakarta late Sunday [6 Dec 2020] on a flight from Beijing, with another 1.8 million expected to be sent again next month [January 2021].
+
+Although Chinese regulators have yet to clear any of country's vaccines for mass distribution, they have approved some advanced candidates for emergency use.
+
+On Monday [7 Dec 2020], Indonesia's COVID-19 response team chief Airlangga Hartarto said the 1st batch of doses will be examined by the food and drug agency, with plans to distribute them to medical workers and other high-risk groups. The country's top Muslim clerical body, the Indonesia Ulema Council (MUI), will also check the 1st consignment, officials said -- to ensure it meets halal requirements in the world's largest Muslim-majority nation.
+
+Late Sunday [6 Dec 2020], President Joko Widodo welcomed the delivery. "We are grateful that the vaccine is now available and we can immediately prevent the spread of the COVID-19 outbreak," he said. "(But) I have to reiterate, 1st, that all procedures must be followed properly to ensure public health and safety, and the efficacy of the vaccine," he added.
+
+In August [2020], Indonesia launched human trials of the Sinovac-made jab, with around 1600 volunteers taking part in the 6-month study. The Indonesian government has paid some 637 billion rupiah (USD 45 million) for the 3 million Sinovac doses.
+
+Another 100 000 more are set to be delivered by another Chinese firm, CanSino.
+
+China has promised to make its vaccines available as a "global public good" as it seeks to counter global criticism for its early handling of the pandemic. "We expect that multilateral vaccines [from other countries] will also start to arrive gradually in 2021," Foreign Minister Retno Marsudi said Monday [7 Dec 2020].
+
+Indonesia has been in talks with other pharmaceutical firms, including UK-based AstraZeneca.
+
+The country is one of the Asian nations worst hit by the pandemic, with COVID-19 infections topping 575 000, and more than 17 000 deaths. However, the true scale of the crisis is widely believed to be much bigger, as the country has one of the world's lowest testing rates.
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[Vaccine distribution to countries is beginning. In the case of the Sinovac vaccine, its distribution precedes release of data from the phase 3 trial. None of the candidate vaccines current under early release have published their phase 3 results, but rather released the information to the media. It's uncharted territory moving forward. Many aspects of response to this pandemic has been down an uncharted territory pathway that has unexpected curves and reversals. We watch and hope that good science will prevail. - Mod.MPP]
+
+******
+[3] From our regional networks: Thailand
+ProMED-MBDS: COVID-19 update (145): Thailand, imported & local 20201207.7998339
+[A]
+Date: Mon 7 Dec 2020
+Source: The Nation [edited]
+https://www.nationthailand.com/news/30399216
+
+
+The Centre for COVID-19 Situation Administration reported 21 new cases in state quarantine facility over a 24-hour period on Monday [7 Dec 2020]. The cases include 9 Thais aged between 21 and 44 who returned from Tachilek city in Myanmar on [4 Dec 2020] and tested positive for COVID-19 on the same day. They were immediately sent to Chiang Rai Prachanukroh Hospital for treatment. Another 4 Thais aged 25 to 45 returned from the United Kingdom on [30 Nov 2020] and checked into a state quarantine facility in Chonburi [province] where they tested positive on [4 Dec 2020].
+
+- An American woman, 47, and a 7-year-old boy who travelled from the US on [4 Dec 2020] tested positive on the same day at an alternative state quarantine hotel in Bangkok.
+- A Thai ship crew member, 23, and a mechanic, 33, who arrived from Singapore on [30 Nov 2020] and checked into a state quarantine facility in Bangkok, tested positive on [5 Dec 2020].
+- An Estonian man, 61, who arrived on [28 Nov 2020] and checked into an alternative state quarantine hotel in Bangkok, tested positive on [3 Dec 2020].
+- An Indian man, 40, who arrived on [28 Nov 2020] tested positive on [3 Dec 2020] at a quarantine hotel in Bangkok.
+- A German man, 61, who landed on [21 Nov 2020] was found to be positive on [3 Dec 2020] at a quarantine hotel in Bangkok.
+- A Nigerian medical tourist, 20, who arrived from the United Arab Emirates on [4 Dec 2020] was found to positive on the same day. She is at an alternative hospital quarantine hotel.
+
+Meanwhile, 15 patients have recovered and been discharged.
+
+The total number of confirmed cases in Thailand has risen to 4107 (1125 in state quarantine), of whom 179 are in hospital and 3868 have recovered and been discharged. The death toll remains unchanged at 60.
+
+According to Worldometer, as of 10 am [7 Dec 2020], the total number of confirmed cases worldwide has risen to 67.39 million (up by 534 942). Of them, 46.58 million have recovered, while 19.27 million are active cases (106 139 in severe condition) and 1.54 million have died (up by 7537). Thailand ranks 151st for most cases in the world, while the US tops the list with 15.16 million, followed by India 9.67 million, Brazil 6.6 million, Russia 2.46 million and France 2.29 million.
+
+Dr Sophon Iamsirithaworn, general communicable diseases director at the Department of Disease Control, told the press that there are so many cases from Tachilek because though the [B] hotel, where many of them work, was closed on [24 Nov 2020] due to the outbreak, infections spread because people lived in airconditioned surroundings without wearing a mask. So far, at least 36 patients have been linked to this location.
+
+--
+Communicated by:
+ProMED-MBDS
+<promed-mbds@promedmail.org>
+
+----
+[B]
+Date: Sun 6 Dec 2020 18:14 ICT
+Source: Bangkok Post [edited]
+https://www.bangkokpost.com/thailand/general/2030879/2-local-transmissions-among-14-covid-cases-sunday
+
+
+Thailand recorded 14 new cases of the novel coronavirus on Sunday [6 Dec 2020], including 2 local transmissions in Bangkok, for a total of 4086. No new deaths were reported.
+
+The Centre for COVID-19 Situation Administration (CCSA) said one of the 2 local transmissions is a 26-year-old woman who went to Tachileik [Shan, Myanmar] on [6 Nov 2020]. The CCSA did not say why the woman was regarded as a local transmission case despite having returned from Tachileik. However, CCSA records show that she sneaked back across the border on [27 Nov 2020] with a male friend. The 2 stayed together at a hotel in Mae Sai district of Chiang Rai [province], opposite the Myanmar town. They also visited several places in Mae Sai together. The woman flew from Chiang Rai to Bangkok on [29 Nov 2020] on THAI Smile flight WE137, and stayed at a hotel in the capital until Thursday [3 Dec 2020]. The man left Chiang Rai for Bangkok a day later, on [30 Nov 2020]. On Friday [4 Dec 2020], the 2 went to the Hospital for Tropical Diseases in Bangkok, where the man tested positive for COVID-19. The woman reportedly felt ill that day, with a runny nose, and returned to the hospital on Saturday [5 Dec 2020] -- when she also tested positive for COVID-19.
+
+Sophon Iamsirithaworn, director of the general communicable disease division, said 5 people - mostly in Chiang Rai -- were at high risk of contracting the disease due to close contact with her. One of them was tested in Chiang Rai and the result was negative, he added.
+
+The 2nd case of local transmission was a female health worker at an alternative state quarantine facility at a private hospital. She had a fever on Thursday [3 Dec 2020] and a test on the same day was positive.
+
+In addition to the 2 local cases, the centre recorded another 12 imported cases on Sunday [6 Dec 2020] -- 2 of them Thais who illegally crossed the border back from Myanmar. Another 8 cases were foreigners who flew in from abroad.
+
+The CCSA said one of the 2 Thai patients was a 70-year-old man who travelled to Tachileik and then illegally entered the country in Mae Sot district of Tak [province] on [29 Nov 2020]. His test at Mae Sot Hospital on Friday [4 Dec 2020] was positive.
+
+Another case was a woman 26, who crossed from Myanmar to Mae Sot on [27 Nov 2020]. She worked at an entertainment venue in Tachileik, the centre said, without elaborating.
+
+The CCSA did not explain why 2 Thais working in Tachileik illegally returned to the country by crossing the border between Myawaddy and Mae Sot. Myawaddy is located about 600 kilometres southwest of Tachileik. Authorities have tightened security along the Thai-Myanmar border in Mae Sai since a Thai woman tested positive in Chiang Mai after sneaking back across the border on [24 Nov 2020]. She had been working at [B] Hotel, a suspected COVID hotspot in the Myanmar town.
+
+Since the 1st case was reported on [24 Nov 2020], Thailand has now found 23 patients who were infected with the coronavirus in Tachileik or caught it from people who returned from there. CCSA spokesman Dr Taweesilp Visanuyothin urged all Thais illegally returning from Myanmar to report to health officials for testing to prevent the virus from spreading. "We do not know how many more cases will be found. Please report to us and we will take care of you," he added.
+
+The latest cases brought the accumulated tally in Thailand since the start of the outbreak to 4086.
+
+--
+Communicated by:
+ProMED-MBDS
+<promed-mbds@promedmail.org>
+
+[At present, there have been total 38 confirmed cases of COVID-19 who returned from Tachilek town, Myanmar, to Thailand. These cases were identified in 7 provinces, 26 cases were confirmed in Chiang Rai province, and 2 were reported to be domestic cases. In addition, 36 cases were found to be linked with [B] Hotel in Tachilek (https://news.thaipbs.or.th/content/298982 in Thai). - Mod.YMA
+
+Maps of Thailand: https://legacy.lib.utexas.edu/maps/middle_east_and_asia/thailand_admin-2013.jpg and https://promedmail.org/promed-post?place=8001088,151.
+
+HealthMap/ProMED map of Myanmar: https://promedmail.org/promed-post?place=8001088,65208
+
+Thailand continues to report very few cases and deaths attributable to SARS-CoV-2 infection, with an excellent surveillance system. So far the cases have been overwhelmingly imported cases, returning Thais and international tourists coming from areas with known high levels of transmission, with occasional local transmission. All arriving individuals to the country are put into a lockdown quarantine, in a hotel if symptom free with frequent testing, food delivery etc. As can be seen from the above descriptions, not all measures are fool proof, and there is "escape" leading to high risk exposures for others.- Mod.MPP]
+
+******
+[4] WHO: daily new cases reported (as of 7 Dec 2020)
+Date: Mon 7 Dec 2020
+Source: WHO [abridged, edited]
+https://covid19.who.int/table
+
+
+*Daily case reports as of 7 Dec 2020 15:47 CET
+
+Surveillance
+------------
+WHO region (no. countries/territories):
+Total confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+----------------------------------
+Western Pacific Region (19): 920 613 (5869) / 17 776 (54)
+European Region (61): 20 154 730 (167 766) / 452 065 (3198)
+South East Asia Region (10): 11 114 545 (43 416) / 169 070 (612)
+Eastern Mediterranean Region (22): 4 319 467 (30 871) / 107 866 (614)
+Region of the Americas (54): 28 355 791 (293 460) / 750 968 (4116)
+African Region (49): 1 556 168 (8561) / 34 660 (174)
+Cases on an international conveyance (Diamond Princess): 741 (0) / 13 (0)
+
+Confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+Grand total: 66 422 058 (549 946) / 1 532 418 (8768)
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The number of countries and territories reporting confirmed cases of COVID-19 to WHO remains at 218 (Samoa has not been added yet)].
+
+Data by country, area, or territory for 7 Dec 2020 can be accessed at https://promedmail.org/wp-content/uploads/world-pdf/WHO%20daily%20tablesDEC7_1607374355.pdf.
+
+- The Americas region reported 53.4% of daily case numbers and 46.9% of the daily deaths reported in the past 24 hours but maintained its position as the most severely affected region, having reported more than 28.3 million cases. The USA continues to dominate, followed by Brazil, Mexico, Colombia, Canada, and Argentina. Other countries reporting more than 1000 cases include Panama, Peru, Chile, and Puerto Rico. And countries/territories reporting more than 500 cases but fewer than 1000 in the past 24 hours include Dominican Republic, Honduras, Paraguay, and Ecuador. Costa Rica did not report any new cases in the past 24 hours.
+
+- The European region reported 30.5% of daily case numbers and 36.5% of the daily deaths reported in the past 24 hours, and total cumulative cases reported exceed 20.1 million. Countries not reporting cases today (7 Dec 2020) include Spain, Switzerland, Israel, Sweden, and Kazakhstan among others. Countries reporting more than 10 000 cases in the past 24 hours include Russia, Italy, UK, Germany, and France. There are 19 additional countries reporting more than 1000 cases in the past 24 hours and 6 countries reporting more than 500 but less than 1000 cases.
+
+- The Eastern Mediterranean region reported 5.6% of daily case numbers and 7.0% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 4.31 million cases. Iran maintains its dominance, with daily totals now beginning to drop from more than 13 000 to less than 12 000, followed by Pakistan, Morocco, Jordan, Palestinian Authority, Iraq, Lebanon, the UAE, Libya, and Tunisia. Oman reported more than 500 but less than 1000 new cases, while Sudan, and Somalia have not reported any cases in the past 24 hours.
+
+- The African region reported 1.6% of daily case numbers and 2.0% of the deaths reported in the past 24 hours and has reported more than 1.55 million cases. South Africa maintains its dominance with increased case reporting (over 4000 in the past 24 hours), followed by Botswana (over 1200 newly reported cases), Algeria, Ethiopia, Kenya, Nigeria, Uganda, Ghana, Namibia, Mozambique, and Zimbabwe. Cameroon, Angola, and Congo DR, among other countries did not report any cases in the past 24 hours
+
+- The Western Pacific region reported 1.1% of daily case numbers and 0.62% of the deaths reported in the past 24 hours, having reported a cumulative total of 0.92 million cases. Japan is maintaining its dominance with more than 2400 cases confirmed in the past 24 hours, followed by Philippines, Malaysia, South Korea, and China.
+
+- The South East Asia region reported 7.9% of the daily newly reported cases and 7.0% of reported deaths in the past 24 hours, having reported a cumulative total of more than 11.11 million cases. As previously, India remains dominant, followed by Indonesia (with more than 6000 cases confirmed again in the past 24 hours), Bangladesh, Myanmar, Nepal, the Maldives, and Thailand.
+
+Impression: Basically, unchanged on the regional levels, with the continued dominance of Europe and the Americas region representing over 83% of both newly confirmed cases and newly reported deaths in the past 24 hours. At the country level, Japan is the dominant country in the Western Pacific region, while South Korea continues to report more than 600 cases daily; Russia and Italy maintain dominance in the European region. Indonesia has been increasing daily reports in the South East Asian region. South Africa maintains dominance in the African region at a higher level in recent days and Iran maintains its dominance in the Eastern Mediterranean region although transmission may be slowing down. The USA maintains its position as the country reporting the most cases on a daily basis and Brazil has been increasing daily reports. All of this is apparent even as the weekend reporting decrease is starting with multiple countries not reporting any cases or markedly reduced (Belgium always reports but over the weekend there are 2-6 cases reported in a 24 hour period).
+
+On the Overview tab at the WHO source URL, the epidemic curve of confirmed COVID-19 cases by WHO region, 30 Dec 2019 through 7 Dec 2020, is an excellent visual representation of the pandemic. - Mod.MPP]
+
+******
+[5] Global update: Worldometer accessed 7 Dec 2020 21:51 EST (GMT-5)
+Date: Mon 7 Dec 2020
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at https://promedmail.org/wp-content/uploads/world-pdf/DEC7DATASET_1607399763.pdf.
+
+A 7-day series of cumulative data reported by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/DEC7WORLD7_1607399855.pdf. - Mod.MPP]
+
+Total number of reported deaths: 1 550 169
+Total number of worldwide cases: 67 934 939
+Number of newly confirmed cases in the past 24 hours: 548 677
+
+--
+Communicated by:
+ProMED-mail
+<promed@promedmail.org>
+
+[The weekly observed weekend reporting artifact continues. Countries not reporting any new cases in the past 24 hours include The Czech Republic, Sweden, Kazakhstan and Venezuela among others.
+
+In the past 24 hours the USA (209 517), Turkey (32 137), Russia (28 142), and India (27 107), and have reported the highest numbers of cases. A global total of 8528 deaths were reported in the past 24 hours (6-7 Dec 2020).
+
+Countries reporting more than 10 000 newly confirmed cases in the past 24 hours (10 countries) include the USA, Turkey, Russia, India, Brazil (24 525), Spain (16 555), Germany (15 161), UK (14 718), Italy (13 679), and Iran (10 827). A total of 53 countries reported more than 1000 cases in the past 24 hours (still down from 62 on Fri 4 Dec 2020); 27 of the 53 countries reporting more than 1000 newly confirmed cases are from the European region, 10 are from the Americas region, 7 are from the Eastern Mediterranean region, 5 are from the South East Asia region, 3 are from the Western Pacific region, and one from the African region.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, case counts have increased by 6.8%, while daily reported deaths have increased by 6.4% -- even with reduced reporting. The USA has increased both newly confirmed cases (26.8%) and reported deaths (51.3%) which is most likely related to increased transmission over the Thanksgiving weekend [26-29 Nov 2020] with travel and gatherings held in spite of advice not to. The 7-day average daily new cases reported in the USA is 207 025 and newly reported deaths is 2301. In 6 of the past 7 days, the USA has reported more than 200 000 new cases daily, and today (7 Dec 2020) represented over 38.2% of all newly reported cases.
+
+Impression: The global daily reported cases continue to increase. Countries in the European and the Americas regions are still showing the largest increases in daily new case counts, followed by the Eastern Mediterranean and the South East Asia regions. The USA continues to show uncontrolled transmission. The increases in the USA are alarming, to say the least. - Mod.MPP]
+See Also
+COVID-19 update (523): lessons learned, ANTICOV, Brazil, WHO, global 20201207.7998208
+COVID-19 update (522): viral persistence, assays, markers, WHO, global 20201206.7996993
+COVID-19 update (521): CDC guidelines, Europe 2nd wave, WHO, global 20201205.7994443
+COVID-19 update (520): Denmark, Netherlands, mink, human-animal interface, WHO 20201204.7994061
+COVID-19 update (510): animal, mink, Lithuania, Poland, 1st reports, France, OIE 20201127.7976927
+COVID-19 update (500): frequent rapid tests, vaccine, WHO, global 20201122.7962919
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+Undiagnosed pediatric inflammatory syndrome (05): Europe, USA, COVID-19 assoc 20200518.7340554
+Undiagnosed pediatric inflammatory syndrome (04): USA, UK, PMIS, fatal 20200509.7315405
+Undiagnosed pediatric inflammatory syndrome (03): USA, Europe, COVID-19 susp, RFI 20200505.7299876
+COVID-19 update (150): global, USA state prisons, WHO 20200502.7290671
+COVID-19 update (100): China, S. Korea & high local transmission countries 20200413.7217806
+COVID-19 update (50): China (Hong Kong) animal dog, 2nd case PCR positive, OIE 20200323.7129951
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (41): China, global, clinical pics, asymptomatic trans., WHO 20200210.6976117
+Novel coronavirus (40): animal reservoir, pangolin poss intermediate host, RFI 20200210.6972104
+Novel coronavirus (30): updates, China, Viet Nam, research 20200202.6945658
+Novel coronavirus (20): China, wildlife trade ban 20200127.6922060
+Novel coronavirus (10): China (HU, GD, BJ) 20200119.6898567
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia: China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia: China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+----
+Undiagnosed pneumonia: China (HU): RFI 20191230.6864153
+and other items in the archives
+.................................................sb/yma/mpp/mj/ml
+</body>

@@ -1,0 +1,6 @@
+#!/bin/sh
+
+wget -i href -O - | awk '/See all DONs related to this event/ {print prev}; {prev=$0}' | cut -f2 -d'"' > see_also
+wget -i see_also -O - | egrep 'href.*emergencies/disease-outbreak-news/item' 1999 | cut -f4 -d'"' > related
+
+

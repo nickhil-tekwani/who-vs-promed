@@ -1,0 +1,92 @@
+<header id=030635>
+Published Date: 2022-07-30 16:51:43 EDT
+Subject: PRO/EDR> Hepatitis, undefined, global (27): children, UK, adeno-assoc virus 2 role 2021-22
+Archive Number: 20220730.8704757
+</header>
+<body id=030635>
+HEPATITIS, UNDEFINED, GLOBAL (27): CHILDREN, UK, ADENO-ASSOCIATED VIRUS 2 ROLE, 2021-2022
+*****************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+Date: Fri 29 Jul 2022
+Source: medRxiv [edited]
+https://doi.org/10.1101/2022.07.28.22277963
+
+
+[This is the 2nd pre-peer review paper alluded to in the previous post (20220725.8704655) of the potential role of adeno-associated virus 2 in the recent cases of severe hepatitis in children.]
+
+Citation: Morfopoulou S, Buddle S, Torres Montaguth OE, et al: Genomic investigations of acute hepatitis of unknown aetiology in children. medRxiv. 2022.
+--------------------------------------------------------------------------------
+
+Abstract
+--------
+Since the 1st reports of hepatitis of unknown etiology occurring in UK children, over 1000 cases have been reported worldwide, including 268 cases in the UK, with the majority younger than 6 years old. Using genomic, proteomic and immunohistochemical methods, we undertook extensive investigation of 28 cases and 136 control subjects. In 5 cases who underwent liver transplantation, we detected high levels of adeno-associated virus 2 (AAV2) in the explanted livers. AAV2 was also detected at high levels in blood from 10 of 11 non-transplanted cases. Low levels of adenovirus (AdV) and human herpesvirus 6B (HHV-6B), both of which enable AAV2 lytic replication, were also found in the 5 explanted livers and blood from 15 of 17 and 6 of 9, respectively, of the 23 non-transplant cases tested. In contrast, AAV2 was detected at low titer in 6 of 100 whole bloods from child controls from cohorts with presence or absence of hepatitis and/or adenovirus infection. Our data show an association of AAV2 at high titer in blood or liver tissue, with unexplained hepatitis in children infected in the recent AdV-F41 outbreak. We were unable to find evidence by electron microscopy, immunohistochemistry or proteomics of AdV or AAV2 viral particles or proteins in explanted livers, suggesting that hepatic pathology is not due to direct lytic infection by either virus. The potential that AAV2, although not previously associated with disease, may, together with AdV-F41 and/or HHV6, be causally implicated in the outbreak of unexplained hepatitis, requires further investigation.
+
+--
+Communicated by:
+ProMED
+
+[AAV2 was previously reported in the UKHSA technical briefing 2 on 6 May 2022 (https://bit.ly/3Qbpubj). The briefing stated that "AAV2 is a dependoparvovirus which is typically dependent on other viruses including adenovirus and herpesviruses to replicate. Non-pathogenic human infection is common, and latent virus may reactivate in some circumstances, again with no clinical consequence.
+
+"The hypotheses which are under consideration to explain detection of AAV2 in metagenomic data are:
+1. Upregulation of AAV2 due to adenovirus or another acute viral infection.
+2. Upregulation of AAV2 due to liver injury.
+3. Contamination (for example of a reagent). Laboratory contamination is now considered less likely given that AAV2 has been detected in 2 testing laboratories with the appropriate negative assay controls but remains a possible explanation.
+4. Undetermined role in pathogenesis of the syndrome."
+
+It has been known for more than 50 years that AAVs can be isolated from humans since Blacklow et al's study (Blacklow NR, Hoggan MD, Rowe WP. Isolation of adenovirus-associated viruses from man. Proc Natl Acad Sci U S A. 1967; 58: 1410-5). The children did develop antibodies against AA as well, but it is unclear what role AAV plays, if any, in human disease. The viruses have, however, begun to be used in gene therapy. The following is extracted from an article by Hastie and Samulski (Hastie E, Samulski RJ. Adeno-associated virus at 50: a golden anniversary of discovery, research, and gene therapy success -- a personal perspective. Hum Gene Ther. 2015; 26(5): 257-65). Complete citations for references included below can be found at https://doi.org/10.1089/hum.2015.025.
+-------------------------------------------------------------------------------
+
+Introduction/Historical Perspective
+"With the discovery of 'virus-like' particles in adenovirus (Ad) preparation by Bob Atchison (1) and M. David Hoggan, and Wallace Rowe (2) in 1965, the journey of a novel parvovirus began (3). Atchison tentatively referred to the virus as adeno-associated virus (AAV), and Rowe continued use of the name. Early experiments characterized a virus that replicated poorly, if at all, in human cells in the absence of Ad. However, it was clear that AAV was immunologically distinct from any known Ad antigen, and 3 serotypes were identified: AAV1, 2, and 3 (1). The following years saw progress in determining that the AAV capsid contained an ssDNA genome (4,5) that the genome contained inverted terminal repeats (ITRs) (6-8), and that these ITRs are structured as self-priming hairpins that act as origins of genome replication (9). Sequencing of the AAV2 serotype ITRs was complete by 1980 (10). Concomitantly, the latent state of AAV was observed at NIH when an Ad infection on a panel of cell lines resulted in the production of AAV. This led to the discovery that low numbers of AAV genomes were integrated into the host chromosome (11), thus establishing the foundation for using AAV as a gene therapy vector based on its lytic (co-infection with Ad), latent (establishment of persistence in the absence), bi-phasic life cycle.
+
+Basic Science
+"Also in the early 1980s, with all molecular biology experiments being conducted using AAV serotype 2, it was known that the AAV genome was packaged into preformed capsid proteins (12). Further, a transcription map showed 3 overlapping mRNA families from 3 promoters, p5, p19, and p40 (13,14). The genome appeared divided between left and right, and 3 capsids, VP1, VP2, and VP3, were produced from the p40 promoter on the right side (15). It was unclear what the left half of the genome encoded, but a replication function was predicted. What was known, however, was that the virus could be produced in excess of 100 000 particles per cell. This ability to produce high yields, the fact that AAV was not a pathogen, and that the virus could persist all encouraged further exploration of its use as a gene therapy delivery platform. Unfortunately, because AAV replicated in the presence of a lytic virus, there was no easy focus-forming assay for selection of isolated mutants. Molecular clones were needed, but the NIH Recombinant DNA Advisory Committee (RAC) guidelines were not clear when it came to cloning AAV DNA into plasmids. According to Barrie Carter, a 1980 ASM meeting in Miami Beach convinced the NIH RAC that recombinant DNA viruses like AAV and Ad could be safely studied in BSL2-approved laboratories (16). Here, cloning of the AAV genome into plasmids became a reality, and isolation of wild-type (wt) AAV infectious clones became a major milestone for the field."
+
+AAV2 is now approved for gene therapy for several rare genetic diseases in the UK and USA (https://www.annualreviews.org/doi/10.1146/annurev-virology-092818-015530).
+
+Even with this new information in pre-peer reviewed form, it remains too early to truly assess what role the AAV2 pathophysiologically plays in this outbreak of severe hepatitis. This 2nd paper importantly found evidence of adenovirus or HHV6B in liver as well but no evidence of lytic infection. The information certainly points away from active or previous COVID-19 having a direct role. Confirmatory AAV2 information would be useful from other countries. - Mod.LL
+
+ProMED map:
+United Kingdom: https://promedmail.org/promed-post?place=8704757,40]
+See Also
+Hepatitis, undefined, global (26): children, UK, adeno-assoc virus 2 role 2021-22 20220725.8704655
+Hepatitis, undefined, global (25): children, WHO, UK, USA, adenov susp, 2021-22 20220719.8704500
+Hepatitis, undefined, global (24): children, WHO, adenovirus susp, 2021-22 20220628.8704113
+Hepatitis, undefined, global (23): children, WHO, CDC, adenovirus susp, 2021-22 20220624.8704044
+Hepatitis, undefined, global (22): children, UK, USA, adenovirus susp, 2021-22 20220618.8703944
+Hepatitis, undefined, global (21): children, adenovirus susp, 2021-22 20220615.8703878
+Hepatitis, undefined, global (20): children, adenovirus susp, 2021-22 20220614.8703850
+Hepatitis, undefined, global (19): children, ECDC/WHO, adenovirus susp, 2021-22 20220602.8703637
+Hepatitis, undefined, global (18): children, adenovirus susp, 2021-22 20220529.8703516
+Hepatitis, undefined, global (17): children, adenovirus susp, 2021-22 20220524.8703436
+Hepatitis, undefined, global (16): children, UK, Asia, adenovirus susp, 2021-22 20220521.8703390
+Hepatitis, undefined, global (15): children, adenovirus susp, 2021-22 20220519.8703359
+Hepatitis, undefined, global (14): children, poss. mechanisms, 2021-22 20220514.8703250
+Hepatitis, undefined, global (13): children, poss. adenovirus 2021-22 20220514.8703235
+Hepatitis, undefined, global (12): children, poss. adenovirus 2021-22 20220513.8703212
+Hepatitis, undefined, global (11): ECDC, USA, children, poss. adenovirus 2021-22 20220512.8703191
+Hepatitis, undefined, global (10): children, possible adenovirus, 2021-22 20220511.8703166
+Hepatitis, undefined, global (09): children, possible adenovirus, 2021-2022 20220509.8703151
+Hepatitis, undefined, global (08): children, possible adenovirus, 2021-2022 20220508.8703095
+Hepatitis, undefined, global (07): children, possible adenovirus, 2021-2022 20220507.8703088
+Hepatitis, undefined, global (06): children, possible adenovirus, 2021-2022 20220505.8703064
+Hepatitis, undefined, global (05): children, possible adenovirus, 2021-2022 20220502.8702980
+Hepatitis, undefined, global (04): children, poss adenovirus, 2021-2022 20220430.8702947
+Hepatitis, undefined, global (03): USA (AL) children, CDC, poss adenovirus, 2021-22 20220430.8702942
+Hepatitis, undefined - global (02): USA, Japan, Cyprus 20220428.8702896
+Hepatitis, undefined - global: children, USA, Japan, Canada 20220427.8702884
+Hepatitis, undefined - USA, Europe (07): children, aflatoxin hypothesis, 2021-22 20220426.8702860
+Hepatitis, undefined - USA, Europe (06): USA, children, poss adenovirus 2021-22 20220426.8702848
+Hepatitis, undefined - USA, Europe (05): UKHSA,children, poss adenovirus 2021-22 20220425.8702847
+Hepatitis, undefined - USA, Europe (04): WHO, children, poss adenovirus, 2021-22 20220424.8702811
+Hepatitis, undefined - USA, Europe (03): CDC, children, poss adenovirus, 2021-22 20220421.8702752
+Hepatitis, undefined - USA, Europe (02): Israel, children, possible adenovirus, 2021-22 20220420.8702720
+Hepatitis, undefined - USA, Europe: children, possible adenovirus, RFI 20220415.8702636
+Hepatitis, undefined - UK: children, RFI 20220406.8702449
+.................................................ll/rd/jh
+</body>

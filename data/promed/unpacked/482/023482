@@ -1,0 +1,343 @@
+<header id=023482>
+Published Date: 2021-07-17 19:13:23 EDT
+Subject: PRO/AH/EDR> COVID-19 update (244): lambda var S America, long COVID & children, Europe, WHO
+Archive Number: 20210717.8526331
+</header>
+<body id=023482>
+CORONAVIRUS DISEASE 2019 UPDATE (244): LAMBDA VARIANT IN SOUTH AMERICA, LONG COVID IN CHILDREN, EUROPE, WHO, GLOBAL
+*******************************************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] South America: lambda variant
+[2] Long COVID in children
+[3] Europe: reopening threatened
+[4] WHO: daily new cases reported (as of 16 Jul 2021)
+[5] Global update: Worldometer accessed 16 Jul 2021 19:51 EST (GMT-5)
+
+******
+[1] South America: lambda variant
+Date: Wed 14 Jul 2021
+Source: National Geographic [edited]
+https://www.nationalgeographic.com/science/article/the-unusual-lambda-variant-is-rapidly-spreading-in-south-america-heres-what-we-know
+
+
+A coronavirus variant known as lambda, which has largely slid under the radar for the past 9 months, is now causing almost all new infections in Peru. Lambda (also known as C.37) was first detected in Peru in August 2020 and has spread to 29 countries, many in Latin America. And, since 20 Jan 2021, 668 lambda infections have been reported in the United States. In Peru, lambda is now responsible for more than 90% of new COVID-19 cases, a steep rise from less than 0.5% in December [2020]. The country has already suffered the world's worst mortality due to COVID-19; the disease has killed about 0.54% of the population.
+
+The lambda variant likely caused the high number of infections during the 2nd wave between the end of March and April [2021], Peruvian Minister of Health Oscar Ugarte said in a news conference. In neighboring Chile, where the primary vaccine is China's CoronaVac, lambda accounts for 31% of sequenced cases in the last 60 days. The high case numbers are occurring even though 58.6% of Chile's population is fully vaccinated and another 10% has received a single dose. The poor efficacy of the vaccine maybe partly to blame. A study by the University of Chile found that a single dose of the CoronaVac vaccine was only 3% effective, but that rose to 56.5% after both doses.
+
+"Why Chile is getting such high infection rates is perplexing, and it's likely due to several factors. Because of their high vaccination coverage, the restrictions were relaxed a little too soon, and that could have led to [a] rise in cases," says Pablo Tsukayama, a microbiologist at Universidad Peruana Cayetano Heredia in Lima, Peru. It was Tsukayama who first spotted the lambda variant after routinely sequencing the samples deposited between January and March 2021. "But it is also possible that the main variants in circulation, gamma and lambda, have some immune escape properties that lead to reduced protection from vaccines."
+
+The possibility that lambda might be able to dodge the immune system led the World Health Organization (WHO) to designate it as a variant of interest (VOI) on 14 Jun 2021. WHO categorizes a virus as a VOI when genetic changes in the virus are so significant that they may affect its transmissibility, disease severity, immune escape, diagnosis or therapy; and it spreads rapidly through a community.
+
+While Latin America has only 8% of the world's population, it makes up more than 20% of global coronavirus cases and 32% of COVID-19 deaths worldwide. Although the region is still reporting more than half of the deaths registered globally, only 1 in 10 Latin Americans have been fully vaccinated. In countries such as Honduras and Guatemala, the number is less than 1%.
+
+"I think we are about to see another critical situation in the next few weeks in Latin America," says Alfonso Rodriguez-Morales, an epidemiologist and vice president of the Colombian Association of Infectious Diseases. That is because in some countries the vaccination programs still have not fully vaccinated more than 5-10% of their populations "and that is very critical."
+
+The lambda variant remained undetected for many months because it was frequently mistaken for gamma -- the variant first identified in Brazil and also known as P.1. Due to limited resources, the Peruvian National Institute of Health uses a fast and affordable method based on the changes in the virus's ORF1ab gene. That method cannot distinguish beta and gamma variants from lambda. To sort the lambda variant from others requires genetic sequencing, a costly and time-consuming process.
+
+"We have very limited capacity in the region to conduct genomics surveillance, so estimating full prevalence of lambda is difficult. Why any variant becomes dominant is not easy to predict. So, it is important that we ramp sequencing capacity in all places, not just in the United States and Europe," says Tsukayama.
+
+The lambda variant is very unusual because of the way its spike protein is altered compared to other variants. It has mutations at 14 positions including a long stretch of 7 amino acids which has been deleted from a region of the spike protein called the N-terminal domain or NTD. Beyond these, lambda also has mutations in the ORF1ab gene that are found in other variants of concern: alpha, beta, and gamma.
+
+The ORF1ab gene encodes a large protein, parts of which help the coronavirus replicate and suppress the human immune response. Because of its importance, scientists are already developing antiviral therapies to target ORF1ab proteins.
+
+The 7 amino acids deleted from the NTD belong to an NTD supersite where the spike is attacked by many of the body's potent antibodies. Many variants, including alpha, beta, and gamma, also harbor mutations within this zone, suggesting that this region is important for the evolution of the virus. "NTD is not crucial for carrying out important functions of the virus and, thus, it is easy for the virus to mutate and still remain viable, so as to evade the existing antibody response," explains Shee-Mei Lok, an infectious disease scientist at National University of Singapore.
+
+The anti-NTD antibodies made naturally in the body may block subsequent viruses from entering the cell even after it has attached with the ACE2 receptor on the cell's surface, which is why vaccine developers are focusing on it.
+
+Among other mutations of lambda is a unique one at location 452 which is also mutated in other highly transmissive variants: delta, delta plus, epsilon, and kappa. While lambda's L452Q mutation has never been seen before in a variant, scientists predict that mutations at the 452 position boost the ability of SARS-CoV-2 to infect a cell.
+
+The 452 position occurs in the part of the spike protein that interacts directly with the ACE2 receptor protein found on the lung and other human cells, and that interaction allows it to enter the body. "The 452 position is recognized by many neutralizing antibodies. Mutations at this site could result in decreased binding and thus less protection by certain vaccines in certain people, those with marginal responses to start with," says Michael Diamond, an immunologist at Washington University School of Medicine.
+
+Evgeni Sokurenko, a microbiologist at University of Washington, has shown that a single mutation at this position could have set off the recent rapid expansion of COVID-19 variants. A similar mutation -- L452R -- in the epsilon variant causes high infectiousness, enhances the virus's capacity to grow, and reduces the neutralizing activity of many antibodies.
+
+In a study not yet peer reviewed, Tada et al. (1) [have] shown that a lab-made lambda-like virus was twice as infectious as the early SARS-CoV-2 variant, due only to the L452Q. Other mutations found in lambda had no significant effect on infectivity. Another study not yet peer reviewed (2) also confirms that lambda is likely more infectious than gamma and alpha.
+
+There are very few studies on lambda, but preliminary results suggest that current vaccines are still effective but perhaps less than against the original virus. "We believe that, at least for the mRNA vaccines -- Moderna and Pfizer -- that those vaccines will protect very well against lambda, in the same way that they protect against the delta virus. Even though some of the antibody no longer works against the variants, it's still enough that they will fight the virus and get rid of it pretty well," assures Nathaniel Landau, a microbiologist at the NYU Grossman School of Medicine, who led one study (1).
+
+Another study (2), also not yet peer reviewed, shows that lambda can escape the neutralizing antibodies produced by the WHO-approved, China-developed CoronaVac vaccine, although lead author Ricardo Soto Rifo, a virologist at the Institute of Biomedical Sciences, Santiago, Chile, clarified, "We still don't have evidence to say that lambda is more transmissible, we don't have evidence to say that lambda is responsible for vaccine breakthrough, we don't have evidence to state that lambda is responsible for more severe disease or whether lambda is responsible for death."
+
+Two doses of CoronaVac, an inactivated virus vaccine which is the available vaccine in many Latin American countries, is considered less effective than the mRNA vaccines, but is still good in protecting against severe disease and death.
+
+Despite some skepticism around the efficacy of CoronaVac against new variants, everyone should get vaccinated by whatever authorized vaccine is available in their region, says Herbert Virgin, an immunologist, a member of the National Academy of Sciences, and chief scientific officer of Vir Biotechnology. "If you don't vaccinate...the virus will evolve," adds Virgin.
+
+Although worrying about a new variant like lambda gaining ground in a faraway country might seem excessive, it is important to stay vigilant and follow precautionary measures. "Lambda isn't scarier than the delta virus. The key is, that they're both highly transmissible viruses. But if you get the vaccine, you're most likely going to be protected," Landau advises. "And the rate of infection with these viruses is going to go down in areas where people get the vaccine."
+
+References
+----------
+1. Tada T, Zhou H, Dcosta BM, et al. SARS-CoV-2 lambda variant remains susceptible to neutralization by mRNA vaccine-elicited antibodies and convalescent serum. bioRxiv. 2021. https://doi.org/10.1101/2021.07.02.450959
+2. Acevedo ML, Alonso-Palomares L, Bustamante A, et al. Infectivity and immune escape of the new SARS-CoV-2 variant of interest lambda. medRxiv. 2021. https://doi.org/10.1101/2021.06.28.21259673
+
+[Byline: Sanjay Mishra]
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+******
+[2] Long COVID in children
+Date: Wed 14 Jul 2021
+Source: Nature [edited]
+https://www.nature.com/articles/d41586-021-01935-7
+
+
+As COVID-19 has ripped through communities, children have often been spared the worst of the disease's impacts. But the spectre of long COVID developing in children is forcing researchers to reconsider the cost of the pandemic for younger people.
+
+The question is particularly relevant as the proportion of infections that are in young people rises in countries where many adults are now vaccinated -- and as debates about the benefits of vaccinating children intensify.
+
+Most people who survive COVID-19 recover completely. But for some, the poorly understood condition that's become known as long COVID can last for months -- maybe even years. Nobody yet knows.
+
+The condition was first described in adults. But several studies have now reported a similar phenomenon, including symptoms such as headache, fatigue, and heart palpitations in children, even though they rarely experience severe initial symptoms of COVID-19.
+
+Estimates of how common long COVID is in children vary wildly. Researchers say that pinning this down is crucial, because decisions about school closures and vaccine roll-outs can hinge on the risk the virus poses to children. Getting solid numbers is "very, very important", says Pia Hardelid, a child-health epidemiologist at University College London.
+
+Paediatrician Danilo Buonsenso, at the Gemelli University Hospital in Rome, led the first attempt to quantify long COVID in children. He and his colleagues interviewed 129 children aged 6-16 years, who had been diagnosed with COVID-19 between March and November 2020.
+
+In January [2021], they reported in a preprint that more than 1/3 had 1 or 2 lingering symptoms 4 months or more after infection, and a further 1/4 had 3 or more symptoms. Insomnia, fatigue, muscle pain and persistent cold-like complaints were common -- a pattern similar to that seen in adults with long COVID. Even children who'd had mild initial symptoms, or were asymptomatic, were not spared these long-lasting effects, Buonsenso says.
+
+The findings, published in a peer-reviewed journal in April [2021] (1), sparked a deluge of e-mails and calls from anxious parents. "It was like we opened the door, and everyone -- mostly parents themselves -- were starting to say, 'Okay, so maybe this is something we should ask about,'" he says. The hospital now runs a weekly outpatient clinic to meet demand.
+
+Data released by the UK Office of National Statistics (ONS) in February [2021] and updated in April [2021] also sparked concern. They showed that 9.8% of children aged 2-11 years and 13% aged 12-16 years reported at least one lingering symptom 5 weeks after a positive diagnosis. Another report released in April [2021] found that 1/4 of children who were surveyed after discharge from hospital in Russia post-COVID-19, had symptoms more than 5 months later (2).
+
+The numbers reported aren't as high as they are for adults. The ONS data, for instance, show that about 25% of 35-69 year olds had symptoms at 5 weeks. But the numbers still set off alarm bells, because severe COVID-19 in children is much rarer than in adults, and most kids were therefore assumed to have been spared the impacts of long COVID, says Jakob Armann, a paediatrician at Dresden University of Technology in Germany.
+
+If 10% or 15% of children, irrespective of the initial severity of the disease, do have long-term symptoms after all, "that's a true problem", he says, "so this needs to be studied". But Armann suspects numbers might not be that high. Long-COVID symptoms include fatigue, headache, difficulty concentrating and insomnia. He says that other pandemic-related phenomena, such as school closures and the trauma of seeing family members sick or dying from COVID-19 could result in those symptoms too, and artificially inflate long-COVID estimates. "You need a control group to tease out what is truly infection-related," he says.
+
+He and his colleagues have been taking blood samples from secondary-school children in Dresden since May 2020 to track rates of infection. In March and April this year [2021], surveys were taken from more than 1500 children -- nearly 200 of whom had antibodies indicating previous SARS-CoV-2 infection -- to see how many reported long COVID.
+
+In May [2021], Armann's group reported in a preprint that it found no difference in rates of symptoms reported by the 2 groups (3). "This was kind of striking," says Armann, and suggests that long COVID in children is probably lower than some studies have indicated. That doesn't mean that long COVID doesn't exist in children, he says, but it does mean the number is probably below 10%, a level that would have been picked up in the study. The true figure is perhaps as low as 1%, he says.
+
+Hardelid tapped into data gathered by the Virus Watch study, which tracks infections and symptoms in more than 23 000 households across England and Wales. As they reported in a preprint in June [2021], she and her colleagues found that 4.6% of children with evidence of SARS-CoV-2 infection had persistent symptoms lasting more than 4 weeks (4).
+
+Another UK study, posted as a preprint in May [2021], found a similar rate. Of more than 1700 schoolchildren who tested positive for SARS-CoV-2, 4.4% had symptoms, such as headache, fatigue and loss of smell, that persisted; 1.6% had symptoms that remained for at least 8 weeks (5).
+
+It will also be important to determine how long the condition lasts in children, says Armann. Headaches or trouble sleeping for just 6 months is a vastly different problem from having these symptoms all their life, even if it only happens for 1%, he says.
+
+Buonsenso says that one of the challenges in working out how many kids develop long COVID is that there are no set diagnostic criteria in adults, let alone in children. Surveys to detect symptoms usually cast a wide net, and are not yet specific enough to tease out long COVID from other conditions, he says. Nevertheless, he is convinced that some children -- perhaps 5-10% of those with COVID-19 -- do develop the condition.
+
+If psychological distress were a big factor in the symptoms he's seeing, as Armann has suggested, Buonsenso argues there would have been more children with symptoms from the 1st wave of infections in 2020, when restrictions were harshest in Rome. Instead, the 2nd wave resulted in more cases of children with symptoms of long COVID, he says.
+
+A proper definition of long COVID is urgently needed, says Hardelid, so that studies can determine how much of a problem it presents in children, and which children are most at risk.
+
+One suggestion, following a review of the literature in adults by the UK National Institute for Health Research, is that long COVID could be a collection of 4 different syndromes, including post-intensive care syndrome, post-viral fatigue syndrome, and long-term COVID syndrome (6). This could be the case in children, too, says Hardelid.
+
+Buonsenso has also been looking at immunological changes that occur in people with long COVID, to see if there are biological markers that could lead to treatments. In a small study posted as a preprint in May [2021], he and his colleagues found that only the children with long COVID showed signs of chronic inflammation following infection (7).
+
+Such investigations into the biological basis of long COVID could have far-reaching effects. In general, we know very little about chronic post-viral conditions, says Buonsenso, because most clinical attention, and funding, has focused on the acute phase of infections.
+
+References
+----------
+1. Buonsenso D, et al. Preliminary evidence on long COVID in children. Acta Paediatr. 2021. https://doi.org/10.1111/apa.15870
+2. Osmanov IM, et al. Risk factors for long covid in previously hospitalised children using the ISARIC Global follow-up protocol: A prospective cohort study. medRxiv. 2021. https://doi.org/10.1101/2021.04.26.21256110
+3. Blankenburg J, et al. Mental health of Adolescents in the Pandemic: Long-COVID19 or Long-Pandemic Syndrome? medRxiv. 2021. https://doi.org/10.1101/2021.05.11.21257037
+4. Miller F, et al. Prevalence of persistent symptoms in children during the COVID-19 pandemic: evidence from a household cohort study in England and Wales. medRxiv. 2021. https://doi.org/10.1101/2021.05.28.21257602
+5. Molteni E, et al. Illness duration and symptom profile in a large cohort of symptomatic UK school-aged children tested for SARS-CoV-2. medRxiv. 2021. https://doi.org/10.1101/2021.05.05.21256649
+6. National Institute for Health Research. Living with Covid19. NIHR. 2020. https://doi.org/10.3310/themedreview_41169
+7. Di Sante G, et al. Immune profile of children with post-acute sequelae of SARS-CoV-2 infection (Long Covid). medRxiv. 2021. https://doi.org/10.1101/2021.05.07.21256539
+
+--
+Communicated by:
+Mary Marshall
+<mjm2020@googlemail.com>
+
+[In one study reported above, no difference in rate of symptoms identified as long COVID was detected between secondary school children who had antibody signifying prior infection and those who did not, confounding interpretation. Much more data are needed to sort out prevalence and severity of long COVID in children. - Mod.LK]
+
+******
+[3] Europe: reopening threatened
+Date: Fri 16 Jul 2021
+Source: ProMED-ESP Digest article title translations - Vol 55, Issue 157 [In Spanish, machine trans., edited]
+https://cnnespanol.cnn.com/2021/07/12/variante-delta-covid-reapertura-europa-trax/
+
+
+European leaders renew calls for citizens to get vaccinated and reimpose coronavirus restrictions as the most transmissible delta variant takes over Europe.
+
+"At present, an already observed continuity of the deterioration of the epidemiological situation in many countries is anticipated, given the rapid growth of the delta variant," explained the European Center for Disease Prevention and Control (ECDC) in its latest report on COVID-19 published on [Fri 16 Jul 2021]. In June [2021], the ECDC warned that the delta variant would account for 90% of COVID-19 cases in the European Union by the end of August [2021] and emphasized the importance of moving forward with the distribution of the vaccine at a very high rate."
+
+Around Europe, some leaders are reimposing measures to fight the pandemic and the dangerous delta variant. The Netherlands reimposed restrictions on nightclubs, music festivals, and restaurants because the rate of infections in the country "has increased much faster than expected since the almost total reopening on [26 Jun 2021]". The government says it was partly due to the delta variant.
+
+As cases increase in Portugal -- 1782 cases reported on [Mon 12 Jul 2021] -- the country has also announced new measures. Curfew has been reinstated in some high-risk areas. In addition, tourists are required to show negative tests or vaccination certificates to stay in hotels. Tests and certificates will also be required to sit inside restaurants on Fri nights and weekends in Portugal.
+
+Norway is delaying its reopening plan because "there is a risk that the delta variant could cause a 4th wave," the government said last [Mon 12 Jul 2021].
+
+In France, the government is pushing for citizens to get vaccinated. According to the French Health Minister, Olivier Veran, the country is "about 4 weeks behind the UK" in terms of the epidemiological situation and is "at the beginning of what appears to be a 4th wave."
+
+While new daily cases average 3000, the French government fears that the numbers could rise to 20 000 cases per day by early August [2021] due to the delta variant, Veran said this [Sun 11 Jul 2021] during an interview with Radio J.
+
+This {Mon 19 Jul 2021], in a televised message, French President Emmanuel Macron is expected to announce measures to encourage French residents to get vaccinated. Mandatory vaccination for healthcare workers, which has been widely debated in the country in recent days, could be put on the table -- a measure that is already happening in Italy.
+
+Prime Minister Boris Johnson will announce that England will lift most of the latest coronavirus restrictions next week -- despite rising infections -- due to the success of the country's vaccination program. More than 87% of people have received the 1st dose and 66% have 2 doses.
+
+UK Health Secretary Sajid Javid said the country will have 100 000 cases a day by the end of the summer. He said it would be due to the delta variant. However, the Government trusts that the vaccination "wall" that the country has erected will prevent a wave of deaths and the collapse of the health system due to hospitalizations. The UK recorded 34 471 new cases and 6 deaths on [Mon 12 Jul 2021], according to government figures.
+
+[Byline: Barbara Wojazer]
+
+--
+Communicated by:
+ProMED Rapporteur Kathryn Soderholm
+
+[Also read https://www.cidrap.umn.edu/news-perspective/2021/07/european-officials-say-delta-driving-deteriorating-covid-19-situation.
+
+European officials say delta driving deteriorating COVID-19 situation
+"COVID-19 cases in European Union (EU) and related countries rose 64% this week compared to the previous week, with the situation likely to get worse as the delta (B1617.2) variant activity continues to expand, the European Centre for Disease Prevention and Control (ECDC) said today.
+
+The report covers EU member countries, plus ones that are part of the European Economic Area. The report doesn't not include the United Kingdom, where COVID-19 activity is surging and is at its highest level since January.
+
+Cases are on the rise in 20 countries, with people ages 15-24 the hardest hit group and more limited impact on those older than 65. ..."
+
+
+The delta variant also is a major threat in some states in the US. For example, see:
+https://www.theatlantic.com/health/archive/2021/07/delta-missouri-pandemic-surge/619456/?utm_source=twitter&utm_medium=social&utm_campaign=share
+
+
+Delta Is Driving a Wedge Through Missouri
+"Many experts have argued that, even with delta, the United States is unlikely to revisit the horrors of last winter. Even now, the country's hospitalizations are 1/7 as high as they were in mid-January [2021]. But national optimism glosses over local reality. For many communities, this year will be worse than last. Springfield's health-care workers and public-health specialists are experiencing the same ordeals they thought they had left behind. "But it feels worse this time because we've seen it before," Amelia Montgomery, a nurse at CoxHealth, told me. "Walking back into the COVID ICU was demoralizing."
+
+ProMED acknowledges the links/excerpts provided by Mary Marshall. - Mod.LK]
+
+******
+[4] WHO: Daily new cases reported (as of 16 Jul 2021)
+Date: Fri 16 Jul 2021
+Source: WHO [abridged, edited]
+https://covid19.who.int/table
+
+
+*Daily case reports as of 16 Jul 2021 16:48 CET
+
+Surveillance
+------------
+WHO region (no. countries/territories):
+Total confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+--------------------------------------------------------------------------------
+Western Pacific Region (19): 3 905 375 (30 033) / 59 074 (348)
+European Region (61): 57 636 847 (131 107) / 1 201 781 (1067)
+South East Asia Region (10): 36 525 388 (123 059) / 522 381 (2235)
+Eastern Mediterranean Region (22): 11 644 006 (56 411) / 224 702 (582)
+Region of the Americas (54): 74 411 952 (171 410) / 1 953 492 (3897)
+African Region (49): 4 531 636 (35 859) / 106 074 (720)
+Cases on an international conveyance (Diamond Princess): 745 (0) / 13 (0)
+
+Confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+Grand total: 188 655 968 (547 879) / 4 067 517 (8849)
+
+--
+Communicated by:
+ProMED
+promed@promedmail.org
+
+[Data by country, area, or territory for 16 Jul 2021 can be accessed at https://promedmail.org/wp-content/uploads/world-pdf/2021%20WHO%20Daily%20Tables%20JULY16_1626547804.pdf.
+
+- The Americas region reported 31.25% of daily case numbers and 44.0% of the daily deaths reported in the past 24 hours and maintained its position as the most severely affected region, having reported more than 74.41 million cases. Brazil reported over 57 000 cases over the last 24 hours followed by the USA (38 707), Argentina (19 697), Colombia (17 230), and Mexico (12 116). 10 additional countries reported more than 1000 cases in the past 24 hours, while 2 countries reported more than 500 but fewer than 1000 cases.
+
+- The European region reported 23.9% of daily case numbers and 12.0% of the daily deaths reported in the past 24 hours, and total cumulative cases reported exceed 57.63 million cases. Many countries not reporting cases in the last 24 hours or longer include Belgium, Switzerland (3 cases), and Kazakhstan, among others. 14 countries reported more than 1000 cases in the past 24 hours, and an additional 3 countries reported more than 500 but fewer than 1000 cases.
+
+- The Eastern Mediterranean region reported 10.2 % of daily case numbers and 6.5 % of the deaths reported in the past 24 hours, having reported a cumulative total of more than 11.64 million cases. Iran reported the highest number of cases (23 371) over the last 24 hours, followed by Iraq, Tunisia, Kuwait, UAE, Libya, Pakistan, Morocco, Afghanistan, Oman, and Saudi Arabia. Jordan reported more than 500 but fewer than 1000 cases.
+
+- The African region reported 6.5 % of daily case numbers and 8.1 % of the deaths reported in the past 24 hours, having reported a cumulative total of more than 4.53 million cases. South Africa (16 435), reported the highest number of cases over last 24 hours followed by Botswana, Zimbabwe, Algeria, Namibia. Zambia, and Mozambique. Cameroon, Rwanda, Senegal, and Malawi, and reported more than 500 but fewer than 1000 cases. Madagascar, Congo, and Gabon among others, did not report any new cases in the past 24 hours.
+
+- The Western Pacific region reported 5.4 % of daily case numbers and 3.9% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 3.90 million cases. Malaysia, reported the highest number of cases over the last 24 hours (over 13 000 cases), followed by Philippines, Japan, Vietnam, South Korea, Mongolia, Fiji, and Cambodia.
+
+- The South East Asia region reported 22.4 % of the daily newly reported cases and 25.2 % of reported deaths in the past 24 hours, having reported a cumulative total of more than 36.52 million cases. Indonesia is dominant reporting over 54 000 cases over the last 24 hours, followed by India (38 949), Bangladesh (12 148), Thailand (9692), Myanmar (6194), and Nepal (2006). Additionally, Sri Lanka and Maldives have not reported any cases in the last many days.
+
+On the Overview tab at the WHO source URL, the epidemic curve of confirmed COVID-19 cases by WHO region, 30 Dec 2019 through 16 Jul 2021, is an excellent visual representation of the pandemic. - Mod.UBA]
+
+******
+
+[5] Global update: Worldometer accessed 16 Jul 2021 19:51 EST (GMT-5)
+Date: Fri 16 Jul 2021
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at:
+https://promedmail.org/wp-content/uploads/world-pdf/2021%20WORLDDATA%20JULY16_1626547831.pdf.
+
+A 7-day series of cumulative data reported by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/2021%20JULY16WORLD7_1626547855.pdf. - Mod.UBA]
+
+Total number of reported deaths: 4 091 898
+Total number of worldwide cases: 190 295 694
+Number of newly confirmed cases in the past 24 hours: 565 421
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[In the past 24 hours, 15 countries, including Indonesia (54 000), UK (51 635), Brazil (45 591), the USA (40 529), India (38 112), Spain (31 060), Russia (25 704), Iran (21 885), Colombia (17 893), Argentina (17 261), South Africa (15 939), Mexico (12 821), Malaysia (12 541), Bangladesh (12 148), the Netherlands (11 297), and France (10 908), have reported the highest numbers of cases, all reporting more than 10 000 newly confirmed cases in the past 24 hours. A global total of 8895 deaths were reported in the past 24 hours (late 14 Jul 2021 to late 15 Jul 2021). A total of 61 countries reported more than 1000 cases in the past 24 hours; 29 of the 61 countries are from the European region, 7 are from the Americas region, 7 are from the Eastern Mediterranean region, 5 are from the South East Asia region, 6 are from the Western Pacific region, and 6 from the African region.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, case counts have increased by 19.9%, while daily reported deaths have increased by 5.4%. Similar comparative 7-day averages in the USA show 79.3% increase in daily reported cases and 22.3% increase in reported deaths.
+
+Impression: The global daily reported over 550 000 newly confirmed infections in the past 24 hours with over 190.29 million cumulative reported cases and over 4.09 million reported deaths. - Mod.UBA]
+
+[
+
+HealthMap/ProMED map:
+Worldwide: https://promedmail.org/promed-post?place=8526331,8854]
+See Also
+COVID-19 update (243): Olympics, Africa, MIS-C possible causes, WHO, global 20210717.8524248
+COVID-19 update (242): inc. cases and deaths, hosp resources, infec. rates, WHO 20210715.8521711
+COVID-19 update (241): South Africa, beta variant, vaccines, Netherlands, WHO 20210714.8518836
+COVID-19 update (240): Delta, long Covid, vaccine boosters, Guillian-Barre, WHO 20210713.8516206
+COVID-19 update (239): Belgium, vacc. passp., Israel, Russia, Aust., Africa, WHO 20210712.8513581
+COVID-19 update (238): missed 2nd vaccinations, future, WHO, global 20210711.8511079
+COVID-19 update (237): diagnostics with LFDs, COVID in youth, WHO, global 20210710.8509482
+COVID-19 update (236): Africa, Asia, research, WHO, global 20210709.8507651
+COVID-19 update (235): CIDRAP, severe, long COVID, gender, schools, WHO 20210708.8505035
+COVID-19 update (234): USA Delta var, mAb, Indonesia, long COVID & children, WHO 20210707.8502280
+COVID-19 update (232): South Africa, USA delta var., India, Israel, WHO, global 20210706.8499538
+COVID-19 update (231): delta variant growth, Olympics, Cuba, global 20210705.8497065
+COVID-19 update (229): Lambda variant, diagnostics, prisons, CIDRAP, global 20210704.8495092
+COVID-19 update (228): USA vacc, SE Asia surge, evolution, gender disparity, WHO 20210703.8493455
+COVID-19 update (227): Delta variant Europe, Africa, Novavax, WHO, global 20210702.8492093
+COVID-19 update (226): Bangladesh, mucormycosis, immune response research, WHO 20210701.8489413
+COVID-19 update (224): pollen & spread, Indonesia, CIDRAP, sport events, WHO 20210630.8486852
+COVID-19 update (223): US hosp. cases (2020), long immunity, Japan Olympics, WHO 20210629.8484172
+COVID-19 update (222): Russia, delta variant, US, Afghanistan, WHO 20210628.8481309
+COVID-19 update (221): Indonesia, face masks, Australia, WHO 20210627.8478902
+COVID-19 update (219): USA, life expectancy, Africa 3rd wave, WHO, global 20210627.8477276
+COVID-19 update (218): Russia, vaccine booster, Israel, WHO, global 20210625.8475268
+COVID-19 update (217): cognitive, Delta plus variants, immunity, WHO, global 20210624.8473098
+COVID-19 update (216): Delta, Delta plus variants, Chinese vaccines, WHO, global 20210623.8469890
+COVID-19 update (215): G7 Summit Super spreader, Brazil, Updates, WHO 20210622.8466954
+COVID-19 update (214): Brazil, canine CoV, South America, Israel, UK, WHO 20210621.8464589
+COVID-19 update (213): Japan, endemic, Afghanistan, cardiac, Lambda variant, WHO 20210620.8462089
+COVID-19 update (212): Russia, IDSA, reinfection, Guillain-Barre, regional, WHO 20210619.8460360
+COVID-19 update (211): delta variant UK, Indonesia, antiviral pill, WHO, global 20210618.8458589
+COVID-19 update (210): mucormycosis, Delta var US, quarantine transmission, WHO 20210617.8456074
+COVID-19 update (200): animal, China, origin 20210608.8433657
+COVID-19 update (190): Viet Nam, Thailand, UK, vaccine carditis, WHO 20210601.8412653
+COVID-19 update (180): variant vaccine, efficacy, Nepal, Southeast Asia, WHO 20210523.8377232
+COVID-19 update (170): candidate animal models, potential hosts, research 20210515.8362876
+COVID-19 update (160): variants, research, India, WHO 20210505.8346370
+COVID-19 update (150): Nepal, India support, Qatar, Japan updates, WHO, global 20210427.8331945
+COVID-19 update (140): animal, Latvia, mink, OIE 20210419.8314796
+COVID-19 update (130): antibody evasion, variants, South Asia, WHO, global 20210410.8300187
+COVID-19 update (120): animal, Russia, vaccine 20210331.8281241
+COVID-19 update (110): vaccines, neutralizing antibody, P1 variant, WHO, global 20210323.8263780
+COVID-19 update (100): antibodies, vaccine, Thailand, Cambodia, WHO, global 20210316.8250009
+COVID-19 update (90): UK sewage, Viet Nam, Cambodia, WHO 20210308.8233859
+COVID-19 update (80): vaccine, USA variants, comments, WHO, global 20210226.8214650
+COVID-19 update (70): gangrene, challenge trials, immunity, cancer, WHO, global 20210218.8198620
+COVID-19 update (60): animal, SARS-CoV-2-related viruses, pangolin, bat 20210211.8184900
+COVID-19 update (50): UK vaccine study, Brazil reinfection, WHO 20210205.8167161
+COVID-19 update (01): variants, vaccine, Thailand, global, WHO 20210101.80629382020
+2020
+----
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+COVID-19 update (562): viral load, UK vacc dose, ECDC, WHO 20201231.8061525
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia: China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia: China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+2019
+----
+Undiagnosed pneumonia: China (HU): RFI 20191230.6864153
+and other items in the archives
+.................................................sb/lk/uba/rd/may/ml
+</body>

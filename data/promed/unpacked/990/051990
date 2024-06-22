@@ -1,0 +1,381 @@
+<header id=051990>
+Published Date: 2021-09-17 16:58:58 EDT
+Subject: PRO/AH/EDR> COVID-19 update (320): spillover events, long COVID, mandatory vaccines, WHO
+Archive Number: 20210917.8679439
+</header>
+<body id=051990>
+CORONAVIRUS DISEASE 2019 UPDATE (320): SPILLOVER EVENTS, LONG COVID, MANDATORY VACCINES, WHO, GLOBAL
+****************************************************************************************************
+A ProMED-mail post
+http://www.promedmail.org
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+http://www.isid.org
+
+In this update:
+[1] 2 SARS-CoV-2 spillover events
+[2] NIH long COVID study launch
+[3] Mandatory vaccine mandate
+[A] Italy
+[B] Other countries
+[4] WHO: daily new cases reported (as of 16 Sep 2021)
+[5] Global update: Worldometer accessed 16 Sep 2021 19:04 EST (GMT-5)
+
+******
+[1] 2 SARS-CoV-2 spillover events
+Date: Thu 16 Sep 2021
+Source: Nature.com [edited]
+https://www.nature.com/articles/d41586-021-02519-1
+
+
+SARS-CoV-2, the virus that causes COVID-19, could have spilled from animals to people multiple times, according to a preliminary analysis of viral genomes sampled from people infected in China and elsewhere early in the pandemic.
+
+If confirmed by further analyses, the findings would add weight to the hypothesis that the pandemic originated in multiple markets in Wuhan, and make the hypothesis that SARS-CoV-2 escaped from a laboratory less likely, say some researchers. But the data need to be verified, and the analysis has not yet been peer reviewed.
+
+The earliest viral sequences, taken from people infected in late 2019 and early 2020, are split into 2 broad lineages, known as A and B, which have key genetic differences.
+
+Lineage B has become the dominant lineage globally and includes samples taken from people who visited the Huanan seafood market in Wuhan, which also sold wild animals. Lineage A spread within China, and includes samples from people linked to other markets in Wuhan.
+
+A crucial question is how the 2 viral lineages are related. If viruses in lineage A evolved from those in lineage B, or vice versa, that would suggest that the progenitor of the virus jumped just once from animals to people. But if the 2 lineages have separate origins, then there might have been multiple spillover events.
+
+The latest analysis -- posted on the virological.org discussion forum [https://bit.ly/3kjH5k3] -- adds weight to the 2nd possibility by questioning the existence of genomes linking the lineages.
+
+The finding could be the "dagger into the heart" of the hypothesis that SARS-CoV-2 escaped from a lab, rather than originating from the wildlife trade, says Robert Garry, a virologist at Tulane University in New Orleans, Louisiana. But others say that more research is needed, especially given the limited genomic data from early in the pandemic.
+
+"It is a very significant study," says Garry. "If you can show that A and B are 2 separate lineages and there were 2 spillovers, it all but eliminates the idea that it came from a lab."
+
+The findings are "consistent with there being at least 2 introductions of SARS-CoV-2 into the human population", says David Robertson, a virologist at the University of Glasgow, UK.
+
+Lineages A and B are defined by 2 key nucleotide differences. But some of the earliest genomes have a combination of these differences. Researchers previously thought that these genomes could be those of viruses at intermediate stages of evolution linking the 2 lineages.
+
+But the researchers behind the new analysis looked at them in detail and noticed some problems.
+
+They analysed 1716 SARS-CoV-2 genomes in a popular online genome repository called GISAID that were collected before 28 Feb 2020, and identified 38 such 'intermediate' genomes.
+
+But when they looked at the sequences more closely, they found that many of these also contained mutations in other regions of their genomes. And they say that these mutations are definitively associated with either lineage A or lineage B -- which discredits the idea that the corresponding viral genomes date to an intermediate stage of evolution between the 2 lineages.
+
+The authors suggest that a laboratory or computer error probably occurred in sequencing one of the 2 mutations in these "intermediate" genomes. "The more we dug, the more it looked like, maybe we can't trust any of the 'transitional' genomes," says study co-author Michael Worobey, an evolutionary biologist at the University of Arizona in Tucson.
+
+Such sequencing errors are not unusual, say researchers. Software can sometimes fill in gaps in the raw data with incorrect sequences, and viral samples can become contaminated, notes Richard Neher, a computational biologist at the University of Basel in Switzerland. "Such mishaps are not surprising," he says. "Especially early in the pandemic, when protocols weren't very established and people tried to generate data as fast as they could."
+
+Several researchers contacted by Nature, who sequenced some of the samples included in the study, say it is unlikely that their sequences include errors in the 2 key nucleotides.
+
+But the study authors counter that even if some of the genomes were sequenced correctly, other parts of the same genomes, or the locations from which the samples were collected, still clearly indicate that they belong to only one or the other lineage.
+
+"It is very unlikely" that any of the so-called intermediate genomes are actually transitional genomes, says study co-author Joel Wertheim, a molecular epidemiologist at the University of California, San Diego.
+
+Xiaowei Jiang, an evolutionary biologist at Xi'an Jiaotong-Liverpool University in Suzhou, China, says that the team behind the study must verify the findings by getting "the original raw sequencing data for as many genomes as possible".
+
+If the virus did jump between animals and people on several occasions, the fact that lineages A and B are linked to people who visited different markets in Wuhan suggests that multiple individual animals, of one or more species, that were carrying a progenitor of SARS-CoV-2 could have been transported across Wuhan, infecting people in at least 2 locations.
+
+A study published in June [2021] found that live animals susceptible to SARS-CoV-2, such as raccoon dogs and mink, were sold in numerous markets in Wuhan. Previous studies of the virus that caused severe acute respiratory syndrome (SARS) have concluded that it, too, probably jumped multiple times from animals to people.
+
+The latest study, if verified, would mean that the scenario of a researcher accidentally being infected in a lab, and then spreading the virus to the population at large, would have had to happen twice, says Garry. It's much more likely that the pandemic has its origins in the wildlife trade, he says.
+
+To gather more evidence, the team behind the new analysis now plans to run computer simulations to test how well multiple spillovers would fit with the diversity of known SARS-CoV-2 genomes.
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[The hypothesis that there were 2 SARS-CoV-2 spillover events that set off the COVID-19 pandemic has many dramatic implications, including discrediting of the "lab spillover" hypothesis. However, recall Carl Sagan's dictum that "Extraordinary claims require extraordinary evidence." We have thus included the above Nature article in its entirety to include certain questions and issues that have already been raised by other scientists. The original molecular phylogenetic analysis, which is highly technical, may be viewed at https://virological.org/t/evidence-against-the-veracity-of-sars-cov-2-genomes-intermediate-between-lineages-a-and-b/754. - Mod.LXL]
+
+******
+[2] NIH long COVID study launch
+Date: Thu 16 Sep 2021
+Source: Infection Control Today [abridged, edited]
+https://www.infectioncontroltoday.com/view/massive-study-of-long-covid-launched
+
+
+Medical experts intend to take a closer look at long COVID, one of the more troublesome known unknowns of the pandemic. People who suffer from long COVID exhibit acute symptoms from SARS-CoV-2 infection that can drag on for months. Medical experts don't know if they can drag on for years; the disease hasn't been around long enough to make that determination.
+
+Yesterday [15 Sep 2021], the National Institutes of Health unveiled a USD 470 million study that it hopes will mine data from 30 000-40 000 people who suffer from long COVID. The effort is called the REsearching COVID to Enhance Recovery (RECOVER) Initiative.
+
+In making the announcement at a news briefing yesterday [15 Sep 2021], NIH Director Francis Collins, MD, PhD, voiced some of the questions driving the need for answers. One question being, for instance, what causes long COVID? (The scientific name for long COVID is PASC, for post-acute sequalae of SARS-CoV-2.)
+
+Collins asked: "Is it a misfiring of the immune system that fails to reset after the infection with this coronavirus? Is it a triggering of some metabolic dysfunction? We don't know."
+
+The Centers for Disease Control and Prevention (CDC), in a recent study in its Morbidity and Mortality Weekly Report, says that long COVID symptoms last longer than 4 weeks "among persons who self-reported ever receiving a positive SARS-CoV-2 test result with the prevalence of similar symptoms among persons who reported always receiving a negative test result."
+
+The self-reported aspect of long COVID tracking matters since medical experts, as Collins said, still don't quite know what it is. Self-reporting will be an important element of RECOVER, as the NIH has set up a website where people who would like to volunteer can sign up.
+
+The CDC says that long COVID symptoms can include hair loss, cognitive disfunction, muscle pain, headache, joint pain ... it's a long list.
+
+At yesterday's [15 Sep 2021] press briefing, Collins said that "the diversity of symptoms and presentations leads us to believe that long COVID is not just one condition. The only way, therefore, we're going to sort this out is with very large studies that collect lots and lots of data about symptoms, physical findings and laboratory measures."
+
+RECOVER will involve more than 100 researchers at more than 30 institutions across the United States. As with everything involving an ever-mutating virus, getting the information quickly matters. Among the sources for data will be wearable devices. Data will also be retrieved from laboratory tests, clinical information, and an analysis of those in various stages of recovery from COVID-19. "With immediate access to data from existing, diverse study populations, it is anticipated researchers will be able to accelerate the timeline for this important research," the NIH said in its press release.
+
+Of immediate concern, is multisystem inflammatory syndrome in children (MIS-C). The RECOVER project will also mine data about MIS-C and also MIS-A, or multisystem inflammatory syndrome in adults.
+
+According to the CDC, MIS-C "is a condition where different body parts can become inflamed, including the heart, lungs, kidneys, brain, skin, eyes, or gastrointestinal organs." As with the case of long COVID, the CDC does not "yet know what causes MIS-C. However, many children with MIS-C had the virus that causes COVID-19, or had been around someone with COVID-19."
+
+[Byline: Frank Diamond]
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[The list of symptoms lasting more than 4 weeks reported by patients is indeed long -- 19 and counting -- and can be seen in the Table in the URL above. - Mod.LXL]
+
+******
+[3] Mandatory vaccine mandate
+[A] Italy
+Date: Fri 17 Sep 2021
+Source: Al Jazeera [edited]
+https://www.aljazeera.com/news/2021/9/17/italy-makes-covid-health-pass-mandatory-for-all-workers
+
+
+Italy has adopted a new decree making it obligatory for all workers to display a COVID-19 health pass from 15 Oct 2021. Thursday's [16 Sep 2021] move by Prime Minister Mario Draghi's coalition administration is aimed at persuading people to get inoculated and blunting infection rates in one of the countries worst hit by the pandemic.
+
+Employees in public and private sectors will need to demonstrate proof of vaccination, a recent negative COVID-19 test or recovery from the virus in the previous 6 months to access workplaces. "The Green Pass is an instrument of freedom, that will help us make workplaces safer," Health Minister Roberto Speranza told a news conference.
+
+The Green Pass requirement covers 14.7 million private sector workers and 3.2 million in state-supported jobs. Until now, medical personnel were obliged to be vaccinated, while the Green Pass rule had been in place only for school employees. Green Passes are also necessary for indoor leisure activities, such as dining, visiting the theatre or museum, and for long-distance domestic travel.
+
+Workers who fail to present valid health certificates will be suspended on no pay, but cannot be sacked, ministers told reporters after Draghi's cabinet approved the measures. People who ignore the decree and go to work regardless will face a fine of EUR 600 to 1500 (USD 705-1765). The sanction for employers will be EUR 400-1000 euros (USD 470-1175).
+
+The measures are the first of their kind adopted by a major European economy for all categories of workers, making Italy a test case for the continent. They will remain in effect as long as Italy is in a state of emergency. The state of emergency is currently set to run until 31 Dec 2021.
+
+"Nothing like this has been done in Europe...we are putting ourselves in the forefront internationally," said Public Administration Minister Renato Brunetta. Brunetta added that the government expected an "enormous" acceleration of jabs simply by the announcement of the decree, so that much of its desired effect could be achieved before it actually comes into effect.
+
+Italy has recorded the second-highest number of COVID-19 deaths in Europe after the United Kingdom, with a nationwide death toll of more than 130 000. About 74% of its 60 million-strong population have had at least one COVID-19 shot and 68% are fully vaccinated, figures broadly in line with most other European Union countries.
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+----
+[B] Other countries
+Date: Thu 16 Sep 2021 13:52 EDT
+Source: Reuters [edited]
+https://www.reuters.com/business/healthcare-pharmaceuticals/countries-making-covid-19-vaccines-mandatory-2021-08-16/
+
+
+A sharp upturn in infections due to the delta variant and a slowdown in vaccinations have pushed governments to make COVID-19 shots mandatory for health workers, other high-risk groups or dining out. A growing number of countries are also making shots compulsory for public servants or travelers. In some of the strictest measures in the world, Italy will require a COVID health pass from all workers.
+
+Here are some countries' vaccine mandates:
+
+Italy
+-----
+The Italian government made it obligatory for all workers either to show proof of vaccination, a negative test or recent recovery from infection. The new rules will come into force on 15 Oct 2021. Any worker who fails to present a valid health certificate will be suspended without pay, but cannot be sacked, according to a draft of the decree seen by Reuters.
+
+While some European Union states have ordered their health workers to get vaccines, none have made the Green Pass mandatory for all employees, making Italy a test case for the continent.
+
+United States
+-------------
+President Joe Biden on 10 Sep 2021 announced policies requiring most federal employees to get COVID-19 vaccinations and pushing large employers to have their workers inoculated or tested weekly. The new measures would apply to about 2/3 of all US employees, those who work for businesses with more than 100 workers.
+
+The White House confirmed on 5 Aug 2021 it is considering requiring foreign visitors to be vaccinated as it plans to eventually reopen international travel but said it had made no final decision and was not immediately going to lift restrictions.
+
+Australia
+---------
+Australia decided in late June [2021] to make vaccinations mandatory for high-risk aged-care workers and employees in quarantine hotels. In Tasmania, vaccines will be mandatory for aged-care workers as of 17 Sep 2021, the Examiner reported on 14 Aug 2021.
+
+Britain
+-------
+It will be mandatory for care home workers in England to have vaccinations from October [2021]. English nightclubs and other venues with large crowds will require patrons to present proof of full vaccination from the end of September [2021]. Britain is highly likely to require health workers to be vaccinated against COVID, Health Secretary Sajid Javid said on 14 Sep 2021.
+
+Canada
+------
+Canada said on 13 Aug 2021 it would mandate COVID-19 vaccination for federal public servants and transportation workers by the end of October [2021]. The vaccine mandate will also include air, train and cruise ship travellers. From 13 Sep 2021, vaccines are required for patrons of non-essential businesses such as restaurants and movie theatres.
+
+Fiji
+----
+A "no jab, no job" coronavirus policy went into effect in Fiji on 15 Aug 2021, AFP reported, with unvaccinated public servants forced to go on leave. Those who remain unvaccinated by November [2021] will be dismissed. In addition, employees at private firms could face fines and companies could be forced to stop operations over vaccine refusals.
+
+France
+------
+All healthcare and care home workers, home aids and urgent care technicians must have had at least their 1st shot of a COVID-19 vaccine by 15 Sep 2021. Hospitals, care homes and health centres have suspended around 3000 workers across France for failing to comply with mandatory COVID vaccination, the government said on 16 Sep 2021.
+
+Greece
+------
+Greece on 12 Jul 2021 made vaccinations mandatory for nursing home staff with immediate effect and healthcare workers from September [2021]. As part of new measures, only vaccinated customers are allowed in bars, cinemas, theatres and other closed spaces.
+
+Hungary
+-------
+Hungary's government has decided to make vaccinations mandatory for healthcare workers.
+
+Indonesia
+---------
+The world's 4th most populous country made inoculations mandatory in February [2021], threatening fines of up to IDR 5 million (USD 357).
+
+Kazakhstan
+----------
+Kazakhstan will introduce mandatory vaccinations or weekly testing for people working in groups of more than 20.
+
+Lebanon
+-------
+Lebanon is to limit entry to restaurants, cafes, pubs and beaches to people holding vaccine certificates or those who have taken antibody tests. Non-vaccinated employees of these establishments would be required to receive a PCR test every 72 hours.
+
+Malta
+-----
+Malta banned visitors from entering the country from 14 Jul 2021 unless they were fully vaccinated.
+
+Micronesia
+----------
+The small South Pacific island nation of the Federated States of Micronesia has mandated that its adult population be inoculated against COVID-19. The Pacific island nation said on 29 Jul 2021 everyone over 18 years will have to receive a COVID-19 vaccine.
+
+Netherlands
+-----------
+The Dutch government announced on 14 Sep 2021 it will introduce a "corona" pass showing proof of vaccination to go to bars, restaurants, clubs or cultural events.
+
+Russia
+------
+Moscow city authorities on 16 Jun 2021 ordered all workers with public-facing roles to be vaccinated against COVID-19. Companies were given a month to ensure at least 60% of staff had received 1st doses, or face fines or temporary closure.
+
+Moscow residents no longer have to present a QR code demonstrating they have been vaccinated or have immunity in order to sit in cafes, restaurants and bars from 19 Jul 2021.
+
+Saudi Arabia
+------------
+In May [2021], Saudi Arabia mandated that all public and private sector workers wishing to attend a workplace get vaccinated, without specifying when this would be implemented. Vaccination will also be required to enter any government, private, or education establishments and to use public transport as of 1 Aug 2021.
+
+Saudi citizens will need 2 doses before they can travel outside the kingdom from 9 Aug 2021, state news agency SPA reported on 19 Jul 2021.
+
+Sri Lanka
+----------
+Sri Lanka announced on 13 Aug 2021 that citizens would require vaccination cards to travel between provinces and in public spaces as of 15 Sep 2021, according to Business Standard.
+
+Switzerland
+-----------
+Swiss people will need to show a COVID-status certificate to enter bars, restaurants and fitness centres in Switzerland from 13 Sep 2021, the government ordered on 8 Sep 2021. The Swiss COVID certificate provides proof of vaccination, recovery from infection or a negative test result.
+
+Turkey
+------
+Turkey will begin requiring negative COVID-19 test results and proofs of vaccination for some sectors, including from teachers as schools reopen in September [2021] and for domestic travel, President Tayyip Erdogan said on 19 Aug 2021.
+
+As of 6 Sep 2021, a negative PCR test is mandatory for those who have not been vaccinated, or not recovered from the virus, to enter concerts, cinemas and theatres, Turkey's Interior Ministry said on 21 Aug 2021, Anadolu News Agency reported.
+
+Turkmenistan
+------------
+Turkmenistan is making vaccination mandatory for all residents aged 18 and over.
+
+[Byline: Oben Mumcuoglu, Dagmarah Mackos, and Paulina Cwikowska]
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[It was likely only a matter of time before we would see a major country impose a universal COVID vaccination mandate. Italy -- the 1st European country to be staggered by the emerging COVID-19 pandemic -- has now become the 1st major European country to announce the imposition of mandatory vaccination for all workers, by requiring proof of vaccination in the form of what they have called a "Green Pass." Social messaging is very important in rolling out and gaining acceptance for such a broad mandate, so it is gratifying that the Green Pass is being characterized by Italy's health minister as "an instrument of freedom, that will help us make workplaces safer." In addition, the mere announcement of a requirement to show proof of vaccination, as we have seen in instances such as President Macron's mandate regarding restaurants and bars in France, can motivate recalcitrant people to get vaccinated.
+
+Italy is indeed putting itself in the forefront internationally, and its experience will be very instructive for other countries as they grapple with the challenges of if, when, and how broadly to impose vaccination mandates as a key political instrument to bring the COVID pandemic under control. Happily, almost simultaneous with Italy's announcement, Reuters has compiled a snapshot of the current status of such mandates in many countries around the world. Please see the source URL above for a country-by-country list, together with links to original reports from many of the individual countries listed. - Mod.LXL]
+
+******
+[4] WHO: daily new cases reported (as of 16 Sep 2021)
+Date: Thu 16 Sep 2021
+Source: WHO [abridged, edited]
+https://covid19.who.int/table
+
+
+*Daily case reports as of 16 Sep 2021 16:48 CET
+
+Surveillance
+------------
+WHO region (no. countries/territories):
+Total confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+--------------------------------------------------------------------------------
+Western Pacific Region (19): 7 704 305 (59 586) / 104 778 (995)
+European Region (61): 67 798 955 (157 754) / 1 305 374 (2085)
+South East Asia Region (10): 42 316 882 (44 537) / 665 427 (621)
+Eastern Mediterranean Region (22): 15 352 726 (34 090) / 280 586 (705)
+Region of the Americas (54): 87 208 536 (219 525) / 2 157 081 (4636)
+African Region (49): 5 854 409 (12 339) / 141 289 (289)
+Cases on an international conveyance (Diamond Princess): 745 (0) / 13 (0)
+
+Confirmed cases (new cases in last 24 hours) / Total deaths (new deaths in last 24 hours)
+Grand total: 226 236 577 (527 831) / 4 654 548 (9331)
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[Data by country, area, or territory for 16 Sep 2021 can be accessed at https://promedmail.org/wp-content/uploads/world-pdf/2021%20WHO%20Daily%20Tables%20SEPT16_1631910171.pdf.
+
+- The Americas region reported 41.5% of daily case numbers and 49.6% of the daily deaths reported in the past 24 hours and maintained its position as the most severely affected region, having reported more than 87.20 million cases. The USA reported over 163 000 cases in the last 24 hours, followed by Brazil and Mexico; 8 additional countries reported more than 1000 cases in the past 24 hours, while 4 countries reported more than 500 but fewer than 1000 cases.
+
+- The European region reported 29.8% of daily case numbers and 22.3% of the daily deaths reported in the past 24 hours, and total cumulative cases reported exceed 67.79 million cases. Many countries not reporting cases in the last 24 hours or longer include Belgium (2 cases), Switzerland (5 cases), and Kazakhstan, among others; 23 countries reported more than 1000 cases in the past 24 hours, and an additional 8 countries reported more than 500 but fewer than 1000 cases.
+
+- The Eastern Mediterranean region reported 6.4% of daily case numbers and 7.5% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 15.35 million cases. Iran reported the highest number of cases (19 731) over the last 24 hours, followed by Occupied Palestinian Territory, Iraq, Pakistan, Morocco, and Libya. Jordan, Lebanon, and UAE reported more than 500 but fewer than 1000 cases.
+
+- The African region reported 2.3% of daily case numbers and 3.0% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 5.85 million cases. South Africa (4667) reported the highest number of cases over the last 24 hours, followed by Ethiopia and Burundi. Cameroon, Botswana, Ghana, and Uganda, among other countries, did not report cases over the last 24 hours.
+
+- The Western Pacific region reported 11.2% of daily case numbers and 10.6% of the deaths reported in the past 24 hours, having reported a cumulative total of more than 7.70 million cases. Malaysia reported the highest number of cases over the last 24 hours (over 18 000 cases), followed by Philippines, Viet Nam, Japan, South Korea, Australia, Cambodia, and Singapore.
+
+- The South East Asia region reported 8.4% of the daily newly reported cases and 6.6% of reported deaths in the past 24 hours, having reported a cumulative total of more than 42.26 million cases. India is dominant, reporting over 30 000 cases over the last 24 hours, followed by Thailand (30 570). Myanmar, Bangladesh, and Nepal did not report any cases over the last 24 hours, while Sri Lanka and Maldives have not reported any cases for many days.
+
+On the Overview tab at the WHO source URL, the epidemic curve of confirmed COVID-19 cases by WHO region, 30 Dec 2019 through 16 Sep 2021, is an excellent visual representation of the pandemic. - Mod.UBA]
+
+******
+[5] Global update: Worldometer accessed 16 Sep 2021 19: 04 EST (GMT-5)
+Date: Thu 16 Sep 2021
+Source: Worldometer [edited]
+https://www.worldometers.info/coronavirus/#countries
+
+
+[For those who wish to see the detailed global data, a snapshot of the Worldometer table at the time we accessed it is available at https://promedmail.org/wp-content/uploads/world-pdf/2021%20WORLDDATA%20SEPT16_1631909821.pdf.
+
+A 7-day series of cumulative data reported by countries, territories, and reporting entities can be found at https://promedmail.org/wp-content/uploads/world-pdf/2021%20SEPT16WORLD7_1631910184.pdf. - Mod.UBA]
+
+Total number of reported deaths: 4 683 970
+Total number of worldwide cases: 227 826 211
+Number of newly confirmed cases in the past 24 hours: 573 370
+
+--
+Communicated by:
+ProMED
+<promed@promedmail.org>
+
+[In the past 24 hours, 13 countries, including the USA (154 485), India (34 649), Brazil (34 404), Turkey (28 118), UK (26 791), Philippines (21 208), Russia (18 841), Malaysia (18 815), Iran (18 021), Thailand (13 897), Mexico (13 217), Germany (11 875), and Viet Nam (10 489), have reported the highest numbers of cases, all reporting more than 10 000 newly confirmed cases. A global total of 10 489 deaths were reported in the past 24 hours (late 14 Sep 2021 to late 15 Sep 2021). A total of 56 countries reported more than 1000 cases in the past 24 hours; 31 of the 56 countries are from the European region, 7 are from the Americas region, 6 are from the Eastern Mediterranean region, 4 are from the South East Asia region, 5 are from the Western Pacific region, and 3 from the African region.
+
+Comparing the 7-day averages of daily confirmed cases from the past 7 days and those from 8-14 days ago, case counts have decreased by 7.1%, while daily reported deaths have decreased by 3.9%. Similar comparative 7-day averages in the USA show a 2.3% decrease in daily reported cases and a 23.4% increase in reported deaths.
+
+Impression: The global daily report counted approximately 550 000 newly confirmed infections in the past 24 hours with over 227.82 million cumulative reported cases and over 4.68 million reported deaths. - Mod.UBA]
+
+[
+
+HealthMap/ProMED map:
+Worldwide: https://promedmail.org/promed-post?place=8679439,8854]
+See Also
+COVID-19 update (319): Israel booster doses, WHO 20210916.8674485
+COVID-19 update (318): animal, Spain (GA) mink, OIE 20210915.8670441
+COVID-19 update (317): COVID & flu dual threat, children, autoantibodies, WHO 20210915.8670656
+COVID-19 update (316): nursing home infections, boosters, non-COVID deaths, WHO 20210914.8668802
+COVID-19 update (315): animal, Mongolia, beaver, delta variant, 1st rep 20210914.8668125
+COVID-19 update (314): vaccines vs variants, updates, seniors, WHO 20210913.8666135
+COVID-19 update (313): animal, USA, zoo, gorilla 20210913.8665151
+COVID-19 update (312): kidney disease, vent.-assoc. spread, USA (FL) deaths, WHO 20210912.8663533
+COVID-19 update (311): vaccines, nursing homes, long COVID, eating disorders 20210911.8662043
+COVID-19 update (310): impact on women & children, Africa, mRNA vaccines, Israel 20210910.8660335
+COVID-19 update (309): USA, vaccines, mu variant, regional, WHO 20210909.8657658
+COVID-19 update (308): CEPI vaccine dev, mental health, pooling diagnostics, WHO 20210908.8655150
+COVID-19 update (307): updates, long COVID, WHO 20210907.8652259
+COVID-19 update (306): Moderna booster, mRNA vaccines, USA deaths, WHO 20210906.8649944
+COVID-19 update (305): Norway, vaccine efficacy, vaccination for children, WHO 20210905.8647604
+COVID-19 update (304): children and adolescents, delta and mu variants, WHO 20210904.8645927
+COVID-19 update (303): post-vacc. infection risk, Europe boosters, immunity, WHO 20210903.8643830
+COVID-19 update (302): animal, Sweden, mink, OIE 20210903.8643313
+COVID-19 update (301): long COVID, USA case surge, aspirin therapy, WHO 20210902.8641534
+COVID-19 update (300): Norway, myocarditis, schools, new variant C.1.2, WHO 20210901.8638460
+COVID-19 update (290): breakthrough infections, USA early deaths, boosters, WHO 20210823.8616260
+COVID-19 update (280): new variant B.1.621, Canada, regional, WHO 20210814.8595594
+COVID-19 update (270): myocarditis, pericarditis, Australia, WHO 20210806.8575370
+COVID-19 update (260): animal, USA, wild deer, exposure, RFI 20210729.8554149
+COVID-19 update (250): caregiver loss, school buses, mRNA vaccines, WHO 20210722.8538296
+COVID-19 update (200): animal, China, origin 20210608.8433657
+COVID-19 update (100): antibodies, vaccine, Thailand, Cambodia, WHO, global 20210316.8250009
+COVID-19 update (50): UK vaccine study, Brazil reinfection, WHO 20210205.8167161
+COVID-19 update (01): variants, vaccine, Thailand, global, WHO 20210101.80629382020
+2020
+----
+Undiagnosed pediatric inflammatory syndrome (06): COVID-19, heart, young adults 20200522.7364506
+COVID-19 update (562): viral load, UK vacc dose, ECDC, WHO 20201231.8061525
+COVID-19 update (01): China, global, EVZD, reporting criteria, WHO 20200213.6984084
+Novel coronavirus (42): China, global, COVID-19, SARS-CoV-2, WHO 20200211.6979942
+Novel coronavirus (01): China (HU) WHO, phylogenetic tree 20200112.6885385
+Undiagnosed pneumonia: China (HU) (10): genome available, Hong Kong surveill. 20200111.6883998
+Undiagnosed pneumonia: China (01): (HU) wildlife sales, market closed, RFI 20200102.6866757
+.................................................sb/lxl/uba/rd/may/lxl
+</body>
